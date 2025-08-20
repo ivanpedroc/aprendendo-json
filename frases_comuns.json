@@ -1,0 +1,4524 @@
+[
+    {
+        "topico": "frases_comuns",
+        "ingles": "Time",
+        "portugues": "Tempo",
+        "frase_ingles": "What time is it?",
+        "frase_portugues": "Que horas são?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Person",
+        "portugues": "Pessoa",
+        "frase_ingles": "He is a very good person.",
+        "frase_portugues": "Ele é uma pessoa muito boa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Year",
+        "portugues": "Ano",
+        "frase_ingles": "I started my new job last year.",
+        "frase_portugues": "Eu comecei meu novo emprego no ano passado."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Way",
+        "portugues": "Caminho / Jeito",
+        "frase_ingles": "I can't find my way back home.",
+        "frase_portugues": "Eu não consigo encontrar meu caminho de volta para casa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Day",
+        "portugues": "Dia",
+        "frase_ingles": "Have a nice day!",
+        "frase_portugues": "Tenha um bom dia!"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Thing",
+        "portugues": "Coisa",
+        "frase_ingles": "This is a very important thing.",
+        "frase_portugues": "Esta é uma coisa muito importante."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Man",
+        "portugues": "Homem",
+        "frase_ingles": "That man is my father.",
+        "frase_portugues": "Aquele homem é meu pai."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "World",
+        "portugues": "Mundo",
+        "frase_ingles": "The world is a very big place.",
+        "frase_portugues": "O mundo é um lugar muito grande."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Life",
+        "portugues": "Vida",
+        "frase_ingles": "She saved his life.",
+        "frase_portugues": "Ela salvou a vida dele."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Hand",
+        "portugues": "Mão",
+        "frase_ingles": "He shook my hand.",
+        "frase_portugues": "Ele apertou minha mão."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Part",
+        "portugues": "Parte",
+        "frase_ingles": "That's the best part of the movie.",
+        "frase_portugues": "Essa é a melhor parte do filme."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Child",
+        "portugues": "Criança",
+        "frase_ingles": "The child is playing in the park.",
+        "frase_portugues": "A criança está brincando no parque."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Eye",
+        "portugues": "Olho",
+        "frase_ingles": "She has beautiful blue eyes.",
+        "frase_portugues": "Ela tem lindos olhos azuis."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Woman",
+        "portugues": "Mulher",
+        "frase_ingles": "That woman is my boss.",
+        "frase_portugues": "Aquela mulher é minha chefe."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Place",
+        "portugues": "Lugar",
+        "frase_ingles": "This is a great place to visit.",
+        "frase_portugues": "Este é um ótimo lugar para visitar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Work",
+        "portugues": "Trabalho",
+        "frase_ingles": "I have a lot of work to do.",
+        "frase_portugues": "Eu tenho muito trabalho para fazer."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Week",
+        "portugues": "Semana",
+        "frase_ingles": "I will see you next week.",
+        "frase_portugues": "Eu te vejo na próxima semana."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Case",
+        "portugues": "Caso",
+        "frase_ingles": "The police are investigating the case.",
+        "frase_portugues": "A polícia está investigando o caso."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Point",
+        "portugues": "Ponto",
+        "frase_ingles": "What is the point of this?",
+        "frase_portugues": "Qual é o ponto disso?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Government",
+        "portugues": "Governo",
+        "frase_ingles": "The government made a new law.",
+        "frase_portugues": "O governo fez uma nova lei."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Company",
+        "portugues": "Empresa",
+        "frase_ingles": "She works for a large technology company.",
+        "frase_portugues": "Ela trabalha para uma grande empresa de tecnologia."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "System",
+        "portugues": "Sistema",
+        "frase_ingles": "The new security system is very effective.",
+        "frase_portugues": "O novo sistema de segurança é muito eficaz."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Program",
+        "portugues": "Programa",
+        "frase_ingles": "He wrote a computer program to help with the data.",
+        "frase_portugues": "Ele escreveu um programa de computador para ajudar com os dados."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Question",
+        "portugues": "Pergunta",
+        "frase_ingles": "I have a question about the test.",
+        "frase_portugues": "Eu tenho uma pergunta sobre o teste."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Number",
+        "portugues": "Número",
+        "frase_ingles": "What is your phone number?",
+        "frase_portugues": "Qual é o seu número de telefone?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Fact",
+        "portugues": "Fato",
+        "frase_ingles": "That's a well-known historical fact.",
+        "frase_portugues": "Esse é um fato histórico bem conhecido."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Problem",
+        "portugues": "Problema",
+        "frase_ingles": "We need to solve this problem quickly.",
+        "frase_portugues": "Nós precisamos resolver este problema rapidamente."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Right",
+        "portugues": "Direito",
+        "frase_ingles": "Everyone has the right to an education.",
+        "frase_portugues": "Todo mundo tem o direito à educação."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Home",
+        "portugues": "Casa / Lar",
+        "frase_ingles": "I'm going home after work.",
+        "frase_portugues": "Eu estou indo para casa depois do trabalho."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Service",
+        "portugues": "Serviço",
+        "frase_ingles": "The restaurant has excellent service.",
+        "frase_portugues": "O restaurante tem um serviço excelente."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Area",
+        "portugues": "Área",
+        "frase_ingles": "This area is known for its beautiful parks.",
+        "frase_portugues": "Esta área é conhecida por seus belos parques."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Water",
+        "portugues": "Água",
+        "frase_ingles": "Please give me a glass of water.",
+        "frase_portugues": "Por favor, me dê um copo de água."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Money",
+        "portugues": "Dinheiro",
+        "frase_ingles": "How much money do you need?",
+        "frase_portugues": "Quanto dinheiro você precisa?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Story",
+        "portugues": "História",
+        "frase_ingles": "She told me an interesting story.",
+        "frase_portugues": "Ela me contou uma história interessante."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Book",
+        "portugues": "Livro",
+        "frase_ingles": "I am reading a good book.",
+        "frase_portugues": "Eu estou lendo um bom livro."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "City",
+        "portugues": "Cidade",
+        "frase_ingles": "São Paulo is a very big city.",
+        "frase_portugues": "São Paulo é uma cidade muito grande."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Group",
+        "portugues": "Grupo",
+        "frase_ingles": "I am part of a study group.",
+        "frase_portugues": "Eu faço parte de um grupo de estudo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Family",
+        "portugues": "Família",
+        "frase_ingles": "My family lives far away.",
+        "frase_portugues": "Minha família mora longe."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Idea",
+        "portugues": "Ideia",
+        "frase_ingles": "That's a brilliant idea!",
+        "frase_portugues": "Essa é uma ideia brilhante!"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Body",
+        "portugues": "Corpo",
+        "frase_ingles": "The human body is complex.",
+        "frase_portugues": "O corpo humano é complexo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Information",
+        "portugues": "Informação",
+        "frase_ingles": "I need more information about this project.",
+        "frase_portugues": "Eu preciso de mais informações sobre este projeto."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "School",
+        "portugues": "Escola",
+        "frase_ingles": "My school is in the city center.",
+        "frase_portugues": "Minha escola fica no centro da cidade."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Center",
+        "portugues": "Centro",
+        "frase_ingles": "The main office is in the city center.",
+        "frase_portugues": "O escritório principal fica no centro da cidade."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Effect",
+        "portugues": "Efeito",
+        "frase_ingles": "The medicine had a positive effect.",
+        "frase_portugues": "O remédio teve um efeito positivo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Service",
+        "portugues": "Serviço",
+        "frase_ingles": "The restaurant provides an excellent service.",
+        "frase_portugues": "O restaurante oferece um serviço excelente."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Room",
+        "portugues": "Sala / Quarto",
+        "frase_ingles": "We need to clean the living room.",
+        "frase_portugues": "Nós precisamos limpar a sala de estar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Member",
+        "portugues": "Membro",
+        "frase_ingles": "He is a member of the sports club.",
+        "frase_portugues": "Ele é um membro do clube de esportes."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Class",
+        "portugues": "Aula / Classe",
+        "frase_ingles": "The class starts at 8 AM.",
+        "frase_portugues": "A aula começa às 8 da manhã."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Home",
+        "portugues": "Casa",
+        "frase_ingles": "Welcome to my new home.",
+        "frase_portugues": "Bem-vindo à minha nova casa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Unit",
+        "portugues": "Unidade",
+        "frase_ingles": "This is the first unit of the book.",
+        "frase_portugues": "Esta é a primeira unidade do livro."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Power",
+        "portugues": "Poder",
+        "frase_ingles": "The president has a lot of power.",
+        "frase_portugues": "O presidente tem muito poder."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Word",
+        "portugues": "Palavra",
+        "frase_ingles": "I learned a new word today.",
+        "frase_portugues": "Eu aprendi uma nova palavra hoje."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Team",
+        "portugues": "Time / Equipe",
+        "frase_ingles": "Our team won the championship.",
+        "frase_portugues": "Nosso time venceu o campeonato."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Game",
+        "portugues": "Jogo",
+        "frase_ingles": "The children are playing a game.",
+        "frase_portugues": "As crianças estão jogando um jogo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Line",
+        "portugues": "Linha",
+        "frase_ingles": "Please stand in line.",
+        "frase_portugues": "Por favor, fique na linha."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "End",
+        "portugues": "Fim",
+        "frase_ingles": "This is the end of the movie.",
+        "frase_portugues": "Este é o fim do filme."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Field",
+        "portugues": "Campo",
+        "frase_ingles": "The cows are in the field.",
+        "frase_portugues": "As vacas estão no campo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Air",
+        "portugues": "Ar",
+        "frase_ingles": "I love the fresh air in the morning.",
+        "frase_portugues": "Eu amo o ar fresco pela manhã."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Name",
+        "portugues": "Nome",
+        "frase_ingles": "What is your name?",
+        "frase_portugues": "Qual é o seu nome?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Teacher",
+        "portugues": "Professor(a)",
+        "frase_ingles": "My English teacher is very kind.",
+        "frase_portugues": "Meu professor(a) de inglês é muito gentil."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Student",
+        "portugues": "Estudante",
+        "frase_ingles": "The student is studying for the exam.",
+        "frase_portugues": "O estudante está estudando para a prova."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Class",
+        "portugues": "Aula / Turma",
+        "frase_ingles": "Our class went on a field trip.",
+        "frase_portugues": "Nossa turma fez uma viagem de campo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "City",
+        "portugues": "Cidade",
+        "frase_ingles": "I love living in a big city.",
+        "frase_portugues": "Eu amo morar em uma cidade grande."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Country",
+        "portugues": "País",
+        "frase_ingles": "Brazil is a beautiful country.",
+        "frase_portugues": "O Brasil é um país lindo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Problem",
+        "portugues": "Problema",
+        "frase_ingles": "We need to find a solution to this problem.",
+        "frase_portugues": "Precisamos encontrar uma solução para este problema."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Health",
+        "portugues": "Saúde",
+        "frase_ingles": "Eating well is important for your health.",
+        "frase_portugues": "Comer bem é importante para a sua saúde."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Idea",
+        "portugues": "Ideia",
+        "frase_ingles": "He had a great idea for the project.",
+        "frase_portugues": "Ele teve uma ótima ideia para o projeto."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Mind",
+        "portugues": "Mente",
+        "frase_ingles": "Keep an open mind.",
+        "frase_portugues": "Mantenha a mente aberta."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Moment",
+        "portugues": "Momento",
+        "frase_ingles": "I'll be there in a moment.",
+        "frase_portugues": "Eu estarei aí em um momento."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Age",
+        "portugues": "Idade",
+        "frase_ingles": "What is your age?",
+        "frase_portugues": "Qual é a sua idade?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Kind",
+        "portugues": "Tipo",
+        "frase_ingles": "What kind of music do you like?",
+        "frase_portugues": "Que tipo de música você gosta?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Change",
+        "portugues": "Mudança",
+        "frase_ingles": "I need to make a change in my life.",
+        "frase_portugues": "Eu preciso fazer uma mudança na minha vida."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Face",
+        "portugues": "Rosto",
+        "frase_ingles": "She has a beautiful face.",
+        "frase_portugues": "Ela tem um rosto bonito."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Voice",
+        "portugues": "Voz",
+        "frase_ingles": "He has a very deep voice.",
+        "frase_portugues": "Ele tem uma voz muito grave."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Side",
+        "portugues": "Lado",
+        "frase_ingles": "Please come to this side of the table.",
+        "frase_portugues": "Por favor, venha para este lado da mesa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Street",
+        "portugues": "Rua",
+        "frase_ingles": "The children are playing in the street.",
+        "frase_portugues": "As crianças estão brincando na rua."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Car",
+        "portugues": "Carro",
+        "frase_ingles": "I bought a new car.",
+        "frase_portugues": "Eu comprei um carro novo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Road",
+        "portugues": "Estrada",
+        "frase_ingles": "The road to the beach is long.",
+        "frase_portugues": "A estrada para a praia é longa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Law",
+        "portugues": "Lei",
+        "frase_ingles": "The new law will be effective next year.",
+        "frase_portugues": "A nova lei será eficaz no próximo ano."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Light",
+        "portugues": "Luz",
+        "frase_ingles": "Please turn off the light.",
+        "frase_portugues": "Por favor, apague a luz."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Business",
+        "portugues": "Negócio / Empresa",
+        "frase_ingles": "He started a new business last year.",
+        "frase_portugues": "Ele começou um novo negócio no ano passado."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Community",
+        "portugues": "Comunidade",
+        "frase_ingles": "We should help our local community.",
+        "frase_portugues": "Nós deveríamos ajudar nossa comunidade local."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "State",
+        "portugues": "Estado / Estado (país)",
+        "frase_ingles": "The president of the United States.",
+        "frase_portugues": "O presidente dos Estados Unidos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "History",
+        "portugues": "História",
+        "frase_ingles": "I am studying the history of art.",
+        "frase_portugues": "Eu estou estudando a história da arte."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Result",
+        "portugues": "Resultado",
+        "frase_ingles": "The exam results will be out next week.",
+        "frase_portugues": "Os resultados da prova sairão na próxima semana."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Process",
+        "portugues": "Processo",
+        "frase_ingles": "It's a long and complicated process.",
+        "frase_portugues": "É um processo longo e complicado."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Action",
+        "portugues": "Ação",
+        "frase_ingles": "The police took immediate action.",
+        "frase_portugues": "A polícia tomou uma ação imediata."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Decision",
+        "portugues": "Decisão",
+        "frase_ingles": "Making that decision was not easy.",
+        "frase_portugues": "Tomar essa decisão não foi fácil."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sense",
+        "portugues": "Sentido / Senso",
+        "frase_ingles": "It makes a lot of sense.",
+        "frase_portugues": "Isso faz muito sentido."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Level",
+        "portugues": "Nível",
+        "frase_ingles": "I want to improve my English level.",
+        "frase_portugues": "Eu quero melhorar meu nível de inglês."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Report",
+        "portugues": "Relatório",
+        "frase_ingles": "Can you send me the monthly report?",
+        "frase_portugues": "Você pode me enviar o relatório mensal?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Research",
+        "portugues": "Pesquisa",
+        "frase_ingles": "Her research is about human behavior.",
+        "frase_portugues": "A pesquisa dela é sobre o comportamento humano."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Control",
+        "portugues": "Controle",
+        "frase_ingles": "He lost control of the car.",
+        "frase_portugues": "Ele perdeu o controle do carro."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Development",
+        "portugues": "Desenvolvimento",
+        "frase_ingles": "The development of the new product took months.",
+        "frase_portugues": "O desenvolvimento do novo produto levou meses."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Market",
+        "portugues": "Mercado",
+        "frase_ingles": "The company wants to expand into a new market.",
+        "frase_portugues": "A empresa quer expandir para um novo mercado."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Nature",
+        "portugues": "Natureza",
+        "frase_ingles": "I love spending time in nature.",
+        "frase_portugues": "Eu amo passar tempo na natureza."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Matter",
+        "portugues": "Assunto / Questão",
+        "frase_ingles": "It's a matter of life and death.",
+        "frase_portugues": "É uma questão de vida ou morte."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Experience",
+        "portugues": "Experiência",
+        "frase_ingles": "She has a lot of experience in marketing.",
+        "frase_portugues": "Ela tem muita experiência em marketing."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Interest",
+        "portugues": "Interesse",
+        "frase_ingles": "I have a strong interest in science.",
+        "frase_portugues": "Eu tenho um forte interesse em ciência."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Knowledge",
+        "portugues": "Conhecimento",
+        "frase_ingles": "He has a vast knowledge of history.",
+        "frase_portugues": "Ele tem um vasto conhecimento de história."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Purpose",
+        "portugues": "Propósito",
+        "frase_ingles": "What is the purpose of this meeting?",
+        "frase_portugues": "Qual é o propósito desta reunião?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Factor",
+        "portugues": "Fator",
+        "frase_ingles": "Price is an important factor in my decision.",
+        "frase_portugues": "O preço é um fator importante na minha decisão."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Truth",
+        "portugues": "Verdade",
+        "frase_ingles": "Tell me the truth, please.",
+        "frase_portugues": "Me diga a verdade, por favor."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Theory",
+        "portugues": "Teoria",
+        "frase_ingles": "His theory explains the phenomenon well.",
+        "frase_portugues": "A teoria dele explica bem o fenômeno."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Culture",
+        "portugues": "Cultura",
+        "frase_ingles": "I am learning about Japanese culture.",
+        "frase_portugues": "Eu estou aprendendo sobre a cultura japonesa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Language",
+        "portugues": "Linguagem / Idioma",
+        "frase_ingles": "English is a global language.",
+        "frase_portugues": "O inglês é um idioma global."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Effort",
+        "portugues": "Esforço",
+        "frase_ingles": "He put a lot of effort into this project.",
+        "frase_portugues": "Ele colocou muito esforço neste projeto."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Security",
+        "portugues": "Segurança",
+        "frase_ingles": "The company takes security very seriously.",
+        "frase_portugues": "A empresa leva a segurança muito a sério."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Reason",
+        "portugues": "Razão / Motivo",
+        "frase_ingles": "What is the reason for this change?",
+        "frase_portugues": "Qual é a razão para esta mudança?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Method",
+        "portugues": "Método",
+        "frase_ingles": "This method is very effective for learning.",
+        "frase_portugues": "Este método é muito eficaz para aprender."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Art",
+        "portugues": "Arte",
+        "frase_ingles": "I love visiting art museums.",
+        "frase_portugues": "Eu amo visitar museus de arte."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Music",
+        "portugues": "Música",
+        "frase_ingles": "What kind of music do you like?",
+        "frase_portugues": "Que tipo de música você gosta?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Movie",
+        "portugues": "Filme",
+        "frase_ingles": "Let's watch a movie tonight.",
+        "frase_portugues": "Vamos assistir a um filme hoje à noite."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Player",
+        "portugues": "Jogador(a)",
+        "frase_ingles": "He is the best player on the team.",
+        "frase_portugues": "Ele é o melhor jogador do time."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Food",
+        "portugues": "Comida",
+        "frase_ingles": "I am cooking some delicious food.",
+        "frase_portugues": "Eu estou cozinhando uma comida deliciosa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Paper",
+        "portugues": "Papel",
+        "frase_ingles": "Can you give me a piece of paper?",
+        "frase_portugues": "Você pode me dar um pedaço de papel?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Table",
+        "portugues": "Mesa",
+        "frase_ingles": "Please set the table for dinner.",
+        "frase_portugues": "Por favor, arrume a mesa para o jantar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Chair",
+        "portugues": "Cadeira",
+        "frase_ingles": "The new chair is very comfortable.",
+        "frase_portugues": "A nova cadeira é muito confortável."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "House",
+        "portugues": "Casa",
+        "frase_ingles": "My house has a small garden.",
+        "frase_portugues": "Minha casa tem um pequeno jardim."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Door",
+        "portugues": "Porta",
+        "frase_ingles": "The door is open.",
+        "frase_portugues": "A porta está aberta."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Window",
+        "portugues": "Janela",
+        "frase_ingles": "Please open the window, it's hot in here.",
+        "frase_portugues": "Por favor, abra a janela, está quente aqui."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Floor",
+        "portugues": "Chão / Andar",
+        "frase_ingles": "The cat is sleeping on the floor.",
+        "frase_portugues": "O gato está dormindo no chão."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Wall",
+        "portugues": "Parede",
+        "frase_ingles": "I want to paint this wall blue.",
+        "frase_portugues": "Eu quero pintar esta parede de azul."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Roof",
+        "portugues": "Telhado",
+        "frase_ingles": "The house has a red tile roof.",
+        "frase_portugues": "A casa tem um telhado de telhas vermelhas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Garden",
+        "portugues": "Jardim",
+        "frase_ingles": "I like to sit in the garden.",
+        "frase_portugues": "Eu gosto de sentar no jardim."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Kitchen",
+        "portugues": "Cozinha",
+        "frase_ingles": "My mother is cooking dinner in the kitchen.",
+        "frase_portugues": "Minha mãe está cozinhando o jantar na cozinha."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bedroom",
+        "portugues": "Quarto",
+        "frase_ingles": "The bedroom is on the second floor.",
+        "frase_portugues": "O quarto fica no segundo andar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bathroom",
+        "portugues": "Banheiro",
+        "frase_ingles": "The bathroom is right next to the living room.",
+        "frase_portugues": "O banheiro fica bem ao lado da sala."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sofa",
+        "portugues": "Sofá",
+        "frase_ingles": "I am watching TV on the sofa.",
+        "frase_portugues": "Eu estou assistindo TV no sofá."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bed",
+        "portugues": "Cama",
+        "frase_ingles": "I am tired and I want to go to bed.",
+        "frase_portugues": "Estou cansado e quero ir para a cama."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Lamp",
+        "portugues": "Lâmpada / Abajur",
+        "frase_ingles": "Please turn on the lamp.",
+        "frase_portugues": "Por favor, acenda o abajur."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "TV",
+        "portugues": "TV",
+        "frase_ingles": "The TV is too loud.",
+        "frase_portugues": "A TV está muito alta."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Phone",
+        "portugues": "Telefone",
+        "frase_ingles": "He is talking on the phone.",
+        "frase_portugues": "Ele está falando no telefone."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Computer",
+        "portugues": "Computador",
+        "frase_ingles": "I need to buy a new computer.",
+        "frase_portugues": "Eu preciso comprar um computador novo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Pen",
+        "portugues": "Caneta",
+        "frase_ingles": "Do you have a pen I can borrow?",
+        "frase_portugues": "Você tem uma caneta que eu possa pegar emprestada?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Key",
+        "portugues": "Chave",
+        "frase_ingles": "I can't find my car keys.",
+        "frase_portugues": "Eu não consigo encontrar as chaves do meu carro."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bicycle",
+        "portugues": "Bicicleta",
+        "frase_ingles": "I ride my bicycle to work every day.",
+        "frase_portugues": "Eu vou de bicicleta para o trabalho todos os dias."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bus",
+        "portugues": "Ônibus",
+        "frase_ingles": "The bus is late today.",
+        "frase_portugues": "O ônibus está atrasado hoje."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bridge",
+        "portugues": "Ponte",
+        "frase_ingles": "We walked across the old stone bridge.",
+        "frase_portugues": "Nós caminhamos pela velha ponte de pedra."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Park",
+        "portugues": "Parque",
+        "frase_ingles": "The children are playing in the park.",
+        "frase_portugues": "As crianças estão brincando no parque."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "River",
+        "portugues": "Rio",
+        "frase_ingles": "The river flows into the sea.",
+        "frase_portugues": "O rio deságua no mar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Mountain",
+        "portugues": "Montanha",
+        "frase_ingles": "The mountain peak was covered in snow.",
+        "frase_portugues": "O pico da montanha estava coberto de neve."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sea",
+        "portugues": "Mar",
+        "frase_ingles": "I love swimming in the warm sea.",
+        "frase_portugues": "Eu adoro nadar no mar quente."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Ocean",
+        "portugues": "Oceano",
+        "frase_ingles": "The Pacific Ocean is the largest ocean.",
+        "frase_portugues": "O Oceano Pacífico é o maior oceano."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Beach",
+        "portugues": "Praia",
+        "frase_ingles": "We spent the day relaxing on the beach.",
+        "frase_portugues": "Nós passamos o dia relaxando na praia."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Forest",
+        "portugues": "Floresta",
+        "frase_ingles": "Many wild animals live in the forest.",
+        "frase_portugues": "Muitos animais selvagens vivem na floresta."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Tree",
+        "portugues": "Árvore",
+        "frase_ingles": "There is a big tree in our backyard.",
+        "frase_portugues": "Há uma grande árvore no nosso quintal."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Flower",
+        "portugues": "Flor",
+        "frase_ingles": "She planted a beautiful red flower.",
+        "frase_portugues": "Ela plantou uma linda flor vermelha."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Animal",
+        "portugues": "Animal",
+        "frase_ingles": "My favorite animal is the elephant.",
+        "frase_portugues": "Meu animal favorito é o elefante."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bird",
+        "portugues": "Pássaro",
+        "frase_ingles": "A small bird was singing on the branch.",
+        "frase_portugues": "Um pequeno pássaro estava cantando no galho."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Fish",
+        "portugues": "Peixe",
+        "frase_ingles": "We had fish for dinner tonight.",
+        "frase_portugues": "Nós comemos peixe no jantar hoje."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sky",
+        "portugues": "Céu",
+        "frase_ingles": "The sky is clear and blue.",
+        "frase_portugues": "O céu está limpo e azul."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sun",
+        "portugues": "Sol",
+        "frase_ingles": "The sun is shining brightly today.",
+        "frase_portugues": "O sol está brilhando intensamente hoje."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Moon",
+        "portugues": "Lua",
+        "frase_ingles": "The moon looks beautiful tonight.",
+        "frase_portugues": "A lua está linda esta noite."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Star",
+        "portugues": "Estrela",
+        "frase_ingles": "I saw a shooting star.",
+        "frase_portugues": "Eu vi uma estrela cadente."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Weather",
+        "portugues": "Tempo (clima)",
+        "frase_ingles": "The weather is perfect for a walk.",
+        "frase_portugues": "O tempo está perfeito para uma caminhada."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bridge",
+        "portugues": "Ponte",
+        "frase_ingles": "We walked across the old stone bridge.",
+        "frase_portugues": "Nós caminhamos pela velha ponte de pedra."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Park",
+        "portugues": "Parque",
+        "frase_ingles": "The children are playing in the park.",
+        "frase_portugues": "As crianças estão brincando no parque."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "River",
+        "portugues": "Rio",
+        "frase_ingles": "The river flows into the sea.",
+        "frase_portugues": "O rio deságua no mar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Mountain",
+        "portugues": "Montanha",
+        "frase_ingles": "The mountain peak was covered in snow.",
+        "frase_portugues": "O pico da montanha estava coberto de neve."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sea",
+        "portugues": "Mar",
+        "frase_ingles": "I love swimming in the warm sea.",
+        "frase_portugues": "Eu adoro nadar no mar quente."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Ocean",
+        "portugues": "Oceano",
+        "frase_ingles": "The Pacific Ocean is the largest ocean.",
+        "frase_portugues": "O Oceano Pacífico é o maior oceano."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Beach",
+        "portugues": "Praia",
+        "frase_ingles": "We spent the day relaxing on the beach.",
+        "frase_portugues": "Nós passamos o dia relaxando na praia."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Forest",
+        "portugues": "Floresta",
+        "frase_ingles": "Many wild animals live in the forest.",
+        "frase_portugues": "Muitos animais selvagens vivem na floresta."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Tree",
+        "portugues": "Árvore",
+        "frase_ingles": "There is a big tree in our backyard.",
+        "frase_portugues": "Há uma grande árvore no nosso quintal."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Flower",
+        "portugues": "Flor",
+        "frase_ingles": "She planted a beautiful red flower.",
+        "frase_portugues": "Ela plantou uma linda flor vermelha."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Animal",
+        "portugues": "Animal",
+        "frase_ingles": "My favorite animal is the elephant.",
+        "frase_portugues": "Meu animal favorito é o elefante."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bird",
+        "portugues": "Pássaro",
+        "frase_ingles": "A small bird was singing on the branch.",
+        "frase_portugues": "Um pequeno pássaro estava cantando no galho."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Fish",
+        "portugues": "Peixe",
+        "frase_ingles": "We had fish for dinner tonight.",
+        "frase_portugues": "Nós comemos peixe no jantar hoje."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sky",
+        "portugues": "Céu",
+        "frase_ingles": "The sky is clear and blue.",
+        "frase_portugues": "O céu está limpo e azul."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sun",
+        "portugues": "Sol",
+        "frase_ingles": "The sun is shining brightly today.",
+        "frase_portugues": "O sol está brilhando intensamente hoje."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Moon",
+        "portugues": "Lua",
+        "frase_ingles": "The moon looks beautiful tonight.",
+        "frase_portugues": "A lua está linda esta noite."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Star",
+        "portugues": "Estrela",
+        "frase_ingles": "I saw a shooting star.",
+        "frase_portugues": "Eu vi uma estrela cadente."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Weather",
+        "portugues": "Tempo (clima)",
+        "frase_ingles": "The weather is perfect for a walk.",
+        "frase_portugues": "O tempo está perfeito para uma caminhada."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Future",
+        "portugues": "Futuro",
+        "frase_ingles": "What are your plans for the future?",
+        "frase_portugues": "Quais são seus planos para o futuro?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Past",
+        "portugues": "Passado",
+        "frase_ingles": "We should learn from the past.",
+        "frase_portugues": "Nós deveríamos aprender com o passado."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Present",
+        "portugues": "Presente",
+        "frase_ingles": "Live in the present moment.",
+        "frase_portugues": "Viva no momento presente."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Death",
+        "portugues": "Morte",
+        "frase_ingles": "They studied the cycle of life and death.",
+        "frase_portugues": "Eles estudaram o ciclo da vida e da morte."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Love",
+        "portugues": "Amor",
+        "frase_ingles": "Love is the most powerful feeling.",
+        "frase_portugues": "O amor é o sentimento mais poderoso."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Hate",
+        "portugues": "Ódio",
+        "frase_ingles": "Hate can be a very destructive emotion.",
+        "frase_portugues": "O ódio pode ser uma emoção muito destrutiva."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Joy",
+        "portugues": "Alegria",
+        "frase_ingles": "The children's joy was contagious.",
+        "frase_portugues": "A alegria das crianças era contagiante."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sadness",
+        "portugues": "Tristeza",
+        "frase_ingles": "He felt a deep sadness after the loss.",
+        "frase_portugues": "Ele sentiu uma profunda tristeza após a perda."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Fear",
+        "portugues": "Medo",
+        "frase_ingles": "Her biggest fear is speaking in public.",
+        "frase_portugues": "O maior medo dela é falar em público."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Hope",
+        "portugues": "Esperança",
+        "frase_ingles": "There is always hope for a better tomorrow.",
+        "frase_portugues": "Sempre há esperança para um amanhã melhor."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Dream",
+        "portugues": "Sonho",
+        "frase_ingles": "I had a strange dream last night.",
+        "frase_portugues": "Eu tive um sonho estranho na noite passada."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Reality",
+        "portugues": "Realidade",
+        "frase_ingles": "You need to face reality.",
+        "frase_portugues": "Você precisa encarar a realidade."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Lie",
+        "portugues": "Mentira",
+        "frase_ingles": "Telling a lie can cause a lot of problems.",
+        "frase_portugues": "Contar uma mentira pode causar muitos problemas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Thought",
+        "portugues": "Pensamento",
+        "frase_ingles": "A positive thought can change your day.",
+        "frase_portugues": "Um pensamento positivo pode mudar o seu dia."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Heart",
+        "portugues": "Coração",
+        "frase_ingles": "He has a kind heart.",
+        "frase_portugues": "Ele tem um coração bondoso."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Soul",
+        "portugues": "Alma",
+        "frase_ingles": "She believes in the immortality of the soul.",
+        "frase_portugues": "Ela acredita na imortalidade da alma."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Spirit",
+        "portugues": "Espírito",
+        "frase_ingles": "The team showed great spirit.",
+        "frase_portugues": "A equipe mostrou um grande espírito."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Faith",
+        "portugues": "Fé",
+        "frase_ingles": "Have faith in yourself.",
+        "frase_portugues": "Tenha fé em si mesmo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Luck",
+        "portugues": "Sorte",
+        "frase_ingles": "I hope I have good luck in the interview.",
+        "frase_portugues": "Eu espero ter boa sorte na entrevista."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Table",
+        "portugues": "Mesa",
+        "frase_ingles": "We gathered around the table to eat.",
+        "frase_portugues": "Nós nos reunimos em volta da mesa para comer."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Chair",
+        "portugues": "Cadeira",
+        "frase_ingles": "He pulled a chair up to the desk.",
+        "frase_portugues": "Ele puxou uma cadeira para perto da escrivaninha."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sofa",
+        "portugues": "Sofá",
+        "frase_ingles": "I like to read a book on the sofa.",
+        "frase_portugues": "Eu gosto de ler um livro no sofá."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bed",
+        "portugues": "Cama",
+        "frase_ingles": "I have a new bed that is very comfortable.",
+        "frase_portugues": "Eu tenho uma cama nova que é muito confortável."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Door",
+        "portugues": "Porta",
+        "frase_ingles": "Please close the door behind you.",
+        "frase_portugues": "Por favor, feche a porta atrás de você."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Window",
+        "portugues": "Janela",
+        "frase_ingles": "The window was open, letting in fresh air.",
+        "frase_portugues": "A janela estava aberta, deixando o ar fresco entrar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Key",
+        "portugues": "Chave",
+        "frase_ingles": "I can't find my house key.",
+        "frase_portugues": "Eu não consigo encontrar a chave da minha casa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Phone",
+        "portugues": "Telefone",
+        "frase_ingles": "My phone is ringing.",
+        "frase_portugues": "Meu telefone está tocando."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Computer",
+        "portugues": "Computador",
+        "frase_ingles": "I use my computer for work and for entertainment.",
+        "frase_portugues": "Eu uso meu computador para trabalhar e para me divertir."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Book",
+        "portugues": "Livro",
+        "frase_ingles": "This book is very interesting.",
+        "frase_portugues": "Este livro é muito interessante."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Pen",
+        "portugues": "Caneta",
+        "frase_ingles": "I need a pen to sign this document.",
+        "frase_portugues": "Eu preciso de uma caneta para assinar este documento."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Pencil",
+        "portugues": "Lápis",
+        "frase_ingles": "The student wrote with a pencil.",
+        "frase_portugues": "O estudante escreveu com um lápis."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bag",
+        "portugues": "Bolsa / Sacola",
+        "frase_ingles": "She put her wallet in her bag.",
+        "frase_portugues": "Ela colocou a carteira dela na bolsa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Wallet",
+        "portugues": "Carteira",
+        "frase_ingles": "I forgot my wallet at home.",
+        "frase_portugues": "Eu esqueci minha carteira em casa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Watch",
+        "portugues": "Relógio (de pulso)",
+        "frase_ingles": "He looked at his watch to check the time.",
+        "frase_portugues": "Ele olhou para o relógio dele para ver as horas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Clock",
+        "portugues": "Relógio (de parede/mesa)",
+        "frase_ingles": "The clock on the wall says it's three o'clock.",
+        "frase_portugues": "O relógio na parede diz que são três horas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Cup",
+        "portugues": "Xícara / Copo",
+        "frase_ingles": "She drank a cup of coffee.",
+        "frase_portugues": "Ela bebeu uma xícara de café."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Plate",
+        "portugues": "Prato",
+        "frase_ingles": "I put the food on a clean plate.",
+        "frase_portugues": "Eu coloquei a comida em um prato limpo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Fork",
+        "portugues": "Garfo",
+        "frase_ingles": "Please hand me a fork.",
+        "frase_portugues": "Por favor, me passe um garfo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Spoon",
+        "portugues": "Colher",
+        "frase_ingles": "I used a spoon to eat the soup.",
+        "frase_portugues": "Eu usei uma colher para comer a sopa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Knife",
+        "portugues": "Faca",
+        "frase_ingles": "Be careful with that knife, it's sharp.",
+        "frase_portugues": "Tome cuidado com essa faca, ela é afiada."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Screen",
+        "portugues": "Tela",
+        "frase_ingles": "My phone screen is cracked.",
+        "frase_portugues": "A tela do meu telefone está rachada."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Keyboard",
+        "portugues": "Teclado",
+        "frase_ingles": "I need to clean my computer keyboard.",
+        "frase_portugues": "Eu preciso limpar o teclado do meu computador."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Mouse",
+        "portugues": "Mouse",
+        "frase_ingles": "The wireless mouse is very convenient.",
+        "frase_portugues": "O mouse sem fio é muito conveniente."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Headphones",
+        "portugues": "Fones de ouvido",
+        "frase_ingles": "I always listen to music with my headphones.",
+        "frase_portugues": "Eu sempre ouço música com meus fones de ouvido."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Speaker",
+        "portugues": "Caixa de som",
+        "frase_ingles": "The new speakers have a great sound.",
+        "frase_portugues": "As novas caixas de som têm um som ótimo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Printer",
+        "portugues": "Impressora",
+        "frase_ingles": "Can you print this document for me?",
+        "frase_portugues": "Você pode imprimir este documento para mim?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Camera",
+        "portugues": "Câmera",
+        "frase_ingles": "She took a picture with her new camera.",
+        "frase_portugues": "Ela tirou uma foto com sua nova câmera."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Microphone",
+        "portugues": "Microfone",
+        "frase_ingles": "The singer sang into the microphone.",
+        "frase_portugues": "O cantor cantou no microfone."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Battery",
+        "portugues": "Bateria",
+        "frase_ingles": "The battery of my laptop is dead.",
+        "frase_portugues": "A bateria do meu notebook está descarregada."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Cable",
+        "portugues": "Cabo",
+        "frase_ingles": "I need a new charging cable.",
+        "frase_portugues": "Eu preciso de um novo cabo de carregamento."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Charger",
+        "portugues": "Carregador",
+        "frase_ingles": "I forgot my phone charger at home.",
+        "frase_portugues": "Eu esqueci meu carregador de telefone em casa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Flashlight",
+        "portugues": "Lanterna",
+        "frase_ingles": "We used a flashlight to see in the dark.",
+        "frase_portugues": "Nós usamos uma lanterna para enxergar no escuro."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Scissors",
+        "portugues": "Tesoura",
+        "frase_ingles": "I need scissors to cut this paper.",
+        "frase_portugues": "Eu preciso de tesoura para cortar este papel."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Glue",
+        "portugues": "Cola",
+        "frase_ingles": "The children used glue to make their crafts.",
+        "frase_portugues": "As crianças usaram cola para fazer seus artesanatos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Tape",
+        "portugues": "Fita adesiva",
+        "frase_ingles": "Can you give me some tape?",
+        "frase_portugues": "Você pode me dar um pouco de fita adesiva?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Ruler",
+        "portugues": "Régua",
+        "frase_ingles": "I used a ruler to draw a straight line.",
+        "frase_portugues": "Eu usei uma régua para desenhar uma linha reta."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Eraser",
+        "portugues": "Borracha",
+        "frase_ingles": "I made a mistake, so I need to use an eraser.",
+        "frase_portugues": "Eu cometi um erro, então eu preciso usar uma borracha."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Backpack",
+        "portugues": "Mochila",
+        "frase_ingles": "He carried his books in his backpack.",
+        "frase_portugues": "Ele carregava seus livros na mochila."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bottle",
+        "portugues": "Garrafa",
+        "frase_ingles": "I filled my water bottle before leaving.",
+        "frase_portugues": "Eu enchi minha garrafa de água antes de sair."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Mirror",
+        "portugues": "Espelho",
+        "frase_ingles": "She looked at herself in the mirror.",
+        "frase_portugues": "Ela olhou para si mesma no espelho."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Glass",
+        "portugues": "Copo (de vidro)",
+        "frase_ingles": "He poured some water into a glass.",
+        "frase_portugues": "Ele colocou um pouco de água em um copo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bowl",
+        "portugues": "Tigela",
+        "frase_ingles": "I ate my soup in a large bowl.",
+        "frase_portugues": "Eu comi minha sopa em uma tigela grande."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Pan",
+        "portugues": "Frigideira",
+        "frase_ingles": "She used a pan to fry the eggs.",
+        "frase_portugues": "Ela usou uma frigideira para fritar os ovos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Pot",
+        "portugues": "Panela",
+        "frase_ingles": "I used a large pot to boil the pasta.",
+        "frase_portugues": "Eu usei uma panela grande para ferver o macarrão."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Oven",
+        "portugues": "Forno",
+        "frase_ingles": "The cake is baking in the oven.",
+        "frase_portugues": "O bolo está assando no forno."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Refrigerator",
+        "portugues": "Geladeira",
+        "frase_ingles": "Please put the milk back in the refrigerator.",
+        "frase_portugues": "Por favor, coloque o leite de volta na geladeira."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Microwave",
+        "portugues": "Micro-ondas",
+        "frase_ingles": "He heated his food in the microwave.",
+        "frase_portugues": "Ele aqueceu sua comida no micro-ondas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Shirt",
+        "portugues": "Camisa",
+        "frase_ingles": "He wore a long-sleeved shirt.",
+        "frase_portugues": "Ele vestiu uma camisa de manga comprida."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "T-shirt",
+        "portugues": "Camiseta",
+        "frase_ingles": "I have a new T-shirt with a cool design.",
+        "frase_portugues": "Eu tenho uma camiseta nova com um design legal."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Pants",
+        "portugues": "Calça",
+        "frase_ingles": "I need to buy a new pair of pants.",
+        "frase_portugues": "Eu preciso comprar uma calça nova."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Jeans",
+        "portugues": "Calça jeans",
+        "frase_ingles": "She was wearing blue jeans and a white T-shirt.",
+        "frase_portugues": "Ela estava vestindo calça jeans e uma camiseta branca."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Dress",
+        "portugues": "Vestido",
+        "frase_ingles": "She bought a beautiful dress for the party.",
+        "frase_portugues": "Ela comprou um vestido lindo para a festa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Skirt",
+        "portugues": "Saia",
+        "frase_ingles": "My skirt is long and black.",
+        "frase_portugues": "Minha saia é longa e preta."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Shoe",
+        "portugues": "Sapato",
+        "frase_ingles": "I need to tie my shoe.",
+        "frase_portugues": "Eu preciso amarrar meu sapato."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sock",
+        "portugues": "Meia",
+        "frase_ingles": "I can't find the other sock.",
+        "frase_portugues": "Eu não consigo encontrar a outra meia."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Hat",
+        "portugues": "Chapéu",
+        "frase_ingles": "He was wearing a hat to protect him from the sun.",
+        "frase_portugues": "Ele estava usando um chapéu para se proteger do sol."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Coat",
+        "portugues": "Casaco",
+        "frase_ingles": "It's cold outside, so I need my coat.",
+        "frase_portugues": "Está frio lá fora, então eu preciso do meu casaco."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Jacket",
+        "portugues": "Jaqueta",
+        "frase_ingles": "He put on a light jacket.",
+        "frase_portugues": "Ele vestiu uma jaqueta leve."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Suitcase",
+        "portugues": "Mala",
+        "frase_ingles": "I packed my clothes in a large suitcase.",
+        "frase_portugues": "Eu arrumei minhas roupas em uma mala grande."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Passport",
+        "portugues": "Passaporte",
+        "frase_ingles": "Don't forget your passport at the airport.",
+        "frase_portugues": "Não se esqueça do seu passaporte no aeroporto."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Ticket",
+        "portugues": "Bilhete / Passagem",
+        "frase_ingles": "I bought a ticket for the train.",
+        "frase_portugues": "Eu comprei um bilhete para o trem."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Map",
+        "portugues": "Mapa",
+        "frase_ingles": "We used a map to find our way.",
+        "frase_portugues": "Nós usamos um mapa para encontrar o nosso caminho."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Tent",
+        "portugues": "Barraca",
+        "frase_ingles": "We set up a tent to camp in the forest.",
+        "frase_portugues": "Nós montamos uma barraca para acampar na floresta."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Ball",
+        "portugues": "Bola",
+        "frase_ingles": "The kids were playing with a ball in the park.",
+        "frase_portugues": "As crianças estavam brincando com uma bola no parque."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bat",
+        "portugues": "Taco (de beisebol)",
+        "frase_ingles": "He hit the ball with the bat.",
+        "frase_portugues": "Ele bateu na bola com o taco."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Racket",
+        "portugues": "Raquete",
+        "frase_ingles": "She brought her tennis racket to the club.",
+        "frase_portugues": "Ela trouxe sua raquete de tênis para o clube."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Skateboard",
+        "portugues": "Skate",
+        "frase_ingles": "He can do amazing tricks on his skateboard.",
+        "frase_portugues": "Ele consegue fazer truques incríveis em seu skate."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Guitar",
+        "portugues": "Violão / Guitarra",
+        "frase_ingles": "I'm learning to play the guitar.",
+        "frase_portugues": "Eu estou aprendendo a tocar violão."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Piano",
+        "portugues": "Piano",
+        "frase_ingles": "She can play the piano very well.",
+        "frase_portugues": "Ela consegue tocar piano muito bem."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Paintbrush",
+        "portugues": "Pincel",
+        "frase_ingles": "The artist dipped the paintbrush in the paint.",
+        "frase_portugues": "O artista mergulhou o pincel na tinta."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Canvas",
+        "portugues": "Tela (de pintura)",
+        "frase_ingles": "The painter bought a new canvas.",
+        "frase_portugues": "O pintor comprou uma nova tela."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Laptop",
+        "portugues": "Notebook",
+        "frase_ingles": "I use my laptop for work and watching movies.",
+        "frase_portugues": "Eu uso meu notebook para trabalhar e assistir a filmes."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Puzzle",
+        "portugues": "Quebra-cabeça",
+        "frase_ingles": "We spent hours working on the puzzle.",
+        "frase_portugues": "Nós passamos horas montando o quebra-cabeça."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Board game",
+        "portugues": "Jogo de tabuleiro",
+        "frase_ingles": "We played a fun board game with the family.",
+        "frase_portugues": "Nós jogamos um divertido jogo de tabuleiro com a família."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Deck of cards",
+        "portugues": "Baralho de cartas",
+        "frase_ingles": "Let's play a game with a deck of cards.",
+        "frase_portugues": "Vamos jogar um jogo com um baralho de cartas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Fishing rod",
+        "portugues": "Vara de pescar",
+        "frase_ingles": "He went fishing with his new fishing rod.",
+        "frase_portugues": "Ele foi pescar com sua nova vara de pescar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Towel",
+        "portugues": "Toalha",
+        "frase_ingles": "Please dry your hands with a clean towel.",
+        "frase_portugues": "Por favor, seque suas mãos com uma toalha limpa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Hammer",
+        "portugues": "Martelo",
+        "frase_ingles": "He used a hammer to hit the nail.",
+        "frase_portugues": "Ele usou um martelo para bater no prego."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Nail",
+        "portugues": "Prego",
+        "frase_ingles": "I need to put a picture on the wall with a nail.",
+        "frase_portugues": "Eu preciso colocar um quadro na parede com um prego."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Saw",
+        "portugues": "Serra",
+        "frase_ingles": "He used a saw to cut the wood.",
+        "frase_portugues": "Ele usou uma serra para cortar a madeira."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Drill",
+        "portugues": "Furadeira",
+        "frase_ingles": "You need a drill to make a hole in the wall.",
+        "frase_portugues": "Você precisa de uma furadeira para fazer um buraco na parede."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Screwdriver",
+        "portugues": "Chave de fenda",
+        "frase_ingles": "I need a screwdriver to fix the cabinet.",
+        "frase_portugues": "Eu preciso de uma chave de fenda para consertar o armário."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Screw",
+        "portugues": "Parafuso",
+        "frase_ingles": "The screw came loose from the table.",
+        "frase_portugues": "O parafuso se soltou da mesa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Wrench",
+        "portugues": "Chave inglesa",
+        "frase_ingles": "He used a wrench to tighten the bolt.",
+        "frase_portugues": "Ele usou uma chave inglesa para apertar o parafuso."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Ladder",
+        "portugues": "Escada (portátil)",
+        "frase_ingles": "I need a ladder to reach the top shelf.",
+        "frase_portugues": "Eu preciso de uma escada para alcançar a prateleira de cima."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Paint",
+        "portugues": "Tinta",
+        "frase_ingles": "We are going to buy paint for the living room.",
+        "frase_portugues": "Nós vamos comprar tinta para a sala."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Brush",
+        "portugues": "Pincel",
+        "frase_ingles": "He used a brush to apply the paint.",
+        "frase_portugues": "Ele usou um pincel para aplicar a tinta."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bucket",
+        "portugues": "Balde",
+        "frase_ingles": "I filled the bucket with water.",
+        "frase_portugues": "Eu enchi o balde com água."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Truck",
+        "portugues": "Caminhão",
+        "frase_ingles": "A big truck was carrying the furniture.",
+        "frase_portugues": "Um grande caminhão estava transportando a mobília."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Train",
+        "portugues": "Trem",
+        "frase_ingles": "I took the train to get to the city.",
+        "frase_portugues": "Eu peguei o trem para chegar à cidade."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Plane",
+        "portugues": "Avião",
+        "frase_ingles": "The plane took off from the airport.",
+        "frase_portugues": "O avião decolou do aeroporto."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Boat",
+        "portugues": "Barco",
+        "frase_ingles": "We took a boat trip on the lake.",
+        "frase_portugues": "Nós fizemos um passeio de barco no lago."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Motorcycle",
+        "portugues": "Moto",
+        "frase_ingles": "He rides a motorcycle to work.",
+        "frase_portugues": "Ele anda de moto para o trabalho."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Helmet",
+        "portugues": "Capacete",
+        "frase_ingles": "Always wear a helmet when you ride a bike.",
+        "frase_portugues": "Sempre use um capacete quando você andar de bicicleta."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Engine",
+        "portugues": "Motor",
+        "frase_ingles": "The car engine made a strange noise.",
+        "frase_portugues": "O motor do carro fez um barulho estranho."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Wheel",
+        "portugues": "Roda",
+        "frase_ingles": "A flat wheel can stop a car.",
+        "frase_portugues": "Uma roda murcha pode parar um carro."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Money",
+        "portugues": "Dinheiro",
+        "frase_ingles": "I need to withdraw some money from the bank.",
+        "frase_portugues": "Eu preciso sacar dinheiro do banco."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Credit card",
+        "portugues": "Cartão de crédito",
+        "frase_ingles": "Can I pay with a credit card?",
+        "frase_portugues": "Posso pagar com cartão de crédito?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Cash",
+        "portugues": "Dinheiro (em espécie)",
+        "frase_ingles": "I only have cash on me.",
+        "frase_portugues": "Eu só tenho dinheiro em espécie comigo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Coin",
+        "portugues": "Moeda",
+        "frase_ingles": "He found a coin on the street.",
+        "frase_portugues": "Ele encontrou uma moeda na rua."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bill",
+        "portugues": "Nota (de dinheiro)",
+        "frase_ingles": "The taxi driver gave me a ten-dollar bill.",
+        "frase_portugues": "O motorista de táxi me deu uma nota de dez dólares."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Store",
+        "portugues": "Loja",
+        "frase_ingles": "I'm going to the store to buy some milk.",
+        "frase_portugues": "Eu vou à loja para comprar um pouco de leite."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Shopping mall",
+        "portugues": "Shopping center",
+        "frase_ingles": "We spent the afternoon at the shopping mall.",
+        "frase_portugues": "Nós passamos a tarde no shopping center."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Supermarket",
+        "portugues": "Supermercado",
+        "frase_ingles": "The supermarket is open until 10 PM.",
+        "frase_portugues": "O supermercado fica aberto até as 22h."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Receipt",
+        "portugues": "Recibo",
+        "frase_ingles": "Do you want a receipt for your purchase?",
+        "frase_portugues": "Você quer um recibo pela sua compra?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Wallet",
+        "portugues": "Carteira",
+        "frase_ingles": "I keep my credit cards in my wallet.",
+        "frase_portugues": "Eu guardo meus cartões de crédito na minha carteira."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bag",
+        "portugues": "Sacola",
+        "frase_ingles": "The groceries are heavy in this bag.",
+        "frase_portugues": "As compras estão pesadas nesta sacola."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Price",
+        "portugues": "Preço",
+        "frase_ingles": "The price of the book is ten dollars.",
+        "frase_portugues": "O preço do livro é dez dólares."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Discount",
+        "portugues": "Desconto",
+        "frase_ingles": "There is a 20% discount on all clothes.",
+        "frase_portugues": "Há um desconto de 20% em todas as roupas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Change",
+        "portugues": "Troco",
+        "frase_ingles": "The cashier gave me some change.",
+        "frase_portugues": "O caixa me deu um pouco de troco."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Cart",
+        "portugues": "Carrinho (de compras)",
+        "frase_ingles": "We used a cart to carry our groceries.",
+        "frase_portugues": "Nós usamos um carrinho para carregar nossas compras."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Basket",
+        "portugues": "Cesta (de compras)",
+        "frase_ingles": "He only needed a few items, so he took a basket.",
+        "frase_portugues": "Ele só precisava de alguns itens, então pegou uma cesta."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "List",
+        "portugues": "Lista",
+        "frase_ingles": "I wrote a shopping list so I wouldn't forget anything.",
+        "frase_portugues": "Eu escrevi uma lista de compras para não esquecer nada."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Customer",
+        "portugues": "Cliente",
+        "frase_ingles": "The store values its customers.",
+        "frase_portugues": "A loja valoriza seus clientes."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Clerk",
+        "portugues": "Funcionário(a)",
+        "frase_ingles": "The clerk helped me find what I needed.",
+        "frase_portugues": "O funcionário me ajudou a encontrar o que eu precisava."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sound",
+        "portugues": "Som",
+        "frase_ingles": "The sound of the rain was very relaxing.",
+        "frase_portugues": "O som da chuva era muito relaxante."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Noise",
+        "portugues": "Barulho",
+        "frase_ingles": "There was a lot of noise coming from the street.",
+        "frase_portugues": "Havia muito barulho vindo da rua."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Smell",
+        "portugues": "Cheiro",
+        "frase_ingles": "The smell of the food was amazing.",
+        "frase_portugues": "O cheiro da comida estava incrível."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Scent",
+        "portugues": "Aroma / Perfume",
+        "frase_ingles": "She loved the scent of fresh flowers.",
+        "frase_portugues": "Ela amava o perfume de flores frescas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Taste",
+        "portugues": "Gosto / Sabor",
+        "frase_ingles": "This dish has a very strong taste.",
+        "frase_portugues": "Este prato tem um gosto muito forte."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Flavor",
+        "portugues": "Sabor",
+        "frase_ingles": "What is your favorite ice cream flavor?",
+        "frase_portugues": "Qual é o seu sabor de sorvete favorito?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sight",
+        "portugues": "Visão / Vista",
+        "frase_ingles": "The sight of the mountains took my breath away.",
+        "frase_portugues": "A vista das montanhas me deixou sem fôlego."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "View",
+        "portugues": "Vista",
+        "frase_ingles": "The hotel room had a beautiful view of the ocean.",
+        "frase_portugues": "O quarto do hotel tinha uma bela vista do oceano."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Feeling",
+        "portugues": "Sentimento / Sensação",
+        "frase_ingles": "I had a strange feeling that something was wrong.",
+        "frase_portugues": "Eu tive uma sensação estranha de que algo estava errado."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Emotion",
+        "portugues": "Emoção",
+        "frase_ingles": "It is important to understand your emotions.",
+        "frase_portugues": "É importante entender suas emoções."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Memory",
+        "portugues": "Memória",
+        "frase_ingles": "She has a good memory for names.",
+        "frase_portugues": "Ela tem uma boa memória para nomes."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Laughter",
+        "portugues": "Risada",
+        "frase_ingles": "His laughter filled the room with joy.",
+        "frase_portugues": "A risada dele encheu a sala de alegria."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Smile",
+        "portugues": "Sorriso",
+        "frase_ingles": "Her beautiful smile made me happy.",
+        "frase_portugues": "O lindo sorriso dela me fez feliz."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Tear",
+        "portugues": "Lágrima",
+        "frase_ingles": "A single tear rolled down her cheek.",
+        "frase_portugues": "Uma única lágrima rolou pela bochecha dela."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Pain",
+        "portugues": "Dor",
+        "frase_ingles": "He took medicine to relieve the pain.",
+        "frase_portugues": "Ele tomou remédio para aliviar a dor."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Pleasure",
+        "portugues": "Prazer",
+        "frase_ingles": "It was a pleasure to meet you.",
+        "frase_portugues": "Foi um prazer te conhecer."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Touch",
+        "portugues": "Toque",
+        "frase_ingles": "The baby's touch was very gentle.",
+        "frase_portugues": "O toque do bebê era muito gentil."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Wisdom",
+        "portugues": "Sabedoria",
+        "frase_ingles": "His wisdom was respected by everyone.",
+        "frase_portugues": "A sabedoria dele era respeitada por todos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Imagination",
+        "portugues": "Imaginação",
+        "frase_ingles": "Children have a very vivid imagination.",
+        "frase_portugues": "As crianças têm uma imaginação muito vívida."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Doctor",
+        "portugues": "Médico(a)",
+        "frase_ingles": "The doctor checked the patient's heart.",
+        "frase_portugues": "O médico(a) verificou o coração do paciente."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Nurse",
+        "portugues": "Enfermeiro(a)",
+        "frase_ingles": "The nurse gave me a shot.",
+        "frase_portugues": "O(a) enfermeiro(a) me deu uma injeção."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Teacher",
+        "portugues": "Professor(a)",
+        "frase_ingles": "My teacher helped me with my homework.",
+        "frase_portugues": "Meu(minha) professor(a) me ajudou com a lição de casa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Student",
+        "portugues": "Estudante",
+        "frase_ingles": "The student is preparing for the final exam.",
+        "frase_portugues": "O(a) estudante está se preparando para a prova final."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Engineer",
+        "portugues": "Engenheiro(a)",
+        "frase_ingles": "The engineer designed a new bridge.",
+        "frase_portugues": "O(a) engenheiro(a) projetou uma nova ponte."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Programmer",
+        "portugues": "Programador(a)",
+        "frase_ingles": "The programmer writes code for websites.",
+        "frase_portugues": "O(a) programador(a) escreve código para sites."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Manager",
+        "portugues": "Gerente",
+        "frase_ingles": "The manager is responsible for the team.",
+        "frase_portugues": "O(a) gerente é responsável pela equipe."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Scientist",
+        "portugues": "Cientista",
+        "frase_ingles": "The scientist is working on a new experiment.",
+        "frase_portugues": "O(a) cientista está trabalhando em um novo experimento."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Artist",
+        "portugues": "Artista",
+        "frase_ingles": "She is a very talented artist.",
+        "frase_portugues": "Ela é uma artista muito talentosa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Musician",
+        "portugues": "Músico(a)",
+        "frase_ingles": "The musician played the piano beautifully.",
+        "frase_portugues": "O(a) músico(a) tocou piano lindamente."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Writer",
+        "portugues": "Escritor(a)",
+        "frase_ingles": "The writer is famous for his novels.",
+        "frase_portugues": "O(a) escritor(a) é famoso(a) por seus romances."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Journalist",
+        "portugues": "Jornalista",
+        "frase_ingles": "The journalist reported the news live.",
+        "frase_portugues": "O(a) jornalista noticiou ao vivo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Chef",
+        "portugues": "Chef de cozinha",
+        "frase_ingles": "The chef prepared a delicious meal.",
+        "frase_portugues": "O(a) chef de cozinha preparou uma refeição deliciosa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Waiter",
+        "portugues": "Garçom",
+        "frase_ingles": "The waiter brought us the menu.",
+        "frase_portugues": "O garçom nos trouxe o menu."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Waitress",
+        "portugues": "Garçonete",
+        "frase_ingles": "The waitress took our order.",
+        "frase_portugues": "A garçonete pegou nosso pedido."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Pilot",
+        "portugues": "Piloto",
+        "frase_ingles": "The pilot announced that we were ready for takeoff.",
+        "frase_portugues": "O piloto anunciou que estávamos prontos para a decolagem."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Police officer",
+        "portugues": "Policial",
+        "frase_ingles": "A police officer helped me with directions.",
+        "frase_portugues": "Um(a) policial me ajudou com as direções."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Firefighter",
+        "portugues": "Bombeiro(a)",
+        "frase_ingles": "The firefighter saved the family from the fire.",
+        "frase_portugues": "O(a) bombeiro(a) salvou a família do incêndio."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Architect",
+        "portugues": "Arquiteto(a)",
+        "frase_ingles": "The architect designed a modern house.",
+        "frase_portugues": "O(a) arquiteto(a) projetou uma casa moderna."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Dentist",
+        "portugues": "Dentista",
+        "frase_ingles": "I have an appointment with the dentist tomorrow.",
+        "frase_portugues": "Eu tenho uma consulta com o(a) dentista amanhã."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Accountant",
+        "portugues": "Contador(a)",
+        "frase_ingles": "The accountant manages the company's finances.",
+        "frase_portugues": "O(a) contador(a) gerencia as finanças da empresa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Movie",
+        "portugues": "Filme",
+        "frase_ingles": "We went to the cinema to watch a new movie.",
+        "frase_portugues": "Nós fomos ao cinema assistir a um filme novo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Film",
+        "portugues": "Filme",
+        "frase_ingles": "This film won an award.",
+        "frase_portugues": "Este filme ganhou um prêmio."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Show",
+        "portugues": "Show / Programa",
+        "frase_ingles": "My favorite TV show is on tonight.",
+        "frase_portugues": "Meu programa de TV favorito passa hoje à noite."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Episode",
+        "portugues": "Episódio",
+        "frase_ingles": "Have you watched the last episode of the series?",
+        "frase_portugues": "Você já assistiu ao último episódio da série?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Series",
+        "portugues": "Série",
+        "frase_ingles": "This is my favorite TV series.",
+        "frase_portugues": "Esta é minha série de TV favorita."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Music",
+        "portugues": "Música",
+        "frase_ingles": "I love listening to music while I work.",
+        "frase_portugues": "Eu adoro ouvir música enquanto trabalho."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Song",
+        "portugues": "Canção / Música",
+        "frase_ingles": "That is a beautiful song.",
+        "frase_portugues": "Essa é uma linda canção."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Artist",
+        "portugues": "Artista",
+        "frase_ingles": "The artist is known for his unique style.",
+        "frase_portugues": "O artista é conhecido por seu estilo único."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Album",
+        "portugues": "Álbum",
+        "frase_ingles": "The band released a new album last month.",
+        "frase_portugues": "A banda lançou um novo álbum no mês passado."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Concert",
+        "portugues": "Concerto / Show",
+        "frase_ingles": "We are going to a concert on Friday.",
+        "frase_portugues": "Nós vamos a um show na sexta-feira."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Theatre",
+        "portugues": "Teatro",
+        "frase_ingles": "They are performing a play at the local theatre.",
+        "frase_portugues": "Eles estão encenando uma peça no teatro local."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Play",
+        "portugues": "Peça de teatro",
+        "frase_ingles": "The play was a great success.",
+        "frase_portugues": "A peça de teatro foi um grande sucesso."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Actor",
+        "portugues": "Ator",
+        "frase_ingles": "He is a famous Hollywood actor.",
+        "frase_portugues": "Ele é um famoso ator de Hollywood."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Actress",
+        "portugues": "Atriz",
+        "frase_ingles": "She is an Oscar-winning actress.",
+        "frase_portugues": "Ela é uma atriz vencedora do Oscar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Director",
+        "portugues": "Diretor(a)",
+        "frase_ingles": "The film director is very talented.",
+        "frase_portugues": "O(a) diretor(a) de cinema é muito talentoso(a)."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Screenwriter",
+        "portugues": "Roteirista",
+        "frase_ingles": "The screenwriter wrote an amazing script.",
+        "frase_portugues": "O(a) roteirista escreveu um roteiro incrível."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Audience",
+        "portugues": "Platéia / Público",
+        "frase_ingles": "The audience clapped for a long time.",
+        "frase_portugues": "A plateia aplaudiu por um longo tempo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Popcorn",
+        "portugues": "Pipoca",
+        "frase_ingles": "We ate popcorn while watching the movie.",
+        "frase_portugues": "Nós comemos pipoca enquanto assistíamos ao filme."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Magazine",
+        "portugues": "Revista",
+        "frase_ingles": "I read an interesting article in a magazine.",
+        "frase_portugues": "Eu li um artigo interessante em uma revista."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Newspaper",
+        "portugues": "Jornal",
+        "frase_ingles": "I like to read the newspaper every morning.",
+        "frase_portugues": "Eu gosto de ler o jornal todas as manhãs."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Information",
+        "portugues": "Informação",
+        "frase_ingles": "We gathered all the information we needed for the project.",
+        "frase_portugues": "Nós reunimos todas as informações de que precisávamos para o projeto."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Data",
+        "portugues": "Dados",
+        "frase_ingles": "The scientist analyzed the data from the experiment.",
+        "frase_portugues": "O cientista analisou os dados do experimento."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Knowledge",
+        "portugues": "Conhecimento",
+        "frase_ingles": "Reading books is a great way to gain knowledge.",
+        "frase_portugues": "Ler livros é uma ótima maneira de adquirir conhecimento."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Wisdom",
+        "portugues": "Sabedoria",
+        "frase_ingles": "The old man shared his wisdom with the young people.",
+        "frase_portugues": "O velho homem compartilhou sua sabedoria com os jovens."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Opinion",
+        "portugues": "Opinião",
+        "frase_ingles": "Everyone is entitled to their own opinion.",
+        "frase_portugues": "Todos têm direito à sua própria opinião."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Fact",
+        "portugues": "Fato",
+        "frase_ingles": "You can't argue with a proven fact.",
+        "frase_portugues": "Você não pode discutir com um fato comprovado."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Concept",
+        "portugues": "Conceito",
+        "frase_ingles": "The concept of time travel is fascinating.",
+        "frase_portugues": "O conceito de viagem no tempo é fascinante."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Goal",
+        "portugues": "Objetivo / Meta",
+        "frase_ingles": "My main goal is to learn to speak English fluently.",
+        "frase_portugues": "Meu principal objetivo é aprender a falar inglês fluentemente."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Amount",
+        "portugues": "Quantidade",
+        "frase_ingles": "The recipe calls for a small amount of sugar.",
+        "frase_portugues": "A receita pede uma pequena quantidade de açúcar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Quantity",
+        "portugues": "Quantidade",
+        "frase_ingles": "We need a large quantity of food for the party.",
+        "frase_portugues": "Precisamos de uma grande quantidade de comida para a festa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Size",
+        "portugues": "Tamanho",
+        "frase_ingles": "What size is this T-shirt?",
+        "frase_portugues": "Qual é o tamanho desta camiseta?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Weight",
+        "portugues": "Peso",
+        "frase_ingles": "The package has a weight of five kilograms.",
+        "frase_portugues": "O pacote tem um peso de cinco quilos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Length",
+        "portugues": "Comprimento",
+        "frase_ingles": "The length of the rope is two meters.",
+        "frase_portugues": "O comprimento da corda é de dois metros."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Speed",
+        "portugues": "Velocidade",
+        "frase_ingles": "The car was traveling at a very high speed.",
+        "frase_portugues": "O carro estava viajando em uma velocidade muito alta."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Distance",
+        "portugues": "Distância",
+        "frase_ingles": "The distance from my house to the office is ten kilometers.",
+        "frase_portugues": "A distância da minha casa para o escritório é de dez quilômetros."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Purpose",
+        "portugues": "Propósito",
+        "frase_ingles": "What is the purpose of this device?",
+        "frase_portugues": "Qual é o propósito deste aparelho?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Reason",
+        "portugues": "Razão / Motivo",
+        "frase_ingles": "He had a good reason for being late.",
+        "frase_portugues": "Ele tinha uma boa razão para estar atrasado."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Quality",
+        "portugues": "Qualidade",
+        "frase_ingles": "The quality of this product is excellent.",
+        "frase_portugues": "A qualidade deste produto é excelente."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Process",
+        "portugues": "Processo",
+        "frase_ingles": "Learning a new language is a long process.",
+        "frase_portugues": "Aprender um novo idioma é um processo longo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "University",
+        "portugues": "Universidade",
+        "frase_ingles": "She is a student at the local university.",
+        "frase_portugues": "Ela é estudante na universidade local."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Library",
+        "portugues": "Biblioteca",
+        "frase_ingles": "I borrowed a book from the library.",
+        "frase_portugues": "Eu peguei um livro emprestado da biblioteca."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Museum",
+        "portugues": "Museu",
+        "frase_ingles": "We spent the afternoon at the art museum.",
+        "frase_portugues": "Nós passamos a tarde no museu de arte."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Hospital",
+        "portugues": "Hospital",
+        "frase_ingles": "He works as a doctor at the hospital.",
+        "frase_portugues": "Ele trabalha como médico no hospital."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bank",
+        "portugues": "Banco",
+        "frase_ingles": "I need to go to the bank to deposit a check.",
+        "frase_portugues": "Eu preciso ir ao banco para depositar um cheque."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Office",
+        "portugues": "Escritório",
+        "frase_ingles": "My office is on the third floor.",
+        "frase_portugues": "Meu escritório fica no terceiro andar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Factory",
+        "portugues": "Fábrica",
+        "frase_ingles": "The factory produces cars and trucks.",
+        "frase_portugues": "A fábrica produz carros e caminhões."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Church",
+        "portugues": "Igreja",
+        "frase_ingles": "They go to church every Sunday.",
+        "frase_portugues": "Eles vão à igreja todos os domingos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Mosque",
+        "portugues": "Mesquita",
+        "frase_ingles": "The mosque is a place of worship for Muslims.",
+        "frase_portugues": "A mesquita é um local de culto para os muçulmanos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Synagogue",
+        "portugues": "Sinagoga",
+        "frase_ingles": "The rabbi leads services at the synagogue.",
+        "frase_portugues": "O rabino conduz os serviços na sinagoga."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Temple",
+        "portugues": "Templo",
+        "frase_ingles": "The temple is an ancient and sacred place.",
+        "frase_portugues": "O templo é um lugar antigo e sagrado."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Airport",
+        "portugues": "Aeroporto",
+        "frase_ingles": "Our flight will depart from the airport soon.",
+        "frase_portugues": "Nosso voo vai partir do aeroporto em breve."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Train station",
+        "portugues": "Estação de trem",
+        "frase_ingles": "I will meet you at the train station.",
+        "frase_portugues": "Eu te encontro na estação de trem."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bus station",
+        "portugues": "Rodoviária",
+        "frase_ingles": "The bus station is very crowded today.",
+        "frase_portugues": "A rodoviária está muito cheia hoje."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Police station",
+        "portugues": "Delegacia de polícia",
+        "frase_ingles": "He went to the police station to report the theft.",
+        "frase_portugues": "Ele foi à delegacia de polícia para relatar o roubo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Post office",
+        "portugues": "Correios",
+        "frase_ingles": "I need to send this letter at the post office.",
+        "frase_portugues": "Eu preciso enviar esta carta nos correios."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Court",
+        "portugues": "Tribunal",
+        "frase_ingles": "The defendant appeared in court.",
+        "frase_portugues": "O réu compareceu ao tribunal."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Embassy",
+        "portugues": "Embaixada",
+        "frase_ingles": "I need to renew my passport at the embassy.",
+        "frase_portugues": "Eu preciso renovar meu passaporte na embaixada."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Society",
+        "portugues": "Sociedade",
+        "frase_ingles": "Every person has a role in society.",
+        "frase_portugues": "Toda pessoa tem um papel na sociedade."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Economy",
+        "portugues": "Economia",
+        "frase_ingles": "The country's economy is growing fast.",
+        "frase_portugues": "A economia do país está crescendo rapidamente."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Politics",
+        "portugues": "Política",
+        "frase_ingles": "The young generation is more interested in politics.",
+        "frase_portugues": "A geração mais jovem está mais interessada em política."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Freedom",
+        "portugues": "Liberdade",
+        "frase_ingles": "Everyone deserves to live in freedom.",
+        "frase_portugues": "Todos merecem viver em liberdade."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Justice",
+        "portugues": "Justiça",
+        "frase_ingles": "The new law is aimed at achieving social justice.",
+        "frase_portugues": "A nova lei visa alcançar a justiça social."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Equality",
+        "portugues": "Igualdade",
+        "frase_ingles": "Equality is a fundamental human right.",
+        "frase_portugues": "A igualdade é um direito humano fundamental."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Democracy",
+        "portugues": "Democracia",
+        "frase_ingles": "In a democracy, people elect their leaders.",
+        "frase_portugues": "Em uma democracia, as pessoas elegem seus líderes."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Responsibility",
+        "portugues": "Responsabilidade",
+        "frase_ingles": "Taking care of the environment is our collective responsibility.",
+        "frase_portugues": "Cuidar do meio ambiente é nossa responsabilidade coletiva."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Duty",
+        "portugues": "Dever",
+        "frase_ingles": "It is your duty to help those in need.",
+        "frase_portugues": "É seu dever ajudar aqueles que precisam."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Communication",
+        "portugues": "Comunicação",
+        "frase_ingles": "Good communication is key to a healthy relationship.",
+        "frase_portugues": "Uma boa comunicação é a chave para um relacionamento saudável."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Conflict",
+        "portugues": "Conflito",
+        "frase_ingles": "They solved the conflict through dialogue.",
+        "frase_portugues": "Eles resolveram o conflito através do diálogo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Peace",
+        "portugues": "Paz",
+        "frase_ingles": "After the war, the country finally found peace.",
+        "frase_portugues": "Após a guerra, o país finalmente encontrou a paz."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "War",
+        "portugues": "Guerra",
+        "frase_ingles": "War brings suffering and destruction.",
+        "frase_portugues": "A guerra traz sofrimento e destruição."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Revolution",
+        "portugues": "Revolução",
+        "frase_ingles": "The industrial revolution changed the world.",
+        "frase_portugues": "A revolução industrial mudou o mundo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Protest",
+        "portugues": "Protesto",
+        "frase_ingles": "The protest was organized to demand better working conditions.",
+        "frase_portugues": "O protesto foi organizado para exigir melhores condições de trabalho."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Opinion",
+        "portugues": "Opinião",
+        "frase_ingles": "Everyone is entitled to their own opinion.",
+        "frase_portugues": "Todo mundo tem direito à sua própria opinião."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Idea",
+        "portugues": "Ideia",
+        "frase_ingles": "He had a brilliant idea for the project.",
+        "frase_portugues": "Ele teve uma ideia brilhante para o projeto."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Poem",
+        "portugues": "Poema",
+        "frase_ingles": "She wrote a beautiful poem about the sea.",
+        "frase_portugues": "Ela escreveu um belo poema sobre o mar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Novel",
+        "portugues": "Romance",
+        "frase_ingles": "His new novel became a bestseller.",
+        "frase_portugues": "O novo romance dele se tornou um best-seller."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Painting",
+        "portugues": "Pintura",
+        "frase_ingles": "The museum has a famous painting by Picasso.",
+        "frase_portugues": "O museu tem uma famosa pintura de Picasso."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sculpture",
+        "portugues": "Escultura",
+        "frase_ingles": "The park is decorated with a large sculpture.",
+        "frase_portugues": "O parque é decorado com uma grande escultura."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Gallery",
+        "portugues": "Galeria",
+        "frase_ingles": "They are opening a new art gallery downtown.",
+        "frase_portugues": "Eles estão abrindo uma nova galeria de arte no centro."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Symphony",
+        "portugues": "Sinfonia",
+        "frase_ingles": "The orchestra played a classical symphony.",
+        "frase_portugues": "A orquestra tocou uma sinfonia clássica."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Opera",
+        "portugues": "Ópera",
+        "frase_ingles": "We went to the opera last night.",
+        "frase_portugues": "Nós fomos à ópera na noite passada."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Ballet",
+        "portugues": "Balé",
+        "frase_ingles": "The dancers performed a beautiful ballet.",
+        "frase_portugues": "Os dançarinos apresentaram um lindo balé."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Instrument",
+        "portugues": "Instrumento",
+        "frase_ingles": "What musical instrument do you play?",
+        "frase_portugues": "Que instrumento musical você toca?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Drums",
+        "portugues": "Bateria",
+        "frase_ingles": "He plays the drums in a rock band.",
+        "frase_portugues": "Ele toca bateria em uma banda de rock."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Stage",
+        "portugues": "Palco",
+        "frase_ingles": "The singer walked onto the stage.",
+        "frase_portugues": "O cantor subiu ao palco."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Audience",
+        "portugues": "Plateia / Público",
+        "frase_ingles": "The audience gave a standing ovation.",
+        "frase_portugues": "A plateia aplaudiu de pé."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Story",
+        "portugues": "História",
+        "frase_ingles": "My grandfather used to tell me stories.",
+        "frase_portugues": "Meu avô costumava me contar histórias."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Book",
+        "portugues": "Livro",
+        "frase_ingles": "I finished reading the book in two days.",
+        "frase_portugues": "Eu terminei de ler o livro em dois dias."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Film",
+        "portugues": "Filme",
+        "frase_ingles": "The film was shot on location in Italy.",
+        "frase_portugues": "O filme foi rodado em locações na Itália."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Theatre",
+        "portugues": "Teatro",
+        "frase_ingles": "I have tickets to a play at the theatre.",
+        "frase_portugues": "Eu tenho ingressos para uma peça no teatro."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Exhibition",
+        "portugues": "Exposição",
+        "frase_ingles": "The new art exhibition is very popular.",
+        "frase_portugues": "A nova exposição de arte é muito popular."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Masterpiece",
+        "portugues": "Obra-prima",
+        "frase_ingles": "This painting is considered a masterpiece.",
+        "frase_portugues": "Esta pintura é considerada uma obra-prima."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Character",
+        "portugues": "Personagem",
+        "frase_ingles": "My favorite character in the book is a detective.",
+        "frase_portugues": "Meu personagem favorito no livro é um detetive."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Script",
+        "portugues": "Roteiro",
+        "frase_ingles": "The actors are rehearsing the script.",
+        "frase_portugues": "Os atores estão ensaiando o roteiro."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Hypothesis",
+        "portugues": "Hipótese",
+        "frase_ingles": "The scientist tested her hypothesis with a new experiment.",
+        "frase_portugues": "A cientista testou sua hipótese com um novo experimento."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Analysis",
+        "portugues": "Análise",
+        "frase_ingles": "The analysis of the data took a week.",
+        "frase_portugues": "A análise dos dados levou uma semana."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Discovery",
+        "portugues": "Descoberta",
+        "frase_ingles": "The discovery of penicillin saved millions of lives.",
+        "frase_portugues": "A descoberta da penicilina salvou milhões de vidas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Innovation",
+        "portugues": "Inovação",
+        "frase_ingles": "Innovation is key to a company's success.",
+        "frase_portugues": "A inovação é a chave para o sucesso de uma empresa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Engineering",
+        "portugues": "Engenharia",
+        "frase_ingles": "He chose to study engineering at the university.",
+        "frase_portugues": "Ele escolheu estudar engenharia na universidade."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Robot",
+        "portugues": "Robô",
+        "frase_ingles": "The factory uses a robot to assemble the car parts.",
+        "frase_portugues": "A fábrica usa um robô para montar as peças do carro."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Machine",
+        "portugues": "Máquina",
+        "frase_ingles": "The machine broke down and needed to be fixed.",
+        "frase_portugues": "A máquina quebrou e precisou ser consertada."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Device",
+        "portugues": "Dispositivo",
+        "frase_ingles": "This new device can translate languages in real time.",
+        "frase_portugues": "Este novo dispositivo pode traduzir idiomas em tempo real."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Circuit",
+        "portugues": "Circuito",
+        "frase_ingles": "The technician checked the electrical circuit.",
+        "frase_portugues": "O técnico verificou o circuito elétrico."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Code",
+        "portugues": "Código",
+        "frase_ingles": "The programmer wrote the code for the app.",
+        "frase_portugues": "O programador escreveu o código para o aplicativo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Algorithm",
+        "portugues": "Algoritmo",
+        "frase_ingles": "The search engine uses a complex algorithm.",
+        "frase_portugues": "O motor de busca usa um algoritmo complexo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Satellite",
+        "portugues": "Satélite",
+        "frase_ingles": "The satellite orbits the Earth.",
+        "frase_portugues": "O satélite orbita a Terra."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Telescope",
+        "portugues": "Telescópio",
+        "frase_ingles": "We looked at the stars through the telescope.",
+        "frase_portugues": "Nós olhamos para as estrelas através do telescópio."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Microscope",
+        "portugues": "Microscópio",
+        "frase_ingles": "He used a microscope to see the bacteria.",
+        "frase_portugues": "Ele usou um microscópio para ver as bactérias."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Laboratory",
+        "portugues": "Laboratório",
+        "frase_ingles": "The scientists are working in the laboratory.",
+        "frase_portugues": "Os cientistas estão trabalhando no laboratório."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Chemical",
+        "portugues": "Químico(a) / Produto químico",
+        "frase_ingles": "Be careful with these chemicals.",
+        "frase_portugues": "Tenha cuidado com esses produtos químicos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Element",
+        "portugues": "Elemento",
+        "frase_ingles": "Oxygen is a chemical element.",
+        "frase_portugues": "O oxigênio é um elemento químico."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Atom",
+        "portugues": "Átomo",
+        "frase_ingles": "An atom is the smallest unit of matter.",
+        "frase_portugues": "Um átomo é a menor unidade da matéria."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Continent",
+        "portugues": "Continente",
+        "frase_ingles": "The continent of Asia is the largest in the world.",
+        "frase_portugues": "O continente da Ásia é o maior do mundo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Island",
+        "portugues": "Ilha",
+        "frase_ingles": "We spent our vacation on a tropical island.",
+        "frase_portugues": "Nós passamos nossas férias em uma ilha tropical."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Peninsula",
+        "portugues": "Península",
+        "frase_ingles": "Florida is a well-known peninsula.",
+        "frase_portugues": "A Flórida é uma península bem conhecida."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Valley",
+        "portugues": "Vale",
+        "frase_ingles": "The valley was green and full of flowers.",
+        "frase_portugues": "O vale era verde e cheio de flores."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Desert",
+        "portugues": "Deserto",
+        "frase_ingles": "The Sahara Desert is very hot and dry.",
+        "frase_portugues": "O Deserto do Saara é muito quente e seco."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Lake",
+        "portugues": "Lago",
+        "frase_ingles": "We went fishing in the lake.",
+        "frase_portugues": "Nós fomos pescar no lago."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Volcano",
+        "portugues": "Vulcão",
+        "frase_ingles": "The volcano erupted with a loud noise.",
+        "frase_portugues": "O vulcão entrou em erupção com um barulho alto."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Earthquake",
+        "portugues": "Terremoto",
+        "frase_ingles": "The earthquake caused a lot of damage to the city.",
+        "frase_portugues": "O terremoto causou muitos danos à cidade."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Tsunami",
+        "portugues": "Tsunami",
+        "frase_ingles": "A tsunami can cause huge waves.",
+        "frase_portugues": "Um tsunami pode causar ondas enormes."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Hurricane",
+        "portugues": "Furacão",
+        "frase_ingles": "The hurricane is expected to hit the coast.",
+        "frase_portugues": "O furacão deve atingir a costa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Tornado",
+        "portugues": "Tornado",
+        "frase_ingles": "The tornado destroyed several houses.",
+        "frase_portugues": "O tornado destruiu várias casas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Cloud",
+        "portugues": "Nuvem",
+        "frase_ingles": "The sun disappeared behind a dark cloud.",
+        "frase_portugues": "O sol desapareceu atrás de uma nuvem escura."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Rain",
+        "portugues": "Chuva",
+        "frase_ingles": "I forgot my umbrella, so I got wet in the rain.",
+        "frase_portugues": "Eu esqueci meu guarda-chuva, então me molhei na chuva."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Snow",
+        "portugues": "Neve",
+        "frase_ingles": "The children were playing in the snow.",
+        "frase_portugues": "As crianças estavam brincando na neve."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Ice",
+        "portugues": "Gelo",
+        "frase_ingles": "Be careful, the roads are covered in ice.",
+        "frase_portugues": "Tenha cuidado, as estradas estão cobertas de gelo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Wind",
+        "portugues": "Vento",
+        "frase_ingles": "The wind was blowing very hard.",
+        "frase_portugues": "O vento estava soprando muito forte."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Storm",
+        "portugues": "Tempestade",
+        "frase_ingles": "A big storm is coming tonight.",
+        "frase_portugues": "Uma grande tempestade está vindo hoje à noite."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Lightning",
+        "portugues": "Relâmpago",
+        "frase_ingles": "We saw a flash of lightning in the sky.",
+        "frase_portugues": "Nós vimos um relâmpago no céu."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Thunder",
+        "portugues": "Trovão",
+        "frase_ingles": "The thunder was so loud it shook the house.",
+        "frase_portugues": "O trovão foi tão alto que tremeu a casa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Rainbow",
+        "portugues": "Arco-íris",
+        "frase_ingles": "After the rain, a beautiful rainbow appeared.",
+        "frase_portugues": "Depois da chuva, um lindo arco-íris apareceu."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Weather",
+        "portugues": "Tempo (clima)",
+        "frase_ingles": "The weather forecast says it will rain tomorrow.",
+        "frase_portugues": "A previsão do tempo diz que vai chover amanhã."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Temperature",
+        "portugues": "Temperatura",
+        "frase_ingles": "The temperature dropped to zero degrees.",
+        "frase_portugues": "A temperatura caiu para zero grau."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Climate",
+        "portugues": "Clima",
+        "frase_ingles": "The climate in this region is very mild.",
+        "frase_portugues": "O clima nesta região é muito ameno."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Season",
+        "portugues": "Estação",
+        "frase_ingles": "My favorite season is spring.",
+        "frase_portugues": "Minha estação favorita é a primavera."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Spring",
+        "portugues": "Primavera",
+        "frase_ingles": "In the spring, flowers begin to bloom.",
+        "frase_portugues": "Na primavera, as flores começam a florescer."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Summer",
+        "portugues": "Verão",
+        "frase_ingles": "We are planning a trip to the beach for the summer.",
+        "frase_portugues": "Nós estamos planejando uma viagem para a praia no verão."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Autumn / Fall",
+        "portugues": "Outono",
+        "frase_ingles": "In the autumn, the leaves turn brown and fall from the trees.",
+        "frase_portugues": "No outono, as folhas ficam marrons e caem das árvores."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Winter",
+        "portugues": "Inverno",
+        "frase_ingles": "I love to drink hot chocolate during the winter.",
+        "frase_portugues": "Eu amo beber chocolate quente durante o inverno."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sunshine",
+        "portugues": "Luz do sol",
+        "frase_ingles": "I enjoy the sunshine after a long period of rain.",
+        "frase_portugues": "Eu aprecio a luz do sol depois de um longo período de chuva."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Fog",
+        "portugues": "Névoa / Neblina",
+        "frase_ingles": "The fog was so thick that we couldn't see the road.",
+        "frase_portugues": "A névoa estava tão densa que não conseguíamos ver a estrada."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Mist",
+        "portugues": "Nevoeiro",
+        "frase_ingles": "The morning mist covered the valley.",
+        "frase_portugues": "O nevoeiro da manhã cobria o vale."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Dew",
+        "portugues": "Orvalho",
+        "frase_ingles": "The grass was wet with dew early in the morning.",
+        "frase_portugues": "A grama estava molhada de orvalho de manhã cedo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Hail",
+        "portugues": "Granizo",
+        "frase_ingles": "We had a sudden hail storm.",
+        "frase_portugues": "Nós tivemos uma repentina tempestade de granizo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Thunderstorm",
+        "portugues": "Tempestade com trovões",
+        "frase_ingles": "The thunderstorm woke me up last night.",
+        "frase_portugues": "A tempestade com trovões me acordou na noite passada."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Drought",
+        "portugues": "Seca",
+        "frase_ingles": "The drought caused a lot of damage to the crops.",
+        "frase_portugues": "A seca causou muitos danos às plantações."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Flood",
+        "portugues": "Inundação",
+        "frase_ingles": "The flood destroyed many houses.",
+        "frase_portugues": "A inundação destruiu muitas casas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Walk",
+        "portugues": "Caminhada",
+        "frase_ingles": "I go for a walk every morning.",
+        "frase_portugues": "Eu faço uma caminhada todas as manhãs."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Run",
+        "portugues": "Corrida",
+        "frase_ingles": "He went for a run in the park.",
+        "frase_portugues": "Ele foi fazer uma corrida no parque."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sleep",
+        "portugues": "Sono",
+        "frase_ingles": "I need more sleep to feel energized.",
+        "frase_portugues": "Eu preciso de mais sono para me sentir com energia."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Talk",
+        "portugues": "Conversa",
+        "frase_ingles": "We had a long talk about our plans.",
+        "frase_portugues": "Nós tivemos uma longa conversa sobre nossos planos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Conversation",
+        "portugues": "Conversa",
+        "frase_ingles": "Their conversation was very interesting.",
+        "frase_portugues": "A conversa deles foi muito interessante."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Reading",
+        "portugues": "Leitura",
+        "frase_ingles": "Reading is one of my favorite hobbies.",
+        "frase_portugues": "Leitura é um dos meus hobbies favoritos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Writing",
+        "portugues": "Escrita",
+        "frase_ingles": "Her writing is very clear and easy to understand.",
+        "frase_portugues": "A escrita dela é muito clara e fácil de entender."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Meal",
+        "portugues": "Refeição",
+        "frase_ingles": "We ate a delicious meal together.",
+        "frase_portugues": "Nós comemos uma deliciosa refeição juntos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Breakfast",
+        "portugues": "Café da manhã",
+        "frase_ingles": "I usually eat toast for breakfast.",
+        "frase_portugues": "Eu geralmente como torrada no café da manhã."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Lunch",
+        "portugues": "Almoço",
+        "frase_ingles": "I have lunch with my friends every day.",
+        "frase_portugues": "Eu almoço com meus amigos todos os dias."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Dinner",
+        "portugues": "Jantar",
+        "frase_ingles": "What are we having for dinner tonight?",
+        "frase_portugues": "O que vamos jantar hoje à noite?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Rest",
+        "portugues": "Descanso",
+        "frase_ingles": "After a long day, I need some rest.",
+        "frase_portugues": "Depois de um longo dia, eu preciso de um pouco de descanso."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Study",
+        "portugues": "Estudo",
+        "frase_ingles": "I have a big study session tonight.",
+        "frase_portugues": "Eu tenho uma grande sessão de estudo hoje à noite."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Play",
+        "portugues": "Brincadeira / Peça",
+        "frase_ingles": "The children's play was very creative.",
+        "frase_portugues": "A brincadeira das crianças foi muito criativa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Trip",
+        "portugues": "Viagem",
+        "frase_ingles": "We are planning a trip to the mountains.",
+        "frase_portugues": "Nós estamos planejando uma viagem para as montanhas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Journey",
+        "portugues": "Jornada",
+        "frase_ingles": "The journey to the city took two hours.",
+        "frase_portugues": "A jornada até a cidade levou duas horas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Vacation",
+        "portugues": "Férias",
+        "frase_ingles": "My family is going on a vacation next month.",
+        "frase_portugues": "Minha família vai tirar férias no próximo mês."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Morning",
+        "portugues": "Manhã",
+        "frase_ingles": "I like to drink coffee in the morning.",
+        "frase_portugues": "Eu gosto de beber café de manhã."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Afternoon",
+        "portugues": "Tarde",
+        "frase_ingles": "We have a meeting this afternoon.",
+        "frase_portugues": "Nós temos uma reunião esta tarde."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Evening",
+        "portugues": "Noite",
+        "frase_ingles": "We usually watch a movie in the evening.",
+        "frase_portugues": "Nós geralmente assistimos a um filme à noite."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Night",
+        "portugues": "Noite",
+        "frase_ingles": "I sleep well at night.",
+        "frase_portugues": "Eu durmo bem à noite."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Work",
+        "portugues": "Trabalho",
+        "frase_ingles": "I have a lot of work to do.",
+        "frase_portugues": "Eu tenho muito trabalho para fazer."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Break",
+        "portugues": "Intervalo",
+        "frase_ingles": "Let's take a five-minute break.",
+        "frase_portugues": "Vamos fazer um intervalo de cinco minutos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Meeting",
+        "portugues": "Reunião",
+        "frase_ingles": "The meeting will start in ten minutes.",
+        "frase_portugues": "A reunião vai começar em dez minutos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Appointment",
+        "portugues": "Compromisso / Consulta",
+        "frase_ingles": "I have a doctor's appointment tomorrow.",
+        "frase_portugues": "Eu tenho uma consulta com o médico amanhã."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Task",
+        "portugues": "Tarefa",
+        "frase_ingles": "I finished all my tasks for the day.",
+        "frase_portugues": "Eu terminei todas as minhas tarefas do dia."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Chore",
+        "portugues": "Tarefa doméstica",
+        "frase_ingles": "I have to do some chores this weekend.",
+        "frase_portugues": "Eu tenho que fazer algumas tarefas domésticas neste fim de semana."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Homework",
+        "portugues": "Lição de casa",
+        "frase_ingles": "The teacher gave us a lot of homework.",
+        "frase_portugues": "O professor nos deu muita lição de casa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Study",
+        "portugues": "Estudo",
+        "frase_ingles": "I have a big study session tonight.",
+        "frase_portugues": "Eu tenho uma grande sessão de estudo hoje à noite."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Hobby",
+        "portugues": "Hobby / Passatempo",
+        "frase_ingles": "My favorite hobby is painting.",
+        "frase_portugues": "Meu hobby favorito é pintar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Exercise",
+        "portugues": "Exercício",
+        "frase_ingles": "Daily exercise is important for your health.",
+        "frase_portugues": "Exercício diário é importante para a sua saúde."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Walk",
+        "portugues": "Caminhada",
+        "frase_ingles": "I go for a walk in the park every day.",
+        "frase_portugues": "Eu faço uma caminhada no parque todos os dias."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Shower",
+        "portugues": "Banho",
+        "frase_ingles": "I need to take a shower before I go out.",
+        "frase_portugues": "Eu preciso tomar um banho antes de sair."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Nap",
+        "portugues": "Soneca",
+        "frase_ingles": "I took a quick nap after lunch.",
+        "frase_portugues": "Eu tirei uma soneca rápida depois do almoço."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Dinner",
+        "portugues": "Jantar",
+        "frase_ingles": "We are having dinner at a restaurant tonight.",
+        "frase_portugues": "Nós vamos jantar em um restaurante hoje à noite."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bedtime",
+        "portugues": "Hora de dormir",
+        "frase_ingles": "It's past your bedtime.",
+        "frase_portugues": "Já passou da sua hora de dormir."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Bath",
+        "portugues": "Banho (de banheira)",
+        "frase_ingles": "I took a relaxing bath after a long day.",
+        "frase_portugues": "Eu tomei um banho de banheira relaxante depois de um longo dia."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Shave",
+        "portugues": "Barba / Barbear",
+        "frase_ingles": "He has a shave every morning.",
+        "frase_portugues": "Ele faz a barba todas as manhãs."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Makeup",
+        "portugues": "Maquiagem",
+        "frase_ingles": "She put on some makeup before going out.",
+        "frase_portugues": "Ela passou maquiagem antes de sair."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Laundry",
+        "portugues": "Roupa suja / Lavagem de roupa",
+        "frase_ingles": "I need to do the laundry this weekend.",
+        "frase_portugues": "Eu preciso lavar a roupa neste fim de semana."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Dishes",
+        "portugues": "Louça",
+        "frase_ingles": "It's your turn to do the dishes.",
+        "frase_portugues": "É a sua vez de lavar a louça."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Cleaning",
+        "portugues": "Limpeza",
+        "frase_ingles": "The house needs a deep cleaning.",
+        "frase_portugues": "A casa precisa de uma limpeza profunda."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Shopping",
+        "portugues": "Compras",
+        "frase_ingles": "I did all my shopping at the supermarket.",
+        "frase_portugues": "Eu fiz todas as minhas compras no supermercado."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Groceries",
+        "portugues": "Mantimentos / Compras de supermercado",
+        "frase_ingles": "We need to buy some groceries for the week.",
+        "frase_portugues": "Nós precisamos comprar alguns mantimentos para a semana."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Errand",
+        "portugues": "Comissão / Tarefa",
+        "frase_ingles": "I have a few errands to run this afternoon.",
+        "frase_portugues": "Eu tenho algumas comissões para fazer esta tarde."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Commute",
+        "portugues": "Trajeto (casa-trabalho)",
+        "frase_ingles": "My daily commute takes about an hour.",
+        "frase_portugues": "Meu trajeto diário leva cerca de uma hora."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Weekend",
+        "portugues": "Fim de semana",
+        "frase_ingles": "I'm looking forward to the weekend.",
+        "frase_portugues": "Eu estou ansioso(a) pelo fim de semana."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Habit",
+        "portugues": "Hábito",
+        "frase_ingles": "Brushing your teeth is a good habit.",
+        "frase_portugues": "Escovar os dentes é um bom hábito."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Routine",
+        "portugues": "Rotina",
+        "frase_ingles": "My morning routine is always the same.",
+        "frase_portugues": "Minha rotina matinal é sempre a mesma."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Appointment",
+        "portugues": "Compromisso / Consulta",
+        "frase_ingles": "I have a dental appointment at 3 PM.",
+        "frase_portugues": "Eu tenho uma consulta com o dentista às 15h."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Exercise",
+        "portugues": "Exercício",
+        "frase_ingles": "I do exercise for one hour every day.",
+        "frase_portugues": "Eu faço exercício por uma hora todos os dias."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Diet",
+        "portugues": "Dieta",
+        "frase_ingles": "I started a new diet to eat healthier.",
+        "frase_portugues": "Eu comecei uma nova dieta para me alimentar de forma mais saudável."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Recipe",
+        "portugues": "Receita",
+        "frase_ingles": "Can you give me the recipe for this cake?",
+        "frase_portugues": "Você pode me dar a receita deste bolo?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Cooking",
+        "portugues": "Culinária / Cozinhado",
+        "frase_ingles": "I enjoy cooking in the evenings.",
+        "frase_portugues": "Eu gosto de cozinhar à noite."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Snack",
+        "portugues": "Lanche",
+        "frase_ingles": "I always have a healthy snack in the afternoon.",
+        "frase_portugues": "Eu sempre faço um lanche saudável à tarde."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Drink",
+        "portugues": "Bebida",
+        "frase_ingles": "I need to buy a drink before the movie starts.",
+        "frase_portugues": "Eu preciso comprar uma bebida antes de o filme começar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Leisure",
+        "portugues": "Lazer",
+        "frase_ingles": "I spend my weekends on leisure activities.",
+        "frase_portugues": "Eu passo meus fins de semana com atividades de lazer."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Relaxation",
+        "portugues": "Relaxamento",
+        "frase_ingles": "Yoga is a great way to find relaxation.",
+        "frase_portugues": "Ioga é uma ótima maneira de encontrar relaxamento."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Meditation",
+        "portugues": "Meditação",
+        "frase_ingles": "She practices meditation to reduce stress.",
+        "frase_portugues": "Ela pratica meditação para reduzir o estresse."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Stretching",
+        "portugues": "Alongamento",
+        "frase_ingles": "Stretching before exercise helps prevent injuries.",
+        "frase_portugues": "O alongamento antes do exercício ajuda a prevenir lesões."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Schedule",
+        "portugues": "Agenda / Cronograma",
+        "frase_ingles": "I wrote down all my appointments in my schedule.",
+        "frase_portugues": "Eu anotei todos os meus compromissos na minha agenda."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Plan",
+        "portugues": "Plano",
+        "frase_ingles": "What is your plan for the weekend?",
+        "frase_portugues": "Qual é o seu plano para o fim de semana?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Goal",
+        "portugues": "Objetivo / Meta",
+        "frase_ingles": "My goal is to run a marathon next year.",
+        "frase_portugues": "Meu objetivo é correr uma maratona no ano que vem."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Habit",
+        "portugues": "Hábito",
+        "frase_ingles": "Getting up early is a good habit.",
+        "frase_portugues": "Levantar cedo é um bom hábito."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Task",
+        "portugues": "Tarefa",
+        "frase_ingles": "I finished all the tasks on my list.",
+        "frase_portugues": "Eu terminei todas as tarefas da minha lista."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Nap",
+        "portugues": "Soneca",
+        "frase_ingles": "A short nap can help you feel refreshed.",
+        "frase_portugues": "Uma soneca curta pode ajudar a se sentir revigorado(a)."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Dream",
+        "portugues": "Sonho",
+        "frase_ingles": "I had a very strange dream last night.",
+        "frase_portugues": "Eu tive um sonho muito estranho na noite passada."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Workout",
+        "portugues": "Treino",
+        "frase_ingles": "I do a workout at the gym every morning.",
+        "frase_portugues": "Eu faço um treino na academia todas as manhãs."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Meal prep",
+        "portugues": "Preparação de refeições",
+        "frase_ingles": "Meal prep for the week saves a lot of time.",
+        "frase_portugues": "A preparação de refeições para a semana economiza muito tempo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Self-care",
+        "portugues": "Autocuidado",
+        "frase_ingles": "Self-care is essential for mental health.",
+        "frase_portugues": "O autocuidado é essencial para a saúde mental."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Downtime",
+        "portugues": "Tempo de inatividade / Descanso",
+        "frase_ingles": "I need some downtime after a busy day.",
+        "frase_portugues": "Eu preciso de um tempo de descanso depois de um dia agitado."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Me-time",
+        "portugues": "Tempo para si mesmo(a)",
+        "frase_ingles": "I like to use my me-time to read.",
+        "frase_portugues": "Eu gosto de usar meu tempo para mim para ler."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Errand",
+        "portugues": "Comissão / Tarefa rápida",
+        "frase_ingles": "I have to run some errands this afternoon.",
+        "frase_portugues": "Eu tenho que fazer algumas comissões esta tarde."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Chore",
+        "portugues": "Tarefa doméstica",
+        "frase_ingles": "Doing chores is part of my weekend routine.",
+        "frase_portugues": "Fazer tarefas domésticas faz parte da minha rotina de fim de semana."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Schedule",
+        "portugues": "Agenda / Cronograma",
+        "frase_ingles": "My schedule for tomorrow is very busy.",
+        "frase_portugues": "Minha agenda para amanhã está muito ocupada."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Plan",
+        "portugues": "Plano",
+        "frase_ingles": "What is your plan for your vacation?",
+        "frase_portugues": "Qual é o seu plano para as suas férias?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Break",
+        "portugues": "Intervalo",
+        "frase_ingles": "Let's take a short coffee break.",
+        "frase_portugues": "Vamos fazer um pequeno intervalo para o café."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Appointment",
+        "portugues": "Compromisso / Consulta",
+        "frase_ingles": "I have an appointment with my dentist.",
+        "frase_portugues": "Eu tenho um compromisso com meu dentista."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Commute",
+        "portugues": "Trajeto",
+        "frase_ingles": "My commute to work takes 30 minutes.",
+        "frase_portugues": "Meu trajeto até o trabalho leva 30 minutos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Hygiene",
+        "portugues": "Higiene",
+        "frase_ingles": "Good hygiene is important for health.",
+        "frase_portugues": "Uma boa higiene é importante para a saúde."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Meditation",
+        "portugues": "Meditação",
+        "frase_ingles": "Meditation helps me relax and focus.",
+        "frase_portugues": "A meditação me ajuda a relaxar e a me concentrar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Stretching",
+        "portugues": "Alongamento",
+        "frase_ingles": "Stretching after running is very important.",
+        "frase_portugues": "O alongamento depois de correr é muito importante."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Workout",
+        "portugues": "Treino",
+        "frase_ingles": "I do a workout at the gym every morning.",
+        "frase_portugues": "Eu faço um treino na academia todas as manhãs."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Meal prep",
+        "portugues": "Preparação de refeições",
+        "frase_ingles": "Meal prep for the week saves a lot of time.",
+        "frase_portugues": "A preparação de refeições para a semana economiza muito tempo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Self-care",
+        "portugues": "Autocuidado",
+        "frase_ingles": "Self-care is essential for mental health.",
+        "frase_portugues": "O autocuidado é essencial para a saúde mental."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Downtime",
+        "portugues": "Tempo de inatividade / Descanso",
+        "frase_ingles": "I need some downtime after a busy day.",
+        "frase_portugues": "Eu preciso de um tempo de descanso depois de um dia agitado."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Me-time",
+        "portugues": "Tempo para si mesmo(a)",
+        "frase_ingles": "I like to use my me-time to read.",
+        "frase_portugues": "Eu gosto de usar meu tempo para mim para ler."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Errand",
+        "portugues": "Comissão / Tarefa rápida",
+        "frase_ingles": "I have to run some errands this afternoon.",
+        "frase_portugues": "Eu tenho que fazer algumas comissões esta tarde."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Chore",
+        "portugues": "Tarefa doméstica",
+        "frase_ingles": "Doing chores is part of my weekend routine.",
+        "frase_portugues": "Fazer tarefas domésticas faz parte da minha rotina de fim de semana."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Schedule",
+        "portugues": "Agenda / Cronograma",
+        "frase_ingles": "My schedule for tomorrow is very busy.",
+        "frase_portugues": "Minha agenda para amanhã está muito ocupada."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Plan",
+        "portugues": "Plano",
+        "frase_ingles": "What is your plan for your vacation?",
+        "frase_portugues": "Qual é o seu plano para as suas férias?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Break",
+        "portugues": "Intervalo",
+        "frase_ingles": "Let's take a short coffee break.",
+        "frase_portugues": "Vamos fazer um pequeno intervalo para o café."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Appointment",
+        "portugues": "Compromisso / Consulta",
+        "frase_ingles": "I have an appointment with my dentist.",
+        "frase_portugues": "Eu tenho um compromisso com meu dentista."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Commute",
+        "portugues": "Trajeto",
+        "frase_ingles": "My commute to work takes 30 minutes.",
+        "frase_portugues": "Meu trajeto até o trabalho leva 30 minutos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Hygiene",
+        "portugues": "Higiene",
+        "frase_ingles": "Good hygiene is important for health.",
+        "frase_portugues": "Uma boa higiene é importante para a saúde."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Meditation",
+        "portugues": "Meditação",
+        "frase_ingles": "Meditation helps me relax and focus.",
+        "frase_portugues": "A meditação me ajuda a relaxar e a me concentrar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Stretching",
+        "portugues": "Alongamento",
+        "frase_ingles": "Stretching after running is very important.",
+        "frase_portugues": "O alongamento depois de correr é muito importante."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Dusting",
+        "portugues": "Tirar o pó",
+        "frase_ingles": "I finished the dusting in the living room.",
+        "frase_portugues": "Eu terminei de tirar o pó na sala de estar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Vacuuming",
+        "portugues": "Passar aspirador",
+        "frase_ingles": "Vacuuming is the last chore on my list.",
+        "frase_portugues": "Passar aspirador é a última tarefa da minha lista."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Sweeping",
+        "portugues": "Varrer",
+        "frase_ingles": "She did the sweeping before mopping the floor.",
+        "frase_portugues": "Ela varreu antes de passar pano no chão."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Mopping",
+        "portugues": "Passar pano",
+        "frase_ingles": "The mopping took longer than I expected.",
+        "frase_portugues": "O ato de passar pano levou mais tempo do que eu esperava."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Washing",
+        "portugues": "Lavagem",
+        "frase_ingles": "The washing machine is running right now.",
+        "frase_portugues": "A máquina de lavar está funcionando agora."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Ironing",
+        "portugues": "Passar roupa",
+        "frase_ingles": "The ironing is all done for the week.",
+        "frase_portugues": "A roupa para passar está toda feita para a semana."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Tidying",
+        "portugues": "Arrumação",
+        "frase_ingles": "The tidying of the closet took all afternoon.",
+        "frase_portugues": "A arrumação do armário levou a tarde toda."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Gardening",
+        "portugues": "Jardinagem",
+        "frase_ingles": "Gardening is a very relaxing hobby.",
+        "frase_portugues": "Jardinagem é um hobby muito relaxante."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Repairs",
+        "portugues": "Reparos / Consertos",
+        "frase_ingles": "The house needs some minor repairs.",
+        "frase_portugues": "A casa precisa de alguns pequenos reparos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Maintenance",
+        "portugues": "Manutenção",
+        "frase_ingles": "Home maintenance is important to prevent problems.",
+        "frase_portugues": "A manutenção da casa é importante para prevenir problemas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Baking",
+        "portugues": "Cozinhar (assando)",
+        "frase_ingles": "I love the smell of baking bread.",
+        "frase_portugues": "Eu amo o cheiro de pão assando."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Cooking",
+        "portugues": "Culinária / Cozinhado",
+        "frase_ingles": "Cooking is a great way to express creativity.",
+        "frase_portugues": "Culinária é uma ótima forma de expressar criatividade."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Meal prep",
+        "portugues": "Preparação de refeições",
+        "frase_ingles": "Meal prep on Sundays helps me eat healthy all week.",
+        "frase_portugues": "A preparação de refeições aos domingos me ajuda a comer de forma saudável a semana toda."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Grocery shopping",
+        "portugues": "Compras de supermercado",
+        "frase_ingles": "Grocery shopping is a weekly routine for me.",
+        "frase_portugues": "Fazer compras de supermercado é uma rotina semanal para mim."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Laundry",
+        "portugues": "Roupa para lavar",
+        "frase_ingles": "I have a huge pile of laundry to do.",
+        "frase_portugues": "Eu tenho uma pilha enorme de roupa para lavar."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Dishes",
+        "portugues": "Louça",
+        "frase_ingles": "Washing the dishes is my least favorite chore.",
+        "frase_portugues": "Lavar a louça é a minha tarefa menos favorita."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Hallway",
+        "portugues": "Corredor",
+        "frase_ingles": "The bedrooms are all down the hallway.",
+        "frase_portugues": "Os quartos ficam todos no corredor."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Stairs",
+        "portugues": "Escadas",
+        "frase_ingles": "Be careful when you go down the stairs.",
+        "frase_portugues": "Tenha cuidado ao descer as escadas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Basement",
+        "portugues": "Porão / Subsolo",
+        "frase_ingles": "We store old furniture in the basement.",
+        "frase_portugues": "Nós guardamos móveis antigos no porão."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Attic",
+        "portugues": "Sótão",
+        "frase_ingles": "The attic is a great place to store things.",
+        "frase_portugues": "O sótão é um ótimo lugar para guardar coisas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Garage",
+        "portugues": "Garagem",
+        "frase_ingles": "He keeps his car in the garage.",
+        "frase_portugues": "Ele guarda o carro dele na garagem."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Driveway",
+        "portugues": "Entrada da garagem",
+        "frase_ingles": "The kids were playing basketball in the driveway.",
+        "frase_portugues": "As crianças estavam jogando basquete na entrada da garagem."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Porch",
+        "portugues": "Varanda / Alpendre",
+        "frase_ingles": "We sat on the porch and watched the sunset.",
+        "frase_portugues": "Nós sentamos na varanda e assistimos ao pôr do sol."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Balcony",
+        "portugues": "Sacada / Varanda",
+        "frase_ingles": "The apartment has a small balcony with a nice view.",
+        "frase_portugues": "O apartamento tem uma pequena sacada com uma bela vista."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Pantry",
+        "portugues": "Despensa",
+        "frase_ingles": "I keep all the food cans in the pantry.",
+        "frase_portugues": "Eu guardo todas as latas de comida na despensa."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Closet",
+        "portugues": "Armário",
+        "frase_ingles": "My clothes are all in the closet.",
+        "frase_portugues": "Minhas roupas estão todas no armário."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Drawer",
+        "portugues": "Gaveta",
+        "frase_ingles": "He keeps his socks in the top drawer.",
+        "frase_portugues": "Ele guarda as meias dele na gaveta de cima."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Cabinet",
+        "portugues": "Armário (de cozinha/banheiro)",
+        "frase_ingles": "The plates are in the kitchen cabinet.",
+        "frase_portugues": "Os pratos estão no armário da cozinha."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Shelf",
+        "portugues": "Prateleira",
+        "frase_ingles": "The books are on the bookshelf.",
+        "frase_portugues": "Os livros estão na prateleira de livros."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Appliance",
+        "portugues": "Eletrodoméstico",
+        "frase_ingles": "The kitchen is equipped with modern appliances.",
+        "frase_portugues": "A cozinha está equipada com eletrodomésticos modernos."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Toaster",
+        "portugues": "Torradeira",
+        "frase_ingles": "I made some toast in the toaster.",
+        "frase_portugues": "Eu fiz umas torradas na torradeira."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Blender",
+        "portugues": "Liquidificador",
+        "frase_ingles": "She used the blender to make a smoothie.",
+        "frase_portugues": "Ela usou o liquidificador para fazer um smoothie."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Kettle",
+        "portugues": "Chaleira",
+        "frase_ingles": "I am boiling water in the kettle for tea.",
+        "frase_portugues": "Eu estou fervendo água na chaleira para o chá."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Vacuum cleaner",
+        "portugues": "Aspirador de pó",
+        "frase_ingles": "The vacuum cleaner is in the closet.",
+        "frase_portugues": "O aspirador de pó está no armário."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Broom",
+        "portugues": "Vassoura",
+        "frase_ingles": "I need a broom to sweep the floor.",
+        "frase_portugues": "Eu preciso de uma vassoura para varrer o chão."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Subject",
+        "portugues": "Matéria",
+        "frase_ingles": "What is your favorite subject in school?",
+        "frase_portugues": "Qual é a sua matéria favorita na escola?"
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Lesson",
+        "portugues": "Lição / Aula",
+        "frase_ingles": "We learned a new lesson about history today.",
+        "frase_portugues": "Nós aprendemos uma nova lição sobre história hoje."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Course",
+        "portugues": "Curso",
+        "frase_ingles": "I signed up for a beginner's cooking course.",
+        "frase_portugues": "Eu me inscrevi em um curso de culinária para iniciantes."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Lecture",
+        "portugues": "Palestra / Aula (universitária)",
+        "frase_ingles": "The professor's lecture on art history was fascinating.",
+        "frase_portugues": "A palestra do professor sobre história da arte foi fascinante."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Professor",
+        "portugues": "Professor(a) (universitário)",
+        "frase_ingles": "My professor is an expert in biology.",
+        "frase_portugues": "Meu professor(a) é um(a) especialista em biologia."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Campus",
+        "portugues": "Campus",
+        "frase_ingles": "The university campus is very beautiful.",
+        "frase_portugues": "O campus da universidade é muito bonito."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Dormitory",
+        "portugues": "Dormitório",
+        "frase_ingles": "Many students live in the dormitory on campus.",
+        "frase_portugues": "Muitos estudantes moram no dormitório do campus."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Exam",
+        "portugues": "Exame / Prova",
+        "frase_ingles": "I have to study for my final exam.",
+        "frase_portugues": "Eu tenho que estudar para o meu exame final."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Test",
+        "portugues": "Teste",
+        "frase_ingles": "The class took a quick test on the last chapter.",
+        "frase_portugues": "A turma fez um teste rápido sobre o último capítulo."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Quiz",
+        "portugues": "Questionário / Teste rápido",
+        "frase_ingles": "The teacher gave us a short quiz.",
+        "frase_portugues": "O professor nos deu um questionário curto."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Grade",
+        "portugues": "Nota",
+        "frase_ingles": "He got a good grade on his report card.",
+        "frase_portugues": "Ele tirou uma nota boa no boletim."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Assignment",
+        "portugues": "Tarefa / Trabalho",
+        "frase_ingles": "I have a big assignment to finish by Friday.",
+        "frase_portugues": "Eu tenho um grande trabalho para terminar até sexta-feira."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Project",
+        "portugues": "Projeto",
+        "frase_ingles": "The group worked together on a science project.",
+        "frase_portugues": "O grupo trabalhou junto em um projeto de ciências."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Degree",
+        "portugues": "Grau acadêmico / Diploma",
+        "frase_ingles": "She earned her degree in computer science.",
+        "frase_portugues": "Ela obteve seu diploma em ciência da computação."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Research",
+        "portugues": "Pesquisa",
+        "frase_ingles": "His research focuses on climate change.",
+        "frase_portugues": "A pesquisa dele foca em mudanças climáticas."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Thesis",
+        "portugues": "Tese",
+        "frase_ingles": "He is writing his master's thesis.",
+        "frase_portugues": "Ele está escrevendo sua tese de mestrado."
+    },
+    {
+        "topico": "frases_comuns",
+        "ingles": "Experiment",
+        "portugues": "Experimento",
+        "frase_ingles": "We conducted a chemistry experiment in the lab.",
+            "frase_portugues": "Nós conduzimos um experimento de química no laboratório."
+    }
+]
