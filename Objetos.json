@@ -1,0 +1,722 @@
+[
+    {
+        "id": 1,
+        "ingles": "Spoon",
+        "portugues": "Colher",
+        "fraseIngles": "I need a spoon to stir the soup.",
+        "frasePortugues": "Eu preciso de uma colher para mexer a sopa.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 2,
+        "ingles": "Fork",
+        "portugues": "Garfo",
+        "fraseIngles": "She used a fork to eat the salad.",
+        "frasePortugues": "Ela usou um garfo para comer a salada.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 3,
+        "ingles": "Knife",
+        "portugues": "Faca",
+        "fraseIngles": "Be careful with that sharp knife.",
+        "frasePortugues": "Cuidado com essa faca afiada.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 4,
+        "ingles": "Plate",
+        "portugues": "Prato",
+        "fraseIngles": "He put the pasta on the plate.",
+        "frasePortugues": "Ele colocou o macarrão no prato.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 5,
+        "ingles": "Cup",
+        "portugues": "Xícara",
+        "fraseIngles": "I drink coffee from this cup every morning.",
+        "frasePortugues": "Eu tomo café nesta xícara todas as manhãs.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 6,
+        "ingles": "Pan",
+        "portugues": "Panela",
+        "fraseIngles": "The eggs are cooking in the pan.",
+        "frasePortugues": "Os ovos estão cozinhando na panela.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 7,
+        "ingles": "Fridge",
+        "portugues": "Geladeira",
+        "fraseIngles": "The milk is in the fridge.",
+        "frasePortugues": "O leite está na geladeira.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 8,
+        "ingles": "Stove",
+        "portugues": "Fogão",
+        "fraseIngles": "She is boiling water on the stove.",
+        "frasePortugues": "Ela está fervendo água no fogão.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 9,
+        "ingles": "Sink",
+        "portugues": "Pia",
+        "fraseIngles": "He washed the dishes in the sink.",
+        "frasePortugues": "Ele lavou a louça na pia.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 10,
+        "ingles": "Blender",
+        "portugues": "Liquidificador",
+        "fraseIngles": "I made a smoothie with the blender.",
+        "frasePortugues": "Eu fiz um smoothie com o liquidificador.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 11,
+        "ingles": "Microwave",
+        "portugues": "Micro-ondas",
+        "fraseIngles": "She heated the soup in the microwave.",
+        "frasePortugues": "Ela esquentou a sopa no micro-ondas.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 12,
+        "ingles": "Toaster",
+        "portugues": "Torradeira",
+        "fraseIngles": "He made toast using the toaster.",
+        "frasePortugues": "Ele fez torradas usando a torradeira.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 13,
+        "ingles": "Kettle",
+        "portugues": "Chaleira",
+        "fraseIngles": "I boiled water in the kettle for tea.",
+        "frasePortugues": "Eu fervi água na chaleira para o chá.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 14,
+        "ingles": "Oven",
+        "portugues": "Forno",
+        "fraseIngles": "The cake is baking in the oven.",
+        "frasePortugues": "O bolo está assando no forno.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 15,
+        "ingles": "Dishwasher",
+        "portugues": "Lava-louças",
+        "fraseIngles": "We put the dirty dishes in the dishwasher.",
+        "frasePortugues": "Nós colocamos a louça suja na lava-louças.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 16,
+        "ingles": "Cutting board",
+        "portugues": "Tábua de corte",
+        "fraseIngles": "She chopped vegetables on the cutting board.",
+        "frasePortugues": "Ela cortou os legumes na tábua de corte.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 17,
+        "ingles": "Ladle",
+        "portugues": "Concha",
+        "fraseIngles": "He served the soup with a ladle.",
+        "frasePortugues": "Ele serviu a sopa com uma concha.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 18,
+        "ingles": "Whisk",
+        "portugues": "Batedor",
+        "fraseIngles": "I used a whisk to mix the eggs.",
+        "frasePortugues": "Eu usei um batedor para misturar os ovos.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 19,
+        "ingles": "Grater",
+        "portugues": "Ralador",
+        "fraseIngles": "She grated cheese with the grater.",
+        "frasePortugues": "Ela ralou queijo com o ralador.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 20,
+        "ingles": "Measuring cup",
+        "portugues": "Copo medidor",
+        "fraseIngles": "He poured milk into the measuring cup.",
+        "frasePortugues": "Ele colocou leite no copo medidor.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 21,
+        "ingles": "Rolling pin",
+        "portugues": "Rolo de massa",
+        "fraseIngles": "She rolled out the dough with a rolling pin.",
+        "frasePortugues": "Ela abriu a massa com um rolo de massa.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 22,
+        "ingles": "Colander",
+        "portugues": "Escorredor",
+        "fraseIngles": "He drained the pasta using a colander.",
+        "frasePortugues": "Ele escorreu o macarrão usando um escorredor.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 23,
+        "ingles": "Tongs",
+        "portugues": "Pegador",
+        "fraseIngles": "She grabbed the hot sausages with tongs.",
+        "frasePortugues": "Ela pegou as salsichas quentes com o pegador.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 24,
+        "ingles": "Peeler",
+        "portugues": "Descascador",
+        "fraseIngles": "He peeled the potatoes with a peeler.",
+        "frasePortugues": "Ele descascou as batatas com um descascador.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 25,
+        "ingles": "Can opener",
+        "portugues": "Abridor de latas",
+        "fraseIngles": "I opened the beans with a can opener.",
+        "frasePortugues": "Eu abri o feijão com um abridor de latas.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 26,
+        "ingles": "Spatula",
+        "portugues": "Espátula",
+        "fraseIngles": "She flipped the pancake with a spatula.",
+        "frasePortugues": "Ela virou a panqueca com uma espátula.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 27,
+        "ingles": "Jar",
+        "portugues": "Pote",
+        "fraseIngles": "He stored the cookies in a jar.",
+        "frasePortugues": "Ele guardou os biscoitos em um pote.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 28,
+        "ingles": "Apron",
+        "portugues": "Avental",
+        "fraseIngles": "She wore an apron while cooking.",
+        "frasePortugues": "Ela usou um avental enquanto cozinhava.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 29,
+        "ingles": "Napkin",
+        "portugues": "Guardanapo",
+        "fraseIngles": "He wiped his mouth with a napkin.",
+        "frasePortugues": "Ele limpou a boca com um guardanapo.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 30,
+        "ingles": "Tray",
+        "portugues": "Bandeja",
+        "fraseIngles": "She served drinks on a tray.",
+        "frasePortugues": "Ela serviu bebidas em uma bandeja.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 31,
+        "ingles": "Bottle opener",
+        "portugues": "Abridor de garrafas",
+        "fraseIngles": "He opened the soda with a bottle opener.",
+        "frasePortugues": "Ele abriu o refrigerante com um abridor de garrafas.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 32,
+        "ingles": "Thermos",
+        "portugues": "Garrafa térmica",
+        "fraseIngles": "She poured coffee into the thermos.",
+        "frasePortugues": "Ela colocou café na garrafa térmica.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 33,
+        "ingles": "Mug",
+        "portugues": "Caneca",
+        "fraseIngles": "I drink tea from my favorite mug.",
+        "frasePortugues": "Eu tomo chá na minha caneca favorita.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 34,
+        "ingles": "Food processor",
+        "portugues": "Processador de alimentos",
+        "fraseIngles": "He chopped onions with the food processor.",
+        "frasePortugues": "Ele picou cebolas com o processador de alimentos.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 35,
+        "ingles": "Pressure cooker",
+        "portugues": "Panela de pressão",
+        "fraseIngles": "She cooked beans in the pressure cooker.",
+        "frasePortugues": "Ela cozinhou feijão na panela de pressão.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 36,
+        "ingles": "Ice tray",
+        "portugues": "Forma de gelo",
+        "fraseIngles": "He filled the ice tray with water.",
+        "frasePortugues": "Ele encheu a forma de gelo com água.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 37,
+        "ingles": "Paper towel",
+        "portugues": "Papel toalha",
+        "fraseIngles": "She cleaned the spill with a paper towel.",
+        "frasePortugues": "Ela limpou o derramamento com papel toalha.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 38,
+        "ingles": "Plastic wrap",
+        "portugues": "Filme plástico",
+        "fraseIngles": "He covered the bowl with plastic wrap.",
+        "frasePortugues": "Ele cobriu a tigela com filme plástico.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 39,
+        "ingles": "Bowl",
+        "portugues": "Tigela",
+        "fraseIngles": "She mixed the ingredients in a bowl.",
+        "frasePortugues": "Ela misturou os ingredientes em uma tigela.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 40,
+        "ingles": "Timer",
+        "portugues": "Cronômetro",
+        "fraseIngles": "He set the timer for 20 minutes.",
+        "frasePortugues": "Ele ajustou o cronômetro para 20 minutos.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 41,
+        "ingles": "Skillet",
+        "portugues": "Frigideira",
+        "fraseIngles": "She fried the vegetables in the skillet.",
+        "frasePortugues": "Ela fritou os legumes na frigideira.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 42,
+        "ingles": "Pitcher",
+        "portugues": "Jarra",
+        "fraseIngles": "He poured juice from the pitcher.",
+        "frasePortugues": "Ele serviu suco da jarra.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 43,
+        "ingles": "Lid",
+        "portugues": "Tampa",
+        "fraseIngles": "She covered the pot with a lid.",
+        "frasePortugues": "Ela cobriu a panela com uma tampa.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 44,
+        "ingles": "Rack",
+        "portugues": "Grade",
+        "fraseIngles": "He cooled the cookies on a rack.",
+        "frasePortugues": "Ele deixou os biscoitos esfriarem na grade.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 45,
+        "ingles": "Napkin holder",
+        "portugues": "Porta-guardanapos",
+        "fraseIngles": "She placed the napkins in the napkin holder.",
+        "frasePortugues": "Ela colocou os guardanapos no porta-guardanapos.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 46,
+        "ingles": "Spice rack",
+        "portugues": "Porta-temperos",
+        "fraseIngles": "He organized the spices on the spice rack.",
+        "frasePortugues": "Ele organizou os temperos no porta-temperos.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 47,
+        "ingles": "Tea strainer",
+        "portugues": "Coador de chá",
+        "fraseIngles": "She used a tea strainer for loose leaves.",
+        "frasePortugues": "Ela usou um coador de chá para folhas soltas.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 48,
+        "ingles": "Mortar",
+        "portugues": "Pilão",
+        "fraseIngles": "He crushed garlic in the mortar.",
+        "frasePortugues": "Ele esmagou alho no pilão.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 49,
+        "ingles": "Pestle",
+        "portugues": "Socador",
+        "fraseIngles": "She ground herbs with the pestle.",
+        "frasePortugues": "Ela triturou ervas com o socador.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 50,
+        "ingles": "Food container",
+        "portugues": "Pote de comida",
+        "fraseIngles": "He stored leftovers in a food container.",
+        "frasePortugues": "Ele guardou as sobras em um pote de comida.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 51,
+        "ingles": "Cooling rack",
+        "portugues": "Grade de resfriamento",
+        "fraseIngles": "She placed the cupcakes on the cooling rack.",
+        "frasePortugues": "Ela colocou os cupcakes na grade de resfriamento.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 52,
+        "ingles": "Pastry brush",
+        "portugues": "Pincel de confeitaria",
+        "fraseIngles": "He brushed butter on the bread with a pastry brush.",
+        "frasePortugues": "Ele passou manteiga no pão com um pincel de confeitaria.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 53,
+        "ingles": "Mandoline",
+        "portugues": "Fatiador",
+        "fraseIngles": "She sliced the cucumber with a mandoline.",
+        "frasePortugues": "Ela fatiou o pepino com um fatiador.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 54,
+        "ingles": "Salad spinner",
+        "portugues": "Centrífuga de salada",
+        "fraseIngles": "He dried the lettuce in the salad spinner.",
+        "frasePortugues": "Ele secou a alface na centrífuga de salada.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 55,
+        "ingles": "Egg timer",
+        "portugues": "Timer de ovo",
+        "fraseIngles": "She used an egg timer to boil the eggs perfectly.",
+        "frasePortugues": "Ela usou um timer de ovo para cozinhar os ovos perfeitamente.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 56,
+        "ingles": "Zester",
+        "portugues": "Ralador de raspas",
+        "fraseIngles": "He added lemon zest using a zester.",
+        "frasePortugues": "Ele adicionou raspas de limão usando um ralador de raspas.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 57,
+        "ingles": "Ice cream scoop",
+        "portugues": "Colher de sorvete",
+        "fraseIngles": "She served ice cream with an ice cream scoop.",
+        "frasePortugues": "Ela serviu sorvete com uma colher de sorvete.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 58,
+        "ingles": "Garlic press",
+        "portugues": "Espremedor de alho",
+        "fraseIngles": "He crushed garlic with a garlic press.",
+        "frasePortugues": "Ele esmagou alho com um espremedor de alho.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 59,
+        "ingles": "Butter dish",
+        "portugues": "Manteigueira",
+        "fraseIngles": "She kept the butter in a butter dish.",
+        "frasePortugues": "Ela guardou a manteiga na manteigueira.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 60,
+        "ingles": "Spice jar",
+        "portugues": "Pote de tempero",
+        "fraseIngles": "He filled the spice jar with oregano.",
+        "frasePortugues": "Ele encheu o pote de tempero com orégano.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 61,
+        "ingles": "Baking sheet",
+        "portugues": "Assadeira",
+        "fraseIngles": "She placed the cookies on the baking sheet.",
+        "frasePortugues": "Ela colocou os biscoitos na assadeira.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 62,
+        "ingles": "Dutch oven",
+        "portugues": "Panela de ferro",
+        "fraseIngles": "He cooked stew in the Dutch oven.",
+        "frasePortugues": "Ele cozinhou ensopado na panela de ferro.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 63,
+        "ingles": "Roasting pan",
+        "portugues": "Assadeira funda",
+        "fraseIngles": "She roasted the chicken in a roasting pan.",
+        "frasePortugues": "Ela assou o frango em uma assadeira funda.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 64,
+        "ingles": "Mixing spoon",
+        "portugues": "Colher de mistura",
+        "fraseIngles": "He stirred the sauce with a mixing spoon.",
+        "frasePortugues": "Ele mexeu o molho com uma colher de mistura.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 65,
+        "ingles": "Kitchen scale",
+        "portugues": "Balança de cozinha",
+        "fraseIngles": "She weighed the flour on the kitchen scale.",
+        "frasePortugues": "Ela pesou a farinha na balança de cozinha.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 66,
+        "ingles": "Cooking thermometer",
+        "portugues": "Termômetro de cozinha",
+        "fraseIngles": "He checked the meat with a cooking thermometer.",
+        "frasePortugues": "Ele verificou a carne com um termômetro de cozinha.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 67,
+        "ingles": "Oil dispenser",
+        "portugues": "Dispenser de óleo",
+        "fraseIngles": "She poured olive oil from the oil dispenser.",
+        "frasePortugues": "Ela despejou azeite do dispenser de óleo.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 68,
+        "ingles": "Cupboard",
+        "portugues": "Armário de cozinha",
+        "fraseIngles": "He stored the plates in the cupboard.",
+        "frasePortugues": "Ele guardou os pratos no armário de cozinha.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 69,
+        "ingles": "Kitchen towel",
+        "portugues": "Toalha de cozinha",
+        "fraseIngles": "She dried her hands with a kitchen towel.",
+        "frasePortugues": "Ela secou as mãos com uma toalha de cozinha.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 70,
+        "ingles": "Splash guard",
+        "portugues": "Protetor contra respingos",
+        "fraseIngles": "He used a splash guard while frying bacon.",
+        "frasePortugues": "Ele usou um protetor contra respingos ao fritar bacon.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 71,
+        "ingles": "Grater",
+        "portugues": "Ralador",
+        "fraseIngles": "She grated the cheese with a grater.",
+        "frasePortugues": "Ela ralou o queijo com um ralador.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 72,
+        "ingles": "Rolling pin",
+        "portugues": "Rolo de massa",
+        "fraseIngles": "He flattened the dough with a rolling pin.",
+        "frasePortugues": "Ele achatou a massa com um rolo de massa.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 73,
+        "ingles": "Colander",
+        "portugues": "Escorredor",
+        "fraseIngles": "She drained the pasta in a colander.",
+        "frasePortugues": "Ela escorreu o macarrão no escorredor.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 74,
+        "ingles": "Ladle",
+        "portugues": "Concha",
+        "fraseIngles": "He served the soup with a ladle.",
+        "frasePortugues": "Ele serviu a sopa com uma concha.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 75,
+        "ingles": "Peeler",
+        "portugues": "Descascador",
+        "fraseIngles": "She peeled the carrots with a peeler.",
+        "frasePortugues": "Ela descascou as cenouras com um descascador.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 76,
+        "ingles": "Whisk",
+        "portugues": "Batedor de arame",
+        "fraseIngles": "He whisked the eggs quickly.",
+        "frasePortugues": "Ele bateu os ovos rapidamente com um batedor de arame.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 77,
+        "ingles": "Toaster",
+        "portugues": "Torradeira",
+        "fraseIngles": "She toasted the bread in the toaster.",
+        "frasePortugues": "Ela torrava o pão na torradeira.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 78,
+        "ingles": "Blender",
+        "portugues": "Liquidificador",
+        "fraseIngles": "He made a smoothie in the blender.",
+        "frasePortugues": "Ele fez um smoothie no liquidificador.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 79,
+        "ingles": "Can opener",
+        "portugues": "Abridor de latas",
+        "fraseIngles": "She opened the beans with a can opener.",
+        "frasePortugues": "Ela abriu o feijão com um abridor de latas.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    },
+    {
+        "id": 80,
+        "ingles": "Dish rack",
+        "portugues": "Escorredor de pratos",
+        "fraseIngles": "He placed the clean dishes on the dish rack.",
+        "frasePortugues": "Ele colocou os pratos limpos no escorredor de pratos.",
+        "subtopico": "Cozinha",
+        "topico": "Objetos"
+    }
+]
