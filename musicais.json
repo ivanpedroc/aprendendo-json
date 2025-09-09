@@ -1,0 +1,1334 @@
+[
+    {
+        "id": 1,
+        "ingles": "Piano",
+        "portugues": "Piano",
+        "fraseIngles": "Play classical music on the piano.",
+        "frasePortugues": "Toque música clássica no piano.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 2,
+        "ingles": "Grand piano",
+        "portugues": "Piano de cauda",
+        "fraseIngles": "The concert hall has a beautiful grand piano.",
+        "frasePortugues": "A sala de concerto tem um lindo piano de cauda.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 3,
+        "ingles": "Upright piano",
+        "portugues": "Piano vertical",
+        "fraseIngles": "An upright piano fits better in small rooms.",
+        "frasePortugues": "Um piano vertical cabe melhor em salas pequenas.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 4,
+        "ingles": "Electric piano",
+        "portugues": "Piano elétrico",
+        "fraseIngles": "Jazz musicians often use an electric piano.",
+        "frasePortugues": "Músicos de jazz frequentemente usam um piano elétrico.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 5,
+        "ingles": "Digital piano",
+        "portugues": "Piano digital",
+        "fraseIngles": "Practice quietly with a digital piano.",
+        "frasePortugues": "Pratique silenciosamente com um piano digital.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 6,
+        "ingles": "Keyboard",
+        "portugues": "Teclado",
+        "fraseIngles": "Learn to play on an electronic keyboard.",
+        "frasePortugues": "Aprenda a tocar em um teclado eletrônico.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 7,
+        "ingles": "Synthesizer",
+        "portugues": "Sintetizador",
+        "fraseIngles": "Create unique sounds with a synthesizer.",
+        "frasePortugues": "Crie sons únicos com um sintetizador.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 8,
+        "ingles": "Organ",
+        "portugues": "Órgão",
+        "fraseIngles": "Churches often have a large organ.",
+        "frasePortugues": "Igrejas frequentemente têm um órgão grande.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 9,
+        "ingles": "Hammond organ",
+        "portugues": "Órgão Hammond",
+        "fraseIngles": "Rock bands love the Hammond organ sound.",
+        "frasePortugues": "Bandas de rock adoram o som do órgão Hammond.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 10,
+        "ingles": "Pipe organ",
+        "portugues": "Órgão de tubos",
+        "fraseIngles": "The pipe organ has hundreds of pipes.",
+        "frasePortugues": "O órgão de tubos tem centenas de tubos.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 11,
+        "ingles": "Accordion",
+        "portugues": "Acordeão",
+        "fraseIngles": "Folk musicians play the accordion.",
+        "frasePortugues": "Músicos folclóricos tocam acordeão.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 12,
+        "ingles": "Harmonica",
+        "portugues": "Gaita",
+        "fraseIngles": "Blues players often use a harmonica.",
+        "frasePortugues": "Músicos de blues frequentemente usam gaita.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 13,
+        "ingles": "Guitar",
+        "portugues": "Violão",
+        "fraseIngles": "Strum chords on an acoustic guitar.",
+        "frasePortugues": "Dedilhe acordes no violão acústico.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 14,
+        "ingles": "Acoustic guitar",
+        "portugues": "Violão acústico",
+        "fraseIngles": "Campfire songs sound great on acoustic guitar.",
+        "frasePortugues": "Canções de fogueira soam bem no violão acústico.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 15,
+        "ingles": "Electric guitar",
+        "portugues": "Guitarra elétrica",
+        "fraseIngles": "Rock music features electric guitar.",
+        "frasePortugues": "Música rock apresenta guitarra elétrica.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 16,
+        "ingles": "Classical guitar",
+        "portugues": "Violão clássico",
+        "fraseIngles": "Classical guitar uses nylon strings.",
+        "frasePortugues": "Violão clássico usa cordas de nylon.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 17,
+        "ingles": "Steel guitar",
+        "portugues": "Guitarra de aço",
+        "fraseIngles": "Country music often includes steel guitar.",
+        "frasePortugues": "Música country frequentemente inclui guitarra de aço.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 18,
+        "ingles": "Bass guitar",
+        "portugues": "Baixo elétrico",
+        "fraseIngles": "The bass guitar provides the rhythm foundation.",
+        "frasePortugues": "O baixo elétrico fornece a base rítmica.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 19,
+        "ingles": "Upright bass",
+        "portugues": "Contrabaixo acústico",
+        "fraseIngles": "Jazz ensembles feature an upright bass.",
+        "frasePortugues": "Conjuntos de jazz apresentam contrabaixo acústico.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 20,
+        "ingles": "Banjo",
+        "portugues": "Banjo",
+        "fraseIngles": "Bluegrass music showcases the banjo.",
+        "frasePortugues": "Música bluegrass destaca o banjo.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 21,
+        "ingles": "Mandolin",
+        "portugues": "Bandolim",
+        "fraseIngles": "The mandolin adds brightness to folk music.",
+        "frasePortugues": "O bandolim adiciona brilho à música folclórica.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 22,
+        "ingles": "Ukulele",
+        "portugues": "Ukulele",
+        "fraseIngles": "Hawaiian music features the ukulele.",
+        "frasePortugues": "Música havaiana apresenta o ukulele.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 23,
+        "ingles": "Lute",
+        "portugues": "Alaúde",
+        "fraseIngles": "Medieval music used the lute.",
+        "frasePortugues": "Música medieval usava o alaúde.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 24,
+        "ingles": "Harp",
+        "portugues": "Harpa",
+        "fraseIngles": "Angels are often depicted playing a harp.",
+        "frasePortugues": "Anjos são frequentemente retratados tocando harpa.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 25,
+        "ingles": "Celtic harp",
+        "portugues": "Harpa celta",
+        "fraseIngles": "Irish music features the Celtic harp.",
+        "frasePortugues": "Música irlandesa apresenta a harpa celta.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 26,
+        "ingles": "Violin",
+        "portugues": "Violino",
+        "fraseIngles": "The violin produces beautiful melodies.",
+        "frasePortugues": "O violino produz belas melodias.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 27,
+        "ingles": "Viola",
+        "portugues": "Viola",
+        "fraseIngles": "The viola is slightly larger than a violin.",
+        "frasePortugues": "A viola é ligeiramente maior que um violino.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 28,
+        "ingles": "Cello",
+        "portugues": "Violoncelo",
+        "fraseIngles": "The cellist draws the bow across the strings.",
+        "frasePortugues": "O violoncelista passa o arco pelas cordas.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 29,
+        "ingles": "Double bass",
+        "portugues": "Contrabaixo",
+        "fraseIngles": "The double bass is the largest string instrument.",
+        "frasePortugues": "O contrabaixo é o maior instrumento de cordas.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 30,
+        "ingles": "Fiddle",
+        "portugues": "Rabeca",
+        "fraseIngles": "Country music often features a fiddle.",
+        "frasePortugues": "Música country frequentemente apresenta rabeca.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 31,
+        "ingles": "Electric violin",
+        "portugues": "Violino elétrico",
+        "fraseIngles": "Modern musicians experiment with electric violin.",
+        "frasePortugues": "Músicos modernos experimentam com violino elétrico.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 32,
+        "ingles": "Bow",
+        "portugues": "Arco",
+        "fraseIngles": "Draw the bow smoothly across the strings.",
+        "frasePortugues": "Passe o arco suavemente pelas cordas.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 33,
+        "ingles": "Trumpet",
+        "portugues": "Trompete",
+        "fraseIngles": "The trumpet plays the melody in jazz bands.",
+        "frasePortugues": "O trompete toca a melodia em bandas de jazz.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 34,
+        "ingles": "Cornet",
+        "portugues": "Corneta",
+        "fraseIngles": "The cornet is similar to a trumpet.",
+        "frasePortugues": "A corneta é similar ao trompete.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 35,
+        "ingles": "Flugelhorn",
+        "portugues": "Flugelhorn",
+        "fraseIngles": "The flugelhorn has a warmer tone than trumpet.",
+        "frasePortugues": "O flugelhorn tem um tom mais quente que o trompete.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 36,
+        "ingles": "French horn",
+        "portugues": "Trompa francesa",
+        "fraseIngles": "The French horn adds richness to orchestras.",
+        "frasePortugues": "A trompa francesa adiciona riqueza às orquestras.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 37,
+        "ingles": "Trombone",
+        "portugues": "Trombone",
+        "fraseIngles": "Slide the trombone to change pitches.",
+        "frasePortugues": "Deslize o trombone para mudar tons.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 38,
+        "ingles": "Tuba",
+        "portugues": "Tuba",
+        "fraseIngles": "The tuba provides the bass in brass sections.",
+        "frasePortugues": "A tuba fornece o grave nas seções de metais.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 39,
+        "ingles": "Euphonium",
+        "portugues": "Eufônio",
+        "fraseIngles": "The euphonium is smaller than a tuba.",
+        "frasePortugues": "O eufônio é menor que uma tuba.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 40,
+        "ingles": "Bugle",
+        "portugues": "Corneta militar",
+        "fraseIngles": "Military ceremonies use a bugle.",
+        "frasePortugues": "Cerimônias militares usam corneta militar.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 41,
+        "ingles": "Saxophone",
+        "portugues": "Saxofone",
+        "fraseIngles": "Jazz music prominently features saxophone.",
+        "frasePortugues": "Música jazz destaca proeminentemente o saxofone.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 42,
+        "ingles": "Alto saxophone",
+        "portugues": "Saxofone alto",
+        "fraseIngles": "The alto saxophone is popular in school bands.",
+        "frasePortugues": "O saxofone alto é popular em bandas escolares.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 43,
+        "ingles": "Tenor saxophone",
+        "portugues": "Saxofone tenor",
+        "fraseIngles": "Jazz soloists often play tenor saxophone.",
+        "frasePortugues": "Solistas de jazz frequentemente tocam saxofone tenor.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 44,
+        "ingles": "Soprano saxophone",
+        "portugues": "Saxofone soprano",
+        "fraseIngles": "The soprano saxophone has a higher pitch.",
+        "frasePortugues": "O saxofone soprano tem um tom mais agudo.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 45,
+        "ingles": "Baritone saxophone",
+        "portugues": "Saxofone barítono",
+        "fraseIngles": "The baritone saxophone plays lower notes.",
+        "frasePortugues": "O saxofone barítono toca notas mais graves.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 46,
+        "ingles": "Clarinet",
+        "portugues": "Clarinete",
+        "fraseIngles": "The clarinet has a woody tone.",
+        "frasePortugues": "O clarinete tem um tom amadeirado.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 47,
+        "ingles": "Bass clarinet",
+        "portugues": "Clarinete baixo",
+        "fraseIngles": "The bass clarinet plays lower than regular clarinet.",
+        "frasePortugues": "O clarinete baixo toca mais grave que o clarinete comum.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 48,
+        "ingles": "Oboe",
+        "portugues": "Oboé",
+        "fraseIngles": "The oboe uses a double reed.",
+        "frasePortugues": "O oboé usa uma palheta dupla.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 49,
+        "ingles": "English horn",
+        "portugues": "Corne inglês",
+        "fraseIngles": "The English horn is larger than an oboe.",
+        "frasePortugues": "O corne inglês é maior que um oboé.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 50,
+        "ingles": "Bassoon",
+        "portugues": "Fagote",
+        "fraseIngles": "The bassoon is a large double-reed instrument.",
+        "frasePortugues": "O fagote é um grande instrumento de palheta dupla.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 51,
+        "ingles": "Flute",
+        "portugues": "Flauta transversal",
+        "fraseIngles": "The flute produces a light, airy sound.",
+        "frasePortugues": "A flauta transversal produz um som leve e aéreo.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 52,
+        "ingles": "Piccolo",
+        "portugues": "Flautim",
+        "fraseIngles": "The piccolo plays an octave higher than flute.",
+        "frasePortugues": "O flautim toca uma oitava mais aguda que a flauta.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 53,
+        "ingles": "Alto flute",
+        "portugues": "Flauta alto",
+        "fraseIngles": "The alto flute has a deeper tone.",
+        "frasePortugues": "A flauta alto tem um tom mais profundo.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 54,
+        "ingles": "Pan flute",
+        "portugues": "Flauta de pã",
+        "fraseIngles": "South American music features pan flute.",
+        "frasePortugues": "Música sul-americana apresenta flauta de pã.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 55,
+        "ingles": "Recorder",
+        "portugues": "Flauta doce",
+        "fraseIngles": "Students often learn recorder first.",
+        "frasePortugues": "Estudantes frequentemente aprendem flauta doce primeiro.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 56,
+        "ingles": "Ocarina",
+        "portugues": "Ocarina",
+        "fraseIngles": "The ocarina is a small wind instrument.",
+        "frasePortugues": "A ocarina é um pequeno instrumento de sopro.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 57,
+        "ingles": "Harmonica",
+        "portugues": "Gaita de boca",
+        "fraseIngles": "Blues musicians excel at harmonica.",
+        "frasePortugues": "Músicos de blues se destacam na gaita de boca.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 58,
+        "ingles": "Mouth organ",
+        "portugues": "Gaita de boca",
+        "fraseIngles": "The mouth organ is another name for harmonica.",
+        "frasePortugues": "Gaita de boca é outro nome para harmônica.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 59,
+        "ingles": "Bagpipes",
+        "portugues": "Gaita de foles",
+        "fraseIngles": "Scottish music features bagpipes.",
+        "frasePortugues": "Música escocesa apresenta gaita de foles.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 60,
+        "ingles": "Didgeridoo",
+        "portugues": "Didgeridoo",
+        "fraseIngles": "Aboriginal Australians play the didgeridoo.",
+        "frasePortugues": "Aborígenes australianos tocam didgeridoo.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 61,
+        "ingles": "Drums",
+        "portugues": "Bateria",
+        "fraseIngles": "Rock bands need a good drummer.",
+        "frasePortugues": "Bandas de rock precisam de um bom baterista.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 62,
+        "ingles": "Drum set",
+        "portugues": "Bateria completa",
+        "fraseIngles": "A drum set includes multiple drums and cymbals.",
+        "frasePortugues": "Uma bateria completa inclui vários tambores e pratos.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 63,
+        "ingles": "Snare drum",
+        "portugues": "Caixa",
+        "fraseIngles": "The snare drum provides the backbeat.",
+        "frasePortugues": "A caixa fornece a batida de fundo.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 64,
+        "ingles": "Bass drum",
+        "portugues": "Surdo",
+        "fraseIngles": "The bass drum gives the deep thump.",
+        "frasePortugues": "O surdo dá a batida grave profunda.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 65,
+        "ingles": "Tom-tom",
+        "portugues": "Ton",
+        "fraseIngles": "Tom-toms add variety to drum patterns.",
+        "frasePortugues": "Tons adicionam variedade aos padrões de bateria.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 66,
+        "ingles": "Floor tom",
+        "portugues": "Surdo de chão",
+        "fraseIngles": "The floor tom produces low tones.",
+        "frasePortugues": "O surdo de chão produz tons graves.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 67,
+        "ingles": "Kick drum",
+        "portugues": "Bumbo",
+        "fraseIngles": "Press the pedal to hit the kick drum.",
+        "frasePortugues": "Pressione o pedal para bater o bumbo.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 68,
+        "ingles": "Hi-hat",
+        "portugues": "Chimbal de pedal",
+        "fraseIngles": "Open and close the hi-hat with your foot.",
+        "frasePortugues": "Abra e feche o chimbal de pedal com o pé.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 69,
+        "ingles": "Crash cymbal",
+        "portugues": "Prato de ataque",
+        "fraseIngles": "Strike the crash cymbal for emphasis.",
+        "frasePortugues": "Bata o prato de ataque para ênfase.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 70,
+        "ingles": "Ride cymbal",
+        "portugues": "Prato de condução",
+        "fraseIngles": "The ride cymbal keeps steady rhythm.",
+        "frasePortugues": "O prato de condução mantém ritmo constante.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 71,
+        "ingles": "Splash cymbal",
+        "portugues": "Prato splash",
+        "fraseIngles": "The splash cymbal creates a quick accent.",
+        "frasePortugues": "O prato splash cria um acento rápido.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 72,
+        "ingles": "China cymbal",
+        "portugues": "Prato china",
+        "fraseIngles": "The china cymbal has a trashy sound.",
+        "frasePortugues": "O prato china tem um som áspero.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 73,
+        "ingles": "Timpani",
+        "portugues": "Tímpanos",
+        "fraseIngles": "Orchestras use timpani for dramatic effect.",
+        "frasePortugues": "Orquestras usam tímpanos para efeito dramático.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 74,
+        "ingles": "Bongos",
+        "portugues": "Bongôs",
+        "fraseIngles": "Latin music features bongo drums.",
+        "frasePortugues": "Música latina apresenta bongôs.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 75,
+        "ingles": "Congas",
+        "portugues": "Congas",
+        "fraseIngles": "Salsa bands include conga drums.",
+        "frasePortugues": "Bandas de salsa incluem congas.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 76,
+        "ingles": "Djembe",
+        "portugues": "Djembe",
+        "fraseIngles": "African music showcases the djembe.",
+        "frasePortugues": "Música africana destaca o djembe.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 77,
+        "ingles": "Tabla",
+        "portugues": "Tabla",
+        "fraseIngles": "Indian classical music uses tabla drums.",
+        "frasePortugues": "Música clássica indiana usa tablas.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 78,
+        "ingles": "Frame drum",
+        "portugues": "Pandeiro",
+        "fraseIngles": "Folk music often includes frame drums.",
+        "frasePortugues": "Música folclórica frequentemente inclui pandeiros.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 79,
+        "ingles": "Tambourine",
+        "portugues": "Pandeireta",
+        "fraseIngles": "Add rhythm with a tambourine.",
+        "frasePortugues": "Adicione ritmo com uma pandeireta.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 80,
+        "ingles": "Triangle",
+        "portugues": "Triângulo",
+        "fraseIngles": "Strike the triangle for a clear ring.",
+        "frasePortugues": "Bata o triângulo para um toque claro.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 81,
+        "ingles": "Cowbell",
+        "portugues": "Agogô",
+        "fraseIngles": "Add cowbell for a distinctive sound.",
+        "frasePortugues": "Adicione agogô para um som distintivo.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 82,
+        "ingles": "Wood block",
+        "portugues": "Bloco de madeira",
+        "fraseIngles": "The wood block creates a sharp click.",
+        "frasePortugues": "O bloco de madeira cria um clique afiado.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 83,
+        "ingles": "Claves",
+        "portugues": "Claves",
+        "fraseIngles": "Cuban music uses wooden claves.",
+        "frasePortugues": "Música cubana usa claves de madeira.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 84,
+        "ingles": "Maracas",
+        "portugues": "Maracas",
+        "fraseIngles": "Shake maracas to add percussion.",
+        "frasePortugues": "Balance maracas para adicionar percussão.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 85,
+        "ingles": "Shaker",
+        "portugues": "Chocalho",
+        "fraseIngles": "A shaker adds subtle rhythm.",
+        "frasePortugues": "Um chocalho adiciona ritmo sutil.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 86,
+        "ingles": "Rain stick",
+        "portugues": "Bastão de chuva",
+        "fraseIngles": "The rain stick mimics rainfall sounds.",
+        "frasePortugues": "O bastão de chuva imita sons de chuva.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 87,
+        "ingles": "Cajon",
+        "portugues": "Cajón",
+        "fraseIngles": "Flamenco music features the cajon.",
+        "frasePortugues": "Música flamenca apresenta o cajón.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 88,
+        "ingles": "Vibraphone",
+        "portugues": "Vibrafone",
+        "fraseIngles": "Jazz musicians love the vibraphone.",
+        "frasePortugues": "Músicos de jazz adoram o vibrafone.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 89,
+        "ingles": "Xylophone",
+        "portugues": "Xilofone",
+        "fraseIngles": "Children learn music on a xylophone.",
+        "frasePortugues": "Crianças aprendem música no xilofone.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 90,
+        "ingles": "Marimba",
+        "portugues": "Marimba",
+        "fraseIngles": "The marimba has wooden bars.",
+        "frasePortugues": "A marimba tem barras de madeira.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 91,
+        "ingles": "Glockenspiel",
+        "portugues": "Glockenspiel",
+        "fraseIngles": "The glockenspiel has metal bars.",
+        "frasePortugues": "O glockenspiel tem barras de metal.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 92,
+        "ingles": "Chimes",
+        "portugues": "Sinos tubulares",
+        "fraseIngles": "Wind chimes create peaceful sounds.",
+        "frasePortugues": "Sinos de vento criam sons pacíficos.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 93,
+        "ingles": "Bell",
+        "portugues": "Sino",
+        "fraseIngles": "Church bells ring on Sundays.",
+        "frasePortugues": "Sinos de igreja tocam aos domingos.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 94,
+        "ingles": "Gong",
+        "portugues": "Gongo",
+        "fraseIngles": "Strike the gong for dramatic effect.",
+        "frasePortugues": "Bata o gongo para efeito dramático.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 95,
+        "ingles": "Cymbals",
+        "portugues": "Pratos",
+        "fraseIngles": "Crash the cymbals together loudly.",
+        "frasePortugues": "Bata os pratos juntos com força.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 96,
+        "ingles": "Castanets",
+        "portugues": "Castanholas",
+        "fraseIngles": "Spanish flamenco uses castanets.",
+        "frasePortugues": "Flamenco espanhol usa castanholas.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 97,
+        "ingles": "Spoons",
+        "portugues": "Colheres",
+        "fraseIngles": "Folk musicians play rhythm with spoons.",
+        "frasePortugues": "Músicos folclóricos fazem ritmo com colheres.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 98,
+        "ingles": "Washboard",
+        "portugues": "Tábua de lavar",
+        "fraseIngles": "Country music sometimes includes washboard.",
+        "frasePortugues": "Música country às vezes inclui tábua de lavar.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 99,
+        "ingles": "Jaw harp",
+        "portugues": "Berimbau de boca",
+        "fraseIngles": "The jaw harp creates twanging sounds.",
+        "frasePortugues": "O berimbau de boca cria sons vibrantes.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 100,
+        "ingles": "Kazoo",
+        "portugues": "Kazoo",
+        "fraseIngles": "Children enjoy playing the kazoo.",
+        "frasePortugues": "Crianças gostam de tocar kazoo.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 101,
+        "ingles": "Whistle",
+        "portugues": "Apito",
+        "fraseIngles": "Referees use a whistle in sports.",
+        "frasePortugues": "Árbitros usam apito nos esportes.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 102,
+        "ingles": "Slide whistle",
+        "portugues": "Apito deslizante",
+        "fraseIngles": "The slide whistle makes funny sounds.",
+        "frasePortugues": "O apito deslizante faz sons engraçados.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 103,
+        "ingles": "Theremin",
+        "portugues": "Theremin",
+        "fraseIngles": "The theremin is played without touching.",
+        "frasePortugues": "O theremin é tocado sem tocar.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 104,
+        "ingles": "Electronic drums",
+        "portugues": "Bateria eletrônica",
+        "fraseIngles": "Practice quietly with electronic drums.",
+        "frasePortugues": "Pratique silenciosamente com bateria eletrônica.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 105,
+        "ingles": "Drum machine",
+        "portugues": "Caixa de ritmos",
+        "fraseIngles": "Producers use drum machines for beats.",
+        "frasePortugues": "Produtores usam caixas de ritmos para batidas.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 106,
+        "ingles": "Sequencer",
+        "portugues": "Sequenciador",
+        "fraseIngles": "Program music with a sequencer.",
+        "frasePortugues": "Programe música com um sequenciador.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 107,
+        "ingles": "Sampler",
+        "portugues": "Sampler",
+        "fraseIngles": "Record sounds with a digital sampler.",
+        "frasePortugues": "Grave sons com um sampler digital.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 108,
+        "ingles": "MIDI controller",
+        "portugues": "Controlador MIDI",
+        "fraseIngles": "Control software with a MIDI controller.",
+        "frasePortugues": "Controle software com um controlador MIDI.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 109,
+        "ingles": "Turntable",
+        "portugues": "Toca-discos",
+        "fraseIngles": "DJs use turntables to mix music.",
+        "frasePortugues": "DJs usam toca-discos para mixar música.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 110,
+        "ingles": "DJ mixer",
+        "portugues": "Mesa de DJ",
+        "fraseIngles": "Blend tracks with a DJ mixer.",
+        "frasePortugues": "Misture faixas com uma mesa de DJ.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 111,
+        "ingles": "Microphone",
+        "portugues": "Microfone",
+        "fraseIngles": "Sing into the microphone clearly.",
+        "frasePortugues": "Cante no microfone claramente.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 112,
+        "ingles": "Vocal mic",
+        "portugues": "Microfone vocal",
+        "fraseIngles": "Use a vocal mic for singing.",
+        "frasePortugues": "Use um microfone vocal para cantar.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 113,
+        "ingles": "Instrument mic",
+        "portugues": "Microfone instrumental",
+        "fraseIngles": "Record instruments with an instrument mic.",
+        "frasePortugues": "Grave instrumentos com um microfone instrumental.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 114,
+        "ingles": "Condenser mic",
+        "portugues": "Microfone condensador",
+        "fraseIngles": "Studio recordings use condenser mics.",
+        "frasePortugues": "Gravações de estúdio usam microfones condensadores.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 115,
+        "ingles": "Dynamic mic",
+        "portugues": "Microfone dinâmico",
+        "fraseIngles": "Live performances use dynamic mics.",
+        "frasePortugues": "Apresentações ao vivo usam microfones dinâmicos.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 116,
+        "ingles": "Wireless mic",
+        "portugues": "Microfone sem fio",
+        "fraseIngles": "Performers prefer wireless mics for mobility.",
+        "frasePortugues": "Artistas preferem microfones sem fio para mobilidade.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 117,
+        "ingles": "Headphones",
+        "portugues": "Fones de ouvido",
+        "fraseIngles": "Monitor your mix with good headphones.",
+        "frasePortugues": "Monitore sua mixagem com bons fones de ouvido.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 118,
+        "ingles": "Studio monitors",
+        "portugues": "Monitores de estúdio",
+        "fraseIngles": "Mix music accurately with studio monitors.",
+        "frasePortugues": "Mixe música precisamente com monitores de estúdio.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 119,
+        "ingles": "Amplifier",
+        "portugues": "Amplificador",
+        "fraseIngles": "Electric guitars need an amplifier.",
+        "frasePortugues": "Guitarras elétricas precisam de um amplificador.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 120,
+        "ingles": "Guitar amp",
+        "portugues": "Amplificador de guitarra",
+        "fraseIngles": "Rock guitarists use powerful guitar amps.",
+        "frasePortugues": "Guitarristas de rock usam amplificadores potentes.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 121,
+        "ingles": "Bass amp",
+        "portugues": "Amplificador de baixo",
+        "fraseIngles": "Bass guitars require bass amps.",
+        "frasePortugues": "Baixos elétricos requerem amplificadores de baixo.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 122,
+        "ingles": "PA system",
+        "portugues": "Sistema de som",
+        "fraseIngles": "Concerts need a good PA system.",
+        "frasePortugues": "Concertos precisam de um bom sistema de som.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 123,
+        "ingles": "Audio interface",
+        "portugues": "Interface de áudio",
+        "fraseIngles": "Connect instruments with an audio interface.",
+        "frasePortugues": "Conecte instrumentos com uma interface de áudio.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 124,
+        "ingles": "Mixing console",
+        "portugues": "Mesa de som",
+        "fraseIngles": "Engineers work at the mixing console.",
+        "frasePortugues": "Engenheiros trabalham na mesa de som.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 125,
+        "ingles": "Effects pedal",
+        "portugues": "Pedal de efeitos",
+        "fraseIngles": "Guitarists use effects pedals for variety.",
+        "frasePortugues": "Guitarristas usam pedais de efeitos para variedade.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 126,
+        "ingles": "Distortion pedal",
+        "portugues": "Pedal de distorção",
+        "fraseIngles": "Rock music uses distortion pedals.",
+        "frasePortugues": "Música rock usa pedais de distorção.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 127,
+        "ingles": "Delay pedal",
+        "portugues": "Pedal de delay",
+        "fraseIngles": "Create echoes with a delay pedal.",
+        "frasePortugues": "Crie ecos com um pedal de delay.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 128,
+        "ingles": "Reverb pedal",
+        "portugues": "Pedal de reverb",
+        "fraseIngles": "Add space with a reverb pedal.",
+        "frasePortugues": "Adicione espaço com um pedal de reverb.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 129,
+        "ingles": "Wah pedal",
+        "portugues": "Pedal wah",
+        "fraseIngles": "Funk guitarists love the wah pedal.",
+        "frasePortugues": "Guitarristas de funk adoram o pedal wah.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 130,
+        "ingles": "Volume pedal",
+        "portugues": "Pedal de volume",
+        "fraseIngles": "Control loudness with a volume pedal.",
+        "frasePortugues": "Controle o volume com um pedal de volume.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 131,
+        "ingles": "Tuner",
+        "portugues": "Afinador",
+        "fraseIngles": "Keep instruments in tune with a tuner.",
+        "frasePortugues": "Mantenha instrumentos afinados com um afinador.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 132,
+        "ingles": "Chromatic tuner",
+        "portugues": "Afinador cromático",
+        "fraseIngles": "A chromatic tuner works for all instruments.",
+        "frasePortugues": "Um afinador cromático funciona para todos instrumentos.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 133,
+        "ingles": "Pitch pipe",
+        "portugues": "Diapasão de sopro",
+        "fraseIngles": "Choir directors use a pitch pipe.",
+        "frasePortugues": "Diretores de coral usam diapasão de sopro.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 134,
+        "ingles": "Tuning fork",
+        "portugues": "Diapasão",
+        "fraseIngles": "Strike a tuning fork for pitch reference.",
+        "frasePortugues": "Bata um diapasão para referência de tom.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 135,
+        "ingles": "Metronome",
+        "portugues": "Metrônomo",
+        "fraseIngles": "Practice with a metronome for steady timing.",
+        "frasePortugues": "Pratique com um metrônomo para timing constante.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 136,
+        "ingles": "Music stand",
+        "portugues": "Estante de partitura",
+        "fraseIngles": "Hold sheet music on a music stand.",
+        "frasePortugues": "Segure partituras em uma estante de partitura.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 137,
+        "ingles": "Sheet music",
+        "portugues": "Partitura",
+        "fraseIngles": "Read notes from the sheet music.",
+        "frasePortugues": "Leia notas da partitura.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 138,
+        "ingles": "Guitar pick",
+        "portugues": "Palheta",
+        "fraseIngles": "Strum guitar strings with a pick.",
+        "frasePortugues": "Dedilhe cordas de violão com uma palheta.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 139,
+        "ingles": "Drumsticks",
+        "portugues": "Baquetas",
+        "fraseIngles": "Hit drums with wooden drumsticks.",
+        "frasePortugues": "Bata tambores com baquetas de madeira.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 140,
+        "ingles": "Mallets",
+        "portugues": "Baquetas macias",
+        "fraseIngles": "Play mallet instruments with soft mallets.",
+        "frasePortugues": "Toque instrumentos de percussão com baquetas macias.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 141,
+        "ingles": "Capo",
+        "portugues": "Capotraste",
+        "fraseIngles": "Change guitar key easily with a capo.",
+        "frasePortugues": "Mude tom do violão facilmente com capotraste.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 142,
+        "ingles": "Guitar strap",
+        "portugues": "Correia de violão",
+        "fraseIngles": "Wear your guitar with a guitar strap.",
+        "frasePortugues": "Use seu violão com uma correia de violão.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 143,
+        "ingles": "Instrument cable",
+        "portugues": "Cabo de instrumento",
+        "fraseIngles": "Connect electric instruments with cables.",
+        "frasePortugues": "Conecte instrumentos elétricos com cabos.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 144,
+        "ingles": "Speaker cable",
+        "portugues": "Cabo de caixa",
+        "fraseIngles": "Connect amplifiers to speakers with speaker cables.",
+        "frasePortugues": "Conecte amplificadores a caixas com cabos de caixa.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 145,
+        "ingles": "XLR cable",
+        "portugues": "Cabo XLR",
+        "fraseIngles": "Professional microphones use XLR cables.",
+        "frasePortugues": "Microfones profissionais usam cabos XLR.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 146,
+        "ingles": "Instrument case",
+        "portugues": "Estojo de instrumento",
+        "fraseIngles": "Protect your instrument in a case.",
+        "frasePortugues": "Proteja seu instrumento em um estojo.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 147,
+        "ingles": "Guitar case",
+        "portugues": "Case de violão",
+        "fraseIngles": "Travel safely with a guitar case.",
+        "frasePortugues": "Viaje com segurança com um case de violão.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    },
+    {
+        "id": 148,
+        "ingles": "Gig bag",
+        "portugues": "Bag",
+        "fraseIngles": "A gig bag is lighter than a hard case.",
+        "frasePortugues": "Uma bag é mais leve que um case rígido.",
+        "subtopico": "Instrumentos musicais",
+        "topico": "Objetos"
+    }
+]

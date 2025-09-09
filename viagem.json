@@ -1,0 +1,1316 @@
+[
+    {
+        "id": 1,
+        "ingles": "Suitcase",
+        "portugues": "Mala",
+        "fraseIngles": "Pack your clothes in a suitcase.",
+        "frasePortugues": "Arrume suas roupas em uma mala.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 2,
+        "ingles": "Luggage",
+        "portugues": "Bagagem",
+        "fraseIngles": "Check your luggage at the airport.",
+        "frasePortugues": "Despache sua bagagem no aeroporto.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 3,
+        "ingles": "Carry-on bag",
+        "portugues": "Bagagem de mão",
+        "fraseIngles": "Take a carry-on bag on the plane.",
+        "frasePortugues": "Leve uma bagagem de mão no avião.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 4,
+        "ingles": "Backpack",
+        "portugues": "Mochila",
+        "fraseIngles": "Hike with everything in your backpack.",
+        "frasePortugues": "Faça trilha com tudo na sua mochila.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 5,
+        "ingles": "Duffel bag",
+        "portugues": "Bolsa de viagem",
+        "fraseIngles": "Pack gym clothes in a duffel bag.",
+        "frasePortugues": "Arrume roupas de academia em uma bolsa de viagem.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 6,
+        "ingles": "Garment bag",
+        "portugues": "Porta-terno",
+        "fraseIngles": "Transport suits in a garment bag.",
+        "frasePortugues": "Transporte ternos em um porta-terno.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 7,
+        "ingles": "Rolling suitcase",
+        "portugues": "Mala com rodas",
+        "fraseIngles": "Pull a rolling suitcase through the airport.",
+        "frasePortugues": "Puxe uma mala com rodas pelo aeroporto.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 8,
+        "ingles": "Hard case",
+        "portugues": "Mala rígida",
+        "fraseIngles": "Protect fragile items in a hard case.",
+        "frasePortugues": "Proteja itens frágeis em uma mala rígida.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 9,
+        "ingles": "Soft case",
+        "portugues": "Mala flexível",
+        "fraseIngles": "A soft case is lighter than hard luggage.",
+        "frasePortugues": "Uma mala flexível é mais leve que bagagem rígida.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 10,
+        "ingles": "Weekender bag",
+        "portugues": "Bolsa de fim de semana",
+        "fraseIngles": "Pack light with a weekender bag.",
+        "frasePortugues": "Arrume pouco com uma bolsa de fim de semana.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 11,
+        "ingles": "Travel bag",
+        "portugues": "Bolsa de viagem",
+        "fraseIngles": "Carry essentials in your travel bag.",
+        "frasePortugues": "Carregue itens essenciais na sua bolsa de viagem.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 12,
+        "ingles": "Overnight bag",
+        "portugues": "Bolsa de pernoite",
+        "fraseIngles": "Pack for one night in an overnight bag.",
+        "frasePortugues": "Arrume para uma noite em uma bolsa de pernoite.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 13,
+        "ingles": "Toiletry bag",
+        "portugues": "Nécessaire",
+        "fraseIngles": "Keep toiletries organized in a toiletry bag.",
+        "frasePortugues": "Mantenha artigos de higiene organizados em uma nécessaire.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 14,
+        "ingles": "Cosmetic bag",
+        "portugues": "Bolsa de cosméticos",
+        "fraseIngles": "Store makeup in a cosmetic bag.",
+        "frasePortugues": "Guarde maquiagem em uma bolsa de cosméticos.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 15,
+        "ingles": "Shaving kit",
+        "portugues": "Kit de barbear",
+        "fraseIngles": "Men pack razors in a shaving kit.",
+        "frasePortugues": "Homens embalam barbeadores em um kit de barbear.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 16,
+        "ingles": "Travel kit",
+        "portugues": "Kit de viagem",
+        "fraseIngles": "A travel kit contains mini toiletries.",
+        "frasePortugues": "Um kit de viagem contém artigos de higiene mini.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 17,
+        "ingles": "First aid kit",
+        "portugues": "Kit de primeiros socorros",
+        "fraseIngles": "Carry a first aid kit for emergencies.",
+        "frasePortugues": "Carregue um kit de primeiros socorros para emergências.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 18,
+        "ingles": "Luggage tag",
+        "portugues": "Etiqueta de bagagem",
+        "fraseIngles": "Attach a luggage tag with your contact info.",
+        "frasePortugues": "Fixe uma etiqueta de bagagem com sua informação de contato.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 19,
+        "ingles": "Luggage lock",
+        "portugues": "Cadeado para mala",
+        "fraseIngles": "Secure your suitcase with a luggage lock.",
+        "frasePortugues": "Proteja sua mala com um cadeado para mala.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 20,
+        "ingles": "TSA lock",
+        "portugues": "Cadeado TSA",
+        "fraseIngles": "Use a TSA lock for airport security.",
+        "frasePortugues": "Use um cadeado TSA para segurança do aeroporto.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 21,
+        "ingles": "Luggage scale",
+        "portugues": "Balança de bagagem",
+        "fraseIngles": "Weigh suitcases with a luggage scale.",
+        "frasePortugues": "Pese malas com uma balança de bagagem.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 22,
+        "ingles": "Luggage strap",
+        "portugues": "Cinta para mala",
+        "fraseIngles": "Identify luggage easily with a colorful strap.",
+        "frasePortugues": "Identifique bagagem facilmente com uma cinta colorida.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 23,
+        "ingles": "Packing cubes",
+        "portugues": "Organizadores de mala",
+        "fraseIngles": "Organize clothes with packing cubes.",
+        "frasePortugues": "Organize roupas com organizadores de mala.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 24,
+        "ingles": "Compression sack",
+        "portugues": "Saco compressor",
+        "fraseIngles": "Save space with a compression sack.",
+        "frasePortugues": "Economize espaço com um saco compressor.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 25,
+        "ingles": "Laundry bag",
+        "portugues": "Saco de roupa suja",
+        "fraseIngles": "Separate dirty clothes in a laundry bag.",
+        "frasePortugues": "Separe roupas sujas em um saco de roupa suja.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 26,
+        "ingles": "Shoe bag",
+        "portugues": "Saco para sapatos",
+        "fraseIngles": "Protect clean clothes with shoe bags.",
+        "frasePortugues": "Proteja roupas limpas com sacos para sapatos.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 27,
+        "ingles": "Garment folder",
+        "portugues": "Dobrador de roupas",
+        "fraseIngles": "Keep shirts wrinkle-free with a garment folder.",
+        "frasePortugues": "Mantenha camisas sem rugas com um dobrador de roupas.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 28,
+        "ingles": "Travel pillow",
+        "portugues": "Travesseiro de viagem",
+        "fraseIngles": "Sleep comfortably with a travel pillow.",
+        "frasePortugues": "Durma confortavelmente com um travesseiro de viagem.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 29,
+        "ingles": "Neck pillow",
+        "portugues": "Travesseiro de pescoço",
+        "fraseIngles": "Support your neck with a travel pillow.",
+        "frasePortugues": "Apoie seu pescoço com um travesseiro de pescoço.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 30,
+        "ingles": "Eye mask",
+        "portugues": "Máscara para olhos",
+        "fraseIngles": "Block light with an eye mask.",
+        "frasePortugues": "Bloqueie luz com uma máscara para olhos.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 31,
+        "ingles": "Sleep mask",
+        "portugues": "Máscara de dormir",
+        "fraseIngles": "Sleep better with a sleep mask.",
+        "frasePortugues": "Durma melhor com uma máscara de dormir.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 32,
+        "ingles": "Ear plugs",
+        "portugues": "Protetores auriculares",
+        "fraseIngles": "Reduce noise with ear plugs.",
+        "frasePortugues": "Reduza ruído com protetores auriculares.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 33,
+        "ingles": "Travel blanket",
+        "portugues": "Manta de viagem",
+        "fraseIngles": "Stay warm with a compact travel blanket.",
+        "frasePortugues": "Mantenha-se aquecido com uma manta de viagem compacta.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 34,
+        "ingles": "Passport",
+        "portugues": "Passaporte",
+        "fraseIngles": "Show your passport at customs.",
+        "frasePortugues": "Mostre seu passaporte na alfândega.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 35,
+        "ingles": "Passport holder",
+        "portugues": "Porta-passaporte",
+        "fraseIngles": "Protect your passport in a passport holder.",
+        "frasePortugues": "Proteja seu passaporte em um porta-passaporte.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 36,
+        "ingles": "Visa",
+        "portugues": "Visto",
+        "fraseIngles": "Some countries require a visa to enter.",
+        "frasePortugues": "Alguns países requerem visto para entrada.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 37,
+        "ingles": "ID card",
+        "portugues": "Carteira de identidade",
+        "fraseIngles": "Carry an ID card for identification.",
+        "frasePortugues": "Carregue uma carteira de identidade para identificação.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 38,
+        "ingles": "Driver's license",
+        "portugues": "Carteira de motorista",
+        "fraseIngles": "Rent cars with your driver's license.",
+        "frasePortugues": "Alugue carros com sua carteira de motorista.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 39,
+        "ingles": "Travel insurance",
+        "portugues": "Seguro viagem",
+        "fraseIngles": "Buy travel insurance before departing.",
+        "frasePortugues": "Compre seguro viagem antes de partir.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 40,
+        "ingles": "Boarding pass",
+        "portugues": "Cartão de embarque",
+        "fraseIngles": "Show your boarding pass to board the plane.",
+        "frasePortugues": "Mostre seu cartão de embarque para embarcar no avião.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 41,
+        "ingles": "Airline ticket",
+        "portugues": "Passagem aérea",
+        "fraseIngles": "Book an airline ticket for your flight.",
+        "frasePortugues": "Reserve uma passagem aérea para seu voo.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 42,
+        "ingles": "Travel itinerary",
+        "portugues": "Roteiro de viagem",
+        "fraseIngles": "Plan your trip with a detailed itinerary.",
+        "frasePortugues": "Planeje sua viagem com um roteiro detalhado.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 43,
+        "ingles": "Hotel confirmation",
+        "portugues": "Confirmação de hotel",
+        "fraseIngles": "Print your hotel confirmation.",
+        "frasePortugues": "Imprima sua confirmação de hotel.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 44,
+        "ingles": "Rental car reservation",
+        "portugues": "Reserva de carro alugado",
+        "fraseIngles": "Keep your rental car reservation handy.",
+        "frasePortugues": "Mantenha sua reserva de carro alugado à mão.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 45,
+        "ingles": "Travel guide",
+        "portugues": "Guia de viagem",
+        "fraseIngles": "Learn about destinations with a travel guide.",
+        "frasePortugues": "Aprenda sobre destinos com um guia de viagem.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 46,
+        "ingles": "Guidebook",
+        "portugues": "Guia turístico",
+        "fraseIngles": "Research attractions in a guidebook.",
+        "frasePortugues": "Pesquise atrações em um guia turístico.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 47,
+        "ingles": "Map",
+        "portugues": "Mapa",
+        "fraseIngles": "Navigate with a detailed map.",
+        "frasePortugues": "Navegue com um mapa detalhado.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 48,
+        "ingles": "Road map",
+        "portugues": "Mapa rodoviário",
+        "fraseIngles": "Plan driving routes with a road map.",
+        "frasePortugues": "Planeje rotas de direção com um mapa rodoviário.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 49,
+        "ingles": "City map",
+        "portugues": "Mapa da cidade",
+        "fraseIngles": "Find your way with a city map.",
+        "frasePortugues": "Encontre seu caminho com um mapa da cidade.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 50,
+        "ingles": "Tourist map",
+        "portugues": "Mapa turístico",
+        "fraseIngles": "Tourist maps highlight popular attractions.",
+        "frasePortugues": "Mapas turísticos destacam atrações populares.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 51,
+        "ingles": "Compass",
+        "portugues": "Bússola",
+        "fraseIngles": "Find direction with a compass.",
+        "frasePortugues": "Encontre direção com uma bússola.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 52,
+        "ingles": "GPS device",
+        "portugues": "Aparelho GPS",
+        "fraseIngles": "Navigate easily with a GPS device.",
+        "frasePortugues": "Navegue facilmente com um aparelho GPS.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 53,
+        "ingles": "Smartphone",
+        "portugues": "Smartphone",
+        "fraseIngles": "Use your smartphone for travel apps.",
+        "frasePortugues": "Use seu smartphone para aplicativos de viagem.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 54,
+        "ingles": "Travel app",
+        "portugues": "Aplicativo de viagem",
+        "fraseIngles": "Download travel apps for trip planning.",
+        "frasePortugues": "Baixe aplicativos de viagem para planejamento de viagem.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 55,
+        "ingles": "Translation app",
+        "portugues": "Aplicativo de tradução",
+        "fraseIngles": "Communicate using a translation app.",
+        "frasePortugues": "Comunique-se usando um aplicativo de tradução.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 56,
+        "ingles": "Currency converter",
+        "portugues": "Conversor de moedas",
+        "fraseIngles": "Calculate exchange rates with a currency converter.",
+        "frasePortugues": "Calcule taxas de câmbio com um conversor de moedas.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 57,
+        "ingles": "Camera",
+        "portugues": "Câmera",
+        "fraseIngles": "Capture memories with your camera.",
+        "frasePortugues": "Capture memórias com sua câmera.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 58,
+        "ingles": "Digital camera",
+        "portugues": "Câmera digital",
+        "fraseIngles": "Take high-quality photos with a digital camera.",
+        "frasePortugues": "Tire fotos de alta qualidade com uma câmera digital.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 59,
+        "ingles": "DSLR camera",
+        "portugues": "Câmera DSLR",
+        "fraseIngles": "Professional photographers use DSLR cameras.",
+        "frasePortugues": "Fotógrafos profissionais usam câmeras DSLR.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 60,
+        "ingles": "Point-and-shoot camera",
+        "portugues": "Câmera compacta",
+        "fraseIngles": "A point-and-shoot camera is easy to use.",
+        "frasePortugues": "Uma câmera compacta é fácil de usar.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 61,
+        "ingles": "Instant camera",
+        "portugues": "Câmera instantânea",
+        "fraseIngles": "Get immediate photos with an instant camera.",
+        "frasePortugues": "Obtenha fotos imediatas com uma câmera instantânea.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 62,
+        "ingles": "Action camera",
+        "portugues": "Câmera de ação",
+        "fraseIngles": "Record adventures with an action camera.",
+        "frasePortugues": "Grave aventuras com uma câmera de ação.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 63,
+        "ingles": "Waterproof camera",
+        "portugues": "Câmera à prova d'água",
+        "fraseIngles": "Take underwater photos with a waterproof camera.",
+        "frasePortugues": "Tire fotos subaquáticas com uma câmera à prova d'água.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 64,
+        "ingles": "Camera case",
+        "portugues": "Estojo para câmera",
+        "fraseIngles": "Protect your camera in a camera case.",
+        "frasePortugues": "Proteja sua câmera em um estojo para câmera.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 65,
+        "ingles": "Camera bag",
+        "portugues": "Bolsa para câmera",
+        "fraseIngles": "Carry equipment in a camera bag.",
+        "frasePortugues": "Carregue equipamentos em uma bolsa para câmera.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 66,
+        "ingles": "Camera strap",
+        "portugues": "Alça de câmera",
+        "fraseIngles": "Secure your camera with a camera strap.",
+        "frasePortugues": "Fixe sua câmera com uma alça de câmera.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 67,
+        "ingles": "Memory card",
+        "portugues": "Cartão de memória",
+        "fraseIngles": "Store photos on a memory card.",
+        "frasePortugues": "Armazene fotos em um cartão de memória.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 68,
+        "ingles": "SD card",
+        "portugues": "Cartão SD",
+        "fraseIngles": "Most cameras use SD cards.",
+        "frasePortugues": "A maioria das câmeras usa cartões SD.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 69,
+        "ingles": "Battery pack",
+        "portugues": "Bateria extra",
+        "fraseIngles": "Carry spare batteries in a battery pack.",
+        "frasePortugues": "Carregue baterias extras em uma bateria extra.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 70,
+        "ingles": "Power bank",
+        "portugues": "Power bank",
+        "fraseIngles": "Charge devices with a portable power bank.",
+        "frasePortugues": "Carregue dispositivos com um power bank portátil.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 71,
+        "ingles": "Portable charger",
+        "portugues": "Carregador portátil",
+        "fraseIngles": "Keep devices powered with a portable charger.",
+        "frasePortugues": "Mantenha dispositivos carregados com um carregador portátil.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 72,
+        "ingles": "Charging cable",
+        "portugues": "Cabo de carregamento",
+        "fraseIngles": "Connect devices with a charging cable.",
+        "frasePortugues": "Conecte dispositivos com um cabo de carregamento.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 73,
+        "ingles": "USB cable",
+        "portugues": "Cabo USB",
+        "fraseIngles": "Transfer data with a USB cable.",
+        "frasePortugues": "Transfira dados com um cabo USB.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 74,
+        "ingles": "Universal adapter",
+        "portugues": "Adaptador universal",
+        "fraseIngles": "Use electronics worldwide with a universal adapter.",
+        "frasePortugues": "Use eletrônicos mundialmente com um adaptador universal.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 75,
+        "ingles": "Travel adapter",
+        "portugues": "Adaptador de viagem",
+        "fraseIngles": "Plug into foreign outlets with a travel adapter.",
+        "frasePortugues": "Conecte em tomadas estrangeiras com um adaptador de viagem.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 76,
+        "ingles": "Plug adapter",
+        "portugues": "Adaptador de plugue",
+        "fraseIngles": "Convert plug types with a plug adapter.",
+        "frasePortugues": "Converta tipos de plugues com um adaptador de plugue.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 77,
+        "ingles": "Voltage converter",
+        "portugues": "Conversor de voltagem",
+        "fraseIngles": "Convert electrical voltage with a voltage converter.",
+        "frasePortugues": "Converta voltagem elétrica com um conversor de voltagem.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 78,
+        "ingles": "Extension cord",
+        "portugues": "Fio de extensão",
+        "fraseIngles": "Reach distant outlets with an extension cord.",
+        "frasePortugues": "Alcance tomadas distantes com um fio de extensão.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 79,
+        "ingles": "Flashlight",
+        "portugues": "Lanterna",
+        "fraseIngles": "Light dark paths with a flashlight.",
+        "frasePortugues": "Ilumine caminhos escuros com uma lanterna.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 80,
+        "ingles": "Headlamp",
+        "portugues": "Lanterna de cabeça",
+        "fraseIngles": "Keep hands free with a headlamp.",
+        "frasePortugues": "Mantenha mãos livres com uma lanterna de cabeça.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 81,
+        "ingles": "Portable light",
+        "portugues": "Luz portátil",
+        "fraseIngles": "Illuminate campsites with portable light.",
+        "frasePortugues": "Ilumine acampamentos com luz portátil.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 82,
+        "ingles": "Emergency whistle",
+        "portugues": "Apito de emergência",
+        "fraseIngles": "Signal for help with an emergency whistle.",
+        "frasePortugues": "Sinalize por ajuda com um apito de emergência.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 83,
+        "ingles": "Multi-tool",
+        "portugues": "Ferramenta multifuncional",
+        "fraseIngles": "Handle repairs with a multi-tool.",
+        "frasePortugues": "Lide com reparos com uma ferramenta multifuncional.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 84,
+        "ingles": "Swiss Army knife",
+        "portugues": "Canivete suíço",
+        "fraseIngles": "A Swiss Army knife has many tools.",
+        "frasePortugues": "Um canivete suíço tem muitas ferramentas.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 85,
+        "ingles": "Pocket knife",
+        "portugues": "Canivete",
+        "fraseIngles": "Cut things with a small pocket knife.",
+        "frasePortugues": "Corte coisas com um pequeno canivete.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 86,
+        "ingles": "Bottle opener",
+        "portugues": "Abridor de garrafa",
+        "fraseIngles": "Open bottles with a bottle opener.",
+        "frasePortugues": "Abra garrafas com um abridor de garrafa.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 87,
+        "ingles": "Corkscrew",
+        "portugues": "Saca-rolhas",
+        "fraseIngles": "Open wine with a corkscrew.",
+        "frasePortugues": "Abra vinho com um saca-rolhas.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 88,
+        "ingles": "Can opener",
+        "portugues": "Abridor de latas",
+        "fraseIngles": "Open canned food with a can opener.",
+        "frasePortugues": "Abra comida enlatada com um abridor de latas.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 89,
+        "ingles": "Water bottle",
+        "portugues": "Garrafa de água",
+        "fraseIngles": "Stay hydrated with a water bottle.",
+        "frasePortugues": "Mantenha-se hidratado com uma garrafa de água.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 90,
+        "ingles": "Reusable bottle",
+        "portugues": "Garrafa reutilizável",
+        "fraseIngles": "Reduce waste with a reusable bottle.",
+        "frasePortugues": "Reduza desperdício com uma garrafa reutilizável.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 91,
+        "ingles": "Insulated bottle",
+        "portugues": "Garrafa térmica",
+        "fraseIngles": "Keep drinks hot or cold in an insulated bottle.",
+        "frasePortugues": "Mantenha bebidas quentes ou frias em uma garrafa térmica.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 92,
+        "ingles": "Travel mug",
+        "portugues": "Caneca de viagem",
+        "fraseIngles": "Drink coffee from a travel mug.",
+        "frasePortugues": "Beba café de uma caneca de viagem.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 93,
+        "ingles": "Thermos",
+        "portugues": "Garrafa térmica",
+        "fraseIngles": "A thermos keeps liquids at temperature.",
+        "frasePortugues": "Uma garrafa térmica mantém líquidos na temperatura.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 94,
+        "ingles": "Water filter",
+        "portugues": "Filtro de água",
+        "fraseIngles": "Purify water with a portable water filter.",
+        "frasePortugues": "Purifique água com um filtro de água portátil.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 95,
+        "ingles": "Water purification tablets",
+        "portugues": "Comprimidos purificadores",
+        "fraseIngles": "Sterilize water with purification tablets.",
+        "frasePortugues": "Esterilize água com comprimidos purificadores.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 96,
+        "ingles": "Snacks",
+        "portugues": "Lanches",
+        "fraseIngles": "Pack energy snacks for long trips.",
+        "frasePortugues": "Embale lanches energéticos para viagens longas.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 97,
+        "ingles": "Energy bars",
+        "portugues": "Barras energéticas",
+        "fraseIngles": "Fuel your body with energy bars.",
+        "frasePortugues": "Abasteça seu corpo com barras energéticas.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 98,
+        "ingles": "Trail mix",
+        "portugues": "Mix de castanhas",
+        "fraseIngles": "Hike with nutritious trail mix.",
+        "frasePortugues": "Faça trilha com mix nutritivo de castanhas.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 99,
+        "ingles": "Dried fruit",
+        "portugues": "Frutas secas",
+        "fraseIngles": "Dried fruit provides natural energy.",
+        "frasePortugues": "Frutas secas fornecem energia natural.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 100,
+        "ingles": "Crackers",
+        "portugues": "Biscoitos salgados",
+        "fraseIngles": "Pack crackers for quick snacks.",
+        "frasePortugues": "Embale biscoitos salgados para lanches rápidos.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 101,
+        "ingles": "Sunscreen",
+        "portugues": "Protetor solar",
+        "fraseIngles": "Protect skin with sunscreen.",
+        "frasePortugues": "Proteja a pele com protetor solar.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 102,
+        "ingles": "Sunglasses",
+        "portugues": "Óculos de sol",
+        "fraseIngles": "Shield eyes with sunglasses.",
+        "frasePortugues": "Proteja olhos com óculos de sol.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 103,
+        "ingles": "Hat",
+        "portugues": "Chapéu",
+        "fraseIngles": "Block sun with a wide-brimmed hat.",
+        "frasePortugues": "Bloqueie sol com um chapéu de aba larga.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 104,
+        "ingles": "Sun hat",
+        "portugues": "Chapéu de sol",
+        "fraseIngles": "A sun hat provides face protection.",
+        "frasePortugues": "Um chapéu de sol oferece proteção facial.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 105,
+        "ingles": "Beach umbrella",
+        "portugues": "Guarda-sol de praia",
+        "fraseIngles": "Create shade with a beach umbrella.",
+        "frasePortugues": "Crie sombra com um guarda-sol de praia.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 106,
+        "ingles": "Umbrella",
+        "portugues": "Guarda-chuva",
+        "fraseIngles": "Stay dry with an umbrella.",
+        "frasePortugues": "Mantenha-se seco com um guarda-chuva.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 107,
+        "ingles": "Rain poncho",
+        "portugues": "Capa de chuva",
+        "fraseIngles": "Wear a rain poncho in storms.",
+        "frasePortugues": "Use uma capa de chuva em tempestades.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 108,
+        "ingles": "Raincoat",
+        "portugues": "Impermeável",
+        "fraseIngles": "A raincoat keeps you dry.",
+        "frasePortugues": "Um impermeável mantém você seco.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 109,
+        "ingles": "Weather protection",
+        "portugues": "Proteção contra intempéries",
+        "fraseIngles": "Pack weather protection for outdoor activities.",
+        "frasePortugues": "Embale proteção contra intempéries para atividades ao ar livre.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 110,
+        "ingles": "Insect repellent",
+        "portugues": "Repelente de insetos",
+        "fraseIngles": "Avoid bug bites with insect repellent.",
+        "frasePortugues": "Evite picadas com repelente de insetos.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 111,
+        "ingles": "Bug spray",
+        "portugues": "Spray anti-insetos",
+        "fraseIngles": "Spray bug spray on exposed skin.",
+        "frasePortugues": "Borrife spray anti-insetos na pele exposta.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 112,
+        "ingles": "After-bite stick",
+        "portugues": "Bastão pós-picada",
+        "fraseIngles": "Treat bug bites with an after-bite stick.",
+        "frasePortugues": "Trate picadas de insetos com um bastão pós-picada.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 113,
+        "ingles": "Bandages",
+        "portugues": "Curativos",
+        "fraseIngles": "Pack bandages for minor injuries.",
+        "frasePortugues": "Embale curativos para ferimentos menores.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 114,
+        "ingles": "Pain reliever",
+        "portugues": "Analgésico",
+        "fraseIngles": "Carry pain reliever for headaches.",
+        "frasePortugues": "Carregue analgésico para dores de cabeça.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 115,
+        "ingles": "Anti-diarrheal medicine",
+        "portugues": "Remédio antidiarreico",
+        "fraseIngles": "Pack anti-diarrheal medicine for stomach issues.",
+        "frasePortugues": "Embale remédio antidiarreico para problemas estomacais.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 116,
+        "ingles": "Motion sickness pills",
+        "portugues": "Remédios para enjoo",
+        "fraseIngles": "Prevent car sickness with motion sickness pills.",
+        "frasePortugues": "Previna enjoo de carro com remédios para enjoo.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 117,
+        "ingles": "Altitude sickness medicine",
+        "portugues": "Remédio para mal da altitude",
+        "fraseIngles": "Take altitude medicine at high elevations.",
+        "frasePortugues": "Tome remédio para altitude em elevações altas.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 118,
+        "ingles": "Prescription medication",
+        "portugues": "Medicação prescrita",
+        "fraseIngles": "Never forget prescription medication.",
+        "frasePortugues": "Nunca esqueça medicação prescrita.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 119,
+        "ingles": "Medication organizer",
+        "portugues": "Organizador de medicamentos",
+        "fraseIngles": "Sort pills in a medication organizer.",
+        "frasePortugues": "Organize pílulas em um organizador de medicamentos.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 120,
+        "ingles": "Health certificate",
+        "portugues": "Certificado de saúde",
+        "fraseIngles": "Some countries require a health certificate.",
+        "frasePortugues": "Alguns países requerem um certificado de saúde.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 121,
+        "ingles": "Vaccination record",
+        "portugues": "Registro de vacinação",
+        "fraseIngles": "Carry your vaccination record.",
+        "frasePortugues": "Carregue seu registro de vacinação.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 122,
+        "ingles": "Travel journal",
+        "portugues": "Diário de viagem",
+        "fraseIngles": "Record memories in a travel journal.",
+        "frasePortugues": "Registre memórias em um diário de viagem.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 123,
+        "ingles": "Notebook",
+        "portugues": "Caderno",
+        "fraseIngles": "Take notes in a small notebook.",
+        "frasePortugues": "Faça anotações em um pequeno caderno.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 124,
+        "ingles": "Pen",
+        "portugues": "Caneta",
+        "fraseIngles": "Write with a reliable pen.",
+        "frasePortugues": "Escreva com uma caneta confiável.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 125,
+        "ingles": "Pencil",
+        "portugues": "Lápis",
+        "fraseIngles": "Sketch with a pencil.",
+        "frasePortugues": "Desenhe com um lápis.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 126,
+        "ingles": "Postcard",
+        "portugues": "Cartão postal",
+        "fraseIngles": "Send postcards to friends and family.",
+        "frasePortugues": "Envie cartões postais para amigos e família.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 127,
+        "ingles": "Souvenir",
+        "portugues": "Lembrança",
+        "fraseIngles": "Buy souvenirs to remember your trip.",
+        "frasePortugues": "Compre lembranças para recordar sua viagem.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 128,
+        "ingles": "Gift",
+        "portugues": "Presente",
+        "fraseIngles": "Bring gifts for people back home.",
+        "frasePortugues": "Traga presentes para pessoas em casa.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 129,
+        "ingles": "Shopping bag",
+        "portugues": "Sacola de compras",
+        "fraseIngles": "Carry purchases in a shopping bag.",
+        "frasePortugues": "Carregue compras em uma sacola de compras.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 130,
+        "ingles": "Daypack",
+        "portugues": "Mochila de dia",
+        "fraseIngles": "Explore cities with a small daypack.",
+        "frasePortugues": "Explore cidades com uma pequena mochila de dia.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 131,
+        "ingles": "Fanny pack",
+        "portugues": "Pochete",
+        "fraseIngles": "Keep valuables secure in a fanny pack.",
+        "frasePortugues": "Mantenha valores seguros em uma pochete.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 132,
+        "ingles": "Money belt",
+        "portugues": "Cinto porta-dinheiro",
+        "fraseIngles": "Hide cash in a money belt.",
+        "frasePortugues": "Esconda dinheiro em um cinto porta-dinheiro.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 133,
+        "ingles": "Wallet",
+        "portugues": "Carteira",
+        "fraseIngles": "Keep cards organized in your wallet.",
+        "frasePortugues": "Mantenha cartões organizados na sua carteira.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 134,
+        "ingles": "Purse",
+        "portugues": "Bolsa",
+        "fraseIngles": "Women carry essentials in a purse.",
+        "frasePortugues": "Mulheres carregam itens essenciais em uma bolsa.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 135,
+        "ingles": "Cross-body bag",
+        "portugues": "Bolsa transversal",
+        "fraseIngles": "Secure belongings in a cross-body bag.",
+        "frasePortugues": "Proteja pertences em uma bolsa transversal.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 136,
+        "ingles": "Travel wallet",
+        "portugues": "Carteira de viagem",
+        "fraseIngles": "Organize documents in a travel wallet.",
+        "frasePortugues": "Organize documentos em uma carteira de viagem.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 137,
+        "ingles": "Currency",
+        "portugues": "Moeda",
+        "fraseIngles": "Exchange currency before traveling.",
+        "frasePortugues": "Troque moeda antes de viajar.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 138,
+        "ingles": "Foreign money",
+        "portugues": "Dinheiro estrangeiro",
+        "fraseIngles": "Learn about foreign money systems.",
+        "frasePortugues": "Aprenda sobre sistemas de dinheiro estrangeiro.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 139,
+        "ingles": "Credit card",
+        "portugues": "Cartão de crédito",
+        "fraseIngles": "Pay with credit cards internationally.",
+        "frasePortugues": "Pague com cartões de crédito internacionalmente.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 140,
+        "ingles": "Debit card",
+        "portugues": "Cartão de débito",
+        "fraseIngles": "Withdraw cash with your debit card.",
+        "frasePortugues": "Saque dinheiro com seu cartão de débito.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 141,
+        "ingles": "Travelers checks",
+        "portugues": "Cheques de viagem",
+        "fraseIngles": "Travelers checks are a safe payment method.",
+        "frasePortugues": "Cheques de viagem são um método de pagamento seguro.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 142,
+        "ingles": "Emergency cash",
+        "portugues": "Dinheiro de emergência",
+        "fraseIngles": "Keep emergency cash hidden separately.",
+        "frasePortugues": "Mantenha dinheiro de emergência escondido separadamente.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 143,
+        "ingles": "Luggage cart",
+        "portugues": "Carrinho de bagagem",
+        "fraseIngles": "Transport heavy luggage on a luggage cart.",
+        "frasePortugues": "Transporte bagagem pesada em um carrinho de bagagem.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 144,
+        "ingles": "Airport trolley",
+        "portugues": "Carrinho de aeroporto",
+        "fraseIngles": "Use an airport trolley for multiple bags.",
+        "frasePortugues": "Use um carrinho de aeroporto para várias bagagens.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 145,
+        "ingles": "Travel checklist",
+        "portugues": "Lista de verificação de viagem",
+        "fraseIngles": "Don't forget items on your travel checklist.",
+        "frasePortugues": "Não esqueça itens na sua lista de verificação de viagem.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    },
+    {
+        "id": 146,
+        "ingles": "Packing list",
+        "portugues": "Lista de arrumação",
+        "fraseIngles": "Make a packing list before trips.",
+        "frasePortugues": "Faça uma lista de arrumação antes de viagens.",
+        "subtopico": "Viagem",
+        "topico": "Objetos"
+    }
+]

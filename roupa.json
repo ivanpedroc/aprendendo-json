@@ -1,0 +1,2954 @@
+[
+    {
+        "id": 1,
+        "ingles": "T-shirt",
+        "portugues": "Camiseta",
+        "fraseIngles": "Put on a clean t-shirt for the gym.",
+        "frasePortugues": "Vista uma camiseta limpa para a academia.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 2,
+        "ingles": "Shirt",
+        "portugues": "Camisa",
+        "fraseIngles": "Iron your shirt before the meeting.",
+        "frasePortugues": "Passe sua camisa antes da reunião.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 3,
+        "ingles": "Blouse",
+        "portugues": "Blusa",
+        "fraseIngles": "She wore a silk blouse to work.",
+        "frasePortugues": "Ela usou uma blusa de seda para o trabalho.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 4,
+        "ingles": "Tank top",
+        "portugues": "Regata",
+        "fraseIngles": "Wear a tank top in hot weather.",
+        "frasePortugues": "Use uma regata no tempo quente.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 5,
+        "ingles": "Polo shirt",
+        "portugues": "Camisa polo",
+        "fraseIngles": "He prefers polo shirts for casual wear.",
+        "frasePortugues": "Ele prefere camisas polo para uso casual.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 6,
+        "ingles": "Dress shirt",
+        "portugues": "Camisa social",
+        "fraseIngles": "Wear a white dress shirt with the suit.",
+        "frasePortugues": "Use uma camisa social branca com o terno.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 7,
+        "ingles": "Sweater",
+        "portugues": "Suéter",
+        "fraseIngles": "Put on a sweater when it gets cold.",
+        "frasePortugues": "Vista um suéter quando esfriar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 8,
+        "ingles": "Cardigan",
+        "portugues": "Cardigã",
+        "fraseIngles": "Layer a cardigan over your dress.",
+        "frasePortugues": "Coloque um cardigã sobre seu vestido.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 9,
+        "ingles": "Hoodie",
+        "portugues": "Moletom com capuz",
+        "fraseIngles": "Wear a hoodie for comfort.",
+        "frasePortugues": "Use um moletom com capuz para conforto.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 10,
+        "ingles": "Sweatshirt",
+        "portugues": "Moletom",
+        "fraseIngles": "Put on a sweatshirt after exercising.",
+        "frasePortugues": "Vista um moletom depois de se exercitar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 11,
+        "ingles": "Pullover",
+        "portugues": "Pulôver",
+        "fraseIngles": "Choose a warm pullover for winter.",
+        "frasePortugues": "Escolha um pulôver quente para o inverno.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 12,
+        "ingles": "Turtleneck",
+        "portugues": "Gola rolê",
+        "fraseIngles": "Wear a turtleneck under your jacket.",
+        "frasePortugues": "Use uma gola rolê sob sua jaqueta.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 13,
+        "ingles": "V-neck",
+        "portugues": "Decote em V",
+        "fraseIngles": "This v-neck sweater looks elegant.",
+        "frasePortugues": "Este suéter de decote em V parece elegante.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 14,
+        "ingles": "Crew neck",
+        "portugues": "Gola careca",
+        "fraseIngles": "Choose a crew neck for a classic look.",
+        "frasePortugues": "Escolha uma gola careca para um visual clássico.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 15,
+        "ingles": "Sleeveless top",
+        "portugues": "Blusa sem manga",
+        "fraseIngles": "Wear a sleeveless top in summer.",
+        "frasePortugues": "Use uma blusa sem manga no verão.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 16,
+        "ingles": "Long sleeve",
+        "portugues": "Manga longa",
+        "fraseIngles": "Choose long sleeve shirts for cooler days.",
+        "frasePortugues": "Escolha camisas de manga longa para dias mais frios.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 17,
+        "ingles": "Short sleeve",
+        "portugues": "Manga curta",
+        "fraseIngles": "Short sleeve shirts are perfect for summer.",
+        "frasePortugues": "Camisas de manga curta são perfeitas para o verão.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 18,
+        "ingles": "Three-quarter sleeve",
+        "portugues": "Manga três quartos",
+        "fraseIngles": "This three-quarter sleeve dress is trendy.",
+        "frasePortugues": "Este vestido de manga três quartos está na moda.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 19,
+        "ingles": "Jacket",
+        "portugues": "Jaqueta",
+        "fraseIngles": "Wear a leather jacket for style.",
+        "frasePortugues": "Use uma jaqueta de couro para estilo.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 20,
+        "ingles": "Blazer",
+        "portugues": "Blazer",
+        "fraseIngles": "Put on a blazer for the presentation.",
+        "frasePortugues": "Vista um blazer para a apresentação.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 21,
+        "ingles": "Coat",
+        "portugues": "Casaco",
+        "fraseIngles": "Wear a heavy coat in winter.",
+        "frasePortugues": "Use um casaco pesado no inverno.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 22,
+        "ingles": "Overcoat",
+        "portugues": "Sobretudo",
+        "fraseIngles": "An overcoat protects from harsh weather.",
+        "frasePortugues": "Um sobretudo protege do clima severo.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 23,
+        "ingles": "Raincoat",
+        "portugues": "Capa de chuva",
+        "fraseIngles": "Don't forget your raincoat today.",
+        "frasePortugues": "Não esqueça sua capa de chuva hoje.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 24,
+        "ingles": "Windbreaker",
+        "portugues": "Corta-vento",
+        "fraseIngles": "Wear a windbreaker for outdoor activities.",
+        "frasePortugues": "Use um corta-vento para atividades ao ar livre.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 25,
+        "ingles": "Parka",
+        "portugues": "Parka",
+        "fraseIngles": "A parka keeps you warm in snow.",
+        "frasePortugues": "Uma parka mantém você aquecido na neve.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 26,
+        "ingles": "Trench coat",
+        "portugues": "Sobretudo clássico",
+        "fraseIngles": "She looks sophisticated in a trench coat.",
+        "frasePortugues": "Ela parece sofisticada em um sobretudo clássico.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 27,
+        "ingles": "Denim jacket",
+        "portugues": "Jaqueta jeans",
+        "fraseIngles": "Pair a denim jacket with a dress.",
+        "frasePortugues": "Combine uma jaqueta jeans com um vestido.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 28,
+        "ingles": "Bomber jacket",
+        "portugues": "Jaqueta bomber",
+        "fraseIngles": "A bomber jacket adds edge to any outfit.",
+        "frasePortugues": "Uma jaqueta bomber adiciona atitude a qualquer visual.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 29,
+        "ingles": "Vest",
+        "portugues": "Colete",
+        "fraseIngles": "Wear a vest for a layered look.",
+        "frasePortugues": "Use um colete para um visual em camadas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 30,
+        "ingles": "Waistcoat",
+        "portugues": "Colete social",
+        "fraseIngles": "A waistcoat completes a formal outfit.",
+        "frasePortugues": "Um colete social completa um visual formal.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 31,
+        "ingles": "Pants",
+        "portugues": "Calças",
+        "fraseIngles": "These pants fit perfectly.",
+        "frasePortugues": "Estas calças servem perfeitamente.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 32,
+        "ingles": "Jeans",
+        "portugues": "Jeans",
+        "fraseIngles": "Wear comfortable jeans for the weekend.",
+        "frasePortugues": "Use jeans confortáveis para o fim de semana.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 33,
+        "ingles": "Trousers",
+        "portugues": "Calças sociais",
+        "fraseIngles": "Press your trousers before the interview.",
+        "frasePortugues": "Passe suas calças sociais antes da entrevista.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 34,
+        "ingles": "Slacks",
+        "portugues": "Calças casuais",
+        "fraseIngles": "Choose dark slacks for the office.",
+        "frasePortugues": "Escolha calças casuais escuras para o escritório.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 35,
+        "ingles": "Chinos",
+        "portugues": "Chinos",
+        "fraseIngles": "Chinos are perfect for smart casual.",
+        "frasePortugues": "Chinos são perfeitos para casual elegante.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 36,
+        "ingles": "Khakis",
+        "portugues": "Cáquis",
+        "fraseIngles": "Wear khakis for a preppy look.",
+        "frasePortugues": "Use cáquis para um visual preppy.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 37,
+        "ingles": "Cargo pants",
+        "portugues": "Calças cargo",
+        "fraseIngles": "Cargo pants have multiple pockets.",
+        "frasePortugues": "Calças cargo têm vários bolsos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 38,
+        "ingles": "Skinny jeans",
+        "portugues": "Jeans skinny",
+        "fraseIngles": "Skinny jeans are form-fitting.",
+        "frasePortugues": "Jeans skinny são justos ao corpo.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 39,
+        "ingles": "Straight leg",
+        "portugues": "Perna reta",
+        "fraseIngles": "Straight leg jeans are classic.",
+        "frasePortugues": "Jeans de perna reta são clássicos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 40,
+        "ingles": "Bootcut",
+        "portugues": "Boca de sino sutil",
+        "fraseIngles": "Bootcut jeans flare slightly at the bottom.",
+        "frasePortugues": "Jeans bootcut alargam levemente na barra.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 41,
+        "ingles": "Wide leg",
+        "portugues": "Perna larga",
+        "fraseIngles": "Wide leg pants are back in fashion.",
+        "frasePortugues": "Calças de perna larga voltaram à moda.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 42,
+        "ingles": "Capri pants",
+        "portugues": "Calça corsário",
+        "fraseIngles": "Capri pants end at mid-calf.",
+        "frasePortugues": "Calças corsário terminam na metade da panturrilha.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 43,
+        "ingles": "Cropped pants",
+        "portugues": "Calça cropped",
+        "fraseIngles": "Cropped pants show your ankles.",
+        "frasePortugues": "Calças cropped mostram os tornozelos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 44,
+        "ingles": "High-waisted",
+        "portugues": "Cintura alta",
+        "fraseIngles": "High-waisted pants elongate your legs.",
+        "frasePortugues": "Calças de cintura alta alongam suas pernas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 45,
+        "ingles": "Low-rise",
+        "portugues": "Cintura baixa",
+        "fraseIngles": "Low-rise jeans sit below the waist.",
+        "frasePortugues": "Jeans de cintura baixa ficam abaixo da cintura.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 46,
+        "ingles": "Shorts",
+        "portugues": "Shorts",
+        "fraseIngles": "Wear shorts in hot summer weather.",
+        "frasePortugues": "Use shorts no calor do verão.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 47,
+        "ingles": "Bermuda shorts",
+        "portugues": "Bermuda",
+        "fraseIngles": "Bermuda shorts are knee-length.",
+        "frasePortugues": "Bermudas chegam até o joelho.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 48,
+        "ingles": "Denim shorts",
+        "portugues": "Short jeans",
+        "fraseIngles": "Denim shorts are perfect for casual days.",
+        "frasePortugues": "Shorts jeans são perfeitos para dias casuais.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 49,
+        "ingles": "Board shorts",
+        "portugues": "Bermuda de surfista",
+        "fraseIngles": "Board shorts are great for swimming.",
+        "frasePortugues": "Bermudas de surfista são ótimas para nadar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 50,
+        "ingles": "Cargo shorts",
+        "portugues": "Shorts cargo",
+        "fraseIngles": "Cargo shorts have useful pockets.",
+        "frasePortugues": "Shorts cargo têm bolsos úteis.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 51,
+        "ingles": "Athletic shorts",
+        "portugues": "Shorts esportivos",
+        "fraseIngles": "Wear athletic shorts for working out.",
+        "frasePortugues": "Use shorts esportivos para malhar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 52,
+        "ingles": "Dress",
+        "portugues": "Vestido",
+        "fraseIngles": "She bought a new dress for the party.",
+        "frasePortugues": "Ela comprou um vestido novo para a festa.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 53,
+        "ingles": "Sundress",
+        "portugues": "Vestido de verão",
+        "fraseIngles": "A sundress is perfect for picnics.",
+        "frasePortugues": "Um vestido de verão é perfeito para piqueniques.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 54,
+        "ingles": "Cocktail dress",
+        "portugues": "Vestido de coquetel",
+        "fraseIngles": "Wear a cocktail dress to the reception.",
+        "frasePortugues": "Use um vestido de coquetel para a recepção.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 55,
+        "ingles": "Evening gown",
+        "portugues": "Vestido de gala",
+        "fraseIngles": "An evening gown is formal attire.",
+        "frasePortugues": "Um vestido de gala é traje formal.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 56,
+        "ingles": "Maxi dress",
+        "portugues": "Vestido longo",
+        "fraseIngles": "A maxi dress flows to your ankles.",
+        "frasePortugues": "Um vestido longo vai até os tornozelos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 57,
+        "ingles": "Mini dress",
+        "portugues": "Vestido curto",
+        "fraseIngles": "A mini dress is above the knee.",
+        "frasePortugues": "Um vestido curto fica acima do joelho.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 58,
+        "ingles": "Midi dress",
+        "portugues": "Vestido midi",
+        "fraseIngles": "A midi dress ends at mid-calf.",
+        "frasePortugues": "Um vestido midi termina na metade da panturrilha.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 59,
+        "ingles": "A-line dress",
+        "portugues": "Vestido evasê",
+        "fraseIngles": "An A-line dress flatters most body types.",
+        "frasePortugues": "Um vestido evasê favorece a maioria dos tipos de corpo.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 60,
+        "ingles": "Sheath dress",
+        "portugues": "Vestido tubinho",
+        "fraseIngles": "A sheath dress hugs your curves.",
+        "frasePortugues": "Um vestido tubinho marca suas curvas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 61,
+        "ingles": "Wrap dress",
+        "portugues": "Vestido transpassado",
+        "fraseIngles": "A wrap dress ties at the waist.",
+        "frasePortugues": "Um vestido transpassado amarra na cintura.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 62,
+        "ingles": "Shift dress",
+        "portugues": "Vestido reto",
+        "fraseIngles": "A shift dress has a loose fit.",
+        "frasePortugues": "Um vestido reto tem caimento solto.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 63,
+        "ingles": "Bodycon dress",
+        "portugues": "Vestido justo",
+        "fraseIngles": "A bodycon dress shows your silhouette.",
+        "frasePortugues": "Um vestido justo mostra sua silhueta.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 64,
+        "ingles": "Skirt",
+        "portugues": "Saia",
+        "fraseIngles": "Match your skirt with a nice blouse.",
+        "frasePortugues": "Combine sua saia com uma blusa bonita.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 65,
+        "ingles": "Pencil skirt",
+        "portugues": "Saia lápis",
+        "fraseIngles": "A pencil skirt is form-fitting.",
+        "frasePortugues": "Uma saia lápis é justa ao corpo.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 66,
+        "ingles": "A-line skirt",
+        "portugues": "Saia evasê",
+        "fraseIngles": "An A-line skirt flares from the waist.",
+        "frasePortugues": "Uma saia evasê alarga a partir da cintura.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 67,
+        "ingles": "Mini skirt",
+        "portugues": "Saia curta",
+        "fraseIngles": "A mini skirt is above the knee.",
+        "frasePortugues": "Uma saia curta fica acima do joelho.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 68,
+        "ingles": "Maxi skirt",
+        "portugues": "Saia longa",
+        "fraseIngles": "A maxi skirt reaches your ankles.",
+        "frasePortugues": "Uma saia longa chega aos tornozelos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 69,
+        "ingles": "Pleated skirt",
+        "portugues": "Saia plissada",
+        "fraseIngles": "A pleated skirt has folded fabric.",
+        "frasePortugues": "Uma saia plissada tem tecido dobrado.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 70,
+        "ingles": "Circle skirt",
+        "portugues": "Saia godê",
+        "fraseIngles": "A circle skirt creates a full silhouette.",
+        "frasePortugues": "Uma saia godê cria uma silhueta ampla.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 71,
+        "ingles": "Wrap skirt",
+        "portugues": "Saia transpassada",
+        "fraseIngles": "A wrap skirt ties around the waist.",
+        "frasePortugues": "Uma saia transpassada amarra na cintura.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 72,
+        "ingles": "Denim skirt",
+        "portugues": "Saia jeans",
+        "fraseIngles": "A denim skirt is casual and versatile.",
+        "frasePortugues": "Uma saia jeans é casual e versátil.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 73,
+        "ingles": "Leather skirt",
+        "portugues": "Saia de couro",
+        "fraseIngles": "A leather skirt adds edge to your look.",
+        "frasePortugues": "Uma saia de couro adiciona atitude ao seu visual.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 74,
+        "ingles": "Underwear",
+        "portugues": "Roupa íntima",
+        "fraseIngles": "Choose comfortable underwear daily.",
+        "frasePortugues": "Escolha roupa íntima confortável diariamente.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 75,
+        "ingles": "Bra",
+        "portugues": "Sutiã",
+        "fraseIngles": "Wear a supportive bra for exercise.",
+        "frasePortugues": "Use um sutiã de sustentação para exercícios.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 76,
+        "ingles": "Sports bra",
+        "portugues": "Top esportivo",
+        "fraseIngles": "A sports bra is essential for workouts.",
+        "frasePortugues": "Um top esportivo é essencial para treinos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 77,
+        "ingles": "Strapless bra",
+        "portugues": "Sutiã tomara que caia",
+        "fraseIngles": "Wear a strapless bra with off-shoulder tops.",
+        "frasePortugues": "Use um sutiã tomara que caia com blusas ombro a ombro.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 78,
+        "ingles": "Push-up bra",
+        "portugues": "Sutiã com bojo",
+        "fraseIngles": "A push-up bra enhances your silhouette.",
+        "frasePortugues": "Um sutiã com bojo realça sua silhueta.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 79,
+        "ingles": "Underwire bra",
+        "portugues": "Sutiã com aro",
+        "fraseIngles": "An underwire bra provides extra support.",
+        "frasePortugues": "Um sutiã com aro oferece suporte extra.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 80,
+        "ingles": "Bralette",
+        "portugues": "Bralette",
+        "fraseIngles": "A bralette is comfortable and stylish.",
+        "frasePortugues": "Uma bralette é confortável e estilosa.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 81,
+        "ingles": "Camisole",
+        "portugues": "Camisola",
+        "fraseIngles": "Wear a camisole as a layering piece.",
+        "frasePortugues": "Use uma camisola como peça para sobrepor.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 82,
+        "ingles": "Panties",
+        "portugues": "Calcinha",
+        "fraseIngles": "Choose panties that don't show lines.",
+        "frasePortugues": "Escolha calcinhas que não marquem.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 83,
+        "ingles": "Briefs",
+        "portugues": "Calcinha comum",
+        "fraseIngles": "Briefs offer full coverage.",
+        "frasePortugues": "Calcinhas comuns oferecem cobertura total.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 84,
+        "ingles": "Bikini underwear",
+        "portugues": "Calcinha biquíni",
+        "fraseIngles": "Bikini underwear has moderate coverage.",
+        "frasePortugues": "Calcinha biquíni tem cobertura moderada.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 85,
+        "ingles": "Thong",
+        "portugues": "Fio dental",
+        "fraseIngles": "A thong eliminates panty lines.",
+        "frasePortugues": "Um fio dental elimina marcas de calcinha.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 86,
+        "ingles": "Boyshorts",
+        "portugues": "Calcinha boxer",
+        "fraseIngles": "Boyshorts provide comfortable coverage.",
+        "frasePortugues": "Calcinhas boxer proporcionam cobertura confortável.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 87,
+        "ingles": "G-string",
+        "portugues": "Fio dental minúsculo",
+        "fraseIngles": "A g-string is the most minimal underwear.",
+        "frasePortugues": "Um fio dental minúsculo é a roupa íntima mais mínima.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 88,
+        "ingles": "Long johns",
+        "portugues": "Ceroula",
+        "fraseIngles": "Wear long johns under pants in winter.",
+        "frasePortugues": "Use ceroula sob as calças no inverno.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 89,
+        "ingles": "Thermal underwear",
+        "portugues": "Roupa térmica",
+        "fraseIngles": "Thermal underwear keeps you warm.",
+        "frasePortugues": "Roupa térmica mantém você aquecido.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 90,
+        "ingles": "Undershirt",
+        "portugues": "Camiseta íntima",
+        "fraseIngles": "An undershirt goes under your shirt.",
+        "frasePortugues": "Uma camiseta íntima vai sob sua camisa.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 91,
+        "ingles": "Tank undershirt",
+        "portugues": "Regata íntima",
+        "fraseIngles": "A tank undershirt is sleeveless.",
+        "frasePortugues": "Uma regata íntima não tem mangas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 92,
+        "ingles": "Boxer shorts",
+        "portugues": "Cueca samba canção",
+        "fraseIngles": "Boxer shorts are loose-fitting underwear.",
+        "frasePortugues": "Cuecas samba canção são roupas íntimas folgadas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 93,
+        "ingles": "Briefs (men's)",
+        "portugues": "Cueca slip",
+        "fraseIngles": "Men's briefs provide snug support.",
+        "frasePortugues": "Cuecas slip masculinas oferecem suporte justo.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 94,
+        "ingles": "Boxer briefs",
+        "portugues": "Cueca boxer",
+        "fraseIngles": "Boxer briefs combine comfort and support.",
+        "frasePortugues": "Cuecas boxer combinam conforto e suporte.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 95,
+        "ingles": "Trunks",
+        "portugues": "Cueca trunk",
+        "fraseIngles": "Trunks are shorter than boxer briefs.",
+        "frasePortugues": "Cuecas trunk são mais curtas que boxer briefs.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 96,
+        "ingles": "Socks",
+        "portugues": "Meias",
+        "fraseIngles": "Put on clean socks every day.",
+        "frasePortugues": "Calce meias limpas todos os dias.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 97,
+        "ingles": "Ankle socks",
+        "portugues": "Meias cano baixo",
+        "fraseIngles": "Ankle socks don't show above shoes.",
+        "frasePortugues": "Meias cano baixo não aparecem acima dos sapatos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 98,
+        "ingles": "Crew socks",
+        "portugues": "Meias cano médio",
+        "fraseIngles": "Crew socks reach mid-calf.",
+        "frasePortugues": "Meias cano médio chegam à metade da panturrilha.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 99,
+        "ingles": "Knee-high socks",
+        "portugues": "Meias cano alto",
+        "fraseIngles": "Knee-high socks reach just below the knee.",
+        "frasePortugues": "Meias cano alto chegam logo abaixo do joelho.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 100,
+        "ingles": "Thigh-high socks",
+        "portugues": "Meias até a coxa",
+        "fraseIngles": "Thigh-high socks reach the upper thigh.",
+        "frasePortugues": "Meias até a coxa chegam à parte superior da coxa.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 101,
+        "ingles": "Tube socks",
+        "portugues": "Meias tubo",
+        "fraseIngles": "Tube socks have no heel shape.",
+        "frasePortugues": "Meias tubo não têm formato de calcanhar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 102,
+        "ingles": "Athletic socks",
+        "portugues": "Meias esportivas",
+        "fraseIngles": "Athletic socks wick moisture away.",
+        "frasePortugues": "Meias esportivas absorvem a umidade.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 103,
+        "ingles": "Dress socks",
+        "portugues": "Meias sociais",
+        "fraseIngles": "Wear dress socks with formal shoes.",
+        "frasePortugues": "Use meias sociais com sapatos formais.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 104,
+        "ingles": "Wool socks",
+        "portugues": "Meias de lã",
+        "fraseIngles": "Wool socks keep feet warm.",
+        "frasePortugues": "Meias de lã mantêm os pés aquecidos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 105,
+        "ingles": "Cotton socks",
+        "portugues": "Meias de algodão",
+        "fraseIngles": "Cotton socks are breathable.",
+        "frasePortugues": "Meias de algodão são respiráveis.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 106,
+        "ingles": "Compression socks",
+        "portugues": "Meias de compressão",
+        "fraseIngles": "Compression socks improve circulation.",
+        "frasePortugues": "Meias de compressão melhoram a circulação.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 107,
+        "ingles": "No-show socks",
+        "portugues": "Meias invisíveis",
+        "fraseIngles": "No-show socks are hidden in shoes.",
+        "frasePortugues": "Meias invisíveis ficam escondidas nos sapatos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 108,
+        "ingles": "Pantyhose",
+        "portugues": "Meia-calça",
+        "fraseIngles": "Wear pantyhose with a dress.",
+        "frasePortugues": "Use meia-calça com um vestido.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 109,
+        "ingles": "Tights",
+        "portugues": "Meia-calça opaca",
+        "fraseIngles": "Tights are thicker than pantyhose.",
+        "frasePortugues": "Meia-calça opaca é mais grossa que meia-calça comum.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 110,
+        "ingles": "Stockings",
+        "portugues": "Meias de seda",
+        "fraseIngles": "Stockings require a garter belt.",
+        "frasePortugues": "Meias de seda precisam de cinta-liga.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 111,
+        "ingles": "Leggings",
+        "portugues": "Leggings",
+        "fraseIngles": "Leggings are comfortable for exercise.",
+        "frasePortugues": "Leggings são confortáveis para exercícios.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 112,
+        "ingles": "Yoga pants",
+        "portugues": "Calça de yoga",
+        "fraseIngles": "Yoga pants are stretchy and flexible.",
+        "frasePortugues": "Calças de yoga são elásticas e flexíveis.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 113,
+        "ingles": "Workout clothes",
+        "portugues": "Roupas de treino",
+        "fraseIngles": "Choose breathable workout clothes.",
+        "frasePortugues": "Escolha roupas de treino respiráveis.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 114,
+        "ingles": "Activewear",
+        "portugues": "Roupas esportivas",
+        "fraseIngles": "Activewear is designed for movement.",
+        "frasePortugues": "Roupas esportivas são feitas para movimento.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 115,
+        "ingles": "Tracksuit",
+        "portugues": "Agasalho",
+        "fraseIngles": "Wear a tracksuit for casual comfort.",
+        "frasePortugues": "Use um agasalho para conforto casual.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 116,
+        "ingles": "Sweatpants",
+        "portugues": "Calça de moletom",
+        "fraseIngles": "Sweatpants are perfect for lounging.",
+        "frasePortugues": "Calças de moletom são perfeitas para relaxar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 117,
+        "ingles": "Joggers",
+        "portugues": "Calça jogger",
+        "fraseIngles": "Joggers have elastic cuffs at the ankles.",
+        "frasePortugues": "Calças jogger têm punhos elásticos nos tornozelos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 118,
+        "ingles": "Running shorts",
+        "portugues": "Shorts de corrida",
+        "fraseIngles": "Running shorts are lightweight and breathable.",
+        "frasePortugues": "Shorts de corrida são leves e respiráveis.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 119,
+        "ingles": "Swimsuit",
+        "portugues": "Maiô",
+        "fraseIngles": "Wear a swimsuit to the pool.",
+        "frasePortugues": "Use um maiô para a piscina.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 120,
+        "ingles": "Bikini",
+        "portugues": "Biquíni",
+        "fraseIngles": "A bikini is a two-piece swimsuit.",
+        "frasePortugues": "Um biquíni é um maiô de duas peças.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 121,
+        "ingles": "One-piece",
+        "portugues": "Maiô inteiro",
+        "fraseIngles": "A one-piece swimsuit covers more skin.",
+        "frasePortugues": "Um maiô inteiro cobre mais pele.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 122,
+        "ingles": "Tankini",
+        "portugues": "Tankini",
+        "fraseIngles": "A tankini combines a tank top and bikini bottom.",
+        "frasePortugues": "Um tankini combina um top e parte de baixo de biquíni.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 123,
+        "ingles": "Swim trunks",
+        "portugues": "Sunga",
+        "fraseIngles": "Men wear swim trunks for swimming.",
+        "frasePortugues": "Homens usam sungas para nadar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 124,
+        "ingles": "Board shorts",
+        "portugues": "Shorts de praia",
+        "fraseIngles": "Board shorts are longer swim shorts.",
+        "frasePortugues": "Shorts de praia são shorts de natação mais longos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 125,
+        "ingles": "Cover-up",
+        "portugues": "Saída de praia",
+        "fraseIngles": "Wear a cover-up over your swimsuit.",
+        "frasePortugues": "Use uma saída de praia sobre o maiô.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 126,
+        "ingles": "Sarong",
+        "portugues": "Canga",
+        "fraseIngles": "Wrap a sarong around your waist.",
+        "frasePortugues": "Enrole uma canga na cintura.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 127,
+        "ingles": "Pajamas",
+        "portugues": "Pijama",
+        "fraseIngles": "Put on your pajamas before bed.",
+        "frasePortugues": "Vista seu pijama antes de dormir.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 128,
+        "ingles": "Nightgown",
+        "portugues": "Camisola",
+        "fraseIngles": "A nightgown is sleepwear for women.",
+        "frasePortugues": "Uma camisola é roupa de dormir para mulheres.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 129,
+        "ingles": "Nightshirt",
+        "portugues": "Camisão",
+        "fraseIngles": "A nightshirt is loose sleepwear.",
+        "frasePortugues": "Um camisão é roupa de dormir solta.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 130,
+        "ingles": "Sleep pants",
+        "portugues": "Calça de pijama",
+        "fraseIngles": "Sleep pants are comfortable for bed.",
+        "frasePortugues": "Calças de pijama são confortáveis para a cama.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 131,
+        "ingles": "Robe",
+        "portugues": "Roupão",
+        "fraseIngles": "Wrap yourself in a soft robe.",
+        "frasePortugues": "Envolva-se em um roupão macio.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 132,
+        "ingles": "Bathrobe",
+        "portugues": "Roupão de banho",
+        "fraseIngles": "Put on your bathrobe after showering.",
+        "frasePortugues": "Vista seu roupão de banho depois do banho.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 133,
+        "ingles": "Slippers",
+        "portugues": "Chinelos",
+        "fraseIngles": "Wear slippers around the house.",
+        "frasePortugues": "Use chinelos pela casa.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 134,
+        "ingles": "House shoes",
+        "portugues": "Sapatos de casa",
+        "fraseIngles": "House shoes keep your feet warm indoors.",
+        "frasePortugues": "Sapatos de casa mantêm os pés aquecidos dentro de casa.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 135,
+        "ingles": "Belt",
+        "portugues": "Cinto",
+        "fraseIngles": "Wear a belt to hold up your pants.",
+        "frasePortugues": "Use um cinto para segurar as calças.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 136,
+        "ingles": "Leather belt",
+        "portugues": "Cinto de couro",
+        "fraseIngles": "A leather belt is classic and durable.",
+        "frasePortugues": "Um cinto de couro é clássico e durável.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 137,
+        "ingles": "Fabric belt",
+        "portugues": "Cinto de tecido",
+        "fraseIngles": "A fabric belt adds color to your outfit.",
+        "frasePortugues": "Um cinto de tecido adiciona cor ao seu visual.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 138,
+        "ingles": "Chain belt",
+        "portugues": "Cinto de corrente",
+        "fraseIngles": "A chain belt is a trendy accessory.",
+        "frasePortugues": "Um cinto de corrente é um acessório da moda.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 139,
+        "ingles": "Wide belt",
+        "portugues": "Cinto largo",
+        "fraseIngles": "A wide belt cinches your waist.",
+        "frasePortugues": "Um cinto largo marca a cintura.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 140,
+        "ingles": "Skinny belt",
+        "portugues": "Cinto fino",
+        "fraseIngles": "A skinny belt adds a delicate touch.",
+        "frasePortugues": "Um cinto fino adiciona um toque delicado.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 141,
+        "ingles": "Suspenders",
+        "portugues": "Suspensórios",
+        "fraseIngles": "Suspenders hold up pants without a belt.",
+        "frasePortugues": "Suspensórios seguram as calças sem cinto.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 142,
+        "ingles": "Tie",
+        "portugues": "Gravata",
+        "fraseIngles": "Wear a tie with your dress shirt.",
+        "frasePortugues": "Use uma gravata com sua camisa social.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 143,
+        "ingles": "Bow tie",
+        "portugues": "Gravata borboleta",
+        "fraseIngles": "A bow tie is formal evening wear.",
+        "frasePortugues": "Uma gravata borboleta é traje formal noturno.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 144,
+        "ingles": "Necktie",
+        "portugues": "Gravata comum",
+        "fraseIngles": "Choose a necktie that matches your suit.",
+        "frasePortugues": "Escolha uma gravata que combine com seu terno.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 145,
+        "ingles": "Ascot",
+        "portugues": "Plastron",
+        "fraseIngles": "An ascot is worn with morning dress.",
+        "frasePortugues": "Um plastron é usado com traje matinal.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 146,
+        "ingles": "Scarf",
+        "portugues": "Lenço",
+        "fraseIngles": "Wrap a scarf around your neck.",
+        "frasePortugues": "Enrole um lenço no pescoço.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 147,
+        "ingles": "Silk scarf",
+        "portugues": "Lenço de seda",
+        "fraseIngles": "A silk scarf adds elegance.",
+        "frasePortugues": "Um lenço de seda adiciona elegância.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 148,
+        "ingles": "Wool scarf",
+        "portugues": "Cachecol de lã",
+        "fraseIngles": "A wool scarf keeps you warm.",
+        "frasePortugues": "Um cachecol de lã mantém você aquecido.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 149,
+        "ingles": "Infinity scarf",
+        "portugues": "Cachecol infinito",
+        "fraseIngles": "An infinity scarf loops around your neck.",
+        "frasePortugues": "Um cachecol infinito faz voltas no pescoço.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 150,
+        "ingles": "Pashmina",
+        "portugues": "Pashmina",
+        "fraseIngles": "A pashmina is a luxurious wrap.",
+        "frasePortugues": "Uma pashmina é um xale luxuoso.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 151,
+        "ingles": "Shawl",
+        "portugues": "Xale",
+        "fraseIngles": "Drape a shawl over your shoulders.",
+        "frasePortugues": "Coloque um xale sobre os ombros.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 152,
+        "ingles": "Hat",
+        "portugues": "Chapéu",
+        "fraseIngles": "Wear a hat to protect from sun.",
+        "frasePortugues": "Use um chapéu para se proteger do sol.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 153,
+        "ingles": "Baseball cap",
+        "portugues": "Boné",
+        "fraseIngles": "A baseball cap is casual headwear.",
+        "frasePortugues": "Um boné é chapéu casual.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 154,
+        "ingles": "Beanie",
+        "portugues": "Gorro",
+        "fraseIngles": "A beanie keeps your head warm.",
+        "frasePortugues": "Um gorro mantém a cabeça aquecida.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 155,
+        "ingles": "Sun hat",
+        "portugues": "Chapéu de sol",
+        "fraseIngles": "A sun hat has a wide brim.",
+        "frasePortugues": "Um chapéu de sol tem aba larga.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 156,
+        "ingles": "Fedora",
+        "portugues": "Fedora",
+        "fraseIngles": "A fedora is a stylish hat.",
+        "frasePortugues": "Um fedora é um chapéu elegante.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 157,
+        "ingles": "Beret",
+        "portugues": "Boina",
+        "fraseIngles": "A beret is worn tilted to one side.",
+        "frasePortugues": "Uma boina é usada inclinada para um lado.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 158,
+        "ingles": "Gloves",
+        "portugues": "Luvas",
+        "fraseIngles": "Wear gloves to keep hands warm.",
+        "frasePortugues": "Use luvas para manter as mãos aquecidas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 159,
+        "ingles": "Winter gloves",
+        "portugues": "Luvas de inverno",
+        "fraseIngles": "Winter gloves are lined with fleece.",
+        "frasePortugues": "Luvas de inverno são forradas com lã sintética.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 160,
+        "ingles": "Leather gloves",
+        "portugues": "Luvas de couro",
+        "fraseIngles": "Leather gloves are elegant and warm.",
+        "frasePortugues": "Luvas de couro são elegantes e quentes.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 161,
+        "ingles": "Mittens",
+        "portugues": "Mitenes",
+        "fraseIngles": "Mittens keep fingers together for warmth.",
+        "frasePortugues": "Mitenes mantêm os dedos juntos para aquecer.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 162,
+        "ingles": "Fingerless gloves",
+        "portugues": "Luvas sem dedos",
+        "fraseIngles": "Fingerless gloves allow finger movement.",
+        "frasePortugues": "Luvas sem dedos permitem movimento dos dedos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 163,
+        "ingles": "Driving gloves",
+        "portugues": "Luvas de dirigir",
+        "fraseIngles": "Driving gloves improve grip on the wheel.",
+        "frasePortugues": "Luvas de dirigir melhoram a aderência no volante.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 164,
+        "ingles": "Formal wear",
+        "portugues": "Traje formal",
+        "fraseIngles": "Formal wear is required for the gala.",
+        "frasePortugues": "Traje formal é exigido para a gala.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 165,
+        "ingles": "Suit",
+        "portugues": "Terno",
+        "fraseIngles": "Wear a dark suit to the interview.",
+        "frasePortugues": "Use um terno escuro para a entrevista.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 166,
+        "ingles": "Tuxedo",
+        "portugues": "Smoking",
+        "fraseIngles": "A tuxedo is formal evening wear.",
+        "frasePortugues": "Um smoking é traje formal noturno.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 167,
+        "ingles": "Three-piece suit",
+        "portugues": "Terno de três peças",
+        "fraseIngles": "A three-piece suit includes a vest.",
+        "frasePortugues": "Um terno de três peças inclui colete.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 168,
+        "ingles": "Business suit",
+        "portugues": "Terno executivo",
+        "fraseIngles": "A business suit is professional attire.",
+        "frasePortugues": "Um terno executivo é traje profissional.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 169,
+        "ingles": "Pinstripe suit",
+        "portugues": "Terno risca de giz",
+        "fraseIngles": "A pinstripe suit has thin vertical lines.",
+        "frasePortugues": "Um terno risca de giz tem linhas verticais finas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 170,
+        "ingles": "Double-breasted",
+        "portugues": "Transpassado",
+        "fraseIngles": "A double-breasted jacket has two rows of buttons.",
+        "frasePortugues": "Um paletó transpassado tem duas fileiras de botões.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 171,
+        "ingles": "Single-breasted",
+        "portugues": "Simples",
+        "fraseIngles": "A single-breasted jacket has one row of buttons.",
+        "frasePortugues": "Um paletó simples tem uma fileira de botões.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 172,
+        "ingles": "Bed sheets",
+        "portugues": "Lençóis",
+        "fraseIngles": "Change the bed sheets weekly.",
+        "frasePortugues": "Troque os lençóis semanalmente.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 173,
+        "ingles": "Fitted sheet",
+        "portugues": "Lençol com elástico",
+        "fraseIngles": "The fitted sheet goes over the mattress.",
+        "frasePortugues": "O lençol com elástico vai sobre o colchão.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 174,
+        "ingles": "Flat sheet",
+        "portugues": "Lençol liso",
+        "fraseIngles": "The flat sheet goes on top.",
+        "frasePortugues": "O lençol liso vai por cima.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 175,
+        "ingles": "Top sheet",
+        "portugues": "Lençol de cima",
+        "fraseIngles": "Pull the top sheet up to your chin.",
+        "frasePortugues": "Puxe o lençol de cima até o queixo.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 176,
+        "ingles": "Bottom sheet",
+        "portugues": "Lençol de baixo",
+        "fraseIngles": "The bottom sheet covers the mattress.",
+        "frasePortugues": "O lençol de baixo cobre o colchão.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 177,
+        "ingles": "Twin sheets",
+        "portugues": "Lençóis de solteiro",
+        "fraseIngles": "Twin sheets fit single beds.",
+        "frasePortugues": "Lençóis de solteiro servem para camas de solteiro.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 178,
+        "ingles": "Full sheets",
+        "portugues": "Lençóis de casal",
+        "fraseIngles": "Full sheets fit double beds.",
+        "frasePortugues": "Lençóis de casal servem para camas de casal.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 179,
+        "ingles": "Queen sheets",
+        "portugues": "Lençóis queen",
+        "fraseIngles": "Queen sheets fit larger beds.",
+        "frasePortugues": "Lençóis queen servem para camas maiores.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 180,
+        "ingles": "King sheets",
+        "portugues": "Lençóis king",
+        "fraseIngles": "King sheets fit the largest beds.",
+        "frasePortugues": "Lençóis king servem para as maiores camas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 181,
+        "ingles": "Pillowcase",
+        "portugues": "Fronha",
+        "fraseIngles": "Put a clean pillowcase on your pillow.",
+        "frasePortugues": "Coloque uma fronha limpa no seu travesseiro.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 182,
+        "ingles": "Pillow sham",
+        "portugues": "Fronha decorativa",
+        "fraseIngles": "A pillow sham is decorative bedding.",
+        "frasePortugues": "Uma fronha decorativa é roupa de cama ornamental.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 183,
+        "ingles": "Pillowslip",
+        "portugues": "Fronha simples",
+        "fraseIngles": "A pillowslip protects your pillow.",
+        "frasePortugues": "Uma fronha simples protege seu travesseiro.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 184,
+        "ingles": "Duvet cover",
+        "portugues": "Capa de edredom",
+        "fraseIngles": "The duvet cover protects your comforter.",
+        "frasePortugues": "A capa de edredom protege seu edredom.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 185,
+        "ingles": "Comforter",
+        "portugues": "Edredom",
+        "fraseIngles": "A comforter keeps you warm at night.",
+        "frasePortugues": "Um edredom mantém você aquecido à noite.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 186,
+        "ingles": "Duvet",
+        "portugues": "Edredom nórdico",
+        "fraseIngles": "A duvet is a European-style comforter.",
+        "frasePortugues": "Um edredom nórdico é um cobertor estilo europeu.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 187,
+        "ingles": "Quilt",
+        "portugues": "Colcha",
+        "fraseIngles": "A quilt has decorative stitching.",
+        "frasePortugues": "Uma colcha tem costura decorativa.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 188,
+        "ingles": "Bedspread",
+        "portugues": "Colcha grande",
+        "fraseIngles": "A bedspread covers the entire bed.",
+        "frasePortugues": "Uma colcha grande cobre toda a cama.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 189,
+        "ingles": "Coverlet",
+        "portugues": "Colcha leve",
+        "fraseIngles": "A coverlet is lighter than a bedspread.",
+        "frasePortugues": "Uma colcha leve é mais leve que uma colcha grande.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 190,
+        "ingles": "Throw blanket",
+        "portugues": "Manta",
+        "fraseIngles": "Keep a throw blanket on the sofa.",
+        "frasePortugues": "Mantenha uma manta no sofá.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 191,
+        "ingles": "Afghan",
+        "portugues": "Manta de crochê",
+        "fraseIngles": "An afghan is a crocheted blanket.",
+        "frasePortugues": "Uma manta de crochê é um cobertor feito em crochê.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 192,
+        "ingles": "Electric blanket",
+        "portugues": "Cobertor elétrico",
+        "fraseIngles": "An electric blanket heats up electronically.",
+        "frasePortugues": "Um cobertor elétrico aquece eletricamente.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 193,
+        "ingles": "Weighted blanket",
+        "portugues": "Cobertor pesado",
+        "fraseIngles": "A weighted blanket helps with sleep.",
+        "frasePortugues": "Um cobertor pesado ajuda com o sono.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 194,
+        "ingles": "Fleece blanket",
+        "portugues": "Cobertor de lã sintética",
+        "fraseIngles": "A fleece blanket is soft and warm.",
+        "frasePortugues": "Um cobertor de lã sintética é macio e quente.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 195,
+        "ingles": "Cotton blanket",
+        "portugues": "Cobertor de algodão",
+        "fraseIngles": "A cotton blanket is breathable.",
+        "frasePortugues": "Um cobertor de algodão é respirável.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 196,
+        "ingles": "Wool blanket",
+        "portugues": "Cobertor de lã",
+        "fraseIngles": "A wool blanket provides excellent warmth.",
+        "frasePortugues": "Um cobertor de lã oferece excelente aquecimento.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 197,
+        "ingles": "Bath towel",
+        "portugues": "Toalha de banho",
+        "fraseIngles": "Dry yourself with a clean bath towel.",
+        "frasePortugues": "Seque-se com uma toalha de banho limpa.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 198,
+        "ingles": "Hand towel",
+        "portugues": "Toalha de mão",
+        "fraseIngles": "Use a hand towel to dry your hands.",
+        "frasePortugues": "Use uma toalha de mão para secar as mãos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 199,
+        "ingles": "Washcloth",
+        "portugues": "Toalha de rosto",
+        "fraseIngles": "Use a washcloth to wash your face.",
+        "frasePortugues": "Use uma toalha de rosto para lavar o rosto.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 200,
+        "ingles": "Face towel",
+        "portugues": "Toalha facial",
+        "fraseIngles": "A face towel is gentle on skin.",
+        "frasePortugues": "Uma toalha facial é suave na pele.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 201,
+        "ingles": "Beach towel",
+        "portugues": "Toalha de praia",
+        "fraseIngles": "Take a beach towel to the shore.",
+        "frasePortugues": "Leve uma toalha de praia para a costa.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 202,
+        "ingles": "Pool towel",
+        "portugues": "Toalha de piscina",
+        "fraseIngles": "Use a pool towel after swimming.",
+        "frasePortugues": "Use uma toalha de piscina depois de nadar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 203,
+        "ingles": "Turkish towel",
+        "portugues": "Toalha turca",
+        "fraseIngles": "A Turkish towel is lightweight and absorbent.",
+        "frasePortugues": "Uma toalha turca é leve e absorvente.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 204,
+        "ingles": "Terry cloth towel",
+        "portugues": "Toalha felpuda",
+        "fraseIngles": "A terry cloth towel has loops for absorption.",
+        "frasePortugues": "Uma toalha felpuda tem alças para absorção.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 205,
+        "ingles": "Microfiber towel",
+        "portugues": "Toalha de microfibra",
+        "fraseIngles": "A microfiber towel dries quickly.",
+        "frasePortugues": "Uma toalha de microfibra seca rapidamente.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 206,
+        "ingles": "Bamboo towel",
+        "portugues": "Toalha de bambu",
+        "fraseIngles": "A bamboo towel is eco-friendly.",
+        "frasePortugues": "Uma toalha de bambu é ecológica.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 207,
+        "ingles": "Egyptian cotton towel",
+        "portugues": "Toalha de algodão egípcio",
+        "fraseIngles": "Egyptian cotton towels are luxurious.",
+        "frasePortugues": "Toalhas de algodão egípcio são luxuosas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 208,
+        "ingles": "Organic cotton towel",
+        "portugues": "Toalha de algodão orgânico",
+        "fraseIngles": "Organic cotton towels are chemical-free.",
+        "frasePortugues": "Toalhas de algodão orgânico são livres de químicos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 209,
+        "ingles": "Kitchen towel",
+        "portugues": "Pano de prato",
+        "fraseIngles": "Use a kitchen towel to dry dishes.",
+        "frasePortugues": "Use um pano de prato para secar louças.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 210,
+        "ingles": "Tea towel",
+        "portugues": "Pano de chá",
+        "fraseIngles": "A tea towel is thin and quick-drying.",
+        "frasePortugues": "Um pano de chá é fino e seca rapidamente.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 211,
+        "ingles": "Paper towel",
+        "portugues": "Papel toalha",
+        "fraseIngles": "Clean spills with paper towels.",
+        "frasePortugues": "Limpe derramamentos com papel toalha.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 212,
+        "ingles": "Dish towel",
+        "portugues": "Pano de louça",
+        "fraseIngles": "Keep a dish towel by the sink.",
+        "frasePortugues": "Mantenha um pano de louça perto da pia.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 213,
+        "ingles": "Bar towel",
+        "portugues": "Pano de bar",
+        "fraseIngles": "A bar towel absorbs moisture quickly.",
+        "frasePortugues": "Um pano de bar absorve umidade rapidamente.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 214,
+        "ingles": "Golf towel",
+        "portugues": "Toalha de golfe",
+        "fraseIngles": "Attach a golf towel to your bag.",
+        "frasePortugues": "Prenda uma toalha de golfe à sua bolsa.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 215,
+        "ingles": "Gym towel",
+        "portugues": "Toalha de academia",
+        "fraseIngles": "Bring a gym towel for workouts.",
+        "frasePortugues": "Traga uma toalha de academia para treinos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 216,
+        "ingles": "Travel towel",
+        "portugues": "Toalha de viagem",
+        "fraseIngles": "Pack a compact travel towel.",
+        "frasePortugues": "Leve uma toalha de viagem compacta.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 217,
+        "ingles": "Quick-dry towel",
+        "portugues": "Toalha de secagem rápida",
+        "fraseIngles": "A quick-dry towel is perfect for camping.",
+        "frasePortugues": "Uma toalha de secagem rápida é perfeita para acampar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 218,
+        "ingles": "Hooded towel",
+        "portugues": "Toalha com capuz",
+        "fraseIngles": "Babies love hooded towels after baths.",
+        "frasePortugues": "Bebês adoram toalhas com capuz após o banho.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 219,
+        "ingles": "Spa towel",
+        "portugues": "Toalha de spa",
+        "fraseIngles": "Spa towels are extra soft and fluffy.",
+        "frasePortugues": "Toalhas de spa são extra macias e fofas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 220,
+        "ingles": "Linen towel",
+        "portugues": "Toalha de linho",
+        "fraseIngles": "A linen towel becomes softer with use.",
+        "frasePortugues": "Uma toalha de linho fica mais macia com o uso.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 221,
+        "ingles": "Waffle weave towel",
+        "portugues": "Toalha waffle",
+        "fraseIngles": "A waffle weave towel has a textured pattern.",
+        "frasePortugues": "Uma toalha waffle tem um padrão texturizado.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 222,
+        "ingles": "Tablecloth",
+        "portugues": "Toalha de mesa",
+        "fraseIngles": "Spread a tablecloth over the dining table.",
+        "frasePortugues": "Estenda uma toalha de mesa sobre a mesa de jantar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 223,
+        "ingles": "Cloth napkin",
+        "portugues": "Guardanapo de pano",
+        "fraseIngles": "Use cloth napkins for formal dinners.",
+        "frasePortugues": "Use guardanapos de pano para jantares formais.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 224,
+        "ingles": "Linen napkin",
+        "portugues": "Guardanapo de linho",
+        "fraseIngles": "Linen napkins add elegance to table settings.",
+        "frasePortugues": "Guardanapos de linho adicionam elegância à mesa posta.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 225,
+        "ingles": "Paper napkin",
+        "portugues": "Guardanapo de papel",
+        "fraseIngles": "Keep paper napkins handy for quick cleanup.",
+        "frasePortugues": "Mantenha guardanapos de papel à mão para limpeza rápida.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 226,
+        "ingles": "Cocktail napkin",
+        "portugues": "Guardanapo de coquetel",
+        "fraseIngles": "Serve drinks with cocktail napkins.",
+        "frasePortugues": "Sirva bebidas com guardanapos de coquetel.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 227,
+        "ingles": "Dinner napkin",
+        "portugues": "Guardanapo de jantar",
+        "fraseIngles": "Place a dinner napkin on each plate.",
+        "frasePortugues": "Coloque um guardanapo de jantar em cada prato.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 228,
+        "ingles": "Luncheon napkin",
+        "portugues": "Guardanapo de almoço",
+        "fraseIngles": "Luncheon napkins are smaller than dinner napkins.",
+        "frasePortugues": "Guardanapos de almoço são menores que guardanapos de jantar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 229,
+        "ingles": "Placemat",
+        "portugues": "Jogo americano",
+        "fraseIngles": "Set a placemat at each dining spot.",
+        "frasePortugues": "Coloque um jogo americano em cada lugar à mesa.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 230,
+        "ingles": "Table runner",
+        "portugues": "Caminho de mesa",
+        "fraseIngles": "A table runner decorates the center of the table.",
+        "frasePortugues": "Um caminho de mesa decora o centro da mesa.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 231,
+        "ingles": "Doily",
+        "portugues": "Centrinho",
+        "fraseIngles": "Place a doily under the vase.",
+        "frasePortugues": "Coloque um centrinho embaixo do vaso.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 232,
+        "ingles": "Coaster",
+        "portugues": "Porta-copos",
+        "fraseIngles": "Use coasters to protect the table surface.",
+        "frasePortugues": "Use porta-copos para proteger a superfície da mesa.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 233,
+        "ingles": "Oven mitt",
+        "portugues": "Luva de forno",
+        "fraseIngles": "Use oven mitts when handling hot dishes.",
+        "frasePortugues": "Use luvas de forno ao manusear pratos quentes.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 234,
+        "ingles": "Pot holder",
+        "portugues": "Pegador de panela",
+        "fraseIngles": "Place hot pans on a pot holder.",
+        "frasePortugues": "Coloque panelas quentes em um pegador de panela.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 235,
+        "ingles": "Apron",
+        "portugues": "Avental",
+        "fraseIngles": "Wear an apron to protect your clothes while cooking.",
+        "frasePortugues": "Use um avental para proteger suas roupas ao cozinhar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 236,
+        "ingles": "Chef's hat",
+        "portugues": "Chapéu de chef",
+        "fraseIngles": "The chef wore a traditional white chef's hat.",
+        "frasePortugues": "O chef usava um chapéu de chef branco tradicional.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 237,
+        "ingles": "Hair net",
+        "portugues": "Touca",
+        "fraseIngles": "Food service workers must wear a hair net.",
+        "frasePortugues": "Trabalhadores de serviços alimentares devem usar touca.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 238,
+        "ingles": "Oven cloth",
+        "portugues": "Pano de forno",
+        "fraseIngles": "Use an oven cloth to handle hot cookware.",
+        "frasePortugues": "Use um pano de forno para manusear utensílios quentes.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 239,
+        "ingles": "Cleaning cloth",
+        "portugues": "Pano de limpeza",
+        "fraseIngles": "Wipe surfaces with a damp cleaning cloth.",
+        "frasePortugues": "Limpe superfícies com um pano de limpeza úmido.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 240,
+        "ingles": "Dust cloth",
+        "portugues": "Pano de pó",
+        "fraseIngles": "Use a dust cloth to clean furniture.",
+        "frasePortugues": "Use um pano de pó para limpar móveis.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 241,
+        "ingles": "Polishing cloth",
+        "portugues": "Pano de polir",
+        "fraseIngles": "Polish silver with a soft polishing cloth.",
+        "frasePortugues": "Polia prata com um pano de polir macio.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 242,
+        "ingles": "Chamois",
+        "portugues": "Camurça",
+        "fraseIngles": "Dry your car with a chamois cloth.",
+        "frasePortugues": "Seque seu carro com uma camurça.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 243,
+        "ingles": "Microfiber cloth",
+        "portugues": "Pano de microfibra",
+        "fraseIngles": "A microfiber cloth cleans without streaking.",
+        "frasePortugues": "Um pano de microfibra limpa sem deixar riscos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 244,
+        "ingles": "Floor cloth",
+        "portugues": "Pano de chão",
+        "fraseIngles": "Mop the floor with a damp floor cloth.",
+        "frasePortugues": "Esfregue o chão com um pano de chão úmido.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 245,
+        "ingles": "Window cloth",
+        "portugues": "Pano de janela",
+        "fraseIngles": "Clean windows with a lint-free window cloth.",
+        "frasePortugues": "Limpe janelas com um pano de janela sem fiapos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 246,
+        "ingles": "Cheese cloth",
+        "portugues": "Pano de queijo",
+        "fraseIngles": "Strain liquids through cheese cloth.",
+        "frasePortugues": "Coe líquidos através de pano de queijo.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 247,
+        "ingles": "Muslin cloth",
+        "portugues": "Pano de musselina",
+        "fraseIngles": "Wrap herbs in muslin cloth for cooking.",
+        "frasePortugues": "Envolva ervas em pano de musselina para cozinhar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 248,
+        "ingles": "Drop cloth",
+        "portugues": "Lona de proteção",
+        "fraseIngles": "Spread a drop cloth before painting.",
+        "frasePortugues": "Estenda uma lona de proteção antes de pintar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 249,
+        "ingles": "Tarp",
+        "portugues": "Lona",
+        "fraseIngles": "Cover outdoor furniture with a tarp.",
+        "frasePortugues": "Cubra móveis externos com uma lona.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 250,
+        "ingles": "Canvas",
+        "portugues": "Lona de algodão",
+        "fraseIngles": "Canvas is a heavy-duty fabric.",
+        "frasePortugues": "Lona de algodão é um tecido resistente.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 251,
+        "ingles": "Burlap",
+        "portugues": "Juta",
+        "fraseIngles": "Use burlap sacks for rustic decorations.",
+        "frasePortugues": "Use sacos de juta para decorações rústicas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 252,
+        "ingles": "Flannel",
+        "portugues": "Flanela",
+        "fraseIngles": "Flannel sheets are warm and soft.",
+        "frasePortugues": "Lençóis de flanela são quentes e macios.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 253,
+        "ingles": "Satin",
+        "portugues": "Cetim",
+        "fraseIngles": "Satin sheets feel smooth and luxurious.",
+        "frasePortugues": "Lençóis de cetim são lisos e luxuosos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 254,
+        "ingles": "Silk",
+        "portugues": "Seda",
+        "fraseIngles": "Silk pillowcases are gentle on hair.",
+        "frasePortugues": "Fronhas de seda são suaves para o cabelo.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 255,
+        "ingles": "Percale",
+        "portugues": "Percale",
+        "fraseIngles": "Percale sheets are crisp and cool.",
+        "frasePortugues": "Lençóis de percale são frescos e lisos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 256,
+        "ingles": "Jersey knit",
+        "portugues": "Malha jersey",
+        "fraseIngles": "Jersey knit sheets stretch like t-shirt fabric.",
+        "frasePortugues": "Lençóis de malha jersey esticam como tecido de camiseta.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 257,
+        "ingles": "Bamboo sheets",
+        "portugues": "Lençóis de bambu",
+        "fraseIngles": "Bamboo sheets are naturally antibacterial.",
+        "frasePortugues": "Lençóis de bambu são naturalmente antibacterianos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 258,
+        "ingles": "Linen sheets",
+        "portugues": "Lençóis de linho",
+        "fraseIngles": "Linen sheets get softer with each wash.",
+        "frasePortugues": "Lençóis de linho ficam mais macios a cada lavagem.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 259,
+        "ingles": "Egyptian cotton",
+        "portugues": "Algodão egípcio",
+        "fraseIngles": "Egyptian cotton is known for its quality.",
+        "frasePortugues": "Algodão egípcio é conhecido por sua qualidade.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 260,
+        "ingles": "Pima cotton",
+        "portugues": "Algodão pima",
+        "fraseIngles": "Pima cotton is extra-long staple cotton.",
+        "frasePortugues": "Algodão pima é algodão de fibra extra-longa.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 261,
+        "ingles": "Organic cotton",
+        "portugues": "Algodão orgânico",
+        "fraseIngles": "Organic cotton is grown without pesticides.",
+        "frasePortugues": "Algodão orgânico é cultivado sem pesticidas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 262,
+        "ingles": "Thread count",
+        "portugues": "Número de fios",
+        "fraseIngles": "Higher thread count often means softer sheets.",
+        "frasePortugues": "Maior número de fios geralmente significa lençóis mais macios.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 263,
+        "ingles": "Weave",
+        "portugues": "Trama",
+        "fraseIngles": "The weave affects the feel of fabric.",
+        "frasePortugues": "A trama afeta a sensação do tecido.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 264,
+        "ingles": "Fabric softener",
+        "portugues": "Amaciante",
+        "fraseIngles": "Use fabric softener to make towels fluffy.",
+        "frasePortugues": "Use amaciante para deixar toalhas macias.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 265,
+        "ingles": "Bleach",
+        "portugues": "Alvejante",
+        "fraseIngles": "Bleach whitens and disinfects fabrics.",
+        "frasePortugues": "Alvejante branqueia e desinfeta tecidos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 266,
+        "ingles": "Starch",
+        "portugues": "Goma",
+        "fraseIngles": "Starch makes shirts crisp and pressed.",
+        "frasePortugues": "Goma deixa camisas engomadas e passadas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 267,
+        "ingles": "Detergent",
+        "portugues": "Detergente",
+        "fraseIngles": "Use detergent to wash dirty clothes.",
+        "frasePortugues": "Use detergente para lavar roupas sujas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 268,
+        "ingles": "Laundry soap",
+        "portugues": "Sabão em pó",
+        "fraseIngles": "Laundry soap cleans fabric effectively.",
+        "frasePortugues": "Sabão em pó limpa tecidos efetivamente.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 269,
+        "ingles": "Stain remover",
+        "portugues": "Tira-manchas",
+        "fraseIngles": "Apply stain remover before washing.",
+        "frasePortugues": "Aplique tira-manchas antes de lavar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 270,
+        "ingles": "Pre-treatment",
+        "portugues": "Pré-tratamento",
+        "fraseIngles": "Pre-treatment helps remove tough stains.",
+        "frasePortugues": "Pré-tratamento ajuda a remover manchas difíceis.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 271,
+        "ingles": "Dry cleaning",
+        "portugues": "Lavagem a seco",
+        "fraseIngles": "Some garments require dry cleaning only.",
+        "frasePortugues": "Algumas peças requerem apenas lavagem a seco.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 272,
+        "ingles": "Hand wash",
+        "portugues": "Lavar à mão",
+        "fraseIngles": "Delicate items should be hand washed.",
+        "frasePortugues": "Itens delicados devem ser lavados à mão.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 273,
+        "ingles": "Machine wash",
+        "portugues": "Lavar na máquina",
+        "fraseIngles": "Most clothes can be machine washed.",
+        "frasePortugues": "A maioria das roupas pode ser lavada na máquina.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 274,
+        "ingles": "Cold water",
+        "portugues": "Água fria",
+        "fraseIngles": "Wash dark colors in cold water.",
+        "frasePortugues": "Lave cores escuras em água fria.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 275,
+        "ingles": "Hot water",
+        "portugues": "Água quente",
+        "fraseIngles": "Use hot water for white linens.",
+        "frasePortugues": "Use água quente para roupas de cama brancas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 276,
+        "ingles": "Warm water",
+        "portugues": "Água morna",
+        "fraseIngles": "Warm water works for most laundry.",
+        "frasePortugues": "Água morna funciona para a maioria das roupas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 277,
+        "ingles": "Gentle cycle",
+        "portugues": "Ciclo delicado",
+        "fraseIngles": "Use gentle cycle for delicate fabrics.",
+        "frasePortugues": "Use ciclo delicado para tecidos delicados.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 278,
+        "ingles": "Normal cycle",
+        "portugues": "Ciclo normal",
+        "fraseIngles": "Normal cycle works for everyday clothes.",
+        "frasePortugues": "Ciclo normal funciona para roupas do dia a dia.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 279,
+        "ingles": "Heavy duty cycle",
+        "portugues": "Ciclo pesado",
+        "fraseIngles": "Use heavy duty cycle for very dirty items.",
+        "frasePortugues": "Use ciclo pesado para itens muito sujos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 280,
+        "ingles": "Quick wash",
+        "portugues": "Lavagem rápida",
+        "fraseIngles": "Quick wash saves time for lightly soiled clothes.",
+        "frasePortugues": "Lavagem rápida economiza tempo para roupas pouco sujas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 281,
+        "ingles": "Rinse cycle",
+        "portugues": "Ciclo de enxágue",
+        "fraseIngles": "The rinse cycle removes soap residue.",
+        "frasePortugues": "O ciclo de enxágue remove resíduos de sabão.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 282,
+        "ingles": "Spin cycle",
+        "portugues": "Ciclo de centrifugação",
+        "fraseIngles": "The spin cycle removes excess water.",
+        "frasePortugues": "O ciclo de centrifugação remove água em excesso.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 283,
+        "ingles": "Air dry",
+        "portugues": "Secar ao ar",
+        "fraseIngles": "Air dry delicate garments on a line.",
+        "frasePortugues": "Seque peças delicadas ao ar no varal.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 284,
+        "ingles": "Tumble dry",
+        "portugues": "Secar na secadora",
+        "fraseIngles": "Most towels can tumble dry on high heat.",
+        "frasePortugues": "A maioria das toalhas pode secar na secadora em temperatura alta.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 285,
+        "ingles": "Line dry",
+        "portugues": "Secar no varal",
+        "fraseIngles": "Line dry clothes outside for freshness.",
+        "frasePortugues": "Seque roupas no varal ao ar livre para frescor.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 286,
+        "ingles": "Flat dry",
+        "portugues": "Secar na horizontal",
+        "fraseIngles": "Sweaters should flat dry to maintain shape.",
+        "frasePortugues": "Suéteres devem secar na horizontal para manter a forma.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 287,
+        "ingles": "Drip dry",
+        "portugues": "Secar pingando",
+        "fraseIngles": "Let wet clothes drip dry over the tub.",
+        "frasePortugues": "Deixe roupas molhadas secar pingando sobre a banheira.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 288,
+        "ingles": "Low heat",
+        "portugues": "Calor baixo",
+        "fraseIngles": "Use low heat for synthetic fabrics.",
+        "frasePortugues": "Use calor baixo para tecidos sintéticos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 289,
+        "ingles": "Medium heat",
+        "portugues": "Calor médio",
+        "fraseIngles": "Medium heat works for cotton blends.",
+        "frasePortugues": "Calor médio funciona para misturas de algodão.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 290,
+        "ingles": "High heat",
+        "portugues": "Calor alto",
+        "fraseIngles": "Use high heat for thick towels and sheets.",
+        "frasePortugues": "Use calor alto para toalhas e lençóis grossos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 291,
+        "ingles": "No heat",
+        "portugues": "Sem calor",
+        "fraseIngles": "Use no heat setting for delicate items.",
+        "frasePortugues": "Use configuração sem calor para itens delicados.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 292,
+        "ingles": "Permanent press",
+        "portugues": "Anti-rugas",
+        "fraseIngles": "Permanent press reduces wrinkles.",
+        "frasePortugues": "Anti-rugas reduz amarrotamento.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 293,
+        "ingles": "Delicate",
+        "portugues": "Delicado",
+        "fraseIngles": "Use delicate setting for fragile fabrics.",
+        "frasePortugues": "Use configuração delicada para tecidos frágeis.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 294,
+        "ingles": "Wrinkle-free",
+        "portugues": "Livre de rugas",
+        "fraseIngles": "Wrinkle-free shirts don't need ironing.",
+        "frasePortugues": "Camisas livres de rugas não precisam passar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 295,
+        "ingles": "Shrink-resistant",
+        "portugues": "Resistente ao encolhimento",
+        "fraseIngles": "Shrink-resistant fabrics maintain their size.",
+        "frasePortugues": "Tecidos resistentes ao encolhimento mantêm o tamanho.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 296,
+        "ingles": "Fade-resistant",
+        "portugues": "Resistente ao desbotamento",
+        "fraseIngles": "Fade-resistant colors stay vibrant longer.",
+        "frasePortugues": "Cores resistentes ao desbotamento permanecem vibrantes por mais tempo.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 297,
+        "ingles": "Moisture-wicking",
+        "portugues": "Absorção de umidade",
+        "fraseIngles": "Moisture-wicking fabrics keep you dry.",
+        "frasePortugues": "Tecidos com absorção de umidade mantêm você seco.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 298,
+        "ingles": "Breathable",
+        "portugues": "Respirável",
+        "fraseIngles": "Breathable fabrics allow air circulation.",
+        "frasePortugues": "Tecidos respiráveis permitem circulação de ar.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 299,
+        "ingles": "Stretch fabric",
+        "portugues": "Tecido elástico",
+        "fraseIngles": "Stretch fabric moves with your body.",
+        "frasePortugues": "Tecido elástico se move com seu corpo.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 300,
+        "ingles": "Non-stretch",
+        "portugues": "Não elástico",
+        "fraseIngles": "Non-stretch fabrics hold their shape firmly.",
+        "frasePortugues": "Tecidos não elásticos mantêm sua forma firmemente.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 301,
+        "ingles": "Waterproof",
+        "portugues": "À prova d'água",
+        "fraseIngles": "Waterproof jackets keep you dry in rain.",
+        "frasePortugues": "Jaquetas à prova d'água mantêm você seco na chuva.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 302,
+        "ingles": "Water-resistant",
+        "portugues": "Resistente à água",
+        "fraseIngles": "Water-resistant fabrics repel light moisture.",
+        "frasePortugues": "Tecidos resistentes à água repelem umidade leve.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 303,
+        "ingles": "Windproof",
+        "portugues": "À prova de vento",
+        "fraseIngles": "Windproof jackets block cold air.",
+        "frasePortugues": "Jaquetas à prova de vento bloqueiam ar frio.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 304,
+        "ingles": "UV protection",
+        "portugues": "Proteção UV",
+        "fraseIngles": "UV protection fabrics shield from sun damage.",
+        "frasePortugues": "Tecidos com proteção UV protegem contra danos do sol.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 305,
+        "ingles": "Antimicrobial",
+        "portugues": "Antimicrobiano",
+        "fraseIngles": "Antimicrobial treatments prevent odor-causing bacteria.",
+        "frasePortugues": "Tratamentos antimicrobianos previnem bactérias causadoras de odor.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 306,
+        "ingles": "Stain-resistant",
+        "portugues": "Resistente a manchas",
+        "fraseIngles": "Stain-resistant fabrics repel spills.",
+        "frasePortugues": "Tecidos resistentes a manchas repelem derramamentos.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 307,
+        "ingles": "Easy care",
+        "portugues": "Fácil cuidado",
+        "fraseIngles": "Easy care fabrics require minimal maintenance.",
+        "frasePortugues": "Tecidos de fácil cuidado requerem manutenção mínima.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 308,
+        "ingles": "Colorfast",
+        "portugues": "Cor fixa",
+        "fraseIngles": "Colorfast fabrics won't bleed in the wash.",
+        "frasePortugues": "Tecidos de cor fixa não desbotam na lavagem.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 309,
+        "ingles": "Pre-shrunk",
+        "portugues": "Pré-encolhido",
+        "fraseIngles": "Pre-shrunk fabrics won't shrink further.",
+        "frasePortugues": "Tecidos pré-encolhidos não encolhem mais.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 310,
+        "ingles": "Mercerized",
+        "portugues": "Mercerizado",
+        "fraseIngles": "Mercerized cotton has extra shine and strength.",
+        "frasePortugues": "Algodão mercerizado tem brilho e resistência extras.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 311,
+        "ingles": "Combed cotton",
+        "portugues": "Algodão penteado",
+        "fraseIngles": "Combed cotton is smoother and stronger.",
+        "frasePortugues": "Algodão penteado é mais liso e forte.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 312,
+        "ingles": "Ring-spun cotton",
+        "portugues": "Algodão ring-spun",
+        "fraseIngles": "Ring-spun cotton is softer than regular cotton.",
+        "frasePortugues": "Algodão ring-spun é mais macio que algodão comum.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 313,
+        "ingles": "Pilled fabric",
+        "portugues": "Tecido com bolinhas",
+        "fraseIngles": "Pilled fabric has small balls on the surface.",
+        "frasePortugues": "Tecido com bolinhas tem pequenas bolas na superfície.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 314,
+        "ingles": "Lint",
+        "portugues": "Fiapos",
+        "fraseIngles": "Remove lint from the dryer filter.",
+        "frasePortugues": "Remova fiapos do filtro da secadora.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 315,
+        "ingles": "Static cling",
+        "portugues": "Eletricidade estática",
+        "fraseIngles": "Static cling makes clothes stick together.",
+        "frasePortugues": "Eletricidade estática faz roupas grudarem.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 316,
+        "ingles": "Fabric conditioner",
+        "portugues": "Condicionador de tecidos",
+        "fraseIngles": "Fabric conditioner reduces static and softens clothes.",
+        "frasePortugues": "Condicionador de tecidos reduz estática e amacias roupas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 317,
+        "ingles": "Dryer sheet",
+        "portugues": "Folha amaciante",
+        "fraseIngles": "Use a dryer sheet to prevent static.",
+        "frasePortugues": "Use uma folha amaciante para prevenir estática.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 318,
+        "ingles": "Wool dryer balls",
+        "portugues": "Bolas de secadora de lã",
+        "fraseIngles": "Wool dryer balls naturally soften clothes.",
+        "frasePortugues": "Bolas de secadora de lã naturalmente amaciam roupas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 319,
+        "ingles": "Clothespin",
+        "portugues": "Pregador de roupa",
+        "fraseIngles": "Use clothespins to hang laundry on the line.",
+        "frasePortugues": "Use pregadores de roupa para pendurar no varal.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 320,
+        "ingles": "Clothes hanger",
+        "portugues": "Cabide",
+        "fraseIngles": "Hang shirts on clothes hangers in the closet.",
+        "frasePortugues": "Pendure camisas em cabides no armário.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 321,
+        "ingles": "Suit hanger",
+        "portugues": "Cabide de terno",
+        "fraseIngles": "Use a suit hanger to maintain jacket shape.",
+        "frasePortugues": "Use um cabide de terno para manter a forma do paletó.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 322,
+        "ingles": "Trouser hanger",
+        "portugues": "Cabide de calça",
+        "fraseIngles": "Trouser hangers prevent crease marks.",
+        "frasePortugues": "Cabides de calça previnem marcas de vinco.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 323,
+        "ingles": "Padded hanger",
+        "portugues": "Cabide acolchoado",
+        "fraseIngles": "Padded hangers protect delicate garments.",
+        "frasePortugues": "Cabides acolchoados protegem peças delicadas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 324,
+        "ingles": "Wire hanger",
+        "portugues": "Cabide de arame",
+        "fraseIngles": "Wire hangers are lightweight but can leave marks.",
+        "frasePortugues": "Cabides de arame são leves mas podem deixar marcas.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 325,
+        "ingles": "Wooden hanger",
+        "portugues": "Cabide de madeira",
+        "fraseIngles": "Wooden hangers are sturdy and elegant.",
+        "frasePortugues": "Cabides de madeira são resistentes e elegantes.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 326,
+        "ingles": "Velvet hanger",
+        "portugues": "Cabide de veludo",
+        "fraseIngles": "Velvet hangers prevent clothes from slipping.",
+        "frasePortugues": "Cabides de veludo evitam que roupas escorreguem.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 327,
+        "ingles": "Clip hanger",
+        "portugues": "Cabide com presilhas",
+        "fraseIngles": "Clip hangers hold skirts and pants securely.",
+        "frasePortugues": "Cabides com presilhas seguram saias e calças firmemente.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    },
+    {
+        "id": 328,
+        "ingles": "Cascading hanger",
+        "portugues": "Cabide em cascata",
+        "fraseIngles": "Cascading hangers save closet space.",
+        "frasePortugues": "Cabides em cascata economizam espaço no armário.",
+        "subtopico": "Vestuários",
+        "topico": "Objetos"
+    }
+]

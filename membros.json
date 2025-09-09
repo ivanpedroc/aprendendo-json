@@ -1,0 +1,1766 @@
+[
+    {
+        "id": 1,
+        "ingles": "Father",
+        "portugues": "Pai",
+        "fraseIngles": "My father works as a doctor.",
+        "frasePortugues": "Meu pai trabalha como médico.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 2,
+        "ingles": "Dad",
+        "portugues": "Papai",
+        "fraseIngles": "Dad always helps me with homework.",
+        "frasePortugues": "Papai sempre me ajuda com a lição de casa.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 3,
+        "ingles": "Daddy",
+        "portugues": "Papai (carinhoso)",
+        "fraseIngles": "Little children often say daddy.",
+        "frasePortugues": "Crianças pequenas frequentemente dizem papai.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 4,
+        "ingles": "Papa",
+        "portugues": "Papá",
+        "fraseIngles": "Some families call their father papa.",
+        "frasePortugues": "Algumas famílias chamam o pai de papá.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 5,
+        "ingles": "Pop",
+        "portugues": "Pai (informal)",
+        "fraseIngles": "Hey pop, can I borrow the car?",
+        "frasePortugues": "Ei pai, posso pegar o carro emprestado?",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 6,
+        "ingles": "Mother",
+        "portugues": "Mãe",
+        "fraseIngles": "My mother is a talented artist.",
+        "frasePortugues": "Minha mãe é uma artista talentosa.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 7,
+        "ingles": "Mom",
+        "portugues": "Mamãe",
+        "fraseIngles": "Mom makes the best cookies.",
+        "frasePortugues": "Mamãe faz os melhores biscoitos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 8,
+        "ingles": "Mommy",
+        "portugues": "Mamãe (carinhoso)",
+        "fraseIngles": "Mommy, can you read me a story?",
+        "frasePortugues": "Mamãe, você pode me ler uma história?",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 9,
+        "ingles": "Mama",
+        "portugues": "Mamã",
+        "fraseIngles": "The baby says mama first.",
+        "frasePortugues": "O bebê diz mamã primeiro.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 10,
+        "ingles": "Ma",
+        "portugues": "Mãe (informal)",
+        "fraseIngles": "Ma, what's for dinner tonight?",
+        "frasePortugues": "Mãe, o que tem para o jantar hoje?",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 11,
+        "ingles": "Parents",
+        "portugues": "Pais",
+        "fraseIngles": "My parents met in college.",
+        "frasePortugues": "Meus pais se conheceram na faculdade.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 12,
+        "ingles": "Son",
+        "portugues": "Filho",
+        "fraseIngles": "Their son just graduated from university.",
+        "frasePortugues": "O filho deles acabou de se formar na universidade.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 13,
+        "ingles": "Daughter",
+        "portugues": "Filha",
+        "fraseIngles": "Their daughter is studying medicine.",
+        "frasePortugues": "A filha deles está estudando medicina.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 14,
+        "ingles": "Child",
+        "portugues": "Filho/criança",
+        "fraseIngles": "Every child needs love and attention.",
+        "frasePortugues": "Toda criança precisa de amor e atenção.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 15,
+        "ingles": "Children",
+        "portugues": "Filhos/crianças",
+        "fraseIngles": "The children are playing in the garden.",
+        "frasePortugues": "As crianças estão brincando no jardim.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 16,
+        "ingles": "Kids",
+        "portugues": "Crianças (informal)",
+        "fraseIngles": "The kids are watching cartoons.",
+        "frasePortugues": "As crianças estão assistindo desenhos animados.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 17,
+        "ingles": "Brother",
+        "portugues": "Irmão",
+        "fraseIngles": "My brother is two years older than me.",
+        "frasePortugues": "Meu irmão é dois anos mais velho que eu.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 18,
+        "ingles": "Sister",
+        "portugues": "Irmã",
+        "fraseIngles": "My sister and I share a room.",
+        "frasePortugues": "Minha irmã e eu dividimos um quarto.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 19,
+        "ingles": "Sibling",
+        "portugues": "Irmão/irmã",
+        "fraseIngles": "Do you have any siblings?",
+        "frasePortugues": "Você tem algum irmão ou irmã?",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 20,
+        "ingles": "Siblings",
+        "portugues": "Irmãos",
+        "fraseIngles": "All the siblings look alike.",
+        "frasePortugues": "Todos os irmãos se parecem.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 21,
+        "ingles": "Twin",
+        "portugues": "Gêmeo",
+        "fraseIngles": "My twin brother and I are identical.",
+        "frasePortugues": "Meu irmão gêmeo e eu somos idênticos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 22,
+        "ingles": "Twins",
+        "portugues": "Gêmeos",
+        "fraseIngles": "The twins were born five minutes apart.",
+        "frasePortugues": "Os gêmeos nasceram com cinco minutos de diferença.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 23,
+        "ingles": "Identical twin",
+        "portugues": "Gêmeo idêntico",
+        "fraseIngles": "Identical twins share the same DNA.",
+        "frasePortugues": "Gêmeos idênticos compartilham o mesmo DNA.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 24,
+        "ingles": "Fraternal twin",
+        "portugues": "Gêmeo fraterno",
+        "fraseIngles": "Fraternal twins can look very different.",
+        "frasePortugues": "Gêmeos fraternos podem parecer muito diferentes.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 25,
+        "ingles": "Triplet",
+        "portugues": "Trigêmeo",
+        "fraseIngles": "She gave birth to triplets last year.",
+        "frasePortugues": "Ela deu à luz trigêmeos no ano passado.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 26,
+        "ingles": "Quadruplet",
+        "portugues": "Quadrigêmeo",
+        "fraseIngles": "Quadruplets are extremely rare.",
+        "frasePortugues": "Quadrigêmeos são extremamente raros.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 27,
+        "ingles": "Big brother",
+        "portugues": "Irmão mais velho",
+        "fraseIngles": "My big brother protects me at school.",
+        "frasePortugues": "Meu irmão mais velho me protege na escola.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 28,
+        "ingles": "Little brother",
+        "portugues": "Irmão mais novo",
+        "fraseIngles": "I have to babysit my little brother.",
+        "frasePortugues": "Eu tenho que cuidar do meu irmão mais novo.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 29,
+        "ingles": "Big sister",
+        "portugues": "Irmã mais velha",
+        "fraseIngles": "Big sister always gives good advice.",
+        "frasePortugues": "A irmã mais velha sempre dá bons conselhos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 30,
+        "ingles": "Little sister",
+        "portugues": "Irmã mais nova",
+        "fraseIngles": "My little sister copies everything I do.",
+        "frasePortugues": "Minha irmã mais nova copia tudo que eu faço.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 31,
+        "ingles": "Older brother",
+        "portugues": "Irmão mais velho",
+        "fraseIngles": "My older brother is in high school.",
+        "frasePortugues": "Meu irmão mais velho está no ensino médio.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 32,
+        "ingles": "Younger sister",
+        "portugues": "Irmã mais nova",
+        "fraseIngles": "My younger sister is learning to walk.",
+        "frasePortugues": "Minha irmã mais nova está aprendendo a andar.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 33,
+        "ingles": "Elder",
+        "portugues": "Mais velho",
+        "fraseIngles": "The elder child has more responsibilities.",
+        "frasePortugues": "O filho mais velho tem mais responsabilidades.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 34,
+        "ingles": "Eldest",
+        "portugues": "O mais velho",
+        "fraseIngles": "The eldest son will inherit the business.",
+        "frasePortugues": "O filho mais velho herdará o negócio.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 35,
+        "ingles": "Youngest",
+        "portugues": "O mais novo",
+        "fraseIngles": "The youngest daughter is only three.",
+        "frasePortugues": "A filha mais nova tem apenas três anos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 36,
+        "ingles": "Middle child",
+        "portugues": "Filho do meio",
+        "fraseIngles": "Being the middle child can be challenging.",
+        "frasePortugues": "Ser o filho do meio pode ser desafiador.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 37,
+        "ingles": "Only child",
+        "portugues": "Filho único",
+        "fraseIngles": "She's an only child and quite independent.",
+        "frasePortugues": "Ela é filha única e bastante independente.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 38,
+        "ingles": "Firstborn",
+        "portugues": "Primogênito",
+        "fraseIngles": "The firstborn often becomes a leader.",
+        "frasePortugues": "O primogênito frequentemente se torna líder.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 39,
+        "ingles": "Baby",
+        "portugues": "Bebê",
+        "fraseIngles": "The baby sleeps most of the day.",
+        "frasePortugues": "O bebê dorme a maior parte do dia.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 40,
+        "ingles": "Infant",
+        "portugues": "Bebê pequeno",
+        "fraseIngles": "The infant needs constant care.",
+        "frasePortugues": "O bebê pequeno precisa de cuidados constantes.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 41,
+        "ingles": "Toddler",
+        "portugues": "Criança pequena",
+        "fraseIngles": "The toddler is learning new words daily.",
+        "frasePortugues": "A criança pequena está aprendendo palavras novas diariamente.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 42,
+        "ingles": "Teenager",
+        "portugues": "Adolescente",
+        "fraseIngles": "The teenager spends hours on social media.",
+        "frasePortugues": "O adolescente passa horas nas redes sociais.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 43,
+        "ingles": "Teen",
+        "portugues": "Adolescente (abrev.)",
+        "fraseIngles": "Every teen goes through changes.",
+        "frasePortugues": "Todo adolescente passa por mudanças.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 44,
+        "ingles": "Adult",
+        "portugues": "Adulto",
+        "fraseIngles": "He became an adult at eighteen.",
+        "frasePortugues": "Ele se tornou adulto aos dezoito anos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 45,
+        "ingles": "Grandfather",
+        "portugues": "Avô",
+        "fraseIngles": "My grandfather tells amazing stories.",
+        "frasePortugues": "Meu avô conta histórias incríveis.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 46,
+        "ingles": "Grandpa",
+        "portugues": "Vovô",
+        "fraseIngles": "Grandpa taught me how to fish.",
+        "frasePortugues": "Vovô me ensinou a pescar.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 47,
+        "ingles": "Granddad",
+        "portugues": "Vovô (carinhoso)",
+        "fraseIngles": "Granddad always has candy in his pocket.",
+        "frasePortugues": "Vovô sempre tem balas no bolso.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 48,
+        "ingles": "Grandmother",
+        "portugues": "Avó",
+        "fraseIngles": "My grandmother knits beautiful sweaters.",
+        "frasePortugues": "Minha avó faz suéteres lindos de tricô.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 49,
+        "ingles": "Grandma",
+        "portugues": "Vovó",
+        "fraseIngles": "Grandma makes the best apple pie.",
+        "frasePortugues": "Vovó faz a melhor torta de maçã.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 50,
+        "ingles": "Granny",
+        "portugues": "Vovó (carinhoso)",
+        "fraseIngles": "Granny lives in a cottage by the lake.",
+        "frasePortugues": "Vovó vive numa casinha perto do lago.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 51,
+        "ingles": "Nana",
+        "portugues": "Vovó (informal)",
+        "fraseIngles": "Nana picks me up from school.",
+        "frasePortugues": "Vovó me busca na escola.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 52,
+        "ingles": "Grandparents",
+        "portugues": "Avós",
+        "fraseIngles": "My grandparents celebrated their anniversary.",
+        "frasePortugues": "Meus avós comemoraram o aniversário de casamento.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 53,
+        "ingles": "Great-grandfather",
+        "portugues": "Bisavô",
+        "fraseIngles": "My great-grandfather lived to be ninety.",
+        "frasePortugues": "Meu bisavô viveu até os noventa anos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 54,
+        "ingles": "Great-grandmother",
+        "portugues": "Bisavó",
+        "fraseIngles": "Great-grandmother has many stories to tell.",
+        "frasePortugues": "A bisavó tem muitas histórias para contar.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 55,
+        "ingles": "Great-grandparents",
+        "portugues": "Bisavós",
+        "fraseIngles": "Few people know their great-grandparents.",
+        "frasePortugues": "Poucas pessoas conhecem seus bisavós.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 56,
+        "ingles": "Great-great-grandfather",
+        "portugues": "Trisavô",
+        "fraseIngles": "Our family tree shows our great-great-grandfather.",
+        "frasePortugues": "Nossa árvore genealógica mostra nosso trisavô.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 57,
+        "ingles": "Great-great-grandmother",
+        "portugues": "Trisavó",
+        "fraseIngles": "The great-great-grandmother was born in 1850.",
+        "frasePortugues": "A trisavó nasceu em 1850.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 58,
+        "ingles": "Grandson",
+        "portugues": "Neto",
+        "fraseIngles": "The grandfather is proud of his grandson.",
+        "frasePortugues": "O avô tem orgulho do seu neto.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 59,
+        "ingles": "Granddaughter",
+        "portugues": "Neta",
+        "fraseIngles": "The granddaughter visits every Sunday.",
+        "frasePortugues": "A neta visita todos os domingos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 60,
+        "ingles": "Grandchild",
+        "portugues": "Neto/neta",
+        "fraseIngles": "Each grandchild is special to them.",
+        "frasePortugues": "Cada neto é especial para eles.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 61,
+        "ingles": "Grandchildren",
+        "portugues": "Netos",
+        "fraseIngles": "The grandchildren love story time.",
+        "frasePortugues": "Os netos adoram a hora da história.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 62,
+        "ingles": "Uncle",
+        "portugues": "Tio",
+        "fraseIngles": "My uncle is a professional musician.",
+        "frasePortugues": "Meu tio é um músico profissional.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 63,
+        "ingles": "Aunt",
+        "portugues": "Tia",
+        "fraseIngles": "Aunt Mary brings us gifts every Christmas.",
+        "frasePortugues": "Tia Mary nos traz presentes todo Natal.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 64,
+        "ingles": "Nephew",
+        "portugues": "Sobrinho",
+        "fraseIngles": "My nephew is learning to ride a bike.",
+        "frasePortugues": "Meu sobrinho está aprendendo a andar de bicicleta.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 65,
+        "ingles": "Niece",
+        "portugues": "Sobrinha",
+        "fraseIngles": "My niece draws beautiful pictures.",
+        "frasePortugues": "Minha sobrinha desenha figuras lindas.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 66,
+        "ingles": "Cousin",
+        "portugues": "Primo/prima",
+        "fraseIngles": "My cousin and I grew up together.",
+        "frasePortugues": "Meu primo e eu crescemos juntos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 67,
+        "ingles": "First cousin",
+        "portugues": "Primo de primeiro grau",
+        "fraseIngles": "First cousins share grandparents.",
+        "frasePortugues": "Primos de primeiro grau compartilham avós.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 68,
+        "ingles": "Second cousin",
+        "portugues": "Primo de segundo grau",
+        "fraseIngles": "Second cousins share great-grandparents.",
+        "frasePortugues": "Primos de segundo grau compartilham bisavós.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 69,
+        "ingles": "Cousin once removed",
+        "portugues": "Primo uma vez removido",
+        "fraseIngles": "He's my father's cousin, so my cousin once removed.",
+        "frasePortugues": "Ele é primo do meu pai, então meu primo uma vez removido.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 70,
+        "ingles": "Husband",
+        "portugues": "Marido",
+        "fraseIngles": "My husband cooks dinner every Friday.",
+        "frasePortugues": "Meu marido cozinha o jantar toda sexta-feira.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 71,
+        "ingles": "Wife",
+        "portugues": "Esposa",
+        "fraseIngles": "His wife is a successful lawyer.",
+        "frasePortugues": "A esposa dele é uma advogada bem-sucedida.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 72,
+        "ingles": "Spouse",
+        "portugues": "Cônjuge",
+        "fraseIngles": "Each spouse has different hobbies.",
+        "frasePortugues": "Cada cônjuge tem hobbies diferentes.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 73,
+        "ingles": "Partner",
+        "portugues": "Parceiro",
+        "fraseIngles": "My life partner and I travel together.",
+        "frasePortugues": "Meu parceiro de vida e eu viajamos juntos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 74,
+        "ingles": "Boyfriend",
+        "portugues": "Namorado",
+        "fraseIngles": "Her boyfriend is studying abroad.",
+        "frasePortugues": "O namorado dela está estudando no exterior.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 75,
+        "ingles": "Girlfriend",
+        "portugues": "Namorada",
+        "fraseIngles": "My girlfriend loves romantic movies.",
+        "frasePortugues": "Minha namorada adora filmes românticos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 76,
+        "ingles": "Fiancé",
+        "portugues": "Noivo",
+        "fraseIngles": "Her fiancé proposed last month.",
+        "frasePortugues": "O noivo dela pediu em casamento no mês passado.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 77,
+        "ingles": "Fiancée",
+        "portugues": "Noiva",
+        "fraseIngles": "The fiancée is planning the wedding.",
+        "frasePortugues": "A noiva está planejando o casamento.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 78,
+        "ingles": "Ex-husband",
+        "portugues": "Ex-marido",
+        "fraseIngles": "She remains friends with her ex-husband.",
+        "frasePortugues": "Ela continua amiga do ex-marido.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 79,
+        "ingles": "Ex-wife",
+        "portugues": "Ex-esposa",
+        "fraseIngles": "His ex-wife lives in another state.",
+        "frasePortugues": "A ex-esposa dele mora em outro estado.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 80,
+        "ingles": "Widow",
+        "portugues": "Viúva",
+        "fraseIngles": "The widow has lived alone for years.",
+        "frasePortugues": "A viúva vive sozinha há anos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 81,
+        "ingles": "Widower",
+        "portugues": "Viúvo",
+        "fraseIngles": "The widower misses his late wife.",
+        "frasePortugues": "O viúvo sente falta da esposa falecida.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 82,
+        "ingles": "Father-in-law",
+        "portugues": "Sogro",
+        "fraseIngles": "My father-in-law is a retired teacher.",
+        "frasePortugues": "Meu sogro é um professor aposentado.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 83,
+        "ingles": "Mother-in-law",
+        "portugues": "Sogra",
+        "fraseIngles": "My mother-in-law makes delicious meals.",
+        "frasePortugues": "Minha sogra faz refeições deliciosas.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 84,
+        "ingles": "Parents-in-law",
+        "portugues": "Sogros",
+        "fraseIngles": "We visit my parents-in-law every holiday.",
+        "frasePortugues": "Visitamos meus sogros todo feriado.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 85,
+        "ingles": "Son-in-law",
+        "portugues": "Genro",
+        "fraseIngles": "Their son-in-law is very respectful.",
+        "frasePortugues": "O genro deles é muito respeitoso.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 86,
+        "ingles": "Daughter-in-law",
+        "portugues": "Nora",
+        "fraseIngles": "The daughter-in-law helps with family events.",
+        "frasePortugues": "A nora ajuda com eventos familiares.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 87,
+        "ingles": "Brother-in-law",
+        "portugues": "Cunhado",
+        "fraseIngles": "My brother-in-law works in construction.",
+        "frasePortugues": "Meu cunhado trabalha na construção civil.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 88,
+        "ingles": "Sister-in-law",
+        "portugues": "Cunhada",
+        "fraseIngles": "My sister-in-law and I go shopping together.",
+        "frasePortugues": "Minha cunhada e eu vamos fazer compras juntas.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 89,
+        "ingles": "Stepfather",
+        "portugues": "Padrasto",
+        "fraseIngles": "My stepfather treats me like his own child.",
+        "frasePortugues": "Meu padrasto me trata como seu próprio filho.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 90,
+        "ingles": "Stepmother",
+        "portugues": "Madrasta",
+        "fraseIngles": "My stepmother is kind and caring.",
+        "frasePortugues": "Minha madrasta é gentil e carinhosa.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 91,
+        "ingles": "Stepparents",
+        "portugues": "Padrastos",
+        "fraseIngles": "Some children have loving stepparents.",
+        "frasePortugues": "Algumas crianças têm padrastos amorosos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 92,
+        "ingles": "Stepson",
+        "portugues": "Enteado",
+        "fraseIngles": "He loves his stepson as his own.",
+        "frasePortugues": "Ele ama seu enteado como se fosse seu filho.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 93,
+        "ingles": "Stepdaughter",
+        "portugues": "Enteada",
+        "fraseIngles": "The stepdaughter visits every weekend.",
+        "frasePortugues": "A enteada visita todo fim de semana.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 94,
+        "ingles": "Stepchild",
+        "portugues": "Enteado/enteada",
+        "fraseIngles": "Blended families include stepchildren.",
+        "frasePortugues": "Famílias mistas incluem enteados.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 95,
+        "ingles": "Stepchildren",
+        "portugues": "Enteados",
+        "fraseIngles": "The stepchildren get along well together.",
+        "frasePortugues": "Os enteados se dão bem juntos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 96,
+        "ingles": "Stepbrother",
+        "portugues": "Meio-irmão",
+        "fraseIngles": "My stepbrother and I share a bedroom.",
+        "frasePortugues": "Meu meio-irmão e eu dividimos um quarto.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 97,
+        "ingles": "Stepsister",
+        "portugues": "Meia-irmã",
+        "fraseIngles": "My stepsister is in college now.",
+        "frasePortugues": "Minha meia-irmã está na faculdade agora.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 98,
+        "ingles": "Half-brother",
+        "portugues": "Meio-irmão (mesmo pai ou mãe)",
+        "fraseIngles": "My half-brother lives with our father.",
+        "frasePortugues": "Meu meio-irmão vive com nosso pai.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 99,
+        "ingles": "Half-sister",
+        "portugues": "Meia-irmã (mesmo pai ou mãe)",
+        "fraseIngles": "My half-sister has different colored eyes.",
+        "frasePortugues": "Minha meia-irmã tem olhos de cores diferentes.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 100,
+        "ingles": "Adoptive father",
+        "portugues": "Pai adotivo",
+        "fraseIngles": "His adoptive father raised him lovingly.",
+        "frasePortugues": "Seu pai adotivo o criou com amor.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 101,
+        "ingles": "Adoptive mother",
+        "portugues": "Mãe adotiva",
+        "fraseIngles": "The adoptive mother waited years for a child.",
+        "frasePortugues": "A mãe adotiva esperou anos por uma criança.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 102,
+        "ingles": "Adoptive parents",
+        "portugues": "Pais adotivos",
+        "fraseIngles": "The adoptive parents provide a stable home.",
+        "frasePortugues": "Os pais adotivos oferecem um lar estável.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 103,
+        "ingles": "Adopted child",
+        "portugues": "Filho adotivo",
+        "fraseIngles": "The adopted child feels completely loved.",
+        "frasePortugues": "O filho adotivo se sente completamente amado.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 104,
+        "ingles": "Foster father",
+        "portugues": "Pai de criação",
+        "fraseIngles": "The foster father takes care of many children.",
+        "frasePortugues": "O pai de criação cuida de muitas crianças.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 105,
+        "ingles": "Foster mother",
+        "portugues": "Mãe de criação",
+        "fraseIngles": "The foster mother provides temporary care.",
+        "frasePortugues": "A mãe de criação oferece cuidado temporário.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 106,
+        "ingles": "Foster parents",
+        "portugues": "Pais de criação",
+        "fraseIngles": "Foster parents help children in need.",
+        "frasePortugues": "Pais de criação ajudam crianças necessitadas.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 107,
+        "ingles": "Foster child",
+        "portugues": "Criança em família substituta",
+        "fraseIngles": "The foster child is adjusting well.",
+        "frasePortugues": "A criança em família substituta está se adaptando bem.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 108,
+        "ingles": "Guardian",
+        "portugues": "Tutor/responsável",
+        "fraseIngles": "The guardian makes decisions for the minor.",
+        "frasePortugues": "O tutor toma decisões pelo menor.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 109,
+        "ingles": "Legal guardian",
+        "portugues": "Tutor legal",
+        "fraseIngles": "She became the legal guardian after the accident.",
+        "frasePortugues": "Ela se tornou tutora legal após o acidente.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 110,
+        "ingles": "Godfather",
+        "portugues": "Padrinho",
+        "fraseIngles": "My godfather gives me advice about life.",
+        "frasePortugues": "Meu padrinho me dá conselhos sobre a vida.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 111,
+        "ingles": "Godmother",
+        "portugues": "Madrinha",
+        "fraseIngles": "My godmother remembers all my birthdays.",
+        "frasePortugues": "Minha madrinha lembra de todos os meus aniversários.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 112,
+        "ingles": "Godparents",
+        "portugues": "Padrinhos",
+        "fraseIngles": "The godparents attended the baptism ceremony.",
+        "frasePortugues": "Os padrinhos compareceram à cerimônia de batismo.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 113,
+        "ingles": "Godson",
+        "portugues": "Afilhado",
+        "fraseIngles": "The godson looks up to his godfather.",
+        "frasePortugues": "O afilhado admira seu padrinho.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 114,
+        "ingles": "Goddaughter",
+        "portugues": "Afilhada",
+        "fraseIngles": "The goddaughter received a special gift.",
+        "frasePortugues": "A afilhada recebeu um presente especial.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 115,
+        "ingles": "Godchild",
+        "portugues": "Afilhado/afilhada",
+        "fraseIngles": "Every godchild is blessed to have godparents.",
+        "frasePortugues": "Todo afilhado tem a sorte de ter padrinhos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 116,
+        "ingles": "Ancestor",
+        "portugues": "Ancestral",
+        "fraseIngles": "We traced our ancestors back five generations.",
+        "frasePortugues": "Rastreamos nossos ancestrais até cinco gerações.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 117,
+        "ingles": "Descendant",
+        "portugues": "Descendente",
+        "fraseIngles": "She is a descendant of famous explorers.",
+        "frasePortugues": "Ela é descendente de exploradores famosos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 118,
+        "ingles": "Heir",
+        "portugues": "Herdeiro",
+        "fraseIngles": "The eldest son is the heir to the fortune.",
+        "frasePortugues": "O filho mais velho é o herdeiro da fortuna.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 119,
+        "ingles": "Heiress",
+        "portugues": "Herdeira",
+        "fraseIngles": "The heiress inherited the family business.",
+        "frasePortugues": "A herdeira herdou o negócio da família.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 120,
+        "ingles": "Relative",
+        "portugues": "Parente",
+        "fraseIngles": "We're having a reunion with all our relatives.",
+        "frasePortugues": "Estamos fazendo uma reunião com todos os nossos parentes.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 121,
+        "ingles": "Family member",
+        "portugues": "Membro da família",
+        "fraseIngles": "Every family member has a special role.",
+        "frasePortugues": "Todo membro da família tem um papel especial.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 122,
+        "ingles": "Kin",
+        "portugues": "Parente próximo",
+        "fraseIngles": "She feels responsible for all her kin.",
+        "frasePortugues": "Ela se sente responsável por todos os seus parentes próximos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 123,
+        "ingles": "Next of kin",
+        "portugues": "Parente mais próximo",
+        "fraseIngles": "The hospital contacted his next of kin.",
+        "frasePortugues": "O hospital contatou seu parente mais próximo.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 124,
+        "ingles": "Blood relative",
+        "portugues": "Parente de sangue",
+        "fraseIngles": "Only blood relatives can be organ donors.",
+        "frasePortugues": "Apenas parentes de sangue podem ser doadores de órgãos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 125,
+        "ingles": "In-laws",
+        "portugues": "Sogros/parentes do cônjuge",
+        "fraseIngles": "The in-laws visit during holidays.",
+        "frasePortugues": "Os sogros visitam durante os feriados.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 126,
+        "ingles": "Extended family",
+        "portugues": "Família estendida",
+        "fraseIngles": "Our extended family includes many cousins.",
+        "frasePortugues": "Nossa família estendida inclui muitos primos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 127,
+        "ingles": "Nuclear family",
+        "portugues": "Família nuclear",
+        "fraseIngles": "A nuclear family consists of parents and children.",
+        "frasePortugues": "Uma família nuclear consiste de pais e filhos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 128,
+        "ingles": "Immediate family",
+        "portugues": "Família imediata",
+        "fraseIngles": "Only immediate family attended the ceremony.",
+        "frasePortugues": "Apenas a família imediata compareceu à cerimônia.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 129,
+        "ingles": "Distant relative",
+        "portugues": "Parente distante",
+        "fraseIngles": "I met a distant relative at the wedding.",
+        "frasePortugues": "Conheci um parente distante no casamento.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 130,
+        "ingles": "Close relative",
+        "portugues": "Parente próximo",
+        "fraseIngles": "Close relatives often share similar traits.",
+        "frasePortugues": "Parentes próximos frequentemente compartilham características similares.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 131,
+        "ingles": "Family tree",
+        "portugues": "Árvore genealógica",
+        "fraseIngles": "We created a family tree for the reunion.",
+        "frasePortugues": "Criamos uma árvore genealógica para a reunião.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 132,
+        "ingles": "Genealogy",
+        "portugues": "Genealogia",
+        "fraseIngles": "She studies genealogy as a hobby.",
+        "frasePortugues": "Ela estuda genealogia como hobby.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 133,
+        "ingles": "Lineage",
+        "portugues": "Linhagem",
+        "fraseIngles": "Their lineage goes back to royalty.",
+        "frasePortugues": "A linhagem deles remonta à realeza.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 134,
+        "ingles": "Bloodline",
+        "portugues": "Linhagem sanguínea",
+        "fraseIngles": "The bloodline has been traced for centuries.",
+        "frasePortugues": "A linhagem sanguínea foi rastreada por séculos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 135,
+        "ingles": "Generation",
+        "portugues": "Geração",
+        "fraseIngles": "Each generation faces different challenges.",
+        "frasePortugues": "Cada geração enfrenta desafios diferentes.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 136,
+        "ingles": "Matriarch",
+        "portugues": "Matriarca",
+        "fraseIngles": "The matriarch keeps the family together.",
+        "frasePortugues": "A matriarca mantém a família unida.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 137,
+        "ingles": "Patriarch",
+        "portugues": "Patriarca",
+        "fraseIngles": "The patriarch makes important family decisions.",
+        "frasePortugues": "O patriarca toma decisões importantes da família.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 138,
+        "ingles": "Family head",
+        "portugues": "Chefe da família",
+        "fraseIngles": "The family head organizes all gatherings.",
+        "frasePortugues": "O chefe da família organiza todas as reuniões.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 139,
+        "ingles": "Breadwinner",
+        "portugues": "Arrimo de família",
+        "fraseIngles": "Father is the main breadwinner.",
+        "frasePortugues": "O pai é o principal arrimo de família.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 140,
+        "ingles": "Homemaker",
+        "portugues": "Dona de casa",
+        "fraseIngles": "Mother chose to be a homemaker.",
+        "frasePortugues": "A mãe escolheu ser dona de casa.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 141,
+        "ingles": "Single parent",
+        "portugues": "Pai/mãe solteiro(a)",
+        "fraseIngles": "Being a single parent is challenging.",
+        "frasePortugues": "Ser pai/mãe solteiro(a) é desafiador.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 142,
+        "ingles": "Working parent",
+        "portugues": "Pai/mãe que trabalha",
+        "fraseIngles": "Working parents balance career and family.",
+        "frasePortugues": "Pais que trabalham equilibram carreira e família.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 143,
+        "ingles": "Stay-at-home parent",
+        "portugues": "Pai/mãe que fica em casa",
+        "fraseIngles": "The stay-at-home parent manages household duties.",
+        "frasePortugues": "O pai/mãe que fica em casa gerencia deveres domésticos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 144,
+        "ingles": "Empty nester",
+        "portugues": "Pai/mãe com filhos já criados",
+        "fraseIngles": "Empty nesters rediscover their hobbies.",
+        "frasePortugues": "Pais com filhos já criados redescobrem seus hobbies.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 145,
+        "ingles": "New parent",
+        "portugues": "Novo pai/nova mãe",
+        "fraseIngles": "New parents often feel overwhelmed.",
+        "frasePortugues": "Novos pais frequentemente se sentem sobrecarregados.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 146,
+        "ingles": "Teen parent",
+        "portugues": "Pai/mãe adolescente",
+        "fraseIngles": "Teen parents need extra support.",
+        "frasePortugues": "Pais adolescentes precisam de apoio extra.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 147,
+        "ingles": "Grandparent",
+        "portugues": "Avô/avó",
+        "fraseIngles": "Every grandparent spoils their grandchildren.",
+        "frasePortugues": "Todo avô/avó mima seus netos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 148,
+        "ingles": "Great-grandparent",
+        "portugues": "Bisavô/bisavó",
+        "fraseIngles": "Meeting a great-grandparent is special.",
+        "frasePortugues": "Conhecer um bisavô/bisavó é especial.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 149,
+        "ingles": "Caregiver",
+        "portugues": "Cuidador",
+        "fraseIngles": "The caregiver tends to elderly family members.",
+        "frasePortugues": "O cuidador cuida dos membros idosos da família.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 150,
+        "ingles": "Babysitter",
+        "portugues": "Babá",
+        "fraseIngles": "The babysitter watches the children tonight.",
+        "frasePortugues": "A babá cuida das crianças hoje à noite.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 151,
+        "ingles": "Nanny",
+        "portugues": "Babá (profissional)",
+        "fraseIngles": "The nanny helps with daily childcare.",
+        "frasePortugues": "A babá ajuda com cuidados diários das crianças.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 152,
+        "ingles": "Au pair",
+        "portugues": "Au pair",
+        "fraseIngles": "The au pair comes from France.",
+        "frasePortugues": "A au pair vem da França.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 153,
+        "ingles": "Family friend",
+        "portugues": "Amigo da família",
+        "fraseIngles": "He's like family, our closest family friend.",
+        "frasePortugues": "Ele é como família, nosso amigo mais próximo da família.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 154,
+        "ingles": "Honorary family",
+        "portugues": "Família honorária",
+        "fraseIngles": "Close friends become honorary family.",
+        "frasePortugues": "Amigos próximos se tornam família honorária.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 155,
+        "ingles": "Chosen family",
+        "portugues": "Família escolhida",
+        "fraseIngles": "Sometimes chosen family is closer than blood family.",
+        "frasePortugues": "Às vezes a família escolhida é mais próxima que a família de sangue.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 156,
+        "ingles": "Blended family",
+        "portugues": "Família mista",
+        "fraseIngles": "Blended families combine children from previous relationships.",
+        "frasePortugues": "Famílias mistas combinam filhos de relacionamentos anteriores.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 157,
+        "ingles": "Single-child family",
+        "portugues": "Família de filho único",
+        "fraseIngles": "Single-child families are becoming more common.",
+        "frasePortugues": "Famílias de filho único estão se tornando mais comuns.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 158,
+        "ingles": "Large family",
+        "portugues": "Família grande",
+        "fraseIngles": "Large families have unique dynamics.",
+        "frasePortugues": "Famílias grandes têm dinâmicas únicas.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 159,
+        "ingles": "Small family",
+        "portugues": "Família pequena",
+        "fraseIngles": "Small families often travel together easily.",
+        "frasePortugues": "Famílias pequenas frequentemente viajam juntas facilmente.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 160,
+        "ingles": "Close-knit family",
+        "portugues": "Família muito unida",
+        "fraseIngles": "Close-knit families support each other always.",
+        "frasePortugues": "Famílias muito unidas sempre se apoiam.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 161,
+        "ingles": "Dysfunctional family",
+        "portugues": "Família disfuncional",
+        "fraseIngles": "Therapy can help dysfunctional families heal.",
+        "frasePortugues": "Terapia pode ajudar famílias disfuncionais a se curar.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 162,
+        "ingles": "Loving family",
+        "portugues": "Família amorosa",
+        "fraseIngles": "A loving family provides emotional security.",
+        "frasePortugues": "Uma família amorosa oferece segurança emocional.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 163,
+        "ingles": "Supportive family",
+        "portugues": "Família que apoia",
+        "fraseIngles": "Supportive families encourage individual growth.",
+        "frasePortugues": "Famílias que apoiam encorajam crescimento individual.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 164,
+        "ingles": "Traditional family",
+        "portugues": "Família tradicional",
+        "fraseIngles": "Traditional families follow conventional structures.",
+        "frasePortugues": "Famílias tradicionais seguem estruturas convencionais.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 165,
+        "ingles": "Modern family",
+        "portugues": "Família moderna",
+        "fraseIngles": "Modern families come in many different forms.",
+        "frasePortugues": "Famílias modernas vêm em muitas formas diferentes.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 166,
+        "ingles": "Military family",
+        "portugues": "Família militar",
+        "fraseIngles": "Military families move frequently.",
+        "frasePortugues": "Famílias militares se mudam frequentemente.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 167,
+        "ingles": "Divorced parents",
+        "portugues": "Pais divorciados",
+        "fraseIngles": "Divorced parents share custody of children.",
+        "frasePortugues": "Pais divorciados compartilham a custódia dos filhos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 168,
+        "ingles": "Separated parents",
+        "portugues": "Pais separados",
+        "fraseIngles": "Separated parents are working on reconciliation.",
+        "frasePortugues": "Pais separados estão trabalhando na reconciliação.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 169,
+        "ingles": "Remarried parent",
+        "portugues": "Pai/mãe que se casou novamente",
+        "fraseIngles": "The remarried parent has stepchildren now.",
+        "frasePortugues": "O pai/mãe que se casou novamente tem enteados agora.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 170,
+        "ingles": "Birth parent",
+        "portugues": "Pai/mãe biológico",
+        "fraseIngles": "The adopted child met her birth parents.",
+        "frasePortugues": "A criança adotada conheceu seus pais biológicos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 171,
+        "ingles": "Biological parent",
+        "portugues": "Pai/mãe biológico",
+        "fraseIngles": "Biological parents share genetic traits with children.",
+        "frasePortugues": "Pais biológicos compartilham características genéticas com filhos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 172,
+        "ingles": "Surrogate mother",
+        "portugues": "Mãe de aluguel",
+        "fraseIngles": "The surrogate mother carried their baby.",
+        "frasePortugues": "A mãe de aluguel carregou o bebê deles.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 173,
+        "ingles": "Sperm donor",
+        "portugues": "Doador de esperma",
+        "fraseIngles": "The sperm donor helped create their family.",
+        "frasePortugues": "O doador de esperma ajudou a criar a família deles.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 174,
+        "ingles": "Egg donor",
+        "portugues": "Doadora de óvulo",
+        "fraseIngles": "The egg donor made their dream possible.",
+        "frasePortugues": "A doadora de óvulo tornou o sonho deles possível.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 175,
+        "ingles": "Family name",
+        "portugues": "Nome de família",
+        "fraseIngles": "The family name has been passed down for generations.",
+        "frasePortugues": "O nome de família foi passado por gerações.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 176,
+        "ingles": "Maiden name",
+        "portugues": "Nome de solteira",
+        "fraseIngles": "She kept her maiden name after marriage.",
+        "frasePortugues": "Ela manteve seu nome de solteira após o casamento.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 177,
+        "ingles": "Married name",
+        "portugues": "Nome de casada",
+        "fraseIngles": "Her married name is different from her maiden name.",
+        "frasePortugues": "Seu nome de casada é diferente do nome de solteira.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 178,
+        "ingles": "Surname",
+        "portugues": "Sobrenome",
+        "fraseIngles": "Children usually take their father's surname.",
+        "frasePortugues": "Crianças geralmente adotam o sobrenome do pai.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 179,
+        "ingles": "Last name",
+        "portugues": "Último nome",
+        "fraseIngles": "What's your last name?",
+        "frasePortugues": "Qual é seu último nome?",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 180,
+        "ingles": "First name",
+        "portugues": "Primeiro nome",
+        "fraseIngles": "His first name is very uncommon.",
+        "frasePortugues": "Seu primeiro nome é muito incomum.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 181,
+        "ingles": "Middle name",
+        "portugues": "Nome do meio",
+        "fraseIngles": "Her middle name honors her grandmother.",
+        "frasePortugues": "Seu nome do meio homenageia sua avó.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 182,
+        "ingles": "Nickname",
+        "portugues": "Apelido",
+        "fraseIngles": "Everyone calls him by his nickname.",
+        "frasePortugues": "Todo mundo o chama pelo apelido.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 183,
+        "ingles": "Pet name",
+        "portugues": "Nome carinhoso",
+        "fraseIngles": "Parents often use pet names for children.",
+        "frasePortugues": "Pais frequentemente usam nomes carinhosos para crianças.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 184,
+        "ingles": "Family resemblance",
+        "portugues": "Semelhança familiar",
+        "fraseIngles": "There's a strong family resemblance between them.",
+        "frasePortugues": "Há uma forte semelhança familiar entre eles.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 185,
+        "ingles": "Family trait",
+        "portugues": "Característica familiar",
+        "fraseIngles": "Musical talent is a family trait.",
+        "frasePortugues": "Talento musical é uma característica familiar.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 186,
+        "ingles": "Family tradition",
+        "portugues": "Tradição familiar",
+        "fraseIngles": "The family tradition is to gather every Sunday.",
+        "frasePortugues": "A tradição familiar é se reunir todo domingo.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 187,
+        "ingles": "Family reunion",
+        "portugues": "Reunião familiar",
+        "fraseIngles": "The family reunion happens every summer.",
+        "frasePortugues": "A reunião familiar acontece todo verão.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 188,
+        "ingles": "Family gathering",
+        "portugues": "Encontro familiar",
+        "fraseIngles": "Family gatherings are always noisy and fun.",
+        "frasePortugues": "Encontros familiares são sempre barulhentos e divertidos.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 189,
+        "ingles": "Family bond",
+        "portugues": "Vínculo familiar",
+        "fraseIngles": "The family bond grows stronger over time.",
+        "frasePortugues": "O vínculo familiar fica mais forte com o tempo.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 190,
+        "ingles": "Family loyalty",
+        "portugues": "Lealdade familiar",
+        "fraseIngles": "Family loyalty means supporting each other always.",
+        "frasePortugues": "Lealdade familiar significa apoiar-se sempre.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 191,
+        "ingles": "Family values",
+        "portugues": "Valores familiares",
+        "fraseIngles": "Strong family values guide their decisions.",
+        "frasePortugues": "Valores familiares fortes guiam suas decisões.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 192,
+        "ingles": "Family legacy",
+        "portugues": "Legado familiar",
+        "fraseIngles": "The family legacy includes helping others.",
+        "frasePortugues": "O legado familiar inclui ajudar outros.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 193,
+        "ingles": "Family history",
+        "portugues": "História familiar",
+        "fraseIngles": "She researches family history as a passion.",
+        "frasePortugues": "Ela pesquisa história familiar como paixão.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 194,
+        "ingles": "Family photo",
+        "portugues": "Foto da família",
+        "fraseIngles": "The family photo hangs in the living room.",
+        "frasePortugues": "A foto da família está pendurada na sala de estar.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 195,
+        "ingles": "Family portrait",
+        "portugues": "Retrato da família",
+        "fraseIngles": "They commissioned a family portrait last year.",
+        "frasePortugues": "Eles encomendaram um retrato da família no ano passado.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    },
+    {
+        "id": 196,
+        "ingles": "Family album",
+        "portugues": "Álbum de família",
+        "fraseIngles": "The family album contains memories from decades.",
+        "frasePortugues": "O álbum de família contém memórias de décadas.",
+        "subtopico": "Membros",
+        "topico": "Família"
+    }
+]

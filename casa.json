@@ -1,0 +1,1685 @@
+[
+    {
+        "id": 1,
+        "ingles": "Sofa",
+        "portugues": "Sofá",
+        "fraseIngles": "Sit on the comfortable sofa in the living room.",
+        "frasePortugues": "Sente-se no sofá confortável da sala de estar.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 2,
+        "ingles": "Chair",
+        "portugues": "Cadeira",
+        "fraseIngles": "Pull up a chair to the dining table.",
+        "frasePortugues": "Puxe uma cadeira para a mesa de jantar.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 3,
+        "ingles": "Table",
+        "portugues": "Mesa",
+        "fraseIngles": "Set the dishes on the dining table.",
+        "frasePortugues": "Coloque os pratos na mesa de jantar.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 4,
+        "ingles": "Bed",
+        "portugues": "Cama",
+        "fraseIngles": "Make your bed every morning.",
+        "frasePortugues": "Arrume sua cama toda manhã.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 5,
+        "ingles": "Pillow",
+        "portugues": "Travesseiro",
+        "fraseIngles": "Rest your head on a soft pillow.",
+        "frasePortugues": "Descanse sua cabeça em um travesseiro macio.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 6,
+        "ingles": "Blanket",
+        "portugues": "Cobertor",
+        "fraseIngles": "Cover yourself with a warm blanket.",
+        "frasePortugues": "Cubra-se com um cobertor quente.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 7,
+        "ingles": "Sheet",
+        "portugues": "Lençol",
+        "fraseIngles": "Change the bed sheets weekly.",
+        "frasePortugues": "Troque os lençóis da cama semanalmente.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 8,
+        "ingles": "Dresser",
+        "portugues": "Cômoda",
+        "fraseIngles": "Keep your clothes in the dresser.",
+        "frasePortugues": "Guarde suas roupas na cômoda.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 9,
+        "ingles": "Mirror",
+        "portugues": "Espelho",
+        "fraseIngles": "Look at yourself in the bathroom mirror.",
+        "frasePortugues": "Olhe-se no espelho do banheiro.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 10,
+        "ingles": "Lamp",
+        "portugues": "Abajur",
+        "fraseIngles": "Turn on the reading lamp.",
+        "frasePortugues": "Acenda o abajur de leitura.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 11,
+        "ingles": "Curtains",
+        "portugues": "Cortinas",
+        "fraseIngles": "Open the curtains to let in sunlight.",
+        "frasePortugues": "Abra as cortinas para deixar entrar a luz do sol.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 12,
+        "ingles": "Carpet",
+        "portugues": "Tapete",
+        "fraseIngles": "Vacuum the living room carpet.",
+        "frasePortugues": "Aspire o tapete da sala de estar.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 13,
+        "ingles": "Bookshelf",
+        "portugues": "Estante de livros",
+        "fraseIngles": "Organize your books on the bookshelf.",
+        "frasePortugues": "Organize seus livros na estante de livros.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 14,
+        "ingles": "Television",
+        "portugues": "Televisão",
+        "fraseIngles": "Watch the news on television.",
+        "frasePortugues": "Assista às notícias na televisão.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 15,
+        "ingles": "Remote control",
+        "portugues": "Controle remoto",
+        "fraseIngles": "Change channels with the remote control.",
+        "frasePortugues": "Mude os canais com o controle remoto.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 16,
+        "ingles": "Coffee table",
+        "portugues": "Mesa de centro",
+        "fraseIngles": "Place magazines on the coffee table.",
+        "frasePortugues": "Coloque revistas na mesa de centro.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 17,
+        "ingles": "Armchair",
+        "portugues": "Poltrona",
+        "fraseIngles": "Relax in the comfortable armchair.",
+        "frasePortugues": "Relaxe na poltrona confortável.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 18,
+        "ingles": "Couch",
+        "portugues": "Sofá (americano)",
+        "fraseIngles": "Lie down on the leather couch.",
+        "frasePortugues": "Deite-se no sofá de couro.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 19,
+        "ingles": "Ottoman",
+        "portugues": "Pufe",
+        "fraseIngles": "Rest your feet on the ottoman.",
+        "frasePortugues": "Descanse os pés no pufe.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 20,
+        "ingles": "Side table",
+        "portugues": "Mesa lateral",
+        "fraseIngles": "Put the lamp on the side table.",
+        "frasePortugues": "Coloque a lâmpada na mesa lateral.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 21,
+        "ingles": "Nightstand",
+        "portugues": "Criado-mudo",
+        "fraseIngles": "Keep your phone on the nightstand.",
+        "frasePortugues": "Mantenha seu telefone no criado-mudo.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 22,
+        "ingles": "Wardrobe",
+        "portugues": "Guarda-roupa",
+        "fraseIngles": "Hang your jackets in the wardrobe.",
+        "frasePortugues": "Pendure seus casacos no guarda-roupa.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 23,
+        "ingles": "Closet",
+        "portugues": "Armário",
+        "fraseIngles": "Store winter clothes in the closet.",
+        "frasePortugues": "Guarde roupas de inverno no armário.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 24,
+        "ingles": "Hanger",
+        "portugues": "Cabide",
+        "fraseIngles": "Hang your shirt on a hanger.",
+        "frasePortugues": "Pendure sua camisa em um cabide.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 25,
+        "ingles": "Drawer",
+        "portugues": "Gaveta",
+        "fraseIngles": "Put socks in the top drawer.",
+        "frasePortugues": "Coloque meias na gaveta de cima.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 26,
+        "ingles": "Cabinet",
+        "portugues": "Armário",
+        "fraseIngles": "Store dishes in the kitchen cabinet.",
+        "frasePortugues": "Guarde pratos no armário da cozinha.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 27,
+        "ingles": "Shelf",
+        "portugues": "Prateleira",
+        "fraseIngles": "Display books on the wooden shelf.",
+        "frasePortugues": "Exiba livros na prateleira de madeira.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 28,
+        "ingles": "Picture frame",
+        "portugues": "Porta-retrato",
+        "fraseIngles": "Display family photos in picture frames.",
+        "frasePortugues": "Exiba fotos da família em porta-retratos.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 29,
+        "ingles": "Wall clock",
+        "portugues": "Relógio de parede",
+        "fraseIngles": "Check the time on the wall clock.",
+        "frasePortugues": "Verifique as horas no relógio de parede.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 30,
+        "ingles": "Ceiling fan",
+        "portugues": "Ventilador de teto",
+        "fraseIngles": "Turn on the ceiling fan for air circulation.",
+        "frasePortugues": "Ligue o ventilador de teto para circular o ar.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 31,
+        "ingles": "Light switch",
+        "portugues": "Interruptor",
+        "fraseIngles": "Turn off the lights using the light switch.",
+        "frasePortugues": "Desligue as luzes usando o interruptor.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 32,
+        "ingles": "Electrical outlet",
+        "portugues": "Tomada",
+        "fraseIngles": "Plug the charger into the electrical outlet.",
+        "frasePortugues": "Conecte o carregador na tomada.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 33,
+        "ingles": "Extension cord",
+        "portugues": "Fio de extensão",
+        "fraseIngles": "Use an extension cord to reach the outlet.",
+        "frasePortugues": "Use um fio de extensão para alcançar a tomada.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 34,
+        "ingles": "Vacuum cleaner",
+        "portugues": "Aspirador de pó",
+        "fraseIngles": "Clean the carpet with a vacuum cleaner.",
+        "frasePortugues": "Limpe o tapete com um aspirador de pó.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 35,
+        "ingles": "Broom",
+        "portugues": "Vassoura",
+        "fraseIngles": "Sweep the floor with a broom.",
+        "frasePortugues": "Varra o chão com uma vassoura.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 36,
+        "ingles": "Mop",
+        "portugues": "Esfregão",
+        "fraseIngles": "Clean the kitchen floor with a mop.",
+        "frasePortugues": "Limpe o chão da cozinha com um esfregão.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 37,
+        "ingles": "Bucket",
+        "portugues": "Balde",
+        "fraseIngles": "Fill the bucket with soapy water.",
+        "frasePortugues": "Encha o balde com água ensaboada.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 38,
+        "ingles": "Trash can",
+        "portugues": "Lata de lixo",
+        "fraseIngles": "Throw garbage in the trash can.",
+        "frasePortugues": "Jogue o lixo na lata de lixo.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 39,
+        "ingles": "Dustpan",
+        "portugues": "Pá de lixo",
+        "fraseIngles": "Collect dirt with the dustpan.",
+        "frasePortugues": "Colete sujeira com a pá de lixo.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 40,
+        "ingles": "Cleaning cloth",
+        "portugues": "Pano de limpeza",
+        "fraseIngles": "Wipe the table with a cleaning cloth.",
+        "frasePortugues": "Limpe a mesa com um pano de limpeza.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 41,
+        "ingles": "Sponge",
+        "portugues": "Esponja",
+        "fraseIngles": "Scrub the bathtub with a sponge.",
+        "frasePortugues": "Esfregue a banheira com uma esponja.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 42,
+        "ingles": "Toilet",
+        "portugues": "Vaso sanitário",
+        "fraseIngles": "Clean the toilet bowl regularly.",
+        "frasePortugues": "Limpe o vaso sanitário regularmente.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 43,
+        "ingles": "Bathtub",
+        "portugues": "Banheira",
+        "fraseIngles": "Fill the bathtub with warm water.",
+        "frasePortugues": "Encha a banheira com água morna.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 44,
+        "ingles": "Shower",
+        "portugues": "Chuveiro",
+        "fraseIngles": "Take a hot shower in the morning.",
+        "frasePortugues": "Tome um banho quente de manhã.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 45,
+        "ingles": "Towel",
+        "portugues": "Toalha",
+        "fraseIngles": "Dry yourself with a clean towel.",
+        "frasePortugues": "Seque-se com uma toalha limpa.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 46,
+        "ingles": "Washcloth",
+        "portugues": "Toalha de rosto",
+        "fraseIngles": "Wash your face with a washcloth.",
+        "frasePortugues": "Lave o rosto com uma toalha de rosto.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 47,
+        "ingles": "Soap dispenser",
+        "portugues": "Dispenser de sabão",
+        "fraseIngles": "Use soap from the soap dispenser.",
+        "frasePortugues": "Use sabão do dispenser de sabão.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 48,
+        "ingles": "Toothbrush",
+        "portugues": "Escova de dentes",
+        "fraseIngles": "Brush your teeth with a toothbrush.",
+        "frasePortugues": "Escove os dentes com uma escova de dentes.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 49,
+        "ingles": "Toothbrush holder",
+        "portugues": "Porta escova de dentes",
+        "fraseIngles": "Keep toothbrushes in the toothbrush holder.",
+        "frasePortugues": "Mantenha escovas de dentes no porta escova de dentes.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 50,
+        "ingles": "Medicine cabinet",
+        "portugues": "Armário de remédios",
+        "fraseIngles": "Store medications in the medicine cabinet.",
+        "frasePortugues": "Guarde medicamentos no armário de remédios.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 51,
+        "ingles": "Shower curtain",
+        "portugues": "Cortina do chuveiro",
+        "fraseIngles": "Close the shower curtain while bathing.",
+        "frasePortugues": "Feche a cortina do chuveiro durante o banho.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 52,
+        "ingles": "Bath mat",
+        "portugues": "Tapete do banheiro",
+        "fraseIngles": "Step on the bath mat after showering.",
+        "frasePortugues": "Pise no tapete do banheiro depois do banho.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 53,
+        "ingles": "Toilet paper holder",
+        "portugues": "Porta papel higiênico",
+        "fraseIngles": "Replace toilet paper in the holder.",
+        "frasePortugues": "Substitua o papel higiênico no porta papel higiênico.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 54,
+        "ingles": "Hamper",
+        "portugues": "Cesto de roupa suja",
+        "fraseIngles": "Put dirty clothes in the hamper.",
+        "frasePortugues": "Coloque roupas sujas no cesto de roupa suja.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 55,
+        "ingles": "Scale",
+        "portugues": "Balança",
+        "fraseIngles": "Weigh yourself on the bathroom scale.",
+        "frasePortugues": "Pese-se na balança do banheiro.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 56,
+        "ingles": "Hair dryer",
+        "portugues": "Secador de cabelo",
+        "fraseIngles": "Dry your hair with a hair dryer.",
+        "frasePortugues": "Seque o cabelo com um secador de cabelo.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 57,
+        "ingles": "Washing machine",
+        "portugues": "Máquina de lavar",
+        "fraseIngles": "Wash clothes in the washing machine.",
+        "frasePortugues": "Lave roupas na máquina de lavar.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 58,
+        "ingles": "Dryer",
+        "portugues": "Secadora",
+        "fraseIngles": "Dry clothes in the electric dryer.",
+        "frasePortugues": "Seque roupas na secadora elétrica.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 59,
+        "ingles": "Iron",
+        "portugues": "Ferro de passar",
+        "fraseIngles": "Iron your shirt before work.",
+        "frasePortugues": "Passe sua camisa antes do trabalho.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 60,
+        "ingles": "Ironing board",
+        "portugues": "Tábua de passar",
+        "fraseIngles": "Set up the ironing board for pressing clothes.",
+        "frasePortugues": "Monte a tábua de passar para passar roupas.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 61,
+        "ingles": "Laundry basket",
+        "portugues": "Cesto de roupa",
+        "fraseIngles": "Carry clean clothes in a laundry basket.",
+        "frasePortugues": "Carregue roupas limpas em um cesto de roupa.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 62,
+        "ingles": "Detergent",
+        "portugues": "Detergente",
+        "fraseIngles": "Use detergent to wash dishes.",
+        "frasePortugues": "Use detergente para lavar pratos.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 63,
+        "ingles": "Fabric softener",
+        "portugues": "Amaciante",
+        "fraseIngles": "Add fabric softener to make clothes soft.",
+        "frasePortugues": "Adicione amaciante para deixar as roupas macias.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 64,
+        "ingles": "Clothesline",
+        "portugues": "Varal",
+        "fraseIngles": "Hang wet clothes on the clothesline.",
+        "frasePortugues": "Pendure roupas molhadas no varal.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 65,
+        "ingles": "Clothespin",
+        "portugues": "Pregador de roupa",
+        "fraseIngles": "Secure clothes with clothespins.",
+        "frasePortugues": "Fixe roupas com pregadores de roupa.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 66,
+        "ingles": "Alarm clock",
+        "portugues": "Despertador",
+        "fraseIngles": "Wake up early with an alarm clock.",
+        "frasePortugues": "Acorde cedo com um despertador.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 67,
+        "ingles": "Calendar",
+        "portugues": "Calendário",
+        "fraseIngles": "Check appointments on the wall calendar.",
+        "frasePortugues": "Verifique compromissos no calendário da parede.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 68,
+        "ingles": "Telephone",
+        "portugues": "Telefone",
+        "fraseIngles": "Answer the telephone when it rings.",
+        "frasePortugues": "Atenda o telefone quando ele tocar.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 69,
+        "ingles": "Computer",
+        "portugues": "Computador",
+        "fraseIngles": "Work on your computer at the desk.",
+        "frasePortugues": "Trabalhe no seu computador na mesa.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 70,
+        "ingles": "Keyboard",
+        "portugues": "Teclado",
+        "fraseIngles": "Type letters on the computer keyboard.",
+        "frasePortugues": "Digite letras no teclado do computador.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 71,
+        "ingles": "Mouse",
+        "portugues": "Mouse",
+        "fraseIngles": "Click buttons with the computer mouse.",
+        "frasePortugues": "Clique botões com o mouse do computador.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 72,
+        "ingles": "Monitor",
+        "portugues": "Monitor",
+        "fraseIngles": "View documents on the computer monitor.",
+        "frasePortugues": "Visualize documentos no monitor do computador.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 73,
+        "ingles": "Printer",
+        "portugues": "Impressora",
+        "fraseIngles": "Print documents using the office printer.",
+        "frasePortugues": "Imprima documentos usando a impressora do escritório.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 74,
+        "ingles": "Desk",
+        "portugues": "Escrivaninha",
+        "fraseIngles": "Study at your wooden desk.",
+        "frasePortugues": "Estude em sua escrivaninha de madeira.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 75,
+        "ingles": "Office chair",
+        "portugues": "Cadeira de escritório",
+        "fraseIngles": "Sit comfortably in your office chair.",
+        "frasePortugues": "Sente-se confortavelmente em sua cadeira de escritório.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 76,
+        "ingles": "Filing cabinet",
+        "portugues": "Arquivo",
+        "fraseIngles": "Store important papers in the filing cabinet.",
+        "frasePortugues": "Guarde papéis importantes no arquivo.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 77,
+        "ingles": "Stapler",
+        "portugues": "Grampeador",
+        "fraseIngles": "Attach papers with a stapler.",
+        "frasePortugues": "Prenda papéis com um grampeador.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 78,
+        "ingles": "Scissors",
+        "portugues": "Tesoura",
+        "fraseIngles": "Cut paper with sharp scissors.",
+        "frasePortugues": "Corte papel com uma tesoura afiada.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 79,
+        "ingles": "Tape dispenser",
+        "portugues": "Porta fita adesiva",
+        "fraseIngles": "Get tape from the tape dispenser.",
+        "frasePortugues": "Pegue fita do porta fita adesiva.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 80,
+        "ingles": "Paperclip",
+        "portugues": "Clipe de papel",
+        "fraseIngles": "Hold documents together with a paperclip.",
+        "frasePortugues": "Mantenha documentos juntos com um clipe de papel.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 81,
+        "ingles": "Rubber band",
+        "portugues": "Elástico",
+        "fraseIngles": "Bind papers with a rubber band.",
+        "frasePortugues": "Amarre papéis com um elástico.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 82,
+        "ingles": "Pen holder",
+        "portugues": "Porta canetas",
+        "fraseIngles": "Keep pens organized in a pen holder.",
+        "frasePortugues": "Mantenha canetas organizadas em um porta canetas.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 83,
+        "ingles": "Notebook",
+        "portugues": "Caderno",
+        "fraseIngles": "Write notes in your notebook.",
+        "frasePortugues": "Escreva anotações em seu caderno.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 84,
+        "ingles": "Pencil",
+        "portugues": "Lápis",
+        "fraseIngles": "Draw sketches with a pencil.",
+        "frasePortugues": "Desenhe esboços com um lápis.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 85,
+        "ingles": "Eraser",
+        "portugues": "Borracha",
+        "fraseIngles": "Correct mistakes with an eraser.",
+        "frasePortugues": "Corrija erros com uma borracha.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 86,
+        "ingles": "Ruler",
+        "portugues": "Régua",
+        "fraseIngles": "Measure lines with a ruler.",
+        "frasePortugues": "Meça linhas com uma régua.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 87,
+        "ingles": "Highlighter",
+        "portugues": "Marca-texto",
+        "fraseIngles": "Mark important text with a highlighter.",
+        "frasePortugues": "Marque texto importante com um marca-texto.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 88,
+        "ingles": "Shredder",
+        "portugues": "Triturador de papel",
+        "fraseIngles": "Destroy confidential documents with a shredder.",
+        "frasePortugues": "Destrua documentos confidenciais com um triturador de papel.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 89,
+        "ingles": "Doorbell",
+        "portugues": "Campainha",
+        "fraseIngles": "Ring the doorbell to announce your arrival.",
+        "frasePortugues": "Toque a campainha para anunciar sua chegada.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 90,
+        "ingles": "Door handle",
+        "portugues": "Maçaneta",
+        "fraseIngles": "Turn the door handle to open the door.",
+        "frasePortugues": "Gire a maçaneta para abrir a porta.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 91,
+        "ingles": "Lock",
+        "portugues": "Fechadura",
+        "fraseIngles": "Secure your home with a strong lock.",
+        "frasePortugues": "Proteja sua casa com uma fechadura forte.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 92,
+        "ingles": "Key",
+        "portugues": "Chave",
+        "fraseIngles": "Unlock the door with your key.",
+        "frasePortugues": "Destranque a porta com sua chave.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 93,
+        "ingles": "Doormat",
+        "portugues": "Capacho",
+        "fraseIngles": "Wipe your shoes on the doormat.",
+        "frasePortugues": "Limpe os sapatos no capacho.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 94,
+        "ingles": "Mailbox",
+        "portugues": "Caixa de correio",
+        "fraseIngles": "Check for letters in the mailbox.",
+        "frasePortugues": "Verifique se há cartas na caixa de correio.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 95,
+        "ingles": "Window",
+        "portugues": "Janela",
+        "fraseIngles": "Open the window for fresh air.",
+        "frasePortugues": "Abra a janela para ar fresco.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 96,
+        "ingles": "Window sill",
+        "portugues": "Peitoril da janela",
+        "fraseIngles": "Place plants on the window sill.",
+        "frasePortugues": "Coloque plantas no peitoril da janela.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 97,
+        "ingles": "Blinds",
+        "portugues": "Persiana",
+        "fraseIngles": "Adjust the blinds to control sunlight.",
+        "frasePortugues": "Ajuste a persiana para controlar a luz solar.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 98,
+        "ingles": "Screen door",
+        "portugues": "Porta de tela",
+        "fraseIngles": "Keep insects out with a screen door.",
+        "frasePortugues": "Mantenha insetos fora com uma porta de tela.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 99,
+        "ingles": "Porch light",
+        "portugues": "Luz da varanda",
+        "fraseIngles": "Turn on the porch light at night.",
+        "frasePortugues": "Acenda a luz da varanda à noite.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 100,
+        "ingles": "Garden hose",
+        "portugues": "Mangueira de jardim",
+        "fraseIngles": "Water plants with the garden hose.",
+        "frasePortugues": "Regue plantas com a mangueira de jardim.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 101,
+        "ingles": "Sprinkler",
+        "portugues": "Aspersor",
+        "fraseIngles": "Set up the sprinkler to water the lawn.",
+        "frasePortugues": "Configure o aspersor para regar o gramado.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 102,
+        "ingles": "Lawn mower",
+        "portugues": "Cortador de grama",
+        "fraseIngles": "Cut grass with the lawn mower.",
+        "frasePortugues": "Corte grama com o cortador de grama.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 103,
+        "ingles": "Rake",
+        "portugues": "Ancinho",
+        "fraseIngles": "Gather fallen leaves with a rake.",
+        "frasePortugues": "Junte folhas caídas com um ancinho.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 104,
+        "ingles": "Shovel",
+        "portugues": "Pá",
+        "fraseIngles": "Dig holes with a sturdy shovel.",
+        "frasePortugues": "Cave buracos com uma pá resistente.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 105,
+        "ingles": "Wheelbarrow",
+        "portugues": "Carrinho de mão",
+        "fraseIngles": "Transport soil in the wheelbarrow.",
+        "frasePortugues": "Transporte terra no carrinho de mão.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 106,
+        "ingles": "Flower pot",
+        "portugues": "Vaso de flores",
+        "fraseIngles": "Plant flowers in a decorative flower pot.",
+        "frasePortugues": "Plante flores em um vaso decorativo.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 107,
+        "ingles": "Watering can",
+        "portugues": "Regador",
+        "fraseIngles": "Water delicate plants with a watering can.",
+        "frasePortugues": "Regue plantas delicadas com um regador.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 108,
+        "ingles": "Garden gloves",
+        "portugues": "Luvas de jardinagem",
+        "fraseIngles": "Protect your hands with garden gloves.",
+        "frasePortugues": "Proteja suas mãos com luvas de jardinagem.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 109,
+        "ingles": "Pruning shears",
+        "portugues": "Tesoura de poda",
+        "fraseIngles": "Trim bushes with pruning shears.",
+        "frasePortugues": "Pode arbustos com tesoura de poda.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 110,
+        "ingles": "Thermometer",
+        "portugues": "Termômetro",
+        "fraseIngles": "Check room temperature with a thermometer.",
+        "frasePortugues": "Verifique a temperatura do ambiente com um termômetro.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 111,
+        "ingles": "Air conditioner",
+        "portugues": "Ar condicionado",
+        "fraseIngles": "Cool the room with an air conditioner.",
+        "frasePortugues": "Resfrie o ambiente com um ar condicionado.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 112,
+        "ingles": "Heater",
+        "portugues": "Aquecedor",
+        "fraseIngles": "Warm the room with a portable heater.",
+        "frasePortugues": "Aqueça o ambiente com um aquecedor portátil.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 113,
+        "ingles": "Humidifier",
+        "portugues": "Umidificador",
+        "fraseIngles": "Add moisture to dry air with a humidifier.",
+        "frasePortugues": "Adicione umidade ao ar seco com um umidificador.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 114,
+        "ingles": "Dehumidifier",
+        "portugues": "Desumidificador",
+        "fraseIngles": "Remove excess moisture with a dehumidifier.",
+        "frasePortugues": "Remova umidade excessiva com um desumidificador.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 115,
+        "ingles": "Smoke detector",
+        "portugues": "Detector de fumaça",
+        "fraseIngles": "Test the smoke detector monthly.",
+        "frasePortugues": "Teste o detector de fumaça mensalmente.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 116,
+        "ingles": "Fire extinguisher",
+        "portugues": "Extintor de incêndio",
+        "fraseIngles": "Keep a fire extinguisher in the kitchen.",
+        "frasePortugues": "Mantenha um extintor de incêndio na cozinha.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 117,
+        "ingles": "First aid kit",
+        "portugues": "Kit de primeiros socorros",
+        "fraseIngles": "Store bandages in the first aid kit.",
+        "frasePortugues": "Guarde curativos no kit de primeiros socorros.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 118,
+        "ingles": "Flashlight",
+        "portugues": "Lanterna",
+        "fraseIngles": "Use a flashlight during power outages.",
+        "frasePortugues": "Use uma lanterna durante quedas de energia.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 119,
+        "ingles": "Candle",
+        "portugues": "Vela",
+        "fraseIngles": "Light candles for a romantic dinner.",
+        "frasePortugues": "Acenda velas para um jantar romântico.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 120,
+        "ingles": "Matches",
+        "portugues": "Fósforos",
+        "fraseIngles": "Light the candle with matches.",
+        "frasePortugues": "Acenda a vela com fósforos.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 121,
+        "ingles": "Lighter",
+        "portugues": "Isqueiro",
+        "fraseIngles": "Use a lighter to start the fireplace.",
+        "frasePortugues": "Use um isqueiro para acender a lareira.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 122,
+        "ingles": "Ashtray",
+        "portugues": "Cinzeiro",
+        "fraseIngles": "Put cigarette ashes in the ashtray.",
+        "frasePortugues": "Coloque cinzas de cigarro no cinzeiro.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 123,
+        "ingles": "Vase",
+        "portugues": "Vaso",
+        "fraseIngles": "Display fresh flowers in a crystal vase.",
+        "frasePortugues": "Exiba flores frescas em um vaso de cristal.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 124,
+        "ingles": "Painting",
+        "portugues": "Quadro",
+        "fraseIngles": "Hang a beautiful painting on the wall.",
+        "frasePortugues": "Pendure um quadro bonito na parede.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 125,
+        "ingles": "Picture",
+        "portugues": "Foto",
+        "fraseIngles": "Frame your favorite picture.",
+        "frasePortugues": "Emoldure sua foto favorita.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 126,
+        "ingles": "Sculpture",
+        "portugues": "Escultura",
+        "fraseIngles": "Display the art sculpture on a pedestal.",
+        "frasePortugues": "Exiba a escultura artística em um pedestal.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 127,
+        "ingles": "Decorative pillow",
+        "portugues": "Almofada decorativa",
+        "fraseIngles": "Add color with decorative pillows.",
+        "frasePortugues": "Adicione cor com almofadas decorativas.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 128,
+        "ingles": "Throw blanket",
+        "portugues": "Manta",
+        "fraseIngles": "Snuggle under a soft throw blanket.",
+        "frasePortugues": "Aconchegue-se sob uma manta macia.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 129,
+        "ingles": "Floor mat",
+        "portugues": "Tapete de chão",
+        "fraseIngles": "Place a floor mat at the entrance.",
+        "frasePortugues": "Coloque um tapete de chão na entrada.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 130,
+        "ingles": "Welcome mat",
+        "portugues": "Tapete de boas-vindas",
+        "fraseIngles": "Greet guests with a welcome mat.",
+        "frasePortugues": "Receba visitas com um tapete de boas-vindas.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 131,
+        "ingles": "Umbrella stand",
+        "portugues": "Porta-guarda-chuvas",
+        "fraseIngles": "Store wet umbrellas in the umbrella stand.",
+        "frasePortugues": "Guarde guarda-chuvas molhados no porta-guarda-chuvas.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 132,
+        "ingles": "Coat rack",
+        "portugues": "Cabideiro",
+        "fraseIngles": "Hang coats on the wooden coat rack.",
+        "frasePortugues": "Pendure casacos no cabideiro de madeira.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 133,
+        "ingles": "Shoe rack",
+        "portugues": "Sapateira",
+        "fraseIngles": "Organize shoes on the shoe rack.",
+        "frasePortugues": "Organize sapatos na sapateira.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 134,
+        "ingles": "Storage box",
+        "portugues": "Caixa de armazenamento",
+        "fraseIngles": "Keep seasonal items in storage boxes.",
+        "frasePortugues": "Mantenha itens sazonais em caixas de armazenamento.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 135,
+        "ingles": "Basket",
+        "portugues": "Cesta",
+        "fraseIngles": "Store magazines in a wicker basket.",
+        "frasePortugues": "Guarde revistas em uma cesta de vime.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 136,
+        "ingles": "Tissue box",
+        "portugues": "Caixa de lenços",
+        "fraseIngles": "Keep tissues handy in a tissue box.",
+        "frasePortugues": "Mantenha lenços à mão em uma caixa de lenços.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 137,
+        "ingles": "Coaster",
+        "portugues": "Porta-copos",
+        "fraseIngles": "Protect furniture with coasters.",
+        "frasePortugues": "Proteja móveis com porta-copos.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 138,
+        "ingles": "Placemat",
+        "portugues": "Jogo americano",
+        "fraseIngles": "Set the table with colorful placemats.",
+        "frasePortugues": "Arrume a mesa com jogos americanos coloridos.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 139,
+        "ingles": "Tablecloth",
+        "portugues": "Toalha de mesa",
+        "fraseIngles": "Cover the dining table with a tablecloth.",
+        "frasePortugues": "Cubra a mesa de jantar com uma toalha de mesa.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 140,
+        "ingles": "Napkin",
+        "portugues": "Guardanapo",
+        "fraseIngles": "Wipe your mouth with a napkin.",
+        "frasePortugues": "Limpe a boca com um guardanapo.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 141,
+        "ingles": "Napkin holder",
+        "portugues": "Porta-guardanapos",
+        "fraseIngles": "Keep napkins organized in a napkin holder.",
+        "frasePortugues": "Mantenha guardanapos organizados em um porta-guardanapos.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 142,
+        "ingles": "Salt shaker",
+        "portugues": "Saleiro",
+        "fraseIngles": "Season food with the salt shaker.",
+        "frasePortugues": "Tempere comida com o saleiro.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 143,
+        "ingles": "Pepper shaker",
+        "portugues": "Pimenteiro",
+        "fraseIngles": "Add pepper from the pepper shaker.",
+        "frasePortugues": "Adicione pimenta do pimenteiro.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 144,
+        "ingles": "Sugar bowl",
+        "portugues": "Açucareiro",
+        "fraseIngles": "Serve sugar from the crystal sugar bowl.",
+        "frasePortugues": "Sirva açúcar do açucareiro de cristal.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 145,
+        "ingles": "Creamer",
+        "portugues": "Leiteira",
+        "fraseIngles": "Pour cream from the silver creamer.",
+        "frasePortugues": "Despeje creme da leiteira prateada.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 146,
+        "ingles": "Serving tray",
+        "portugues": "Bandeja",
+        "fraseIngles": "Carry drinks on a serving tray.",
+        "frasePortugues": "Carregue bebidas em uma bandeja.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 147,
+        "ingles": "Cake stand",
+        "portugues": "Prato de bolo",
+        "fraseIngles": "Display the cake on a cake stand.",
+        "frasePortugues": "Exiba o bolo em um prato de bolo.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 148,
+        "ingles": "Fruit bowl",
+        "portugues": "Fruteira",
+        "fraseIngles": "Keep fresh fruit in the fruit bowl.",
+        "frasePortugues": "Mantenha frutas frescas na fruteira.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 149,
+        "ingles": "Bread basket",
+        "portugues": "Cesta de pão",
+        "fraseIngles": "Serve dinner rolls in a bread basket.",
+        "frasePortugues": "Sirva pãezinhos em uma cesta de pão.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 150,
+        "ingles": "Wine rack",
+        "portugues": "Adega",
+        "fraseIngles": "Store wine bottles in the wine rack.",
+        "frasePortugues": "Guarde garrafas de vinho na adega.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 151,
+        "ingles": "Ice bucket",
+        "portugues": "Balde de gelo",
+        "fraseIngles": "Chill champagne in an ice bucket.",
+        "frasePortugues": "Gelei champanhe em um balde de gelo.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 152,
+        "ingles": "Bottle opener",
+        "portugues": "Abridor de garrafas",
+        "fraseIngles": "Open beer bottles with a bottle opener.",
+        "frasePortugues": "Abra garrafas de cerveja com um abridor de garrafas.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 153,
+        "ingles": "Corkscrew",
+        "portugues": "Saca-rolhas",
+        "fraseIngles": "Open wine with a corkscrew.",
+        "frasePortugues": "Abra vinho com um saca-rolhas.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 154,
+        "ingles": "Candelabra",
+        "portugues": "Candelabro",
+        "fraseIngles": "Light candles in the silver candelabra.",
+        "frasePortugues": "Acenda velas no candelabro prateado.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 155,
+        "ingles": "Chandelier",
+        "portugues": "Lustre",
+        "fraseIngles": "Install an elegant chandelier in the dining room.",
+        "frasePortugues": "Instale um lustre elegante na sala de jantar.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 156,
+        "ingles": "Floor lamp",
+        "portugues": "Luminária de chão",
+        "fraseIngles": "Illuminate the corner with a floor lamp.",
+        "frasePortugues": "Ilumine o canto with uma luminária de chão.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 157,
+        "ingles": "Table lamp",
+        "portugues": "Abajur de mesa",
+        "fraseIngles": "Read books under the table lamp.",
+        "frasePortugues": "Leia livros sob o abajur de mesa.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 158,
+        "ingles": "Desk lamp",
+        "portugues": "Luminária de mesa",
+        "fraseIngles": "Study under a bright desk lamp.",
+        "frasePortugues": "Estude sob uma luminária de mesa brilhante.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 159,
+        "ingles": "Wall sconce",
+        "portugues": "Arandela",
+        "fraseIngles": "Install wall sconces in the hallway.",
+        "frasePortugues": "Instale arandelas no corredor.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 160,
+        "ingles": "Dimmer switch",
+        "portugues": "Dimmer",
+        "fraseIngles": "Control brightness with a dimmer switch.",
+        "frasePortugues": "Controle o brilho com um dimmer.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 161,
+        "ingles": "Power strip",
+        "portugues": "Filtro de linha",
+        "fraseIngles": "Plug multiple devices into the power strip.",
+        "frasePortugues": "Conecte vários dispositivos no filtro de linha.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 162,
+        "ingles": "Surge protector",
+        "portugues": "Protetor contra surtos",
+        "fraseIngles": "Protect electronics with a surge protector.",
+        "frasePortugues": "Proteja eletrônicos com um protetor contra surtos.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 163,
+        "ingles": "Timer",
+        "portugues": "Timer",
+        "fraseIngles": "Set the timer for the lights.",
+        "frasePortugues": "Configure o timer para as luzes.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 164,
+        "ingles": "Doorstop",
+        "portugues": "Para-porta",
+        "fraseIngles": "Hold the door open with a doorstop.",
+        "frasePortugues": "Mantenha a porta aberta com um para-porta.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 165,
+        "ingles": "Draft stopper",
+        "portugues": "Vedador de porta",
+        "fraseIngles": "Block cold air with a draft stopper.",
+        "frasePortugues": "Bloqueie ar frio com um vedador de porta.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 166,
+        "ingles": "Window lock",
+        "portugues": "Trava de janela",
+        "fraseIngles": "Secure windows with window locks.",
+        "frasePortugues": "Proteja janelas com travas de janela.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 167,
+        "ingles": "Baby gate",
+        "portugues": "Portãozinho de bebê",
+        "fraseIngles": "Install a baby gate at the top of stairs.",
+        "frasePortugues": "Instale um portãozinho de bebê no topo das escadas.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 168,
+        "ingles": "Pet gate",
+        "portugues": "Portão para pets",
+        "fraseIngles": "Keep pets contained with a pet gate.",
+        "frasePortugues": "Mantenha pets contidos com um portão para pets.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 169,
+        "ingles": "Pet bed",
+        "portugues": "Cama de pet",
+        "fraseIngles": "Let your dog sleep on a pet bed.",
+        "frasePortugues": "Deixe seu cão dormir em uma cama de pet.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 170,
+        "ingles": "Litter box",
+        "portugues": "Caixa de areia",
+        "fraseIngles": "Clean the cat's litter box daily.",
+        "frasePortugues": "Limpe a caixa de areia do gato diariamente.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 171,
+        "ingles": "Food bowl",
+        "portugues": "Tigela de comida",
+        "fraseIngles": "Fill the pet's food bowl.",
+        "frasePortugues": "Encha a tigela de comida do pet.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 172,
+        "ingles": "Water bowl",
+        "portugues": "Tigela de água",
+        "fraseIngles": "Provide fresh water in the water bowl.",
+        "frasePortugues": "Forneça água fresca na tigela de água.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 173,
+        "ingles": "Pet toy",
+        "portugues": "Brinquedo de pet",
+        "fraseIngles": "Play with your pet using a pet toy.",
+        "frasePortugues": "Brinque com seu pet usando um brinquedo de pet.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 174,
+        "ingles": "Leash",
+        "portugues": "Coleira",
+        "fraseIngles": "Walk your dog on a leash.",
+        "frasePortugues": "Passeie com seu cão na coleira.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 175,
+        "ingles": "Collar",
+        "portugues": "Coleira (pescoço)",
+        "fraseIngles": "Put an ID tag on your pet's collar.",
+        "frasePortugues": "Coloque uma placa de identificação na coleira do seu pet.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 176,
+        "ingles": "Scratching post",
+        "portugues": "Arranhador",
+        "fraseIngles": "Let cats use the scratching post.",
+        "frasePortugues": "Deixe gatos usarem o arranhador.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 177,
+        "ingles": "Bird cage",
+        "portugues": "Gaiola de pássaro",
+        "fraseIngles": "Keep pet birds safe in a bird cage.",
+        "frasePortugues": "Mantenha pássaros domésticos seguros em uma gaiola.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 178,
+        "ingles": "Fish tank",
+        "portugues": "Aquário",
+        "fraseIngles": "Feed fish in the fish tank.",
+        "frasePortugues": "Alimente peixes no aquário.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 179,
+        "ingles": "Aquarium filter",
+        "portugues": "Filtro de aquário",
+        "fraseIngles": "Clean water with an aquarium filter.",
+        "frasePortugues": "Limpe água com um filtro de aquário.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 180,
+        "ingles": "Air pump",
+        "portugues": "Bomba de ar",
+        "fraseIngles": "Oxygenate water with an air pump.",
+        "frasePortugues": "Oxigene água com uma bomba de ar.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 181,
+        "ingles": "Fish food",
+        "portugues": "Ração de peixe",
+        "fraseIngles": "Feed tropical fish with fish food.",
+        "frasePortugues": "Alimente peixes tropicais com ração de peixe.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 182,
+        "ingles": "Net",
+        "portugues": "Rede",
+        "fraseIngles": "Catch fish with a small net.",
+        "frasePortugues": "Capture peixes com uma rede pequena.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 183,
+        "ingles": "Aquarium heater",
+        "portugues": "Aquecedor de aquário",
+        "fraseIngles": "Maintain water temperature with an aquarium heater.",
+        "frasePortugues": "Mantenha a temperatura da água com um aquecedor de aquário.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 184,
+        "ingles": "Decorative rock",
+        "portugues": "Pedra decorativa",
+        "fraseIngles": "Decorate the aquarium with decorative rocks.",
+        "frasePortugues": "Decore o aquário com pedras decorativas.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 185,
+        "ingles": "Artificial plant",
+        "portugues": "Planta artificial",
+        "fraseIngles": "Add artificial plants to the fish tank.",
+        "frasePortugues": "Adicione plantas artificiais ao aquário.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 186,
+        "ingles": "Castle decoration",
+        "portugues": "Decoração de castelo",
+        "fraseIngles": "Place a castle decoration in the aquarium.",
+        "frasePortugues": "Coloque uma decoração de castelo no aquário.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    },
+    {
+        "id": 187,
+        "ingles": "Gravel",
+        "portugues": "Cascalho",
+        "fraseIngles": "Cover the tank bottom with gravel.",
+        "frasePortugues": "Cubra o fundo do tanque com cascalho.",
+        "subtopico": "Casa",
+        "topico": "Objetos"
+    }
+]

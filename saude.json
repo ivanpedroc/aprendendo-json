@@ -1,0 +1,1163 @@
+[
+    {
+        "id": 1,
+        "ingles": "Thermometer",
+        "portugues": "Termômetro",
+        "fraseIngles": "Check your temperature with a thermometer.",
+        "frasePortugues": "Verifique sua temperatura com um termômetro.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 2,
+        "ingles": "Digital thermometer",
+        "portugues": "Termômetro digital",
+        "fraseIngles": "A digital thermometer gives quick readings.",
+        "frasePortugues": "Um termômetro digital dá leituras rápidas.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 3,
+        "ingles": "Oral thermometer",
+        "portugues": "Termômetro oral",
+        "fraseIngles": "Place the oral thermometer under your tongue.",
+        "frasePortugues": "Coloque o termômetro oral sob sua língua.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 4,
+        "ingles": "Ear thermometer",
+        "portugues": "Termômetro de ouvido",
+        "fraseIngles": "An ear thermometer is convenient for children.",
+        "frasePortugues": "Um termômetro de ouvido é conveniente para crianças.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 5,
+        "ingles": "Forehead thermometer",
+        "portugues": "Termômetro de testa",
+        "fraseIngles": "Scan the forehead with this thermometer.",
+        "frasePortugues": "Escaneie a testa com este termômetro.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 6,
+        "ingles": "Blood pressure monitor",
+        "portugues": "Monitor de pressão arterial",
+        "fraseIngles": "Check your blood pressure with this monitor.",
+        "frasePortugues": "Verifique sua pressão arterial com este monitor.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 7,
+        "ingles": "Stethoscope",
+        "portugues": "Estetoscópio",
+        "fraseIngles": "Listen to heartbeats with a stethoscope.",
+        "frasePortugues": "Escute batimentos cardíacos com um estetoscópio.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 8,
+        "ingles": "Pulse oximeter",
+        "portugues": "Oxímetro",
+        "fraseIngles": "Measure oxygen levels with a pulse oximeter.",
+        "frasePortugues": "Meça níveis de oxigênio com um oxímetro.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 9,
+        "ingles": "Blood glucose meter",
+        "portugues": "Glicosímetro",
+        "fraseIngles": "Diabetics use a blood glucose meter.",
+        "frasePortugues": "Diabéticos usam um glicosímetro.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 10,
+        "ingles": "Test strips",
+        "portugues": "Tiras de teste",
+        "fraseIngles": "Insert test strips into the glucose meter.",
+        "frasePortugues": "Insira tiras de teste no glicosímetro.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 11,
+        "ingles": "Lancet",
+        "portugues": "Lanceta",
+        "fraseIngles": "Prick your finger with a lancet.",
+        "frasePortugues": "Pique seu dedo com uma lanceta.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 12,
+        "ingles": "First aid kit",
+        "portugues": "Kit de primeiros socorros",
+        "fraseIngles": "Keep a first aid kit in your car.",
+        "frasePortugues": "Mantenha um kit de primeiros socorros no seu carro.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 13,
+        "ingles": "Band-aid",
+        "portugues": "Curativo adesivo",
+        "fraseIngles": "Cover small cuts with a band-aid.",
+        "frasePortugues": "Cubra pequenos cortes com um curativo adesivo.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 14,
+        "ingles": "Adhesive bandage",
+        "portugues": "Bandagem adesiva",
+        "fraseIngles": "Apply an adhesive bandage to wounds.",
+        "frasePortugues": "Aplique uma bandagem adesiva em ferimentos.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 15,
+        "ingles": "Gauze pad",
+        "portugues": "Gaze",
+        "fraseIngles": "Press a gauze pad on bleeding wounds.",
+        "frasePortugues": "Pressione uma gaze em ferimentos sangrantes.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 16,
+        "ingles": "Medical tape",
+        "portugues": "Fita médica",
+        "fraseIngles": "Secure bandages with medical tape.",
+        "frasePortugues": "Fixe bandagens com fita médica.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 17,
+        "ingles": "Elastic bandage",
+        "portugues": "Bandagem elástica",
+        "fraseIngles": "Wrap sprains with an elastic bandage.",
+        "frasePortugues": "Envolva torções com uma bandagem elástica.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 18,
+        "ingles": "Ace bandage",
+        "portugues": "Bandagem ACE",
+        "fraseIngles": "Support injured joints with an Ace bandage.",
+        "frasePortugues": "Apoie articulações feridas com uma bandagem ACE.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 19,
+        "ingles": "Antiseptic wipe",
+        "portugues": "Lenço antisséptico",
+        "fraseIngles": "Clean cuts with an antiseptic wipe.",
+        "frasePortugues": "Limpe cortes com um lenço antisséptico.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 20,
+        "ingles": "Alcohol pad",
+        "portugues": "Almofada com álcool",
+        "fraseIngles": "Disinfect skin with an alcohol pad.",
+        "frasePortugues": "Desinfete pele com uma almofada com álcool.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 21,
+        "ingles": "Hydrogen peroxide",
+        "portugues": "Água oxigenada",
+        "fraseIngles": "Clean wounds with hydrogen peroxide.",
+        "frasePortugues": "Limpe ferimentos com água oxigenada.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 22,
+        "ingles": "Rubbing alcohol",
+        "portugues": "Álcool isopropílico",
+        "fraseIngles": "Sterilize instruments with rubbing alcohol.",
+        "frasePortugues": "Esterilize instrumentos com álcool isopropílico.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 23,
+        "ingles": "Iodine",
+        "portugues": "Iodo",
+        "fraseIngles": "Apply iodine to prevent infection.",
+        "frasePortugues": "Aplique iodo para prevenir infecção.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 24,
+        "ingles": "Antibiotic ointment",
+        "portugues": "Pomada antibiótica",
+        "fraseIngles": "Prevent infection with antibiotic ointment.",
+        "frasePortugues": "Previna infecção com pomada antibiótica.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 25,
+        "ingles": "Neosporin",
+        "portugues": "Neosporin",
+        "fraseIngles": "Apply Neosporin to minor cuts.",
+        "frasePortugues": "Aplique Neosporin em pequenos cortes.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 26,
+        "ingles": "Calamine lotion",
+        "portugues": "Loção de calamina",
+        "fraseIngles": "Soothe itchy skin with calamine lotion.",
+        "frasePortugues": "Acalme pele que coça com loção de calamina.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 27,
+        "ingles": "Hydrocortisone cream",
+        "portugues": "Creme de hidrocortisona",
+        "fraseIngles": "Reduce inflammation with hydrocortisone cream.",
+        "frasePortugues": "Reduza inflamação com creme de hidrocortisona.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 28,
+        "ingles": "Aspirin",
+        "portugues": "Aspirina",
+        "fraseIngles": "Take aspirin for headaches.",
+        "frasePortugues": "Tome aspirina para dores de cabeça.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 29,
+        "ingles": "Ibuprofen",
+        "portugues": "Ibuprofeno",
+        "fraseIngles": "Reduce inflammation with ibuprofen.",
+        "frasePortugues": "Reduza inflamação com ibuprofeno.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 30,
+        "ingles": "Acetaminophen",
+        "portugues": "Paracetamol",
+        "fraseIngles": "Lower fever with acetaminophen.",
+        "frasePortugues": "Abaixe febre com paracetamol.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 31,
+        "ingles": "Tylenol",
+        "portugues": "Tylenol",
+        "fraseIngles": "Children's Tylenol reduces fever safely.",
+        "frasePortugues": "Tylenol infantil reduz febre com segurança.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 32,
+        "ingles": "Cough syrup",
+        "portugues": "Xarope para tosse",
+        "fraseIngles": "Take cough syrup to suppress coughing.",
+        "frasePortugues": "Tome xarope para tosse para suprimir a tosse.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 33,
+        "ingles": "Cough drops",
+        "portugues": "Pastilhas para tosse",
+        "fraseIngles": "Suck on cough drops to soothe throat.",
+        "frasePortugues": "Chupe pastilhas para tosse para acalmar a garganta.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 34,
+        "ingles": "Throat lozenges",
+        "portugues": "Pastilhas para garganta",
+        "fraseIngles": "Throat lozenges help with sore throats.",
+        "frasePortugues": "Pastilhas para garganta ajudam com dor de garganta.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 35,
+        "ingles": "Antacid",
+        "portugues": "Antiácido",
+        "fraseIngles": "Take antacid for stomach upset.",
+        "frasePortugues": "Tome antiácido para mal-estar estomacal.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 36,
+        "ingles": "Tums",
+        "portugues": "Tums",
+        "fraseIngles": "Chew Tums for quick heartburn relief.",
+        "frasePortugues": "Mastigue Tums para alívio rápido de azia.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 37,
+        "ingles": "Pepto-Bismol",
+        "portugues": "Pepto-Bismol",
+        "fraseIngles": "Settle stomach problems with Pepto-Bismol.",
+        "frasePortugues": "Acalme problemas estomacais com Pepto-Bismol.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 38,
+        "ingles": "Allergy medicine",
+        "portugues": "Remédio para alergia",
+        "fraseIngles": "Take allergy medicine during pollen season.",
+        "frasePortugues": "Tome remédio para alergia durante a época do pólen.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 39,
+        "ingles": "Antihistamine",
+        "portugues": "Anti-histamínico",
+        "fraseIngles": "Reduce allergic reactions with antihistamine.",
+        "frasePortugues": "Reduza reações alérgicas com anti-histamínico.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 40,
+        "ingles": "Benadryl",
+        "portugues": "Benadryl",
+        "fraseIngles": "Benadryl helps with allergic reactions.",
+        "frasePortugues": "Benadryl ajuda com reações alérgicas.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 41,
+        "ingles": "Eye drops",
+        "portugues": "Colírio",
+        "fraseIngles": "Relieve dry eyes with eye drops.",
+        "frasePortugues": "Alivie olhos secos com colírio.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 42,
+        "ingles": "Artificial tears",
+        "portugues": "Lágrimas artificiais",
+        "fraseIngles": "Lubricate eyes with artificial tears.",
+        "frasePortugues": "Lubrifique olhos com lágrimas artificiais.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 43,
+        "ingles": "Contact solution",
+        "portugues": "Solução para lentes",
+        "fraseIngles": "Clean contacts with contact solution.",
+        "frasePortugues": "Limpe lentes de contato com solução para lentes.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 44,
+        "ingles": "Saline solution",
+        "portugues": "Soro fisiológico",
+        "fraseIngles": "Rinse wounds with saline solution.",
+        "frasePortugues": "Enxágue ferimentos com soro fisiológico.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 45,
+        "ingles": "Nasal spray",
+        "portugues": "Spray nasal",
+        "fraseIngles": "Clear congestion with nasal spray.",
+        "frasePortugues": "Limpe congestão com spray nasal.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 46,
+        "ingles": "Decongestant",
+        "portugues": "Descongestionante",
+        "fraseIngles": "Breathe easier with decongestant.",
+        "frasePortugues": "Respire melhor com descongestionante.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 47,
+        "ingles": "Inhaler",
+        "portugues": "Inalador",
+        "fraseIngles": "Use an inhaler for asthma attacks.",
+        "frasePortugues": "Use um inalador para ataques de asma.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 48,
+        "ingles": "Nebulizer",
+        "portugues": "Nebulizador",
+        "fraseIngles": "Children often use a nebulizer for breathing treatments.",
+        "frasePortugues": "Crianças frequentemente usam um nebulizador para tratamentos respiratórios.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 49,
+        "ingles": "Pill organizer",
+        "portugues": "Organizador de pílulas",
+        "fraseIngles": "Sort daily medications in a pill organizer.",
+        "frasePortugues": "Organize medicações diárias em um organizador de pílulas.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 50,
+        "ingles": "Pill box",
+        "portugues": "Porta-comprimidos",
+        "fraseIngles": "Carry pills in a small pill box.",
+        "frasePortugues": "Carregue pílulas em um pequeno porta-comprimidos.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 51,
+        "ingles": "Medicine dropper",
+        "portugues": "Conta-gotas para remédio",
+        "fraseIngles": "Give liquid medicine with a medicine dropper.",
+        "frasePortugues": "Dê remédio líquido com um conta-gotas para remédio.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 52,
+        "ingles": "Syringe",
+        "portugues": "Seringa",
+        "fraseIngles": "Measure liquid doses with a syringe.",
+        "frasePortugues": "Meça doses líquidas com uma seringa.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 53,
+        "ingles": "Medicine cup",
+        "portugues": "Copinho para remédio",
+        "fraseIngles": "Pour liquid medicine into a medicine cup.",
+        "frasePortugues": "Despeje remédio líquido em um copinho para remédio.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 54,
+        "ingles": "Heating pad",
+        "portugues": "Almofada térmica",
+        "fraseIngles": "Relieve muscle pain with a heating pad.",
+        "frasePortugues": "Alivie dor muscular com uma almofada térmica.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 55,
+        "ingles": "Ice pack",
+        "portugues": "Bolsa de gelo",
+        "fraseIngles": "Reduce swelling with an ice pack.",
+        "frasePortugues": "Reduza inchaço com uma bolsa de gelo.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 56,
+        "ingles": "Hot water bottle",
+        "portugues": "Bolsa de água quente",
+        "fraseIngles": "Warm up with a hot water bottle.",
+        "frasePortugues": "Aqueça-se com uma bolsa de água quente.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 57,
+        "ingles": "Humidifier",
+        "portugues": "Umidificador",
+        "fraseIngles": "Add moisture to dry air with a humidifier.",
+        "frasePortugues": "Adicione umidade ao ar seco com um umidificador.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 58,
+        "ingles": "Vaporizer",
+        "portugues": "Vaporizador",
+        "fraseIngles": "Breathe easier with steam from a vaporizer.",
+        "frasePortugues": "Respire melhor com vapor de um vaporizador.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 59,
+        "ingles": "Air purifier",
+        "portugues": "Purificador de ar",
+        "fraseIngles": "Remove allergens with an air purifier.",
+        "frasePortugues": "Remova alérgenos com um purificador de ar.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 60,
+        "ingles": "HEPA filter",
+        "portugues": "Filtro HEPA",
+        "fraseIngles": "A HEPA filter captures tiny particles.",
+        "frasePortugues": "Um filtro HEPA captura partículas minúsculas.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 61,
+        "ingles": "Toothbrush",
+        "portugues": "Escova de dentes",
+        "fraseIngles": "Brush teeth twice daily with a toothbrush.",
+        "frasePortugues": "Escove os dentes duas vezes ao dia com uma escova de dentes.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 62,
+        "ingles": "Electric toothbrush",
+        "portugues": "Escova de dentes elétrica",
+        "fraseIngles": "Clean teeth more effectively with an electric toothbrush.",
+        "frasePortugues": "Limpe os dentes mais efetivamente com uma escova de dentes elétrica.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 63,
+        "ingles": "Toothpaste",
+        "portugues": "Pasta de dentes",
+        "fraseIngles": "Apply toothpaste to your toothbrush.",
+        "frasePortugues": "Aplique pasta de dentes na sua escova de dentes.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 64,
+        "ingles": "Dental floss",
+        "portugues": "Fio dental",
+        "fraseIngles": "Clean between teeth with dental floss.",
+        "frasePortugues": "Limpe entre os dentes com fio dental.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 65,
+        "ingles": "Mouthwash",
+        "portugues": "Enxaguante bucal",
+        "fraseIngles": "Rinse with mouthwash after brushing.",
+        "frasePortugues": "Enxágue com enxaguante bucal depois de escovar.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 66,
+        "ingles": "Tongue scraper",
+        "portugues": "Raspador de língua",
+        "fraseIngles": "Remove bacteria with a tongue scraper.",
+        "frasePortugues": "Remova bactérias com um raspador de língua.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 67,
+        "ingles": "Dental pick",
+        "portugues": "Palito dental",
+        "fraseIngles": "Remove plaque with a dental pick.",
+        "frasePortugues": "Remova placa com um palito dental.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 68,
+        "ingles": "Water flosser",
+        "portugues": "Irrigador dental",
+        "fraseIngles": "Clean teeth with a water flosser.",
+        "frasePortugues": "Limpe dentes com um irrigador dental.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 69,
+        "ingles": "Denture cleaner",
+        "portugues": "Limpador de dentadura",
+        "fraseIngles": "Clean dentures with denture cleaner.",
+        "frasePortugues": "Limpe dentaduras com limpador de dentadura.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 70,
+        "ingles": "Whitening strips",
+        "portugues": "Fitas branqueadoras",
+        "fraseIngles": "Whiten teeth with whitening strips.",
+        "frasePortugues": "Branqueie dentes com fitas branqueadoras.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 71,
+        "ingles": "Shampoo",
+        "portugues": "Shampoo",
+        "fraseIngles": "Wash hair with shampoo.",
+        "frasePortugues": "Lave cabelos com shampoo.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 72,
+        "ingles": "Conditioner",
+        "portugues": "Condicionador",
+        "fraseIngles": "Soften hair with conditioner.",
+        "frasePortugues": "Amaciar cabelos com condicionador.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 73,
+        "ingles": "Body wash",
+        "portugues": "Sabonete líquido",
+        "fraseIngles": "Clean your body with body wash.",
+        "frasePortugues": "Limpe seu corpo com sabonete líquido.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 74,
+        "ingles": "Bar soap",
+        "portugues": "Sabonete em barra",
+        "fraseIngles": "Traditional bar soap cleans effectively.",
+        "frasePortugues": "Sabonete em barra tradicional limpa efetivamente.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 75,
+        "ingles": "Face wash",
+        "portugues": "Sabonete facial",
+        "fraseIngles": "Clean your face with gentle face wash.",
+        "frasePortugues": "Limpe seu rosto com sabonete facial suave.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 76,
+        "ingles": "Exfoliant",
+        "portugues": "Esfoliante",
+        "fraseIngles": "Remove dead skin with an exfoliant.",
+        "frasePortugues": "Remova pele morta com um esfoliante.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 77,
+        "ingles": "Loofah",
+        "portugues": "Bucha",
+        "fraseIngles": "Scrub skin with a natural loofah.",
+        "frasePortugues": "Esfregue a pele com uma bucha natural.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 78,
+        "ingles": "Body scrub",
+        "portugues": "Esfoliante corporal",
+        "fraseIngles": "Exfoliate with a body scrub.",
+        "frasePortugues": "Esfolie com um esfoliante corporal.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 79,
+        "ingles": "Moisturizer",
+        "portugues": "Hidratante",
+        "fraseIngles": "Apply moisturizer to prevent dry skin.",
+        "frasePortugues": "Aplique hidratante para prevenir pele seca.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 80,
+        "ingles": "Body lotion",
+        "portugues": "Loção corporal",
+        "fraseIngles": "Smooth on body lotion after showering.",
+        "frasePortugues": "Passe loção corporal depois do banho.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 81,
+        "ingles": "Hand cream",
+        "portugues": "Creme para mãos",
+        "fraseIngles": "Protect hands with hand cream.",
+        "frasePortugues": "Proteja mãos com creme para mãos.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 82,
+        "ingles": "Lip balm",
+        "portugues": "Protetor labial",
+        "fraseIngles": "Prevent chapped lips with lip balm.",
+        "frasePortugues": "Previna lábios rachados com protetor labial.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 83,
+        "ingles": "Sunscreen",
+        "portugues": "Protetor solar",
+        "fraseIngles": "Protect skin with sunscreen.",
+        "frasePortugues": "Proteja a pele com protetor solar.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 84,
+        "ingles": "Deodorant",
+        "portugues": "Desodorante",
+        "fraseIngles": "Stay fresh with deodorant.",
+        "frasePortugues": "Mantenha-se fresco com desodorante.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 85,
+        "ingles": "Antiperspirant",
+        "portugues": "Antitranspirante",
+        "fraseIngles": "Prevent sweating with antiperspirant.",
+        "frasePortugues": "Previna suor com antitranspirante.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 86,
+        "ingles": "Perfume",
+        "portugues": "Perfume",
+        "fraseIngles": "Smell nice with perfume.",
+        "frasePortugues": "Cheire bem com perfume.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 87,
+        "ingles": "Cologne",
+        "portugues": "Colônia",
+        "fraseIngles": "Men often wear cologne.",
+        "frasePortugues": "Homens frequentemente usam colônia.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 88,
+        "ingles": "Nail clippers",
+        "portugues": "Cortador de unhas",
+        "fraseIngles": "Trim nails with nail clippers.",
+        "frasePortugues": "Apare unhas com cortador de unhas.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 89,
+        "ingles": "Nail file",
+        "portugues": "Lima de unha",
+        "fraseIngles": "Smooth nail edges with a nail file.",
+        "frasePortugues": "Alise bordas das unhas com uma lima de unha.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 90,
+        "ingles": "Emery board",
+        "portugues": "Lima de cartão",
+        "fraseIngles": "File nails with an emery board.",
+        "frasePortugues": "Lime unhas com uma lima de cartão.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 91,
+        "ingles": "Cuticle pusher",
+        "portugues": "Espátula para cutícula",
+        "fraseIngles": "Push back cuticles with a cuticle pusher.",
+        "frasePortugues": "Empurre cutículas com uma espátula para cutícula.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 92,
+        "ingles": "Nail polish",
+        "portugues": "Esmalte",
+        "fraseIngles": "Paint nails with nail polish.",
+        "frasePortugues": "Pinte unhas com esmalte.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 93,
+        "ingles": "Nail polish remover",
+        "portugues": "Removedor de esmalte",
+        "fraseIngles": "Remove old polish with nail polish remover.",
+        "frasePortugues": "Remova esmalte antigo com removedor de esmalte.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 94,
+        "ingles": "Cotton balls",
+        "portugues": "Algodão em bolas",
+        "fraseIngles": "Apply products with cotton balls.",
+        "frasePortugues": "Aplique produtos com algodão em bolas.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 95,
+        "ingles": "Cotton swabs",
+        "portugues": "Hastes flexíveis",
+        "fraseIngles": "Clean ears carefully with cotton swabs.",
+        "frasePortugues": "Limpe ouvidos cuidadosamente com hastes flexíveis.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 96,
+        "ingles": "Q-tips",
+        "portugues": "Cotonetes",
+        "fraseIngles": "Q-tips are a popular cotton swab brand.",
+        "frasePortugues": "Cotonetes são uma marca popular de hastes flexíveis.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 97,
+        "ingles": "Tweezers",
+        "portugues": "Pinça",
+        "fraseIngles": "Pluck eyebrows with tweezers.",
+        "frasePortugues": "Retire pelos da sobrancelha com pinça.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 98,
+        "ingles": "Razor",
+        "portugues": "Barbeador",
+        "fraseIngles": "Shave with a sharp razor.",
+        "frasePortugues": "Faça a barba com um barbeador afiado.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 99,
+        "ingles": "Electric razor",
+        "portugues": "Barbeador elétrico",
+        "fraseIngles": "Save time with an electric razor.",
+        "frasePortugues": "Economize tempo com um barbeador elétrico.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 100,
+        "ingles": "Disposable razor",
+        "portugues": "Barbeador descartável",
+        "fraseIngles": "Use a disposable razor for travel.",
+        "frasePortugues": "Use um barbeador descartável para viagem.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 101,
+        "ingles": "Shaving cream",
+        "portugues": "Creme de barbear",
+        "fraseIngles": "Apply shaving cream before shaving.",
+        "frasePortugues": "Aplique creme de barbear antes de fazer a barba.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 102,
+        "ingles": "Shaving gel",
+        "portugues": "Gel de barbear",
+        "fraseIngles": "Shaving gel provides a smooth shave.",
+        "frasePortugues": "Gel de barbear proporciona um barbear suave.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 103,
+        "ingles": "Aftershave",
+        "portugues": "Loção pós-barba",
+        "fraseIngles": "Soothe skin with aftershave.",
+        "frasePortugues": "Acalme a pele com loção pós-barba.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 104,
+        "ingles": "Hair brush",
+        "portugues": "Escova de cabelo",
+        "fraseIngles": "Detangle hair with a hair brush.",
+        "frasePortugues": "Desembarace cabelos com uma escova de cabelo.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 105,
+        "ingles": "Hair comb",
+        "portugues": "Pente",
+        "fraseIngles": "Style hair with a hair comb.",
+        "frasePortugues": "Penteie cabelos com um pente.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 106,
+        "ingles": "Hair dryer",
+        "portugues": "Secador de cabelo",
+        "fraseIngles": "Dry hair quickly with a hair dryer.",
+        "frasePortugues": "Seque cabelos rapidamente com um secador de cabelo.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 107,
+        "ingles": "Curling iron",
+        "portugues": "Modelador de cachos",
+        "fraseIngles": "Create curls with a curling iron.",
+        "frasePortugues": "Crie cachos com um modelador de cachos.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 108,
+        "ingles": "Flat iron",
+        "portugues": "Chapinha",
+        "fraseIngles": "Straighten hair with a flat iron.",
+        "frasePortugues": "Alise cabelos com uma chapinha.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 109,
+        "ingles": "Hair straightener",
+        "portugues": "Alisador de cabelo",
+        "fraseIngles": "A hair straightener makes hair smooth.",
+        "frasePortugues": "Um alisador de cabelo deixa cabelos lisos.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 110,
+        "ingles": "Hair spray",
+        "portugues": "Spray fixador",
+        "fraseIngles": "Hold hairstyles with hair spray.",
+        "frasePortugues": "Fixe penteados com spray fixador.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 111,
+        "ingles": "Hair gel",
+        "portugues": "Gel para cabelo",
+        "fraseIngles": "Style hair with hair gel.",
+        "frasePortugues": "Modele cabelos com gel para cabelo.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 112,
+        "ingles": "Mousse",
+        "portugues": "Mousse",
+        "fraseIngles": "Add volume with hair mousse.",
+        "frasePortugues": "Adicione volume com mousse para cabelo.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 113,
+        "ingles": "Hair oil",
+        "portugues": "Óleo capilar",
+        "fraseIngles": "Nourish hair with hair oil.",
+        "frasePortugues": "Nutra cabelos com óleo capilar.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 114,
+        "ingles": "Leave-in conditioner",
+        "portugues": "Condicionador sem enxágue",
+        "fraseIngles": "Protect hair with leave-in conditioner.",
+        "frasePortugues": "Proteja cabelos com condicionador sem enxágue.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 115,
+        "ingles": "Hair mask",
+        "portugues": "Máscara capilar",
+        "fraseIngles": "Deep condition with a hair mask.",
+        "frasePortugues": "Condicione profundamente com uma máscara capilar.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 116,
+        "ingles": "Dry shampoo",
+        "portugues": "Shampoo seco",
+        "fraseIngles": "Refresh hair between washes with dry shampoo.",
+        "frasePortugues": "Refresque cabelos entre lavagens com shampoo seco.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 117,
+        "ingles": "Bobby pins",
+        "portugues": "Grampos de cabelo",
+        "fraseIngles": "Secure hairstyles with bobby pins.",
+        "frasePortugues": "Fixe penteados com grampos de cabelo.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 118,
+        "ingles": "Hair ties",
+        "portugues": "Elásticos de cabelo",
+        "fraseIngles": "Pull hair back with hair ties.",
+        "frasePortugues": "Prenda cabelos com elásticos de cabelo.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 119,
+        "ingles": "Headband",
+        "portugues": "Faixa de cabelo",
+        "fraseIngles": "Keep hair out of face with a headband.",
+        "frasePortugues": "Mantenha cabelos longe do rosto com uma faixa de cabelo.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 120,
+        "ingles": "Hair clip",
+        "portugues": "Presilha",
+        "fraseIngles": "Hold sections of hair with a hair clip.",
+        "frasePortugues": "Segure mechas de cabelo com uma presilha.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 121,
+        "ingles": "Contact lenses",
+        "portugues": "Lentes de contato",
+        "fraseIngles": "See clearly with contact lenses.",
+        "frasePortugues": "Enxergue claramente com lentes de contato.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 122,
+        "ingles": "Contact case",
+        "portugues": "Estojo para lentes",
+        "fraseIngles": "Store contacts in a contact case.",
+        "frasePortugues": "Guarde lentes de contato em um estojo para lentes.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 123,
+        "ingles": "Reading glasses",
+        "portugues": "Óculos de leitura",
+        "fraseIngles": "Read small print with reading glasses.",
+        "frasePortugues": "Leia letras pequenas com óculos de leitura.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 124,
+        "ingles": "Magnifying glass",
+        "portugues": "Lupa",
+        "fraseIngles": "See details clearly with a magnifying glass.",
+        "frasePortugues": "Veja detalhes claramente com uma lupa.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 125,
+        "ingles": "Hearing aid",
+        "portugues": "Aparelho auditivo",
+        "fraseIngles": "Improve hearing with a hearing aid.",
+        "frasePortugues": "Melhore audição com um aparelho auditivo.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 126,
+        "ingles": "Wheelchair",
+        "portugues": "Cadeira de rodas",
+        "fraseIngles": "Mobility assistance comes from a wheelchair.",
+        "frasePortugues": "Assistência de mobilidade vem de uma cadeira de rodas.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 127,
+        "ingles": "Walker",
+        "portugues": "Andador",
+        "fraseIngles": "Steady walking requires a walker.",
+        "frasePortugues": "Caminhar firme requer um andador.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 128,
+        "ingles": "Crutches",
+        "portugues": "Muletas",
+        "fraseIngles": "Support weight with crutches.",
+        "frasePortugues": "Apoie peso com muletas.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    },
+    {
+        "id": 129,
+        "ingles": "Cane",
+        "portugues": "Bengala",
+        "fraseIngles": "Walk steadily with a cane.",
+        "frasePortugues": "Caminhe firmemente com uma bengala.",
+        "subtopico": "Saúde",
+        "topico": "Objetos"
+    }
+]

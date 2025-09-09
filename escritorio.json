@@ -1,0 +1,1334 @@
+[
+    {
+        "id": 1,
+        "ingles": "Desk",
+        "portugues": "Mesa",
+        "fraseIngles": "Organize papers on your desk.",
+        "frasePortugues": "Organize papéis na sua mesa.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 2,
+        "ingles": "Office chair",
+        "portugues": "Cadeira de escritório",
+        "fraseIngles": "Adjust your office chair for comfort.",
+        "frasePortugues": "Ajuste sua cadeira de escritório para conforto.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 3,
+        "ingles": "Computer",
+        "portugues": "Computador",
+        "fraseIngles": "Turn on the computer to start working.",
+        "frasePortugues": "Ligue o computador para começar a trabalhar.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 4,
+        "ingles": "Monitor",
+        "portugues": "Monitor",
+        "fraseIngles": "The monitor displays all your work.",
+        "frasePortugues": "O monitor exibe todo o seu trabalho.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 5,
+        "ingles": "Keyboard",
+        "portugues": "Teclado",
+        "fraseIngles": "Type your report on the keyboard.",
+        "frasePortugues": "Digite seu relatório no teclado.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 6,
+        "ingles": "Mouse",
+        "portugues": "Mouse",
+        "fraseIngles": "Click the mouse to select files.",
+        "frasePortugues": "Clique o mouse para selecionar arquivos.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 7,
+        "ingles": "Mousepad",
+        "portugues": "Mouse pad",
+        "fraseIngles": "Use a mousepad for smooth mouse movement.",
+        "frasePortugues": "Use um mouse pad para movimento suave do mouse.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 8,
+        "ingles": "Printer",
+        "portugues": "Impressora",
+        "fraseIngles": "Send documents to the printer.",
+        "frasePortugues": "Envie documentos para a impressora.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 9,
+        "ingles": "Scanner",
+        "portugues": "Scanner",
+        "fraseIngles": "Use the scanner to digitize documents.",
+        "frasePortugues": "Use o scanner para digitalizar documentos.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 10,
+        "ingles": "Copier",
+        "portugues": "Copiadora",
+        "fraseIngles": "Make copies with the office copier.",
+        "frasePortugues": "Faça cópias com a copiadora do escritório.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 11,
+        "ingles": "Fax machine",
+        "portugues": "Aparelho de fax",
+        "fraseIngles": "Send contracts via the fax machine.",
+        "frasePortugues": "Envie contratos via aparelho de fax.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 12,
+        "ingles": "Telephone",
+        "portugues": "Telefone",
+        "fraseIngles": "Answer the telephone when it rings.",
+        "frasePortugues": "Atenda o telefone quando ele tocar.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 13,
+        "ingles": "Mobile phone",
+        "portugues": "Celular",
+        "fraseIngles": "Keep your mobile phone on silent during meetings.",
+        "frasePortugues": "Mantenha seu celular no silencioso durante reuniões.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 14,
+        "ingles": "Headset",
+        "portugues": "Headset",
+        "fraseIngles": "Use a headset for hands-free calls.",
+        "frasePortugues": "Use um headset para chamadas com as mãos livres.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 15,
+        "ingles": "Webcam",
+        "portugues": "Webcam",
+        "fraseIngles": "Position the webcam for video calls.",
+        "frasePortugues": "Posicione a webcam para videochamadas.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 16,
+        "ingles": "Speakers",
+        "portugues": "Alto-falantes",
+        "fraseIngles": "Connect speakers to your computer.",
+        "frasePortugues": "Conecte alto-falantes ao seu computador.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 17,
+        "ingles": "Microphone",
+        "portugues": "Microfone",
+        "fraseIngles": "Speak clearly into the microphone.",
+        "frasePortugues": "Fale claramente no microfone.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 18,
+        "ingles": "USB drive",
+        "portugues": "Pen drive",
+        "fraseIngles": "Save files on a USB drive.",
+        "frasePortugues": "Salve arquivos em um pen drive.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 19,
+        "ingles": "External hard drive",
+        "portugues": "HD externo",
+        "fraseIngles": "Back up data on an external hard drive.",
+        "frasePortugues": "Faça backup de dados em um HD externo.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 20,
+        "ingles": "CD",
+        "portugues": "CD",
+        "fraseIngles": "Burn files to a CD for storage.",
+        "frasePortugues": "Grave arquivos em um CD para armazenamento.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 21,
+        "ingles": "DVD",
+        "portugues": "DVD",
+        "fraseIngles": "Watch presentations on DVD.",
+        "frasePortugues": "Assista apresentações em DVD.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 22,
+        "ingles": "Power strip",
+        "portugues": "Filtro de linha",
+        "fraseIngles": "Plug devices into the power strip.",
+        "frasePortugues": "Conecte dispositivos no filtro de linha.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 23,
+        "ingles": "Surge protector",
+        "portugues": "Protetor contra surtos",
+        "fraseIngles": "Protect electronics with a surge protector.",
+        "frasePortugues": "Proteja eletrônicos com um protetor contra surtos.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 24,
+        "ingles": "Extension cord",
+        "portugues": "Fio de extensão",
+        "fraseIngles": "Use an extension cord to reach distant outlets.",
+        "frasePortugues": "Use um fio de extensão para alcançar tomadas distantes.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 25,
+        "ingles": "Desk lamp",
+        "portugues": "Luminária de mesa",
+        "fraseIngles": "Turn on the desk lamp for better lighting.",
+        "frasePortugues": "Ligue a luminária de mesa para melhor iluminação.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 26,
+        "ingles": "Floor lamp",
+        "portugues": "Luminária de chão",
+        "fraseIngles": "Add a floor lamp to brighten the corner.",
+        "frasePortugues": "Adicione uma luminária de chão para iluminar o canto.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 27,
+        "ingles": "Ceiling light",
+        "portugues": "Luz do teto",
+        "fraseIngles": "The ceiling light illuminates the entire room.",
+        "frasePortugues": "A luz do teto ilumina toda a sala.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 28,
+        "ingles": "Light bulb",
+        "portugues": "Lâmpada",
+        "fraseIngles": "Replace the burned-out light bulb.",
+        "frasePortugues": "Substitua a lâmpada queimada.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 29,
+        "ingles": "Fluorescent light",
+        "portugues": "Luz fluorescente",
+        "fraseIngles": "Fluorescent lights are common in offices.",
+        "frasePortugues": "Luzes fluorescentes são comuns em escritórios.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 30,
+        "ingles": "LED light",
+        "portugues": "Luz LED",
+        "fraseIngles": "LED lights are energy-efficient.",
+        "frasePortugues": "Luzes LED são eficientes em energia.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 31,
+        "ingles": "Filing cabinet",
+        "portugues": "Arquivo",
+        "fraseIngles": "Store documents in the filing cabinet.",
+        "frasePortugues": "Guarde documentos no arquivo.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 32,
+        "ingles": "File folder",
+        "portugues": "Pasta arquivo",
+        "fraseIngles": "Organize papers in file folders.",
+        "frasePortugues": "Organize papéis em pastas arquivo.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 33,
+        "ingles": "Hanging folder",
+        "portugues": "Pasta suspensa",
+        "fraseIngles": "Use hanging folders in file drawers.",
+        "frasePortugues": "Use pastas suspensas em gavetas de arquivo.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 34,
+        "ingles": "Binder",
+        "portugues": "Fichário",
+        "fraseIngles": "Keep reports organized in a binder.",
+        "frasePortugues": "Mantenha relatórios organizados em um fichário.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 35,
+        "ingles": "Ring binder",
+        "portugues": "Fichário de argolas",
+        "fraseIngles": "A ring binder holds punched papers.",
+        "frasePortugues": "Um fichário de argolas segura papéis furados.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 36,
+        "ingles": "Three-ring binder",
+        "portugues": "Fichário três argolas",
+        "fraseIngles": "Use a three-ring binder for presentations.",
+        "frasePortugues": "Use um fichário três argolas para apresentações.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 37,
+        "ingles": "Divider",
+        "portugues": "Divisória",
+        "fraseIngles": "Separate sections with dividers.",
+        "frasePortugues": "Separe seções com divisórias.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 38,
+        "ingles": "Tab",
+        "portugues": "Aba",
+        "fraseIngles": "Label each tab for easy reference.",
+        "frasePortugues": "Rotule cada aba para referência fácil.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 39,
+        "ingles": "Label",
+        "portugues": "Etiqueta",
+        "fraseIngles": "Put a label on each folder.",
+        "frasePortugues": "Coloque uma etiqueta em cada pasta.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 40,
+        "ingles": "Label maker",
+        "portugues": "Rotulador",
+        "fraseIngles": "Create professional labels with a label maker.",
+        "frasePortugues": "Crie etiquetas profissionais com um rotulador.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 41,
+        "ingles": "Paper",
+        "portugues": "Papel",
+        "fraseIngles": "Load paper into the printer.",
+        "frasePortugues": "Carregue papel na impressora.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 42,
+        "ingles": "Copy paper",
+        "portugues": "Papel sulfite",
+        "fraseIngles": "Use white copy paper for documents.",
+        "frasePortugues": "Use papel sulfite branco para documentos.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 43,
+        "ingles": "Letterhead",
+        "portugues": "Papel timbrado",
+        "fraseIngles": "Print letters on company letterhead.",
+        "frasePortugues": "Imprima cartas em papel timbrado da empresa.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 44,
+        "ingles": "Stationery",
+        "portugues": "Papelaria",
+        "fraseIngles": "Order new stationery supplies.",
+        "frasePortugues": "Peça novos suprimentos de papelaria.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 45,
+        "ingles": "Envelope",
+        "portugues": "Envelope",
+        "fraseIngles": "Seal the document in an envelope.",
+        "frasePortugues": "Lacre o documento em um envelope.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 46,
+        "ingles": "Business envelope",
+        "portugues": "Envelope comercial",
+        "fraseIngles": "Use a business envelope for formal letters.",
+        "frasePortugues": "Use um envelope comercial para cartas formais.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 47,
+        "ingles": "Manila envelope",
+        "portugues": "Envelope pardo",
+        "fraseIngles": "Send documents in a manila envelope.",
+        "frasePortugues": "Envie documentos em um envelope pardo.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 48,
+        "ingles": "Padded envelope",
+        "portugues": "Envelope acolchoado",
+        "fraseIngles": "Ship fragile items in a padded envelope.",
+        "frasePortugues": "Envie itens frágeis em um envelope acolchoado.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 49,
+        "ingles": "Stamp",
+        "portugues": "Selo",
+        "fraseIngles": "Put a stamp on the envelope before mailing.",
+        "frasePortugues": "Coloque um selo no envelope antes de enviar.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 50,
+        "ingles": "Postage",
+        "portugues": "Franquia",
+        "fraseIngles": "Calculate the correct postage for packages.",
+        "frasePortugues": "Calcule a franquia correta para pacotes.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 51,
+        "ingles": "Mailbox",
+        "portugues": "Caixa postal",
+        "fraseIngles": "Check the mailbox for daily mail.",
+        "frasePortugues": "Verifique a caixa postal por correspondências diárias.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 52,
+        "ingles": "Mail slot",
+        "portugues": "Entrada de correio",
+        "fraseIngles": "Letters come through the mail slot.",
+        "frasePortugues": "Cartas chegam através da entrada de correio.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 53,
+        "ingles": "Package",
+        "portugues": "Pacote",
+        "fraseIngles": "Receive packages from suppliers.",
+        "frasePortugues": "Receba pacotes de fornecedores.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 54,
+        "ingles": "Shipping box",
+        "portugues": "Caixa de envio",
+        "fraseIngles": "Pack items in a sturdy shipping box.",
+        "frasePortugues": "Embale itens em uma caixa de envio resistente.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 55,
+        "ingles": "Bubble wrap",
+        "portugues": "Plástico bolha",
+        "fraseIngles": "Protect fragile items with bubble wrap.",
+        "frasePortugues": "Proteja itens frágeis com plástico bolha.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 56,
+        "ingles": "Packing tape",
+        "portugues": "Fita de embalagem",
+        "fraseIngles": "Seal boxes with packing tape.",
+        "frasePortugues": "Lacre caixas com fita de embalagem.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 57,
+        "ingles": "Scissors",
+        "portugues": "Tesoura",
+        "fraseIngles": "Cut paper with sharp scissors.",
+        "frasePortugues": "Corte papel com tesoura afiada.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 58,
+        "ingles": "Paper cutter",
+        "portugues": "Guilhotina",
+        "fraseIngles": "Use a paper cutter for straight cuts.",
+        "frasePortugues": "Use uma guilhotina para cortes retos.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 59,
+        "ingles": "Letter opener",
+        "portugues": "Abridor de cartas",
+        "fraseIngles": "Open mail with a letter opener.",
+        "frasePortugues": "Abra correspondências com um abridor de cartas.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 60,
+        "ingles": "Stapler",
+        "portugues": "Grampeador",
+        "fraseIngles": "Staple documents together with a stapler.",
+        "frasePortugues": "Grampeie documentos com um grampeador.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 61,
+        "ingles": "Heavy duty stapler",
+        "portugues": "Grampeador industrial",
+        "fraseIngles": "Use a heavy duty stapler for thick documents.",
+        "frasePortugues": "Use um grampeador industrial para documentos grossos.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 62,
+        "ingles": "Electric stapler",
+        "portugues": "Grampeador elétrico",
+        "fraseIngles": "An electric stapler saves effort.",
+        "frasePortugues": "Um grampeador elétrico economiza esforço.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 63,
+        "ingles": "Staples",
+        "portugues": "Grampos",
+        "fraseIngles": "Load staples into the stapler.",
+        "frasePortugues": "Carregue grampos no grampeador.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 64,
+        "ingles": "Staple remover",
+        "portugues": "Removedor de grampos",
+        "fraseIngles": "Remove staples with a staple remover.",
+        "frasePortugues": "Remova grampos com um removedor de grampos.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 65,
+        "ingles": "Paper clips",
+        "portugues": "Clipes de papel",
+        "fraseIngles": "Hold papers together with paper clips.",
+        "frasePortugues": "Mantenha papéis juntos com clipes de papel.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 66,
+        "ingles": "Binder clips",
+        "portugues": "Presilhas",
+        "fraseIngles": "Secure thick documents with binder clips.",
+        "frasePortugues": "Fixe documentos grossos com presilhas.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 67,
+        "ingles": "Push pins",
+        "portugues": "Tachinhas",
+        "fraseIngles": "Attach notices to the board with push pins.",
+        "frasePortugues": "Fixe avisos no quadro com tachinhas.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 68,
+        "ingles": "Thumbtacks",
+        "portugues": "Percevejos",
+        "fraseIngles": "Use thumbtacks to hang posters.",
+        "frasePortugues": "Use percevejos para pendurar cartazes.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 69,
+        "ingles": "Rubber bands",
+        "portugues": "Elásticos",
+        "fraseIngles": "Bundle papers with rubber bands.",
+        "frasePortugues": "Amarre papéis com elásticos.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 70,
+        "ingles": "Paper fasteners",
+        "portugues": "Colchetes",
+        "fraseIngles": "Secure documents with paper fasteners.",
+        "frasePortugues": "Fixe documentos com colchetes.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 71,
+        "ingles": "Brads",
+        "portugues": "Bailarinas",
+        "fraseIngles": "Use brads for permanent fastening.",
+        "frasePortugues": "Use bailarinas para fixação permanente.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 72,
+        "ingles": "Hole punch",
+        "portugues": "Perfurador",
+        "fraseIngles": "Make holes with a hole punch.",
+        "frasePortugues": "Faça furos com um perfurador.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 73,
+        "ingles": "Three-hole punch",
+        "portugues": "Perfurador três furos",
+        "fraseIngles": "Use a three-hole punch for binders.",
+        "frasePortugues": "Use um perfurador três furos para fichários.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 74,
+        "ingles": "Single hole punch",
+        "portugues": "Perfurador simples",
+        "fraseIngles": "A single hole punch makes one hole at a time.",
+        "frasePortugues": "Um perfurador simples faz um furo de cada vez.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 75,
+        "ingles": "Reinforcement stickers",
+        "portugues": "Reforços adesivos",
+        "fraseIngles": "Strengthen punched holes with reinforcement stickers.",
+        "frasePortugues": "Reforce furos perfurados com reforços adesivos.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 76,
+        "ingles": "Adhesive tape",
+        "portugues": "Fita adesiva",
+        "fraseIngles": "Repair torn papers with adhesive tape.",
+        "frasePortugues": "Conserte papéis rasgados com fita adesiva.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 77,
+        "ingles": "Transparent tape",
+        "portugues": "Fita transparente",
+        "fraseIngles": "Use transparent tape for invisible repairs.",
+        "frasePortugues": "Use fita transparente para reparos invisíveis.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 78,
+        "ingles": "Masking tape",
+        "portugues": "Fita crepe",
+        "fraseIngles": "Masking tape is good for temporary fixes.",
+        "frasePortugues": "Fita crepe é boa para consertos temporários.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 79,
+        "ingles": "Double-sided tape",
+        "portugues": "Fita dupla face",
+        "fraseIngles": "Mount items with double-sided tape.",
+        "frasePortugues": "Monte itens com fita dupla face.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 80,
+        "ingles": "Glue stick",
+        "portugues": "Bastão de cola",
+        "fraseIngles": "Apply glue with a glue stick.",
+        "frasePortugues": "Aplique cola com um bastão de cola.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 81,
+        "ingles": "Liquid glue",
+        "portugues": "Cola líquida",
+        "fraseIngles": "Use liquid glue for permanent bonding.",
+        "frasePortugues": "Use cola líquida para colagem permanente.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 82,
+        "ingles": "Rubber cement",
+        "portugues": "Cola de borracha",
+        "fraseIngles": "Rubber cement allows repositioning.",
+        "frasePortugues": "Cola de borracha permite reposicionamento.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 83,
+        "ingles": "Correction fluid",
+        "portugues": "Corretivo líquido",
+        "fraseIngles": "Cover mistakes with correction fluid.",
+        "frasePortugues": "Cubra erros com corretivo líquido.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 84,
+        "ingles": "Correction tape",
+        "portugues": "Fita corretiva",
+        "fraseIngles": "Apply correction tape over errors.",
+        "frasePortugues": "Aplique fita corretiva sobre erros.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 85,
+        "ingles": "White-out",
+        "portugues": "Branquinho",
+        "fraseIngles": "Use white-out to hide typing mistakes.",
+        "frasePortugues": "Use branquinho para esconder erros de digitação.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 86,
+        "ingles": "Eraser",
+        "portugues": "Borracha",
+        "fraseIngles": "Erase pencil marks with an eraser.",
+        "frasePortugues": "Apague marcas de lápis com uma borracha.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 87,
+        "ingles": "Kneaded eraser",
+        "portugues": "Borracha moldável",
+        "fraseIngles": "A kneaded eraser can be shaped for precision.",
+        "frasePortugues": "Uma borracha moldável pode ser moldada para precisão.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 88,
+        "ingles": "Pink eraser",
+        "portugues": "Borracha rosa",
+        "fraseIngles": "The pink eraser is gentle on paper.",
+        "frasePortugues": "A borracha rosa é suave no papel.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 89,
+        "ingles": "Electric eraser",
+        "portugues": "Borracha elétrica",
+        "fraseIngles": "An electric eraser removes marks quickly.",
+        "frasePortugues": "Uma borracha elétrica remove marcas rapidamente.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 90,
+        "ingles": "Pen",
+        "portugues": "Caneta",
+        "fraseIngles": "Sign documents with a pen.",
+        "frasePortugues": "Assine documentos com uma caneta.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 91,
+        "ingles": "Ballpoint pen",
+        "portugues": "Caneta esferográfica",
+        "fraseIngles": "A ballpoint pen uses oil-based ink.",
+        "frasePortugues": "Uma caneta esferográfica usa tinta à base de óleo.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 92,
+        "ingles": "Gel pen",
+        "portugues": "Caneta gel",
+        "fraseIngles": "Gel pens provide smooth writing.",
+        "frasePortugues": "Canetas gel oferecem escrita suave.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 93,
+        "ingles": "Rollerball pen",
+        "portugues": "Caneta roller",
+        "fraseIngles": "A rollerball pen flows like a fountain pen.",
+        "frasePortugues": "Uma caneta roller flui como uma caneta tinteiro.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 94,
+        "ingles": "Fountain pen",
+        "portugues": "Caneta tinteiro",
+        "fraseIngles": "Sign important papers with a fountain pen.",
+        "frasePortugues": "Assine papéis importantes com uma caneta tinteiro.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 95,
+        "ingles": "Felt-tip pen",
+        "portugues": "Caneta hidrográfica",
+        "fraseIngles": "Use a felt-tip pen for bold lines.",
+        "frasePortugues": "Use uma caneta hidrográfica para linhas marcantes.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 96,
+        "ingles": "Fine-tip pen",
+        "portugues": "Caneta ponta fina",
+        "fraseIngles": "A fine-tip pen is good for detailed work.",
+        "frasePortugues": "Uma caneta ponta fina é boa para trabalho detalhado.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 97,
+        "ingles": "Marker",
+        "portugues": "Marcador",
+        "fraseIngles": "Highlight text with a colored marker.",
+        "frasePortugues": "Destaque texto com um marcador colorido.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 98,
+        "ingles": "Permanent marker",
+        "portugues": "Marcador permanente",
+        "fraseIngles": "Label boxes with a permanent marker.",
+        "frasePortugues": "Rotule caixas com um marcador permanente.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 99,
+        "ingles": "Washable marker",
+        "portugues": "Marcador lavável",
+        "fraseIngles": "Washable markers are safe for whiteboards.",
+        "frasePortugues": "Marcadores laváveis são seguros para quadros brancos.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 100,
+        "ingles": "Highlighter",
+        "portugues": "Marca-texto",
+        "fraseIngles": "Mark important passages with a highlighter.",
+        "frasePortugues": "Marque passagens importantes com um marca-texto.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 101,
+        "ingles": "Pencil",
+        "portugues": "Lápis",
+        "fraseIngles": "Sketch ideas with a pencil.",
+        "frasePortugues": "Esboce ideias com um lápis.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 102,
+        "ingles": "Mechanical pencil",
+        "portugues": "Lapiseira",
+        "fraseIngles": "A mechanical pencil doesn't need sharpening.",
+        "frasePortugues": "Uma lapiseira não precisa ser apontada.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 103,
+        "ingles": "Lead pencil",
+        "portugues": "Lápis grafite",
+        "fraseIngles": "Use a lead pencil for standardized tests.",
+        "frasePortugues": "Use um lápis grafite para testes padronizados.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 104,
+        "ingles": "Colored pencil",
+        "portugues": "Lápis de cor",
+        "fraseIngles": "Draw diagrams with colored pencils.",
+        "frasePortugues": "Desenhe diagramas com lápis de cor.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 105,
+        "ingles": "Pencil sharpener",
+        "portugues": "Apontador",
+        "fraseIngles": "Keep pencils sharp with a pencil sharpener.",
+        "frasePortugues": "Mantenha lápis apontados com um apontador.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 106,
+        "ingles": "Electric pencil sharpener",
+        "portugues": "Apontador elétrico",
+        "fraseIngles": "An electric pencil sharpener works quickly.",
+        "frasePortugues": "Um apontador elétrico funciona rapidamente.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 107,
+        "ingles": "Pencil lead",
+        "portugues": "Grafite",
+        "fraseIngles": "Replace pencil lead in mechanical pencils.",
+        "frasePortugues": "Substitua grafite em lapiseiras.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 108,
+        "ingles": "Ruler",
+        "portugues": "Régua",
+        "fraseIngles": "Measure lines with a ruler.",
+        "frasePortugues": "Meça linhas com uma régua.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 109,
+        "ingles": "Yardstick",
+        "portugues": "Régua de uma jarda",
+        "fraseIngles": "Use a yardstick for longer measurements.",
+        "frasePortugues": "Use uma régua de uma jarda para medições mais longas.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 110,
+        "ingles": "Measuring tape",
+        "portugues": "Fita métrica",
+        "fraseIngles": "Measure office furniture with measuring tape.",
+        "frasePortugues": "Meça móveis do escritório com fita métrica.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 111,
+        "ingles": "Triangle ruler",
+        "portugues": "Esquadro",
+        "fraseIngles": "Draw precise angles with a triangle ruler.",
+        "frasePortugues": "Desenhe ângulos precisos com um esquadro.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 112,
+        "ingles": "Protractor",
+        "portugues": "Transferidor",
+        "fraseIngles": "Measure angles with a protractor.",
+        "frasePortugues": "Meça ângulos com um transferidor.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 113,
+        "ingles": "Compass",
+        "portugues": "Compasso",
+        "fraseIngles": "Draw circles with a compass.",
+        "frasePortugues": "Desenhe círculos com um compasso.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 114,
+        "ingles": "Calculator",
+        "portugues": "Calculadora",
+        "fraseIngles": "Use a calculator for math problems.",
+        "frasePortugues": "Use uma calculadora para problemas matemáticos.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 115,
+        "ingles": "Adding machine",
+        "portugues": "Máquina de calcular",
+        "fraseIngles": "An adding machine prints calculation results.",
+        "frasePortugues": "Uma máquina de calcular imprime resultados de cálculos.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 116,
+        "ingles": "Desktop calculator",
+        "portugues": "Calculadora de mesa",
+        "fraseIngles": "Keep a desktop calculator on your desk.",
+        "frasePortugues": "Mantenha uma calculadora de mesa na sua mesa.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 117,
+        "ingles": "Scientific calculator",
+        "portugues": "Calculadora científica",
+        "fraseIngles": "Use a scientific calculator for complex math.",
+        "frasePortugues": "Use uma calculadora científica para matemática complexa.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 118,
+        "ingles": "Calendar",
+        "portugues": "Calendário",
+        "fraseIngles": "Check appointments on your calendar.",
+        "frasePortugues": "Verifique compromissos no seu calendário.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 119,
+        "ingles": "Desk calendar",
+        "portugues": "Calendário de mesa",
+        "fraseIngles": "A desk calendar shows monthly dates.",
+        "frasePortugues": "Um calendário de mesa mostra datas mensais.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 120,
+        "ingles": "Wall calendar",
+        "portugues": "Calendário de parede",
+        "fraseIngles": "Hang a wall calendar for easy viewing.",
+        "frasePortugues": "Pendure um calendário de parede para visualização fácil.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 121,
+        "ingles": "Appointment book",
+        "portugues": "Agenda",
+        "fraseIngles": "Schedule meetings in your appointment book.",
+        "frasePortugues": "Agende reuniões na sua agenda.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 122,
+        "ingles": "Planner",
+        "portugues": "Planejador",
+        "fraseIngles": "Organize your day with a planner.",
+        "frasePortugues": "Organize seu dia com um planejador.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 123,
+        "ingles": "Day planner",
+        "portugues": "Agenda diária",
+        "fraseIngles": "A day planner shows hourly schedules.",
+        "frasePortugues": "Uma agenda diária mostra horários por hora.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 124,
+        "ingles": "Notebook",
+        "portugues": "Caderno",
+        "fraseIngles": "Take notes in a notebook.",
+        "frasePortugues": "Faça anotações em um caderno.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 125,
+        "ingles": "Spiral notebook",
+        "portugues": "Caderno espiral",
+        "fraseIngles": "A spiral notebook lies flat when open.",
+        "frasePortugues": "Um caderno espiral fica plano quando aberto.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 126,
+        "ingles": "Composition book",
+        "portugues": "Caderno de composição",
+        "fraseIngles": "Students use composition books for writing.",
+        "frasePortugues": "Estudantes usam cadernos de composição para escrever.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 127,
+        "ingles": "Legal pad",
+        "portugues": "Bloco jurídico",
+        "fraseIngles": "Lawyers often write on legal pads.",
+        "frasePortugues": "Advogados frequentemente escrevem em blocos jurídicos.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 128,
+        "ingles": "Notepad",
+        "portugues": "Bloco de notas",
+        "fraseIngles": "Keep a small notepad for quick notes.",
+        "frasePortugues": "Mantenha um pequeno bloco de notas para anotações rápidas.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 129,
+        "ingles": "Sticky notes",
+        "portugues": "Post-it",
+        "fraseIngles": "Leave reminders on sticky notes.",
+        "frasePortugues": "Deixe lembretes em post-it.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 130,
+        "ingles": "Index cards",
+        "portugues": "Fichas pautadas",
+        "fraseIngles": "Organize information on index cards.",
+        "frasePortugues": "Organize informações em fichas pautadas.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 131,
+        "ingles": "Business cards",
+        "portugues": "Cartões de visita",
+        "fraseIngles": "Exchange business cards at meetings.",
+        "frasePortugues": "Troque cartões de visita em reuniões.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 132,
+        "ingles": "Rolodex",
+        "portugues": "Fichário rotativo",
+        "fraseIngles": "Store contacts in a Rolodex.",
+        "frasePortugues": "Guarde contatos em um fichário rotativo.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 133,
+        "ingles": "Address book",
+        "portugues": "Agenda de endereços",
+        "fraseIngles": "Keep addresses in an address book.",
+        "frasePortugues": "Mantenha endereços em uma agenda de endereços.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 134,
+        "ingles": "Phone book",
+        "portugues": "Lista telefônica",
+        "fraseIngles": "Look up numbers in the phone book.",
+        "frasePortugues": "Procure números na lista telefônica.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 135,
+        "ingles": "Dictionary",
+        "portugues": "Dicionário",
+        "fraseIngles": "Check word meanings in a dictionary.",
+        "frasePortugues": "Verifique significados de palavras no dicionário.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 136,
+        "ingles": "Thesaurus",
+        "portugues": "Dicionário de sinônimos",
+        "fraseIngles": "Find synonyms in a thesaurus.",
+        "frasePortugues": "Encontre sinônimos no dicionário de sinônimos.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 137,
+        "ingles": "Reference book",
+        "portugues": "Livro de referência",
+        "fraseIngles": "Consult reference books for research.",
+        "frasePortugues": "Consulte livros de referência para pesquisa.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 138,
+        "ingles": "Manual",
+        "portugues": "Manual",
+        "fraseIngles": "Read the manual for instructions.",
+        "frasePortugues": "Leia o manual para instruções.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 139,
+        "ingles": "Handbook",
+        "portugues": "Guia",
+        "fraseIngles": "The employee handbook explains policies.",
+        "frasePortugues": "O guia do funcionário explica políticas.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 140,
+        "ingles": "Clipboard",
+        "portugues": "Prancheta",
+        "fraseIngles": "Hold papers on a clipboard.",
+        "frasePortugues": "Segure papéis em uma prancheta.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 141,
+        "ingles": "Bulletin board",
+        "portugues": "Quadro de avisos",
+        "fraseIngles": "Post notices on the bulletin board.",
+        "frasePortugues": "Afixe avisos no quadro de avisos.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 142,
+        "ingles": "Cork board",
+        "portugues": "Quadro de cortiça",
+        "fraseIngles": "Pin items to the cork board.",
+        "frasePortugues": "Fixe itens no quadro de cortiça.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 143,
+        "ingles": "White board",
+        "portugues": "Quadro branco",
+        "fraseIngles": "Write on the white board with markers.",
+        "frasePortugues": "Escreva no quadro branco com marcadores.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 144,
+        "ingles": "Dry erase board",
+        "portugues": "Quadro apagável",
+        "fraseIngles": "Use dry erase markers on the board.",
+        "frasePortugues": "Use marcadores apagáveis no quadro.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 145,
+        "ingles": "Magnetic board",
+        "portugues": "Quadro magnético",
+        "fraseIngles": "Attach items with magnets to the magnetic board.",
+        "frasePortugues": "Fixe itens com ímãs no quadro magnético.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 146,
+        "ingles": "Easel",
+        "portugues": "Cavalete",
+        "fraseIngles": "Set up an easel for presentations.",
+        "frasePortugues": "Monte um cavalete para apresentações.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 147,
+        "ingles": "Flip chart",
+        "portugues": "Flip chart",
+        "fraseIngles": "Write on flip chart paper during meetings.",
+        "frasePortugues": "Escreva no papel de flip chart durante reuniões.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    },
+    {
+        "id": 148,
+        "ingles": "Presentation board",
+        "portugues": "Quadro de apresentação",
+        "fraseIngles": "Display information on a presentation board.",
+        "frasePortugues": "Exiba informações em um quadro de apresentação.",
+        "subtopico": "Escritório",
+        "topico": "Objetos"
+    }
+]

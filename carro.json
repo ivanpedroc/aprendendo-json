@@ -1,0 +1,1640 @@
+[
+    {
+        "id": 1,
+        "ingles": "Engine",
+        "portugues": "Motor",
+        "fraseIngles": "The engine needs regular maintenance.",
+        "frasePortugues": "O motor precisa de manutenção regular.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 2,
+        "ingles": "Steering wheel",
+        "portugues": "Volante",
+        "fraseIngles": "Turn the steering wheel to change direction.",
+        "frasePortugues": "Gire o volante para mudar de direção.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 3,
+        "ingles": "Brake pedal",
+        "portugues": "Pedal do freio",
+        "fraseIngles": "Press the brake pedal to stop the car.",
+        "frasePortugues": "Pressione o pedal do freio para parar o carro.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 4,
+        "ingles": "Gas pedal",
+        "portugues": "Pedal do acelerador",
+        "fraseIngles": "Push the gas pedal to speed up.",
+        "frasePortugues": "Pise no pedal do acelerador para acelerar.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 5,
+        "ingles": "Clutch pedal",
+        "portugues": "Pedal da embreagem",
+        "fraseIngles": "Use the clutch pedal when shifting gears.",
+        "frasePortugues": "Use o pedal da embreagem ao trocar marchas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 6,
+        "ingles": "Gear shift",
+        "portugues": "Câmbio",
+        "fraseIngles": "Move the gear shift to change gears.",
+        "frasePortugues": "Mova o câmbio para trocar marchas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 7,
+        "ingles": "Handbrake",
+        "portugues": "Freio de mão",
+        "fraseIngles": "Pull the handbrake when parking.",
+        "frasePortugues": "Puxe o freio de mão ao estacionar.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 8,
+        "ingles": "Dashboard",
+        "portugues": "Painel",
+        "fraseIngles": "Check the gauges on the dashboard.",
+        "frasePortugues": "Verifique os indicadores no painel.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 9,
+        "ingles": "Speedometer",
+        "portugues": "Velocímetro",
+        "fraseIngles": "Monitor your speed on the speedometer.",
+        "frasePortugues": "Monitore sua velocidade no velocímetro.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 10,
+        "ingles": "Fuel gauge",
+        "portugues": "Marcador de combustível",
+        "fraseIngles": "Check the fuel gauge before long trips.",
+        "frasePortugues": "Verifique o marcador de combustível antes de viagens longas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 11,
+        "ingles": "Temperature gauge",
+        "portugues": "Marcador de temperatura",
+        "fraseIngles": "Watch the temperature gauge for overheating.",
+        "frasePortugues": "Observe o marcador de temperatura para superaquecimento.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 12,
+        "ingles": "Odometer",
+        "portugues": "Hodômetro",
+        "fraseIngles": "The odometer shows total miles driven.",
+        "frasePortugues": "O hodômetro mostra a quilometragem total percorrida.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 13,
+        "ingles": "Tachometer",
+        "portugues": "Tacômetro",
+        "fraseIngles": "The tachometer displays engine RPM.",
+        "frasePortugues": "O tacômetro mostra o RPM do motor.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 14,
+        "ingles": "Turn signal",
+        "portugues": "Seta",
+        "fraseIngles": "Use your turn signal before changing lanes.",
+        "frasePortugues": "Use a seta antes de mudar de faixa.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 15,
+        "ingles": "Hazard lights",
+        "portugues": "Pisca-alerta",
+        "fraseIngles": "Turn on hazard lights in emergencies.",
+        "frasePortugues": "Ligue o pisca-alerta em emergências.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 16,
+        "ingles": "Headlights",
+        "portugues": "Faróis",
+        "fraseIngles": "Turn on headlights when it gets dark.",
+        "frasePortugues": "Ligue os faróis quando escurecer.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 17,
+        "ingles": "Taillights",
+        "portugues": "Lanternas traseiras",
+        "fraseIngles": "Check that your taillights are working.",
+        "frasePortugues": "Verifique se as lanternas traseiras estão funcionando.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 18,
+        "ingles": "Brake lights",
+        "portugues": "Luzes de freio",
+        "fraseIngles": "Brake lights warn drivers behind you.",
+        "frasePortugues": "As luzes de freio alertam motoristas atrás de você.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 19,
+        "ingles": "Windshield",
+        "portugues": "Para-brisa",
+        "fraseIngles": "Clean the windshield for better visibility.",
+        "frasePortugues": "Limpe o para-brisa para melhor visibilidade.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 20,
+        "ingles": "Windshield wipers",
+        "portugues": "Limpadores de para-brisa",
+        "fraseIngles": "Use windshield wipers when it rains.",
+        "frasePortugues": "Use os limpadores de para-brisa quando chover.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 21,
+        "ingles": "Rearview mirror",
+        "portugues": "Espelho retrovisor",
+        "fraseIngles": "Adjust the rearview mirror before driving.",
+        "frasePortugues": "Ajuste o espelho retrovisor antes de dirigir.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 22,
+        "ingles": "Side mirror",
+        "portugues": "Espelho lateral",
+        "fraseIngles": "Check your side mirrors when changing lanes.",
+        "frasePortugues": "Verifique os espelhos laterais ao mudar de faixa.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 23,
+        "ingles": "Horn",
+        "portugues": "Buzina",
+        "fraseIngles": "Honk the horn to warn other drivers.",
+        "frasePortugues": "Toque a buzina para avisar outros motoristas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 24,
+        "ingles": "Seat belt",
+        "portugues": "Cinto de segurança",
+        "fraseIngles": "Always wear your seat belt while driving.",
+        "frasePortugues": "Sempre use o cinto de segurança ao dirigir.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 25,
+        "ingles": "Airbag",
+        "portugues": "Air bag",
+        "fraseIngles": "The airbag deploys during crashes.",
+        "frasePortugues": "O air bag é acionado durante colisões.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 26,
+        "ingles": "Seat",
+        "portugues": "Banco",
+        "fraseIngles": "Adjust your seat for comfortable driving.",
+        "frasePortugues": "Ajuste seu banco para dirigir confortavelmente.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 27,
+        "ingles": "Headrest",
+        "portugues": "Apoio de cabeça",
+        "fraseIngles": "The headrest prevents whiplash injuries.",
+        "frasePortugues": "O apoio de cabeça previne lesões no pescoço.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 28,
+        "ingles": "Armrest",
+        "portugues": "Apoio de braço",
+        "fraseIngles": "Rest your arm on the center armrest.",
+        "frasePortugues": "Descanse seu braço no apoio de braço central.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 29,
+        "ingles": "Seat adjuster",
+        "portugues": "Regulagem do banco",
+        "fraseIngles": "Use the seat adjuster to find your position.",
+        "frasePortugues": "Use a regulagem do banco para encontrar sua posição.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 30,
+        "ingles": "Door handle",
+        "portugues": "Maçaneta da porta",
+        "fraseIngles": "Pull the door handle to open the door.",
+        "frasePortugues": "Puxe a maçaneta da porta para abrir a porta.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 31,
+        "ingles": "Window",
+        "portugues": "Janela",
+        "fraseIngles": "Roll down the window for fresh air.",
+        "frasePortugues": "Abaixe a janela para ar fresco.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 32,
+        "ingles": "Power window switch",
+        "portugues": "Botão do vidro elétrico",
+        "fraseIngles": "Press the power window switch to open windows.",
+        "frasePortugues": "Pressione o botão do vidro elétrico para abrir as janelas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 33,
+        "ingles": "Door lock",
+        "portugues": "Trava da porta",
+        "fraseIngles": "Engage the door lock for security.",
+        "frasePortugues": "Acione a trava da porta para segurança.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 34,
+        "ingles": "Central locking",
+        "portugues": "Trava elétrica",
+        "fraseIngles": "Use central locking to lock all doors.",
+        "frasePortugues": "Use a trava elétrica para trancar todas as portas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 35,
+        "ingles": "Trunk",
+        "portugues": "Porta-malas",
+        "fraseIngles": "Put your luggage in the trunk.",
+        "frasePortugues": "Coloque sua bagagem no porta-malas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 36,
+        "ingles": "Hood",
+        "portugues": "Capô",
+        "fraseIngles": "Open the hood to check the engine.",
+        "frasePortugues": "Abra o capô para verificar o motor.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 37,
+        "ingles": "Bumper",
+        "portugues": "Para-choque",
+        "fraseIngles": "The bumper protects the car from impacts.",
+        "frasePortugues": "O para-choque protege o carro de impactos.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 38,
+        "ingles": "License plate",
+        "portugues": "Placa",
+        "fraseIngles": "Display your license plate clearly.",
+        "frasePortugues": "Exiba sua placa claramente.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 39,
+        "ingles": "Antenna",
+        "portugues": "Antena",
+        "fraseIngles": "The antenna receives radio signals.",
+        "frasePortugues": "A antena recebe sinais de rádio.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 40,
+        "ingles": "Roof",
+        "portugues": "Teto",
+        "fraseIngles": "The sunroof opens part of the roof.",
+        "frasePortugues": "O teto solar abre parte do teto.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 41,
+        "ingles": "Sunroof",
+        "portugues": "Teto solar",
+        "fraseIngles": "Open the sunroof on sunny days.",
+        "frasePortugues": "Abra o teto solar em dias ensolarados.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 42,
+        "ingles": "Convertible top",
+        "portugues": "Capota conversível",
+        "fraseIngles": "Lower the convertible top for open-air driving.",
+        "frasePortugues": "Abaixe a capota conversível para dirigir ao ar livre.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 43,
+        "ingles": "Tire",
+        "portugues": "Pneu",
+        "fraseIngles": "Check tire pressure regularly.",
+        "frasePortugues": "Verifique a pressão dos pneus regularmente.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 44,
+        "ingles": "Wheel",
+        "portugues": "Roda",
+        "fraseIngles": "Clean the wheels to maintain appearance.",
+        "frasePortugues": "Limpe as rodas para manter a aparência.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 45,
+        "ingles": "Hubcap",
+        "portugues": "Calota",
+        "fraseIngles": "Replace the missing hubcap.",
+        "frasePortugues": "Substitua a calota que está faltando.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 46,
+        "ingles": "Spare tire",
+        "portugues": "Pneu estepe",
+        "fraseIngles": "Keep a spare tire in the trunk.",
+        "frasePortugues": "Mantenha um pneu estepe no porta-malas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 47,
+        "ingles": "Jack",
+        "portugues": "Macaco",
+        "fraseIngles": "Use a jack to change a flat tire.",
+        "frasePortugues": "Use um macaco para trocar um pneu furado.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 48,
+        "ingles": "Lug wrench",
+        "portugues": "Chave de roda",
+        "fraseIngles": "Loosen bolts with the lug wrench.",
+        "frasePortugues": "Afrouxe os parafusos com a chave de roda.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 49,
+        "ingles": "Battery",
+        "portugues": "Bateria",
+        "fraseIngles": "The battery provides electrical power.",
+        "frasePortugues": "A bateria fornece energia elétrica.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 50,
+        "ingles": "Jumper cables",
+        "portugues": "Cabos de chupeta",
+        "fraseIngles": "Use jumper cables to start a dead battery.",
+        "frasePortugues": "Use cabos de chupeta para dar partida em bateria descarregada.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 51,
+        "ingles": "Radiator",
+        "portugues": "Radiador",
+        "fraseIngles": "The radiator cools the engine.",
+        "frasePortugues": "O radiador resfria o motor.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 52,
+        "ingles": "Coolant",
+        "portugues": "Fluido de arrefecimento",
+        "fraseIngles": "Add coolant to prevent overheating.",
+        "frasePortugues": "Adicione fluido de arrefecimento para evitar superaquecimento.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 53,
+        "ingles": "Oil",
+        "portugues": "Óleo",
+        "fraseIngles": "Change the engine oil regularly.",
+        "frasePortugues": "Troque o óleo do motor regularmente.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 54,
+        "ingles": "Oil dipstick",
+        "portugues": "Vareta de óleo",
+        "fraseIngles": "Check oil level with the dipstick.",
+        "frasePortugues": "Verifique o nível de óleo com a vareta.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 55,
+        "ingles": "Oil filter",
+        "portugues": "Filtro de óleo",
+        "fraseIngles": "Replace the oil filter during oil changes.",
+        "frasePortugues": "Substitua o filtro de óleo durante as trocas de óleo.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 56,
+        "ingles": "Air filter",
+        "portugues": "Filtro de ar",
+        "fraseIngles": "Clean the air filter for better performance.",
+        "frasePortugues": "Limpe o filtro de ar para melhor desempenho.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 57,
+        "ingles": "Fuel filter",
+        "portugues": "Filtro de combustível",
+        "fraseIngles": "Replace the fuel filter as recommended.",
+        "frasePortugues": "Substitua o filtro de combustível conforme recomendado.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 58,
+        "ingles": "Spark plug",
+        "portugues": "Vela de ignição",
+        "fraseIngles": "Replace worn spark plugs.",
+        "frasePortugues": "Substitua velas de ignição gastas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 59,
+        "ingles": "Alternator",
+        "portugues": "Alternador",
+        "fraseIngles": "The alternator charges the battery.",
+        "frasePortugues": "O alternador carrega a bateria.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 60,
+        "ingles": "Starter",
+        "portugues": "Motor de arranque",
+        "fraseIngles": "The starter cranks the engine.",
+        "frasePortugues": "O motor de arranque gira o motor.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 61,
+        "ingles": "Carburetor",
+        "portugues": "Carburador",
+        "fraseIngles": "The carburetor mixes fuel and air.",
+        "frasePortugues": "O carburador mistura combustível e ar.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 62,
+        "ingles": "Fuel injector",
+        "portugues": "Bico injetor",
+        "fraseIngles": "Clean fuel injectors for optimal performance.",
+        "frasePortugues": "Limpe os bicos injetores para desempenho ideal.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 63,
+        "ingles": "Exhaust pipe",
+        "portugues": "Cano de escapamento",
+        "fraseIngles": "The exhaust pipe releases engine gases.",
+        "frasePortugues": "O cano de escapamento libera gases do motor.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 64,
+        "ingles": "Muffler",
+        "portugues": "Silenciador",
+        "fraseIngles": "The muffler reduces engine noise.",
+        "frasePortugues": "O silenciador reduz o ruído do motor.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 65,
+        "ingles": "Catalytic converter",
+        "portugues": "Catalisador",
+        "fraseIngles": "The catalytic converter reduces emissions.",
+        "frasePortugues": "O catalisador reduz as emissões.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 66,
+        "ingles": "Transmission",
+        "portugues": "Transmissão",
+        "fraseIngles": "The transmission transfers power to wheels.",
+        "frasePortugues": "A transmissão transfere potência para as rodas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 67,
+        "ingles": "Clutch",
+        "portugues": "Embreagem",
+        "fraseIngles": "The clutch connects engine to transmission.",
+        "frasePortugues": "A embreagem conecta o motor à transmissão.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 68,
+        "ingles": "Drive shaft",
+        "portugues": "Eixo de transmissão",
+        "fraseIngles": "The drive shaft transfers power.",
+        "frasePortugues": "O eixo de transmissão transfere potência.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 69,
+        "ingles": "Differential",
+        "portugues": "Diferencial",
+        "fraseIngles": "The differential allows wheels to turn at different speeds.",
+        "frasePortugues": "O diferencial permite que as rodas girem em velocidades diferentes.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 70,
+        "ingles": "Axle",
+        "portugues": "Eixo",
+        "fraseIngles": "The axle supports the vehicle's weight.",
+        "frasePortugues": "O eixo suporta o peso do veículo.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 71,
+        "ingles": "Suspension",
+        "portugues": "Suspensão",
+        "fraseIngles": "The suspension provides a smooth ride.",
+        "frasePortugues": "A suspensão proporciona um passeio suave.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 72,
+        "ingles": "Shock absorber",
+        "portugues": "Amortecedor",
+        "fraseIngles": "Replace worn shock absorbers.",
+        "frasePortugues": "Substitua amortecedores gastos.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 73,
+        "ingles": "Spring",
+        "portugues": "Mola",
+        "fraseIngles": "The spring supports the vehicle's weight.",
+        "frasePortugues": "A mola suporta o peso do veículo.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 74,
+        "ingles": "Strut",
+        "portugues": "Montante",
+        "fraseIngles": "The strut combines spring and shock absorber.",
+        "frasePortugues": "O montante combina mola e amortecedor.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 75,
+        "ingles": "Brake disc",
+        "portugues": "Disco de freio",
+        "fraseIngles": "Replace warped brake discs.",
+        "frasePortugues": "Substitua discos de freio empenados.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 76,
+        "ingles": "Brake pad",
+        "portugues": "Pastilha de freio",
+        "fraseIngles": "Check brake pads for wear.",
+        "frasePortugues": "Verifique o desgaste das pastilhas de freio.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 77,
+        "ingles": "Brake caliper",
+        "portugues": "Pinça de freio",
+        "fraseIngles": "The brake caliper squeezes the brake pads.",
+        "frasePortugues": "A pinça de freio aperta as pastilhas de freio.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 78,
+        "ingles": "Brake fluid",
+        "portugues": "Fluido de freio",
+        "fraseIngles": "Check brake fluid levels regularly.",
+        "frasePortugues": "Verifique os níveis de fluido de freio regularmente.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 79,
+        "ingles": "Master cylinder",
+        "portugues": "Cilindro mestre",
+        "fraseIngles": "The master cylinder operates the brakes.",
+        "frasePortugues": "O cilindro mestre opera os freios.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 80,
+        "ingles": "Power steering",
+        "portugues": "Direção hidráulica",
+        "fraseIngles": "Power steering makes turning easier.",
+        "frasePortugues": "A direção hidráulica facilita as curvas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 81,
+        "ingles": "Power steering fluid",
+        "portugues": "Fluido da direção hidráulica",
+        "fraseIngles": "Top up power steering fluid as needed.",
+        "frasePortugues": "Complete o fluido da direção hidráulica conforme necessário.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 82,
+        "ingles": "Tie rod",
+        "portugues": "Barra de direção",
+        "fraseIngles": "Replace damaged tie rods.",
+        "frasePortugues": "Substitua barras de direção danificadas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 83,
+        "ingles": "Ball joint",
+        "portugues": "Junta esférica",
+        "fraseIngles": "Lubricate ball joints regularly.",
+        "frasePortugues": "Lubrifique juntas esféricas regularmente.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 84,
+        "ingles": "CV joint",
+        "portugues": "Junta homocinética",
+        "fraseIngles": "Replace worn CV joints.",
+        "frasePortugues": "Substitua juntas homocinéticas gastas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 85,
+        "ingles": "Timing belt",
+        "portugues": "Correia dentada",
+        "fraseIngles": "Replace the timing belt at specified intervals.",
+        "frasePortugues": "Substitua a correia dentada nos intervalos especificados.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 86,
+        "ingles": "Serpentine belt",
+        "portugues": "Correia do alternador",
+        "fraseIngles": "The serpentine belt drives multiple components.",
+        "frasePortugues": "A correia do alternador aciona vários componentes.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 87,
+        "ingles": "Water pump",
+        "portugues": "Bomba d'água",
+        "fraseIngles": "The water pump circulates coolant.",
+        "frasePortugues": "A bomba d'água faz circular o fluido de arrefecimento.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 88,
+        "ingles": "Thermostat",
+        "portugues": "Termostato",
+        "fraseIngles": "The thermostat regulates engine temperature.",
+        "frasePortugues": "O termostato regula a temperatura do motor.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 89,
+        "ingles": "Radiator hose",
+        "portugues": "Mangueira do radiador",
+        "fraseIngles": "Replace cracked radiator hoses.",
+        "frasePortugues": "Substitua mangueiras do radiador rachadas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 90,
+        "ingles": "Heater core",
+        "portugues": "Núcleo do aquecedor",
+        "fraseIngles": "The heater core warms the cabin.",
+        "frasePortugues": "O núcleo do aquecedor aquece o habitáculo.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 91,
+        "ingles": "Blower motor",
+        "portugues": "Motor do ventilador",
+        "fraseIngles": "The blower motor circulates cabin air.",
+        "frasePortugues": "O motor do ventilador faz circular o ar do habitáculo.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 92,
+        "ingles": "Air conditioning compressor",
+        "portugues": "Compressor do ar condicionado",
+        "fraseIngles": "The A/C compressor cools refrigerant.",
+        "frasePortugues": "O compressor do ar condicionado resfria o refrigerante.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 93,
+        "ingles": "Condenser",
+        "portugues": "Condensador",
+        "fraseIngles": "The condenser releases heat from refrigerant.",
+        "frasePortugues": "O condensador libera calor do refrigerante.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 94,
+        "ingles": "Evaporator",
+        "portugues": "Evaporador",
+        "fraseIngles": "The evaporator cools cabin air.",
+        "frasePortugues": "O evaporador resfria o ar do habitáculo.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 95,
+        "ingles": "Cabin air filter",
+        "portugues": "Filtro do ar condicionado",
+        "fraseIngles": "Replace the cabin air filter annually.",
+        "frasePortugues": "Substitua o filtro do ar condicionado anualmente.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 96,
+        "ingles": "Fuse box",
+        "portugues": "Caixa de fusíveis",
+        "fraseIngles": "Check the fuse box for blown fuses.",
+        "frasePortugues": "Verifique a caixa de fusíveis por fusíveis queimados.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 97,
+        "ingles": "Fuse",
+        "portugues": "Fusível",
+        "fraseIngles": "Replace blown fuses immediately.",
+        "frasePortugues": "Substitua fusíveis queimados imediatamente.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 98,
+        "ingles": "Relay",
+        "portugues": "Relé",
+        "fraseIngles": "Test relays if electrical components fail.",
+        "frasePortugues": "Teste relés se componentes elétricos falharem.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 99,
+        "ingles": "Wiring harness",
+        "portugues": "Chicote elétrico",
+        "fraseIngles": "Inspect the wiring harness for damage.",
+        "frasePortugues": "Inspecione o chicote elétrico por danos.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 100,
+        "ingles": "ECU",
+        "portugues": "Central eletrônica",
+        "fraseIngles": "The ECU controls engine functions.",
+        "frasePortugues": "A central eletrônica controla funções do motor.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 101,
+        "ingles": "Oxygen sensor",
+        "portugues": "Sensor de oxigênio",
+        "fraseIngles": "Replace faulty oxygen sensors.",
+        "frasePortugues": "Substitua sensores de oxigênio defeituosos.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 102,
+        "ingles": "Mass airflow sensor",
+        "portugues": "Sensor de fluxo de ar",
+        "fraseIngles": "Clean the mass airflow sensor regularly.",
+        "frasePortugues": "Limpe o sensor de fluxo de ar regularmente.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 103,
+        "ingles": "Throttle body",
+        "portugues": "Corpo de borboleta",
+        "fraseIngles": "Clean the throttle body periodically.",
+        "frasePortugues": "Limpe o corpo de borboleta periodicamente.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 104,
+        "ingles": "Idle air control valve",
+        "portugues": "Válvula de controle de marcha lenta",
+        "fraseIngles": "Clean the idle air control valve.",
+        "frasePortugues": "Limpe a válvula de controle de marcha lenta.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 105,
+        "ingles": "PCV valve",
+        "portugues": "Válvula PCV",
+        "fraseIngles": "Replace the PCV valve as needed.",
+        "frasePortugues": "Substitua a válvula PCV conforme necessário.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 106,
+        "ingles": "EGR valve",
+        "portugues": "Válvula EGR",
+        "fraseIngles": "Clean the EGR valve to reduce emissions.",
+        "frasePortugues": "Limpe a válvula EGR para reduzir emissões.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 107,
+        "ingles": "Fuel pump",
+        "portugues": "Bomba de combustível",
+        "fraseIngles": "The fuel pump delivers gas to the engine.",
+        "frasePortugues": "A bomba de combustível entrega gasolina ao motor.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 108,
+        "ingles": "Fuel tank",
+        "portugues": "Tanque de combustível",
+        "fraseIngles": "Fill the fuel tank before long trips.",
+        "frasePortugues": "Encha o tanque de combustível antes de viagens longas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 109,
+        "ingles": "Fuel cap",
+        "portugues": "Tampa do tanque",
+        "fraseIngles": "Secure the fuel cap after refueling.",
+        "frasePortugues": "Feche bem a tampa do tanque após abastecer.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 110,
+        "ingles": "Gas door",
+        "portugues": "Portinhola do combustível",
+        "fraseIngles": "Open the gas door to access the fuel cap.",
+        "frasePortugues": "Abra a portinhola do combustível para acessar a tampa do tanque.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 111,
+        "ingles": "Radio",
+        "portugues": "Rádio",
+        "fraseIngles": "Tune the radio to your favorite station.",
+        "frasePortugues": "Sintonize o rádio em sua estação favorita.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 112,
+        "ingles": "CD player",
+        "portugues": "Tocador de CD",
+        "fraseIngles": "Insert a CD into the CD player.",
+        "frasePortugues": "Insira um CD no tocador de CD.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 113,
+        "ingles": "MP3 player",
+        "portugues": "Tocador de MP3",
+        "fraseIngles": "Connect your MP3 player to the stereo.",
+        "frasePortugues": "Conecte seu tocador de MP3 ao som.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 114,
+        "ingles": "USB port",
+        "portugues": "Porta USB",
+        "fraseIngles": "Plug your phone into the USB port.",
+        "frasePortugues": "Conecte seu telefone na porta USB.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 115,
+        "ingles": "Aux input",
+        "portugues": "Entrada auxiliar",
+        "fraseIngles": "Use the aux input for external devices.",
+        "frasePortugues": "Use a entrada auxiliar para dispositivos externos.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 116,
+        "ingles": "Bluetooth",
+        "portugues": "Bluetooth",
+        "fraseIngles": "Connect your phone via Bluetooth.",
+        "frasePortugues": "Conecte seu telefone via Bluetooth.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 117,
+        "ingles": "Speakers",
+        "portugues": "Alto-falantes",
+        "fraseIngles": "The speakers produce sound.",
+        "frasePortugues": "Os alto-falantes produzem som.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 118,
+        "ingles": "Amplifier",
+        "portugues": "Amplificador",
+        "fraseIngles": "The amplifier boosts audio signals.",
+        "frasePortugues": "O amplificador aumenta sinais de áudio.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 119,
+        "ingles": "Subwoofer",
+        "portugues": "Subwoofer",
+        "fraseIngles": "The subwoofer produces deep bass.",
+        "frasePortugues": "O subwoofer produz graves profundos.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 120,
+        "ingles": "GPS",
+        "portugues": "GPS",
+        "fraseIngles": "Use GPS for navigation.",
+        "frasePortugues": "Use o GPS para navegação.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 121,
+        "ingles": "Backup camera",
+        "portugues": "Câmera de ré",
+        "fraseIngles": "The backup camera helps when reversing.",
+        "frasePortugues": "A câmera de ré ajuda ao dar ré.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 122,
+        "ingles": "Dash cam",
+        "portugues": "Câmera do painel",
+        "fraseIngles": "Install a dash cam for security.",
+        "frasePortugues": "Instale uma câmera do painel para segurança.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 123,
+        "ingles": "Phone charger",
+        "portugues": "Carregador de telefone",
+        "fraseIngles": "Use the phone charger to charge devices.",
+        "frasePortugues": "Use o carregador de telefone para carregar dispositivos.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 124,
+        "ingles": "Cup holder",
+        "portugues": "Porta-copos",
+        "fraseIngles": "Place drinks in the cup holder.",
+        "frasePortugues": "Coloque bebidas no porta-copos.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 125,
+        "ingles": "Glove compartment",
+        "portugues": "Porta-luvas",
+        "fraseIngles": "Store documents in the glove compartment.",
+        "frasePortugues": "Guarde documentos no porta-luvas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 126,
+        "ingles": "Center console",
+        "portugues": "Console central",
+        "fraseIngles": "Keep small items in the center console.",
+        "frasePortugues": "Mantenha itens pequenos no console central.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 127,
+        "ingles": "Armrest storage",
+        "portugues": "Compartimento do apoio de braço",
+        "fraseIngles": "Store CDs in the armrest storage.",
+        "frasePortugues": "Guarde CDs no compartimento do apoio de braço.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 128,
+        "ingles": "Door pocket",
+        "portugues": "Bolso da porta",
+        "fraseIngles": "Put maps in the door pocket.",
+        "frasePortugues": "Coloque mapas no bolso da porta.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 129,
+        "ingles": "Seatback pocket",
+        "portugues": "Bolso do encosto",
+        "fraseIngles": "Store magazines in the seatback pocket.",
+        "frasePortugues": "Guarde revistas no bolso do encosto.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 130,
+        "ingles": "Sun visor",
+        "portugues": "Para-sol",
+        "fraseIngles": "Use the sun visor to block sunlight.",
+        "frasePortugues": "Use o para-sol para bloquear a luz solar.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 131,
+        "ingles": "Vanity mirror",
+        "portugues": "Espelho do para-sol",
+        "fraseIngles": "Check your appearance in the vanity mirror.",
+        "frasePortugues": "Verifique sua aparência no espelho do para-sol.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 132,
+        "ingles": "Dome light",
+        "portugues": "Luz interna",
+        "fraseIngles": "Turn on the dome light to read.",
+        "frasePortugues": "Ligue a luz interna para ler.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 133,
+        "ingles": "Map light",
+        "portugues": "Luz de leitura",
+        "fraseIngles": "Use the map light to read maps.",
+        "frasePortugues": "Use a luz de leitura para ler mapas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 134,
+        "ingles": "Cigarette lighter",
+        "portugues": "Acendedor de cigarro",
+        "fraseIngles": "The cigarette lighter can power accessories.",
+        "frasePortugues": "O acendedor de cigarro pode alimentar acessórios.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 135,
+        "ingles": "Power outlet",
+        "portugues": "Tomada de força",
+        "fraseIngles": "Plug devices into the power outlet.",
+        "frasePortugues": "Conecte dispositivos na tomada de força.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 136,
+        "ingles": "Floor mat",
+        "portugues": "Tapete",
+        "fraseIngles": "Protect the carpet with floor mats.",
+        "frasePortugues": "Proteja o carpete com tapetes.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 137,
+        "ingles": "Seat cover",
+        "portugues": "Capa de banco",
+        "fraseIngles": "Use seat covers to protect upholstery.",
+        "frasePortugues": "Use capas de banco para proteger o estofamento.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 138,
+        "ingles": "Steering wheel cover",
+        "portugues": "Capa de volante",
+        "fraseIngles": "Install a steering wheel cover for grip.",
+        "frasePortugues": "Instale uma capa de volante para aderência.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 139,
+        "ingles": "Shift knob",
+        "portugues": "Bola do câmbio",
+        "fraseIngles": "Replace the worn shift knob.",
+        "frasePortugues": "Substitua a bola do câmbio gasta.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 140,
+        "ingles": "Pedal covers",
+        "portugues": "Capas de pedal",
+        "fraseIngles": "Install pedal covers for better grip.",
+        "frasePortugues": "Instale capas de pedal para melhor aderência.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 141,
+        "ingles": "Window tint",
+        "portugues": "Película",
+        "fraseIngles": "Apply window tint for privacy.",
+        "frasePortugues": "Aplique película para privacidade.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 142,
+        "ingles": "Air freshener",
+        "portugues": "Aromatizador",
+        "fraseIngles": "Hang an air freshener for pleasant scent.",
+        "frasePortugues": "Pendure um aromatizador para cheiro agradável.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 143,
+        "ingles": "Emergency kit",
+        "portugues": "Kit de emergência",
+        "fraseIngles": "Keep an emergency kit in your car.",
+        "frasePortugues": "Mantenha um kit de emergência no seu carro.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 144,
+        "ingles": "First aid kit",
+        "portugues": "Kit de primeiros socorros",
+        "fraseIngles": "Store a first aid kit for injuries.",
+        "frasePortugues": "Guarde um kit de primeiros socorros para ferimentos.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 145,
+        "ingles": "Fire extinguisher",
+        "portugues": "Extintor de incêndio",
+        "fraseIngles": "Keep a small fire extinguisher handy.",
+        "frasePortugues": "Mantenha um pequeno extintor de incêndio à mão.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 146,
+        "ingles": "Reflective triangles",
+        "portugues": "Triângulos refletivos",
+        "fraseIngles": "Place reflective triangles behind broken-down cars.",
+        "frasePortugues": "Coloque triângulos refletivos atrás de carros quebrados.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 147,
+        "ingles": "Flare",
+        "portugues": "Sinalizador",
+        "fraseIngles": "Light flares to warn other drivers.",
+        "frasePortugues": "Acenda sinalizadores para avisar outros motoristas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 148,
+        "ingles": "Flashlight",
+        "portugues": "Lanterna",
+        "fraseIngles": "Use a flashlight for nighttime repairs.",
+        "frasePortugues": "Use uma lanterna para reparos noturnos.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 149,
+        "ingles": "Multi-tool",
+        "portugues": "Ferramenta multifuncional",
+        "fraseIngles": "A multi-tool is useful for small repairs.",
+        "frasePortugues": "Uma ferramenta multifuncional é útil para pequenos reparos.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 150,
+        "ingles": "Screwdriver set",
+        "portugues": "Conjunto de chaves de fenda",
+        "fraseIngles": "Keep a screwdriver set for adjustments.",
+        "frasePortugues": "Mantenha um conjunto de chaves de fenda para ajustes.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 151,
+        "ingles": "Wrench set",
+        "portugues": "Conjunto de chaves",
+        "fraseIngles": "Use wrenches for mechanical work.",
+        "frasePortugues": "Use chaves para trabalho mecânico.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 152,
+        "ingles": "Socket set",
+        "portugues": "Conjunto de soquetes",
+        "fraseIngles": "A socket set helps with bolt removal.",
+        "frasePortugues": "Um conjunto de soquetes ajuda na remoção de parafusos.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 153,
+        "ingles": "Tire gauge",
+        "portugues": "Calibrador de pneus",
+        "fraseIngles": "Check tire pressure with a tire gauge.",
+        "frasePortugues": "Verifique a pressão dos pneus com um calibrador.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 154,
+        "ingles": "Tire pump",
+        "portugues": "Bomba de pneu",
+        "fraseIngles": "Inflate tires with a portable tire pump.",
+        "frasePortugues": "Encha pneus com uma bomba de pneu portátil.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 155,
+        "ingles": "Booster seat",
+        "portugues": "Cadeirinha",
+        "fraseIngles": "Use a booster seat for child safety.",
+        "frasePortugues": "Use uma cadeirinha para segurança infantil.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 156,
+        "ingles": "Car seat",
+        "portugues": "Cadeira de bebê",
+        "fraseIngles": "Install a car seat for infants.",
+        "frasePortugues": "Instale uma cadeira de bebê para crianças pequenas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 157,
+        "ingles": "Pet barrier",
+        "portugues": "Divisória para pets",
+        "fraseIngles": "Use a pet barrier to separate pets.",
+        "frasePortugues": "Use uma divisória para pets para separar animais.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 158,
+        "ingles": "Cargo net",
+        "portugues": "Rede de carga",
+        "fraseIngles": "Secure items with a cargo net.",
+        "frasePortugues": "Fixe itens com uma rede de carga.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 159,
+        "ingles": "Cargo organizer",
+        "portugues": "Organizador de porta-malas",
+        "fraseIngles": "Use a cargo organizer to sort items.",
+        "frasePortugues": "Use um organizador de porta-malas para organizar itens.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 160,
+        "ingles": "Roof rack",
+        "portugues": "Bagageiro de teto",
+        "fraseIngles": "Attach a roof rack for extra storage.",
+        "frasePortugues": "Instale um bagageiro de teto para armazenamento extra.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 161,
+        "ingles": "Roof box",
+        "portugues": "Bagageiro",
+        "fraseIngles": "Store luggage in the roof box.",
+        "frasePortugues": "Guarde bagagens no bagageiro.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 162,
+        "ingles": "Bike rack",
+        "portugues": "Suporte para bicicleta",
+        "fraseIngles": "Transport bikes with a bike rack.",
+        "frasePortugues": "Transporte bicicletas com um suporte para bicicleta.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 163,
+        "ingles": "Trailer hitch",
+        "portugues": "Engate para reboque",
+        "fraseIngles": "Install a trailer hitch for towing.",
+        "frasePortugues": "Instale um engate para reboque para rebocar.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 164,
+        "ingles": "Tow strap",
+        "portugues": "Corda de reboque",
+        "fraseIngles": "Use a tow strap to pull stuck vehicles.",
+        "frasePortugues": "Use uma corda de reboque para puxar veículos atolados.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 165,
+        "ingles": "Mud flaps",
+        "portugues": "Para-lamas",
+        "fraseIngles": "Install mud flaps to protect paint.",
+        "frasePortugues": "Instale para-lamas para proteger a pintura.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 166,
+        "ingles": "Running boards",
+        "portugues": "Estribos",
+        "fraseIngles": "Use running boards to enter tall vehicles.",
+        "frasePortugues": "Use estribos para entrar em veículos altos.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 167,
+        "ingles": "Fog lights",
+        "portugues": "Faróis de neblina",
+        "fraseIngles": "Turn on fog lights in poor visibility.",
+        "frasePortugues": "Ligue os faróis de neblina com pouca visibilidade.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 168,
+        "ingles": "Driving lights",
+        "portugues": "Faróis auxiliares",
+        "fraseIngles": "Use driving lights for better illumination.",
+        "frasePortugues": "Use faróis auxiliares para melhor iluminação.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 169,
+        "ingles": "Light bar",
+        "portugues": "Barra de LED",
+        "fraseIngles": "Install a light bar for off-road driving.",
+        "frasePortugues": "Instale uma barra de LED para dirigir fora de estrada.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 170,
+        "ingles": "Bull bar",
+        "portugues": "Quebra-mato",
+        "fraseIngles": "A bull bar protects the front end.",
+        "frasePortugues": "Um quebra-mato protege a frente.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 171,
+        "ingles": "Skid plate",
+        "portugues": "Protetor de cárter",
+        "fraseIngles": "Install skid plates for off-road protection.",
+        "frasePortugues": "Instale protetores de cárter para proteção fora de estrada.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 172,
+        "ingles": "Winch",
+        "portugues": "Guincho",
+        "fraseIngles": "Use a winch to pull vehicles out.",
+        "frasePortugues": "Use um guincho para puxar veículos.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 173,
+        "ingles": "Snorkel",
+        "portugues": "Snorkel",
+        "fraseIngles": "A snorkel allows engine breathing underwater.",
+        "frasePortugues": "Um snorkel permite respiração do motor embaixo d'água.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 174,
+        "ingles": "Roll cage",
+        "portugues": "Gaiola de proteção",
+        "fraseIngles": "Install a roll cage for racing safety.",
+        "frasePortugues": "Instale uma gaiola de proteção para segurança em corridas.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 175,
+        "ingles": "Racing harness",
+        "portugues": "Cinto de corrida",
+        "fraseIngles": "Use a racing harness for track driving.",
+        "frasePortugues": "Use um cinto de corrida para dirigir na pista.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 176,
+        "ingles": "Performance exhaust",
+        "portugues": "Escapamento esportivo",
+        "fraseIngles": "Install performance exhaust for more power.",
+        "frasePortugues": "Instale escapamento esportivo para mais potência.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 177,
+        "ingles": "Cold air intake",
+        "portugues": "Filtro de ar esportivo",
+        "fraseIngles": "A cold air intake improves engine breathing.",
+        "frasePortugues": "Um filtro de ar esportivo melhora a respiração do motor.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 178,
+        "ingles": "Turbocharger",
+        "portugues": "Turbocompressor",
+        "fraseIngles": "A turbocharger increases engine power.",
+        "frasePortugues": "Um turbocompressor aumenta a potência do motor.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 179,
+        "ingles": "Supercharger",
+        "portugues": "Compressor",
+        "fraseIngles": "A supercharger boosts engine performance.",
+        "frasePortugues": "Um compressor aumenta o desempenho do motor.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 180,
+        "ingles": "Intercooler",
+        "portugues": "Intercooler",
+        "fraseIngles": "An intercooler cools compressed air.",
+        "frasePortugues": "Um intercooler resfria o ar comprimido.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 181,
+        "ingles": "Nitrous system",
+        "portugues": "Sistema de nitro",
+        "fraseIngles": "A nitrous system provides extra power.",
+        "frasePortugues": "Um sistema de nitro fornece potência extra.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    },
+    {
+        "id": 182,
+        "ingles": "ECU tune",
+        "portugues": "Reprogramação",
+        "fraseIngles": "An ECU tune optimizes engine performance.",
+        "frasePortugues": "Uma reprogramação otimiza o desempenho do motor.",
+        "subtopico": "Carro",
+        "topico": "Objetos"
+    }
+]
