@@ -1,0 +1,24 @@
+What is your name?
+Qual é o seu nome?
+Excuse me, what’s your name?
+Com licença, qual é o seu nome?
+My name is Jessica. What’s yours?
+Meu nome é Jessica. E o seu?
+John.
+John.
+You speak English very well.
+Você fala inglês muito bem.
+Thank you.
+Obrigado.
+Do you know what time it is?
+Você sabe que horas são?
+Sure. It’s 5:10PM.
+Claro. São 5:10 da tarde.
+What did you say?
+O que você disse?
+I said it’s 5:10PM.
+Eu disse que são 5:10 da tarde.
+Thanks.
+Obrigado.
+You’re welcome.
+De nada.

@@ -1,0 +1,24 @@
+Where are you from?
+De onde você é?
+Hello.
+Olá.
+Hi.
+Oi.
+How are you?
+Como você está?
+I’m good. How are you?
+Estou bem. Como você está?
+Good. Do you speak English?
+Bem. Você fala inglês?
+A little. Are you American?
+Um pouco. Você é americano?
+Yes.
+Sim.
+Where are you from?
+De onde você é?
+I’m from California.
+Sou da Califórnia.
+Nice to meet you.
+Prazer em conhecê-lo.
+Nice to meet you too.
+Prazer em conhecê-lo também.

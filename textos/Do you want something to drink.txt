@@ -1,0 +1,24 @@
+Do you want something to drink?
+Você quer algo para beber?
+David, would you like something to eat?
+David, você gostaria de comer algo?
+No, I’m full.
+Não, estou cheio.
+Do you want something to drink?
+Você quer algo para beber?
+Yes, I’d like some coffee.
+Sim, eu gostaria de um pouco de café.
+Sorry, I don’t have any coffee.
+Desculpe, não tenho café.
+That’s OK. I’ll have a glass of water.
+Tudo bem. Eu vou querer um copo de água.
+A small glass, or a big one?
+Um copo pequeno ou grande?
+Small please.
+Pequeno, por favor.
+Here you are.
+Aqui está.
+Thanks.
+Obrigado.
+You’re welcome.
+De nada.
