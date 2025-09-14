@@ -1,0 +1,50 @@
+[
+    {
+        "ingles": "What is your name?",
+        "portugues": "Qual é o seu nome?"
+    },
+    {
+        "ingles": "Excuse me, whats your name?",
+        "portugues": "Com licença, qual é o seu nome?"
+    },
+    {
+        "ingles": "My name is Jessica. Whats yours?",
+        "portugues": "Meu nome é Jessica. E o seu?"
+    },
+    {
+        "ingles": "John.",
+        "portugues": "John."
+    },
+    {
+        "ingles": "You speak English very well.",
+        "portugues": "Você fala inglês muito bem."
+    },
+    {
+        "ingles": "Thank you.",
+        "portugues": "Obrigado."
+    },
+    {
+        "ingles": "Do you know what time it is?",
+        "portugues": "Você sabe que horas são?"
+    },
+    {
+        "ingles": "Sure. Its 5:10PM.",
+        "portugues": "Claro. São 5:10 da tarde."
+    },
+    {
+        "ingles": "What did you say?",
+        "portugues": "O que você disse?"
+    },
+    {
+        "ingles": "I said its 5:10PM.",
+        "portugues": "Eu disse que são 5:10 da tarde."
+    },
+    {
+        "ingles": "Thanks.",
+        "portugues": "Obrigado."
+    },
+    {
+        "ingles": "Youre welcome.",
+        "portugues": "De nada."
+    }
+]

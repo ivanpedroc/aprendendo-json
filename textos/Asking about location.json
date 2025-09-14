@@ -1,0 +1,50 @@
+[
+    {
+        "ingles": "Asking about location",
+        "portugues": "Perguntando sobre localização"
+    },
+    {
+        "ingles": "Excuse me, Im looking for the Holiday Inn. Do you know where it is?",
+        "portugues": "Desculpe-me, eu estou procurando o Holiday Inn. Você sabe onde fica?"
+    },
+    {
+        "ingles": "Sure. Its down this street on the left.",
+        "portugues": "Claro. É descendo esta rua à esquerda."
+    },
+    {
+        "ingles": "Is it far from here?",
+        "portugues": "É longe daqui?"
+    },
+    {
+        "ingles": "No, its not far.",
+        "portugues": "Não, não é longe."
+    },
+    {
+        "ingles": "How far is it?",
+        "portugues": "Quão longe fica?"
+    },
+    {
+        "ingles": "About a mile and a half.",
+        "portugues": "Mais ou menos uma milha e meia."
+    },
+    {
+        "ingles": "How long does it take to get there?",
+        "portugues": "Quanto tempo demora pra chegar lá?"
+    },
+    {
+        "ingles": "5 minutes or so.",
+        "portugues": "5 minutos ou mais."
+    },
+    {
+        "ingles": "Is it close to the subway station?",
+        "portugues": "É perto da estação do metrô?"
+    },
+    {
+        "ingles": "Yes, its very close. The subway station is next to the hotel. You can walk there.",
+        "portugues": "Sim, bem perto. A estação do metrô fica ao lado do hotel. Você pode ir a pé."
+    },
+    {
+        "ingles": "Thanks a lot.",
+        "portugues": "Muito obrigado."
+    }
+]

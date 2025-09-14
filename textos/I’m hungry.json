@@ -1,0 +1,46 @@
+[
+    {
+        "ingles": "Im hungry",
+        "portugues": "Eu estou com fome"
+    },
+    {
+        "ingles": "Hi Sarah, how are you?",
+        "portugues": "Oi Sarah, como você está?"
+    },
+    {
+        "ingles": "Fine, how are you doing?",
+        "portugues": "Bem, e você?"
+    },
+    {
+        "ingles": "OK.",
+        "portugues": "Ok."
+    },
+    {
+        "ingles": "What do you want to do?",
+        "portugues": "O que você quer fazer?"
+    },
+    {
+        "ingles": "Im hungry. Id like to eat something.",
+        "portugues": "Estou com fome. Gostaria de comer algo."
+    },
+    {
+        "ingles": "Where do you want to go?",
+        "portugues": "Para onde você quer ir?"
+    },
+    {
+        "ingles": "Id like to go to an Italian restaurant.",
+        "portugues": "Eu gostaria de ir a um restaurante italiano."
+    },
+    {
+        "ingles": "What kind of Italian food do you like?",
+        "portugues": "Que tipo de comida italiana você gosta?"
+    },
+    {
+        "ingles": "I like spaghetti. Do you like spaghetti?",
+        "portugues": "Eu gosto de espaguete. Você gosta de espaguete?"
+    },
+    {
+        "ingles": "No, I dont, but I like pizza.",
+        "portugues": "Não, eu não gosto, mas gosto de pizza."
+    }
+]
