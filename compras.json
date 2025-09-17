@@ -1,0 +1,1820 @@
+[
+    {
+        "id": 1,
+        "ingles": "Shopping",
+        "portugues": "Compras",
+        "fraseIngles": "I love shopping on weekends.",
+        "frasePortugues": "Adoro fazer compras nos fins de semana.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 2,
+        "ingles": "Store",
+        "portugues": "Loja",
+        "fraseIngles": "What time does the store open?",
+        "frasePortugues": "Que horas a loja abre?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 3,
+        "ingles": "Shop",
+        "portugues": "Loja / Fazer compras",
+        "fraseIngles": "Let's shop for clothes today.",
+        "frasePortugues": "Vamos comprar roupas hoje.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 4,
+        "ingles": "Mall",
+        "portugues": "Shopping center",
+        "fraseIngles": "The mall has many stores.",
+        "frasePortugues": "O shopping tem muitas lojas.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 5,
+        "ingles": "Market",
+        "portugues": "Mercado",
+        "fraseIngles": "The farmers market is on Saturdays.",
+        "frasePortugues": "A feira livre é aos sábados.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 6,
+        "ingles": "Supermarket",
+        "portugues": "Supermercado",
+        "fraseIngles": "I need to go to the supermarket.",
+        "frasePortugues": "Preciso ir ao supermercado.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 7,
+        "ingles": "Department store",
+        "portugues": "Loja de departamentos",
+        "fraseIngles": "This department store has everything.",
+        "frasePortugues": "Esta loja de departamentos tem tudo.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 8,
+        "ingles": "Boutique",
+        "portugues": "Boutique",
+        "fraseIngles": "She owns a small boutique.",
+        "frasePortugues": "Ela tem uma pequena boutique.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 9,
+        "ingles": "Outlet",
+        "portugues": "Outlet",
+        "fraseIngles": "The outlet has great discounts.",
+        "frasePortugues": "O outlet tem ótimos descontos.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 10,
+        "ingles": "Thrift store",
+        "portugues": "Brechó",
+        "fraseIngles": "I found this jacket at a thrift store.",
+        "frasePortugues": "Encontrei esta jaqueta num brechó.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 11,
+        "ingles": "Customer",
+        "portugues": "Cliente",
+        "fraseIngles": "The customer is always right.",
+        "frasePortugues": "O cliente sempre tem razão.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 12,
+        "ingles": "Salesperson",
+        "portugues": "Vendedor",
+        "fraseIngles": "The salesperson was very helpful.",
+        "frasePortugues": "O vendedor foi muito prestativo.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 13,
+        "ingles": "Cashier",
+        "portugues": "Caixa",
+        "fraseIngles": "Please pay at the cashier.",
+        "frasePortugues": "Por favor, pague no caixa.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 14,
+        "ingles": "Manager",
+        "portugues": "Gerente",
+        "fraseIngles": "Can I speak to the manager?",
+        "frasePortugues": "Posso falar com o gerente?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 15,
+        "ingles": "Assistant",
+        "portugues": "Assistente",
+        "fraseIngles": "The sales assistant helped me choose.",
+        "frasePortugues": "O assistente de vendas me ajudou a escolher.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 16,
+        "ingles": "Help",
+        "portugues": "Ajuda",
+        "fraseIngles": "Can I help you find anything?",
+        "frasePortugues": "Posso ajudá-lo a encontrar algo?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 17,
+        "ingles": "Service",
+        "portugues": "Atendimento",
+        "fraseIngles": "The customer service is excellent.",
+        "frasePortugues": "O atendimento ao cliente é excelente.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 18,
+        "ingles": "Browse",
+        "portugues": "Dar uma olhada",
+        "fraseIngles": "I'm just browsing, thank you.",
+        "frasePortugues": "Estou só dando uma olhada, obrigado.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 19,
+        "ingles": "Look",
+        "portugues": "Olhar",
+        "fraseIngles": "I'm looking for a blue shirt.",
+        "frasePortugues": "Estou procurando uma camisa azul.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 20,
+        "ingles": "Find",
+        "portugues": "Encontrar",
+        "fraseIngles": "Did you find what you need?",
+        "frasePortugues": "Você encontrou o que precisa?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 21,
+        "ingles": "Search",
+        "portugues": "Procurar",
+        "fraseIngles": "I'm searching for the perfect gift.",
+        "frasePortugues": "Estou procurando o presente perfeito.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 22,
+        "ingles": "Buy",
+        "portugues": "Comprar",
+        "fraseIngles": "I want to buy this dress.",
+        "frasePortugues": "Quero comprar este vestido.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 23,
+        "ingles": "Purchase",
+        "portugues": "Comprar",
+        "fraseIngles": "I'd like to purchase these items.",
+        "frasePortugues": "Gostaria de comprar estes itens.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 24,
+        "ingles": "Sell",
+        "portugues": "Vender",
+        "fraseIngles": "Do you sell electronics here?",
+        "frasePortugues": "Vocês vendem eletrônicos aqui?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 25,
+        "ingles": "Price",
+        "portugues": "Preço",
+        "fraseIngles": "What's the price of this jacket?",
+        "frasePortugues": "Qual é o preço desta jaqueta?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 26,
+        "ingles": "Cost",
+        "portugues": "Custar",
+        "fraseIngles": "How much does this cost?",
+        "frasePortugues": "Quanto isso custa?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 27,
+        "ingles": "Expensive",
+        "portugues": "Caro",
+        "fraseIngles": "This watch is too expensive.",
+        "frasePortugues": "Este relógio é caro demais.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 28,
+        "ingles": "Cheap",
+        "portugues": "Barato",
+        "fraseIngles": "I'm looking for something cheap.",
+        "frasePortugues": "Estou procurando algo barato.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 29,
+        "ingles": "Affordable",
+        "portugues": "Acessível",
+        "fraseIngles": "These prices are very affordable.",
+        "frasePortugues": "Estes preços são muito acessíveis.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 30,
+        "ingles": "Reasonable",
+        "portugues": "Razoável",
+        "fraseIngles": "The price seems reasonable.",
+        "frasePortugues": "O preço parece razoável.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 31,
+        "ingles": "Overpriced",
+        "portugues": "Caro demais",
+        "fraseIngles": "I think this is overpriced.",
+        "frasePortugues": "Acho que isso está caro demais.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 32,
+        "ingles": "Bargain",
+        "portugues": "Pechincha",
+        "fraseIngles": "This is a real bargain!",
+        "frasePortugues": "Isso é uma verdadeira pechincha!",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 33,
+        "ingles": "Deal",
+        "portugues": "Oferta",
+        "fraseIngles": "That's a great deal!",
+        "frasePortugues": "Essa é uma ótima oferta!",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 34,
+        "ingles": "Discount",
+        "portugues": "Desconto",
+        "fraseIngles": "Is there a discount on this item?",
+        "frasePortugues": "Há desconto neste item?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 35,
+        "ingles": "Sale",
+        "portugues": "Promoção",
+        "fraseIngles": "Everything is on sale today.",
+        "frasePortugues": "Tudo está em promoção hoje.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 36,
+        "ingles": "Clearance",
+        "portugues": "Liquidação",
+        "fraseIngles": "The clearance section is upstairs.",
+        "frasePortugues": "A seção de liquidação fica no andar de cima.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 37,
+        "ingles": "Special offer",
+        "portugues": "Oferta especial",
+        "fraseIngles": "We have a special offer this week.",
+        "frasePortugues": "Temos uma oferta especial esta semana.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 38,
+        "ingles": "Promotion",
+        "portugues": "Promoção",
+        "fraseIngles": "What promotions do you have?",
+        "frasePortugues": "Que promoções vocês têm?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 39,
+        "ingles": "Coupon",
+        "portugues": "Cupom",
+        "fraseIngles": "Do you accept this coupon?",
+        "frasePortugues": "Vocês aceitam este cupom?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 40,
+        "ingles": "Voucher",
+        "portugues": "Vale",
+        "fraseIngles": "I have a gift voucher.",
+        "frasePortugues": "Tenho um vale-presente.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 41,
+        "ingles": "Gift card",
+        "portugues": "Cartão-presente",
+        "fraseIngles": "Can I pay with a gift card?",
+        "frasePortugues": "Posso pagar com cartão-presente?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 42,
+        "ingles": "Receipt",
+        "portugues": "Recibo",
+        "fraseIngles": "Can I have a receipt, please?",
+        "frasePortugues": "Posso ter um recibo, por favor?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 43,
+        "ingles": "Return",
+        "portugues": "Devolução",
+        "fraseIngles": "What's your return policy?",
+        "frasePortugues": "Qual é a política de devolução?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 44,
+        "ingles": "Exchange",
+        "portugues": "Troca",
+        "fraseIngles": "Can I exchange this for a different size?",
+        "frasePortugues": "Posso trocar isso por um tamanho diferente?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 45,
+        "ingles": "Refund",
+        "portugues": "Reembolso",
+        "fraseIngles": "I'd like a refund, please.",
+        "frasePortugues": "Gostaria de um reembolso, por favor.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 46,
+        "ingles": "Warranty",
+        "portugues": "Garantia",
+        "fraseIngles": "Does this come with a warranty?",
+        "frasePortugues": "Isso vem com garantia?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 47,
+        "ingles": "Quality",
+        "portugues": "Qualidade",
+        "fraseIngles": "The quality of this product is excellent.",
+        "frasePortugues": "A qualidade deste produto é excelente.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 48,
+        "ingles": "Brand",
+        "portugues": "Marca",
+        "fraseIngles": "What brand is this?",
+        "frasePortugues": "Que marca é esta?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 49,
+        "ingles": "Size",
+        "portugues": "Tamanho",
+        "fraseIngles": "What size do you wear?",
+        "frasePortugues": "Que tamanho você veste?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 50,
+        "ingles": "Small",
+        "portugues": "Pequeno",
+        "fraseIngles": "Do you have this in small?",
+        "frasePortugues": "Vocês têm isso no tamanho pequeno?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 51,
+        "ingles": "Medium",
+        "portugues": "Médio",
+        "fraseIngles": "I usually wear medium.",
+        "frasePortugues": "Normalmente uso médio.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 52,
+        "ingles": "Large",
+        "portugues": "Grande",
+        "fraseIngles": "This is too large for me.",
+        "frasePortugues": "Isso é grande demais para mim.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 53,
+        "ingles": "Extra large",
+        "portugues": "Extra grande",
+        "fraseIngles": "Do you have extra large?",
+        "frasePortugues": "Vocês têm extra grande?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 54,
+        "ingles": "Fit",
+        "portugues": "Servir",
+        "fraseIngles": "This doesn't fit me well.",
+        "frasePortugues": "Isso não me serve bem.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 55,
+        "ingles": "Try on",
+        "portugues": "Experimentar",
+        "fraseIngles": "Can I try this on?",
+        "frasePortugues": "Posso experimentar isso?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 56,
+        "ingles": "Fitting room",
+        "portugues": "Provador",
+        "fraseIngles": "Where's the fitting room?",
+        "frasePortugues": "Onde fica o provador?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 57,
+        "ingles": "Mirror",
+        "portugues": "Espelho",
+        "fraseIngles": "Is there a mirror here?",
+        "frasePortugues": "Há um espelho aqui?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 58,
+        "ingles": "Color",
+        "portugues": "Cor",
+        "fraseIngles": "What colors do you have?",
+        "frasePortugues": "Que cores vocês têm?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 59,
+        "ingles": "Red",
+        "portugues": "Vermelho",
+        "fraseIngles": "I prefer the red one.",
+        "frasePortugues": "Prefiro o vermelho.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 60,
+        "ingles": "Blue",
+        "portugues": "Azul",
+        "fraseIngles": "Do you have this in blue?",
+        "frasePortugues": "Vocês têm isso em azul?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 61,
+        "ingles": "Green",
+        "portugues": "Verde",
+        "fraseIngles": "The green shirt looks nice.",
+        "frasePortugues": "A camisa verde fica bonita.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 62,
+        "ingles": "Black",
+        "portugues": "Preto",
+        "fraseIngles": "I'm looking for a black dress.",
+        "frasePortugues": "Estou procurando um vestido preto.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 63,
+        "ingles": "White",
+        "portugues": "Branco",
+        "fraseIngles": "White shoes get dirty easily.",
+        "frasePortugues": "Sapatos brancos sujam facilmente.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 64,
+        "ingles": "Gray",
+        "portugues": "Cinza",
+        "fraseIngles": "Gray is a neutral color.",
+        "frasePortugues": "Cinza é uma cor neutra.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 65,
+        "ingles": "Brown",
+        "portugues": "Marrom",
+        "fraseIngles": "These brown boots are comfortable.",
+        "frasePortugues": "Essas botas marrons são confortáveis.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 66,
+        "ingles": "Yellow",
+        "portugues": "Amarelo",
+        "fraseIngles": "Yellow is too bright for me.",
+        "frasePortugues": "Amarelo é muito chamativo para mim.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 67,
+        "ingles": "Pink",
+        "portugues": "Rosa",
+        "fraseIngles": "She loves pink dresses.",
+        "frasePortugues": "Ela adora vestidos rosa.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 68,
+        "ingles": "Purple",
+        "portugues": "Roxo",
+        "fraseIngles": "Purple is my favorite color.",
+        "frasePortugues": "Roxo é minha cor favorita.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 69,
+        "ingles": "Orange",
+        "portugues": "Laranja",
+        "fraseIngles": "Orange is a vibrant color.",
+        "frasePortugues": "Laranja é uma cor vibrante.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 70,
+        "ingles": "Style",
+        "portugues": "Estilo",
+        "fraseIngles": "I like this style better.",
+        "frasePortugues": "Gosto mais deste estilo.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 71,
+        "ingles": "Fashion",
+        "portugues": "Moda",
+        "fraseIngles": "She follows the latest fashion.",
+        "frasePortugues": "Ela segue a moda mais recente.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 72,
+        "ingles": "Trendy",
+        "portugues": "Na moda",
+        "fraseIngles": "This jacket is very trendy.",
+        "frasePortugues": "Esta jaqueta está muito na moda.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 73,
+        "ingles": "Classic",
+        "portugues": "Clássico",
+        "fraseIngles": "I prefer classic styles.",
+        "frasePortugues": "Prefiro estilos clássicos.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 74,
+        "ingles": "Modern",
+        "portugues": "Moderno",
+        "fraseIngles": "This design is very modern.",
+        "frasePortugues": "Este design é muito moderno.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 75,
+        "ingles": "Casual",
+        "portugues": "Casual",
+        "fraseIngles": "I need casual clothes for work.",
+        "frasePortugues": "Preciso de roupas casuais para o trabalho.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 76,
+        "ingles": "Formal",
+        "portugues": "Formal",
+        "fraseIngles": "Do you have formal wear?",
+        "frasePortugues": "Vocês têm roupas formais?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 77,
+        "ingles": "Clothes",
+        "portugues": "Roupas",
+        "fraseIngles": "I need new clothes for summer.",
+        "frasePortugues": "Preciso de roupas novas para o verão.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 78,
+        "ingles": "Clothing",
+        "portugues": "Vestuário",
+        "fraseIngles": "The clothing section is downstairs.",
+        "frasePortugues": "A seção de vestuário fica no andar de baixo.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 79,
+        "ingles": "Shirt",
+        "portugues": "Camisa",
+        "fraseIngles": "This shirt is made of cotton.",
+        "frasePortugues": "Esta camisa é feita de algodão.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 80,
+        "ingles": "T-shirt",
+        "portugues": "Camiseta",
+        "fraseIngles": "I bought three t-shirts.",
+        "frasePortugues": "Comprei três camisetas.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 81,
+        "ingles": "Blouse",
+        "portugues": "Blusa",
+        "fraseIngles": "The blouse matches the skirt.",
+        "frasePortugues": "A blusa combina com a saia.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 82,
+        "ingles": "Dress",
+        "portugues": "Vestido",
+        "fraseIngles": "I need a dress for the wedding.",
+        "frasePortugues": "Preciso de um vestido para o casamento.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 83,
+        "ingles": "Skirt",
+        "portugues": "Saia",
+        "fraseIngles": "This skirt is too short.",
+        "frasePortugues": "Esta saia é curta demais.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 84,
+        "ingles": "Pants",
+        "portugues": "Calças",
+        "fraseIngles": "These pants are comfortable.",
+        "frasePortugues": "Essas calças são confortáveis.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 85,
+        "ingles": "Jeans",
+        "portugues": "Jeans",
+        "fraseIngles": "I wear jeans every day.",
+        "frasePortugues": "Uso jeans todo dia.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 86,
+        "ingles": "Shorts",
+        "portugues": "Shorts",
+        "fraseIngles": "It's too hot for long pants, I need shorts.",
+        "frasePortugues": "Está calor demais para calças compridas, preciso de shorts.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 87,
+        "ingles": "Jacket",
+        "portugues": "Jaqueta",
+        "fraseIngles": "This jacket keeps me warm.",
+        "frasePortugues": "Esta jaqueta me mantém aquecido.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 88,
+        "ingles": "Coat",
+        "portugues": "Casaco",
+        "fraseIngles": "I need a winter coat.",
+        "frasePortugues": "Preciso de um casaco de inverno.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 89,
+        "ingles": "Sweater",
+        "portugues": "Suéter",
+        "fraseIngles": "This sweater is very soft.",
+        "frasePortugues": "Este suéter é muito macio.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 90,
+        "ingles": "Cardigan",
+        "portugues": "Cardigã",
+        "fraseIngles": "The cardigan can be worn open or closed.",
+        "frasePortugues": "O cardigã pode ser usado aberto ou fechado.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 91,
+        "ingles": "Hoodie",
+        "portugues": "Moletom com capuz",
+        "fraseIngles": "He always wears a hoodie.",
+        "frasePortugues": "Ele sempre usa moletom com capuz.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 92,
+        "ingles": "Suit",
+        "portugues": "Terno",
+        "fraseIngles": "I need a new suit for interviews.",
+        "frasePortugues": "Preciso de um terno novo para entrevistas.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 93,
+        "ingles": "Tie",
+        "portugues": "Gravata",
+        "fraseIngles": "The tie matches the shirt.",
+        "frasePortugues": "A gravata combina com a camisa.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 94,
+        "ingles": "Underwear",
+        "portugues": "Roupa íntima",
+        "fraseIngles": "Where is the underwear section?",
+        "frasePortugues": "Onde fica a seção de roupas íntimas?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 95,
+        "ingles": "Socks",
+        "portugues": "Meias",
+        "fraseIngles": "I need new socks.",
+        "frasePortugues": "Preciso de meias novas.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 96,
+        "ingles": "Shoes",
+        "portugues": "Sapatos",
+        "fraseIngles": "These shoes are uncomfortable.",
+        "frasePortugues": "Estes sapatos são desconfortáveis.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 97,
+        "ingles": "Sneakers",
+        "portugues": "Tênis",
+        "fraseIngles": "I prefer sneakers for walking.",
+        "frasePortugues": "Prefiro tênis para caminhar.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 98,
+        "ingles": "Boots",
+        "portugues": "Botas",
+        "fraseIngles": "Boots are good for winter.",
+        "frasePortugues": "Botas são boas para o inverno.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 99,
+        "ingles": "Sandals",
+        "portugues": "Sandálias",
+        "fraseIngles": "Sandals are perfect for summer.",
+        "frasePortugues": "Sandálias são perfeitas para o verão.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 100,
+        "ingles": "High heels",
+        "portugues": "Salto alto",
+        "fraseIngles": "She can't walk in high heels.",
+        "frasePortugues": "Ela não consegue andar de salto alto.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 101,
+        "ingles": "Flat shoes",
+        "portugues": "Sapatos baixos",
+        "fraseIngles": "Flat shoes are more comfortable.",
+        "frasePortugues": "Sapatos baixos são mais confortáveis.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 102,
+        "ingles": "Hat",
+        "portugues": "Chapéu",
+        "fraseIngles": "This hat protects from the sun.",
+        "frasePortugues": "Este chapéu protege do sol.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 103,
+        "ingles": "Cap",
+        "portugues": "Boné",
+        "fraseIngles": "He wears a baseball cap.",
+        "frasePortugues": "Ele usa um boné de baseball.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 104,
+        "ingles": "Scarf",
+        "portugues": "Cachecol",
+        "fraseIngles": "The scarf keeps my neck warm.",
+        "frasePortugues": "O cachecol mantém meu pescoço aquecido.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 105,
+        "ingles": "Gloves",
+        "portugues": "Luvas",
+        "fraseIngles": "I forgot my gloves at home.",
+        "frasePortugues": "Esqueci minhas luvas em casa.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 106,
+        "ingles": "Belt",
+        "portugues": "Cinto",
+        "fraseIngles": "This belt is too tight.",
+        "frasePortugues": "Este cinto está apertado demais.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 107,
+        "ingles": "Bag",
+        "portugues": "Bolsa",
+        "fraseIngles": "She carries a leather bag.",
+        "frasePortugues": "Ela carrega uma bolsa de couro.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 108,
+        "ingles": "Purse",
+        "portugues": "Bolsa",
+        "fraseIngles": "My purse matches my shoes.",
+        "frasePortugues": "Minha bolsa combina com meus sapatos.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 109,
+        "ingles": "Wallet",
+        "portugues": "Carteira",
+        "fraseIngles": "I left my wallet in the car.",
+        "frasePortugues": "Deixei minha carteira no carro.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 110,
+        "ingles": "Watch",
+        "portugues": "Relógio",
+        "fraseIngles": "This watch is waterproof.",
+        "frasePortugues": "Este relógio é à prova d'água.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 111,
+        "ingles": "Jewelry",
+        "portugues": "Joias",
+        "fraseIngles": "The jewelry store has beautiful pieces.",
+        "frasePortugues": "A joalheria tem peças lindas.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 112,
+        "ingles": "Ring",
+        "portugues": "Anel",
+        "fraseIngles": "This ring is too expensive.",
+        "frasePortugues": "Este anel é caro demais.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 113,
+        "ingles": "Necklace",
+        "portugues": "Colar",
+        "fraseIngles": "The necklace is made of silver.",
+        "frasePortugues": "O colar é feito de prata.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 114,
+        "ingles": "Earrings",
+        "portugues": "Brincos",
+        "fraseIngles": "These earrings are too heavy.",
+        "frasePortugues": "Estes brincos são pesados demais.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 115,
+        "ingles": "Bracelet",
+        "portugues": "Pulseira",
+        "fraseIngles": "The bracelet fits perfectly.",
+        "frasePortugues": "A pulseira fica perfeita.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 116,
+        "ingles": "Sunglasses",
+        "portugues": "Óculos de sol",
+        "fraseIngles": "I need sunglasses for driving.",
+        "frasePortugues": "Preciso de óculos de sol para dirigir.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 117,
+        "ingles": "Glasses",
+        "portugues": "Óculos",
+        "fraseIngles": "My glasses are broken.",
+        "frasePortugues": "Meus óculos estão quebrados.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 118,
+        "ingles": "Perfume",
+        "portugues": "Perfume",
+        "fraseIngles": "This perfume smells wonderful.",
+        "frasePortugues": "Este perfume tem um cheiro maravilhoso.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 119,
+        "ingles": "Cosmetics",
+        "portugues": "Cosméticos",
+        "fraseIngles": "The cosmetics counter is on the first floor.",
+        "frasePortugues": "O balcão de cosméticos fica no primeiro andar.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 120,
+        "ingles": "Makeup",
+        "portugues": "Maquiagem",
+        "fraseIngles": "She doesn't wear much makeup.",
+        "frasePortugues": "Ela não usa muita maquiagem.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 121,
+        "ingles": "Shampoo",
+        "portugues": "Shampoo",
+        "fraseIngles": "This shampoo is for dry hair.",
+        "frasePortugues": "Este shampoo é para cabelo seco.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 122,
+        "ingles": "Soap",
+        "portugues": "Sabonete",
+        "fraseIngles": "The soap smells like lavender.",
+        "frasePortugues": "O sabonete tem cheiro de lavanda.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 123,
+        "ingles": "Toothbrush",
+        "portugues": "Escova de dentes",
+        "fraseIngles": "I need a new toothbrush.",
+        "frasePortugues": "Preciso de uma escova de dentes nova.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 124,
+        "ingles": "Electronics",
+        "portugues": "Eletrônicos",
+        "fraseIngles": "The electronics store has the latest gadgets.",
+        "frasePortugues": "A loja de eletrônicos tem os aparelhos mais recentes.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 125,
+        "ingles": "Phone",
+        "portugues": "Telefone",
+        "fraseIngles": "My phone battery is dead.",
+        "frasePortugues": "A bateria do meu telefone acabou.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 126,
+        "ingles": "Computer",
+        "portugues": "Computador",
+        "fraseIngles": "This computer is very fast.",
+        "frasePortugues": "Este computador é muito rápido.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 127,
+        "ingles": "Tablet",
+        "portugues": "Tablet",
+        "fraseIngles": "Tablets are convenient for reading.",
+        "frasePortugues": "Tablets são convenientes para ler.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 128,
+        "ingles": "Camera",
+        "portugues": "Câmera",
+        "fraseIngles": "This camera takes great pictures.",
+        "frasePortugues": "Esta câmera tira fotos ótimas.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 129,
+        "ingles": "Headphones",
+        "portugues": "Fones de ouvido",
+        "fraseIngles": "These headphones have good sound quality.",
+        "frasePortugues": "Estes fones de ouvido têm boa qualidade de som.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 130,
+        "ingles": "Charger",
+        "portugues": "Carregador",
+        "fraseIngles": "I forgot my phone charger.",
+        "frasePortugues": "Esqueci meu carregador de telefone.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 131,
+        "ingles": "Battery",
+        "portugues": "Bateria",
+        "fraseIngles": "The battery lasts all day.",
+        "frasePortugues": "A bateria dura o dia todo.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 132,
+        "ingles": "Food",
+        "portugues": "Comida",
+        "fraseIngles": "Where is the food court?",
+        "frasePortugues": "Onde fica a praça de alimentação?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 133,
+        "ingles": "Groceries",
+        "portugues": "Mantimentos",
+        "fraseIngles": "I need to buy groceries.",
+        "frasePortugues": "Preciso comprar mantimentos.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 134,
+        "ingles": "Fruit",
+        "portugues": "Fruta",
+        "fraseIngles": "The fruit looks fresh.",
+        "frasePortugues": "A fruta parece fresca.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 135,
+        "ingles": "Vegetables",
+        "portugues": "Vegetais",
+        "fraseIngles": "Vegetables are in aisle three.",
+        "frasePortugues": "Os vegetais ficam no corredor três.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 136,
+        "ingles": "Meat",
+        "portugues": "Carne",
+        "fraseIngles": "The meat section is at the back.",
+        "frasePortugues": "A seção de carnes fica nos fundos.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 137,
+        "ingles": "Dairy",
+        "portugues": "Laticínios",
+        "fraseIngles": "Milk and cheese are in the dairy section.",
+        "frasePortugues": "Leite e queijo ficam na seção de laticínios.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 138,
+        "ingles": "Bread",
+        "portugues": "Pão",
+        "fraseIngles": "The bread is baked fresh daily.",
+        "frasePortugues": "O pão é assado fresco diariamente.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 139,
+        "ingles": "Frozen food",
+        "portugues": "Comida congelada",
+        "fraseIngles": "Frozen food is convenient but not as healthy.",
+        "frasePortugues": "Comida congelada é conveniente mas não tão saudável.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 140,
+        "ingles": "Books",
+        "portugues": "Livros",
+        "fraseIngles": "The bookstore has a wide selection.",
+        "frasePortugues": "A livraria tem uma ampla seleção.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 141,
+        "ingles": "Magazine",
+        "portugues": "Revista",
+        "fraseIngles": "I buy this magazine every month.",
+        "frasePortugues": "Compro esta revista todo mês.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 142,
+        "ingles": "Newspaper",
+        "portugues": "Jornal",
+        "fraseIngles": "The newspaper costs one dollar.",
+        "frasePortugues": "O jornal custa um dólar.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 143,
+        "ingles": "Flowers",
+        "portugues": "Flores",
+        "fraseIngles": "Fresh flowers make a nice gift.",
+        "frasePortugues": "Flores frescas são um presente legal.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 144,
+        "ingles": "Plants",
+        "portugues": "Plantas",
+        "fraseIngles": "Indoor plants improve air quality.",
+        "frasePortugues": "Plantas de interior melhoram a qualidade do ar.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 145,
+        "ingles": "Garden",
+        "portugues": "Jardim",
+        "fraseIngles": "Garden tools are on sale this week.",
+        "frasePortugues": "Ferramentas de jardim estão em promoção esta semana.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 146,
+        "ingles": "Hardware",
+        "portugues": "Ferramentas",
+        "fraseIngles": "The hardware store has everything for repairs.",
+        "frasePortugues": "A loja de ferramentas tem tudo para consertos.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 147,
+        "ingles": "Paint",
+        "portugues": "Tinta",
+        "fraseIngles": "What color paint do you recommend?",
+        "frasePortugues": "Que cor de tinta você recomenda?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 148,
+        "ingles": "Furniture",
+        "portugues": "Móveis",
+        "fraseIngles": "This furniture is well-made.",
+        "frasePortugues": "Estes móveis são bem feitos.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 149,
+        "ingles": "Home decor",
+        "portugues": "Decoração",
+        "fraseIngles": "Home decor items are upstairs.",
+        "frasePortugues": "Itens de decoração ficam no andar de cima.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 150,
+        "ingles": "Toys",
+        "portugues": "Brinquedos",
+        "fraseIngles": "The toy store has educational games.",
+        "frasePortugues": "A loja de brinquedos tem jogos educativos.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 151,
+        "ingles": "Gifts",
+        "portugues": "Presentes",
+        "fraseIngles": "I'm looking for gifts for my family.",
+        "frasePortugues": "Estou procurando presentes para minha família.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 152,
+        "ingles": "Wrapping paper",
+        "portugues": "Papel de presente",
+        "fraseIngles": "Do you sell wrapping paper?",
+        "frasePortugues": "Vocês vendem papel de presente?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 153,
+        "ingles": "Card",
+        "portugues": "Cartão",
+        "fraseIngles": "I need a birthday card.",
+        "frasePortugues": "Preciso de um cartão de aniversário.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 154,
+        "ingles": "Open",
+        "portugues": "Aberto",
+        "fraseIngles": "What time do you open?",
+        "frasePortugues": "Que horas vocês abrem?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 155,
+        "ingles": "Close",
+        "portugues": "Fechar",
+        "fraseIngles": "What time do you close?",
+        "frasePortugues": "Que horas vocês fecham?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 156,
+        "ingles": "Hours",
+        "portugues": "Horário",
+        "fraseIngles": "What are your store hours?",
+        "frasePortugues": "Qual é o horário da loja?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 157,
+        "ingles": "Checkout",
+        "portugues": "Caixa",
+        "fraseIngles": "The checkout line is long.",
+        "frasePortugues": "A fila do caixa está grande.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 158,
+        "ingles": "Line",
+        "portugues": "Fila",
+        "fraseIngles": "There's a long line at the register.",
+        "frasePortugues": "Há uma fila grande no caixa.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 159,
+        "ingles": "Queue",
+        "portugues": "Fila",
+        "fraseIngles": "Please wait in the queue.",
+        "frasePortugues": "Por favor, espere na fila.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 160,
+        "ingles": "Wait",
+        "portugues": "Esperar",
+        "fraseIngles": "I don't want to wait in line.",
+        "frasePortugues": "Não quero esperar na fila.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 161,
+        "ingles": "Cash",
+        "portugues": "Dinheiro",
+        "fraseIngles": "Do you accept cash?",
+        "frasePortugues": "Vocês aceitam dinheiro?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 162,
+        "ingles": "Credit card",
+        "portugues": "Cartão de crédito",
+        "fraseIngles": "I'll pay with credit card.",
+        "frasePortugues": "Vou pagar com cartão de crédito.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 163,
+        "ingles": "Debit card",
+        "portugues": "Cartão de débito",
+        "fraseIngles": "Debit card is more convenient.",
+        "frasePortugues": "Cartão de débito é mais conveniente.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 164,
+        "ingles": "Check",
+        "portugues": "Cheque",
+        "fraseIngles": "Do you accept personal checks?",
+        "frasePortugues": "Vocês aceitam cheques pessoais?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 165,
+        "ingles": "Payment",
+        "portugues": "Pagamento",
+        "fraseIngles": "What forms of payment do you accept?",
+        "frasePortugues": "Que formas de pagamento vocês aceitam?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 166,
+        "ingles": "Change",
+        "portugues": "Troco",
+        "fraseIngles": "Here's your change.",
+        "frasePortugues": "Aqui está seu troco.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 167,
+        "ingles": "Total",
+        "portugues": "Total",
+        "fraseIngles": "What's the total amount?",
+        "frasePortugues": "Qual é o valor total?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 168,
+        "ingles": "Tax",
+        "portugues": "Imposto",
+        "fraseIngles": "Is tax included in the price?",
+        "frasePortugues": "O imposto está incluído no preço?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 169,
+        "ingles": "Bag",
+        "portugues": "Sacola",
+        "fraseIngles": "Do you need a bag?",
+        "frasePortugues": "Precisa de uma sacola?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 170,
+        "ingles": "Paper bag",
+        "portugues": "Sacola de papel",
+        "fraseIngles": "Paper bags are more environmentally friendly.",
+        "frasePortugues": "Sacolas de papel são mais ecológicas.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 171,
+        "ingles": "Plastic bag",
+        "portugues": "Sacola plástica",
+        "fraseIngles": "Plastic bags are being phased out.",
+        "frasePortugues": "Sacolas plásticas estão sendo eliminadas.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 172,
+        "ingles": "Reusable bag",
+        "portugues": "Sacola reutilizável",
+        "fraseIngles": "I brought my reusable bag.",
+        "frasePortugues": "Trouxe minha sacola reutilizável.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 173,
+        "ingles": "Cart",
+        "portugues": "Carrinho",
+        "fraseIngles": "I need a shopping cart.",
+        "frasePortugues": "Preciso de um carrinho de compras.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 174,
+        "ingles": "Basket",
+        "portugues": "Cesta",
+        "fraseIngles": "A basket is enough for a few items.",
+        "frasePortugues": "Uma cesta é suficiente para alguns itens.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 175,
+        "ingles": "Aisle",
+        "portugues": "Corredor",
+        "fraseIngles": "Cleaning supplies are in aisle five.",
+        "frasePortugues": "Produtos de limpeza ficam no corredor cinco.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 176,
+        "ingles": "Section",
+        "portugues": "Seção",
+        "fraseIngles": "Where's the electronics section?",
+        "frasePortugues": "Onde fica a seção de eletrônicos?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 177,
+        "ingles": "Department",
+        "portugues": "Departamento",
+        "fraseIngles": "The children's department is on the second floor.",
+        "frasePortugues": "O departamento infantil fica no segundo andar.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 178,
+        "ingles": "Floor",
+        "portugues": "Andar",
+        "fraseIngles": "Shoes are on the third floor.",
+        "frasePortugues": "Sapatos ficam no terceiro andar.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 179,
+        "ingles": "Escalator",
+        "portugues": "Escada rolante",
+        "fraseIngles": "Take the escalator to the second floor.",
+        "frasePortugues": "Pegue a escada rolante para o segundo andar.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 180,
+        "ingles": "Elevator",
+        "portugues": "Elevador",
+        "fraseIngles": "The elevator is out of order.",
+        "frasePortugues": "O elevador está fora de serviço.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 181,
+        "ingles": "Stairs",
+        "portugues": "Escadas",
+        "fraseIngles": "You can take the stairs instead.",
+        "frasePortugues": "Você pode usar as escadas.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 182,
+        "ingles": "Directory",
+        "portugues": "Diretório",
+        "fraseIngles": "Check the directory for store locations.",
+        "frasePortugues": "Consulte o diretório para localização das lojas.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 183,
+        "ingles": "Map",
+        "portugues": "Mapa",
+        "fraseIngles": "Do you have a store map?",
+        "frasePortugues": "Vocês têm mapa da loja?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 184,
+        "ingles": "Information",
+        "portugues": "Informação",
+        "fraseIngles": "The information desk can help you.",
+        "frasePortugues": "O balcão de informações pode ajudá-lo.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 185,
+        "ingles": "Lost and found",
+        "portugues": "Achados e perdidos",
+        "fraseIngles": "I left my jacket here yesterday.",
+        "frasePortugues": "Deixei minha jaqueta aqui ontem.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 186,
+        "ingles": "Security",
+        "portugues": "Segurança",
+        "fraseIngles": "Security guards patrol the mall.",
+        "frasePortugues": "Guardas de segurança patrulham o shopping.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 187,
+        "ingles": "Parking",
+        "portugues": "Estacionamento",
+        "fraseIngles": "Is parking free here?",
+        "frasePortugues": "O estacionamento é gratuito aqui?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 188,
+        "ingles": "Restroom",
+        "portugues": "Banheiro",
+        "fraseIngles": "Where's the nearest restroom?",
+        "frasePortugues": "Onde fica o banheiro mais próximo?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 189,
+        "ingles": "Food court",
+        "portugues": "Praça de alimentação",
+        "fraseIngles": "Let's eat at the food court.",
+        "frasePortugues": "Vamos comer na praça de alimentação.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 190,
+        "ingles": "ATM",
+        "portugues": "Caixa eletrônico",
+        "fraseIngles": "Is there an ATM in the mall?",
+        "frasePortugues": "Há um caixa eletrônico no shopping?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 191,
+        "ingles": "Wi-Fi",
+        "portugues": "Wi-Fi",
+        "fraseIngles": "Does the store offer free Wi-Fi?",
+        "frasePortugues": "A loja oferece Wi-Fi gratuito?",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 192,
+        "ingles": "Crowded",
+        "portugues": "Lotado",
+        "fraseIngles": "The store is always crowded on weekends.",
+        "frasePortugues": "A loja está sempre lotada nos fins de semana.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 193,
+        "ingles": "Busy",
+        "portugues": "Movimentado",
+        "fraseIngles": "Friday evening is very busy here.",
+        "frasePortugues": "Sexta-feira à noite é muito movimentado aqui.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 194,
+        "ingles": "Quiet",
+        "portugues": "Calmo",
+        "fraseIngles": "Mornings are usually quiet.",
+        "frasePortugues": "As manhãs são normalmente calmas.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 195,
+        "ingles": "Popular",
+        "portugues": "Popular",
+        "fraseIngles": "This brand is very popular.",
+        "frasePortugues": "Esta marca é muito popular.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 196,
+        "ingles": "Recommended",
+        "portugues": "Recomendado",
+        "fraseIngles": "This product is highly recommended.",
+        "frasePortugues": "Este produto é altamente recomendado.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 197,
+        "ingles": "Satisfied",
+        "portugues": "Satisfeito",
+        "fraseIngles": "I'm satisfied with my purchase.",
+        "frasePortugues": "Estou satisfeito com minha compra.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 198,
+        "ingles": "Happy",
+        "portugues": "Feliz",
+        "fraseIngles": "I'm happy with the service here.",
+        "frasePortugues": "Estou feliz com o atendimento aqui.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 199,
+        "ingles": "Disappointed",
+        "portugues": "Desapontado",
+        "fraseIngles": "I'm disappointed with the quality.",
+        "frasePortugues": "Estou desapontado com a qualidade.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 200,
+        "ingles": "Complaint",
+        "portugues": "Reclamação",
+        "fraseIngles": "I have a complaint about this product.",
+        "frasePortugues": "Tenho uma reclamação sobre este produto.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 201,
+        "ingles": "Thank you",
+        "portugues": "Obrigado",
+        "fraseIngles": "Thank you for your help.",
+        "frasePortugues": "Obrigado pela ajuda.",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    },
+    {
+        "id": 202,
+        "ingles": "Welcome",
+        "portugues": "De nada",
+        "fraseIngles": "You're welcome, come back soon!",
+        "frasePortugues": "De nada, volte em breve!",
+        "subtopico": "Compras",
+        "topico": "Frases"
+    }
+]

@@ -1,0 +1,1820 @@
+[
+    {
+        "id": 1,
+        "ingles": "Doctor",
+        "portugues": "Médico",
+        "fraseIngles": "The doctor will see you now.",
+        "frasePortugues": "O médico vai atendê-lo agora.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 2,
+        "ingles": "Physician",
+        "portugues": "Médico",
+        "fraseIngles": "My physician recommended this treatment.",
+        "frasePortugues": "Meu médico recomendou este tratamento.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 3,
+        "ingles": "Hospital",
+        "portugues": "Hospital",
+        "fraseIngles": "The hospital is open 24 hours.",
+        "frasePortugues": "O hospital funciona 24 horas.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 4,
+        "ingles": "Clinic",
+        "portugues": "Clínica",
+        "fraseIngles": "I have an appointment at the clinic.",
+        "frasePortugues": "Tenho uma consulta na clínica.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 5,
+        "ingles": "Medical center",
+        "portugues": "Centro médico",
+        "fraseIngles": "The medical center has many specialists.",
+        "frasePortugues": "O centro médico tem muitos especialistas.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 6,
+        "ingles": "Emergency room",
+        "portugues": "Pronto-socorro",
+        "fraseIngles": "Take him to the emergency room immediately.",
+        "frasePortugues": "Leve-o ao pronto-socorro imediatamente.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 7,
+        "ingles": "ER",
+        "portugues": "Pronto-socorro",
+        "fraseIngles": "The ER is very busy tonight.",
+        "frasePortugues": "O pronto-socorro está muito movimentado hoje à noite.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 8,
+        "ingles": "Appointment",
+        "portugues": "Consulta",
+        "fraseIngles": "I need to make an appointment.",
+        "frasePortugues": "Preciso marcar uma consulta.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 9,
+        "ingles": "Consultation",
+        "portugues": "Consulta",
+        "fraseIngles": "The consultation lasted 30 minutes.",
+        "frasePortugues": "A consulta durou 30 minutos.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 10,
+        "ingles": "Visit",
+        "portugues": "Visita",
+        "fraseIngles": "This is my first visit to this doctor.",
+        "frasePortugues": "Esta é minha primeira visita a este médico.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 11,
+        "ingles": "Patient",
+        "portugues": "Paciente",
+        "fraseIngles": "The patient is recovering well.",
+        "frasePortugues": "O paciente está se recuperando bem.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 12,
+        "ingles": "Nurse",
+        "portugues": "Enfermeiro",
+        "fraseIngles": "The nurse took my blood pressure.",
+        "frasePortugues": "O enfermeiro mediu minha pressão arterial.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 13,
+        "ingles": "Staff",
+        "portugues": "Equipe",
+        "fraseIngles": "The medical staff is very professional.",
+        "frasePortugues": "A equipe médica é muito profissional.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 14,
+        "ingles": "Reception",
+        "portugues": "Recepção",
+        "fraseIngles": "Please check in at reception.",
+        "frasePortugues": "Por favor, faça o check-in na recepção.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 15,
+        "ingles": "Receptionist",
+        "portugues": "Recepcionista",
+        "fraseIngles": "The receptionist scheduled my appointment.",
+        "frasePortugues": "A recepcionista agendou minha consulta.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 16,
+        "ingles": "Waiting room",
+        "portugues": "Sala de espera",
+        "fraseIngles": "The waiting room is full of patients.",
+        "frasePortugues": "A sala de espera está cheia de pacientes.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 17,
+        "ingles": "Queue",
+        "portugues": "Fila",
+        "fraseIngles": "There's a long queue at the pharmacy.",
+        "frasePortugues": "Há uma fila longa na farmácia.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 18,
+        "ingles": "Wait",
+        "portugues": "Esperar",
+        "fraseIngles": "You'll need to wait about 20 minutes.",
+        "frasePortugues": "Você precisará esperar cerca de 20 minutos.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 19,
+        "ingles": "Delay",
+        "portugues": "Atraso",
+        "fraseIngles": "The doctor is running a 15-minute delay.",
+        "frasePortugues": "O médico está com 15 minutos de atraso.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 20,
+        "ingles": "Schedule",
+        "portugues": "Horário",
+        "fraseIngles": "What's the doctor's schedule today?",
+        "frasePortugues": "Qual é o horário do médico hoje?",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 21,
+        "ingles": "Insurance",
+        "portugues": "Seguro",
+        "fraseIngles": "Do you accept my health insurance?",
+        "frasePortugues": "Vocês aceitam meu plano de saúde?",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 22,
+        "ingles": "Card",
+        "portugues": "Cartão",
+        "fraseIngles": "Please bring your insurance card.",
+        "frasePortugues": "Por favor, traga seu cartão do plano.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 23,
+        "ingles": "Coverage",
+        "portugues": "Cobertura",
+        "fraseIngles": "Check your insurance coverage first.",
+        "frasePortugues": "Verifique sua cobertura do plano primeiro.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 24,
+        "ingles": "Copay",
+        "portugues": "Copagamento",
+        "fraseIngles": "The copay is $25 for this visit.",
+        "frasePortugues": "O copagamento é $25 para esta consulta.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 25,
+        "ingles": "Bill",
+        "portugues": "Conta",
+        "fraseIngles": "The medical bill was very expensive.",
+        "frasePortugues": "A conta médica estava muito cara.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 26,
+        "ingles": "Payment",
+        "portugues": "Pagamento",
+        "fraseIngles": "What forms of payment do you accept?",
+        "frasePortugues": "Que formas de pagamento vocês aceitam?",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 27,
+        "ingles": "Cost",
+        "portugues": "Custo",
+        "fraseIngles": "What's the cost of this procedure?",
+        "frasePortugues": "Qual é o custo deste procedimento?",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 28,
+        "ingles": "Fee",
+        "portugues": "Taxa",
+        "fraseIngles": "There's a consultation fee of $150.",
+        "frasePortugues": "Há uma taxa de consulta de $150.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 29,
+        "ingles": "Symptom",
+        "portugues": "Sintoma",
+        "fraseIngles": "What symptoms are you experiencing?",
+        "frasePortugues": "Que sintomas você está sentindo?",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 30,
+        "ingles": "Pain",
+        "portugues": "Dor",
+        "fraseIngles": "I have severe pain in my chest.",
+        "frasePortugues": "Tenho dor intensa no peito.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 31,
+        "ingles": "Ache",
+        "portugues": "Dor",
+        "fraseIngles": "My head aches constantly.",
+        "frasePortugues": "Minha cabeça dói constantemente.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 32,
+        "ingles": "Hurt",
+        "portugues": "Doer / Machucar",
+        "fraseIngles": "Where does it hurt the most?",
+        "frasePortugues": "Onde dói mais?",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 33,
+        "ingles": "Sore",
+        "portugues": "Dolorido",
+        "fraseIngles": "My throat is very sore.",
+        "frasePortugues": "Minha garganta está muito dolorida.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 34,
+        "ingles": "Tender",
+        "portugues": "Sensível",
+        "fraseIngles": "The area is tender to touch.",
+        "frasePortugues": "A área está sensível ao toque.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 35,
+        "ingles": "Sharp",
+        "portugues": "Aguda",
+        "fraseIngles": "I feel a sharp pain in my side.",
+        "frasePortugues": "Sinto uma dor aguda na lateral.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 36,
+        "ingles": "Dull",
+        "portugues": "Surda",
+        "fraseIngles": "It's a dull, constant ache.",
+        "frasePortugues": "É uma dor surda e constante.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 37,
+        "ingles": "Throbbing",
+        "portugues": "Latejante",
+        "fraseIngles": "I have a throbbing headache.",
+        "frasePortugues": "Tenho uma dor de cabeça latejante.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 38,
+        "ingles": "Burning",
+        "portugues": "Ardente",
+        "fraseIngles": "There's a burning sensation in my stomach.",
+        "frasePortugues": "Há uma sensação ardente no meu estômago.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 39,
+        "ingles": "Fever",
+        "portugues": "Febre",
+        "fraseIngles": "I've had a fever for three days.",
+        "frasePortugues": "Tenho febre há três dias.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 40,
+        "ingles": "Temperature",
+        "portugues": "Temperatura",
+        "fraseIngles": "Let me take your temperature.",
+        "frasePortugues": "Deixe-me medir sua temperatura.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 41,
+        "ingles": "Hot",
+        "portugues": "Quente",
+        "fraseIngles": "You feel very hot to the touch.",
+        "frasePortugues": "Você está muito quente ao toque.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 42,
+        "ingles": "Chills",
+        "portugues": "Calafrios",
+        "fraseIngles": "I'm having chills and sweating.",
+        "frasePortugues": "Estou tendo calafrios e suando.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 43,
+        "ingles": "Sweat",
+        "portugues": "Suor",
+        "fraseIngles": "Cold sweats can indicate infection.",
+        "frasePortugues": "Suores frios podem indicar infecção.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 44,
+        "ingles": "Nausea",
+        "portugues": "Náusea",
+        "fraseIngles": "The medication caused nausea.",
+        "frasePortugues": "O medicamento causou náusea.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 45,
+        "ingles": "Vomiting",
+        "portugues": "Vômito",
+        "fraseIngles": "Persistent vomiting requires attention.",
+        "frasePortugues": "Vômito persistente requer atenção.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 46,
+        "ingles": "Dizziness",
+        "portugues": "Tontura",
+        "fraseIngles": "I'm experiencing dizziness and fatigue.",
+        "frasePortugues": "Estou sentindo tontura e fadiga.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 47,
+        "ingles": "Dizzy",
+        "portugues": "Tonto",
+        "fraseIngles": "I feel dizzy when I stand up.",
+        "frasePortugues": "Me sinto tonto quando me levanto.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 48,
+        "ingles": "Weak",
+        "portugues": "Fraco",
+        "fraseIngles": "I'm feeling very weak today.",
+        "frasePortugues": "Estou me sentindo muito fraco hoje.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 49,
+        "ingles": "Tired",
+        "portugues": "Cansado",
+        "fraseIngles": "I'm constantly tired lately.",
+        "frasePortugues": "Estou constantemente cansado ultimamente.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 50,
+        "ingles": "Fatigue",
+        "portugues": "Fadiga",
+        "fraseIngles": "Chronic fatigue affects daily activities.",
+        "frasePortugues": "Fadiga crônica afeta atividades diárias.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 51,
+        "ingles": "Headache",
+        "portugues": "Dor de cabeça",
+        "fraseIngles": "This headache won't go away.",
+        "frasePortugues": "Esta dor de cabeça não passa.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 52,
+        "ingles": "Migraine",
+        "portugues": "Enxaqueca",
+        "fraseIngles": "I suffer from severe migraines.",
+        "frasePortugues": "Sofro de enxaquecas severas.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 53,
+        "ingles": "Sinus",
+        "portugues": "Seio nasal",
+        "fraseIngles": "Sinus pressure is causing pain.",
+        "frasePortugues": "A pressão nos seios nasais está causando dor.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 54,
+        "ingles": "Congestion",
+        "portugues": "Congestão",
+        "fraseIngles": "Nasal congestion makes breathing difficult.",
+        "frasePortugues": "Congestão nasal torna a respiração difícil.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 55,
+        "ingles": "Runny nose",
+        "portugues": "Nariz escorrendo",
+        "fraseIngles": "I have a runny nose and sneezing.",
+        "frasePortugues": "Tenho nariz escorrendo e espirros.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 56,
+        "ingles": "Sneeze",
+        "portugues": "Espirrar",
+        "fraseIngles": "I can't stop sneezing.",
+        "frasePortugues": "Não consigo parar de espirrar.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 57,
+        "ingles": "Cough",
+        "portugues": "Tosse",
+        "fraseIngles": "This cough has lasted two weeks.",
+        "frasePortugues": "Esta tosse durou duas semanas.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 58,
+        "ingles": "Sputum",
+        "portugues": "Escarro",
+        "fraseIngles": "The sputum is thick and yellow.",
+        "frasePortugues": "O escarro está espesso e amarelo.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 59,
+        "ingles": "Phlegm",
+        "portugues": "Catarro",
+        "fraseIngles": "I'm coughing up green phlegm.",
+        "frasePortugues": "Estou tossindo catarro verde.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 60,
+        "ingles": "Sore throat",
+        "portugues": "Dor de garganta",
+        "fraseIngles": "My sore throat is getting worse.",
+        "frasePortugues": "Minha dor de garganta está piorando.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 61,
+        "ingles": "Hoarse",
+        "portugues": "Rouco",
+        "fraseIngles": "My voice is hoarse from coughing.",
+        "frasePortugues": "Minha voz está rouca de tanto tossir.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 62,
+        "ingles": "Difficulty swallowing",
+        "portugues": "Dificuldade para engolir",
+        "fraseIngles": "I have difficulty swallowing food.",
+        "frasePortugues": "Tenho dificuldade para engolir comida.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 63,
+        "ingles": "Chest pain",
+        "portugues": "Dor no peito",
+        "fraseIngles": "Chest pain can be serious.",
+        "frasePortugues": "Dor no peito pode ser séria.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 64,
+        "ingles": "Shortness of breath",
+        "portugues": "Falta de ar",
+        "fraseIngles": "I experience shortness of breath.",
+        "frasePortugues": "Sinto falta de ar.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 65,
+        "ingles": "Breathing",
+        "portugues": "Respiração",
+        "fraseIngles": "My breathing is labored.",
+        "frasePortugues": "Minha respiração está dificultosa.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 66,
+        "ingles": "Asthma",
+        "portugues": "Asma",
+        "fraseIngles": "My asthma is acting up.",
+        "frasePortugues": "Minha asma está atacando.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 67,
+        "ingles": "Inhaler",
+        "portugues": "Inalador",
+        "fraseIngles": "I forgot my asthma inhaler.",
+        "frasePortugues": "Esqueci meu inalador de asma.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 68,
+        "ingles": "Allergy",
+        "portugues": "Alergia",
+        "fraseIngles": "I have an allergy to penicillin.",
+        "frasePortugues": "Tenho alergia à penicilina.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 69,
+        "ingles": "Allergic reaction",
+        "portugues": "Reação alérgica",
+        "fraseIngles": "This rash might be an allergic reaction.",
+        "frasePortugues": "Esta erupção pode ser uma reação alérgica.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 70,
+        "ingles": "Rash",
+        "portugues": "Erupção cutânea",
+        "fraseIngles": "The rash is spreading on my arms.",
+        "frasePortugues": "A erupção está se espalhando nos meus braços.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 71,
+        "ingles": "Itch",
+        "portugues": "Coceira / Coçar",
+        "fraseIngles": "The rash itches terribly.",
+        "frasePortugues": "A erupção coça terrivelmente.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 72,
+        "ingles": "Scratch",
+        "portugues": "Coçar / Arranhão",
+        "fraseIngles": "Don't scratch the infected area.",
+        "frasePortugues": "Não coce a área infectada.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 73,
+        "ingles": "Swelling",
+        "portugues": "Inchaço",
+        "fraseIngles": "There's swelling around the wound.",
+        "frasePortugues": "Há inchaço ao redor da ferida.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 74,
+        "ingles": "Swollen",
+        "portugues": "Inchado",
+        "fraseIngles": "My ankle is swollen and painful.",
+        "frasePortugues": "Meu tornozelo está inchado e dolorido.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 75,
+        "ingles": "Bruise",
+        "portugues": "Hematoma",
+        "fraseIngles": "The bruise is turning purple.",
+        "frasePortugues": "O hematoma está ficando roxo.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 76,
+        "ingles": "Cut",
+        "portugues": "Corte",
+        "fraseIngles": "I need stitches for this deep cut.",
+        "frasePortugues": "Preciso de pontos para este corte profundo.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 77,
+        "ingles": "Wound",
+        "portugues": "Ferida",
+        "fraseIngles": "Clean the wound with antiseptic.",
+        "frasePortugues": "Limpe a ferida com antisséptico.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 78,
+        "ingles": "Bleeding",
+        "portugues": "Sangramento",
+        "fraseIngles": "The bleeding won't stop.",
+        "frasePortugues": "O sangramento não para.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 79,
+        "ingles": "Blood",
+        "portugues": "Sangue",
+        "fraseIngles": "There's blood in my urine.",
+        "frasePortugues": "Há sangue na minha urina.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 80,
+        "ingles": "Bandage",
+        "portugues": "Bandagem",
+        "fraseIngles": "Change the bandage daily.",
+        "frasePortugues": "Troque a bandagem diariamente.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 81,
+        "ingles": "Stitches",
+        "portugues": "Pontos",
+        "fraseIngles": "The stitches can be removed next week.",
+        "frasePortugues": "Os pontos podem ser removidos na próxima semana.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 82,
+        "ingles": "Broken",
+        "portugues": "Quebrado",
+        "fraseIngles": "I think my arm is broken.",
+        "frasePortugues": "Acho que meu braço está quebrado.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 83,
+        "ingles": "Fracture",
+        "portugues": "Fratura",
+        "fraseIngles": "The X-ray shows a hairline fracture.",
+        "frasePortugues": "O raio-X mostra uma fratura fina.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 84,
+        "ingles": "Sprain",
+        "portugues": "Torção",
+        "fraseIngles": "It's just a sprain, not a break.",
+        "frasePortugues": "É apenas uma torção, não uma fratura.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 85,
+        "ingles": "Strain",
+        "portugues": "Distensão",
+        "fraseIngles": "Muscle strain from overexertion.",
+        "frasePortugues": "Distensão muscular por esforço excessivo.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 86,
+        "ingles": "Joint",
+        "portugues": "Articulação",
+        "fraseIngles": "My knee joint is stiff.",
+        "frasePortugues": "Minha articulação do joelho está rígida.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 87,
+        "ingles": "Muscle",
+        "portugues": "Músculo",
+        "fraseIngles": "The muscle is cramping.",
+        "frasePortugues": "O músculo está com cãibra.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 88,
+        "ingles": "Bone",
+        "portugues": "Osso",
+        "fraseIngles": "The bone is healing properly.",
+        "frasePortugues": "O osso está sarando adequadamente.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 89,
+        "ingles": "Back pain",
+        "portugues": "Dor nas costas",
+        "fraseIngles": "I have chronic back pain.",
+        "frasePortugues": "Tenho dor crônica nas costas.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 90,
+        "ingles": "Neck",
+        "portugues": "Pescoço",
+        "fraseIngles": "My neck is stiff and sore.",
+        "frasePortugues": "Meu pescoço está rígido e dolorido.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 91,
+        "ingles": "Shoulder",
+        "portugues": "Ombro",
+        "fraseIngles": "I can't lift my shoulder.",
+        "frasePortugues": "Não consigo levantar meu ombro.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 92,
+        "ingles": "Arm",
+        "portugues": "Braço",
+        "fraseIngles": "My right arm is numb.",
+        "frasePortugues": "Meu braço direito está dormente.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 93,
+        "ingles": "Hand",
+        "portugues": "Mão",
+        "fraseIngles": "My hand is shaking uncontrollably.",
+        "frasePortugues": "Minha mão está tremendo descontroladamente.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 94,
+        "ingles": "Finger",
+        "portugues": "Dedo",
+        "fraseIngles": "I jammed my finger in the door.",
+        "frasePortugues": "Prendi meu dedo na porta.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 95,
+        "ingles": "Leg",
+        "portugues": "Perna",
+        "fraseIngles": "My leg gives out when I walk.",
+        "frasePortugues": "Minha perna falha quando ando.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 96,
+        "ingles": "Knee",
+        "portugues": "Joelho",
+        "fraseIngles": "My knee locks up sometimes.",
+        "frasePortugues": "Meu joelho trava às vezes.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 97,
+        "ingles": "Foot",
+        "portugues": "Pé",
+        "fraseIngles": "I have a sharp pain in my foot.",
+        "frasePortugues": "Tenho uma dor aguda no pé.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 98,
+        "ingles": "Toe",
+        "portugues": "Dedo do pé",
+        "fraseIngles": "I stubbed my toe on the table.",
+        "frasePortugues": "Bati meu dedo do pé na mesa.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 99,
+        "ingles": "Stomach",
+        "portugues": "Estômago",
+        "fraseIngles": "My stomach hurts after eating.",
+        "frasePortugues": "Meu estômago dói depois de comer.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 100,
+        "ingles": "Abdomen",
+        "portugues": "Abdômen",
+        "fraseIngles": "There's tenderness in my lower abdomen.",
+        "frasePortugues": "Há sensibilidade na parte inferior do abdômen.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 101,
+        "ingles": "Belly",
+        "portugues": "Barriga",
+        "fraseIngles": "My belly is bloated and painful.",
+        "frasePortugues": "Minha barriga está inchada e dolorida.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 102,
+        "ingles": "Heartburn",
+        "portugues": "Azia",
+        "fraseIngles": "I get heartburn after spicy food.",
+        "frasePortugues": "Tenho azia depois de comida picante.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 103,
+        "ingles": "Indigestion",
+        "portugues": "Indigestão",
+        "fraseIngles": "Rich food gives me indigestion.",
+        "frasePortugues": "Comida rica me dá indigestão.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 104,
+        "ingles": "Constipation",
+        "portugues": "Constipação",
+        "fraseIngles": "I've been constipated for days.",
+        "frasePortugues": "Estou constipado há dias.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 105,
+        "ingles": "Diarrhea",
+        "portugues": "Diarreia",
+        "fraseIngles": "The diarrhea started yesterday.",
+        "frasePortugues": "A diarreia começou ontem.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 106,
+        "ingles": "Bowel movement",
+        "portugues": "Evacuação",
+        "fraseIngles": "I haven't had a bowel movement in days.",
+        "frasePortugues": "Não evacuo há dias.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 107,
+        "ingles": "Urine",
+        "portugues": "Urina",
+        "fraseIngles": "My urine is dark colored.",
+        "frasePortugues": "Minha urina está escura.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 108,
+        "ingles": "Kidney",
+        "portugues": "Rim",
+        "fraseIngles": "I have kidney stones.",
+        "frasePortugues": "Tenho pedras nos rins.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 109,
+        "ingles": "Bladder",
+        "portugues": "Bexiga",
+        "fraseIngles": "Bladder infections are painful.",
+        "frasePortugues": "Infecções na bexiga são dolorosas.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 110,
+        "ingles": "Heart",
+        "portugues": "Coração",
+        "fraseIngles": "My heart is beating irregularly.",
+        "frasePortugues": "Meu coração está batendo irregularmente.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 111,
+        "ingles": "Palpitations",
+        "portugues": "Palpitações",
+        "fraseIngles": "I'm having heart palpitations.",
+        "frasePortugues": "Estou tendo palpitações cardíacas.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 112,
+        "ingles": "Blood pressure",
+        "portugues": "Pressão arterial",
+        "fraseIngles": "My blood pressure is too high.",
+        "frasePortugues": "Minha pressão arterial está muito alta.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 113,
+        "ingles": "Pulse",
+        "portugues": "Pulso",
+        "fraseIngles": "The nurse checked my pulse.",
+        "frasePortugues": "A enfermeira verificou meu pulso.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 114,
+        "ingles": "Examination",
+        "portugues": "Exame",
+        "fraseIngles": "The physical examination was thorough.",
+        "frasePortugues": "O exame físico foi minucioso.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 115,
+        "ingles": "Checkup",
+        "portugues": "Check-up",
+        "fraseIngles": "I need my annual checkup.",
+        "frasePortugues": "Preciso do meu check-up anual.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 116,
+        "ingles": "Physical",
+        "portugues": "Exame físico",
+        "fraseIngles": "The physical exam revealed nothing serious.",
+        "frasePortugues": "O exame físico não revelou nada sério.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 117,
+        "ingles": "Test",
+        "portugues": "Teste / Exame",
+        "fraseIngles": "We need to run some tests.",
+        "frasePortugues": "Precisamos fazer alguns exames.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 118,
+        "ingles": "Blood test",
+        "portugues": "Exame de sangue",
+        "fraseIngles": "The blood test results are normal.",
+        "frasePortugues": "Os resultados do exame de sangue são normais.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 119,
+        "ingles": "Urine test",
+        "portugues": "Exame de urina",
+        "fraseIngles": "Bring a urine sample for testing.",
+        "frasePortugues": "Traga uma amostra de urina para teste.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 120,
+        "ingles": "X-ray",
+        "portugues": "Raio-X",
+        "fraseIngles": "The chest X-ray looks clear.",
+        "frasePortugues": "O raio-X do tórax parece limpo.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 121,
+        "ingles": "MRI",
+        "portugues": "Ressonância magnética",
+        "fraseIngles": "The MRI scan shows no abnormalities.",
+        "frasePortugues": "A ressonância magnética não mostra anormalidades.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 122,
+        "ingles": "CT scan",
+        "portugues": "Tomografia",
+        "fraseIngles": "A CT scan will give us better images.",
+        "frasePortugues": "Uma tomografia nos dará imagens melhores.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 123,
+        "ingles": "Ultrasound",
+        "portugues": "Ultrassom",
+        "fraseIngles": "The ultrasound confirmed the pregnancy.",
+        "frasePortugues": "O ultrassom confirmou a gravidez.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 124,
+        "ingles": "EKG",
+        "portugues": "Eletrocardiograma",
+        "fraseIngles": "The EKG shows normal heart rhythm.",
+        "frasePortugues": "O eletrocardiograma mostra ritmo cardíaco normal.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 125,
+        "ingles": "Lab",
+        "portugues": "Laboratório",
+        "fraseIngles": "The lab results will be ready tomorrow.",
+        "frasePortugues": "Os resultados do laboratório estarão prontos amanhã.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 126,
+        "ingles": "Sample",
+        "portugues": "Amostra",
+        "fraseIngles": "We need a tissue sample for biopsy.",
+        "frasePortugues": "Precisamos de uma amostra de tecido para biópsia.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 127,
+        "ingles": "Biopsy",
+        "portugues": "Biópsia",
+        "fraseIngles": "The biopsy came back benign.",
+        "frasePortugues": "A biópsia deu benigna.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 128,
+        "ingles": "Diagnosis",
+        "portugues": "Diagnóstico",
+        "fraseIngles": "The diagnosis is pneumonia.",
+        "frasePortugues": "O diagnóstico é pneumonia.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 129,
+        "ingles": "Condition",
+        "portugues": "Condição",
+        "fraseIngles": "Your condition is improving.",
+        "frasePortugues": "Sua condição está melhorando.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 130,
+        "ingles": "Disease",
+        "portugues": "Doença",
+        "fraseIngles": "Early detection prevents disease progression.",
+        "frasePortugues": "Detecção precoce previne progressão da doença.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 131,
+        "ingles": "Illness",
+        "portugues": "Doença",
+        "fraseIngles": "This illness is highly contagious.",
+        "frasePortugues": "Esta doença é altamente contagiosa.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 132,
+        "ingles": "Infection",
+        "portugues": "Infecção",
+        "fraseIngles": "The wound shows signs of infection.",
+        "frasePortugues": "A ferida mostra sinais de infecção.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 133,
+        "ingles": "Virus",
+        "portugues": "Vírus",
+        "fraseIngles": "It's caused by a common virus.",
+        "frasePortugues": "É causado por um vírus comum.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 134,
+        "ingles": "Bacteria",
+        "portugues": "Bactéria",
+        "fraseIngles": "Bacterial infections need antibiotics.",
+        "frasePortugues": "Infecções bacterianas precisam de antibióticos.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 135,
+        "ingles": "Treatment",
+        "portugues": "Tratamento",
+        "fraseIngles": "The treatment plan includes medication.",
+        "frasePortugues": "O plano de tratamento inclui medicação.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 136,
+        "ingles": "Therapy",
+        "portugues": "Terapia",
+        "fraseIngles": "Physical therapy will help recovery.",
+        "frasePortugues": "Fisioterapia ajudará na recuperação.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 137,
+        "ingles": "Medication",
+        "portugues": "Medicamento",
+        "fraseIngles": "Take your medication as prescribed.",
+        "frasePortugues": "Tome seu medicamento conforme prescrito.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 138,
+        "ingles": "Medicine",
+        "portugues": "Remédio",
+        "fraseIngles": "This medicine will reduce inflammation.",
+        "frasePortugues": "Este remédio reduzirá a inflamação.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 139,
+        "ingles": "Drug",
+        "portugues": "Medicamento",
+        "fraseIngles": "Are you allergic to any drugs?",
+        "frasePortugues": "Você é alérgico a algum medicamento?",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 140,
+        "ingles": "Prescription",
+        "portugues": "Receita",
+        "fraseIngles": "You'll need a prescription for this.",
+        "frasePortugues": "Você precisará de uma receita para isso.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 141,
+        "ingles": "Pill",
+        "portugues": "Comprimido",
+        "fraseIngles": "Take one pill twice daily.",
+        "frasePortugues": "Tome um comprimido duas vezes ao dia.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 142,
+        "ingles": "Tablet",
+        "portugues": "Comprimido",
+        "fraseIngles": "Swallow the tablet with water.",
+        "frasePortugues": "Engula o comprimido com água.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 143,
+        "ingles": "Capsule",
+        "portugues": "Cápsula",
+        "fraseIngles": "The capsule contains time-release medication.",
+        "frasePortugues": "A cápsula contém medicação de liberação prolongada.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 144,
+        "ingles": "Liquid",
+        "portugues": "Líquido",
+        "fraseIngles": "Children's medicine comes in liquid form.",
+        "frasePortugues": "Remédio infantil vem em forma líquida.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 145,
+        "ingles": "Injection",
+        "portugues": "Injeção",
+        "fraseIngles": "You'll need a tetanus injection.",
+        "frasePortugues": "Você precisará de uma injeção antitetânica.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 146,
+        "ingles": "Shot",
+        "portugues": "Injeção / Vacina",
+        "fraseIngles": "Have you had your flu shot?",
+        "frasePortugues": "Você tomou sua vacina da gripe?",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 147,
+        "ingles": "Vaccine",
+        "portugues": "Vacina",
+        "fraseIngles": "The COVID vaccine is highly effective.",
+        "frasePortugues": "A vacina da COVID é altamente eficaz.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 148,
+        "ingles": "Immunization",
+        "portugues": "Imunização",
+        "fraseIngles": "Keep your immunizations up to date.",
+        "frasePortugues": "Mantenha suas imunizações em dia.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 149,
+        "ingles": "Dose",
+        "portugues": "Dose",
+        "fraseIngles": "Don't exceed the recommended dose.",
+        "frasePortugues": "Não exceda a dose recomendada.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 150,
+        "ingles": "Dosage",
+        "portugues": "Dosagem",
+        "fraseIngles": "Follow the correct dosage instructions.",
+        "frasePortugues": "Siga as instruções corretas de dosagem.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 151,
+        "ingles": "Side effect",
+        "portugues": "Efeito colateral",
+        "fraseIngles": "Drowsiness is a common side effect.",
+        "frasePortugues": "Sonolência é um efeito colateral comum.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 152,
+        "ingles": "Reaction",
+        "portugues": "Reação",
+        "fraseIngles": "Watch for any adverse reactions.",
+        "frasePortugues": "Observe qualquer reação adversa.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 153,
+        "ingles": "Surgery",
+        "portugues": "Cirurgia",
+        "fraseIngles": "The surgery was successful.",
+        "frasePortugues": "A cirurgia foi bem-sucedida.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 154,
+        "ingles": "Operation",
+        "portugues": "Operação",
+        "fraseIngles": "The operation will last three hours.",
+        "frasePortugues": "A operação durará três horas.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 155,
+        "ingles": "Surgeon",
+        "portugues": "Cirurgião",
+        "fraseIngles": "The surgeon explained the procedure.",
+        "frasePortugues": "O cirurgião explicou o procedimento.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 156,
+        "ingles": "Anesthesia",
+        "portugues": "Anestesia",
+        "fraseIngles": "You'll be under general anesthesia.",
+        "frasePortugues": "Você ficará sob anestesia geral.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 157,
+        "ingles": "Recovery",
+        "portugues": "Recuperação",
+        "fraseIngles": "Recovery time is about six weeks.",
+        "frasePortugues": "O tempo de recuperação é cerca de seis semanas.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 158,
+        "ingles": "Healing",
+        "portugues": "Cura / Cicatrização",
+        "fraseIngles": "The wound is healing nicely.",
+        "frasePortugues": "A ferida está cicatrizando bem.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 159,
+        "ingles": "Better",
+        "portugues": "Melhor",
+        "fraseIngles": "I'm feeling much better today.",
+        "frasePortugues": "Estou me sentindo muito melhor hoje.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 160,
+        "ingles": "Worse",
+        "portugues": "Pior",
+        "fraseIngles": "My condition is getting worse.",
+        "frasePortugues": "Minha condição está piorando.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 161,
+        "ingles": "Improve",
+        "portugues": "Melhorar",
+        "fraseIngles": "Your health should improve soon.",
+        "frasePortugues": "Sua saúde deve melhorar em breve.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 162,
+        "ingles": "Stable",
+        "portugues": "Estável",
+        "fraseIngles": "The patient's condition is stable.",
+        "frasePortugues": "A condição do paciente está estável.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 163,
+        "ingles": "Critical",
+        "portugues": "Crítico",
+        "fraseIngles": "He's in critical condition.",
+        "frasePortugues": "Ele está em estado crítico.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 164,
+        "ingles": "Serious",
+        "portugues": "Sério",
+        "fraseIngles": "This is a serious medical issue.",
+        "frasePortugues": "Esta é uma questão médica séria.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 165,
+        "ingles": "Emergency",
+        "portugues": "Emergência",
+        "fraseIngles": "This is a medical emergency!",
+        "frasePortugues": "Esta é uma emergência médica!",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 166,
+        "ingles": "Urgent",
+        "portugues": "Urgente",
+        "fraseIngles": "You need urgent medical attention.",
+        "frasePortugues": "Você precisa de atenção médica urgente.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 167,
+        "ingles": "Ambulance",
+        "portugues": "Ambulância",
+        "fraseIngles": "Call an ambulance immediately.",
+        "frasePortugues": "Chame uma ambulância imediatamente.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 168,
+        "ingles": "First aid",
+        "portugues": "Primeiros socorros",
+        "fraseIngles": "Do you know first aid?",
+        "frasePortugues": "Você sabe primeiros socorros?",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 169,
+        "ingles": "CPR",
+        "portugues": "Ressuscitação cardiopulmonar",
+        "fraseIngles": "I'm certified in CPR.",
+        "frasePortugues": "Sou certificado em ressuscitação cardiopulmonar.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 170,
+        "ingles": "Oxygen",
+        "portugues": "Oxigênio",
+        "fraseIngles": "The patient needs oxygen support.",
+        "frasePortugues": "O paciente precisa de suporte de oxigênio.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 171,
+        "ingles": "IV",
+        "portugues": "Soro",
+        "fraseIngles": "The IV will deliver fluids directly.",
+        "frasePortugues": "O soro entregará fluidos diretamente.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 172,
+        "ingles": "Monitor",
+        "portugues": "Monitor",
+        "fraseIngles": "The heart monitor shows normal rhythm.",
+        "frasePortugues": "O monitor cardíaco mostra ritmo normal.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 173,
+        "ingles": "Ventilator",
+        "portugues": "Ventilador",
+        "fraseIngles": "He's on a ventilator to help breathing.",
+        "frasePortugues": "Ele está num ventilador para ajudar na respiração.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 174,
+        "ingles": "Specialist",
+        "portugues": "Especialista",
+        "fraseIngles": "You need to see a heart specialist.",
+        "frasePortugues": "Você precisa ver um especialista em coração.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 175,
+        "ingles": "Cardiologist",
+        "portugues": "Cardiologista",
+        "fraseIngles": "The cardiologist ordered more tests.",
+        "frasePortugues": "O cardiologista pediu mais exames.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 176,
+        "ingles": "Dermatologist",
+        "portugues": "Dermatologista",
+        "fraseIngles": "A dermatologist treats skin conditions.",
+        "frasePortugues": "Um dermatologista trata condições da pele.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 177,
+        "ingles": "Neurologist",
+        "portugues": "Neurologista",
+        "fraseIngles": "The neurologist specializes in brain disorders.",
+        "frasePortugues": "O neurologista é especializado em distúrbios cerebrais.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 178,
+        "ingles": "Orthopedist",
+        "portugues": "Ortopedista",
+        "fraseIngles": "An orthopedist treats bone injuries.",
+        "frasePortugues": "Um ortopedista trata lesões ósseas.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 179,
+        "ingles": "Pediatrician",
+        "portugues": "Pediatra",
+        "fraseIngles": "The pediatrician is great with children.",
+        "frasePortugues": "O pediatra é ótimo com crianças.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 180,
+        "ingles": "Psychiatrist",
+        "portugues": "Psiquiatra",
+        "fraseIngles": "A psychiatrist can prescribe medication.",
+        "frasePortugues": "Um psiquiatra pode prescrever medicamento.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 181,
+        "ingles": "Psychologist",
+        "portugues": "Psicólogo",
+        "fraseIngles": "The psychologist provides counseling.",
+        "frasePortugues": "O psicólogo fornece aconselhamento.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 182,
+        "ingles": "Therapist",
+        "portugues": "Terapeuta",
+        "fraseIngles": "My therapist helps me manage stress.",
+        "frasePortugues": "Meu terapeuta me ajuda a controlar o estresse.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 183,
+        "ingles": "Pharmacist",
+        "portugues": "Farmacêutico",
+        "fraseIngles": "Ask the pharmacist about drug interactions.",
+        "frasePortugues": "Pergunte ao farmacêutico sobre interações medicamentosas.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 184,
+        "ingles": "Pharmacy",
+        "portugues": "Farmácia",
+        "fraseIngles": "Pick up your prescription at the pharmacy.",
+        "frasePortugues": "Retire sua receita na farmácia.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 185,
+        "ingles": "Health",
+        "portugues": "Saúde",
+        "fraseIngles": "Your health is improving steadily.",
+        "frasePortugues": "Sua saúde está melhorando constantemente.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 186,
+        "ingles": "Healthy",
+        "portugues": "Saudável",
+        "fraseIngles": "Maintain a healthy lifestyle.",
+        "frasePortugues": "Mantenha um estilo de vida saudável.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 187,
+        "ingles": "Sick",
+        "portugues": "Doente",
+        "fraseIngles": "I've been sick for a week.",
+        "frasePortugues": "Estou doente há uma semana.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 188,
+        "ingles": "Well",
+        "portugues": "Bem",
+        "fraseIngles": "I hope you get well soon.",
+        "frasePortugues": "Espero que você se recupere logo.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 189,
+        "ingles": "Care",
+        "portugues": "Cuidado",
+        "fraseIngles": "You're receiving excellent medical care.",
+        "frasePortugues": "Você está recebendo excelente cuidado médico.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 190,
+        "ingles": "Follow-up",
+        "portugues": "Retorno",
+        "fraseIngles": "Schedule a follow-up appointment.",
+        "frasePortugues": "Agende uma consulta de retorno.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 191,
+        "ingles": "Advice",
+        "portugues": "Conselho",
+        "fraseIngles": "The doctor's advice was very helpful.",
+        "frasePortugues": "O conselho do médico foi muito útil.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 192,
+        "ingles": "Instructions",
+        "portugues": "Instruções",
+        "fraseIngles": "Follow the post-operative instructions carefully.",
+        "frasePortugues": "Siga as instruções pós-operatórias cuidadosamente.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 193,
+        "ingles": "Rest",
+        "portugues": "Descanso",
+        "fraseIngles": "You need complete bed rest.",
+        "frasePortugues": "Você precisa de repouso absoluto no leito.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 194,
+        "ingles": "Exercise",
+        "portugues": "Exercício",
+        "fraseIngles": "Light exercise will help recovery.",
+        "frasePortugues": "Exercício leve ajudará na recuperação.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 195,
+        "ingles": "Diet",
+        "portugues": "Dieta",
+        "fraseIngles": "Follow a low-sodium diet.",
+        "frasePortugues": "Siga uma dieta com pouco sódio.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 196,
+        "ingles": "Nutrition",
+        "portugues": "Nutrição",
+        "fraseIngles": "Good nutrition supports healing.",
+        "frasePortugues": "Boa nutrição apoia a cura.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 197,
+        "ingles": "Hydration",
+        "portugues": "Hidratação",
+        "fraseIngles": "Stay well hydrated during recovery.",
+        "frasePortugues": "Mantenha-se bem hidratado durante a recuperação.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 198,
+        "ingles": "Sleep",
+        "portugues": "Sono",
+        "fraseIngles": "Get plenty of sleep for healing.",
+        "frasePortugues": "Durma bastante para a cura.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 199,
+        "ingles": "Thank you",
+        "portugues": "Obrigado",
+        "fraseIngles": "Thank you for taking such good care of me.",
+        "frasePortugues": "Obrigado por cuidar tão bem de mim.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 200,
+        "ingles": "Help",
+        "portugues": "Ajuda",
+        "fraseIngles": "Thank you for all your help.",
+        "frasePortugues": "Obrigado por toda sua ajuda.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 201,
+        "ingles": "Feel better",
+        "portugues": "Melhorar",
+        "fraseIngles": "I hope you feel better soon.",
+        "frasePortugues": "Espero que você se sinta melhor logo.",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    },
+    {
+        "id": 202,
+        "ingles": "Get well",
+        "portugues": "Recuperar-se",
+        "fraseIngles": "Get well soon!",
+        "frasePortugues": "Recupere-se logo!",
+        "subtopico": "Hospital",
+        "topico": "Frases"
+    }
+]

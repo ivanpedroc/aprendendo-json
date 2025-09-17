@@ -1,0 +1,1793 @@
+[
+    {
+        "id": 1,
+        "ingles": "Bank",
+        "portugues": "Banco",
+        "fraseIngles": "The bank opens at 9 AM.",
+        "frasePortugues": "O banco abre às 9h.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 2,
+        "ingles": "Branch",
+        "portugues": "Agência",
+        "fraseIngles": "This branch is conveniently located downtown.",
+        "frasePortugues": "Esta agência fica convenientemente localizada no centro.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 3,
+        "ingles": "Teller",
+        "portugues": "Caixa",
+        "fraseIngles": "The teller helped me with my deposit.",
+        "frasePortugues": "O caixa me ajudou com meu depósito.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 4,
+        "ingles": "Customer",
+        "portugues": "Cliente",
+        "fraseIngles": "Every customer receives personalized service.",
+        "frasePortugues": "Todo cliente recebe atendimento personalizado.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 5,
+        "ingles": "Account",
+        "portugues": "Conta",
+        "fraseIngles": "I need to open a new account.",
+        "frasePortugues": "Preciso abrir uma nova conta.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 6,
+        "ingles": "Savings account",
+        "portugues": "Conta poupança",
+        "fraseIngles": "My savings account earns 2% interest.",
+        "frasePortugues": "Minha conta poupança rende 2% de juros.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 7,
+        "ingles": "Checking account",
+        "portugues": "Conta corrente",
+        "fraseIngles": "The checking account has no monthly fee.",
+        "frasePortugues": "A conta corrente não tem taxa mensal.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 8,
+        "ingles": "Balance",
+        "portugues": "Saldo",
+        "fraseIngles": "What's my current account balance?",
+        "frasePortugues": "Qual é o saldo atual da minha conta?",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 9,
+        "ingles": "Statement",
+        "portugues": "Extrato",
+        "fraseIngles": "I need a printed statement.",
+        "frasePortugues": "Preciso de um extrato impresso.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 10,
+        "ingles": "Deposit",
+        "portugues": "Depósito",
+        "fraseIngles": "I'd like to make a deposit.",
+        "frasePortugues": "Gostaria de fazer um depósito.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 11,
+        "ingles": "Withdrawal",
+        "portugues": "Saque",
+        "fraseIngles": "The ATM allows withdrawals up to $500.",
+        "frasePortugues": "O caixa eletrônico permite saques até $500.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 12,
+        "ingles": "Cash",
+        "portugues": "Dinheiro",
+        "fraseIngles": "I need to withdraw some cash.",
+        "frasePortugues": "Preciso sacar um dinheiro.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 13,
+        "ingles": "Check",
+        "portugues": "Cheque",
+        "fraseIngles": "Can I deposit this check?",
+        "frasePortugues": "Posso depositar este cheque?",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 14,
+        "ingles": "Checkbook",
+        "portugues": "Talão de cheques",
+        "fraseIngles": "I need to order a new checkbook.",
+        "frasePortugues": "Preciso pedir um novo talão de cheques.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 15,
+        "ingles": "Money order",
+        "portugues": "Vale postal",
+        "fraseIngles": "Money orders are safer than cash.",
+        "frasePortugues": "Vales postais são mais seguros que dinheiro.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 16,
+        "ingles": "Transfer",
+        "portugues": "Transferência",
+        "fraseIngles": "I want to transfer money to my savings.",
+        "frasePortugues": "Quero transferir dinheiro para minha poupança.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 17,
+        "ingles": "Wire transfer",
+        "portugues": "Transferência eletrônica",
+        "fraseIngles": "International wire transfers take 2-3 days.",
+        "frasePortugues": "Transferências eletrônicas internacionais levam 2-3 dias.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 18,
+        "ingles": "Online banking",
+        "portugues": "Internet banking",
+        "fraseIngles": "Online banking is available 24/7.",
+        "frasePortugues": "Internet banking está disponível 24/7.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 19,
+        "ingles": "Mobile banking",
+        "portugues": "Banking móvel",
+        "fraseIngles": "Mobile banking makes transactions convenient.",
+        "frasePortugues": "Banking móvel torna transações convenientes.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 20,
+        "ingles": "ATM",
+        "portugues": "Caixa eletrônico",
+        "fraseIngles": "The ATM is out of order.",
+        "frasePortugues": "O caixa eletrônico está fora de serviço.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 21,
+        "ingles": "Card",
+        "portugues": "Cartão",
+        "fraseIngles": "My debit card was declined.",
+        "frasePortugues": "Meu cartão de débito foi recusado.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 22,
+        "ingles": "Debit card",
+        "portugues": "Cartão de débito",
+        "fraseIngles": "Use your debit card for purchases.",
+        "frasePortugues": "Use seu cartão de débito para compras.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 23,
+        "ingles": "Credit card",
+        "portugues": "Cartão de crédito",
+        "fraseIngles": "I want to apply for a credit card.",
+        "frasePortugues": "Quero solicitar um cartão de crédito.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 24,
+        "ingles": "PIN",
+        "portugues": "Senha",
+        "fraseIngles": "Enter your four-digit PIN.",
+        "frasePortugues": "Digite sua senha de quatro dígitos.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 25,
+        "ingles": "Password",
+        "portugues": "Senha",
+        "fraseIngles": "Keep your online password secure.",
+        "frasePortugues": "Mantenha sua senha online segura.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 26,
+        "ingles": "Security",
+        "portugues": "Segurança",
+        "fraseIngles": "Bank security is very important.",
+        "frasePortugues": "Segurança bancária é muito importante.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 27,
+        "ingles": "ID",
+        "portugues": "Documento",
+        "fraseIngles": "Please show two forms of ID.",
+        "frasePortugues": "Por favor, mostre dois documentos.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 28,
+        "ingles": "Identification",
+        "portugues": "Identificação",
+        "fraseIngles": "Valid identification is required.",
+        "frasePortugues": "Identificação válida é obrigatória.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 29,
+        "ingles": "Signature",
+        "portugues": "Assinatura",
+        "fraseIngles": "Your signature doesn't match our records.",
+        "frasePortugues": "Sua assinatura não confere com nossos registros.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 30,
+        "ingles": "Loan",
+        "portugues": "Empréstimo",
+        "fraseIngles": "I'm interested in a personal loan.",
+        "frasePortugues": "Estou interessado em um empréstimo pessoal.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 31,
+        "ingles": "Mortgage",
+        "portugues": "Hipoteca",
+        "fraseIngles": "We offer competitive mortgage rates.",
+        "frasePortugues": "Oferecemos taxas competitivas de hipoteca.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 32,
+        "ingles": "Interest",
+        "portugues": "Juros",
+        "fraseIngles": "What's the interest rate on this loan?",
+        "frasePortugues": "Qual é a taxa de juros deste empréstimo?",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 33,
+        "ingles": "Rate",
+        "portugues": "Taxa",
+        "fraseIngles": "Interest rates are at historic lows.",
+        "frasePortugues": "As taxas de juros estão em mínimas históricas.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 34,
+        "ingles": "APR",
+        "portugues": "Taxa anual",
+        "fraseIngles": "The APR includes all fees.",
+        "frasePortugues": "A taxa anual inclui todas as taxas.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 35,
+        "ingles": "Credit",
+        "portugues": "Crédito",
+        "fraseIngles": "You have excellent credit history.",
+        "frasePortugues": "Você tem histórico de crédito excelente.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 36,
+        "ingles": "Credit score",
+        "portugues": "Pontuação de crédito",
+        "fraseIngles": "A high credit score gets better rates.",
+        "frasePortugues": "Uma pontuação alta de crédito consegue melhores taxas.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 37,
+        "ingles": "Credit report",
+        "portugues": "Relatório de crédito",
+        "fraseIngles": "Check your credit report annually.",
+        "frasePortugues": "Verifique seu relatório de crédito anualmente.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 38,
+        "ingles": "Application",
+        "portugues": "Solicitação",
+        "fraseIngles": "Fill out this loan application.",
+        "frasePortugues": "Preencha esta solicitação de empréstimo.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 39,
+        "ingles": "Approval",
+        "portugues": "Aprovação",
+        "fraseIngles": "Your loan approval is pending.",
+        "frasePortugues": "Sua aprovação de empréstimo está pendente.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 40,
+        "ingles": "Deny",
+        "portugues": "Negar",
+        "fraseIngles": "The bank denied my credit application.",
+        "frasePortugues": "O banco negou minha solicitação de crédito.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 41,
+        "ingles": "Qualify",
+        "portugues": "Qualificar",
+        "fraseIngles": "Do I qualify for this mortgage?",
+        "frasePortugues": "Eu me qualifico para esta hipoteca?",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 42,
+        "ingles": "Requirement",
+        "portugues": "Requisito",
+        "fraseIngles": "What are the requirements for this account?",
+        "frasePortugues": "Quais são os requisitos para esta conta?",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 43,
+        "ingles": "Documentation",
+        "portugues": "Documentação",
+        "fraseIngles": "Bring all required documentation.",
+        "frasePortugues": "Traga toda documentação necessária.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 44,
+        "ingles": "Income",
+        "portugues": "Renda",
+        "fraseIngles": "Proof of income is required.",
+        "frasePortugues": "Comprovante de renda é obrigatório.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 45,
+        "ingles": "Employment",
+        "portugues": "Emprego",
+        "fraseIngles": "How long have you been at your current employment?",
+        "frasePortugues": "Há quanto tempo está no seu emprego atual?",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 46,
+        "ingles": "Salary",
+        "portugues": "Salário",
+        "fraseIngles": "What's your monthly salary?",
+        "frasePortugues": "Qual é seu salário mensal?",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 47,
+        "ingles": "Pay stub",
+        "portugues": "Holerite",
+        "fraseIngles": "Bring your most recent pay stubs.",
+        "frasePortugues": "Traga seus holerites mais recentes.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 48,
+        "ingles": "Tax return",
+        "portugues": "Declaração de imposto",
+        "fraseIngles": "We need your last two tax returns.",
+        "frasePortugues": "Precisamos de suas duas últimas declarações de imposto.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 49,
+        "ingles": "Investment",
+        "portugues": "Investimento",
+        "fraseIngles": "The bank offers various investment options.",
+        "frasePortugues": "O banco oferece várias opções de investimento.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 50,
+        "ingles": "Portfolio",
+        "portugues": "Portfólio",
+        "fraseIngles": "Diversify your investment portfolio.",
+        "frasePortugues": "Diversifique seu portfólio de investimentos.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 51,
+        "ingles": "Stocks",
+        "portugues": "Ações",
+        "fraseIngles": "Stock prices fluctuate daily.",
+        "frasePortugues": "Preços de ações flutuam diariamente.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 52,
+        "ingles": "Bonds",
+        "portugues": "Títulos",
+        "fraseIngles": "Government bonds are low-risk investments.",
+        "frasePortugues": "Títulos do governo são investimentos de baixo risco.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 53,
+        "ingles": "Mutual fund",
+        "portugues": "Fundo mútuo",
+        "fraseIngles": "Mutual funds spread investment risk.",
+        "frasePortugues": "Fundos mútuos distribuem risco de investimento.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 54,
+        "ingles": "Certificate of deposit",
+        "portugues": "Certificado de depósito",
+        "fraseIngles": "CDs offer guaranteed returns.",
+        "frasePortugues": "Certificados de depósito oferecem retornos garantidos.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 55,
+        "ingles": "Retirement",
+        "portugues": "Aposentadoria",
+        "fraseIngles": "Start saving for retirement early.",
+        "frasePortugues": "Comece a poupar para aposentadoria cedo.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 56,
+        "ingles": "IRA",
+        "portugues": "Conta de aposentadoria",
+        "fraseIngles": "An IRA provides tax advantages.",
+        "frasePortugues": "Uma conta de aposentadoria oferece vantagens fiscais.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 57,
+        "ingles": "401k",
+        "portugues": "Plano de aposentadoria",
+        "fraseIngles": "Contribute to your company's 401k plan.",
+        "frasePortugues": "Contribua para o plano 401k da sua empresa.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 58,
+        "ingles": "Fee",
+        "portugues": "Taxa",
+        "fraseIngles": "Are there any monthly fees?",
+        "frasePortugues": "Há alguma taxa mensal?",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 59,
+        "ingles": "Charge",
+        "portugues": "Cobrança",
+        "fraseIngles": "There's no charge for this service.",
+        "frasePortugues": "Não há cobrança por este serviço.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 60,
+        "ingles": "Commission",
+        "portugues": "Comissão",
+        "fraseIngles": "Investment trades include commission fees.",
+        "frasePortugues": "Negociações de investimento incluem taxas de comissão.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 61,
+        "ingles": "Service charge",
+        "portugues": "Taxa de serviço",
+        "fraseIngles": "Overdrafts incur a service charge.",
+        "frasePortugues": "Cheques especiais incorrem em taxa de serviço.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 62,
+        "ingles": "Overdraft",
+        "portugues": "Cheque especial",
+        "fraseIngles": "My account went into overdraft.",
+        "frasePortugues": "Minha conta entrou no cheque especial.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 63,
+        "ingles": "NSF",
+        "portugues": "Fundos insuficientes",
+        "fraseIngles": "NSF fees are $35 per occurrence.",
+        "frasePortugues": "Taxas de fundos insuficientes são $35 por ocorrência.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 64,
+        "ingles": "Penalty",
+        "portugues": "Multa",
+        "fraseIngles": "Early withdrawal carries a penalty.",
+        "frasePortugues": "Saque antecipado tem multa.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 65,
+        "ingles": "Minimum",
+        "portugues": "Mínimo",
+        "fraseIngles": "There's a $100 minimum balance requirement.",
+        "frasePortugues": "Há um requisito de saldo mínimo de $100.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 66,
+        "ingles": "Maximum",
+        "portugues": "Máximo",
+        "fraseIngles": "The maximum daily withdrawal is $1000.",
+        "frasePortugues": "O saque diário máximo é $1000.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 67,
+        "ingles": "Limit",
+        "portugues": "Limite",
+        "fraseIngles": "Your credit limit is $5000.",
+        "frasePortugues": "Seu limite de crédito é $5000.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 68,
+        "ingles": "Budget",
+        "portugues": "Orçamento",
+        "fraseIngles": "Create a monthly budget plan.",
+        "frasePortugues": "Crie um plano de orçamento mensal.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 69,
+        "ingles": "Expense",
+        "portugues": "Despesa",
+        "fraseIngles": "Track all your monthly expenses.",
+        "frasePortugues": "Rastreie todas suas despesas mensais.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 70,
+        "ingles": "Income",
+        "portugues": "Receita",
+        "fraseIngles": "Your total monthly income is recorded.",
+        "frasePortugues": "Sua receita mensal total está registrada.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 71,
+        "ingles": "Profit",
+        "portugues": "Lucro",
+        "fraseIngles": "The investment showed a good profit.",
+        "frasePortugues": "O investimento mostrou um bom lucro.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 72,
+        "ingles": "Loss",
+        "portugues": "Prejuízo",
+        "fraseIngles": "Market volatility can cause losses.",
+        "frasePortugues": "Volatilidade do mercado pode causar prejuízos.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 73,
+        "ingles": "Gain",
+        "portugues": "Ganho",
+        "fraseIngles": "Long-term investments often show gains.",
+        "frasePortugues": "Investimentos de longo prazo frequentemente mostram ganhos.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 74,
+        "ingles": "Return",
+        "portugues": "Retorno",
+        "fraseIngles": "What's the expected return on investment?",
+        "frasePortugues": "Qual é o retorno esperado do investimento?",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 75,
+        "ingles": "Yield",
+        "portugues": "Rendimento",
+        "fraseIngles": "High-yield savings accounts pay more interest.",
+        "frasePortugues": "Contas poupança de alto rendimento pagam mais juros.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 76,
+        "ingles": "Dividend",
+        "portugues": "Dividendo",
+        "fraseIngles": "Shareholders receive quarterly dividends.",
+        "frasePortugues": "Acionistas recebem dividendos trimestrais.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 77,
+        "ingles": "Currency",
+        "portugues": "Moeda",
+        "fraseIngles": "We exchange foreign currency.",
+        "frasePortugues": "Trocamos moeda estrangeira.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 78,
+        "ingles": "Exchange rate",
+        "portugues": "Taxa de câmbio",
+        "fraseIngles": "The exchange rate changes daily.",
+        "frasePortugues": "A taxa de câmbio muda diariamente.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 79,
+        "ingles": "Foreign exchange",
+        "portugues": "Câmbio",
+        "fraseIngles": "Foreign exchange services are available.",
+        "frasePortugues": "Serviços de câmbio estão disponíveis.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 80,
+        "ingles": "Traveler's checks",
+        "portugues": "Cheques de viagem",
+        "fraseIngles": "Traveler's checks are safe for international travel.",
+        "frasePortugues": "Cheques de viagem são seguros para viagem internacional.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 81,
+        "ingles": "Safe deposit box",
+        "portugues": "Cofre",
+        "fraseIngles": "Store valuables in a safe deposit box.",
+        "frasePortugues": "Guarde objetos de valor num cofre.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 82,
+        "ingles": "Vault",
+        "portugues": "Cofre-forte",
+        "fraseIngles": "The bank vault is highly secure.",
+        "frasePortugues": "O cofre-forte do banco é altamente seguro.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 83,
+        "ingles": "Security box",
+        "portugues": "Caixa de segurança",
+        "fraseIngles": "Rent a security box for important documents.",
+        "frasePortugues": "Alugue uma caixa de segurança para documentos importantes.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 84,
+        "ingles": "Insurance",
+        "portugues": "Seguro",
+        "fraseIngles": "Bank deposits are FDIC insured.",
+        "frasePortugues": "Depósitos bancários são segurados pelo FDIC.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 85,
+        "ingles": "FDIC",
+        "portugues": "Seguro de depósitos",
+        "fraseIngles": "FDIC insurance protects deposits up to $250,000.",
+        "frasePortugues": "O seguro FDIC protege depósitos até $250.000.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 86,
+        "ingles": "Protection",
+        "portugues": "Proteção",
+        "fraseIngles": "Fraud protection monitors your accounts.",
+        "frasePortugues": "Proteção contra fraude monitora suas contas.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 87,
+        "ingles": "Fraud",
+        "portugues": "Fraude",
+        "fraseIngles": "Report suspected fraud immediately.",
+        "frasePortugues": "Reporte suspeita de fraude imediatamente.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 88,
+        "ingles": "Scam",
+        "portugues": "Golpe",
+        "fraseIngles": "Be aware of phone scams.",
+        "frasePortugues": "Cuidado com golpes telefônicos.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 89,
+        "ingles": "Identity theft",
+        "portugues": "Roubo de identidade",
+        "fraseIngles": "Identity theft is a serious crime.",
+        "frasePortugues": "Roubo de identidade é um crime sério.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 90,
+        "ingles": "Dispute",
+        "portugues": "Contestação",
+        "fraseIngles": "File a dispute for unauthorized charges.",
+        "frasePortugues": "Registre uma contestação para cobranças não autorizadas.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 91,
+        "ingles": "Error",
+        "portugues": "Erro",
+        "fraseIngles": "There's an error on my statement.",
+        "frasePortugues": "Há um erro no meu extrato.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 92,
+        "ingles": "Correction",
+        "portugues": "Correção",
+        "fraseIngles": "The bank made a correction to my account.",
+        "frasePortugues": "O banco fez uma correção na minha conta.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 93,
+        "ingles": "Refund",
+        "portugues": "Reembolso",
+        "fraseIngles": "I'm entitled to a full refund.",
+        "frasePortugues": "Tenho direito a um reembolso total.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 94,
+        "ingles": "Chargeback",
+        "portugues": "Estorno",
+        "fraseIngles": "Request a chargeback for the fraudulent charge.",
+        "frasePortugues": "Solicite um estorno para a cobrança fraudulenta.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 95,
+        "ingles": "Business account",
+        "portugues": "Conta empresarial",
+        "fraseIngles": "Business accounts have different features.",
+        "frasePortugues": "Contas empresariais têm recursos diferentes.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 96,
+        "ingles": "Personal account",
+        "portugues": "Conta pessoal",
+        "fraseIngles": "This is for personal account holders only.",
+        "frasePortugues": "Isso é apenas para portadores de conta pessoal.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 97,
+        "ingles": "Joint account",
+        "portugues": "Conta conjunta",
+        "fraseIngles": "A joint account requires both signatures.",
+        "frasePortugues": "Uma conta conjunta requer ambas assinaturas.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 98,
+        "ingles": "Individual account",
+        "portugues": "Conta individual",
+        "fraseIngles": "Individual accounts have single ownership.",
+        "frasePortugues": "Contas individuais têm proprietário único.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 99,
+        "ingles": "Trust account",
+        "portugues": "Conta fiduciária",
+        "fraseIngles": "Trust accounts are managed for beneficiaries.",
+        "frasePortugues": "Contas fiduciárias são gerenciadas para beneficiários.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 100,
+        "ingles": "Estate",
+        "portugues": "Espólio",
+        "fraseIngles": "Estate accounts handle deceased persons' assets.",
+        "frasePortugues": "Contas de espólio lidam com bens de pessoas falecidas.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 101,
+        "ingles": "Power of attorney",
+        "portugues": "Procuração",
+        "fraseIngles": "Power of attorney allows account management.",
+        "frasePortugues": "Procuração permite gerenciamento de conta.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 102,
+        "ingles": "Beneficiary",
+        "portugues": "Beneficiário",
+        "fraseIngles": "Name a beneficiary for your accounts.",
+        "frasePortugues": "Nomeie um beneficiário para suas contas.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 103,
+        "ingles": "Heir",
+        "portugues": "Herdeiro",
+        "fraseIngles": "Heirs inherit account assets.",
+        "frasePortugues": "Herdeiros herdam ativos da conta.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 104,
+        "ingles": "Will",
+        "portugues": "Testamento",
+        "fraseIngles": "A will specifies asset distribution.",
+        "frasePortugues": "Um testamento especifica distribuição de bens.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 105,
+        "ingles": "Executor",
+        "portugues": "Executor testamentário",
+        "fraseIngles": "The executor manages estate affairs.",
+        "frasePortugues": "O executor testamentário gerencia assuntos do espólio.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 106,
+        "ingles": "Probate",
+        "portugues": "Inventário",
+        "fraseIngles": "Probate court validates the will.",
+        "frasePortugues": "Tribunal de inventário valida o testamento.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 107,
+        "ingles": "Financial advisor",
+        "portugues": "Consultor financeiro",
+        "fraseIngles": "Consult a financial advisor for investment guidance.",
+        "frasePortugues": "Consulte um consultor financeiro para orientação sobre investimentos.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 108,
+        "ingles": "Banker",
+        "portugues": "Banqueiro",
+        "fraseIngles": "My personal banker knows my financial goals.",
+        "frasePortugues": "Meu banqueiro pessoal conhece meus objetivos financeiros.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 109,
+        "ingles": "Manager",
+        "portugues": "Gerente",
+        "fraseIngles": "The branch manager approved my loan.",
+        "frasePortugues": "O gerente da agência aprovou meu empréstimo.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 110,
+        "ingles": "Loan officer",
+        "portugues": "Oficial de empréstimos",
+        "fraseIngles": "The loan officer reviewed my application.",
+        "frasePortugues": "O oficial de empréstimos revisou minha solicitação.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 111,
+        "ingles": "Customer service",
+        "portugues": "Atendimento ao cliente",
+        "fraseIngles": "Customer service is available by phone.",
+        "frasePortugues": "Atendimento ao cliente está disponível por telefone.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 112,
+        "ingles": "Representative",
+        "portugues": "Representante",
+        "fraseIngles": "Speak with a customer service representative.",
+        "frasePortugues": "Fale com um representante de atendimento ao cliente.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 113,
+        "ingles": "Appointment",
+        "portugues": "Agendamento",
+        "fraseIngles": "Schedule an appointment with the manager.",
+        "frasePortugues": "Agende um encontro com o gerente.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 114,
+        "ingles": "Consultation",
+        "portugues": "Consulta",
+        "fraseIngles": "Free financial consultations are offered.",
+        "frasePortugues": "Consultas financeiras gratuitas são oferecidas.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 115,
+        "ingles": "Meeting",
+        "portugues": "Reunião",
+        "fraseIngles": "We have a meeting scheduled for tomorrow.",
+        "frasePortugues": "Temos uma reunião agendada para amanhã.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 116,
+        "ingles": "Review",
+        "portugues": "Revisão",
+        "fraseIngles": "Annual account reviews are recommended.",
+        "frasePortugues": "Revisões anuais de conta são recomendadas.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 117,
+        "ingles": "Analysis",
+        "portugues": "Análise",
+        "fraseIngles": "The financial analysis shows good progress.",
+        "frasePortugues": "A análise financeira mostra bom progresso.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 118,
+        "ingles": "Planning",
+        "portugues": "Planejamento",
+        "fraseIngles": "Financial planning secures your future.",
+        "frasePortugues": "Planejamento financeiro garante seu futuro.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 119,
+        "ingles": "Goal",
+        "portugues": "Meta",
+        "fraseIngles": "Set realistic financial goals.",
+        "frasePortugues": "Estabeleça metas financeiras realistas.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 120,
+        "ingles": "Strategy",
+        "portugues": "Estratégia",
+        "fraseIngles": "Develop a savings strategy.",
+        "frasePortugues": "Desenvolva uma estratégia de poupança.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 121,
+        "ingles": "Advice",
+        "portugues": "Conselho",
+        "fraseIngles": "Professional advice can save money.",
+        "frasePortugues": "Conselho profissional pode economizar dinheiro.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 122,
+        "ingles": "Recommendation",
+        "portugues": "Recomendação",
+        "fraseIngles": "I'll follow your investment recommendation.",
+        "frasePortugues": "Seguirei sua recomendação de investimento.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 123,
+        "ingles": "Suggestion",
+        "portugues": "Sugestão",
+        "fraseIngles": "Do you have any suggestions for saving money?",
+        "frasePortugues": "Você tem alguma sugestão para economizar dinheiro?",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 124,
+        "ingles": "Option",
+        "portugues": "Opção",
+        "fraseIngles": "What options are available for students?",
+        "frasePortugues": "Que opções estão disponíveis para estudantes?",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 125,
+        "ingles": "Choice",
+        "portugues": "Escolha",
+        "fraseIngles": "You have several account choices.",
+        "frasePortugues": "Você tem várias escolhas de conta.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 126,
+        "ingles": "Decision",
+        "portugues": "Decisão",
+        "fraseIngles": "Take time to make an informed decision.",
+        "frasePortugues": "Reserve tempo para tomar uma decisão informada.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 127,
+        "ingles": "Compare",
+        "portugues": "Comparar",
+        "fraseIngles": "Compare interest rates before choosing.",
+        "frasePortugues": "Compare taxas de juros antes de escolher.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 128,
+        "ingles": "Research",
+        "portugues": "Pesquisar",
+        "fraseIngles": "Research different investment options.",
+        "frasePortugues": "Pesquise diferentes opções de investimento.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 129,
+        "ingles": "Information",
+        "portugues": "Informação",
+        "fraseIngles": "All account information is confidential.",
+        "frasePortugues": "Toda informação de conta é confidencial.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 130,
+        "ingles": "Details",
+        "portugues": "Detalhes",
+        "fraseIngles": "I need more details about this service.",
+        "frasePortugues": "Preciso de mais detalhes sobre este serviço.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 131,
+        "ingles": "Explanation",
+        "portugues": "Explicação",
+        "fraseIngles": "Can you give me an explanation of these fees?",
+        "frasePortugues": "Pode me dar uma explicação dessas taxas?",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 132,
+        "ingles": "Question",
+        "portugues": "Pergunta",
+        "fraseIngles": "I have a question about my statement.",
+        "frasePortugues": "Tenho uma pergunta sobre meu extrato.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 133,
+        "ingles": "Answer",
+        "portugues": "Resposta",
+        "fraseIngles": "The teller gave me a helpful answer.",
+        "frasePortugues": "O caixa me deu uma resposta útil.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 134,
+        "ingles": "Help",
+        "portugues": "Ajuda",
+        "fraseIngles": "I need help understanding this form.",
+        "frasePortugues": "Preciso de ajuda para entender este formulário.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 135,
+        "ingles": "Assistance",
+        "portugues": "Assistência",
+        "fraseIngles": "Customer assistance is our priority.",
+        "frasePortugues": "Assistência ao cliente é nossa prioridade.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 136,
+        "ingles": "Support",
+        "portugues": "Suporte",
+        "fraseIngles": "Technical support helps with online banking.",
+        "frasePortugues": "Suporte técnico ajuda com internet banking.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 137,
+        "ingles": "Service",
+        "portugues": "Serviço",
+        "fraseIngles": "We pride ourselves on excellent service.",
+        "frasePortugues": "Temos orgulho do nosso excelente serviço.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 138,
+        "ingles": "Quality",
+        "portugues": "Qualidade",
+        "fraseIngles": "Quality service builds customer loyalty.",
+        "frasePortugues": "Serviço de qualidade constrói fidelidade do cliente.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 139,
+        "ingles": "Satisfaction",
+        "portugues": "Satisfação",
+        "fraseIngles": "Customer satisfaction is guaranteed.",
+        "frasePortugues": "Satisfação do cliente é garantida.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 140,
+        "ingles": "Complaint",
+        "portugues": "Reclamação",
+        "fraseIngles": "File a complaint with the manager.",
+        "frasePortugues": "Registre uma reclamação com o gerente.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 141,
+        "ingles": "Problem",
+        "portugues": "Problema",
+        "fraseIngles": "What seems to be the problem?",
+        "frasePortugues": "Qual parece ser o problema?",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 142,
+        "ingles": "Issue",
+        "portugues": "Questão",
+        "fraseIngles": "We'll resolve this issue quickly.",
+        "frasePortugues": "Resolveremos esta questão rapidamente.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 143,
+        "ingles": "Solution",
+        "portugues": "Solução",
+        "fraseIngles": "There's a solution to every problem.",
+        "frasePortugues": "Há uma solução para todo problema.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 144,
+        "ingles": "Resolution",
+        "portugues": "Resolução",
+        "fraseIngles": "The resolution was satisfactory.",
+        "frasePortugues": "A resolução foi satisfatória.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 145,
+        "ingles": "Process",
+        "portugues": "Processo",
+        "fraseIngles": "The application process takes 5-7 days.",
+        "frasePortugues": "O processo de solicitação leva 5-7 dias.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 146,
+        "ingles": "Procedure",
+        "portugues": "Procedimento",
+        "fraseIngles": "Follow the standard procedure.",
+        "frasePortugues": "Siga o procedimento padrão.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 147,
+        "ingles": "Step",
+        "portugues": "Passo",
+        "fraseIngles": "What's the next step in the process?",
+        "frasePortugues": "Qual é o próximo passo no processo?",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 148,
+        "ingles": "Form",
+        "portugues": "Formulário",
+        "fraseIngles": "Fill out this application form.",
+        "frasePortugues": "Preencha este formulário de solicitação.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 149,
+        "ingles": "Document",
+        "portugues": "Documento",
+        "fraseIngles": "Sign and date all documents.",
+        "frasePortugues": "Assine e date todos os documentos.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 150,
+        "ingles": "Paperwork",
+        "portugues": "Papelada",
+        "fraseIngles": "The loan requires extensive paperwork.",
+        "frasePortugues": "O empréstimo requer papelada extensa.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 151,
+        "ingles": "File",
+        "portugues": "Arquivo",
+        "fraseIngles": "Keep copies for your files.",
+        "frasePortugues": "Mantenha cópias para seus arquivos.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 152,
+        "ingles": "Record",
+        "portugues": "Registro",
+        "fraseIngles": "We maintain detailed records.",
+        "frasePortugues": "Mantemos registros detalhados.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 153,
+        "ingles": "History",
+        "portugues": "Histórico",
+        "fraseIngles": "Your account history shows regular deposits.",
+        "frasePortugues": "O histórico da sua conta mostra depósitos regulares.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 154,
+        "ingles": "Transaction",
+        "portugues": "Transação",
+        "fraseIngles": "All transactions are recorded.",
+        "frasePortugues": "Todas as transações são registradas.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 155,
+        "ingles": "Activity",
+        "portugues": "Atividade",
+        "fraseIngles": "Recent account activity looks normal.",
+        "frasePortugues": "Atividade recente da conta parece normal.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 156,
+        "ingles": "Summary",
+        "portugues": "Resumo",
+        "fraseIngles": "Here's a summary of your accounts.",
+        "frasePortugues": "Aqui está um resumo de suas contas.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 157,
+        "ingles": "Report",
+        "portugues": "Relatório",
+        "fraseIngles": "The monthly report shows good progress.",
+        "frasePortugues": "O relatório mensal mostra bom progresso.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 158,
+        "ingles": "Notification",
+        "portugues": "Notificação",
+        "fraseIngles": "You'll receive notification by email.",
+        "frasePortugues": "Você receberá notificação por email.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 159,
+        "ingles": "Alert",
+        "portugues": "Alerta",
+        "fraseIngles": "Set up account alerts for security.",
+        "frasePortugues": "Configure alertas de conta para segurança.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 160,
+        "ingles": "Reminder",
+        "portugues": "Lembrete",
+        "fraseIngles": "Payment reminders prevent late fees.",
+        "frasePortugues": "Lembretes de pagamento previnem taxas de atraso.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 161,
+        "ingles": "Due date",
+        "portugues": "Data de vencimento",
+        "fraseIngles": "Mark the due date on your calendar.",
+        "frasePortugues": "Marque a data de vencimento no seu calendário.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 162,
+        "ingles": "Payment",
+        "portugues": "Pagamento",
+        "fraseIngles": "Your payment is due on the 15th.",
+        "frasePortugues": "Seu pagamento vence no dia 15.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 163,
+        "ingles": "Bill pay",
+        "portugues": "Pagamento de contas",
+        "fraseIngles": "Online bill pay is convenient.",
+        "frasePortugues": "Pagamento online de contas é conveniente.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 164,
+        "ingles": "Automatic",
+        "portugues": "Automático",
+        "fraseIngles": "Set up automatic payments.",
+        "frasePortugues": "Configure pagamentos automáticos.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 165,
+        "ingles": "Schedule",
+        "portugues": "Agendar",
+        "fraseIngles": "Schedule recurring payments.",
+        "frasePortugues": "Agende pagamentos recorrentes.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 166,
+        "ingles": "Confirmation",
+        "portugues": "Confirmação",
+        "fraseIngles": "You'll receive payment confirmation.",
+        "frasePortugues": "Você receberá confirmação de pagamento.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 167,
+        "ingles": "Receipt",
+        "portugues": "Recibo",
+        "fraseIngles": "Keep your transaction receipts.",
+        "frasePortugues": "Guarde seus recibos de transação.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 168,
+        "ingles": "Proof",
+        "portugues": "Comprovante",
+        "fraseIngles": "This receipt is proof of payment.",
+        "frasePortugues": "Este recibo é comprovante de pagamento.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 169,
+        "ingles": "Valid",
+        "portugues": "Válido",
+        "fraseIngles": "This receipt is valid for 30 days.",
+        "frasePortugues": "Este recibo é válido por 30 dias.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 170,
+        "ingles": "Expire",
+        "portugues": "Expirar",
+        "fraseIngles": "Your card will expire next month.",
+        "frasePortugues": "Seu cartão expirará no próximo mês.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 171,
+        "ingles": "Renew",
+        "portugues": "Renovar",
+        "fraseIngles": "Don't forget to renew your card.",
+        "frasePortugues": "Não esqueça de renovar seu cartão.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 172,
+        "ingles": "Replace",
+        "portugues": "Substituir",
+        "fraseIngles": "I need to replace my lost card.",
+        "frasePortugues": "Preciso substituir meu cartão perdido.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 173,
+        "ingles": "Cancel",
+        "portugues": "Cancelar",
+        "fraseIngles": "I want to cancel this transaction.",
+        "frasePortugues": "Quero cancelar esta transação.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 174,
+        "ingles": "Close",
+        "portugues": "Fechar",
+        "fraseIngles": "Are you sure you want to close this account?",
+        "frasePortugues": "Tem certeza de que quer fechar esta conta?",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 175,
+        "ingles": "Open",
+        "portugues": "Abrir",
+        "fraseIngles": "Let's open a savings account today.",
+        "frasePortugues": "Vamos abrir uma conta poupança hoje.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 176,
+        "ingles": "Start",
+        "portugues": "Começar",
+        "fraseIngles": "When can I start using my new account?",
+        "frasePortugues": "Quando posso começar a usar minha nova conta?",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 177,
+        "ingles": "Begin",
+        "portugues": "Iniciar",
+        "fraseIngles": "Let's begin the application process.",
+        "frasePortugues": "Vamos iniciar o processo de solicitação.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 178,
+        "ingles": "Complete",
+        "portugues": "Completar",
+        "fraseIngles": "Please complete all required fields.",
+        "frasePortugues": "Por favor, complete todos os campos obrigatórios.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 179,
+        "ingles": "Finish",
+        "portugues": "Terminar",
+        "fraseIngles": "We should finish this paperwork today.",
+        "frasePortugues": "Devemos terminar esta papelada hoje.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 180,
+        "ingles": "Done",
+        "portugues": "Pronto",
+        "fraseIngles": "Your application is done!",
+        "frasePortugues": "Sua solicitação está pronta!",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 181,
+        "ingles": "Ready",
+        "portugues": "Pronto",
+        "fraseIngles": "Your new cards are ready for pickup.",
+        "frasePortugues": "Seus novos cartões estão prontos para retirada.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 182,
+        "ingles": "Available",
+        "portugues": "Disponível",
+        "fraseIngles": "These services are available to all customers.",
+        "frasePortugues": "Estes serviços estão disponíveis para todos os clientes.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 183,
+        "ingles": "Convenient",
+        "portugues": "Conveniente",
+        "fraseIngles": "Online banking is very convenient.",
+        "frasePortugues": "Internet banking é muito conveniente.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 184,
+        "ingles": "Easy",
+        "portugues": "Fácil",
+        "fraseIngles": "Mobile banking makes transactions easy.",
+        "frasePortugues": "Banking móvel torna transações fáceis.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 185,
+        "ingles": "Simple",
+        "portugues": "Simples",
+        "fraseIngles": "The process is simple and straightforward.",
+        "frasePortugues": "O processo é simples e direto.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 186,
+        "ingles": "Quick",
+        "portugues": "Rápido",
+        "fraseIngles": "Quick transfers save time.",
+        "frasePortugues": "Transferências rápidas economizam tempo.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 187,
+        "ingles": "Fast",
+        "portugues": "Rápido",
+        "fraseIngles": "Fast service is our specialty.",
+        "frasePortugues": "Serviço rápido é nossa especialidade.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 188,
+        "ingles": "Efficient",
+        "portugues": "Eficiente",
+        "fraseIngles": "Our systems are highly efficient.",
+        "frasePortugues": "Nossos sistemas são altamente eficientes.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 189,
+        "ingles": "Reliable",
+        "portugues": "Confiável",
+        "fraseIngles": "Our services are reliable and secure.",
+        "frasePortugues": "Nossos serviços são confiáveis e seguros.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 190,
+        "ingles": "Trustworthy",
+        "portugues": "Confiável",
+        "fraseIngles": "Choose a trustworthy financial institution.",
+        "frasePortugues": "Escolha uma instituição financeira confiável.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 191,
+        "ingles": "Professional",
+        "portugues": "Profissional",
+        "fraseIngles": "Our staff maintains professional standards.",
+        "frasePortugues": "Nossa equipe mantém padrões profissionais.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 192,
+        "ingles": "Experienced",
+        "portugues": "Experiente",
+        "fraseIngles": "Our loan officers are very experienced.",
+        "frasePortugues": "Nossos oficiais de empréstimo são muito experientes.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 193,
+        "ingles": "Knowledgeable",
+        "portugues": "Conhecedor",
+        "fraseIngles": "The staff is knowledgeable about all services.",
+        "frasePortugues": "A equipe conhece todos os serviços.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 194,
+        "ingles": "Helpful",
+        "portugues": "Prestativo",
+        "fraseIngles": "Everyone here is very helpful.",
+        "frasePortugues": "Todos aqui são muito prestativos.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 195,
+        "ingles": "Friendly",
+        "portugues": "Amigável",
+        "fraseIngles": "We maintain a friendly atmosphere.",
+        "frasePortugues": "Mantemos uma atmosfera amigável.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 196,
+        "ingles": "Polite",
+        "portugues": "Educado",
+        "fraseIngles": "Our staff is always polite.",
+        "frasePortugues": "Nossa equipe é sempre educada.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 197,
+        "ingles": "Courteous",
+        "portugues": "Cortês",
+        "fraseIngles": "Courteous service is standard here.",
+        "frasePortugues": "Serviço cortês é padrão aqui.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 198,
+        "ingles": "Thank you",
+        "portugues": "Obrigado",
+        "fraseIngles": "Thank you for choosing our bank.",
+        "frasePortugues": "Obrigado por escolher nosso banco.",
+        "subtopico": "banco",
+        "topico": "Frases"
+    },
+    {
+        "id": 199,
+        "ingles": "Welcome",
+        "portugues": "Bem-vindo",
+        "fraseIngles": "Welcome to our banking family!",
+        "frasePortugues": "Bem-vindo à nossa família bancária!",
+        "subtopico": "banco",
+        "topico": "Frases"
+    }
+]

@@ -1,0 +1,2162 @@
+[
+    {
+        "id": 1,
+        "ingles": "Travel",
+        "portugues": "Viajar",
+        "fraseIngles": "I love to travel around the world.",
+        "frasePortugues": "Adoro viajar pelo mundo.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 2,
+        "ingles": "Trip",
+        "portugues": "Viagem",
+        "fraseIngles": "This trip was amazing!",
+        "frasePortugues": "Esta viagem foi incrível!",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 3,
+        "ingles": "Journey",
+        "portugues": "Jornada",
+        "fraseIngles": "The journey takes five hours.",
+        "frasePortugues": "A jornada leva cinco horas.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 4,
+        "ingles": "Vacation",
+        "portugues": "Férias",
+        "fraseIngles": "We're planning our summer vacation.",
+        "frasePortugues": "Estamos planejando nossas férias de verão.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 5,
+        "ingles": "Holiday",
+        "portugues": "Feriado / Férias",
+        "fraseIngles": "I need a holiday after this busy month.",
+        "frasePortugues": "Preciso de umas férias depois deste mês ocupado.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 6,
+        "ingles": "Tourist",
+        "portugues": "Turista",
+        "fraseIngles": "The city is full of tourists in summer.",
+        "frasePortugues": "A cidade está cheia de turistas no verão.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 7,
+        "ingles": "Tourism",
+        "portugues": "Turismo",
+        "fraseIngles": "Tourism is important for the economy.",
+        "frasePortugues": "O turismo é importante para a economia.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 8,
+        "ingles": "Sightseeing",
+        "portugues": "Turismo / Passeio turístico",
+        "fraseIngles": "We spent the day sightseeing downtown.",
+        "frasePortugues": "Passamos o dia fazendo turismo no centro.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 9,
+        "ingles": "Adventure",
+        "portugues": "Aventura",
+        "fraseIngles": "This adventure will be unforgettable.",
+        "frasePortugues": "Esta aventura será inesquecível.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 10,
+        "ingles": "Explore",
+        "portugues": "Explorar",
+        "fraseIngles": "Let's explore the old town.",
+        "frasePortugues": "Vamos explorar a cidade antiga.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 11,
+        "ingles": "Destination",
+        "portugues": "Destino",
+        "fraseIngles": "What's your favorite travel destination?",
+        "frasePortugues": "Qual é seu destino de viagem favorito?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 12,
+        "ingles": "Country",
+        "portugues": "País",
+        "fraseIngles": "Which country would you like to visit?",
+        "frasePortugues": "Que país você gostaria de visitar?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 13,
+        "ingles": "City",
+        "portugues": "Cidade",
+        "fraseIngles": "This city has amazing architecture.",
+        "frasePortugues": "Esta cidade tem arquitetura incrível.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 14,
+        "ingles": "Town",
+        "portugues": "Cidade pequena",
+        "fraseIngles": "The town has a charming atmosphere.",
+        "frasePortugues": "A cidadezinha tem uma atmosfera encantadora.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 15,
+        "ingles": "Village",
+        "portugues": "Vila",
+        "fraseIngles": "We stayed in a small mountain village.",
+        "frasePortugues": "Ficamos numa pequena vila na montanha.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 16,
+        "ingles": "Capital",
+        "portugues": "Capital",
+        "fraseIngles": "The capital city is very busy.",
+        "frasePortugues": "A capital é muito movimentada.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 17,
+        "ingles": "Region",
+        "portugues": "Região",
+        "fraseIngles": "This region is famous for wine.",
+        "frasePortugues": "Esta região é famosa pelo vinho.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 18,
+        "ingles": "Province",
+        "portugues": "Província",
+        "fraseIngles": "We're visiting three provinces this month.",
+        "frasePortugues": "Estamos visitando três províncias este mês.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 19,
+        "ingles": "State",
+        "portugues": "Estado",
+        "fraseIngles": "Which state are you from?",
+        "frasePortugues": "De que estado você é?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 20,
+        "ingles": "Continent",
+        "portugues": "Continente",
+        "fraseIngles": "We've visited every continent except Antarctica.",
+        "frasePortugues": "Visitamos todos os continentes exceto a Antártica.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 21,
+        "ingles": "Map",
+        "portugues": "Mapa",
+        "fraseIngles": "Do you have a map of the city?",
+        "frasePortugues": "Você tem um mapa da cidade?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 22,
+        "ingles": "Guide",
+        "portugues": "Guia",
+        "fraseIngles": "Our tour guide was very knowledgeable.",
+        "frasePortugues": "Nosso guia turístico era muito conhecedor.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 23,
+        "ingles": "Guidebook",
+        "portugues": "Guia turístico",
+        "fraseIngles": "The guidebook recommends this restaurant.",
+        "frasePortugues": "O guia turístico recomenda este restaurante.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 24,
+        "ingles": "Brochure",
+        "portugues": "Folheto",
+        "fraseIngles": "This brochure has useful information.",
+        "frasePortugues": "Este folheto tem informações úteis.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 25,
+        "ingles": "Information",
+        "portugues": "Informação",
+        "fraseIngles": "Where can I get tourist information?",
+        "frasePortugues": "Onde posso conseguir informações turísticas?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 26,
+        "ingles": "Airport",
+        "portugues": "Aeroporto",
+        "fraseIngles": "The airport is thirty minutes away.",
+        "frasePortugues": "O aeroporto fica a trinta minutos.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 27,
+        "ingles": "Flight",
+        "portugues": "Voo",
+        "fraseIngles": "My flight is delayed two hours.",
+        "frasePortugues": "Meu voo está atrasado duas horas.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 28,
+        "ingles": "Airplane",
+        "portugues": "Avião",
+        "fraseIngles": "The airplane is taking off now.",
+        "frasePortugues": "O avião está decolando agora.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 29,
+        "ingles": "Pilot",
+        "portugues": "Piloto",
+        "fraseIngles": "The pilot announced our arrival time.",
+        "frasePortugues": "O piloto anunciou nosso horário de chegada.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 30,
+        "ingles": "Crew",
+        "portugues": "Tripulação",
+        "fraseIngles": "The flight crew was very helpful.",
+        "frasePortugues": "A tripulação do voo foi muito prestativa.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 31,
+        "ingles": "Passenger",
+        "portugues": "Passageiro",
+        "fraseIngles": "All passengers must show their tickets.",
+        "frasePortugues": "Todos os passageiros devem mostrar seus bilhetes.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 32,
+        "ingles": "Ticket",
+        "portugues": "Bilhete / Passagem",
+        "fraseIngles": "I need to buy a plane ticket.",
+        "frasePortugues": "Preciso comprar uma passagem aérea.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 33,
+        "ingles": "Boarding pass",
+        "portugues": "Cartão de embarque",
+        "fraseIngles": "Don't forget your boarding pass.",
+        "frasePortugues": "Não esqueça seu cartão de embarque.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 34,
+        "ingles": "Gate",
+        "portugues": "Portão",
+        "fraseIngles": "Flight 205 departs from gate 12.",
+        "frasePortugues": "O voo 205 parte do portão 12.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 35,
+        "ingles": "Terminal",
+        "portugues": "Terminal",
+        "fraseIngles": "Which terminal is for international flights?",
+        "frasePortugues": "Qual terminal é para voos internacionais?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 36,
+        "ingles": "Check-in",
+        "portugues": "Check-in",
+        "fraseIngles": "Online check-in saves time.",
+        "frasePortugues": "O check-in online economiza tempo.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 37,
+        "ingles": "Security",
+        "portugues": "Segurança",
+        "fraseIngles": "Security check takes about 20 minutes.",
+        "frasePortugues": "A verificação de segurança leva cerca de 20 minutos.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 38,
+        "ingles": "Customs",
+        "portugues": "Alfândega",
+        "fraseIngles": "We have to go through customs.",
+        "frasePortugues": "Temos que passar pela alfândega.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 39,
+        "ingles": "Immigration",
+        "portugues": "Imigração",
+        "fraseIngles": "The immigration line is very long.",
+        "frasePortugues": "A fila da imigração está muito grande.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 40,
+        "ingles": "Passport",
+        "portugues": "Passaporte",
+        "fraseIngles": "Your passport expires next month.",
+        "frasePortugues": "Seu passaporte expira no próximo mês.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 41,
+        "ingles": "Visa",
+        "portugues": "Visto",
+        "fraseIngles": "Do I need a visa for this country?",
+        "frasePortugues": "Preciso de visto para este país?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 42,
+        "ingles": "Luggage",
+        "portugues": "Bagagem",
+        "fraseIngles": "Where can I collect my luggage?",
+        "frasePortugues": "Onde posso retirar minha bagagem?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 43,
+        "ingles": "Baggage",
+        "portugues": "Bagagem",
+        "fraseIngles": "The baggage allowance is 20 kilos.",
+        "frasePortugues": "A franquia de bagagem é 20 quilos.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 44,
+        "ingles": "Suitcase",
+        "portugues": "Mala",
+        "fraseIngles": "My suitcase is too heavy.",
+        "frasePortugues": "Minha mala está pesada demais.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 45,
+        "ingles": "Backpack",
+        "portugues": "Mochila",
+        "fraseIngles": "A backpack is perfect for hiking.",
+        "frasePortugues": "Uma mochila é perfeita para caminhadas.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 46,
+        "ingles": "Carry-on",
+        "portugues": "Bagagem de mão",
+        "fraseIngles": "This bag qualifies as carry-on.",
+        "frasePortugues": "Esta bolsa serve como bagagem de mão.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 47,
+        "ingles": "Overhead bin",
+        "portugues": "Compartimento superior",
+        "fraseIngles": "Put your bag in the overhead bin.",
+        "frasePortugues": "Coloque sua bolsa no compartimento superior.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 48,
+        "ingles": "Seat",
+        "portugues": "Assento",
+        "fraseIngles": "I prefer a window seat.",
+        "frasePortugues": "Prefiro um assento na janela.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 49,
+        "ingles": "Aisle",
+        "portugues": "Corredor",
+        "fraseIngles": "An aisle seat gives you more legroom.",
+        "frasePortugues": "Um assento no corredor dá mais espaço para as pernas.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 50,
+        "ingles": "Window",
+        "portugues": "Janela",
+        "fraseIngles": "The window seat has a great view.",
+        "frasePortugues": "O assento da janela tem uma vista ótima.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 51,
+        "ingles": "First class",
+        "portugues": "Primeira classe",
+        "fraseIngles": "First class tickets are expensive.",
+        "frasePortugues": "Passagens de primeira classe são caras.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 52,
+        "ingles": "Business class",
+        "portugues": "Classe executiva",
+        "fraseIngles": "Business class offers more comfort.",
+        "frasePortugues": "A classe executiva oferece mais conforto.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 53,
+        "ingles": "Economy class",
+        "portugues": "Classe econômica",
+        "fraseIngles": "Most people fly economy class.",
+        "frasePortugues": "A maioria das pessoas voa na classe econômica.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 54,
+        "ingles": "Departure",
+        "portugues": "Partida",
+        "fraseIngles": "What time is departure?",
+        "frasePortugues": "Que horas é a partida?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 55,
+        "ingles": "Arrival",
+        "portugues": "Chegada",
+        "fraseIngles": "The arrival time is 3:30 PM.",
+        "frasePortugues": "O horário de chegada é 15h30.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 56,
+        "ingles": "Delay",
+        "portugues": "Atraso",
+        "fraseIngles": "There's a two-hour delay.",
+        "frasePortugues": "Há um atraso de duas horas.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 57,
+        "ingles": "Cancel",
+        "portugues": "Cancelar",
+        "fraseIngles": "They had to cancel the flight.",
+        "frasePortugues": "Tiveram que cancelar o voo.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 58,
+        "ingles": "Reschedule",
+        "portugues": "Reagendar",
+        "fraseIngles": "Can I reschedule my flight?",
+        "frasePortugues": "Posso reagendar meu voo?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 59,
+        "ingles": "Connection",
+        "portugues": "Conexão",
+        "fraseIngles": "I have a connecting flight in Paris.",
+        "frasePortugues": "Tenho um voo de conexão em Paris.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 60,
+        "ingles": "Layover",
+        "portugues": "Escala",
+        "fraseIngles": "The layover is three hours.",
+        "frasePortugues": "A escala é de três horas.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 61,
+        "ingles": "Direct flight",
+        "portugues": "Voo direto",
+        "fraseIngles": "Is this a direct flight?",
+        "frasePortugues": "Este é um voo direto?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 62,
+        "ingles": "Stopover",
+        "portugues": "Parada",
+        "fraseIngles": "We have a stopover in London.",
+        "frasePortugues": "Temos uma parada em Londres.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 63,
+        "ingles": "Transfer",
+        "portugues": "Transferência",
+        "fraseIngles": "Where do I transfer to Terminal 2?",
+        "frasePortugues": "Onde faço a transferência para o Terminal 2?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 64,
+        "ingles": "Train",
+        "portugues": "Trem",
+        "fraseIngles": "The train is faster than the bus.",
+        "frasePortugues": "O trem é mais rápido que o ônibus.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 65,
+        "ingles": "Railway",
+        "portugues": "Ferrovia",
+        "fraseIngles": "The railway connects major cities.",
+        "frasePortugues": "A ferrovia conecta as principais cidades.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 66,
+        "ingles": "Station",
+        "portugues": "Estação",
+        "fraseIngles": "The train station is downtown.",
+        "frasePortugues": "A estação de trem fica no centro.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 67,
+        "ingles": "Platform",
+        "portugues": "Plataforma",
+        "fraseIngles": "Train to Boston departs from platform 5.",
+        "frasePortugues": "O trem para Boston parte da plataforma 5.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 68,
+        "ingles": "Coach",
+        "portugues": "Vagão",
+        "fraseIngles": "This coach is for first-class passengers.",
+        "frasePortugues": "Este vagão é para passageiros da primeira classe.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 69,
+        "ingles": "Conductor",
+        "portugues": "Condutor",
+        "fraseIngles": "The conductor checked our tickets.",
+        "frasePortugues": "O condutor verificou nossos bilhetes.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 70,
+        "ingles": "Timetable",
+        "portugues": "Horário",
+        "fraseIngles": "Check the timetable for departure times.",
+        "frasePortugues": "Verifique o horário para os horários de partida.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 71,
+        "ingles": "Express",
+        "portugues": "Expresso",
+        "fraseIngles": "The express train is faster.",
+        "frasePortugues": "O trem expresso é mais rápido.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 72,
+        "ingles": "Local train",
+        "portugues": "Trem local",
+        "fraseIngles": "The local train stops at every station.",
+        "frasePortugues": "O trem local para em toda estação.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 73,
+        "ingles": "Bus",
+        "portugues": "Ônibus",
+        "fraseIngles": "The bus leaves every hour.",
+        "frasePortugues": "O ônibus sai a cada hora.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 74,
+        "ingles": "Coach",
+        "portugues": "Ônibus de viagem",
+        "fraseIngles": "We took a coach to the mountains.",
+        "frasePortugues": "Pegamos um ônibus de viagem para as montanhas.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 75,
+        "ingles": "Bus stop",
+        "portugues": "Ponto de ônibus",
+        "fraseIngles": "Where's the nearest bus stop?",
+        "frasePortugues": "Onde fica o ponto de ônibus mais próximo?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 76,
+        "ingles": "Schedule",
+        "portugues": "Horário",
+        "fraseIngles": "What's the bus schedule?",
+        "frasePortugues": "Qual é o horário do ônibus?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 77,
+        "ingles": "Route",
+        "portugues": "Rota",
+        "fraseIngles": "This route goes through the city center.",
+        "frasePortugues": "Esta rota passa pelo centro da cidade.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 78,
+        "ingles": "Driver",
+        "portugues": "Motorista",
+        "fraseIngles": "The bus driver was very friendly.",
+        "frasePortugues": "O motorista do ônibus foi muito simpático.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 79,
+        "ingles": "Taxi",
+        "portugues": "Táxi",
+        "fraseIngles": "Let's take a taxi to the airport.",
+        "frasePortugues": "Vamos pegar um táxi para o aeroporto.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 80,
+        "ingles": "Cab",
+        "portugues": "Táxi",
+        "fraseIngles": "I'll call a cab for you.",
+        "frasePortugues": "Vou chamar um táxi para você.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 81,
+        "ingles": "Fare",
+        "portugues": "Tarifa",
+        "fraseIngles": "What's the taxi fare to downtown?",
+        "frasePortugues": "Qual é a tarifa do táxi para o centro?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 82,
+        "ingles": "Meter",
+        "portugues": "Taxímetro",
+        "fraseIngles": "Make sure the meter is running.",
+        "frasePortugues": "Certifique-se de que o taxímetro está rodando.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 83,
+        "ingles": "Tip",
+        "portugues": "Gorjeta",
+        "fraseIngles": "How much should I tip the driver?",
+        "frasePortugues": "Quanto devo dar de gorjeta ao motorista?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 84,
+        "ingles": "Car",
+        "portugues": "Carro",
+        "fraseIngles": "We rented a car for the weekend.",
+        "frasePortugues": "Alugamos um carro para o fim de semana.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 85,
+        "ingles": "Rental car",
+        "portugues": "Carro alugado",
+        "fraseIngles": "The rental car company is at the airport.",
+        "frasePortugues": "A locadora de carros fica no aeroporto.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 86,
+        "ingles": "Driving license",
+        "portugues": "Carteira de motorista",
+        "fraseIngles": "You need an international driving license.",
+        "frasePortugues": "Você precisa de uma carteira de motorista internacional.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 87,
+        "ingles": "Gas station",
+        "portugues": "Posto de gasolina",
+        "fraseIngles": "Where's the nearest gas station?",
+        "frasePortugues": "Onde fica o posto de gasolina mais próximo?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 88,
+        "ingles": "Highway",
+        "portugues": "Rodovia",
+        "fraseIngles": "The highway has heavy traffic.",
+        "frasePortugues": "A rodovia tem tráfego pesado.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 89,
+        "ingles": "Road",
+        "portugues": "Estrada",
+        "fraseIngles": "This road leads to the beach.",
+        "frasePortugues": "Esta estrada leva à praia.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 90,
+        "ingles": "Traffic",
+        "portugues": "Trânsito",
+        "fraseIngles": "Traffic is terrible at rush hour.",
+        "frasePortugues": "O trânsito é terrível na hora do rush.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 91,
+        "ingles": "GPS",
+        "portugues": "GPS",
+        "fraseIngles": "The GPS shows the fastest route.",
+        "frasePortugues": "O GPS mostra a rota mais rápida.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 92,
+        "ingles": "Directions",
+        "portugues": "Direções",
+        "fraseIngles": "Can you give me directions to the hotel?",
+        "frasePortugues": "Pode me dar direções para o hotel?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 93,
+        "ingles": "Lost",
+        "portugues": "Perdido",
+        "fraseIngles": "I think we're lost.",
+        "frasePortugues": "Acho que estamos perdidos.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 94,
+        "ingles": "Ship",
+        "portugues": "Navio",
+        "fraseIngles": "The cruise ship has many activities.",
+        "frasePortugues": "O navio de cruzeiro tem muitas atividades.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 95,
+        "ingles": "Boat",
+        "portugues": "Barco",
+        "fraseIngles": "We took a boat to the island.",
+        "frasePortugues": "Pegamos um barco para a ilha.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 96,
+        "ingles": "Ferry",
+        "portugues": "Balsa",
+        "fraseIngles": "The ferry runs every two hours.",
+        "frasePortugues": "A balsa funciona a cada duas horas.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 97,
+        "ingles": "Cruise",
+        "portugues": "Cruzeiro",
+        "fraseIngles": "A cruise is a relaxing vacation.",
+        "frasePortugues": "Um cruzeiro é umas férias relaxantes.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 98,
+        "ingles": "Port",
+        "portugues": "Porto",
+        "fraseIngles": "The ship arrives at port tomorrow.",
+        "frasePortugues": "O navio chega ao porto amanhã.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 99,
+        "ingles": "Harbor",
+        "portugues": "Porto",
+        "fraseIngles": "The harbor is full of fishing boats.",
+        "frasePortugues": "O porto está cheio de barcos de pesca.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 100,
+        "ingles": "Cabin",
+        "portugues": "Cabine",
+        "fraseIngles": "Our cabin has an ocean view.",
+        "frasePortugues": "Nossa cabine tem vista para o mar.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 101,
+        "ingles": "Deck",
+        "portugues": "Convés",
+        "fraseIngles": "Let's walk on the deck.",
+        "frasePortugues": "Vamos caminhar no convés.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 102,
+        "ingles": "Captain",
+        "portugues": "Capitão",
+        "fraseIngles": "The captain announced calm seas ahead.",
+        "frasePortugues": "O capitão anunciou mares calmos à frente.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 103,
+        "ingles": "Seasick",
+        "portugues": "Enjoado (no mar)",
+        "fraseIngles": "I always get seasick on boats.",
+        "frasePortugues": "Sempre fico enjoado em barcos.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 104,
+        "ingles": "Hotel",
+        "portugues": "Hotel",
+        "fraseIngles": "We're staying at a five-star hotel.",
+        "frasePortugues": "Estamos hospedados num hotel cinco estrelas.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 105,
+        "ingles": "Motel",
+        "portugues": "Motel",
+        "fraseIngles": "The motel is right off the highway.",
+        "frasePortugues": "O motel fica bem na rodovia.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 106,
+        "ingles": "Hostel",
+        "portugues": "Hostel / Albergue",
+        "fraseIngles": "Hostels are popular with young travelers.",
+        "frasePortugues": "Albergues são populares entre viajantes jovens.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 107,
+        "ingles": "B&B",
+        "portugues": "Pousada",
+        "fraseIngles": "The bed and breakfast was charming.",
+        "frasePortugues": "A pousada era encantadora.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 108,
+        "ingles": "Resort",
+        "portugues": "Resort",
+        "fraseIngles": "The beach resort has everything we need.",
+        "frasePortugues": "O resort de praia tem tudo que precisamos.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 109,
+        "ingles": "Accommodation",
+        "portugues": "Hospedagem",
+        "fraseIngles": "What type of accommodation do you prefer?",
+        "frasePortugues": "Que tipo de hospedagem você prefere?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 110,
+        "ingles": "Room",
+        "portugues": "Quarto",
+        "fraseIngles": "I'd like a single room for tonight.",
+        "frasePortugues": "Gostaria de um quarto single para hoje à noite.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 111,
+        "ingles": "Reservation",
+        "portugues": "Reserva",
+        "fraseIngles": "I have a reservation under Smith.",
+        "frasePortugues": "Tenho uma reserva no nome de Smith.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 112,
+        "ingles": "Reception",
+        "portugues": "Recepção",
+        "fraseIngles": "Please check in at reception.",
+        "frasePortugues": "Por favor, faça check-in na recepção.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 113,
+        "ingles": "Lobby",
+        "portugues": "Lobby / Saguão",
+        "fraseIngles": "I'll meet you in the lobby.",
+        "frasePortugues": "Te encontro no lobby.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 114,
+        "ingles": "Key",
+        "portugues": "Chave",
+        "fraseIngles": "Here's your room key.",
+        "frasePortugues": "Aqui está a chave do seu quarto.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 115,
+        "ingles": "Check-in",
+        "portugues": "Check-in",
+        "fraseIngles": "Check-in time is after 3 PM.",
+        "frasePortugues": "O horário de check-in é após 15h.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 116,
+        "ingles": "Check-out",
+        "portugues": "Check-out",
+        "fraseIngles": "Check-out is before 11 AM.",
+        "frasePortugues": "O check-out é antes das 11h.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 117,
+        "ingles": "Bill",
+        "portugues": "Conta",
+        "fraseIngles": "Can I have my bill, please?",
+        "frasePortugues": "Posso ter minha conta, por favor?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 118,
+        "ingles": "Restaurant",
+        "portugues": "Restaurante",
+        "fraseIngles": "The hotel restaurant serves local cuisine.",
+        "frasePortugues": "O restaurante do hotel serve culinária local.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 119,
+        "ingles": "Menu",
+        "portugues": "Cardápio",
+        "fraseIngles": "May I see the menu?",
+        "frasePortugues": "Posso ver o cardápio?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 120,
+        "ingles": "Local food",
+        "portugues": "Comida local",
+        "fraseIngles": "I want to try the local food.",
+        "frasePortugues": "Quero experimentar a comida local.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 121,
+        "ingles": "Specialty",
+        "portugues": "Especialidade",
+        "fraseIngles": "What's the local specialty?",
+        "frasePortugues": "Qual é a especialidade local?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 122,
+        "ingles": "Cuisine",
+        "portugues": "Culinária",
+        "fraseIngles": "Italian cuisine is my favorite.",
+        "frasePortugues": "A culinária italiana é minha favorita.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 123,
+        "ingles": "Dish",
+        "portugues": "Prato",
+        "fraseIngles": "This dish is delicious!",
+        "frasePortugues": "Este prato está delicioso!",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 124,
+        "ingles": "Recipe",
+        "portugues": "Receita",
+        "fraseIngles": "Can I have the recipe for this?",
+        "frasePortugues": "Posso ter a receita disso?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 125,
+        "ingles": "Ingredients",
+        "portugues": "Ingredientes",
+        "fraseIngles": "What ingredients are in this sauce?",
+        "frasePortugues": "Que ingredientes tem neste molho?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 126,
+        "ingles": "Spicy",
+        "portugues": "Picante",
+        "fraseIngles": "Is this dish very spicy?",
+        "frasePortugues": "Este prato é muito picante?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 127,
+        "ingles": "Market",
+        "portugues": "Mercado",
+        "fraseIngles": "Let's visit the local market.",
+        "frasePortugues": "Vamos visitar o mercado local.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 128,
+        "ingles": "Souvenir",
+        "portugues": "Lembrança",
+        "fraseIngles": "I bought souvenirs for my family.",
+        "frasePortugues": "Comprei lembranças para minha família.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 129,
+        "ingles": "Gift",
+        "portugues": "Presente",
+        "fraseIngles": "This would make a nice gift.",
+        "frasePortugues": "Isso seria um bom presente.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 130,
+        "ingles": "Shopping",
+        "portugues": "Compras",
+        "fraseIngles": "Shopping is cheaper here than at home.",
+        "frasePortugues": "As compras são mais baratas aqui do que em casa.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 131,
+        "ingles": "Price",
+        "portugues": "Preço",
+        "fraseIngles": "What's the price of this handcraft?",
+        "frasePortugues": "Qual é o preço deste artesanato?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 132,
+        "ingles": "Bargain",
+        "portugues": "Pechinchar",
+        "fraseIngles": "You should bargain at the market.",
+        "frasePortugues": "Você deve pechinchar no mercado.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 133,
+        "ingles": "Discount",
+        "portugues": "Desconto",
+        "fraseIngles": "Can you give me a discount?",
+        "frasePortugues": "Pode me dar um desconto?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 134,
+        "ingles": "Currency",
+        "portugues": "Moeda",
+        "fraseIngles": "What currency do they use here?",
+        "frasePortugues": "Que moeda eles usam aqui?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 135,
+        "ingles": "Exchange rate",
+        "portugues": "Taxa de câmbio",
+        "fraseIngles": "What's today's exchange rate?",
+        "frasePortugues": "Qual é a taxa de câmbio hoje?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 136,
+        "ingles": "ATM",
+        "portugues": "Caixa eletrônico",
+        "fraseIngles": "Is there an ATM nearby?",
+        "frasePortugues": "Há um caixa eletrônico por perto?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 137,
+        "ingles": "Bank",
+        "portugues": "Banco",
+        "fraseIngles": "The bank closes at 4 PM.",
+        "frasePortugues": "O banco fecha às 16h.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 138,
+        "ingles": "Credit card",
+        "portugues": "Cartão de crédito",
+        "fraseIngles": "Do you accept credit cards?",
+        "frasePortugues": "Vocês aceitam cartões de crédito?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 139,
+        "ingles": "Cash",
+        "portugues": "Dinheiro",
+        "fraseIngles": "I need to get some cash.",
+        "frasePortugues": "Preciso pegar um dinheiro.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 140,
+        "ingles": "Museum",
+        "portugues": "Museu",
+        "fraseIngles": "The art museum is closed on Mondays.",
+        "frasePortugues": "O museu de arte fecha às segundas.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 141,
+        "ingles": "Gallery",
+        "portugues": "Galeria",
+        "fraseIngles": "This gallery has contemporary art.",
+        "frasePortugues": "Esta galeria tem arte contemporânea.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 142,
+        "ingles": "Exhibition",
+        "portugues": "Exposição",
+        "fraseIngles": "There's a new exhibition opening today.",
+        "frasePortugues": "Há uma nova exposição abrindo hoje.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 143,
+        "ingles": "Monument",
+        "portugues": "Monumento",
+        "fraseIngles": "This monument is 500 years old.",
+        "frasePortugues": "Este monumento tem 500 anos.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 144,
+        "ingles": "Statue",
+        "portugues": "Estátua",
+        "fraseIngles": "The statue is in the city center.",
+        "frasePortugues": "A estátua fica no centro da cidade.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 145,
+        "ingles": "Castle",
+        "portugues": "Castelo",
+        "fraseIngles": "The castle offers guided tours.",
+        "frasePortugues": "O castelo oferece visitas guiadas.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 146,
+        "ingles": "Palace",
+        "portugues": "Palácio",
+        "fraseIngles": "The royal palace is magnificent.",
+        "frasePortugues": "O palácio real é magnífico.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 147,
+        "ingles": "Cathedral",
+        "portugues": "Catedral",
+        "fraseIngles": "The cathedral has beautiful stained glass.",
+        "frasePortugues": "A catedral tem vitrais lindos.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 148,
+        "ingles": "Church",
+        "portugues": "Igreja",
+        "fraseIngles": "The church is from the 12th century.",
+        "frasePortugues": "A igreja é do século XII.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 149,
+        "ingles": "Temple",
+        "portugues": "Templo",
+        "fraseIngles": "This temple is sacred to locals.",
+        "frasePortugues": "Este templo é sagrado para os moradores.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 150,
+        "ingles": "Architecture",
+        "portugues": "Arquitetura",
+        "fraseIngles": "The architecture here is stunning.",
+        "frasePortugues": "A arquitetura aqui é deslumbrante.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 151,
+        "ingles": "Historic",
+        "portugues": "Histórico",
+        "fraseIngles": "This is a historic neighborhood.",
+        "frasePortugues": "Este é um bairro histórico.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 152,
+        "ingles": "Ancient",
+        "portugues": "Antigo",
+        "fraseIngles": "These ruins are very ancient.",
+        "frasePortugues": "Estas ruínas são muito antigas.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 153,
+        "ingles": "Culture",
+        "portugues": "Cultura",
+        "fraseIngles": "I'm interested in learning about local culture.",
+        "frasePortugues": "Estou interessado em aprender sobre a cultura local.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 154,
+        "ingles": "Tradition",
+        "portugues": "Tradição",
+        "fraseIngles": "This festival is an old tradition.",
+        "frasePortugues": "Este festival é uma tradição antiga.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 155,
+        "ingles": "Festival",
+        "portugues": "Festival",
+        "fraseIngles": "The music festival lasts three days.",
+        "frasePortugues": "O festival de música dura três dias.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 156,
+        "ingles": "Celebration",
+        "portugues": "Celebração",
+        "fraseIngles": "The celebration happens every summer.",
+        "frasePortugues": "A celebração acontece todo verão.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 157,
+        "ingles": "Event",
+        "portugues": "Evento",
+        "fraseIngles": "What events are happening this weekend?",
+        "frasePortugues": "Que eventos estão acontecendo neste fim de semana?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 158,
+        "ingles": "Concert",
+        "portugues": "Show",
+        "fraseIngles": "There's a concert in the park tonight.",
+        "frasePortugues": "Há um show no parque hoje à noite.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 159,
+        "ingles": "Theater",
+        "portugues": "Teatro",
+        "fraseIngles": "The theater performs Shakespeare.",
+        "frasePortugues": "O teatro apresenta Shakespeare.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 160,
+        "ingles": "Show",
+        "portugues": "Espetáculo",
+        "fraseIngles": "The show starts at 8 PM.",
+        "frasePortugues": "O espetáculo começa às 20h.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 161,
+        "ingles": "Performance",
+        "portugues": "Apresentação",
+        "fraseIngles": "The dance performance was amazing.",
+        "frasePortugues": "A apresentação de dança foi incrível.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 162,
+        "ingles": "Beach",
+        "portugues": "Praia",
+        "fraseIngles": "The beach is perfect for swimming.",
+        "frasePortugues": "A praia é perfeita para nadar.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 163,
+        "ingles": "Ocean",
+        "portugues": "Oceano",
+        "fraseIngles": "The ocean is calm today.",
+        "frasePortugues": "O oceano está calmo hoje.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 164,
+        "ingles": "Sea",
+        "portugues": "Mar",
+        "fraseIngles": "The Mediterranean Sea is beautiful.",
+        "frasePortugues": "O Mar Mediterrâneo é lindo.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 165,
+        "ingles": "Sand",
+        "portugues": "Areia",
+        "fraseIngles": "The sand is soft and white.",
+        "frasePortugues": "A areia é macia e branca.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 166,
+        "ingles": "Wave",
+        "portugues": "Onda",
+        "fraseIngles": "The waves are perfect for surfing.",
+        "frasePortugues": "As ondas são perfeitas para surf.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 167,
+        "ingles": "Swim",
+        "portugues": "Nadar",
+        "fraseIngles": "It's too cold to swim.",
+        "frasePortugues": "Está frio demais para nadar.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 168,
+        "ingles": "Sunbathe",
+        "portugues": "Tomar sol",
+        "fraseIngles": "I like to sunbathe in the morning.",
+        "frasePortugues": "Gosto de tomar sol de manhã.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 169,
+        "ingles": "Sunscreen",
+        "portugues": "Protetor solar",
+        "fraseIngles": "Don't forget to apply sunscreen.",
+        "frasePortugues": "Não esqueça de passar protetor solar.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 170,
+        "ingles": "Mountain",
+        "portugues": "Montanha",
+        "fraseIngles": "The mountain peak is covered in snow.",
+        "frasePortugues": "O pico da montanha está coberto de neve.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 171,
+        "ingles": "Hill",
+        "portugues": "Colina",
+        "fraseIngles": "We climbed the hill for the view.",
+        "frasePortugues": "Subimos a colina pela vista.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 172,
+        "ingles": "Valley",
+        "portugues": "Vale",
+        "fraseIngles": "The valley is green and peaceful.",
+        "frasePortugues": "O vale é verde e tranquilo.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 173,
+        "ingles": "River",
+        "portugues": "Rio",
+        "fraseIngles": "The river flows through the city.",
+        "frasePortugues": "O rio passa pela cidade.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 174,
+        "ingles": "Lake",
+        "portugues": "Lago",
+        "fraseIngles": "The lake is perfect for fishing.",
+        "frasePortugues": "O lago é perfeito para pescar.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 175,
+        "ingles": "Forest",
+        "portugues": "Floresta",
+        "fraseIngles": "We hiked through the forest.",
+        "frasePortugues": "Caminhamos pela floresta.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 176,
+        "ingles": "Park",
+        "portugues": "Parque",
+        "fraseIngles": "The national park has many trails.",
+        "frasePortugues": "O parque nacional tem muitas trilhas.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 177,
+        "ingles": "Nature",
+        "portugues": "Natureza",
+        "fraseIngles": "I love being surrounded by nature.",
+        "frasePortugues": "Adoro estar cercado pela natureza.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 178,
+        "ingles": "Wildlife",
+        "portugues": "Vida selvagem",
+        "fraseIngles": "The safari showed us amazing wildlife.",
+        "frasePortugues": "O safari nos mostrou vida selvagem incrível.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 179,
+        "ingles": "Animal",
+        "portugues": "Animal",
+        "fraseIngles": "We saw many wild animals.",
+        "frasePortugues": "Vimos muitos animais selvagens.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 180,
+        "ingles": "Bird",
+        "portugues": "Pássaro",
+        "fraseIngles": "This area has many colorful birds.",
+        "frasePortugues": "Esta área tem muitos pássaros coloridos.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 181,
+        "ingles": "Photography",
+        "portugues": "Fotografia",
+        "fraseIngles": "Photography is not allowed inside.",
+        "frasePortugues": "Fotografia não é permitida lá dentro.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 182,
+        "ingles": "Camera",
+        "portugues": "Câmera",
+        "fraseIngles": "My camera battery is dead.",
+        "frasePortugues": "A bateria da minha câmera acabou.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 183,
+        "ingles": "Photo",
+        "portugues": "Foto",
+        "fraseIngles": "Can you take a photo of us?",
+        "frasePortugues": "Pode tirar uma foto nossa?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 184,
+        "ingles": "Picture",
+        "portugues": "Foto",
+        "fraseIngles": "This picture came out perfectly.",
+        "frasePortugues": "Esta foto saiu perfeita.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 185,
+        "ingles": "Video",
+        "portugues": "Vídeo",
+        "fraseIngles": "I'm making a video of our trip.",
+        "frasePortugues": "Estou fazendo um vídeo da nossa viagem.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 186,
+        "ingles": "Memory",
+        "portugues": "Lembrança",
+        "fraseIngles": "This trip will be a great memory.",
+        "frasePortugues": "Esta viagem será uma ótima lembrança.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 187,
+        "ingles": "Experience",
+        "portugues": "Experiência",
+        "fraseIngles": "This has been an amazing experience.",
+        "frasePortugues": "Esta foi uma experiência incrível.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 188,
+        "ingles": "Adventure",
+        "portugues": "Aventura",
+        "fraseIngles": "Every day brings a new adventure.",
+        "frasePortugues": "Cada dia traz uma nova aventura.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 189,
+        "ingles": "Fun",
+        "portugues": "Diversão",
+        "fraseIngles": "We're having so much fun here.",
+        "frasePortugues": "Estamos nos divertindo muito aqui.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 190,
+        "ingles": "Enjoy",
+        "portugues": "Aproveitar",
+        "fraseIngles": "I'm really enjoying this trip.",
+        "frasePortugues": "Estou realmente aproveitando esta viagem.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 191,
+        "ingles": "Relax",
+        "portugues": "Relaxar",
+        "fraseIngles": "It's nice to relax on vacation.",
+        "frasePortugues": "É bom relaxar nas férias.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 192,
+        "ingles": "Rest",
+        "portugues": "Descansar",
+        "fraseIngles": "I need to rest after all this walking.",
+        "frasePortugues": "Preciso descansar depois de toda essa caminhada.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 193,
+        "ingles": "Tired",
+        "portugues": "Cansado",
+        "fraseIngles": "I'm tired from the long flight.",
+        "frasePortugues": "Estou cansado do voo longo.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 194,
+        "ingles": "Jet lag",
+        "portugues": "Jet lag / Fuso horário",
+        "fraseIngles": "I'm still suffering from jet lag.",
+        "frasePortugues": "Ainda estou sofrendo com o jet lag.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 195,
+        "ingles": "Time zone",
+        "portugues": "Fuso horário",
+        "fraseIngles": "We crossed three time zones.",
+        "frasePortugues": "Cruzamos três fusos horários.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 196,
+        "ingles": "Weather",
+        "portugues": "Tempo",
+        "fraseIngles": "The weather is perfect today.",
+        "frasePortugues": "O tempo está perfeito hoje.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 197,
+        "ingles": "Forecast",
+        "portugues": "Previsão",
+        "fraseIngles": "What's the weather forecast?",
+        "frasePortugues": "Qual é a previsão do tempo?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 198,
+        "ingles": "Sunny",
+        "portugues": "Ensolarado",
+        "fraseIngles": "It's sunny and warm.",
+        "frasePortugues": "Está ensolarado e quente.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 199,
+        "ingles": "Rainy",
+        "portugues": "Chuvoso",
+        "fraseIngles": "It's been rainy all week.",
+        "frasePortugues": "Tem chovido a semana toda.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 200,
+        "ingles": "Cloudy",
+        "portugues": "Nublado",
+        "fraseIngles": "It's cloudy but not raining.",
+        "frasePortugues": "Está nublado mas não está chovendo.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 201,
+        "ingles": "Hot",
+        "portugues": "Quente",
+        "fraseIngles": "It's too hot to walk outside.",
+        "frasePortugues": "Está quente demais para andar lá fora.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 202,
+        "ingles": "Cold",
+        "portugues": "Frio",
+        "fraseIngles": "Bring warm clothes, it's cold there.",
+        "frasePortugues": "Traga roupas quentes, está frio lá.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 203,
+        "ingles": "Temperature",
+        "portugues": "Temperatura",
+        "fraseIngles": "What's the temperature today?",
+        "frasePortugues": "Qual é a temperatura hoje?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 204,
+        "ingles": "Season",
+        "portugues": "Estação",
+        "fraseIngles": "Summer is the best season to visit.",
+        "frasePortugues": "O verão é a melhor estação para visitar.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 205,
+        "ingles": "Climate",
+        "portugues": "Clima",
+        "fraseIngles": "The climate here is tropical.",
+        "frasePortugues": "O clima aqui é tropical.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 206,
+        "ingles": "Safe",
+        "portugues": "Seguro",
+        "fraseIngles": "Is this area safe for tourists?",
+        "frasePortugues": "Esta área é segura para turistas?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 207,
+        "ingles": "Dangerous",
+        "portugues": "Perigoso",
+        "fraseIngles": "Avoid that neighborhood, it's dangerous.",
+        "frasePortugues": "Evite aquele bairro, é perigoso.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 208,
+        "ingles": "Emergency",
+        "portugues": "Emergência",
+        "fraseIngles": "In case of emergency, call this number.",
+        "frasePortugues": "Em caso de emergência, ligue para este número.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 209,
+        "ingles": "Help",
+        "portugues": "Ajuda",
+        "fraseIngles": "I need help finding my hotel.",
+        "frasePortugues": "Preciso de ajuda para encontrar meu hotel.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 210,
+        "ingles": "Police",
+        "portugues": "Polícia",
+        "fraseIngles": "Where's the nearest police station?",
+        "frasePortugues": "Onde fica a delegacia mais próxima?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 211,
+        "ingles": "Hospital",
+        "portugues": "Hospital",
+        "fraseIngles": "Take me to the hospital, please.",
+        "frasePortugues": "Me leve ao hospital, por favor.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 212,
+        "ingles": "Doctor",
+        "portugues": "Médico",
+        "fraseIngles": "I need to see a doctor.",
+        "frasePortugues": "Preciso ver um médico.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 213,
+        "ingles": "Pharmacy",
+        "portugues": "Farmácia",
+        "fraseIngles": "Is there a pharmacy nearby?",
+        "frasePortugues": "Há uma farmácia por perto?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 214,
+        "ingles": "Insurance",
+        "portugues": "Seguro",
+        "fraseIngles": "Do you have travel insurance?",
+        "frasePortugues": "Você tem seguro viagem?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 215,
+        "ingles": "Embassy",
+        "portugues": "Embaixada",
+        "fraseIngles": "I need to contact my embassy.",
+        "frasePortugues": "Preciso entrar em contato com minha embaixada.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 216,
+        "ingles": "Language",
+        "portugues": "Idioma",
+        "fraseIngles": "Do you speak English?",
+        "frasePortugues": "Você fala inglês?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 217,
+        "ingles": "Translate",
+        "portugues": "Traduzir",
+        "fraseIngles": "Can you translate this for me?",
+        "frasePortugues": "Pode traduzir isso para mim?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 218,
+        "ingles": "Understand",
+        "portugues": "Entender",
+        "fraseIngles": "I don't understand.",
+        "frasePortugues": "Não entendo.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 219,
+        "ingles": "Speak",
+        "portugues": "Falar",
+        "fraseIngles": "Do you speak slowly, please?",
+        "frasePortugues": "Pode falar devagar, por favor?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 220,
+        "ingles": "Communication",
+        "portugues": "Comunicação",
+        "fraseIngles": "Communication is difficult without the language.",
+        "frasePortugues": "A comunicação é difícil sem o idioma.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 221,
+        "ingles": "Internet",
+        "portugues": "Internet",
+        "fraseIngles": "Is there free internet here?",
+        "frasePortugues": "Há internet gratuita aqui?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 222,
+        "ingles": "Wi-Fi",
+        "portugues": "Wi-Fi",
+        "fraseIngles": "What's the Wi-Fi password?",
+        "frasePortugues": "Qual é a senha do Wi-Fi?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 223,
+        "ingles": "Phone",
+        "portugues": "Telefone",
+        "fraseIngles": "I need to make a phone call.",
+        "frasePortugues": "Preciso fazer uma ligação.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 224,
+        "ingles": "Message",
+        "portugues": "Mensagem",
+        "fraseIngles": "I'll send you a message when I arrive.",
+        "frasePortugues": "Te mando uma mensagem quando chegar.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 225,
+        "ingles": "Return",
+        "portugues": "Voltar",
+        "fraseIngles": "When do you return home?",
+        "frasePortugues": "Quando você volta para casa?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 226,
+        "ingles": "Home",
+        "portugues": "Casa",
+        "fraseIngles": "I miss home already.",
+        "frasePortugues": "Já sinto saudades de casa.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 227,
+        "ingles": "Homesick",
+        "portugues": "Com saudades de casa",
+        "fraseIngles": "I'm feeling homesick.",
+        "frasePortugues": "Estou sentindo saudades de casa.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 228,
+        "ingles": "Miss",
+        "portugues": "Sentir falta",
+        "fraseIngles": "I miss my family.",
+        "frasePortugues": "Sinto falta da minha família.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 229,
+        "ingles": "Remember",
+        "portugues": "Lembrar",
+        "fraseIngles": "I'll always remember this trip.",
+        "frasePortugues": "Sempre lembrarei desta viagem.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 230,
+        "ingles": "Forget",
+        "portugues": "Esquecer",
+        "fraseIngles": "Don't forget to take pictures.",
+        "frasePortugues": "Não esqueça de tirar fotos.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 231,
+        "ingles": "Recommend",
+        "portugues": "Recomendar",
+        "fraseIngles": "Would you recommend this place?",
+        "frasePortugues": "Você recomendaria este lugar?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 232,
+        "ingles": "Suggestion",
+        "portugues": "Sugestão",
+        "fraseIngles": "Do you have any suggestions?",
+        "frasePortugues": "Você tem alguma sugestão?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 233,
+        "ingles": "Advice",
+        "portugues": "Conselho",
+        "fraseIngles": "What advice do you have for travelers?",
+        "frasePortugues": "Que conselho você tem para viajantes?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 234,
+        "ingles": "Plan",
+        "portugues": "Planejar",
+        "fraseIngles": "We need to plan our next destination.",
+        "frasePortugues": "Precisamos planejar nosso próximo destino.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 235,
+        "ingles": "Itinerary",
+        "portugues": "Roteiro",
+        "fraseIngles": "Our itinerary is packed with activities.",
+        "frasePortugues": "Nosso roteiro está cheio de atividades.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 236,
+        "ingles": "Schedule",
+        "portugues": "Cronograma",
+        "fraseIngles": "What's on the schedule for tomorrow?",
+        "frasePortugues": "O que tem na programação para amanhã?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 237,
+        "ingles": "Prepare",
+        "portugues": "Preparar",
+        "fraseIngles": "How should I prepare for this trip?",
+        "frasePortugues": "Como devo me preparar para esta viagem?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 238,
+        "ingles": "Pack",
+        "portugues": "Fazer as malas",
+        "fraseIngles": "I need to pack my suitcase.",
+        "frasePortugues": "Preciso fazer minha mala.",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 239,
+        "ingles": "Ready",
+        "portugues": "Pronto",
+        "fraseIngles": "Are you ready to go?",
+        "frasePortugues": "Você está pronto para ir?",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    },
+    {
+        "id": 240,
+        "ingles": "Excited",
+        "portugues": "Animado",
+        "fraseIngles": "I'm so excited about this trip!",
+        "frasePortugues": "Estou tão animado com esta viagem!",
+        "subtopico": "Viajando",
+        "topico": "Frases"
+    }
+]

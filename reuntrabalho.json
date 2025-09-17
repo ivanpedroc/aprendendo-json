@@ -1,0 +1,2576 @@
+[
+    {
+        "id": 1,
+        "ingles": "Meeting",
+        "portugues": "Reunião",
+        "fraseIngles": "The meeting is scheduled for 2 PM.",
+        "frasePortugues": "A reunião está marcada para as 14h.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 2,
+        "ingles": "Conference",
+        "portugues": "Conferência",
+        "fraseIngles": "We're having a video conference call.",
+        "frasePortugues": "Teremos uma videoconferência.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 3,
+        "ingles": "Session",
+        "portugues": "Sessão",
+        "fraseIngles": "The brainstorming session was productive.",
+        "frasePortugues": "A sessão de brainstorming foi produtiva.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 4,
+        "ingles": "Gathering",
+        "portugues": "Encontro",
+        "fraseIngles": "This is an informal gathering of stakeholders.",
+        "frasePortugues": "Este é um encontro informal de interessados.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 5,
+        "ingles": "Assembly",
+        "portugues": "Assembleia",
+        "fraseIngles": "The annual assembly will discuss budget.",
+        "frasePortugues": "A assembleia anual discutirá o orçamento.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 6,
+        "ingles": "Forum",
+        "portugues": "Fórum",
+        "fraseIngles": "This forum allows open discussion.",
+        "frasePortugues": "Este fórum permite discussão aberta.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 7,
+        "ingles": "Workshop",
+        "portugues": "Workshop",
+        "fraseIngles": "The leadership workshop starts Monday.",
+        "frasePortugues": "O workshop de liderança começa segunda.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 8,
+        "ingles": "Seminar",
+        "portugues": "Seminário",
+        "fraseIngles": "The marketing seminar was informative.",
+        "frasePortugues": "O seminário de marketing foi informativo.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 9,
+        "ingles": "Presentation",
+        "portugues": "Apresentação",
+        "fraseIngles": "I'll give a presentation on sales figures.",
+        "frasePortugues": "Farei uma apresentação sobre números de vendas.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 10,
+        "ingles": "Briefing",
+        "portugues": "Briefing",
+        "fraseIngles": "The project briefing is at 9 AM.",
+        "frasePortugues": "O briefing do projeto é às 9h.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 11,
+        "ingles": "Agenda",
+        "portugues": "Pauta",
+        "fraseIngles": "Have you seen today's meeting agenda?",
+        "frasePortugues": "Você viu a pauta da reunião de hoje?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 12,
+        "ingles": "Schedule",
+        "portugues": "Cronograma",
+        "fraseIngles": "The schedule is packed today.",
+        "frasePortugues": "O cronograma está cheio hoje.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 13,
+        "ingles": "Timetable",
+        "portugues": "Horário",
+        "fraseIngles": "Check the meeting timetable.",
+        "frasePortugues": "Verifique o horário das reuniões.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 14,
+        "ingles": "Appointment",
+        "portugues": "Agendamento",
+        "fraseIngles": "I have an appointment with the CEO.",
+        "frasePortugues": "Tenho um agendamento com o CEO.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 15,
+        "ingles": "Time slot",
+        "portugues": "Horário",
+        "fraseIngles": "What time slot works for everyone?",
+        "frasePortugues": "Que horário funciona para todos?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 16,
+        "ingles": "Duration",
+        "portugues": "Duração",
+        "fraseIngles": "The meeting duration is two hours.",
+        "frasePortugues": "A duração da reunião é duas horas.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 17,
+        "ingles": "Start",
+        "portugues": "Começar",
+        "fraseIngles": "Let's start the meeting on time.",
+        "frasePortugues": "Vamos começar a reunião na hora.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 18,
+        "ingles": "Begin",
+        "portugues": "Iniciar",
+        "fraseIngles": "We'll begin with introductions.",
+        "frasePortugues": "Iniciaremos com apresentações.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 19,
+        "ingles": "Open",
+        "portugues": "Abrir",
+        "fraseIngles": "I'd like to open today's discussion.",
+        "frasePortugues": "Gostaria de abrir a discussão de hoje.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 20,
+        "ingles": "Close",
+        "portugues": "Encerrar",
+        "fraseIngles": "Let's close with action items.",
+        "frasePortugues": "Vamos encerrar com itens de ação.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 21,
+        "ingles": "End",
+        "portugues": "Terminar",
+        "fraseIngles": "The meeting will end at 5 PM.",
+        "frasePortugues": "A reunião terminará às 17h.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 22,
+        "ingles": "Finish",
+        "portugues": "Finalizar",
+        "fraseIngles": "We need to finish on schedule.",
+        "frasePortugues": "Precisamos finalizar no horário.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 23,
+        "ingles": "Conclude",
+        "portugues": "Concluir",
+        "fraseIngles": "Let me conclude with final thoughts.",
+        "frasePortugues": "Deixe-me concluir com considerações finais.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 24,
+        "ingles": "Wrap up",
+        "portugues": "Encerrar",
+        "fraseIngles": "It's time to wrap up our discussion.",
+        "frasePortugues": "É hora de encerrar nossa discussão.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 25,
+        "ingles": "Participants",
+        "portugues": "Participantes",
+        "fraseIngles": "All participants should arrive early.",
+        "frasePortugues": "Todos os participantes devem chegar cedo.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 26,
+        "ingles": "Attendees",
+        "portugues": "Presentes",
+        "fraseIngles": "The attendees represent various departments.",
+        "frasePortugues": "Os presentes representam vários departamentos.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 27,
+        "ingles": "Members",
+        "portugues": "Membros",
+        "fraseIngles": "Board members will join us remotely.",
+        "frasePortugues": "Membros do conselho se juntarão remotamente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 28,
+        "ingles": "Team",
+        "portugues": "Equipe",
+        "fraseIngles": "The project team is here today.",
+        "frasePortugues": "A equipe do projeto está aqui hoje.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 29,
+        "ingles": "Group",
+        "portugues": "Grupo",
+        "fraseIngles": "Our working group meets weekly.",
+        "frasePortugues": "Nosso grupo de trabalho se reúne semanalmente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 30,
+        "ingles": "Panel",
+        "portugues": "Painel",
+        "fraseIngles": "The expert panel will answer questions.",
+        "frasePortugues": "O painel de especialistas responderá perguntas.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 31,
+        "ingles": "Committee",
+        "portugues": "Comitê",
+        "fraseIngles": "The steering committee approved the budget.",
+        "frasePortugues": "O comitê diretor aprovou o orçamento.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 32,
+        "ingles": "Board",
+        "portugues": "Conselho",
+        "fraseIngles": "The board of directors meets quarterly.",
+        "frasePortugues": "O conselho de diretores se reúne trimestralmente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 33,
+        "ingles": "Executive",
+        "portugues": "Executivo",
+        "fraseIngles": "Executive leadership will present results.",
+        "frasePortugues": "A liderança executiva apresentará resultados.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 34,
+        "ingles": "Management",
+        "portugues": "Gerência",
+        "fraseIngles": "Senior management supports this initiative.",
+        "frasePortugues": "A alta gerência apoia esta iniciativa.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 35,
+        "ingles": "Chairperson",
+        "portugues": "Presidente",
+        "fraseIngles": "The chairperson will moderate discussion.",
+        "frasePortugues": "O presidente moderará a discussão.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 36,
+        "ingles": "Chair",
+        "portugues": "Presidente",
+        "fraseIngles": "Who's chairing today's meeting?",
+        "frasePortugues": "Quem está presidindo a reunião de hoje?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 37,
+        "ingles": "Moderator",
+        "portugues": "Moderador",
+        "fraseIngles": "The moderator keeps discussions on track.",
+        "frasePortugues": "O moderador mantém discussões no rumo.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 38,
+        "ingles": "Facilitator",
+        "portugues": "Facilitador",
+        "fraseIngles": "A skilled facilitator improves outcomes.",
+        "frasePortugues": "Um facilitador habilidoso melhora resultados.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 39,
+        "ingles": "Leader",
+        "portugues": "Líder",
+        "fraseIngles": "The team leader presents monthly updates.",
+        "frasePortugues": "O líder da equipe apresenta atualizações mensais.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 40,
+        "ingles": "Host",
+        "portugues": "Anfitrião",
+        "fraseIngles": "I'm hosting today's client meeting.",
+        "frasePortugues": "Estou sendo anfitrião da reunião com cliente hoje.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 41,
+        "ingles": "Speaker",
+        "portugues": "Orador",
+        "fraseIngles": "Our keynote speaker arrives at noon.",
+        "frasePortugues": "Nosso orador principal chega ao meio-dia.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 42,
+        "ingles": "Presenter",
+        "portugues": "Apresentador",
+        "fraseIngles": "The presenter has excellent slides.",
+        "frasePortugues": "O apresentador tem slides excelentes.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 43,
+        "ingles": "Guest",
+        "portugues": "Convidado",
+        "fraseIngles": "We have a special guest today.",
+        "frasePortugues": "Temos um convidado especial hoje.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 44,
+        "ingles": "Visitor",
+        "portugues": "Visitante",
+        "fraseIngles": "The visitor needs a security badge.",
+        "frasePortugues": "O visitante precisa de um crachá de segurança.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 45,
+        "ingles": "Colleague",
+        "portugues": "Colega",
+        "fraseIngles": "My colleague will join us shortly.",
+        "frasePortugues": "Meu colega se juntará a nós em breve.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 46,
+        "ingles": "Associate",
+        "portugues": "Associado",
+        "fraseIngles": "Our business associate brings expertise.",
+        "frasePortugues": "Nosso associado de negócios traz expertise.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 47,
+        "ingles": "Partner",
+        "portugues": "Parceiro",
+        "fraseIngles": "Strategic partners are invited.",
+        "frasePortugues": "Parceiros estratégicos estão convidados.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 48,
+        "ingles": "Client",
+        "portugues": "Cliente",
+        "fraseIngles": "The client presentation is crucial.",
+        "frasePortugues": "A apresentação ao cliente é crucial.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 49,
+        "ingles": "Customer",
+        "portugues": "Cliente",
+        "fraseIngles": "Customer feedback guides our decisions.",
+        "frasePortugues": "Feedback do cliente guia nossas decisões.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 50,
+        "ingles": "Stakeholder",
+        "portugues": "Interessado",
+        "fraseIngles": "All stakeholders should be represented.",
+        "frasePortugues": "Todos os interessados devem estar representados.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 51,
+        "ingles": "Investor",
+        "portugues": "Investidor",
+        "fraseIngles": "Investors want to see quarterly results.",
+        "frasePortugues": "Investores querem ver resultados trimestrais.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 52,
+        "ingles": "Vendor",
+        "portugues": "Fornecedor",
+        "fraseIngles": "Our vendors provide excellent service.",
+        "frasePortugues": "Nossos fornecedores oferecem excelente serviço.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 53,
+        "ingles": "Supplier",
+        "portugues": "Fornecedor",
+        "fraseIngles": "The supplier meeting discusses contracts.",
+        "frasePortugues": "A reunião com fornecedor discute contratos.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 54,
+        "ingles": "Consultant",
+        "portugues": "Consultor",
+        "fraseIngles": "The external consultant offers insights.",
+        "frasePortugues": "O consultor externo oferece insights.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 55,
+        "ingles": "Advisor",
+        "portugues": "Consultor",
+        "fraseIngles": "Our financial advisor explains options.",
+        "frasePortugues": "Nosso consultor financeiro explica opções.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 56,
+        "ingles": "Room",
+        "portugues": "Sala",
+        "fraseIngles": "The conference room is booked.",
+        "frasePortugues": "A sala de conferência está reservada.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 57,
+        "ingles": "Boardroom",
+        "portugues": "Sala do conselho",
+        "fraseIngles": "The boardroom seats twelve people.",
+        "frasePortugues": "A sala do conselho tem lugar para doze pessoas.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 58,
+        "ingles": "Conference room",
+        "portugues": "Sala de conferência",
+        "fraseIngles": "Conference room A has video equipment.",
+        "frasePortugues": "A sala de conferência A tem equipamento de vídeo.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 59,
+        "ingles": "Meeting room",
+        "portugues": "Sala de reunião",
+        "fraseIngles": "The meeting room is available now.",
+        "frasePortugues": "A sala de reunião está disponível agora.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 60,
+        "ingles": "Office",
+        "portugues": "Escritório",
+        "fraseIngles": "We'll meet in my office.",
+        "frasePortugues": "Nos encontraremos no meu escritório.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 61,
+        "ingles": "Location",
+        "portugues": "Local",
+        "fraseIngles": "What's the meeting location?",
+        "frasePortugues": "Qual é o local da reunião?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 62,
+        "ingles": "Venue",
+        "portugues": "Local",
+        "fraseIngles": "The venue has excellent facilities.",
+        "frasePortugues": "O local tem excelentes instalações.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 63,
+        "ingles": "Virtual",
+        "portugues": "Virtual",
+        "fraseIngles": "This is a virtual meeting.",
+        "frasePortugues": "Esta é uma reunião virtual.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 64,
+        "ingles": "Remote",
+        "portugues": "Remoto",
+        "fraseIngles": "Remote participants join by video.",
+        "frasePortugues": "Participantes remotos entram por vídeo.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 65,
+        "ingles": "Online",
+        "portugues": "Online",
+        "fraseIngles": "The online meeting starts promptly.",
+        "frasePortugues": "A reunião online começa pontualmente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 66,
+        "ingles": "Video call",
+        "portugues": "Videochamada",
+        "fraseIngles": "The video call quality is excellent.",
+        "frasePortugues": "A qualidade da videochamada é excelente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 67,
+        "ingles": "Webinar",
+        "portugues": "Webinar",
+        "fraseIngles": "The webinar attracted 500 attendees.",
+        "frasePortugues": "O webinar atraiu 500 participantes.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 68,
+        "ingles": "Teleconference",
+        "portugues": "Teleconferência",
+        "fraseIngles": "The teleconference includes global teams.",
+        "frasePortugues": "A teleconferência inclui equipes globais.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 69,
+        "ingles": "Audio",
+        "portugues": "Áudio",
+        "fraseIngles": "Please mute your audio when not speaking.",
+        "frasePortugues": "Por favor, silencie seu áudio quando não estiver falando.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 70,
+        "ingles": "Video",
+        "portugues": "Vídeo",
+        "fraseIngles": "Turn on your video for better engagement.",
+        "frasePortugues": "Ligue seu vídeo para melhor engajamento.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 71,
+        "ingles": "Screen share",
+        "portugues": "Compartilhar tela",
+        "fraseIngles": "I'll screen share the presentation.",
+        "frasePortugues": "Vou compartilhar a tela da apresentação.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 72,
+        "ingles": "Recording",
+        "portugues": "Gravação",
+        "fraseIngles": "This meeting is being recorded.",
+        "frasePortugues": "Esta reunião está sendo gravada.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 73,
+        "ingles": "Minutes",
+        "portugues": "Ata",
+        "fraseIngles": "Who's taking minutes today?",
+        "frasePortugues": "Quem está fazendo a ata hoje?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 74,
+        "ingles": "Notes",
+        "portugues": "Anotações",
+        "fraseIngles": "Please take detailed notes.",
+        "frasePortugues": "Por favor, façam anotações detalhadas.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 75,
+        "ingles": "Documentation",
+        "portugues": "Documentação",
+        "fraseIngles": "Meeting documentation is important.",
+        "frasePortugues": "Documentação da reunião é importante.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 76,
+        "ingles": "Report",
+        "portugues": "Relatório",
+        "fraseIngles": "I'll prepare a meeting report.",
+        "frasePortugues": "Prepararei um relatório da reunião.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 77,
+        "ingles": "Summary",
+        "portugues": "Resumo",
+        "fraseIngles": "Here's a summary of key points.",
+        "frasePortugues": "Aqui está um resumo dos pontos principais.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 78,
+        "ingles": "Action items",
+        "portugues": "Itens de ação",
+        "fraseIngles": "Let's review our action items.",
+        "frasePortugues": "Vamos revisar nossos itens de ação.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 79,
+        "ingles": "Follow-up",
+        "portugues": "Acompanhamento",
+        "fraseIngles": "Follow-up actions are assigned.",
+        "frasePortugues": "Ações de acompanhamento são atribuídas.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 80,
+        "ingles": "Next steps",
+        "portugues": "Próximos passos",
+        "fraseIngles": "What are our next steps?",
+        "frasePortugues": "Quais são nossos próximos passos?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 81,
+        "ingles": "Deliverables",
+        "portugues": "Entregáveis",
+        "fraseIngles": "All deliverables have deadlines.",
+        "frasePortugues": "Todos os entregáveis têm prazos.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 82,
+        "ingles": "Assignments",
+        "portugues": "Atribuições",
+        "fraseIngles": "Task assignments are clear.",
+        "frasePortugues": "Atribuições de tarefas são claras.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 83,
+        "ingles": "Responsibilities",
+        "portugues": "Responsabilidades",
+        "fraseIngles": "Everyone knows their responsibilities.",
+        "frasePortugues": "Todos conhecem suas responsabilidades.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 84,
+        "ingles": "Deadline",
+        "portugues": "Prazo",
+        "fraseIngles": "The project deadline is firm.",
+        "frasePortugues": "O prazo do projeto é firme.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 85,
+        "ingles": "Timeline",
+        "portugues": "Cronograma",
+        "fraseIngles": "The timeline is aggressive.",
+        "frasePortugues": "O cronograma é agressivo.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 86,
+        "ingles": "Milestone",
+        "portugues": "Marco",
+        "fraseIngles": "We've reached an important milestone.",
+        "frasePortugues": "Alcançamos um marco importante.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 87,
+        "ingles": "Progress",
+        "portugues": "Progresso",
+        "fraseIngles": "Let's discuss project progress.",
+        "frasePortugues": "Vamos discutir o progresso do projeto.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 88,
+        "ingles": "Update",
+        "portugues": "Atualização",
+        "fraseIngles": "I'll provide a status update.",
+        "frasePortugues": "Fornecerei uma atualização de status.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 89,
+        "ingles": "Status",
+        "portugues": "Status",
+        "fraseIngles": "What's the current status?",
+        "frasePortugues": "Qual é o status atual?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 90,
+        "ingles": "Situation",
+        "portugues": "Situação",
+        "fraseIngles": "The current situation requires action.",
+        "frasePortugues": "A situação atual requer ação.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 91,
+        "ingles": "Issue",
+        "portugues": "Questão",
+        "fraseIngles": "We need to address this issue.",
+        "frasePortugues": "Precisamos abordar esta questão.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 92,
+        "ingles": "Problem",
+        "portugues": "Problema",
+        "fraseIngles": "The problem has several solutions.",
+        "frasePortugues": "O problema tem várias soluções.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 93,
+        "ingles": "Challenge",
+        "portugues": "Desafio",
+        "fraseIngles": "This challenge requires creativity.",
+        "frasePortugues": "Este desafio requer criatividade.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 94,
+        "ingles": "Concern",
+        "portugues": "Preocupação",
+        "fraseIngles": "I have a concern about timing.",
+        "frasePortugues": "Tenho uma preocupação sobre o timing.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 95,
+        "ingles": "Risk",
+        "portugues": "Risco",
+        "fraseIngles": "We must assess project risks.",
+        "frasePortugues": "Devemos avaliar riscos do projeto.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 96,
+        "ingles": "Opportunity",
+        "portugues": "Oportunidade",
+        "fraseIngles": "This presents a great opportunity.",
+        "frasePortugues": "Isso apresenta uma grande oportunidade.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 97,
+        "ingles": "Solution",
+        "portugues": "Solução",
+        "fraseIngles": "I propose this solution.",
+        "frasePortugues": "Proponho esta solução.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 98,
+        "ingles": "Proposal",
+        "portugues": "Proposta",
+        "fraseIngles": "The proposal needs refinement.",
+        "frasePortugues": "A proposta precisa de refinamento.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 99,
+        "ingles": "Recommendation",
+        "portugues": "Recomendação",
+        "fraseIngles": "My recommendation is to proceed.",
+        "frasePortugues": "Minha recomendação é prosseguir.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 100,
+        "ingles": "Suggestion",
+        "portugues": "Sugestão",
+        "fraseIngles": "I have a suggestion to improve efficiency.",
+        "frasePortugues": "Tenho uma sugestão para melhorar a eficiência.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 101,
+        "ingles": "Idea",
+        "portugues": "Ideia",
+        "fraseIngles": "That's an innovative idea.",
+        "frasePortugues": "Essa é uma ideia inovadora.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 102,
+        "ingles": "Concept",
+        "portugues": "Conceito",
+        "fraseIngles": "The concept needs development.",
+        "frasePortugues": "O conceito precisa de desenvolvimento.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 103,
+        "ingles": "Plan",
+        "portugues": "Plano",
+        "fraseIngles": "Let's review the marketing plan.",
+        "frasePortugues": "Vamos revisar o plano de marketing.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 104,
+        "ingles": "Strategy",
+        "portugues": "Estratégia",
+        "fraseIngles": "Our strategy is working well.",
+        "frasePortugues": "Nossa estratégia está funcionando bem.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 105,
+        "ingles": "Approach",
+        "portugues": "Abordagem",
+        "fraseIngles": "This approach seems promising.",
+        "frasePortugues": "Esta abordagem parece promissora.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 106,
+        "ingles": "Method",
+        "portugues": "Método",
+        "fraseIngles": "The method is scientifically sound.",
+        "frasePortugues": "O método é cientificamente sólido.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 107,
+        "ingles": "Process",
+        "portugues": "Processo",
+        "fraseIngles": "The process needs optimization.",
+        "frasePortugues": "O processo precisa de otimização.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 108,
+        "ingles": "Procedure",
+        "portugues": "Procedimento",
+        "fraseIngles": "Follow the established procedure.",
+        "frasePortugues": "Siga o procedimento estabelecido.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 109,
+        "ingles": "System",
+        "portugues": "Sistema",
+        "fraseIngles": "The new system improves workflow.",
+        "frasePortugues": "O novo sistema melhora o fluxo de trabalho.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 110,
+        "ingles": "Framework",
+        "portugues": "Estrutura",
+        "fraseIngles": "This framework guides decision-making.",
+        "frasePortugues": "Esta estrutura guia a tomada de decisões.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 111,
+        "ingles": "Structure",
+        "portugues": "Estrutura",
+        "fraseIngles": "The project structure is clear.",
+        "frasePortugues": "A estrutura do projeto é clara.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 112,
+        "ingles": "Organization",
+        "portugues": "Organização",
+        "fraseIngles": "Good organization improves results.",
+        "frasePortugues": "Boa organização melhora resultados.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 113,
+        "ingles": "Format",
+        "portugues": "Formato",
+        "fraseIngles": "What format should we use?",
+        "frasePortugues": "Que formato devemos usar?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 114,
+        "ingles": "Template",
+        "portugues": "Modelo",
+        "fraseIngles": "Use this template for reports.",
+        "frasePortugues": "Use este modelo para relatórios.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 115,
+        "ingles": "Standard",
+        "portugues": "Padrão",
+        "fraseIngles": "Follow industry standards.",
+        "frasePortugues": "Siga padrões da indústria.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 116,
+        "ingles": "Guidelines",
+        "portugues": "Diretrizes",
+        "fraseIngles": "The guidelines are comprehensive.",
+        "frasePortugues": "As diretrizes são abrangentes.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 117,
+        "ingles": "Rules",
+        "portugues": "Regras",
+        "fraseIngles": "Everyone must follow the rules.",
+        "frasePortugues": "Todos devem seguir as regras.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 118,
+        "ingles": "Policy",
+        "portugues": "Política",
+        "fraseIngles": "Company policy is clear.",
+        "frasePortugues": "A política da empresa é clara.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 119,
+        "ingles": "Protocol",
+        "portugues": "Protocolo",
+        "fraseIngles": "Follow proper protocol.",
+        "frasePortugues": "Siga o protocolo adequado.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 120,
+        "ingles": "Budget",
+        "portugues": "Orçamento",
+        "fraseIngles": "The budget is approved.",
+        "frasePortugues": "O orçamento está aprovado.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 121,
+        "ingles": "Cost",
+        "portugues": "Custo",
+        "fraseIngles": "What's the total cost?",
+        "frasePortugues": "Qual é o custo total?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 122,
+        "ingles": "Expense",
+        "portugues": "Despesa",
+        "fraseIngles": "Travel expenses are reimbursable.",
+        "frasePortugues": "Despesas de viagem são reembolsáveis.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 123,
+        "ingles": "Investment",
+        "portugues": "Investimento",
+        "fraseIngles": "This investment pays off quickly.",
+        "frasePortugues": "Este investimento se paga rapidamente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 124,
+        "ingles": "Revenue",
+        "portugues": "Receita",
+        "fraseIngles": "Revenue exceeded projections.",
+        "frasePortugues": "Receita superou projeções.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 125,
+        "ingles": "Profit",
+        "portugues": "Lucro",
+        "fraseIngles": "Profit margins are healthy.",
+        "frasePortugues": "Margens de lucro estão saudáveis.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 126,
+        "ingles": "Loss",
+        "portugues": "Prejuízo",
+        "fraseIngles": "We need to minimize losses.",
+        "frasePortugues": "Precisamos minimizar prejuízos.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 127,
+        "ingles": "Performance",
+        "portugues": "Desempenho",
+        "fraseIngles": "Team performance is excellent.",
+        "frasePortugues": "Desempenho da equipe é excelente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 128,
+        "ingles": "Results",
+        "portugues": "Resultados",
+        "fraseIngles": "The results speak for themselves.",
+        "frasePortugues": "Os resultados falam por si.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 129,
+        "ingles": "Outcome",
+        "portugues": "Resultado",
+        "fraseIngles": "The outcome exceeded expectations.",
+        "frasePortugues": "O resultado superou expectativas.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 130,
+        "ingles": "Achievement",
+        "portugues": "Conquista",
+        "fraseIngles": "This achievement deserves recognition.",
+        "frasePortugues": "Esta conquista merece reconhecimento.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 131,
+        "ingles": "Success",
+        "portugues": "Sucesso",
+        "fraseIngles": "Success requires teamwork.",
+        "frasePortugues": "Sucesso requer trabalho em equipe.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 132,
+        "ingles": "Failure",
+        "portugues": "Fracasso",
+        "fraseIngles": "We learn from failure.",
+        "frasePortugues": "Aprendemos com o fracasso.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 133,
+        "ingles": "Goal",
+        "portugues": "Meta",
+        "fraseIngles": "Our goal is ambitious but achievable.",
+        "frasePortugues": "Nossa meta é ambiciosa mas alcançável.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 134,
+        "ingles": "Objective",
+        "portugues": "Objetivo",
+        "fraseIngles": "The objective is clearly defined.",
+        "frasePortugues": "O objetivo está claramente definido.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 135,
+        "ingles": "Target",
+        "portugues": "Meta",
+        "fraseIngles": "We hit our sales target.",
+        "frasePortugues": "Atingimos nossa meta de vendas.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 136,
+        "ingles": "Purpose",
+        "portugues": "Propósito",
+        "fraseIngles": "The meeting's purpose is planning.",
+        "frasePortugues": "O propósito da reunião é planejamento.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 137,
+        "ingles": "Aim",
+        "portugues": "Objetivo",
+        "fraseIngles": "Our aim is customer satisfaction.",
+        "frasePortugues": "Nosso objetivo é satisfação do cliente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 138,
+        "ingles": "Mission",
+        "portugues": "Missão",
+        "fraseIngles": "The mission statement guides us.",
+        "frasePortugues": "A declaração de missão nos guia.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 139,
+        "ingles": "Vision",
+        "portugues": "Visão",
+        "fraseIngles": "Our vision inspires innovation.",
+        "frasePortugues": "Nossa visão inspira inovação.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 140,
+        "ingles": "Values",
+        "portugues": "Valores",
+        "fraseIngles": "Company values influence decisions.",
+        "frasePortugues": "Valores da empresa influenciam decisões.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 141,
+        "ingles": "Priority",
+        "portugues": "Prioridade",
+        "fraseIngles": "Safety is our top priority.",
+        "frasePortugues": "Segurança é nossa prioridade máxima.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 142,
+        "ingles": "Focus",
+        "portugues": "Foco",
+        "fraseIngles": "Let's maintain focus on quality.",
+        "frasePortugues": "Vamos manter foco na qualidade.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 143,
+        "ingles": "Attention",
+        "portugues": "Atenção",
+        "fraseIngles": "This issue needs immediate attention.",
+        "frasePortugues": "Esta questão precisa de atenção imediata.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 144,
+        "ingles": "Emphasis",
+        "portugues": "Ênfase",
+        "fraseIngles": "Put emphasis on customer service.",
+        "frasePortugues": "Coloque ênfase no atendimento ao cliente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 145,
+        "ingles": "Importance",
+        "portugues": "Importância",
+        "fraseIngles": "The importance cannot be overstated.",
+        "frasePortugues": "A importância não pode ser subestimada.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 146,
+        "ingles": "Significance",
+        "portugues": "Significância",
+        "fraseIngles": "The significance is clear.",
+        "frasePortugues": "A significância é clara.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 147,
+        "ingles": "Impact",
+        "portugues": "Impacto",
+        "fraseIngles": "The impact will be substantial.",
+        "frasePortugues": "O impacto será substancial.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 148,
+        "ingles": "Effect",
+        "portugues": "Efeito",
+        "fraseIngles": "The effect is immediately visible.",
+        "frasePortugues": "O efeito é imediatamente visível.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 149,
+        "ingles": "Consequence",
+        "portugues": "Consequência",
+        "fraseIngles": "Consider the consequences carefully.",
+        "frasePortugues": "Considere as consequências cuidadosamente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 150,
+        "ingles": "Influence",
+        "portugues": "Influência",
+        "fraseIngles": "Your influence is valuable.",
+        "frasePortugues": "Sua influência é valiosa.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 151,
+        "ingles": "Discussion",
+        "portugues": "Discussão",
+        "fraseIngles": "The discussion was productive.",
+        "frasePortugues": "A discussão foi produtiva.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 152,
+        "ingles": "Debate",
+        "portugues": "Debate",
+        "fraseIngles": "The debate raised important points.",
+        "frasePortugues": "O debate levantou pontos importantes.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 153,
+        "ingles": "Dialogue",
+        "portugues": "Diálogo",
+        "fraseIngles": "Open dialogue improves understanding.",
+        "frasePortugues": "Diálogo aberto melhora compreensão.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 154,
+        "ingles": "Conversation",
+        "portugues": "Conversa",
+        "fraseIngles": "The conversation was enlightening.",
+        "frasePortugues": "A conversa foi esclarecedora.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 155,
+        "ingles": "Talk",
+        "portugues": "Conversa",
+        "fraseIngles": "Let's have a frank talk.",
+        "frasePortugues": "Vamos ter uma conversa franca.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 156,
+        "ingles": "Communication",
+        "portugues": "Comunicação",
+        "fraseIngles": "Clear communication prevents errors.",
+        "frasePortugues": "Comunicação clara previne erros.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 157,
+        "ingles": "Exchange",
+        "portugues": "Troca",
+        "fraseIngles": "The exchange of ideas was valuable.",
+        "frasePortugues": "A troca de ideias foi valiosa.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 158,
+        "ingles": "Input",
+        "portugues": "Contribuição",
+        "fraseIngles": "Your input is appreciated.",
+        "frasePortugues": "Sua contribuição é apreciada.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 159,
+        "ingles": "Output",
+        "portugues": "Resultado",
+        "fraseIngles": "The output quality is high.",
+        "frasePortugues": "A qualidade do resultado é alta.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 160,
+        "ingles": "Feedback",
+        "portugues": "Feedback",
+        "fraseIngles": "Constructive feedback helps growth.",
+        "frasePortugues": "Feedback construtivo ajuda crescimento.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 161,
+        "ingles": "Response",
+        "portugues": "Resposta",
+        "fraseIngles": "The response was immediate.",
+        "frasePortugues": "A resposta foi imediata.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 162,
+        "ingles": "Reply",
+        "portugues": "Resposta",
+        "fraseIngles": "I'm waiting for your reply.",
+        "frasePortugues": "Estou esperando sua resposta.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 163,
+        "ingles": "Answer",
+        "portugues": "Resposta",
+        "fraseIngles": "The answer is complex.",
+        "frasePortugues": "A resposta é complexa.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 164,
+        "ingles": "Question",
+        "portugues": "Pergunta",
+        "fraseIngles": "That's an excellent question.",
+        "frasePortugues": "Essa é uma pergunta excelente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 165,
+        "ingles": "Inquiry",
+        "portugues": "Pergunta",
+        "fraseIngles": "The inquiry needs investigation.",
+        "frasePortugues": "A pergunta precisa de investigação.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 166,
+        "ingles": "Query",
+        "portugues": "Consulta",
+        "fraseIngles": "Please address this query.",
+        "frasePortugues": "Por favor, responda esta consulta.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 167,
+        "ingles": "Comment",
+        "portugues": "Comentário",
+        "fraseIngles": "Any comments on the proposal?",
+        "frasePortugues": "Algum comentário sobre a proposta?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 168,
+        "ingles": "Remark",
+        "portugues": "Observação",
+        "fraseIngles": "That's a perceptive remark.",
+        "frasePortugues": "Essa é uma observação perspicaz.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 169,
+        "ingles": "Observation",
+        "portugues": "Observação",
+        "fraseIngles": "Your observation is accurate.",
+        "frasePortugues": "Sua observação é precisa.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 170,
+        "ingles": "Opinion",
+        "portugues": "Opinião",
+        "fraseIngles": "What's your opinion on this?",
+        "frasePortugues": "Qual é sua opinião sobre isso?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 171,
+        "ingles": "View",
+        "portugues": "Ponto de vista",
+        "fraseIngles": "From my view, this works.",
+        "frasePortugues": "Do meu ponto de vista, isso funciona.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 172,
+        "ingles": "Perspective",
+        "portugues": "Perspectiva",
+        "fraseIngles": "Each perspective adds value.",
+        "frasePortugues": "Cada perspectiva agrega valor.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 173,
+        "ingles": "Standpoint",
+        "portugues": "Posição",
+        "fraseIngles": "From a legal standpoint, we're safe.",
+        "frasePortugues": "De uma posição legal, estamos seguros.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 174,
+        "ingles": "Position",
+        "portugues": "Posição",
+        "fraseIngles": "What's the company's position?",
+        "frasePortugues": "Qual é a posição da empresa?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 175,
+        "ingles": "Stance",
+        "portugues": "Postura",
+        "fraseIngles": "Our stance on this is firm.",
+        "frasePortugues": "Nossa postura sobre isso é firme.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 176,
+        "ingles": "Viewpoint",
+        "portugues": "Ponto de vista",
+        "fraseIngles": "Your viewpoint is interesting.",
+        "frasePortugues": "Seu ponto de vista é interessante.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 177,
+        "ingles": "Angle",
+        "portugues": "Ângulo",
+        "fraseIngles": "Let's look at this from another angle.",
+        "frasePortugues": "Vamos olhar isso de outro ângulo.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 178,
+        "ingles": "Side",
+        "portugues": "Lado",
+        "fraseIngles": "I see both sides of the argument.",
+        "frasePortugues": "Vejo os dois lados do argumento.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 179,
+        "ingles": "Aspect",
+        "portugues": "Aspecto",
+        "fraseIngles": "Consider every aspect carefully.",
+        "frasePortugues": "Considere cada aspecto cuidadosamente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 180,
+        "ingles": "Factor",
+        "portugues": "Fator",
+        "fraseIngles": "Time is a critical factor.",
+        "frasePortugues": "Tempo é um fator crítico.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 181,
+        "ingles": "Element",
+        "portugues": "Elemento",
+        "fraseIngles": "Each element contributes to success.",
+        "frasePortugues": "Cada elemento contribui para o sucesso.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 182,
+        "ingles": "Component",
+        "portugues": "Componente",
+        "fraseIngles": "Every component must function properly.",
+        "frasePortugues": "Todo componente deve funcionar adequadamente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 183,
+        "ingles": "Part",
+        "portugues": "Parte",
+        "fraseIngles": "This is a crucial part of the plan.",
+        "frasePortugues": "Esta é uma parte crucial do plano.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 184,
+        "ingles": "Section",
+        "portugues": "Seção",
+        "fraseIngles": "Which section needs revision?",
+        "frasePortugues": "Que seção precisa de revisão?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 185,
+        "ingles": "Segment",
+        "portugues": "Segmento",
+        "fraseIngles": "The market segment is growing.",
+        "frasePortugues": "O segmento de mercado está crescendo.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 186,
+        "ingles": "Area",
+        "portugues": "Área",
+        "fraseIngles": "This area shows improvement.",
+        "frasePortugues": "Esta área mostra melhoria.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 187,
+        "ingles": "Field",
+        "portugues": "Campo",
+        "fraseIngles": "Expertise in this field is valuable.",
+        "frasePortugues": "Expertise neste campo é valiosa.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 188,
+        "ingles": "Domain",
+        "portugues": "Domínio",
+        "fraseIngles": "This falls within my domain.",
+        "frasePortugues": "Isso está dentro do meu domínio.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 189,
+        "ingles": "Scope",
+        "portugues": "Escopo",
+        "fraseIngles": "The project scope is defined.",
+        "frasePortugues": "O escopo do projeto está definido.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 190,
+        "ingles": "Range",
+        "portugues": "Alcance",
+        "fraseIngles": "The range of options is broad.",
+        "frasePortugues": "O alcance de opções é amplo.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 191,
+        "ingles": "Scale",
+        "portugues": "Escala",
+        "fraseIngles": "The scale of this project is massive.",
+        "frasePortugues": "A escala deste projeto é massiva.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 192,
+        "ingles": "Size",
+        "portugues": "Tamanho",
+        "fraseIngles": "The size of the challenge is daunting.",
+        "frasePortugues": "O tamanho do desafio é desanimador.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 193,
+        "ingles": "Magnitude",
+        "portugues": "Magnitude",
+        "fraseIngles": "The magnitude of change is significant.",
+        "frasePortugues": "A magnitude da mudança é significativa.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 194,
+        "ingles": "Extent",
+        "portugues": "Extensão",
+        "fraseIngles": "The extent of damage is unknown.",
+        "frasePortugues": "A extensão do dano é desconhecida.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 195,
+        "ingles": "Degree",
+        "portugues": "Grau",
+        "fraseIngles": "To what degree should we proceed?",
+        "frasePortugues": "Em que grau devemos prosseguir?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 196,
+        "ingles": "Level",
+        "portugues": "Nível",
+        "fraseIngles": "The stress level is high.",
+        "frasePortugues": "O nível de estresse é alto.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 197,
+        "ingles": "Stage",
+        "portugues": "Estágio",
+        "fraseIngles": "We're in the final stage.",
+        "frasePortugues": "Estamos no estágio final.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 198,
+        "ingles": "Phase",
+        "portugues": "Fase",
+        "fraseIngles": "This phase requires careful planning.",
+        "frasePortugues": "Esta fase requer planejamento cuidadoso.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 199,
+        "ingles": "Step",
+        "portugues": "Passo",
+        "fraseIngles": "The next step is implementation.",
+        "frasePortugues": "O próximo passo é implementação.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 200,
+        "ingles": "Move",
+        "portugues": "Movimento",
+        "fraseIngles": "That was a smart move.",
+        "frasePortugues": "Esse foi um movimento inteligente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 201,
+        "ingles": "Action",
+        "portugues": "Ação",
+        "fraseIngles": "Immediate action is required.",
+        "frasePortugues": "Ação imediata é necessária.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 202,
+        "ingles": "Activity",
+        "portugues": "Atividade",
+        "fraseIngles": "Project activities are on schedule.",
+        "frasePortugues": "Atividades do projeto estão no cronograma.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 203,
+        "ingles": "Task",
+        "portugues": "Tarefa",
+        "fraseIngles": "Each task has a deadline.",
+        "frasePortugues": "Cada tarefa tem um prazo.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 204,
+        "ingles": "Job",
+        "portugues": "Trabalho",
+        "fraseIngles": "Everyone did an excellent job.",
+        "frasePortugues": "Todos fizeram um trabalho excelente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 205,
+        "ingles": "Work",
+        "portugues": "Trabalho",
+        "fraseIngles": "The work quality is outstanding.",
+        "frasePortugues": "A qualidade do trabalho é excepcional.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 206,
+        "ingles": "Effort",
+        "portugues": "Esforço",
+        "fraseIngles": "The effort was collaborative.",
+        "frasePortugues": "O esforço foi colaborativo.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 207,
+        "ingles": "Attempt",
+        "portugues": "Tentativa",
+        "fraseIngles": "This is our second attempt.",
+        "frasePortugues": "Esta é nossa segunda tentativa.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 208,
+        "ingles": "Try",
+        "portugues": "Tentativa",
+        "fraseIngles": "Let's try a different approach.",
+        "frasePortugues": "Vamos tentar uma abordagem diferente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 209,
+        "ingles": "Test",
+        "portugues": "Teste",
+        "fraseIngles": "We need to test this hypothesis.",
+        "frasePortugues": "Precisamos testar esta hipótese.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 210,
+        "ingles": "Trial",
+        "portugues": "Teste",
+        "fraseIngles": "The trial period is six months.",
+        "frasePortugues": "O período de teste é seis meses.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 211,
+        "ingles": "Experiment",
+        "portugues": "Experimento",
+        "fraseIngles": "The experiment was successful.",
+        "frasePortugues": "O experimento foi bem-sucedido.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 212,
+        "ingles": "Study",
+        "portugues": "Estudo",
+        "fraseIngles": "The feasibility study is complete.",
+        "frasePortugues": "O estudo de viabilidade está completo.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 213,
+        "ingles": "Research",
+        "portugues": "Pesquisa",
+        "fraseIngles": "Research supports our conclusion.",
+        "frasePortugues": "Pesquisa apoia nossa conclusão.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 214,
+        "ingles": "Investigation",
+        "portugues": "Investigação",
+        "fraseIngles": "The investigation revealed issues.",
+        "frasePortugues": "A investigação revelou questões.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 215,
+        "ingles": "Analysis",
+        "portugues": "Análise",
+        "fraseIngles": "The market analysis is thorough.",
+        "frasePortugues": "A análise de mercado é completa.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 216,
+        "ingles": "Evaluation",
+        "portugues": "Avaliação",
+        "fraseIngles": "Performance evaluation is annual.",
+        "frasePortugues": "Avaliação de desempenho é anual.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 217,
+        "ingles": "Assessment",
+        "portugues": "Avaliação",
+        "fraseIngles": "Risk assessment is ongoing.",
+        "frasePortugues": "Avaliação de risco é contínua.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 218,
+        "ingles": "Review",
+        "portugues": "Revisão",
+        "fraseIngles": "The quarterly review is next week.",
+        "frasePortugues": "A revisão trimestral é na próxima semana.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 219,
+        "ingles": "Examination",
+        "portugues": "Exame",
+        "fraseIngles": "Detailed examination reveals flaws.",
+        "frasePortugues": "Exame detalhado revela falhas.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 220,
+        "ingles": "Inspection",
+        "portugues": "Inspeção",
+        "fraseIngles": "Quality inspection is mandatory.",
+        "frasePortugues": "Inspeção de qualidade é obrigatória.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 221,
+        "ingles": "Check",
+        "portugues": "Verificação",
+        "fraseIngles": "Let's do a final check.",
+        "frasePortugues": "Vamos fazer uma verificação final.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 222,
+        "ingles": "Verification",
+        "portugues": "Verificação",
+        "fraseIngles": "Data verification is important.",
+        "frasePortugues": "Verificação de dados é importante.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 223,
+        "ingles": "Validation",
+        "portugues": "Validação",
+        "fraseIngles": "The concept needs validation.",
+        "frasePortugues": "O conceito precisa de validação.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 224,
+        "ingles": "Confirmation",
+        "portugues": "Confirmação",
+        "fraseIngles": "We need confirmation from legal.",
+        "frasePortugues": "Precisamos de confirmação do jurídico.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 225,
+        "ingles": "Approval",
+        "portugues": "Aprovação",
+        "fraseIngles": "The proposal awaits approval.",
+        "frasePortugues": "A proposta aguarda aprovação.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 226,
+        "ingles": "Authorization",
+        "portugues": "Autorização",
+        "fraseIngles": "Who has authorization to proceed?",
+        "frasePortugues": "Quem tem autorização para prosseguir?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 227,
+        "ingles": "Permission",
+        "portugues": "Permissão",
+        "fraseIngles": "Do we have permission to start?",
+        "frasePortugues": "Temos permissão para começar?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 228,
+        "ingles": "Consent",
+        "portugues": "Consentimento",
+        "fraseIngles": "Everyone's consent is required.",
+        "frasePortugues": "O consentimento de todos é necessário.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 229,
+        "ingles": "Agreement",
+        "portugues": "Acordo",
+        "fraseIngles": "We reached an agreement.",
+        "frasePortugues": "Chegamos a um acordo.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 230,
+        "ingles": "Deal",
+        "portugues": "Acordo",
+        "fraseIngles": "The deal is almost closed.",
+        "frasePortugues": "O acordo está quase fechado.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 231,
+        "ingles": "Contract",
+        "portugues": "Contrato",
+        "fraseIngles": "The contract terms are favorable.",
+        "frasePortugues": "Os termos do contrato são favoráveis.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 232,
+        "ingles": "Partnership",
+        "portugues": "Parceria",
+        "fraseIngles": "The partnership benefits everyone.",
+        "frasePortugues": "A parceria beneficia todos.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 233,
+        "ingles": "Collaboration",
+        "portugues": "Colaboração",
+        "fraseIngles": "Collaboration drives innovation.",
+        "frasePortugues": "Colaboração impulsiona inovação.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 234,
+        "ingles": "Cooperation",
+        "portugues": "Cooperação",
+        "fraseIngles": "International cooperation is essential.",
+        "frasePortugues": "Cooperação internacional é essencial.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 235,
+        "ingles": "Alliance",
+        "portugues": "Aliança",
+        "fraseIngles": "The strategic alliance is strong.",
+        "frasePortugues": "A aliança estratégica é forte.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 236,
+        "ingles": "Union",
+        "portugues": "União",
+        "fraseIngles": "The union represents workers.",
+        "frasePortugues": "O sindicato representa trabalhadores.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 237,
+        "ingles": "Association",
+        "portugues": "Associação",
+        "fraseIngles": "The trade association sets standards.",
+        "frasePortugues": "A associação comercial define padrões.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 238,
+        "ingles": "Organization",
+        "portugues": "Organização",
+        "fraseIngles": "The organization is well-structured.",
+        "frasePortugues": "A organização é bem estruturada.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 239,
+        "ingles": "Institution",
+        "portugues": "Instituição",
+        "fraseIngles": "The institution has credibility.",
+        "frasePortugues": "A instituição tem credibilidade.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 240,
+        "ingles": "Company",
+        "portugues": "Empresa",
+        "fraseIngles": "The company culture is positive.",
+        "frasePortugues": "A cultura da empresa é positiva.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 241,
+        "ingles": "Corporation",
+        "portugues": "Corporação",
+        "fraseIngles": "The corporation is publicly traded.",
+        "frasePortugues": "A corporação tem ações em bolsa.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 242,
+        "ingles": "Business",
+        "portugues": "Negócio",
+        "fraseIngles": "Business ethics guide decisions.",
+        "frasePortugues": "Ética empresarial guia decisões.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 243,
+        "ingles": "Enterprise",
+        "portugues": "Empresa",
+        "fraseIngles": "The enterprise is expanding globally.",
+        "frasePortugues": "A empresa está se expandindo globalmente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 244,
+        "ingles": "Firm",
+        "portugues": "Empresa",
+        "fraseIngles": "The consulting firm has expertise.",
+        "frasePortugues": "A empresa de consultoria tem expertise.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 245,
+        "ingles": "Agency",
+        "portugues": "Agência",
+        "fraseIngles": "The advertising agency is creative.",
+        "frasePortugues": "A agência de publicidade é criativa.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 246,
+        "ingles": "Department",
+        "portugues": "Departamento",
+        "fraseIngles": "Which department handles this?",
+        "frasePortugues": "Que departamento cuida disso?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 247,
+        "ingles": "Division",
+        "portugues": "Divisão",
+        "fraseIngles": "The international division is profitable.",
+        "frasePortugues": "A divisão internacional é lucrativa.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 248,
+        "ingles": "Unit",
+        "portugues": "Unidade",
+        "fraseIngles": "The business unit operates independently.",
+        "frasePortugues": "A unidade de negócios opera independentemente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 249,
+        "ingles": "Branch",
+        "portugues": "Filial",
+        "fraseIngles": "The branch office needs support.",
+        "frasePortugues": "A filial precisa de apoio.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 250,
+        "ingles": "Subsidiary",
+        "portugues": "Subsidiária",
+        "fraseIngles": "The subsidiary was recently acquired.",
+        "frasePortugues": "A subsidiária foi adquirida recentemente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 251,
+        "ingles": "Thank you",
+        "portugues": "Obrigado",
+        "fraseIngles": "Thank you for your attention.",
+        "frasePortugues": "Obrigado pela atenção.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 252,
+        "ingles": "Thanks",
+        "portugues": "Obrigado",
+        "fraseIngles": "Thanks for your contribution.",
+        "frasePortugues": "Obrigado pela contribuição.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 253,
+        "ingles": "Appreciate",
+        "portugues": "Agradecer",
+        "fraseIngles": "I appreciate your input.",
+        "frasePortugues": "Agradeço sua contribuição.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 254,
+        "ingles": "Gratitude",
+        "portugues": "Gratidão",
+        "fraseIngles": "I express my gratitude.",
+        "frasePortugues": "Expresso minha gratidão.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 255,
+        "ingles": "Welcome",
+        "portugues": "Bem-vindo",
+        "fraseIngles": "You're welcome to join us.",
+        "frasePortugues": "Você é bem-vindo para se juntar a nós.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 256,
+        "ingles": "Pleasure",
+        "portugues": "Prazer",
+        "fraseIngles": "It's been a pleasure working together.",
+        "frasePortugues": "Foi um prazer trabalhar juntos.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 257,
+        "ingles": "Honor",
+        "portugues": "Honra",
+        "fraseIngles": "It's an honor to present results.",
+        "frasePortugues": "É uma honra apresentar resultados.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 258,
+        "ingles": "Privilege",
+        "portugues": "Privilégio",
+        "fraseIngles": "It's a privilege to lead this team.",
+        "frasePortugues": "É um privilégio liderar esta equipe.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 259,
+        "ingles": "Excellent",
+        "portugues": "Excelente",
+        "fraseIngles": "That's an excellent suggestion.",
+        "frasePortugues": "Essa é uma sugestão excelente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 260,
+        "ingles": "Outstanding",
+        "portugues": "Excepcional",
+        "fraseIngles": "The performance was outstanding.",
+        "frasePortugues": "O desempenho foi excepcional.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 261,
+        "ingles": "Great",
+        "portugues": "Ótimo",
+        "fraseIngles": "Great job on the presentation.",
+        "frasePortugues": "Ótimo trabalho na apresentação.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 262,
+        "ingles": "Good",
+        "portugues": "Bom",
+        "fraseIngles": "That's a good point.",
+        "frasePortugues": "Esse é um bom ponto.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 263,
+        "ingles": "Congratulations",
+        "portugues": "Parabéns",
+        "fraseIngles": "Congratulations on the promotion.",
+        "frasePortugues": "Parabéns pela promoção.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 264,
+        "ingles": "Well done",
+        "portugues": "Bem feito",
+        "fraseIngles": "Well done, everyone!",
+        "frasePortugues": "Bem feito, pessoal!",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 265,
+        "ingles": "Success",
+        "portugues": "Sucesso",
+        "fraseIngles": "The meeting was a success.",
+        "frasePortugues": "A reunião foi um sucesso.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 266,
+        "ingles": "Achievement",
+        "portugues": "Conquista",
+        "fraseIngles": "This is a remarkable achievement.",
+        "frasePortugues": "Esta é uma conquista notável.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 267,
+        "ingles": "Accomplishment",
+        "portugues": "Realização",
+        "fraseIngles": "The accomplishment is significant.",
+        "frasePortugues": "A realização é significativa.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 268,
+        "ingles": "Progress",
+        "portugues": "Progresso",
+        "fraseIngles": "We've made substantial progress.",
+        "frasePortugues": "Fizemos progresso substancial.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 269,
+        "ingles": "Improvement",
+        "portugues": "Melhoria",
+        "fraseIngles": "The improvement is noticeable.",
+        "frasePortugues": "A melhoria é perceptível.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 270,
+        "ingles": "Advancement",
+        "portugues": "Avanço",
+        "fraseIngles": "This represents real advancement.",
+        "frasePortugues": "Isso representa avanço real.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 271,
+        "ingles": "Development",
+        "portugues": "Desenvolvimento",
+        "fraseIngles": "The development is encouraging.",
+        "frasePortugues": "O desenvolvimento é encorajador.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 272,
+        "ingles": "Growth",
+        "portugues": "Crescimento",
+        "fraseIngles": "Growth continues this quarter.",
+        "frasePortugues": "Crescimento continua este trimestre.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 273,
+        "ingles": "Expansion",
+        "portugues": "Expansão",
+        "fraseIngles": "Market expansion is planned.",
+        "frasePortugues": "Expansão de mercado está planejada.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 274,
+        "ingles": "Innovation",
+        "portugues": "Inovação",
+        "fraseIngles": "Innovation drives competitiveness.",
+        "frasePortugues": "Inovação impulsiona competitividade.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 275,
+        "ingles": "Change",
+        "portugues": "Mudança",
+        "fraseIngles": "Change management is critical.",
+        "frasePortugues": "Gestão de mudança é crítica.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 276,
+        "ingles": "Transformation",
+        "portugues": "Transformação",
+        "fraseIngles": "Digital transformation is ongoing.",
+        "frasePortugues": "Transformação digital está em andamento.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 277,
+        "ingles": "Evolution",
+        "portugues": "Evolução",
+        "fraseIngles": "The market evolution is rapid.",
+        "frasePortugues": "A evolução do mercado é rápida.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 278,
+        "ingles": "Revolution",
+        "portugues": "Revolução",
+        "fraseIngles": "This technology is revolutionary.",
+        "frasePortugues": "Esta tecnologia é revolucionária.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 279,
+        "ingles": "Breakthrough",
+        "portugues": "Descoberta",
+        "fraseIngles": "The breakthrough came unexpectedly.",
+        "frasePortugues": "A descoberta veio inesperadamente.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 280,
+        "ingles": "Discovery",
+        "portugues": "Descoberta",
+        "fraseIngles": "The discovery has potential.",
+        "frasePortugues": "A descoberta tem potencial.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 281,
+        "ingles": "Finding",
+        "portugues": "Descoberta",
+        "fraseIngles": "The research finding is significant.",
+        "frasePortugues": "A descoberta da pesquisa é significativa.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 282,
+        "ingles": "Result",
+        "portugues": "Resultado",
+        "fraseIngles": "The result validates our approach.",
+        "frasePortugues": "O resultado valida nossa abordagem.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 283,
+        "ingles": "Conclusion",
+        "portugues": "Conclusão",
+        "fraseIngles": "The conclusion is promising.",
+        "frasePortugues": "A conclusão é promissora.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 284,
+        "ingles": "Summary",
+        "portugues": "Resumo",
+        "fraseIngles": "In summary, we're on track.",
+        "frasePortugues": "Em resumo, estamos no caminho certo.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 285,
+        "ingles": "Final thoughts",
+        "portugues": "Considerações finais",
+        "fraseIngles": "Any final thoughts before we adjourn?",
+        "frasePortugues": "Alguma consideração final antes de encerrarmos?",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    },
+    {
+        "id": 286,
+        "ingles": "Adjourn",
+        "portugues": "Encerrar",
+        "fraseIngles": "I move to adjourn the meeting.",
+        "frasePortugues": "Proponho encerrar a reunião.",
+        "subtopico": "Reunião_trabalho",
+        "topico": "Frases"
+    }
+]

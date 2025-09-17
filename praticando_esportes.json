@@ -1,0 +1,2072 @@
+[
+    {
+        "id": 1,
+        "ingles": "Sport",
+        "portugues": "Esporte",
+        "fraseIngles": "Sport is important for health.",
+        "frasePortugues": "O esporte é importante para a saúde.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 2,
+        "ingles": "Exercise",
+        "portugues": "Exercício",
+        "fraseIngles": "I exercise every morning.",
+        "frasePortugues": "Eu me exercito toda manhã.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 3,
+        "ingles": "Workout",
+        "portugues": "Treino",
+        "fraseIngles": "My workout lasts one hour.",
+        "frasePortugues": "Meu treino dura uma hora.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 4,
+        "ingles": "Training",
+        "portugues": "Treinamento",
+        "fraseIngles": "Training starts at 6 AM.",
+        "frasePortugues": "O treinamento começa às 6h.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 5,
+        "ingles": "Practice",
+        "portugues": "Prática / Treinar",
+        "fraseIngles": "We practice three times a week.",
+        "frasePortugues": "Treinamos três vezes por semana.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 6,
+        "ingles": "Fitness",
+        "portugues": "Forma física",
+        "fraseIngles": "Fitness is my priority this year.",
+        "frasePortugues": "Estar em forma é minha prioridade este ano.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 7,
+        "ingles": "Gym",
+        "portugues": "Academia",
+        "fraseIngles": "I go to the gym after work.",
+        "frasePortugues": "Vou à academia depois do trabalho.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 8,
+        "ingles": "Coach",
+        "portugues": "Treinador",
+        "fraseIngles": "Our coach is very experienced.",
+        "frasePortugues": "Nosso treinador é muito experiente.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 9,
+        "ingles": "Team",
+        "portugues": "Time / Equipe",
+        "fraseIngles": "Our team won the championship.",
+        "frasePortugues": "Nosso time ganhou o campeonato.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 10,
+        "ingles": "Player",
+        "portugues": "Jogador",
+        "fraseIngles": "He's the best player on the team.",
+        "frasePortugues": "Ele é o melhor jogador do time.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 11,
+        "ingles": "Athlete",
+        "portugues": "Atleta",
+        "fraseIngles": "She's a professional athlete.",
+        "frasePortugues": "Ela é uma atleta profissional.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 12,
+        "ingles": "Competition",
+        "portugues": "Competição",
+        "fraseIngles": "The competition is next weekend.",
+        "frasePortugues": "A competição é no próximo fim de semana.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 13,
+        "ingles": "Tournament",
+        "portugues": "Torneio",
+        "fraseIngles": "We're participating in a tournament.",
+        "frasePortugues": "Estamos participando de um torneio.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 14,
+        "ingles": "Championship",
+        "portugues": "Campeonato",
+        "fraseIngles": "The world championship is in July.",
+        "frasePortugues": "O campeonato mundial é em julho.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 15,
+        "ingles": "Game",
+        "portugues": "Jogo",
+        "fraseIngles": "The game starts at 7 PM.",
+        "frasePortugues": "O jogo começa às 19h.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 16,
+        "ingles": "Match",
+        "portugues": "Partida",
+        "fraseIngles": "It was an exciting match.",
+        "frasePortugues": "Foi uma partida emocionante.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 17,
+        "ingles": "Win",
+        "portugues": "Ganhar",
+        "fraseIngles": "We're going to win this game!",
+        "frasePortugues": "Vamos ganhar este jogo!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 18,
+        "ingles": "Lose",
+        "portugues": "Perder",
+        "fraseIngles": "I hate to lose.",
+        "frasePortugues": "Odeio perder.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 19,
+        "ingles": "Defeat",
+        "portugues": "Derrota",
+        "fraseIngles": "The defeat was disappointing.",
+        "frasePortugues": "A derrota foi decepcionante.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 20,
+        "ingles": "Victory",
+        "portugues": "Vitória",
+        "fraseIngles": "Victory tastes sweet!",
+        "frasePortugues": "A vitória tem gosto doce!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 21,
+        "ingles": "Score",
+        "portugues": "Pontuação / Marcar",
+        "fraseIngles": "What's the final score?",
+        "frasePortugues": "Qual é a pontuação final?",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 22,
+        "ingles": "Point",
+        "portugues": "Ponto",
+        "fraseIngles": "We scored the winning point.",
+        "frasePortugues": "Marcamos o ponto da vitória.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 23,
+        "ingles": "Goal",
+        "portugues": "Gol / Meta",
+        "fraseIngles": "She scored three goals today.",
+        "frasePortugues": "Ela fez três gols hoje.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 24,
+        "ingles": "Field",
+        "portugues": "Campo",
+        "fraseIngles": "The field needs to be watered.",
+        "frasePortugues": "O campo precisa ser regado.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 25,
+        "ingles": "Court",
+        "portugues": "Quadra",
+        "fraseIngles": "The basketball court is occupied.",
+        "frasePortugues": "A quadra de basquete está ocupada.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 26,
+        "ingles": "Stadium",
+        "portugues": "Estádio",
+        "fraseIngles": "The stadium holds 50,000 people.",
+        "frasePortugues": "O estádio comporta 50.000 pessoas.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 27,
+        "ingles": "Arena",
+        "portugues": "Arena",
+        "fraseIngles": "The boxing arena was packed.",
+        "frasePortugues": "A arena de boxe estava lotada.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 28,
+        "ingles": "Track",
+        "portugues": "Pista",
+        "fraseIngles": "The running track is 400 meters.",
+        "frasePortugues": "A pista de corrida tem 400 metros.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 29,
+        "ingles": "Pool",
+        "portugues": "Piscina",
+        "fraseIngles": "The swimming pool is heated.",
+        "frasePortugues": "A piscina é aquecida.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 30,
+        "ingles": "Ball",
+        "portugues": "Bola",
+        "fraseIngles": "Pass me the ball!",
+        "frasePortugues": "Passe a bola!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 31,
+        "ingles": "Football",
+        "portugues": "Futebol americano",
+        "fraseIngles": "Football is popular in America.",
+        "frasePortugues": "Futebol americano é popular nos EUA.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 32,
+        "ingles": "Soccer",
+        "portugues": "Futebol",
+        "fraseIngles": "Soccer is the world's most popular sport.",
+        "frasePortugues": "O futebol é o esporte mais popular do mundo.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 33,
+        "ingles": "Basketball",
+        "portugues": "Basquete",
+        "fraseIngles": "Basketball players are usually tall.",
+        "frasePortugues": "Jogadores de basquete são geralmente altos.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 34,
+        "ingles": "Volleyball",
+        "portugues": "Vôlei",
+        "fraseIngles": "We play volleyball on the beach.",
+        "frasePortugues": "Jogamos vôlei na praia.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 35,
+        "ingles": "Tennis",
+        "portugues": "Tênis",
+        "fraseIngles": "Tennis requires good coordination.",
+        "frasePortugues": "O tênis requer boa coordenação.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 36,
+        "ingles": "Baseball",
+        "portugues": "Baseball",
+        "fraseIngles": "Baseball is America's pastime.",
+        "frasePortugues": "Baseball é o passatempo da América.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 37,
+        "ingles": "Golf",
+        "portugues": "Golfe",
+        "fraseIngles": "Golf is a precision sport.",
+        "frasePortugues": "O golfe é um esporte de precisão.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 38,
+        "ingles": "Hockey",
+        "portugues": "Hóquei",
+        "fraseIngles": "Ice hockey is fast and exciting.",
+        "frasePortugues": "O hóquei no gelo é rápido e emocionante.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 39,
+        "ingles": "Rugby",
+        "portugues": "Rugby",
+        "fraseIngles": "Rugby is a tough contact sport.",
+        "frasePortugues": "Rugby é um esporte de contato difícil.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 40,
+        "ingles": "Cricket",
+        "portugues": "Críquete",
+        "fraseIngles": "Cricket matches can last for days.",
+        "frasePortugues": "Partidas de críquete podem durar dias.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 41,
+        "ingles": "Badminton",
+        "portugues": "Badminton",
+        "fraseIngles": "Badminton shuttlecocks are made of feathers.",
+        "frasePortugues": "As petecas de badminton são feitas de penas.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 42,
+        "ingles": "Table tennis",
+        "portugues": "Tênis de mesa",
+        "fraseIngles": "Table tennis requires quick reflexes.",
+        "frasePortugues": "Tênis de mesa requer reflexos rápidos.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 43,
+        "ingles": "Boxing",
+        "portugues": "Boxe",
+        "fraseIngles": "Boxing is a combat sport.",
+        "frasePortugues": "Boxe é um esporte de combate.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 44,
+        "ingles": "Wrestling",
+        "portugues": "Luta livre",
+        "fraseIngles": "Wrestling builds strength and endurance.",
+        "frasePortugues": "Luta livre desenvolve força e resistência.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 45,
+        "ingles": "Martial arts",
+        "portugues": "Artes marciais",
+        "fraseIngles": "Martial arts teach discipline and respect.",
+        "frasePortugues": "Artes marciais ensinam disciplina e respeito.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 46,
+        "ingles": "Karate",
+        "portugues": "Karatê",
+        "fraseIngles": "Karate originated in Japan.",
+        "frasePortugues": "O karatê se originou no Japão.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 47,
+        "ingles": "Judo",
+        "portugues": "Judô",
+        "fraseIngles": "Judo means \"gentle way\" in Japanese.",
+        "frasePortugues": "Judô significa \"caminho suave\" em japonês.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 48,
+        "ingles": "Swimming",
+        "portugues": "Natação",
+        "fraseIngles": "Swimming is excellent full-body exercise.",
+        "frasePortugues": "A natação é um excelente exercício completo.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 49,
+        "ingles": "Diving",
+        "portugues": "Mergulho",
+        "fraseIngles": "Diving requires courage and skill.",
+        "frasePortugues": "O mergulho requer coragem e habilidade.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 50,
+        "ingles": "Running",
+        "portugues": "Corrida",
+        "fraseIngles": "Running helps improve cardiovascular health.",
+        "frasePortugues": "Correr ajuda a melhorar a saúde cardiovascular.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 51,
+        "ingles": "Jogging",
+        "portugues": "Cooper",
+        "fraseIngles": "Jogging is a light form of running.",
+        "frasePortugues": "Cooper é uma forma leve de corrida.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 52,
+        "ingles": "Marathon",
+        "portugues": "Maratona",
+        "fraseIngles": "A marathon is 42.195 kilometers long.",
+        "frasePortugues": "Uma maratona tem 42,195 quilômetros.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 53,
+        "ingles": "Sprint",
+        "portugues": "Velocidade / Correr rápido",
+        "fraseIngles": "The 100-meter sprint is the fastest race.",
+        "frasePortugues": "A corrida de 100 metros é a mais rápida.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 54,
+        "ingles": "Cycling",
+        "portugues": "Ciclismo",
+        "fraseIngles": "Cycling is environmentally friendly transportation.",
+        "frasePortugues": "O ciclismo é um transporte ecológico.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 55,
+        "ingles": "Mountain biking",
+        "portugues": "Mountain bike",
+        "fraseIngles": "Mountain biking is an adventure sport.",
+        "frasePortugues": "Mountain bike é um esporte de aventura.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 56,
+        "ingles": "Skiing",
+        "portugues": "Esqui",
+        "fraseIngles": "Skiing is popular in winter resorts.",
+        "frasePortugues": "O esqui é popular em resorts de inverno.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 57,
+        "ingles": "Snowboarding",
+        "portugues": "Snowboard",
+        "fraseIngles": "Snowboarding is like surfing on snow.",
+        "frasePortugues": "Snowboard é como surfar na neve.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 58,
+        "ingles": "Ice skating",
+        "portugues": "Patinação no gelo",
+        "fraseIngles": "Ice skating is graceful and beautiful.",
+        "frasePortugues": "A patinação no gelo é graciosa e linda.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 59,
+        "ingles": "Roller skating",
+        "portugues": "Patinação",
+        "fraseIngles": "Roller skating was popular in the 80s.",
+        "frasePortugues": "A patinação foi popular nos anos 80.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 60,
+        "ingles": "Skateboarding",
+        "portugues": "Skate",
+        "fraseIngles": "Skateboarding is a street sport.",
+        "frasePortugues": "O skate é um esporte de rua.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 61,
+        "ingles": "Surfing",
+        "portugues": "Surf",
+        "fraseIngles": "Surfing requires balance and timing.",
+        "frasePortugues": "O surf requer equilíbrio e timing.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 62,
+        "ingles": "Sailing",
+        "portugues": "Vela",
+        "fraseIngles": "Sailing depends on wind conditions.",
+        "frasePortugues": "A vela depende das condições do vento.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 63,
+        "ingles": "Rowing",
+        "portugues": "Remo",
+        "fraseIngles": "Rowing builds upper body strength.",
+        "frasePortugues": "O remo desenvolve força na parte superior do corpo.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 64,
+        "ingles": "Climbing",
+        "portugues": "Escalada",
+        "fraseIngles": "Rock climbing requires mental and physical strength.",
+        "frasePortugues": "A escalada em rocha requer força mental e física.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 65,
+        "ingles": "Hiking",
+        "portugues": "Caminhada / Trilha",
+        "fraseIngles": "Hiking connects you with nature.",
+        "frasePortugues": "Fazer trilhas conecta você com a natureza.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 66,
+        "ingles": "Camping",
+        "portugues": "Acampar",
+        "fraseIngles": "We're going camping this weekend.",
+        "frasePortugues": "Vamos acampar neste fim de semana.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 67,
+        "ingles": "Fishing",
+        "portugues": "Pesca",
+        "fraseIngles": "Fishing teaches patience.",
+        "frasePortugues": "A pesca ensina paciência.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 68,
+        "ingles": "Hunting",
+        "portugues": "Caça",
+        "fraseIngles": "Hunting is regulated by law.",
+        "frasePortugues": "A caça é regulamentada por lei.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 69,
+        "ingles": "Archery",
+        "portugues": "Tiro com arco",
+        "fraseIngles": "Archery requires precision and focus.",
+        "frasePortugues": "O tiro com arco requer precisão e foco.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 70,
+        "ingles": "Equipment",
+        "portugues": "Equipamento",
+        "fraseIngles": "Good equipment improves performance.",
+        "frasePortugues": "Bom equipamento melhora o desempenho.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 71,
+        "ingles": "Gear",
+        "portugues": "Equipamento / Material",
+        "fraseIngles": "Don't forget your protective gear.",
+        "frasePortugues": "Não esqueça seu equipamento de proteção.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 72,
+        "ingles": "Uniform",
+        "portugues": "Uniforme",
+        "fraseIngles": "Our team uniform is blue and white.",
+        "frasePortugues": "O uniforme do nosso time é azul e branco.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 73,
+        "ingles": "Jersey",
+        "portugues": "Camisa de time",
+        "fraseIngles": "I bought my favorite player's jersey.",
+        "frasePortugues": "Comprei a camisa do meu jogador favorito.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 74,
+        "ingles": "Helmet",
+        "portugues": "Capacete",
+        "fraseIngles": "Always wear a helmet when cycling.",
+        "frasePortugues": "Sempre use capacete quando andar de bicicleta.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 75,
+        "ingles": "Goggles",
+        "portugues": "Óculos de proteção",
+        "fraseIngles": "Swimming goggles protect your eyes.",
+        "frasePortugues": "Óculos de natação protegem seus olhos.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 76,
+        "ingles": "Shoes",
+        "portugues": "Tênis / Sapatos",
+        "fraseIngles": "Running shoes should be comfortable.",
+        "frasePortugues": "Tênis de corrida devem ser confortáveis.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 77,
+        "ingles": "Sneakers",
+        "portugues": "Tênis",
+        "fraseIngles": "I need new sneakers for basketball.",
+        "frasePortugues": "Preciso de tênis novos para basquete.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 78,
+        "ingles": "Cleats",
+        "portugues": "Chuteira",
+        "fraseIngles": "Soccer cleats provide better grip.",
+        "frasePortugues": "Chuteiras de futebol oferecem melhor aderência.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 79,
+        "ingles": "Racket",
+        "portugues": "Raquete",
+        "fraseIngles": "My tennis racket needs new strings.",
+        "frasePortugues": "Minha raquete de tênis precisa de cordas novas.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 80,
+        "ingles": "Bat",
+        "portugues": "Taco",
+        "fraseIngles": "The baseball bat is made of wood.",
+        "frasePortugues": "O taco de baseball é feito de madeira.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 81,
+        "ingles": "Club",
+        "portugues": "Taco (golfe)",
+        "fraseIngles": "Golf clubs come in different types.",
+        "frasePortugues": "Tacos de golfe vêm em tipos diferentes.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 82,
+        "ingles": "Glove",
+        "portugues": "Luva",
+        "fraseIngles": "The goalkeeper's gloves are padded.",
+        "frasePortugues": "As luvas do goleiro são acolchoadas.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 83,
+        "ingles": "Net",
+        "portugues": "Rede",
+        "fraseIngles": "The volleyball net is 2.43 meters high.",
+        "frasePortugues": "A rede de vôlei tem 2,43 metros de altura.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 84,
+        "ingles": "Whistle",
+        "portugues": "Apito",
+        "fraseIngles": "The referee blew the whistle.",
+        "frasePortugues": "O árbitro apitou.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 85,
+        "ingles": "Referee",
+        "portugues": "Árbitro",
+        "fraseIngles": "The referee made a controversial call.",
+        "frasePortugues": "O árbitro fez uma decisão controversa.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 86,
+        "ingles": "Umpire",
+        "portugues": "Juiz (baseball/tênis)",
+        "fraseIngles": "The umpire called a strike.",
+        "frasePortugues": "O juiz marcou um strike.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 87,
+        "ingles": "Judge",
+        "portugues": "Juiz",
+        "fraseIngles": "The judges scored the routine perfectly.",
+        "frasePortugues": "Os juízes deram nota máxima para a apresentação.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 88,
+        "ingles": "Rule",
+        "portugues": "Regra",
+        "fraseIngles": "Everyone must follow the rules.",
+        "frasePortugues": "Todos devem seguir as regras.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 89,
+        "ingles": "Regulation",
+        "portugues": "Regulamento",
+        "fraseIngles": "Check the tournament regulations.",
+        "frasePortugues": "Verifique o regulamento do torneio.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 90,
+        "ingles": "Penalty",
+        "portugues": "Penalidade",
+        "fraseIngles": "He received a penalty for the foul.",
+        "frasePortugues": "Ele recebeu uma penalidade pela falta.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 91,
+        "ingles": "Foul",
+        "portugues": "Falta",
+        "fraseIngles": "That was clearly a foul!",
+        "frasePortugues": "Essa foi claramente uma falta!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 92,
+        "ingles": "Offside",
+        "portugues": "Impedimento",
+        "fraseIngles": "The goal was disallowed for offside.",
+        "frasePortugues": "O gol foi anulado por impedimento.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 93,
+        "ingles": "Time-out",
+        "portugues": "Tempo",
+        "fraseIngles": "The coach called a time-out.",
+        "frasePortugues": "O treinador pediu tempo.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 94,
+        "ingles": "Substitute",
+        "portugues": "Substituto / Substituir",
+        "fraseIngles": "The coach decided to substitute the player.",
+        "frasePortugues": "O treinador decidiu substituir o jogador.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 95,
+        "ingles": "Captain",
+        "portugues": "Capitão",
+        "fraseIngles": "The team captain leads by example.",
+        "frasePortugues": "O capitão do time lidera pelo exemplo.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 96,
+        "ingles": "Goalkeeper",
+        "portugues": "Goleiro",
+        "fraseIngles": "The goalkeeper made an amazing save.",
+        "frasePortugues": "O goleiro fez uma defesa incrível.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 97,
+        "ingles": "Defender",
+        "portugues": "Defensor / Zagueiro",
+        "fraseIngles": "The defender blocked the shot.",
+        "frasePortugues": "O zagueiro bloqueou o chute.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 98,
+        "ingles": "Midfielder",
+        "portugues": "Meio-campista",
+        "fraseIngles": "The midfielder controls the game pace.",
+        "frasePortugues": "O meio-campista controla o ritmo do jogo.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 99,
+        "ingles": "Forward",
+        "portugues": "Atacante",
+        "fraseIngles": "The forward scored twice today.",
+        "frasePortugues": "O atacante marcou duas vezes hoje.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 100,
+        "ingles": "Striker",
+        "portugues": "Centroavante",
+        "fraseIngles": "The striker is the team's top scorer.",
+        "frasePortugues": "O centroavante é o artilheiro do time.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 101,
+        "ingles": "Pitcher",
+        "portugues": "Arremessador",
+        "fraseIngles": "The pitcher threw a perfect game.",
+        "frasePortugues": "O arremessador jogou um jogo perfeito.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 102,
+        "ingles": "Catcher",
+        "portugues": "Receptor",
+        "fraseIngles": "The catcher signals to the pitcher.",
+        "frasePortugues": "O receptor sinaliza para o arremessador.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 103,
+        "ingles": "Quarterback",
+        "portugues": "Quarterback",
+        "fraseIngles": "The quarterback threw a touchdown pass.",
+        "frasePortugues": "O quarterback fez um passe para touchdown.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 104,
+        "ingles": "Guard",
+        "portugues": "Armador / Guarda",
+        "fraseIngles": "The point guard orchestrates the offense.",
+        "frasePortugues": "O armador orquestra o ataque.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 105,
+        "ingles": "Center",
+        "portugues": "Pivô",
+        "fraseIngles": "The center dominates in the paint.",
+        "frasePortugues": "O pivô domina no garrafão.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 106,
+        "ingles": "Serve",
+        "portugues": "Sacar / Saque",
+        "fraseIngles": "Her serve is very powerful.",
+        "frasePortugues": "O saque dela é muito potente.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 107,
+        "ingles": "Spike",
+        "portugues": "Cortada",
+        "fraseIngles": "The spike was perfectly executed.",
+        "frasePortugues": "A cortada foi perfeitamente executada.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 108,
+        "ingles": "Block",
+        "portugues": "Bloqueio / Bloquear",
+        "fraseIngles": "The block saved the point.",
+        "frasePortugues": "O bloqueio salvou o ponto.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 109,
+        "ingles": "Pass",
+        "portugues": "Passe / Passar",
+        "fraseIngles": "Make a good pass to your teammate.",
+        "frasePortugues": "Faça um bom passe para seu companheiro.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 110,
+        "ingles": "Dribble",
+        "portugues": "Drible / Driblar",
+        "fraseIngles": "He can dribble with both hands.",
+        "frasePortugues": "Ele pode driblar com as duas mãos.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 111,
+        "ingles": "Shoot",
+        "portugues": "Chutar / Arremessar",
+        "fraseIngles": "Shoot when you have a clear chance.",
+        "frasePortugues": "Chute quando tiver uma chance clara.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 112,
+        "ingles": "Kick",
+        "portugues": "Chutar / Chute",
+        "fraseIngles": "The penalty kick was saved.",
+        "frasePortugues": "O pênalti foi defendido.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 113,
+        "ingles": "Throw",
+        "portugues": "Arremessar / Lançar",
+        "fraseIngles": "Throw the ball to first base.",
+        "frasePortugues": "Lance a bola para a primeira base.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 114,
+        "ingles": "Catch",
+        "portugues": "Pegar / Agarrar",
+        "fraseIngles": "Catch the ball with both hands.",
+        "frasePortugues": "Pegue a bola com as duas mãos.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 115,
+        "ingles": "Hit",
+        "portugues": "Bater / Rebater",
+        "fraseIngles": "He hit a home run!",
+        "frasePortugues": "Ele rebateu um home run!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 116,
+        "ingles": "Swing",
+        "portugues": "Balançar / Tacada",
+        "fraseIngles": "His golf swing is perfect.",
+        "frasePortugues": "A tacada de golfe dele é perfeita.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 117,
+        "ingles": "Jump",
+        "portugues": "Pular / Saltar",
+        "fraseIngles": "Jump as high as you can!",
+        "frasePortugues": "Pule o mais alto que puder!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 118,
+        "ingles": "Run",
+        "portugues": "Correr",
+        "fraseIngles": "Run faster to catch up!",
+        "frasePortugues": "Corra mais rápido para alcançar!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 119,
+        "ingles": "Walk",
+        "portugues": "Andar / Caminhar",
+        "fraseIngles": "Walking is good low-impact exercise.",
+        "frasePortugues": "Caminhar é um bom exercício de baixo impacto.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 120,
+        "ingles": "Sprint",
+        "portugues": "Correr em velocidade",
+        "fraseIngles": "Sprint to the finish line!",
+        "frasePortugues": "Corra em velocidade até a linha de chegada!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 121,
+        "ingles": "Jog",
+        "portugues": "Trotar",
+        "fraseIngles": "Let's jog around the park.",
+        "frasePortugues": "Vamos trotar pelo parque.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 122,
+        "ingles": "Stretch",
+        "portugues": "Alongar",
+        "fraseIngles": "Always stretch before exercising.",
+        "frasePortugues": "Sempre se alongue antes de se exercitar.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 123,
+        "ingles": "Warm up",
+        "portugues": "Aquecer",
+        "fraseIngles": "Warm up for ten minutes first.",
+        "frasePortugues": "Aqueça por dez minutos primeiro.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 124,
+        "ingles": "Cool down",
+        "portugues": "Desaquecer",
+        "fraseIngles": "Don't forget to cool down after training.",
+        "frasePortugues": "Não esqueça de desaquecer depois do treino.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 125,
+        "ingles": "Strength",
+        "portugues": "Força",
+        "fraseIngles": "Weight lifting builds strength.",
+        "frasePortugues": "Levantamento de peso desenvolve força.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 126,
+        "ingles": "Speed",
+        "portugues": "Velocidade",
+        "fraseIngles": "Speed is crucial in sprinting.",
+        "frasePortugues": "Velocidade é crucial na corrida rápida.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 127,
+        "ingles": "Endurance",
+        "portugues": "Resistência",
+        "fraseIngles": "Marathon runners need great endurance.",
+        "frasePortugues": "Corredores de maratona precisam de grande resistência.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 128,
+        "ingles": "Flexibility",
+        "portugues": "Flexibilidade",
+        "fraseIngles": "Yoga improves flexibility.",
+        "frasePortugues": "Yoga melhora a flexibilidade.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 129,
+        "ingles": "Balance",
+        "portugues": "Equilíbrio",
+        "fraseIngles": "Gymnastics requires perfect balance.",
+        "frasePortugues": "A ginástica requer equilíbrio perfeito.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 130,
+        "ingles": "Coordination",
+        "portugues": "Coordenação",
+        "fraseIngles": "Tennis players need hand-eye coordination.",
+        "frasePortugues": "Tenistas precisam de coordenação mão-olho.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 131,
+        "ingles": "Agility",
+        "portugues": "Agilidade",
+        "fraseIngles": "Soccer players must have agility.",
+        "frasePortugues": "Jogadores de futebol devem ter agilidade.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 132,
+        "ingles": "Power",
+        "portugues": "Potência",
+        "fraseIngles": "Boxing requires explosive power.",
+        "frasePortugues": "Boxe requer potência explosiva.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 133,
+        "ingles": "Technique",
+        "portugues": "Técnica",
+        "fraseIngles": "Good technique prevents injuries.",
+        "frasePortugues": "Boa técnica previne lesões.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 134,
+        "ingles": "Form",
+        "portugues": "Forma / Postura",
+        "fraseIngles": "Your running form looks good.",
+        "frasePortugues": "Sua postura de corrida está boa.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 135,
+        "ingles": "Style",
+        "portugues": "Estilo",
+        "fraseIngles": "Each swimmer has their own style.",
+        "frasePortugues": "Cada nadador tem seu próprio estilo.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 136,
+        "ingles": "Strategy",
+        "portugues": "Estratégia",
+        "fraseIngles": "The coach explained the game strategy.",
+        "frasePortugues": "O treinador explicou a estratégia do jogo.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 137,
+        "ingles": "Tactics",
+        "portugues": "Táticas",
+        "fraseIngles": "We need to change our tactics.",
+        "frasePortugues": "Precisamos mudar nossas táticas.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 138,
+        "ingles": "Teamwork",
+        "portugues": "Trabalho em equipe",
+        "fraseIngles": "Teamwork is essential in volleyball.",
+        "frasePortugues": "Trabalho em equipe é essencial no vôlei.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 139,
+        "ingles": "Communication",
+        "portugues": "Comunicação",
+        "fraseIngles": "Good communication helps the team.",
+        "frasePortugues": "Boa comunicação ajuda o time.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 140,
+        "ingles": "Focus",
+        "portugues": "Foco",
+        "fraseIngles": "Maintain focus throughout the game.",
+        "frasePortugues": "Mantenha o foco durante todo o jogo.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 141,
+        "ingles": "Concentration",
+        "portugues": "Concentração",
+        "fraseIngles": "Archery requires deep concentration.",
+        "frasePortugues": "Tiro com arco requer concentração profunda.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 142,
+        "ingles": "Determination",
+        "portugues": "Determinação",
+        "fraseIngles": "His determination led to victory.",
+        "frasePortugues": "A determinação dele levou à vitória.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 143,
+        "ingles": "Motivation",
+        "portugues": "Motivação",
+        "fraseIngles": "The coach's words provided motivation.",
+        "frasePortugues": "As palavras do treinador deram motivação.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 144,
+        "ingles": "Confidence",
+        "portugues": "Confiança",
+        "fraseIngles": "Confidence is key to success.",
+        "frasePortugues": "Confiança é chave para o sucesso.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 145,
+        "ingles": "Pressure",
+        "portugues": "Pressão",
+        "fraseIngles": "He performs well under pressure.",
+        "frasePortugues": "Ele tem bom desempenho sob pressão.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 146,
+        "ingles": "Stress",
+        "portugues": "Estresse",
+        "fraseIngles": "Competition can cause stress.",
+        "frasePortugues": "Competição pode causar estresse.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 147,
+        "ingles": "Nerves",
+        "portugues": "Nervosismo",
+        "fraseIngles": "Pre-game nerves are normal.",
+        "frasePortugues": "Nervosismo pré-jogo é normal.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 148,
+        "ingles": "Injury",
+        "portugues": "Lesão",
+        "fraseIngles": "The injury will heal in two weeks.",
+        "frasePortugues": "A lesão vai sarar em duas semanas.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 149,
+        "ingles": "Pain",
+        "portugues": "Dor",
+        "fraseIngles": "No pain, no gain!",
+        "frasePortugues": "Sem dor, sem ganho!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 150,
+        "ingles": "Recovery",
+        "portugues": "Recuperação",
+        "fraseIngles": "Recovery time is important for athletes.",
+        "frasePortugues": "Tempo de recuperação é importante para atletas.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 151,
+        "ingles": "Rehabilitation",
+        "portugues": "Reabilitação",
+        "fraseIngles": "Physical therapy aids rehabilitation.",
+        "frasePortugues": "Fisioterapia ajuda na reabilitação.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 152,
+        "ingles": "Medical",
+        "portugues": "Médico",
+        "fraseIngles": "The team has a medical staff.",
+        "frasePortugues": "O time tem uma equipe médica.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 153,
+        "ingles": "Doctor",
+        "portugues": "Médico",
+        "fraseIngles": "The sports doctor examined the injury.",
+        "frasePortugues": "O médico esportivo examinou a lesão.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 154,
+        "ingles": "Physiotherapy",
+        "portugues": "Fisioterapia",
+        "fraseIngles": "Physiotherapy helps prevent injuries.",
+        "frasePortugues": "Fisioterapia ajuda a prevenir lesões.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 155,
+        "ingles": "Massage",
+        "portugues": "Massagem",
+        "fraseIngles": "Sports massage relieves muscle tension.",
+        "frasePortugues": "Massagem esportiva alivia tensão muscular.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 156,
+        "ingles": "Diet",
+        "portugues": "Dieta",
+        "fraseIngles": "Athletes follow a strict diet.",
+        "frasePortugues": "Atletas seguem uma dieta rigorosa.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 157,
+        "ingles": "Nutrition",
+        "portugues": "Nutrição",
+        "fraseIngles": "Good nutrition fuels performance.",
+        "frasePortugues": "Boa nutrição alimenta o desempenho.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 158,
+        "ingles": "Hydration",
+        "portugues": "Hidratação",
+        "fraseIngles": "Proper hydration is essential.",
+        "frasePortugues": "Hidratação adequada é essencial.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 159,
+        "ingles": "Water",
+        "portugues": "Água",
+        "fraseIngles": "Drink water before, during, and after exercise.",
+        "frasePortugues": "Beba água antes, durante e após o exercício.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 160,
+        "ingles": "Energy",
+        "portugues": "Energia",
+        "fraseIngles": "Carbohydrates provide energy for sports.",
+        "frasePortugues": "Carboidratos fornecem energia para esportes.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 161,
+        "ingles": "Protein",
+        "portugues": "Proteína",
+        "fraseIngles": "Protein helps build muscle.",
+        "frasePortugues": "Proteína ajuda a construir músculos.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 162,
+        "ingles": "Vitamins",
+        "portugues": "Vitaminas",
+        "fraseIngles": "Vitamins support overall health.",
+        "frasePortugues": "Vitaminas apoiam a saúde geral.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 163,
+        "ingles": "Supplements",
+        "portugues": "Suplementos",
+        "fraseIngles": "Some athletes take supplements.",
+        "frasePortugues": "Alguns atletas tomam suplementos.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 164,
+        "ingles": "Rest",
+        "portugues": "Descanso",
+        "fraseIngles": "Rest is as important as training.",
+        "frasePortugues": "Descanso é tão importante quanto treino.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 165,
+        "ingles": "Sleep",
+        "portugues": "Sono",
+        "fraseIngles": "Athletes need quality sleep.",
+        "frasePortugues": "Atletas precisam de sono de qualidade.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 166,
+        "ingles": "Schedule",
+        "portugues": "Cronograma",
+        "fraseIngles": "Training schedule is very demanding.",
+        "frasePortugues": "O cronograma de treino é muito exigente.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 167,
+        "ingles": "Season",
+        "portugues": "Temporada",
+        "fraseIngles": "The basketball season starts in October.",
+        "frasePortugues": "A temporada de basquete começa em outubro.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 168,
+        "ingles": "Off-season",
+        "portugues": "Entressafra",
+        "fraseIngles": "Players train differently in the off-season.",
+        "frasePortugues": "Jogadores treinam diferente na entressafra.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 169,
+        "ingles": "League",
+        "portugues": "Liga",
+        "fraseIngles": "Our team plays in the professional league.",
+        "frasePortugues": "Nosso time joga na liga profissional.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 170,
+        "ingles": "Division",
+        "portugues": "Divisão",
+        "fraseIngles": "We're in the top division this year.",
+        "frasePortugues": "Estamos na primeira divisão este ano.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 171,
+        "ingles": "Ranking",
+        "portugues": "Classificação",
+        "fraseIngles": "Check the current league ranking.",
+        "frasePortugues": "Verifique a classificação atual da liga.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 172,
+        "ingles": "Record",
+        "portugues": "Recorde",
+        "fraseIngles": "She broke the world record today!",
+        "frasePortugues": "Ela quebrou o recorde mundial hoje!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 173,
+        "ingles": "Personal best",
+        "portugues": "Melhor marca pessoal",
+        "fraseIngles": "That was my personal best time!",
+        "frasePortugues": "Esse foi meu melhor tempo pessoal!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 174,
+        "ingles": "Achievement",
+        "portugues": "Conquista",
+        "fraseIngles": "Winning gold was his greatest achievement.",
+        "frasePortugues": "Ganhar ouro foi sua maior conquista.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 175,
+        "ingles": "Medal",
+        "portugues": "Medalha",
+        "fraseIngles": "She won three medals at the Olympics.",
+        "frasePortugues": "Ela ganhou três medalhas nas Olimpíadas.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 176,
+        "ingles": "Trophy",
+        "portugues": "Troféu",
+        "fraseIngles": "The championship trophy is beautiful.",
+        "frasePortugues": "O troféu do campeonato é lindo.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 177,
+        "ingles": "Prize",
+        "portugues": "Prêmio",
+        "fraseIngles": "The first prize is $10,000.",
+        "frasePortugues": "O primeiro prêmio é $10.000.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 178,
+        "ingles": "Award",
+        "portugues": "Prêmio",
+        "fraseIngles": "He received the MVP award.",
+        "frasePortugues": "Ele recebeu o prêmio de MVP.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 179,
+        "ingles": "Champion",
+        "portugues": "Campeão",
+        "fraseIngles": "She's the defending champion.",
+        "frasePortugues": "Ela é a campeã defensora.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 180,
+        "ingles": "Winner",
+        "portugues": "Vencedor",
+        "fraseIngles": "The winner advances to the finals.",
+        "frasePortugues": "O vencedor avança para a final.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 181,
+        "ingles": "Loser",
+        "portugues": "Perdedor",
+        "fraseIngles": "Even losers can learn from defeat.",
+        "frasePortugues": "Mesmo perdedores podem aprender com a derrota.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 182,
+        "ingles": "Spectator",
+        "portugues": "Espectador",
+        "fraseIngles": "Thousands of spectators attended the game.",
+        "frasePortugues": "Milhares de espectadores compareceram ao jogo.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 183,
+        "ingles": "Fan",
+        "portugues": "Torcedor / Fã",
+        "fraseIngles": "I'm a huge fan of this team.",
+        "frasePortugues": "Sou um grande torcedor deste time.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 184,
+        "ingles": "Crowd",
+        "portugues": "Multidão",
+        "fraseIngles": "The crowd cheered loudly.",
+        "frasePortugues": "A multidão gritou alto.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 185,
+        "ingles": "Audience",
+        "portugues": "Público",
+        "fraseIngles": "The audience was very enthusiastic.",
+        "frasePortugues": "O público estava muito entusiasmado.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 186,
+        "ingles": "Cheer",
+        "portugues": "Torcer / Grito de torcida",
+        "fraseIngles": "Let's cheer for our team!",
+        "frasePortugues": "Vamos torcer pelo nosso time!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 187,
+        "ingles": "Support",
+        "portugues": "Apoiar / Apoio",
+        "fraseIngles": "We support our local team.",
+        "frasePortugues": "Apoiamos nosso time local.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 188,
+        "ingles": "Encourage",
+        "portugues": "Encorajar",
+        "fraseIngles": "The coach encouraged the players.",
+        "frasePortugues": "O treinador encorajou os jogadores.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 189,
+        "ingles": "Celebrate",
+        "portugues": "Comemorar",
+        "fraseIngles": "Let's celebrate our victory!",
+        "frasePortugues": "Vamos comemorar nossa vitória!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 190,
+        "ingles": "Professional",
+        "portugues": "Profissional",
+        "fraseIngles": "He turned professional at age 18.",
+        "frasePortugues": "Ele se tornou profissional aos 18 anos.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 191,
+        "ingles": "Amateur",
+        "portugues": "Amador",
+        "fraseIngles": "Amateur sports focus on participation.",
+        "frasePortugues": "Esportes amadores focam na participação.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 192,
+        "ingles": "Olympic",
+        "portugues": "Olímpico",
+        "fraseIngles": "Olympic athletes train for years.",
+        "frasePortugues": "Atletas olímpicos treinam por anos.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 193,
+        "ingles": "Paralympics",
+        "portugues": "Paraolimpíadas",
+        "fraseIngles": "The Paralympics showcase incredible ability.",
+        "frasePortugues": "As Paraolimpíadas mostram habilidade incrível.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 194,
+        "ingles": "World Cup",
+        "portugues": "Copa do Mundo",
+        "fraseIngles": "The World Cup happens every four years.",
+        "frasePortugues": "A Copa do Mundo acontece a cada quatro anos.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 195,
+        "ingles": "International",
+        "portugues": "Internacional",
+        "fraseIngles": "International competitions are prestigious.",
+        "frasePortugues": "Competições internacionais são prestigiosas.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 196,
+        "ingles": "National",
+        "portugues": "Nacional",
+        "fraseIngles": "She represents the national team.",
+        "frasePortugues": "Ela representa a seleção nacional.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 197,
+        "ingles": "Regional",
+        "portugues": "Regional",
+        "fraseIngles": "We won the regional championship.",
+        "frasePortugues": "Ganhamos o campeonato regional.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 198,
+        "ingles": "Local",
+        "portugues": "Local",
+        "fraseIngles": "Local sports clubs need community support.",
+        "frasePortugues": "Clubes esportivos locais precisam do apoio da comunidade.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 199,
+        "ingles": "Youth",
+        "portugues": "Jovem / Juvenil",
+        "fraseIngles": "Youth sports develop character.",
+        "frasePortugues": "Esportes juvenis desenvolvem caráter.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 200,
+        "ingles": "Senior",
+        "portugues": "Veterano / Sênior",
+        "fraseIngles": "The senior league is for players over 40.",
+        "frasePortugues": "A liga veterana é para jogadores acima de 40.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 201,
+        "ingles": "Junior",
+        "portugues": "Júnior",
+        "fraseIngles": "Junior competitions build future stars.",
+        "frasePortugues": "Competições júnior formam futuras estrelas.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 202,
+        "ingles": "Beginner",
+        "portugues": "Iniciante",
+        "fraseIngles": "This class is for beginners.",
+        "frasePortugues": "Esta aula é para iniciantes.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 203,
+        "ingles": "Advanced",
+        "portugues": "Avançado",
+        "fraseIngles": "Advanced training requires dedication.",
+        "frasePortugues": "Treinamento avançado requer dedicação.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 204,
+        "ingles": "Expert",
+        "portugues": "Especialista",
+        "fraseIngles": "He's an expert in sports psychology.",
+        "frasePortugues": "Ele é especialista em psicologia esportiva.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 205,
+        "ingles": "Skill",
+        "portugues": "Habilidade",
+        "fraseIngles": "Practice develops skill over time.",
+        "frasePortugues": "A prática desenvolve habilidade ao longo do tempo.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 206,
+        "ingles": "Talent",
+        "portugues": "Talento",
+        "fraseIngles": "Natural talent helps, but practice matters more.",
+        "frasePortugues": "Talento natural ajuda, mas prática importa mais.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 207,
+        "ingles": "Ability",
+        "portugues": "Capacidade",
+        "fraseIngles": "Athletic ability varies between individuals.",
+        "frasePortugues": "Capacidade atlética varia entre indivíduos.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 208,
+        "ingles": "Potential",
+        "portugues": "Potencial",
+        "fraseIngles": "She has great potential as a swimmer.",
+        "frasePortugues": "Ela tem grande potencial como nadadora.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 209,
+        "ingles": "Progress",
+        "portugues": "Progresso",
+        "fraseIngles": "Track your fitness progress weekly.",
+        "frasePortugues": "Acompanhe seu progresso físico semanalmente.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 210,
+        "ingles": "Improvement",
+        "portugues": "Melhoria",
+        "fraseIngles": "Consistent training leads to improvement.",
+        "frasePortugues": "Treino consistente leva à melhoria.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 211,
+        "ingles": "Development",
+        "portugues": "Desenvolvimento",
+        "fraseIngles": "Skill development takes time and patience.",
+        "frasePortugues": "Desenvolvimento de habilidade requer tempo e paciência.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 212,
+        "ingles": "Performance",
+        "portugues": "Desempenho",
+        "fraseIngles": "His performance exceeded expectations.",
+        "frasePortugues": "O desempenho dele superou as expectativas.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 213,
+        "ingles": "Excellence",
+        "portugues": "Excelência",
+        "fraseIngles": "Strive for excellence in everything you do.",
+        "frasePortugues": "Busque a excelência em tudo que fizer.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 214,
+        "ingles": "Dedication",
+        "portugues": "Dedicação",
+        "fraseIngles": "Success requires total dedication.",
+        "frasePortugues": "Sucesso requer dedicação total.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 215,
+        "ingles": "Commitment",
+        "portugues": "Compromisso",
+        "fraseIngles": "Make a commitment to daily exercise.",
+        "frasePortugues": "Faça um compromisso com exercício diário.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 216,
+        "ingles": "Discipline",
+        "portugues": "Disciplina",
+        "fraseIngles": "Sports teach valuable life discipline.",
+        "frasePortugues": "Esportes ensinam disciplina valiosa para a vida.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 217,
+        "ingles": "Passion",
+        "portugues": "Paixão",
+        "fraseIngles": "Play with passion and heart!",
+        "frasePortugues": "Jogue com paixão e coração!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 218,
+        "ingles": "Love",
+        "portugues": "Amor",
+        "fraseIngles": "I love everything about sports.",
+        "frasePortugues": "Amo tudo sobre esportes.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 219,
+        "ingles": "Enjoy",
+        "portugues": "Aproveitar",
+        "fraseIngles": "Remember to enjoy the game!",
+        "frasePortugues": "Lembre-se de aproveitar o jogo!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 220,
+        "ingles": "Fun",
+        "portugues": "Diversão",
+        "fraseIngles": "Sports should be fun for everyone.",
+        "frasePortugues": "Esportes devem ser divertidos para todos.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 221,
+        "ingles": "Exciting",
+        "portugues": "Emocionante",
+        "fraseIngles": "The championship game was exciting.",
+        "frasePortugues": "O jogo do campeonato foi emocionante.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 222,
+        "ingles": "Thrilling",
+        "portugues": "Empolgante",
+        "fraseIngles": "That was a thrilling finish!",
+        "frasePortugues": "Foi um final empolgante!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 223,
+        "ingles": "Amazing",
+        "portugues": "Incrível",
+        "fraseIngles": "What an amazing comeback!",
+        "frasePortugues": "Que recuperação incrível!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 224,
+        "ingles": "Fantastic",
+        "portugues": "Fantástico",
+        "fraseIngles": "The atmosphere was fantastic!",
+        "frasePortugues": "A atmosfera estava fantástica!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 225,
+        "ingles": "Incredible",
+        "portugues": "Incrível",
+        "fraseIngles": "She made an incredible save.",
+        "frasePortugues": "Ela fez uma defesa incrível.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 226,
+        "ingles": "Outstanding",
+        "portugues": "Excepcional",
+        "fraseIngles": "That was an outstanding performance.",
+        "frasePortugues": "Foi um desempenho excepcional.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 227,
+        "ingles": "Excellent",
+        "portugues": "Excelente",
+        "fraseIngles": "Excellent teamwork led to victory.",
+        "frasePortugues": "Excelente trabalho em equipe levou à vitória.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 228,
+        "ingles": "Perfect",
+        "portugues": "Perfeito",
+        "fraseIngles": "A perfect game is rare in baseball.",
+        "frasePortugues": "Um jogo perfeito é raro no baseball.",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 229,
+        "ingles": "Great",
+        "portugues": "Ótimo",
+        "fraseIngles": "Great job on your personal best!",
+        "frasePortugues": "Ótimo trabalho na sua melhor marca!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    },
+    {
+        "id": 230,
+        "ingles": "Good luck",
+        "portugues": "Boa sorte",
+        "fraseIngles": "Good luck in tomorrow's game!",
+        "frasePortugues": "Boa sorte no jogo de amanhã!",
+        "subtopico": "Praticando_esportes",
+        "topico": "Frases"
+    }
+]

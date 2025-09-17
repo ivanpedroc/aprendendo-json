@@ -1,0 +1,1496 @@
+[
+    {
+        "id": 1,
+        "ingles": "Reservation",
+        "portugues": "Reserva",
+        "fraseIngles": "I have a reservation under the name Smith.",
+        "frasePortugues": "Eu tenho uma reserva no nome de Smith.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 2,
+        "ingles": "Check-in",
+        "portugues": "Check-in / Fazer check-in",
+        "fraseIngles": "What time is check-in?",
+        "frasePortugues": "Que horas é o check-in?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 3,
+        "ingles": "Check-out",
+        "portugues": "Check-out / Fazer check-out",
+        "fraseIngles": "Check-out time is 11 AM.",
+        "frasePortugues": "O horário do check-out é 11h.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 4,
+        "ingles": "Room",
+        "portugues": "Quarto",
+        "fraseIngles": "Can I see the room first?",
+        "frasePortugues": "Posso ver o quarto primeiro?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 5,
+        "ingles": "Single room",
+        "portugues": "Quarto single",
+        "fraseIngles": "I'd like a single room for tonight.",
+        "frasePortugues": "Eu gostaria de um quarto single para hoje à noite.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 6,
+        "ingles": "Double room",
+        "portugues": "Quarto duplo",
+        "fraseIngles": "Do you have a double room available?",
+        "frasePortugues": "Vocês têm um quarto duplo disponível?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 7,
+        "ingles": "Suite",
+        "portugues": "Suíte",
+        "fraseIngles": "The presidential suite is on the top floor.",
+        "frasePortugues": "A suíte presidencial fica no último andar.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 8,
+        "ingles": "Key",
+        "portugues": "Chave",
+        "fraseIngles": "Here's your room key.",
+        "frasePortugues": "Aqui está a chave do seu quarto.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 9,
+        "ingles": "Key card",
+        "portugues": "Cartão-chave",
+        "fraseIngles": "Your key card will expire at checkout.",
+        "frasePortugues": "Seu cartão-chave expirará no checkout.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 10,
+        "ingles": "Lobby",
+        "portugues": "Lobby / Saguão",
+        "fraseIngles": "I'll meet you in the lobby at 8 PM.",
+        "frasePortugues": "Te encontro no lobby às 20h.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 11,
+        "ingles": "Reception",
+        "portugues": "Recepção",
+        "fraseIngles": "Please go to reception for assistance.",
+        "frasePortugues": "Por favor, vá à recepção para ajuda.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 12,
+        "ingles": "Front desk",
+        "portugues": "Recepção",
+        "fraseIngles": "The front desk is open 24 hours.",
+        "frasePortugues": "A recepção funciona 24 horas.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 13,
+        "ingles": "Receptionist",
+        "portugues": "Recepcionista",
+        "fraseIngles": "The receptionist was very helpful.",
+        "frasePortugues": "O recepcionista foi muito prestativo.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 14,
+        "ingles": "Concierge",
+        "portugues": "Concierge",
+        "fraseIngles": "The concierge can book restaurant reservations.",
+        "frasePortugues": "O concierge pode fazer reservas em restaurantes.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 15,
+        "ingles": "Bellboy",
+        "portugues": "Mensageiro / Carregador",
+        "fraseIngles": "The bellboy will take your luggage upstairs.",
+        "frasePortugues": "O mensageiro levará sua bagagem para cima.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 16,
+        "ingles": "Housekeeper",
+        "portugues": "Camareira",
+        "fraseIngles": "The housekeeper cleans the rooms daily.",
+        "frasePortugues": "A camareira limpa os quartos diariamente.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 17,
+        "ingles": "Manager",
+        "portugues": "Gerente",
+        "fraseIngles": "I need to speak with the manager.",
+        "frasePortugues": "Preciso falar com o gerente.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 18,
+        "ingles": "Guest",
+        "portugues": "Hóspede",
+        "fraseIngles": "All guests must register at reception.",
+        "frasePortugues": "Todos os hóspedes devem se registrar na recepção.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 19,
+        "ingles": "Vacancy",
+        "portugues": "Vaga / Quarto disponível",
+        "fraseIngles": "Do you have any vacancies tonight?",
+        "frasePortugues": "Vocês têm alguma vaga hoje à noite?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 20,
+        "ingles": "No vacancy",
+        "portugues": "Lotado / Sem vagas",
+        "fraseIngles": "Sorry, we have no vacancy.",
+        "frasePortugues": "Desculpe, estamos lotados.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 21,
+        "ingles": "Available",
+        "portugues": "Disponível",
+        "fraseIngles": "Is this room still available?",
+        "frasePortugues": "Este quarto ainda está disponível?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 22,
+        "ingles": "Occupied",
+        "portugues": "Ocupado",
+        "fraseIngles": "This room is currently occupied.",
+        "frasePortugues": "Este quarto está atualmente ocupado.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 23,
+        "ingles": "Booking",
+        "portugues": "Reserva",
+        "fraseIngles": "I'd like to make a booking for next week.",
+        "frasePortugues": "Gostaria de fazer uma reserva para a próxima semana.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 24,
+        "ingles": "Confirmation",
+        "portugues": "Confirmação",
+        "fraseIngles": "Can I have a confirmation number?",
+        "frasePortugues": "Posso ter um número de confirmação?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 25,
+        "ingles": "Cancel",
+        "portugues": "Cancelar",
+        "fraseIngles": "I need to cancel my reservation.",
+        "frasePortugues": "Preciso cancelar minha reserva.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 26,
+        "ingles": "Modify",
+        "portugues": "Modificar",
+        "fraseIngles": "Can I modify my booking?",
+        "frasePortugues": "Posso modificar minha reserva?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 27,
+        "ingles": "Extend",
+        "portugues": "Estender / Prolongar",
+        "fraseIngles": "I'd like to extend my stay.",
+        "frasePortugues": "Gostaria de prolongar minha estadia.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 28,
+        "ingles": "Early check-in",
+        "portugues": "Check-in antecipado",
+        "fraseIngles": "Is early check-in possible?",
+        "frasePortugues": "É possível fazer check-in antecipado?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 29,
+        "ingles": "Late check-out",
+        "portugues": "Check-out tardio",
+        "fraseIngles": "Can I have a late check-out?",
+        "frasePortugues": "Posso fazer check-out tardio?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 30,
+        "ingles": "Luggage",
+        "portugues": "Bagagem",
+        "fraseIngles": "Where can I store my luggage?",
+        "frasePortugues": "Onde posso guardar minha bagagem?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 31,
+        "ingles": "Suitcase",
+        "portugues": "Mala",
+        "fraseIngles": "My suitcase is very heavy.",
+        "frasePortugues": "Minha mala está muito pesada.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 32,
+        "ingles": "Baggage claim",
+        "portugues": "Retirada de bagagem",
+        "fraseIngles": "The baggage claim is downstairs.",
+        "frasePortugues": "A retirada de bagagem é no andar de baixo.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 33,
+        "ingles": "Porter",
+        "portugues": "Carregador",
+        "fraseIngles": "The porter will help with your bags.",
+        "frasePortugues": "O carregador ajudará com suas malas.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 34,
+        "ingles": "Elevator",
+        "portugues": "Elevador",
+        "fraseIngles": "The elevator is out of order.",
+        "frasePortugues": "O elevador está fora de serviço.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 35,
+        "ingles": "Stairs",
+        "portugues": "Escadas",
+        "fraseIngles": "You can take the stairs to the second floor.",
+        "frasePortugues": "Você pode usar as escadas para o segundo andar.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 36,
+        "ingles": "Floor",
+        "portugues": "Andar",
+        "fraseIngles": "Your room is on the third floor.",
+        "frasePortugues": "Seu quarto fica no terceiro andar.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 37,
+        "ingles": "Bathroom",
+        "portugues": "Banheiro",
+        "fraseIngles": "The bathroom is down the hall.",
+        "frasePortugues": "O banheiro fica no final do corredor.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 38,
+        "ingles": "Shower",
+        "portugues": "Chuveiro",
+        "fraseIngles": "The shower has hot water all day.",
+        "frasePortugues": "O chuveiro tem água quente o dia todo.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 39,
+        "ingles": "Towel",
+        "portugues": "Toalha",
+        "fraseIngles": "Could I have extra towels please?",
+        "frasePortugues": "Posso ter toalhas extras, por favor?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 40,
+        "ingles": "Bed",
+        "portugues": "Cama",
+        "fraseIngles": "The bed is very comfortable.",
+        "frasePortugues": "A cama é muito confortável.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 41,
+        "ingles": "Pillow",
+        "portugues": "Travesseiro",
+        "fraseIngles": "I need an extra pillow.",
+        "frasePortugues": "Preciso de um travesseiro extra.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 42,
+        "ingles": "Blanket",
+        "portugues": "Cobertor",
+        "fraseIngles": "Can I get another blanket?",
+        "frasePortugues": "Posso conseguir outro cobertor?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 43,
+        "ingles": "Sheet",
+        "portugues": "Lençol",
+        "fraseIngles": "The sheets are changed daily.",
+        "frasePortugues": "Os lençóis são trocados diariamente.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 44,
+        "ingles": "Air conditioning",
+        "portugues": "Ar condicionado",
+        "fraseIngles": "The air conditioning isn't working.",
+        "frasePortugues": "O ar condicionado não está funcionando.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 45,
+        "ingles": "Heating",
+        "portugues": "Aquecimento",
+        "fraseIngles": "Can you turn on the heating?",
+        "frasePortugues": "Pode ligar o aquecimento?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 46,
+        "ingles": "Window",
+        "portugues": "Janela",
+        "fraseIngles": "Could I have a room with a window view?",
+        "frasePortugues": "Posso ter um quarto com vista da janela?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 47,
+        "ingles": "Balcony",
+        "portugues": "Varanda",
+        "fraseIngles": "This room has a lovely balcony.",
+        "frasePortugues": "Este quarto tem uma varanda linda.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 48,
+        "ingles": "View",
+        "portugues": "Vista",
+        "fraseIngles": "What kind of view does this room have?",
+        "frasePortugues": "Que tipo de vista este quarto tem?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 49,
+        "ingles": "Ocean view",
+        "portugues": "Vista para o mar",
+        "fraseIngles": "I'd prefer a room with ocean view.",
+        "frasePortugues": "Prefiro um quarto com vista para o mar.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 50,
+        "ingles": "City view",
+        "portugues": "Vista da cidade",
+        "fraseIngles": "The city view is spectacular at night.",
+        "frasePortugues": "A vista da cidade é espetacular à noite.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 51,
+        "ingles": "Garden view",
+        "portugues": "Vista do jardim",
+        "fraseIngles": "The garden view is very peaceful.",
+        "frasePortugues": "A vista do jardim é muito tranquila.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 52,
+        "ingles": "Television",
+        "portugues": "Televisão",
+        "fraseIngles": "How do I turn on the television?",
+        "frasePortugues": "Como eu ligo a televisão?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 53,
+        "ingles": "Remote control",
+        "portugues": "Controle remoto",
+        "fraseIngles": "Where's the remote control?",
+        "frasePortugues": "Onde está o controle remoto?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 54,
+        "ingles": "Cable",
+        "portugues": "TV a cabo",
+        "fraseIngles": "Does the room have cable TV?",
+        "frasePortugues": "O quarto tem TV a cabo?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 55,
+        "ingles": "Internet",
+        "portugues": "Internet",
+        "fraseIngles": "Is there internet access in the room?",
+        "frasePortugues": "Há acesso à internet no quarto?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 56,
+        "ingles": "WiFi",
+        "portugues": "WiFi",
+        "fraseIngles": "What's the WiFi password?",
+        "frasePortugues": "Qual é a senha do WiFi?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 57,
+        "ingles": "Phone",
+        "portugues": "Telefone",
+        "fraseIngles": "The phone in my room isn't working.",
+        "frasePortugues": "O telefone no meu quarto não está funcionando.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 58,
+        "ingles": "Wake-up call",
+        "portugues": "Chamada para despertar",
+        "fraseIngles": "Can I have a wake-up call at 7 AM?",
+        "frasePortugues": "Posso ter uma chamada para despertar às 7h?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 59,
+        "ingles": "Room service",
+        "portugues": "Serviço de quarto",
+        "fraseIngles": "Is room service available 24 hours?",
+        "frasePortugues": "O serviço de quarto funciona 24 horas?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 60,
+        "ingles": "Menu",
+        "portugues": "Cardápio",
+        "fraseIngles": "Do you have a room service menu?",
+        "frasePortugues": "Vocês têm cardápio do serviço de quarto?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 61,
+        "ingles": "Breakfast",
+        "portugues": "Café da manhã",
+        "fraseIngles": "What time is breakfast served?",
+        "frasePortugues": "Que horas o café da manhã é servido?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 62,
+        "ingles": "Continental breakfast",
+        "portugues": "Café continental",
+        "fraseIngles": "Continental breakfast is included.",
+        "frasePortugues": "O café continental está incluído.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 63,
+        "ingles": "Buffet",
+        "portugues": "Buffet",
+        "fraseIngles": "The breakfast buffet is on the first floor.",
+        "frasePortugues": "O buffet do café da manhã fica no primeiro andar.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 64,
+        "ingles": "Restaurant",
+        "portugues": "Restaurante",
+        "fraseIngles": "The hotel restaurant closes at 10 PM.",
+        "frasePortugues": "O restaurante do hotel fecha às 22h.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 65,
+        "ingles": "Bar",
+        "portugues": "Bar",
+        "fraseIngles": "The hotel bar is open until midnight.",
+        "frasePortugues": "O bar do hotel fica aberto até meia-noite.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 66,
+        "ingles": "Swimming pool",
+        "portugues": "Piscina",
+        "fraseIngles": "What time does the swimming pool open?",
+        "frasePortugues": "Que horas a piscina abre?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 67,
+        "ingles": "Gym",
+        "portugues": "Academia",
+        "fraseIngles": "Is there a gym in the hotel?",
+        "frasePortugues": "Há uma academia no hotel?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 68,
+        "ingles": "Spa",
+        "portugues": "Spa",
+        "fraseIngles": "The spa offers massage services.",
+        "frasePortugues": "O spa oferece serviços de massagem.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 69,
+        "ingles": "Sauna",
+        "portugues": "Sauna",
+        "fraseIngles": "The sauna is available for guests.",
+        "frasePortugues": "A sauna está disponível para os hóspedes.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 70,
+        "ingles": "Business center",
+        "portugues": "Centro de negócios",
+        "fraseIngles": "The business center has computers.",
+        "frasePortugues": "O centro de negócios tem computadores.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 71,
+        "ingles": "Conference room",
+        "portugues": "Sala de conferências",
+        "fraseIngles": "We need a conference room for 20 people.",
+        "frasePortugues": "Precisamos de uma sala de conferências para 20 pessoas.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 72,
+        "ingles": "Meeting room",
+        "portugues": "Sala de reuniões",
+        "fraseIngles": "Is the meeting room available tomorrow?",
+        "frasePortugues": "A sala de reuniões está disponível amanhã?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 73,
+        "ingles": "Laundry",
+        "portugues": "Lavanderia",
+        "fraseIngles": "Where is the laundry service?",
+        "frasePortugues": "Onde fica o serviço de lavanderia?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 74,
+        "ingles": "Dry cleaning",
+        "portugues": "Lavagem a seco",
+        "fraseIngles": "I need this suit for dry cleaning.",
+        "frasePortugues": "Preciso deste terno para lavagem a seco.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 75,
+        "ingles": "Safe",
+        "portugues": "Cofre",
+        "fraseIngles": "Is there a safe in the room?",
+        "frasePortugues": "Há um cofre no quarto?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 76,
+        "ingles": "Minibar",
+        "portugues": "Frigobar",
+        "fraseIngles": "How much are drinks in the minibar?",
+        "frasePortugues": "Quanto custam as bebidas do frigobar?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 77,
+        "ingles": "Complimentary",
+        "portugues": "Cortesia / Gratuito",
+        "fraseIngles": "This service is complimentary for guests.",
+        "frasePortugues": "Este serviço é cortesia para os hóspedes.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 78,
+        "ingles": "Charge",
+        "portugues": "Cobrança / Cobrar",
+        "fraseIngles": "Will there be an extra charge?",
+        "frasePortugues": "Haverá uma cobrança extra?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 79,
+        "ingles": "Bill",
+        "portugues": "Conta",
+        "fraseIngles": "Can I see my bill please?",
+        "frasePortugues": "Posso ver minha conta, por favor?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 80,
+        "ingles": "Invoice",
+        "portugues": "Fatura",
+        "fraseIngles": "I need an invoice for my company.",
+        "frasePortugues": "Preciso de uma fatura para minha empresa.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 81,
+        "ingles": "Payment",
+        "portugues": "Pagamento",
+        "fraseIngles": "What payment methods do you accept?",
+        "frasePortugues": "Que formas de pagamento vocês aceitam?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 82,
+        "ingles": "Credit card",
+        "portugues": "Cartão de crédito",
+        "fraseIngles": "Can I pay with credit card?",
+        "frasePortugues": "Posso pagar com cartão de crédito?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 83,
+        "ingles": "Cash",
+        "portugues": "Dinheiro",
+        "fraseIngles": "Do you accept cash payment?",
+        "frasePortugues": "Vocês aceitam pagamento em dinheiro?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 84,
+        "ingles": "Deposit",
+        "portugues": "Depósito / Caução",
+        "fraseIngles": "We require a deposit for incidentals.",
+        "frasePortugues": "Exigimos um depósito para extras.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 85,
+        "ingles": "Refund",
+        "portugues": "Reembolso",
+        "fraseIngles": "Can I get a refund?",
+        "frasePortugues": "Posso ter um reembolso?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 86,
+        "ingles": "Complaint",
+        "portugues": "Reclamação",
+        "fraseIngles": "I have a complaint about my room.",
+        "frasePortugues": "Tenho uma reclamação sobre meu quarto.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 87,
+        "ingles": "Problem",
+        "portugues": "Problema",
+        "fraseIngles": "There's a problem with the toilet.",
+        "frasePortugues": "Há um problema com o vaso sanitário.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 88,
+        "ingles": "Maintenance",
+        "portugues": "Manutenção",
+        "fraseIngles": "We need maintenance in room 205.",
+        "frasePortugues": "Precisamos de manutenção no quarto 205.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 89,
+        "ingles": "Repair",
+        "portugues": "Conserto",
+        "fraseIngles": "When will this be repaired?",
+        "frasePortugues": "Quando isso será consertado?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 90,
+        "ingles": "Broken",
+        "portugues": "Quebrado / Estragado",
+        "fraseIngles": "The lamp is broken.",
+        "frasePortugues": "A lâmpada está quebrada.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 91,
+        "ingles": "Not working",
+        "portugues": "Não funciona",
+        "fraseIngles": "The air conditioning is not working.",
+        "frasePortugues": "O ar condicionado não funciona.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 92,
+        "ingles": "Noisy",
+        "portugues": "Barulhento",
+        "fraseIngles": "My room is too noisy.",
+        "frasePortugues": "Meu quarto é muito barulhento.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 93,
+        "ingles": "Quiet",
+        "portugues": "Silencioso",
+        "fraseIngles": "I need a quiet room.",
+        "frasePortugues": "Preciso de um quarto silencioso.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 94,
+        "ingles": "Clean",
+        "portugues": "Limpo",
+        "fraseIngles": "Is the room clean?",
+        "frasePortugues": "O quarto está limpo?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 95,
+        "ingles": "Dirty",
+        "portugues": "Sujo",
+        "fraseIngles": "The bathroom is dirty.",
+        "frasePortugues": "O banheiro está sujo.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 96,
+        "ingles": "Fresh",
+        "portugues": "Fresco",
+        "fraseIngles": "I need fresh towels.",
+        "frasePortugues": "Preciso de toalhas frescas.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 97,
+        "ingles": "Change",
+        "portugues": "Trocar",
+        "fraseIngles": "Can you change my room?",
+        "frasePortugues": "Pode trocar meu quarto?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 98,
+        "ingles": "Move",
+        "portugues": "Mudar / Transferir",
+        "fraseIngles": "I'd like to move to a different room.",
+        "frasePortugues": "Gostaria de me mudar para um quarto diferente.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 99,
+        "ingles": "Upgrade",
+        "portugues": "Upgrade / Melhoria",
+        "fraseIngles": "Is there an upgrade available?",
+        "frasePortugues": "Há um upgrade disponível?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 100,
+        "ingles": "Discount",
+        "portugues": "Desconto",
+        "fraseIngles": "Do you offer any discounts?",
+        "frasePortugues": "Vocês oferecem descontos?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 101,
+        "ingles": "Special offer",
+        "portugues": "Oferta especial",
+        "fraseIngles": "Do you have any special offers?",
+        "frasePortugues": "Vocês têm ofertas especiais?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 102,
+        "ingles": "Package deal",
+        "portugues": "Pacote promocional",
+        "fraseIngles": "We have a weekend package deal.",
+        "frasePortugues": "Temos um pacote promocional de fim de semana.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 103,
+        "ingles": "Group rate",
+        "portugues": "Tarifa de grupo",
+        "fraseIngles": "What's your group rate for 10 rooms?",
+        "frasePortugues": "Qual é a tarifa de grupo para 10 quartos?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 104,
+        "ingles": "Corporate rate",
+        "portugues": "Tarifa corporativa",
+        "fraseIngles": "Do you have corporate rates?",
+        "frasePortugues": "Vocês têm tarifas corporativas?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 105,
+        "ingles": "Season",
+        "portugues": "Temporada",
+        "fraseIngles": "High season rates apply in summer.",
+        "frasePortugues": "Tarifas de alta temporada se aplicam no verão.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 106,
+        "ingles": "Peak season",
+        "portugues": "Alta temporada",
+        "fraseIngles": "This is peak season for tourism.",
+        "frasePortugues": "Esta é a alta temporada para turismo.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 107,
+        "ingles": "Off-season",
+        "portugues": "Baixa temporada",
+        "fraseIngles": "Off-season rates are lower.",
+        "frasePortugues": "As tarifas de baixa temporada são menores.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 108,
+        "ingles": "Amenities",
+        "portugues": "Comodidades",
+        "fraseIngles": "What amenities are included?",
+        "frasePortugues": "Que comodidades estão incluídas?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 109,
+        "ingles": "Facilities",
+        "portugues": "Instalações",
+        "fraseIngles": "The hotel has excellent facilities.",
+        "frasePortugues": "O hotel tem excelentes instalações.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 110,
+        "ingles": "Services",
+        "portugues": "Serviços",
+        "fraseIngles": "What services do you offer?",
+        "frasePortugues": "Que serviços vocês oferecem?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 111,
+        "ingles": "Parking",
+        "portugues": "Estacionamento",
+        "fraseIngles": "Is parking available?",
+        "frasePortugues": "Há estacionamento disponível?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 112,
+        "ingles": "Valet parking",
+        "portugues": "Estacionamento com manobrista",
+        "fraseIngles": "Valet parking is available for $20.",
+        "frasePortugues": "Estacionamento com manobrista disponível por $20.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 113,
+        "ingles": "Shuttle",
+        "portugues": "Transfer / Transporte",
+        "fraseIngles": "Is there a shuttle to the airport?",
+        "frasePortugues": "Há transporte para o aeroporto?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 114,
+        "ingles": "Taxi",
+        "portugues": "Táxi",
+        "fraseIngles": "Can you call a taxi for me?",
+        "frasePortugues": "Pode chamar um táxi para mim?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 115,
+        "ingles": "Directions",
+        "portugues": "Direções",
+        "fraseIngles": "Can you give me directions to downtown?",
+        "frasePortugues": "Pode me dar direções para o centro?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 116,
+        "ingles": "Map",
+        "portugues": "Mapa",
+        "fraseIngles": "Do you have a city map?",
+        "frasePortugues": "Vocês têm um mapa da cidade?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 117,
+        "ingles": "Tourist information",
+        "portugues": "Informações turísticas",
+        "fraseIngles": "Where can I get tourist information?",
+        "frasePortugues": "Onde posso conseguir informações turísticas?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 118,
+        "ingles": "Attraction",
+        "portugues": "Atração",
+        "fraseIngles": "What attractions are nearby?",
+        "frasePortugues": "Que atrações há por perto?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 119,
+        "ingles": "Museum",
+        "portugues": "Museu",
+        "fraseIngles": "Is there a museum close by?",
+        "frasePortugues": "Há um museu por perto?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 120,
+        "ingles": "Theater",
+        "portugues": "Teatro",
+        "fraseIngles": "Where's the nearest theater?",
+        "frasePortugues": "Onde fica o teatro mais próximo?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 121,
+        "ingles": "Shopping",
+        "portugues": "Compras",
+        "fraseIngles": "Where's the best place for shopping?",
+        "frasePortugues": "Onde é o melhor lugar para compras?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 122,
+        "ingles": "Mall",
+        "portugues": "Shopping center",
+        "fraseIngles": "The mall is five minutes away.",
+        "frasePortugues": "O shopping fica a cinco minutos.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 123,
+        "ingles": "Beach",
+        "portugues": "Praia",
+        "fraseIngles": "How far is the beach?",
+        "frasePortugues": "Quão longe fica a praia?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 124,
+        "ingles": "Airport",
+        "portugues": "Aeroporto",
+        "fraseIngles": "How long does it take to the airport?",
+        "frasePortugues": "Quanto tempo leva para o aeroporto?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 125,
+        "ingles": "Train station",
+        "portugues": "Estação de trem",
+        "fraseIngles": "Where's the train station?",
+        "frasePortugues": "Onde fica a estação de trem?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 126,
+        "ingles": "Bus stop",
+        "portugues": "Ponto de ônibus",
+        "fraseIngles": "Is there a bus stop nearby?",
+        "frasePortugues": "Há um ponto de ônibus por perto?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 127,
+        "ingles": "Pharmacy",
+        "portugues": "Farmácia",
+        "fraseIngles": "Where's the nearest pharmacy?",
+        "frasePortugues": "Onde fica a farmácia mais próxima?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 128,
+        "ingles": "Hospital",
+        "portugues": "Hospital",
+        "fraseIngles": "Where's the closest hospital?",
+        "frasePortugues": "Onde fica o hospital mais próximo?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 129,
+        "ingles": "Doctor",
+        "portugues": "Médico",
+        "fraseIngles": "I need to see a doctor.",
+        "frasePortugues": "Preciso ver um médico.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 130,
+        "ingles": "Emergency",
+        "portugues": "Emergência",
+        "fraseIngles": "This is an emergency!",
+        "frasePortugues": "Isto é uma emergência!",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 131,
+        "ingles": "Police",
+        "portugues": "Polícia",
+        "fraseIngles": "Please call the police.",
+        "frasePortugues": "Por favor, chame a polícia.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 132,
+        "ingles": "Fire department",
+        "portugues": "Corpo de bombeiros",
+        "fraseIngles": "Call the fire department!",
+        "frasePortugues": "Chame o corpo de bombeiros!",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 133,
+        "ingles": "Ambulance",
+        "portugues": "Ambulância",
+        "fraseIngles": "We need an ambulance.",
+        "frasePortugues": "Precisamos de uma ambulância.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 134,
+        "ingles": "Lost",
+        "portugues": "Perdido",
+        "fraseIngles": "I'm lost, can you help me?",
+        "frasePortugues": "Estou perdido, pode me ajudar?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 135,
+        "ingles": "Found",
+        "portugues": "Encontrado",
+        "fraseIngles": "I found this in the lobby.",
+        "frasePortugues": "Encontrei isto no lobby.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 136,
+        "ingles": "Lost and found",
+        "portugues": "Achados e perdidos",
+        "fraseIngles": "Where's the lost and found office?",
+        "frasePortugues": "Onde fica o escritório de achados e perdidos?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 137,
+        "ingles": "Forgot",
+        "portugues": "Esqueci",
+        "fraseIngles": "I forgot my key in the room.",
+        "frasePortugues": "Esqueci minha chave no quarto.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 138,
+        "ingles": "Left behind",
+        "portugues": "Deixei para trás",
+        "fraseIngles": "I left my phone in the taxi.",
+        "frasePortugues": "Deixei meu telefone no táxi.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 139,
+        "ingles": "Stolen",
+        "portugues": "Roubado",
+        "fraseIngles": "My wallet was stolen.",
+        "frasePortugues": "Minha carteira foi roubada.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 140,
+        "ingles": "Security",
+        "portugues": "Segurança",
+        "fraseIngles": "Please call security.",
+        "frasePortugues": "Por favor, chame a segurança.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 141,
+        "ingles": "Safe",
+        "portugues": "Seguro",
+        "fraseIngles": "Is this area safe at night?",
+        "frasePortugues": "Esta área é segura à noite?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 142,
+        "ingles": "Dangerous",
+        "portugues": "Perigoso",
+        "fraseIngles": "Is that neighborhood dangerous?",
+        "frasePortugues": "Aquele bairro é perigoso?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 143,
+        "ingles": "Recommendation",
+        "portugues": "Recomendação",
+        "fraseIngles": "Do you have any restaurant recommendations?",
+        "frasePortugues": "Vocês têm recomendações de restaurantes?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 144,
+        "ingles": "Suggest",
+        "portugues": "Sugerir",
+        "fraseIngles": "What do you suggest for tonight?",
+        "frasePortugues": "O que você sugere para hoje à noite?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 145,
+        "ingles": "Opinion",
+        "portugues": "Opinião",
+        "fraseIngles": "What's your opinion on this hotel?",
+        "frasePortugues": "Qual é sua opinião sobre este hotel?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 146,
+        "ingles": "Review",
+        "portugues": "Avaliação",
+        "fraseIngles": "I'll write a good review online.",
+        "frasePortugues": "Escreverei uma boa avaliação online.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 147,
+        "ingles": "Rating",
+        "portugues": "Classificação",
+        "fraseIngles": "This hotel has a 5-star rating.",
+        "frasePortugues": "Este hotel tem classificação 5 estrelas.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 148,
+        "ingles": "Satisfaction",
+        "portugues": "Satisfação",
+        "fraseIngles": "Thank you for your satisfaction survey.",
+        "frasePortugues": "Obrigado pela pesquisa de satisfação.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 149,
+        "ingles": "Experience",
+        "portugues": "Experiência",
+        "fraseIngles": "How was your experience with us?",
+        "frasePortugues": "Como foi sua experiência conosco?",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 150,
+        "ingles": "Service",
+        "portugues": "Serviço",
+        "fraseIngles": "The service here is excellent.",
+        "frasePortugues": "O serviço aqui é excelente.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 151,
+        "ingles": "Staff",
+        "portugues": "Funcionários",
+        "fraseIngles": "The staff is very friendly.",
+        "frasePortugues": "Os funcionários são muito simpáticos.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 152,
+        "ingles": "Professional",
+        "portugues": "Profissional",
+        "fraseIngles": "Your staff is very professional.",
+        "frasePortugues": "Seus funcionários são muito profissionais.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 153,
+        "ingles": "Helpful",
+        "portugues": "Prestativo",
+        "fraseIngles": "Everyone here is so helpful.",
+        "frasePortugues": "Todos aqui são muito prestativos.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 154,
+        "ingles": "Friendly",
+        "portugues": "Simpático",
+        "fraseIngles": "The receptionist was very friendly.",
+        "frasePortugues": "O recepcionista foi muito simpático.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 155,
+        "ingles": "Polite",
+        "portugues": "Educado",
+        "fraseIngles": "All staff members are polite.",
+        "frasePortugues": "Todos os funcionários são educados.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 156,
+        "ingles": "Efficient",
+        "portugues": "Eficiente",
+        "fraseIngles": "Your service is very efficient.",
+        "frasePortugues": "Seu serviço é muito eficiente.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 157,
+        "ingles": "Thank you",
+        "portugues": "Obrigado",
+        "fraseIngles": "Thank you for your hospitality.",
+        "frasePortugues": "Obrigado pela hospitalidade.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 158,
+        "ingles": "You're welcome",
+        "portugues": "De nada",
+        "fraseIngles": "You're welcome, have a great stay!",
+        "frasePortugues": "De nada, tenha uma ótima estadia!",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 159,
+        "ingles": "Enjoy",
+        "portugues": "Aproveitar",
+        "fraseIngles": "Enjoy your stay with us.",
+        "frasePortugues": "Aproveite sua estadia conosco.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 160,
+        "ingles": "Have a good day",
+        "portugues": "Tenha um bom dia",
+        "fraseIngles": "Have a good day, sir.",
+        "frasePortugues": "Tenha um bom dia, senhor.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 161,
+        "ingles": "Come back soon",
+        "portugues": "Volte em breve",
+        "fraseIngles": "Please come back soon!",
+        "frasePortugues": "Por favor, volte em breve!",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 162,
+        "ingles": "Farewell",
+        "portugues": "Despedida",
+        "fraseIngles": "Farewell, we hope to see you again.",
+        "frasePortugues": "Tchau, esperamos vê-lo novamente.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 163,
+        "ingles": "Goodbye",
+        "portugues": "Tchau",
+        "fraseIngles": "Goodbye, thank you for staying with us.",
+        "frasePortugues": "Tchau, obrigado por ficar conosco.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 164,
+        "ingles": "See you later",
+        "portugues": "Até mais tarde",
+        "fraseIngles": "See you later in the restaurant.",
+        "frasePortugues": "Até mais tarde no restaurante.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 165,
+        "ingles": "Take care",
+        "portugues": "Se cuide",
+        "fraseIngles": "Take care and have a safe trip.",
+        "frasePortugues": "Se cuide e tenha uma viagem segura.",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    },
+    {
+        "id": 166,
+        "ingles": "Safe travels",
+        "portugues": "Boa viagem",
+        "fraseIngles": "Safe travels back home!",
+        "frasePortugues": "Boa viagem de volta para casa!",
+        "subtopico": "Hotel",
+        "topico": "Frases"
+    }
+]

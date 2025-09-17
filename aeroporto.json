@@ -1,0 +1,2081 @@
+[
+    {
+        "id": 1,
+        "ingles": "Airport",
+        "portugues": "Aeroporto",
+        "fraseIngles": "The airport is very busy today.",
+        "frasePortugues": "O aeroporto está muito movimentado hoje.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 2,
+        "ingles": "Terminal",
+        "portugues": "Terminal",
+        "fraseIngles": "International flights depart from Terminal 2.",
+        "frasePortugues": "Voos internacionais partem do Terminal 2.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 3,
+        "ingles": "Gate",
+        "portugues": "Portão",
+        "fraseIngles": "Flight 305 departs from gate B12.",
+        "frasePortugues": "O voo 305 parte do portão B12.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 4,
+        "ingles": "Check-in",
+        "portugues": "Check-in",
+        "fraseIngles": "Online check-in saves time at the airport.",
+        "frasePortugues": "Check-in online economiza tempo no aeroporto.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 5,
+        "ingles": "Counter",
+        "portugues": "Balcão",
+        "fraseIngles": "The check-in counter opens at 5 AM.",
+        "frasePortugues": "O balcão de check-in abre às 5h.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 6,
+        "ingles": "Agent",
+        "portugues": "Agente",
+        "fraseIngles": "The airline agent was very helpful.",
+        "frasePortugues": "O agente da companhia aérea foi muito prestativo.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 7,
+        "ingles": "Ticket",
+        "portugues": "Bilhete / Passagem",
+        "fraseIngles": "Don't forget to print your ticket.",
+        "frasePortugues": "Não esqueça de imprimir seu bilhete.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 8,
+        "ingles": "Boarding pass",
+        "portugues": "Cartão de embarque",
+        "fraseIngles": "Show your boarding pass at the gate.",
+        "frasePortugues": "Mostre seu cartão de embarque no portão.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 9,
+        "ingles": "Passport",
+        "portugues": "Passaporte",
+        "fraseIngles": "Your passport must be valid for six months.",
+        "frasePortugues": "Seu passaporte deve ser válido por seis meses.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 10,
+        "ingles": "Visa",
+        "portugues": "Visto",
+        "fraseIngles": "Do I need a visa for this destination?",
+        "frasePortugues": "Preciso de visto para este destino?",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 11,
+        "ingles": "ID",
+        "portugues": "Documento de identidade",
+        "fraseIngles": "Please show a valid ID.",
+        "frasePortugues": "Por favor, mostre um documento válido.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 12,
+        "ingles": "Security",
+        "portugues": "Segurança",
+        "fraseIngles": "Security screening takes about 20 minutes.",
+        "frasePortugues": "A verificação de segurança leva cerca de 20 minutos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 13,
+        "ingles": "Screening",
+        "portugues": "Inspeção",
+        "fraseIngles": "All passengers must go through security screening.",
+        "frasePortugues": "Todos os passageiros devem passar pela inspeção de segurança.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 14,
+        "ingles": "Metal detector",
+        "portugues": "Detector de metal",
+        "fraseIngles": "Walk slowly through the metal detector.",
+        "frasePortugues": "Ande devagar pelo detector de metal.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 15,
+        "ingles": "X-ray",
+        "portugues": "Raio-X",
+        "fraseIngles": "Put your bag on the X-ray conveyor belt.",
+        "frasePortugues": "Coloque sua bolsa na esteira do raio-X.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 16,
+        "ingles": "Scanner",
+        "portugues": "Scanner",
+        "fraseIngles": "The full-body scanner is optional.",
+        "frasePortugues": "O scanner corporal é opcional.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 17,
+        "ingles": "Officer",
+        "portugues": "Oficial",
+        "fraseIngles": "The security officer checked my documents.",
+        "frasePortugues": "O oficial de segurança verificou meus documentos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 18,
+        "ingles": "Immigration",
+        "portugues": "Imigração",
+        "fraseIngles": "Immigration control is after security.",
+        "frasePortugues": "Controle de imigração é depois da segurança.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 19,
+        "ingles": "Customs",
+        "portugues": "Alfândega",
+        "fraseIngles": "Declare valuable items at customs.",
+        "frasePortugues": "Declare itens valiosos na alfândega.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 20,
+        "ingles": "Declaration",
+        "portugues": "Declaração",
+        "fraseIngles": "Fill out the customs declaration form.",
+        "frasePortugues": "Preencha o formulário de declaração alfandegária.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 21,
+        "ingles": "Duty-free",
+        "portugues": "Duty-free / Livre de impostos",
+        "fraseIngles": "The duty-free shop has great prices.",
+        "frasePortugues": "A loja duty-free tem preços ótimos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 22,
+        "ingles": "Shopping",
+        "portugues": "Compras",
+        "fraseIngles": "Airport shopping is convenient but expensive.",
+        "frasePortugues": "Compras no aeroporto são convenientes mas caras.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 23,
+        "ingles": "Restaurant",
+        "portugues": "Restaurante",
+        "fraseIngles": "The airport restaurant serves local cuisine.",
+        "frasePortugues": "O restaurante do aeroporto serve culinária local.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 24,
+        "ingles": "Food court",
+        "portugues": "Praça de alimentação",
+        "fraseIngles": "The food court has many options.",
+        "frasePortugues": "A praça de alimentação tem muitas opções.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 25,
+        "ingles": "Bar",
+        "portugues": "Bar",
+        "fraseIngles": "The airport bar is open 24 hours.",
+        "frasePortugues": "O bar do aeroporto funciona 24 horas.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 26,
+        "ingles": "Lounge",
+        "portugues": "Sala VIP",
+        "fraseIngles": "Business class passengers can use the lounge.",
+        "frasePortugues": "Passageiros da classe executiva podem usar a sala VIP.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 27,
+        "ingles": "Waiting area",
+        "portugues": "Área de espera",
+        "fraseIngles": "The waiting area has comfortable seating.",
+        "frasePortugues": "A área de espera tem assentos confortáveis.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 28,
+        "ingles": "Departure",
+        "portugues": "Partida",
+        "fraseIngles": "Departure time is 2:30 PM.",
+        "frasePortugues": "O horário de partida é 14h30.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 29,
+        "ingles": "Arrival",
+        "portugues": "Chegada",
+        "fraseIngles": "What's the expected arrival time?",
+        "frasePortugues": "Qual é o horário previsto de chegada?",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 30,
+        "ingles": "Flight",
+        "portugues": "Voo",
+        "fraseIngles": "My flight has been delayed.",
+        "frasePortugues": "Meu voo foi atrasado.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 31,
+        "ingles": "Airplane",
+        "portugues": "Avião",
+        "fraseIngles": "The airplane is boarding now.",
+        "frasePortugues": "O avião está embarcando agora.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 32,
+        "ingles": "Aircraft",
+        "portugues": "Aeronave",
+        "fraseIngles": "This aircraft can hold 300 passengers.",
+        "frasePortugues": "Esta aeronave pode levar 300 passageiros.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 33,
+        "ingles": "Jet",
+        "portugues": "Jato",
+        "fraseIngles": "The jet engines are very powerful.",
+        "frasePortugues": "Os motores do jato são muito potentes.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 34,
+        "ingles": "Pilot",
+        "portugues": "Piloto",
+        "fraseIngles": "The pilot announced turbulence ahead.",
+        "frasePortugues": "O piloto anunciou turbulência à frente.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 35,
+        "ingles": "Captain",
+        "portugues": "Capitão",
+        "fraseIngles": "The captain has 20 years of experience.",
+        "frasePortugues": "O capitão tem 20 anos de experiência.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 36,
+        "ingles": "Co-pilot",
+        "portugues": "Co-piloto",
+        "fraseIngles": "The co-pilot assists with navigation.",
+        "frasePortugues": "O co-piloto ajuda com a navegação.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 37,
+        "ingles": "Crew",
+        "portugues": "Tripulação",
+        "fraseIngles": "The flight crew is preparing for takeoff.",
+        "frasePortugues": "A tripulação está se preparando para a decolagem.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 38,
+        "ingles": "Flight attendant",
+        "portugues": "Comissário de bordo",
+        "fraseIngles": "The flight attendant served drinks.",
+        "frasePortugues": "O comissário de bordo serviu bebidas.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 39,
+        "ingles": "Passenger",
+        "portugues": "Passageiro",
+        "fraseIngles": "All passengers must fasten their seatbelts.",
+        "frasePortugues": "Todos os passageiros devem apertar os cintos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 40,
+        "ingles": "Seat",
+        "portugues": "Assento",
+        "fraseIngles": "I prefer an aisle seat.",
+        "frasePortugues": "Prefiro um assento no corredor.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 41,
+        "ingles": "Row",
+        "portugues": "Fileira",
+        "fraseIngles": "My seat is in row 25.",
+        "frasePortugues": "Meu assento é na fileira 25.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 42,
+        "ingles": "Window",
+        "portugues": "Janela",
+        "fraseIngles": "The window seat has a great view.",
+        "frasePortugues": "O assento da janela tem uma vista ótima.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 43,
+        "ingles": "Aisle",
+        "portugues": "Corredor",
+        "fraseIngles": "Aisle seats have more legroom.",
+        "frasePortugues": "Assentos do corredor têm mais espaço para as pernas.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 44,
+        "ingles": "Middle",
+        "portugues": "Meio",
+        "fraseIngles": "Nobody likes the middle seat.",
+        "frasePortugues": "Ninguém gosta do assento do meio.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 45,
+        "ingles": "First class",
+        "portugues": "Primeira classe",
+        "fraseIngles": "First class passengers board first.",
+        "frasePortugues": "Passageiros da primeira classe embarcam primeiro.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 46,
+        "ingles": "Business class",
+        "portugues": "Classe executiva",
+        "fraseIngles": "Business class offers better meals.",
+        "frasePortugues": "Classe executiva oferece refeições melhores.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 47,
+        "ingles": "Economy class",
+        "portugues": "Classe econômica",
+        "fraseIngles": "Economy class is the most affordable option.",
+        "frasePortugues": "Classe econômica é a opção mais acessível.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 48,
+        "ingles": "Premium economy",
+        "portugues": "Econômica premium",
+        "fraseIngles": "Premium economy has wider seats.",
+        "frasePortugues": "Econômica premium tem assentos mais largos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 49,
+        "ingles": "Upgrade",
+        "portugues": "Upgrade",
+        "fraseIngles": "Can I get an upgrade to business class?",
+        "frasePortugues": "Posso conseguir um upgrade para classe executiva?",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 50,
+        "ingles": "Boarding",
+        "portugues": "Embarque",
+        "fraseIngles": "Boarding begins in 30 minutes.",
+        "frasePortugues": "O embarque começa em 30 minutos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 51,
+        "ingles": "Zone",
+        "portugues": "Zona",
+        "fraseIngles": "Zone 1 passengers may board now.",
+        "frasePortugues": "Passageiros da zona 1 podem embarcar agora.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 52,
+        "ingles": "Group",
+        "portugues": "Grupo",
+        "fraseIngles": "Boarding group B is now ready.",
+        "frasePortugues": "Grupo de embarque B está pronto.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 53,
+        "ingles": "Priority",
+        "portugues": "Prioridade",
+        "fraseIngles": "Priority boarding is for premium passengers.",
+        "frasePortugues": "Embarque prioritário é para passageiros premium.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 54,
+        "ingles": "Delay",
+        "portugues": "Atraso",
+        "fraseIngles": "The flight delay is due to weather.",
+        "frasePortugues": "O atraso do voo é devido ao tempo.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 55,
+        "ingles": "Cancel",
+        "portugues": "Cancelar",
+        "fraseIngles": "They had to cancel the flight due to fog.",
+        "frasePortugues": "Tiveram que cancelar o voo devido à neblina.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 56,
+        "ingles": "Reschedule",
+        "portugues": "Reagendar",
+        "fraseIngles": "Can I reschedule my flight for tomorrow?",
+        "frasePortugues": "Posso reagendar meu voo para amanhã?",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 57,
+        "ingles": "Connection",
+        "portugues": "Conexão",
+        "fraseIngles": "I have a connecting flight in Miami.",
+        "frasePortugues": "Tenho um voo de conexão em Miami.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 58,
+        "ingles": "Layover",
+        "portugues": "Escala",
+        "fraseIngles": "The layover is four hours long.",
+        "frasePortugues": "A escala é de quatro horas.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 59,
+        "ingles": "Transfer",
+        "portugues": "Transferência",
+        "fraseIngles": "Where do I transfer to the international terminal?",
+        "frasePortugues": "Onde faço a transferência para o terminal internacional?",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 60,
+        "ingles": "Direct",
+        "portugues": "Direto",
+        "fraseIngles": "This is a direct flight to London.",
+        "frasePortugues": "Este é um voo direto para Londres.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 61,
+        "ingles": "Nonstop",
+        "portugues": "Sem escala",
+        "fraseIngles": "Nonstop flights are more convenient.",
+        "frasePortugues": "Voos sem escala são mais convenientes.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 62,
+        "ingles": "Domestic",
+        "portugues": "Doméstico",
+        "fraseIngles": "Domestic flights don't require a passport.",
+        "frasePortugues": "Voos domésticos não requerem passaporte.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 63,
+        "ingles": "International",
+        "portugues": "Internacional",
+        "fraseIngles": "International flights have stricter security.",
+        "frasePortugues": "Voos internacionais têm segurança mais rigorosa.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 64,
+        "ingles": "Destination",
+        "portugues": "Destino",
+        "fraseIngles": "What's your final destination?",
+        "frasePortugues": "Qual é seu destino final?",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 65,
+        "ingles": "Origin",
+        "portugues": "Origem",
+        "fraseIngles": "The flight's origin is New York.",
+        "frasePortugues": "A origem do voo é Nova York.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 66,
+        "ingles": "Route",
+        "portugues": "Rota",
+        "fraseIngles": "This route flies over the Atlantic Ocean.",
+        "frasePortugues": "Esta rota voa sobre o Oceano Atlântico.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 67,
+        "ingles": "Distance",
+        "portugues": "Distância",
+        "fraseIngles": "The flight distance is 3,000 miles.",
+        "frasePortugues": "A distância do voo é 3.000 milhas.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 68,
+        "ingles": "Duration",
+        "portugues": "Duração",
+        "fraseIngles": "The flight duration is 8 hours.",
+        "frasePortugues": "A duração do voo é 8 horas.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 69,
+        "ingles": "Time",
+        "portugues": "Tempo",
+        "fraseIngles": "What time does the flight depart?",
+        "frasePortugues": "Que horas o voo parte?",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 70,
+        "ingles": "Schedule",
+        "portugues": "Horário",
+        "fraseIngles": "Check the flight schedule online.",
+        "frasePortugues": "Verifique o horário dos voos online.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 71,
+        "ingles": "Timetable",
+        "portugues": "Tabela de horários",
+        "fraseIngles": "The timetable shows all departures.",
+        "frasePortugues": "A tabela de horários mostra todas as partidas.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 72,
+        "ingles": "On time",
+        "portugues": "No horário",
+        "fraseIngles": "Is the flight departing on time?",
+        "frasePortugues": "O voo está partindo no horário?",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 73,
+        "ingles": "Early",
+        "portugues": "Cedo",
+        "fraseIngles": "The flight arrived 20 minutes early.",
+        "frasePortugues": "O voo chegou 20 minutos mais cedo.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 74,
+        "ingles": "Late",
+        "portugues": "Atrasado",
+        "fraseIngles": "The flight is running 30 minutes late.",
+        "frasePortugues": "O voo está 30 minutos atrasado.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 75,
+        "ingles": "Baggage",
+        "portugues": "Bagagem",
+        "fraseIngles": "Where can I collect my baggage?",
+        "frasePortugues": "Onde posso retirar minha bagagem?",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 76,
+        "ingles": "Luggage",
+        "portugues": "Bagagem",
+        "fraseIngles": "My luggage is missing.",
+        "frasePortugues": "Minha bagagem está perdida.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 77,
+        "ingles": "Suitcase",
+        "portugues": "Mala",
+        "fraseIngles": "This suitcase exceeds the weight limit.",
+        "frasePortugues": "Esta mala excede o limite de peso.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 78,
+        "ingles": "Bag",
+        "portugues": "Bolsa / Mala",
+        "fraseIngles": "Is this bag small enough for carry-on?",
+        "frasePortugues": "Esta bolsa é pequena o suficiente para bagagem de mão?",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 79,
+        "ingles": "Carry-on",
+        "portugues": "Bagagem de mão",
+        "fraseIngles": "Carry-on bags must fit in the overhead bin.",
+        "frasePortugues": "Bagagem de mão deve caber no compartimento superior.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 80,
+        "ingles": "Checked baggage",
+        "portugues": "Bagagem despachada",
+        "fraseIngles": "Checked baggage goes in the cargo hold.",
+        "frasePortugues": "Bagagem despachada vai no compartimento de carga.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 81,
+        "ingles": "Weight limit",
+        "portugues": "Limite de peso",
+        "fraseIngles": "The weight limit is 50 pounds.",
+        "frasePortugues": "O limite de peso é 50 libras.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 82,
+        "ingles": "Overweight",
+        "portugues": "Excesso de peso",
+        "fraseIngles": "Your bag is overweight by 5 kilos.",
+        "frasePortugues": "Sua mala tem 5 quilos de excesso de peso.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 83,
+        "ingles": "Extra fee",
+        "portugues": "Taxa extra",
+        "fraseIngles": "Overweight bags incur an extra fee.",
+        "frasePortugues": "Bagagem com excesso de peso tem taxa extra.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 84,
+        "ingles": "Allowance",
+        "portugues": "Franquia",
+        "fraseIngles": "The baggage allowance is generous.",
+        "frasePortugues": "A franquia de bagagem é generosa.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 85,
+        "ingles": "Claim",
+        "portugues": "Retirada / Reclamar",
+        "fraseIngles": "Baggage claim is on the lower level.",
+        "frasePortugues": "A retirada de bagagem é no piso inferior.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 86,
+        "ingles": "Carousel",
+        "portugues": "Esteira",
+        "fraseIngles": "Wait for your luggage at carousel 3.",
+        "frasePortugues": "Espere sua bagagem na esteira 3.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 87,
+        "ingles": "Lost",
+        "portugues": "Perdida",
+        "fraseIngles": "My luggage was lost in transit.",
+        "frasePortugues": "Minha bagagem foi perdida no trânsito.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 88,
+        "ingles": "Damaged",
+        "portugues": "Danificada",
+        "fraseIngles": "The suitcase arrived damaged.",
+        "frasePortugues": "A mala chegou danificada.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 89,
+        "ingles": "Report",
+        "portugues": "Relatório / Reportar",
+        "fraseIngles": "I need to report my missing luggage.",
+        "frasePortugues": "Preciso reportar minha bagagem perdida.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 90,
+        "ingles": "Form",
+        "portugues": "Formulário",
+        "fraseIngles": "Fill out this lost baggage form.",
+        "frasePortugues": "Preencha este formulário de bagagem perdida.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 91,
+        "ingles": "Tag",
+        "portugues": "Etiqueta",
+        "fraseIngles": "Keep your baggage claim tag.",
+        "frasePortugues": "Guarde sua etiqueta de bagagem.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 92,
+        "ingles": "Receipt",
+        "portugues": "Recibo",
+        "fraseIngles": "Save the baggage receipt for insurance.",
+        "frasePortugues": "Guarde o recibo da bagagem para o seguro.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 93,
+        "ingles": "Delivery",
+        "portugues": "Entrega",
+        "fraseIngles": "They'll deliver your luggage to the hotel.",
+        "frasePortugues": "Eles entregarão sua bagagem no hotel.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 94,
+        "ingles": "Compensation",
+        "portugues": "Compensação",
+        "fraseIngles": "You may receive compensation for delays.",
+        "frasePortugues": "Você pode receber compensação por atrasos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 95,
+        "ingles": "Insurance",
+        "portugues": "Seguro",
+        "fraseIngles": "Travel insurance covers lost luggage.",
+        "frasePortugues": "Seguro viagem cobre bagagem perdida.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 96,
+        "ingles": "Lock",
+        "portugues": "Cadeado",
+        "fraseIngles": "TSA-approved locks are recommended.",
+        "frasePortugues": "Cadeados aprovados pela TSA são recomendados.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 97,
+        "ingles": "Keys",
+        "portugues": "Chaves",
+        "fraseIngles": "Don't pack keys in checked luggage.",
+        "frasePortugues": "Não coloque chaves na bagagem despachada.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 98,
+        "ingles": "Liquid",
+        "portugues": "Líquido",
+        "fraseIngles": "Liquids must be in containers under 100ml.",
+        "frasePortugues": "Líquidos devem estar em recipientes de menos de 100ml.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 99,
+        "ingles": "Electronics",
+        "portugues": "Eletrônicos",
+        "fraseIngles": "Remove electronics from your bag for screening.",
+        "frasePortugues": "Remova eletrônicos da bolsa para inspeção.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 100,
+        "ingles": "Laptop",
+        "portugues": "Laptop",
+        "fraseIngles": "Laptops must be screened separately.",
+        "frasePortugues": "Laptops devem ser inspecionados separadamente.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 101,
+        "ingles": "Phone",
+        "portugues": "Telefone",
+        "fraseIngles": "Turn off your phone during takeoff.",
+        "frasePortugues": "Desligue seu telefone durante a decolagem.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 102,
+        "ingles": "Charger",
+        "portugues": "Carregador",
+        "fraseIngles": "Pack chargers in your carry-on bag.",
+        "frasePortugues": "Coloque carregadores na bagagem de mão.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 103,
+        "ingles": "Battery",
+        "portugues": "Bateria",
+        "fraseIngles": "Spare batteries belong in carry-on luggage.",
+        "frasePortugues": "Baterias sobressalentes devem ir na bagagem de mão.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 104,
+        "ingles": "Prohibited",
+        "portugues": "Proibido",
+        "fraseIngles": "Sharp objects are prohibited in carry-on bags.",
+        "frasePortugues": "Objetos cortantes são proibidos na bagagem de mão.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 105,
+        "ingles": "Restricted",
+        "portugues": "Restrito",
+        "fraseIngles": "Some items are restricted on flights.",
+        "frasePortugues": "Alguns itens são restritos em voos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 106,
+        "ingles": "Allowed",
+        "portugues": "Permitido",
+        "fraseIngles": "Food items are generally allowed.",
+        "frasePortugues": "Itens de comida geralmente são permitidos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 107,
+        "ingles": "Forbidden",
+        "portugues": "Proibido",
+        "fraseIngles": "Weapons are strictly forbidden on planes.",
+        "frasePortugues": "Armas são estritamente proibidas em aviões.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 108,
+        "ingles": "Confiscate",
+        "portugues": "Confiscar",
+        "fraseIngles": "Security may confiscate prohibited items.",
+        "frasePortugues": "A segurança pode confiscar itens proibidos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 109,
+        "ingles": "Surrender",
+        "portugues": "Entregar",
+        "fraseIngles": "You must surrender all liquids over 100ml.",
+        "frasePortugues": "Você deve entregar todos os líquidos acima de 100ml.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 110,
+        "ingles": "Dispose",
+        "portugues": "Descartar",
+        "fraseIngles": "Please dispose of prohibited items here.",
+        "frasePortugues": "Por favor, descarte itens proibidos aqui.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 111,
+        "ingles": "Bin",
+        "portugues": "Lixeira",
+        "fraseIngles": "There's a disposal bin at security.",
+        "frasePortugues": "Há uma lixeira na segurança.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 112,
+        "ingles": "Remove",
+        "portugues": "Remover",
+        "fraseIngles": "Remove your shoes for screening.",
+        "frasePortugues": "Remova seus sapatos para inspeção.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 113,
+        "ingles": "Empty",
+        "portugues": "Esvaziar",
+        "fraseIngles": "Empty your pockets before screening.",
+        "frasePortugues": "Esvazie seus bolsos antes da inspeção.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 114,
+        "ingles": "Belt",
+        "portugues": "Cinto",
+        "fraseIngles": "You may need to remove your belt.",
+        "frasePortugues": "Você pode precisar remover seu cinto.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 115,
+        "ingles": "Shoes",
+        "portugues": "Sapatos",
+        "fraseIngles": "Shoes must be removed for X-ray screening.",
+        "frasePortugues": "Sapatos devem ser removidos para inspeção de raio-X.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 116,
+        "ingles": "Jacket",
+        "portugues": "Jaqueta",
+        "fraseIngles": "Please remove your jacket.",
+        "frasePortugues": "Por favor, remova sua jaqueta.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 117,
+        "ingles": "Watch",
+        "portugues": "Relógio",
+        "fraseIngles": "Metal watches may trigger the detector.",
+        "frasePortugues": "Relógios de metal podem ativar o detector.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 118,
+        "ingles": "Jewelry",
+        "portugues": "Joias",
+        "fraseIngles": "Remove large jewelry pieces.",
+        "frasePortugues": "Remova peças grandes de joias.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 119,
+        "ingles": "Coins",
+        "portugues": "Moedas",
+        "fraseIngles": "Empty coins from your pockets.",
+        "frasePortugues": "Tire as moedas dos seus bolsos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 120,
+        "ingles": "Wallet",
+        "portugues": "Carteira",
+        "fraseIngles": "Place your wallet in the tray.",
+        "frasePortugues": "Coloque sua carteira na bandeja.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 121,
+        "ingles": "Tray",
+        "portugues": "Bandeja",
+        "fraseIngles": "Put small items in the plastic tray.",
+        "frasePortugues": "Coloque itens pequenos na bandeja plástica.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 122,
+        "ingles": "Bin",
+        "portugues": "Caixa",
+        "fraseIngles": "Use the grey bins for larger items.",
+        "frasePortugues": "Use as caixas cinzas para itens maiores.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 123,
+        "ingles": "Conveyor",
+        "portugues": "Esteira",
+        "fraseIngles": "Place bags on the conveyor belt.",
+        "frasePortugues": "Coloque as bolsas na esteira.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 124,
+        "ingles": "Alarm",
+        "portugues": "Alarme",
+        "fraseIngles": "The metal detector alarm went off.",
+        "frasePortugues": "O alarme do detector de metal tocou.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 125,
+        "ingles": "Wand",
+        "portugues": "Detector manual",
+        "fraseIngles": "The officer used a handheld wand.",
+        "frasePortugues": "O oficial usou um detector manual.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 126,
+        "ingles": "Pat-down",
+        "portugues": "Revista pessoal",
+        "fraseIngles": "You may need a pat-down search.",
+        "frasePortugues": "Você pode precisar de uma revista pessoal.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 127,
+        "ingles": "Search",
+        "portugues": "Busca / Revistar",
+        "fraseIngles": "Random searches are conducted.",
+        "frasePortugues": "Buscas aleatórias são conduzidas.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 128,
+        "ingles": "Inspect",
+        "portugues": "Inspecionar",
+        "fraseIngles": "They need to inspect your bag.",
+        "frasePortugues": "Eles precisam inspecionar sua bolsa.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 129,
+        "ingles": "Swab",
+        "portugues": "Cotonete / Teste químico",
+        "fraseIngles": "They took a swab sample for testing.",
+        "frasePortugues": "Eles coletaram uma amostra com cotonete para teste.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 130,
+        "ingles": "Test",
+        "portugues": "Teste",
+        "fraseIngles": "The explosive test came back negative.",
+        "frasePortugues": "O teste de explosivos deu negativo.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 131,
+        "ingles": "Clear",
+        "portugues": "Liberado",
+        "fraseIngles": "You're cleared to proceed to your gate.",
+        "frasePortugues": "Você está liberado para seguir ao seu portão.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 132,
+        "ingles": "Proceed",
+        "portugues": "Prosseguir",
+        "fraseIngles": "Please proceed to the departure area.",
+        "frasePortugues": "Por favor, prossiga para a área de embarque.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 133,
+        "ingles": "Wait",
+        "portugues": "Esperar",
+        "fraseIngles": "Please wait here while we check.",
+        "frasePortugues": "Por favor, espere aqui enquanto verificamos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 134,
+        "ingles": "Step aside",
+        "portugues": "Fazer-se para o lado",
+        "fraseIngles": "Please step aside for additional screening.",
+        "frasePortugues": "Por favor, faça-se para o lado para inspeção adicional.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 135,
+        "ingles": "Cooperate",
+        "portugues": "Cooperar",
+        "fraseIngles": "Please cooperate with security personnel.",
+        "frasePortugues": "Por favor, coopere com o pessoal de segurança.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 136,
+        "ingles": "Comply",
+        "portugues": "Cumprir",
+        "fraseIngles": "You must comply with all security rules.",
+        "frasePortugues": "Você deve cumprir todas as regras de segurança.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 137,
+        "ingles": "Follow",
+        "portugues": "Seguir",
+        "fraseIngles": "Follow the instructions of security officers.",
+        "frasePortugues": "Siga as instruções dos oficiais de segurança.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 138,
+        "ingles": "Instructions",
+        "portugues": "Instruções",
+        "fraseIngles": "Listen carefully to all instructions.",
+        "frasePortugues": "Ouça atentamente todas as instruções.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 139,
+        "ingles": "Rules",
+        "portugues": "Regras",
+        "fraseIngles": "Airport security rules are strict.",
+        "frasePortugues": "Regras de segurança do aeroporto são rígidas.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 140,
+        "ingles": "Regulations",
+        "portugues": "Regulamentos",
+        "fraseIngles": "TSA regulations change frequently.",
+        "frasePortugues": "Regulamentos da TSA mudam frequentemente.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 141,
+        "ingles": "Policy",
+        "portugues": "Política",
+        "fraseIngles": "Check the airline's baggage policy.",
+        "frasePortugues": "Verifique a política de bagagem da companhia aérea.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 142,
+        "ingles": "Procedure",
+        "portugues": "Procedimento",
+        "fraseIngles": "The security procedure takes time.",
+        "frasePortugues": "O procedimento de segurança leva tempo.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 143,
+        "ingles": "Process",
+        "portugues": "Processo",
+        "fraseIngles": "The boarding process is now complete.",
+        "frasePortugues": "O processo de embarque está completo.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 144,
+        "ingles": "Line",
+        "portugues": "Fila",
+        "fraseIngles": "The security line is very long.",
+        "frasePortugues": "A fila da segurança está muito longa.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 145,
+        "ingles": "Queue",
+        "portugues": "Fila",
+        "fraseIngles": "Join the queue for check-in.",
+        "frasePortugues": "Entre na fila para o check-in.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 146,
+        "ingles": "Wait time",
+        "portugues": "Tempo de espera",
+        "fraseIngles": "The current wait time is 45 minutes.",
+        "frasePortugues": "O tempo de espera atual é 45 minutos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 147,
+        "ingles": "Express",
+        "portugues": "Expresso",
+        "fraseIngles": "Use the express line if you qualify.",
+        "frasePortugues": "Use a fila expressa se você se qualificar.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 148,
+        "ingles": "Fast track",
+        "portugues": "Via rápida",
+        "fraseIngles": "Premium passengers get fast track access.",
+        "frasePortugues": "Passageiros premium têm acesso à via rápida.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 149,
+        "ingles": "Priority",
+        "portugues": "Prioridade",
+        "fraseIngles": "Military personnel get priority screening.",
+        "frasePortugues": "Pessoal militar tem triagem prioritária.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 150,
+        "ingles": "Elderly",
+        "portugues": "Idoso",
+        "fraseIngles": "Elderly passengers need assistance.",
+        "frasePortugues": "Passageiros idosos precisam de assistência.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 151,
+        "ingles": "Disabled",
+        "portugues": "Deficiente",
+        "fraseIngles": "Disabled passengers have special procedures.",
+        "frasePortugues": "Passageiros deficientes têm procedimentos especiais.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 152,
+        "ingles": "Wheelchair",
+        "portugues": "Cadeira de rodas",
+        "fraseIngles": "Wheelchair assistance is available.",
+        "frasePortugues": "Assistência com cadeira de rodas está disponível.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 153,
+        "ingles": "Assistance",
+        "portugues": "Assistência",
+        "fraseIngles": "Do you need any assistance?",
+        "frasePortugues": "Você precisa de alguma assistência?",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 154,
+        "ingles": "Help",
+        "portugues": "Ajuda",
+        "fraseIngles": "Airport staff can help with directions.",
+        "frasePortugues": "Funcionários do aeroporto podem ajudar com direções.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 155,
+        "ingles": "Guide",
+        "portugues": "Guiar",
+        "fraseIngles": "Let me guide you to your gate.",
+        "frasePortugues": "Deixe-me guiá-lo ao seu portão.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 156,
+        "ingles": "Escort",
+        "portugues": "Acompanhar",
+        "fraseIngles": "Security will escort you to the gate.",
+        "frasePortugues": "A segurança o acompanhará ao portão.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 157,
+        "ingles": "Accompany",
+        "portugues": "Acompanhar",
+        "fraseIngles": "A guardian must accompany minors.",
+        "frasePortugues": "Um responsável deve acompanhar menores.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 158,
+        "ingles": "Unaccompanied",
+        "portugues": "Desacompanhado",
+        "fraseIngles": "Unaccompanied minors need special care.",
+        "frasePortugues": "Menores desacompanhados precisam de cuidados especiais.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 159,
+        "ingles": "Child",
+        "portugues": "Criança",
+        "fraseIngles": "Children under 12 fly free with adults.",
+        "frasePortugues": "Crianças menores de 12 anos voam grátis com adultos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 160,
+        "ingles": "Infant",
+        "portugues": "Bebê",
+        "fraseIngles": "Infants can sit on parents' laps.",
+        "frasePortugues": "Bebês podem sentar no colo dos pais.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 161,
+        "ingles": "Stroller",
+        "portugues": "Carrinho de bebê",
+        "fraseIngles": "You can gate-check your stroller.",
+        "frasePortugues": "Você pode despachar seu carrinho no portão.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 162,
+        "ingles": "Car seat",
+        "portugues": "Cadeirinha de carro",
+        "fraseIngles": "Car seats count as checked baggage.",
+        "frasePortugues": "Cadeirinhas de carro contam como bagagem despachada.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 163,
+        "ingles": "Pet",
+        "portugues": "Animal de estimação",
+        "fraseIngles": "Pets must travel in approved carriers.",
+        "frasePortugues": "Animais de estimação devem viajar em transportadores aprovados.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 164,
+        "ingles": "Carrier",
+        "portugues": "Transportador",
+        "fraseIngles": "The pet carrier fits under the seat.",
+        "frasePortugues": "O transportador do animal cabe embaixo do assento.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 165,
+        "ingles": "Service animal",
+        "portugues": "Animal de serviço",
+        "fraseIngles": "Service animals fly free in the cabin.",
+        "frasePortugues": "Animais de serviço voam grátis na cabine.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 166,
+        "ingles": "Certificate",
+        "portugues": "Certificado",
+        "fraseIngles": "Service animals need health certificates.",
+        "frasePortugues": "Animais de serviço precisam de certificados de saúde.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 167,
+        "ingles": "Documentation",
+        "portugues": "Documentação",
+        "fraseIngles": "Bring all required documentation.",
+        "frasePortugues": "Traga toda documentação necessária.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 168,
+        "ingles": "Health",
+        "portugues": "Saúde",
+        "fraseIngles": "Some destinations require health certificates.",
+        "frasePortugues": "Alguns destinos requerem certificados de saúde.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 169,
+        "ingles": "Vaccination",
+        "portugues": "Vacinação",
+        "fraseIngles": "Yellow fever vaccination is required.",
+        "frasePortugues": "Vacinação contra febre amarela é obrigatória.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 170,
+        "ingles": "Medical",
+        "portugues": "Médico",
+        "fraseIngles": "Carry medical supplies in your carry-on.",
+        "frasePortugues": "Carregue suprimentos médicos na bagagem de mão.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 171,
+        "ingles": "Prescription",
+        "portugues": "Receita",
+        "fraseIngles": "Keep prescriptions in original containers.",
+        "frasePortugues": "Mantenha receitas em recipientes originais.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 172,
+        "ingles": "Medication",
+        "portugues": "Medicamento",
+        "fraseIngles": "Liquid medications are allowed.",
+        "frasePortugues": "Medicamentos líquidos são permitidos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 173,
+        "ingles": "Emergency",
+        "portugues": "Emergência",
+        "fraseIngles": "In case of emergency, contact airport security.",
+        "frasePortugues": "Em caso de emergência, contate a segurança do aeroporto.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 174,
+        "ingles": "First aid",
+        "portugues": "Primeiros socorros",
+        "fraseIngles": "First aid stations are located throughout the airport.",
+        "frasePortugues": "Postos de primeiros socorros estão localizados por todo o aeroporto.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 175,
+        "ingles": "Clinic",
+        "portugues": "Clínica",
+        "fraseIngles": "The airport clinic treats minor injuries.",
+        "frasePortugues": "A clínica do aeroporto trata ferimentos menores.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 176,
+        "ingles": "Nurse",
+        "portugues": "Enfermeiro",
+        "fraseIngles": "A nurse is available 24/7.",
+        "frasePortugues": "Um enfermeiro está disponível 24/7.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 177,
+        "ingles": "Doctor",
+        "portugues": "Médico",
+        "fraseIngles": "Call a doctor if you feel ill.",
+        "frasePortugues": "Chame um médico se se sentir mal.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 178,
+        "ingles": "Ambulance",
+        "portugues": "Ambulância",
+        "fraseIngles": "An ambulance is on standby.",
+        "frasePortugues": "Uma ambulância está de prontidão.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 179,
+        "ingles": "Hospital",
+        "portugues": "Hospital",
+        "fraseIngles": "The nearest hospital is 10 minutes away.",
+        "frasePortugues": "O hospital mais próximo fica a 10 minutos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 180,
+        "ingles": "Sick",
+        "portugues": "Doente",
+        "fraseIngles": "Sick passengers may be denied boarding.",
+        "frasePortugues": "Passageiros doentes podem ter o embarque negado.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 181,
+        "ingles": "Ill",
+        "portugues": "Doente",
+        "fraseIngles": "If you feel ill, seek medical attention.",
+        "frasePortugues": "Se se sentir doente, procure atenção médica.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 182,
+        "ingles": "Fever",
+        "portugues": "Febre",
+        "fraseIngles": "Passengers with fever may be quarantined.",
+        "frasePortugues": "Passageiros com febre podem ser isolados.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 183,
+        "ingles": "Temperature",
+        "portugues": "Temperatura",
+        "fraseIngles": "They may check your temperature.",
+        "frasePortugues": "Eles podem verificar sua temperatura.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 184,
+        "ingles": "Mask",
+        "portugues": "Máscara",
+        "fraseIngles": "Face masks may be required.",
+        "frasePortugues": "Máscaras faciais podem ser obrigatórias.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 185,
+        "ingles": "Sanitizer",
+        "portugues": "Desinfetante",
+        "fraseIngles": "Use hand sanitizer frequently.",
+        "frasePortugues": "Use desinfetante para mãos frequentemente.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 186,
+        "ingles": "Clean",
+        "portugues": "Limpo",
+        "fraseIngles": "Keep your hands clean.",
+        "frasePortugues": "Mantenha suas mãos limpas.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 187,
+        "ingles": "Wash",
+        "portugues": "Lavar",
+        "fraseIngles": "Wash your hands for 20 seconds.",
+        "frasePortugues": "Lave suas mãos por 20 segundos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 188,
+        "ingles": "Hygiene",
+        "portugues": "Higiene",
+        "fraseIngles": "Good hygiene prevents illness.",
+        "frasePortugues": "Boa higiene previne doenças.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 189,
+        "ingles": "Distance",
+        "portugues": "Distância",
+        "fraseIngles": "Maintain social distance when possible.",
+        "frasePortugues": "Mantenha distância social quando possível.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 190,
+        "ingles": "Space",
+        "portugues": "Espaço",
+        "fraseIngles": "Give others personal space.",
+        "frasePortugues": "Dê espaço pessoal aos outros.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 191,
+        "ingles": "Crowded",
+        "portugues": "Lotado",
+        "fraseIngles": "The terminal is very crowded.",
+        "frasePortugues": "O terminal está muito lotado.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 192,
+        "ingles": "Busy",
+        "portugues": "Movimentado",
+        "fraseIngles": "Airports are busiest during holidays.",
+        "frasePortugues": "Aeroportos são mais movimentados durante feriados.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 193,
+        "ingles": "Rush hour",
+        "portugues": "Horário de pico",
+        "fraseIngles": "Avoid traveling during rush hour.",
+        "frasePortugues": "Evite viajar durante o horário de pico.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 194,
+        "ingles": "Peak time",
+        "portugues": "Horário de pico",
+        "fraseIngles": "Peak times have longer waits.",
+        "frasePortugues": "Horários de pico têm esperas mais longas.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 195,
+        "ingles": "Off-peak",
+        "portugues": "Fora do pico",
+        "fraseIngles": "Off-peak flights are less crowded.",
+        "frasePortugues": "Voos fora do pico são menos lotados.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 196,
+        "ingles": "Quiet",
+        "portugues": "Silencioso",
+        "fraseIngles": "Early morning flights are usually quiet.",
+        "frasePortugues": "Voos de madrugada são geralmente silenciosos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 197,
+        "ingles": "Noise",
+        "portugues": "Ruído",
+        "fraseIngles": "Airport noise can be overwhelming.",
+        "frasePortugues": "O ruído do aeroporto pode ser avassalador.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 198,
+        "ingles": "Loud",
+        "portugues": "Alto",
+        "fraseIngles": "The announcements are very loud.",
+        "frasePortugues": "Os anúncios são muito altos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 199,
+        "ingles": "Announcement",
+        "portugues": "Anúncio",
+        "fraseIngles": "Listen for boarding announcements.",
+        "frasePortugues": "Escute os anúncios de embarque.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 200,
+        "ingles": "Speaker",
+        "portugues": "Alto-falante",
+        "fraseIngles": "The speaker system covers the entire terminal.",
+        "frasePortugues": "O sistema de som cobre todo o terminal.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 201,
+        "ingles": "Information",
+        "portugues": "Informação",
+        "fraseIngles": "Check the information board for updates.",
+        "frasePortugues": "Verifique o painel de informações para atualizações.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 202,
+        "ingles": "Board",
+        "portugues": "Painel",
+        "fraseIngles": "The departure board shows flight status.",
+        "frasePortugues": "O painel de partidas mostra o status dos voos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 203,
+        "ingles": "Screen",
+        "portugues": "Tela",
+        "fraseIngles": "Digital screens display real-time information.",
+        "frasePortugues": "Telas digitais mostram informações em tempo real.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 204,
+        "ingles": "Monitor",
+        "portugues": "Monitor",
+        "fraseIngles": "Monitor the flight status closely.",
+        "frasePortugues": "Monitore o status do voo de perto.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 205,
+        "ingles": "Update",
+        "portugues": "Atualização",
+        "fraseIngles": "Flight information updates every minute.",
+        "frasePortugues": "Informações de voo atualizam a cada minuto.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 206,
+        "ingles": "Status",
+        "portugues": "Status",
+        "fraseIngles": "What's the current flight status?",
+        "frasePortugues": "Qual é o status atual do voo?",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 207,
+        "ingles": "Confirmed",
+        "portugues": "Confirmado",
+        "fraseIngles": "Your seat assignment is confirmed.",
+        "frasePortugues": "Sua atribuição de assento está confirmada.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 208,
+        "ingles": "Tentative",
+        "portugues": "Provisório",
+        "fraseIngles": "The departure time is still tentative.",
+        "frasePortugues": "O horário de partida ainda é provisório.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 209,
+        "ingles": "Changed",
+        "portugues": "Mudado",
+        "fraseIngles": "The gate has been changed to B15.",
+        "frasePortugues": "O portão foi mudado para B15.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 210,
+        "ingles": "Moved",
+        "portugues": "Transferido",
+        "fraseIngles": "The flight was moved to a different terminal.",
+        "frasePortugues": "O voo foi transferido para um terminal diferente.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 211,
+        "ingles": "Final call",
+        "portugues": "Última chamada",
+        "fraseIngles": "This is the final call for boarding.",
+        "frasePortugues": "Esta é a última chamada para embarque.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 212,
+        "ingles": "Last chance",
+        "portugues": "Última chance",
+        "fraseIngles": "This is your last chance to board.",
+        "frasePortugues": "Esta é sua última chance de embarcar.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 213,
+        "ingles": "Miss",
+        "portugues": "Perder",
+        "fraseIngles": "Don't miss your flight!",
+        "frasePortugues": "Não perca seu voo!",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 214,
+        "ingles": "Catch",
+        "portugues": "Pegar",
+        "fraseIngles": "Run if you want to catch your flight.",
+        "frasePortugues": "Corra se quiser pegar seu voo.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 215,
+        "ingles": "Hurry",
+        "portugues": "Pressa",
+        "fraseIngles": "You need to hurry to make your connection.",
+        "frasePortugues": "Você precisa se apressar para fazer sua conexão.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 216,
+        "ingles": "Rush",
+        "portugues": "Correria",
+        "fraseIngles": "There's no need to rush.",
+        "frasePortugues": "Não há necessidade de correria.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 217,
+        "ingles": "Calm",
+        "portugues": "Calmo",
+        "fraseIngles": "Stay calm during delays.",
+        "frasePortugues": "Fique calmo durante atrasos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 218,
+        "ingles": "Patient",
+        "portugues": "Paciente",
+        "fraseIngles": "Be patient with airport staff.",
+        "frasePortugues": "Seja paciente com funcionários do aeroporto.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 219,
+        "ingles": "Polite",
+        "portugues": "Educado",
+        "fraseIngles": "Always be polite to airline personnel.",
+        "frasePortugues": "Sempre seja educado com pessoal da companhia aérea.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 220,
+        "ingles": "Respectful",
+        "portugues": "Respeitoso",
+        "fraseIngles": "Be respectful of other passengers.",
+        "frasePortugues": "Seja respeitoso com outros passageiros.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 221,
+        "ingles": "Courteous",
+        "portugues": "Cortês",
+        "fraseIngles": "Courteous behavior makes travel pleasant.",
+        "frasePortugues": "Comportamento cortês torna a viagem agradável.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 222,
+        "ingles": "Friendly",
+        "portugues": "Amigável",
+        "fraseIngles": "Airport staff are usually friendly.",
+        "frasePortugues": "Funcionários do aeroporto são geralmente amigáveis.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 223,
+        "ingles": "Helpful",
+        "portugues": "Prestativo",
+        "fraseIngles": "Most people are helpful to confused travelers.",
+        "frasePortugues": "A maioria das pessoas é prestativa com viajantes confusos.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 224,
+        "ingles": "Kind",
+        "portugues": "Gentil",
+        "fraseIngles": "A kind word can brighten someone's day.",
+        "frasePortugues": "Uma palavra gentil pode alegrar o dia de alguém.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 225,
+        "ingles": "Smile",
+        "portugues": "Sorriso",
+        "fraseIngles": "A smile is universal language.",
+        "frasePortugues": "Um sorriso é linguagem universal.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 226,
+        "ingles": "Thank you",
+        "portugues": "Obrigado",
+        "fraseIngles": "Always say thank you to those who help.",
+        "frasePortugues": "Sempre agradeça àqueles que ajudam.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 227,
+        "ingles": "Please",
+        "portugues": "Por favor",
+        "fraseIngles": "Remember to say please when asking for help.",
+        "frasePortugues": "Lembre-se de dizer por favor ao pedir ajuda.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 228,
+        "ingles": "Excuse me",
+        "portugues": "Com licença",
+        "fraseIngles": "Say excuse me when you need to pass.",
+        "frasePortugues": "Diga com licença quando precisar passar.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 229,
+        "ingles": "Sorry",
+        "portugues": "Desculpa",
+        "fraseIngles": "Apologize if you accidentally bump someone.",
+        "frasePortugues": "Peça desculpas se esbarrar em alguém acidentalmente.",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 230,
+        "ingles": "Welcome",
+        "portugues": "Bem-vindo",
+        "fraseIngles": "Welcome to our airport!",
+        "frasePortugues": "Bem-vindo ao nosso aeroporto!",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    },
+    {
+        "id": 231,
+        "ingles": "Enjoy",
+        "portugues": "Aproveitar",
+        "fraseIngles": "Enjoy your flight and have a safe trip!",
+        "frasePortugues": "Aproveite seu voo e tenha uma viagem segura!",
+        "subtopico": "Aeroporto",
+        "topico": "Frases"
+    }
+]

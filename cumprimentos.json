@@ -1,0 +1,1451 @@
+[
+    {
+        "id": 1,
+        "ingles": "Hello",
+        "portugues": "Olá",
+        "fraseIngles": "Hello, how are you today?",
+        "frasePortugues": "Olá, como você está hoje?",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 2,
+        "ingles": "Hi",
+        "portugues": "Oi",
+        "fraseIngles": "Hi there, nice to see you!",
+        "frasePortugues": "Oi, que bom te ver!",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 3,
+        "ingles": "Good morning",
+        "portugues": "Bom dia",
+        "fraseIngles": "Good morning, did you sleep well?",
+        "frasePortugues": "Bom dia, você dormiu bem?",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 4,
+        "ingles": "Good afternoon",
+        "portugues": "Boa tarde",
+        "fraseIngles": "Good afternoon, how's your day going?",
+        "frasePortugues": "Boa tarde, como está sendo seu dia?",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 5,
+        "ingles": "Good evening",
+        "portugues": "Boa noite",
+        "fraseIngles": "Good evening, welcome to our home.",
+        "frasePortugues": "Boa noite, bem-vindo à nossa casa.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 6,
+        "ingles": "Good night",
+        "portugues": "Boa noite",
+        "fraseIngles": "Good night, sweet dreams!",
+        "frasePortugues": "Boa noite, sonhos doces!",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 7,
+        "ingles": "How are you?",
+        "portugues": "Como você está?",
+        "fraseIngles": "How are you feeling this morning?",
+        "frasePortugues": "Como você está se sentindo esta manhã?",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 8,
+        "ingles": "How's it going?",
+        "portugues": "Como vai?",
+        "fraseIngles": "Hey! How's it going with your new job?",
+        "frasePortugues": "Ei! Como vai com seu novo trabalho?",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 9,
+        "ingles": "What's up?",
+        "portugues": "E aí?",
+        "fraseIngles": "What's up? You look excited!",
+        "frasePortugues": "E aí? Você parece animado!",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 10,
+        "ingles": "How have you been?",
+        "portugues": "Como você tem estado?",
+        "fraseIngles": "How have you been since we last met?",
+        "frasePortugues": "Como você tem estado desde que nos encontramos?",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 11,
+        "ingles": "Nice to meet you",
+        "portugues": "Prazer em conhecê-lo",
+        "fraseIngles": "Nice to meet you, I'm Sarah.",
+        "frasePortugues": "Prazer em conhecê-lo, eu sou Sarah.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 12,
+        "ingles": "Pleased to meet you",
+        "portugues": "Prazer em conhecê-lo",
+        "fraseIngles": "I'm pleased to meet you at last.",
+        "frasePortugues": "Estou feliz em conhecê-lo finalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 13,
+        "ingles": "It's a pleasure",
+        "portugues": "É um prazer",
+        "fraseIngles": "It's a pleasure to meet such a talented person.",
+        "frasePortugues": "É um prazer conhecer uma pessoa tão talentosa.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 14,
+        "ingles": "Welcome",
+        "portugues": "Bem-vindo",
+        "fraseIngles": "Welcome to our company!",
+        "frasePortugues": "Bem-vindo à nossa empresa!",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 15,
+        "ingles": "Nice to see you",
+        "portugues": "Que bom te ver",
+        "fraseIngles": "Nice to see you again after so long.",
+        "frasePortugues": "Que bom te ver novamente depois de tanto tempo.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 16,
+        "ingles": "Good to see you",
+        "portugues": "Bom te ver",
+        "fraseIngles": "It's good to see you looking so well.",
+        "frasePortugues": "É bom te ver com uma aparência tão boa.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 17,
+        "ingles": "Long time no see",
+        "portugues": "Há quanto tempo",
+        "fraseIngles": "Long time no see! You haven't changed a bit.",
+        "frasePortugues": "Há quanto tempo! Você não mudou nada.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 18,
+        "ingles": "How's everything?",
+        "portugues": "Como vai tudo?",
+        "fraseIngles": "How's everything at home these days?",
+        "frasePortugues": "Como vai tudo em casa ultimamente?",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 19,
+        "ingles": "What's new?",
+        "portugues": "O que há de novo?",
+        "fraseIngles": "What's new in your life?",
+        "frasePortugues": "O que há de novo em sua vida?",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 20,
+        "ingles": "How do you do?",
+        "portugues": "Como vai?",
+        "fraseIngles": "How do you do? I'm honored to meet you.",
+        "frasePortugues": "Como vai? É uma honra conhecê-lo.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 21,
+        "ingles": "Greetings",
+        "portugues": "Saudações",
+        "fraseIngles": "Greetings from all of us here.",
+        "frasePortugues": "Saudações de todos nós aqui.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 22,
+        "ingles": "Salutations",
+        "portugues": "Saudações",
+        "fraseIngles": "Salutations, my dear friend!",
+        "frasePortugues": "Saudações, meu caro amigo!",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 23,
+        "ingles": "Hey",
+        "portugues": "Ei",
+        "fraseIngles": "Hey, wait for me!",
+        "frasePortugues": "Ei, me espera!",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 24,
+        "ingles": "Howdy",
+        "portugues": "Olá (informal)",
+        "fraseIngles": "Howdy, partner! Ready for the ride?",
+        "frasePortugues": "Olá, parceiro! Pronto para a cavalgada?",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 25,
+        "ingles": "Good day",
+        "portugues": "Bom dia",
+        "fraseIngles": "Good day to you, sir.",
+        "frasePortugues": "Bom dia para você, senhor.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 26,
+        "ingles": "Top of the morning",
+        "portugues": "Bom dia",
+        "fraseIngles": "Top of the morning to you!",
+        "frasePortugues": "Bom dia para você!",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 27,
+        "ingles": "How are things?",
+        "portugues": "Como vão as coisas?",
+        "fraseIngles": "How are things with your family?",
+        "frasePortugues": "Como vão as coisas com sua família?",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 28,
+        "ingles": "What's happening?",
+        "portugues": "O que está acontecendo?",
+        "fraseIngles": "What's happening at the office today?",
+        "frasePortugues": "O que está acontecendo no escritório hoje?",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 29,
+        "ingles": "How's life?",
+        "portugues": "Como está a vida?",
+        "fraseIngles": "How's life treating you these days?",
+        "frasePortugues": "Como a vida está te tratando ultimamente?",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 30,
+        "ingles": "All good?",
+        "portugues": "Tudo bem?",
+        "fraseIngles": "All good with you and the kids?",
+        "frasePortugues": "Tudo bem com você e as crianças?",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 31,
+        "ingles": "How are you doing?",
+        "portugues": "Como você está indo?",
+        "fraseIngles": "How are you doing with your studies?",
+        "frasePortugues": "Como você está indo com seus estudos?",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 32,
+        "ingles": "What's going on?",
+        "portugues": "O que está rolando?",
+        "fraseIngles": "What's going on? You seem worried.",
+        "frasePortugues": "O que está rolando? Você parece preocupado.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 33,
+        "ingles": "How's your day?",
+        "portugues": "Como está seu dia?",
+        "fraseIngles": "How's your day been so far?",
+        "frasePortugues": "Como tem sido seu dia até agora?",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 34,
+        "ingles": "Good to meet you",
+        "portugues": "Bom conhecê-lo",
+        "fraseIngles": "Good to meet you, I've heard great things.",
+        "frasePortugues": "Bom conhecê-lo, ouvi coisas ótimas.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 35,
+        "ingles": "Lovely to meet you",
+        "portugues": "Adorável conhecê-lo",
+        "fraseIngles": "Lovely to meet you at this event.",
+        "frasePortugues": "Adorável conhecê-lo neste evento.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 36,
+        "ingles": "Delighted to meet you",
+        "portugues": "Encantado em conhecê-lo",
+        "fraseIngles": "I'm delighted to meet you in person.",
+        "frasePortugues": "Estou encantado em conhecê-lo pessoalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 37,
+        "ingles": "How wonderful to see you",
+        "portugues": "Que maravilha te ver",
+        "fraseIngles": "How wonderful to see you here tonight!",
+        "frasePortugues": "Que maravilha te ver aqui esta noite!",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 38,
+        "ingles": "Great to see you",
+        "portugues": "Ótimo te ver",
+        "fraseIngles": "Great to see you looking so happy.",
+        "frasePortugues": "Ótimo te ver parecendo tão feliz.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 39,
+        "ingles": "Fantastic to meet you",
+        "portugues": "Fantástico conhecê-lo",
+        "fraseIngles": "It's fantastic to meet you finally.",
+        "frasePortugues": "É fantástico conhecê-lo finalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 40,
+        "ingles": "Wonderful to see you again",
+        "portugues": "Maravilhoso te ver novamente",
+        "fraseIngles": "Wonderful to see you again, my friend.",
+        "frasePortugues": "Maravilhoso te ver novamente, meu amigo.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 41,
+        "ingles": "So good to see you",
+        "portugues": "Tão bom te ver",
+        "fraseIngles": "It's so good to see you after all this time.",
+        "frasePortugues": "É tão bom te ver depois de todo esse tempo.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 42,
+        "ingles": "How nice to meet you",
+        "portugues": "Que legal conhecê-lo",
+        "fraseIngles": "How nice to meet you at last!",
+        "frasePortugues": "Que legal conhecê-lo finalmente!",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 43,
+        "ingles": "Pleasure meeting you",
+        "portugues": "Prazer em conhecê-lo",
+        "fraseIngles": "The pleasure meeting you is all mine.",
+        "frasePortugues": "O prazer em conhecê-lo é todo meu.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 44,
+        "ingles": "Honor to meet you",
+        "portugues": "Honra conhecê-lo",
+        "fraseIngles": "It's an honor to meet you, professor.",
+        "frasePortugues": "É uma honra conhecê-lo, professor.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 45,
+        "ingles": "Thrilled to meet you",
+        "portugues": "Emocionado em conhecê-lo",
+        "fraseIngles": "I'm thrilled to meet you in person.",
+        "frasePortugues": "Estou emocionado em conhecê-lo pessoalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 46,
+        "ingles": "Excited to meet you",
+        "portugues": "Animado para conhecê-lo",
+        "fraseIngles": "I'm excited to meet you today.",
+        "frasePortugues": "Estou animado para conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 47,
+        "ingles": "Happy to see you",
+        "portugues": "Feliz em te ver",
+        "fraseIngles": "I'm happy to see you're doing well.",
+        "frasePortugues": "Estou feliz em ver que você está bem.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 48,
+        "ingles": "Glad to meet you",
+        "portugues": "Feliz em conhecê-lo",
+        "fraseIngles": "I'm glad to meet you at this conference.",
+        "frasePortugues": "Estou feliz em conhecê-lo nesta conferência.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 49,
+        "ingles": "Blessed to meet you",
+        "portugues": "Abençoado por conhecê-lo",
+        "fraseIngles": "I feel blessed to meet you today.",
+        "frasePortugues": "Me sinto abençoado por conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 50,
+        "ingles": "Grateful to meet you",
+        "portugues": "Grato por conhecê-lo",
+        "fraseIngles": "I'm grateful to meet you finally.",
+        "frasePortugues": "Estou grato por conhecê-lo finalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 51,
+        "ingles": "Lucky to meet you",
+        "portugues": "Sortudo por conhecê-lo",
+        "fraseIngles": "I'm lucky to meet you here today.",
+        "frasePortugues": "Tenho sorte de conhecê-lo aqui hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 52,
+        "ingles": "Privileged to meet you",
+        "portugues": "Privilegiado por conhecê-lo",
+        "fraseIngles": "I'm privileged to meet you, sir.",
+        "frasePortugues": "Sou privilegiado por conhecê-lo, senhor.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 53,
+        "ingles": "Honored to see you",
+        "portugues": "Honrado em te ver",
+        "fraseIngles": "I'm honored to see you again.",
+        "frasePortugues": "Sou honrado em te ver novamente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 54,
+        "ingles": "Overjoyed to see you",
+        "portugues": "Muito feliz em te ver",
+        "fraseIngles": "I'm overjoyed to see you safe and sound.",
+        "frasePortugues": "Estou muito feliz em te ver são e salvo.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 55,
+        "ingles": "Ecstatic to meet you",
+        "portugues": "Eufórico para conhecê-lo",
+        "fraseIngles": "I'm ecstatic to meet you in person.",
+        "frasePortugues": "Estou eufórico para conhecê-lo pessoalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 56,
+        "ingles": "Amazed to see you",
+        "portugues": "Surpreso em te ver",
+        "fraseIngles": "I'm amazed to see you here!",
+        "frasePortugues": "Estou surpreso em te ver aqui!",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 57,
+        "ingles": "Surprised to see you",
+        "portugues": "Surpreso em te ver",
+        "fraseIngles": "I'm surprised to see you at this party.",
+        "frasePortugues": "Estou surpreso em te ver nesta festa.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 58,
+        "ingles": "Shocked to see you",
+        "portugues": "Chocado em te ver",
+        "fraseIngles": "I'm shocked to see you after so many years.",
+        "frasePortugues": "Estou chocado em te ver depois de tantos anos.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 59,
+        "ingles": "Stunned to see you",
+        "portugues": "Atônito em te ver",
+        "fraseIngles": "I'm stunned to see you looking so young.",
+        "frasePortugues": "Estou atônito em te ver parecendo tão jovem.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 60,
+        "ingles": "Astonished to meet you",
+        "portugues": "Surpreso em conhecê-lo",
+        "fraseIngles": "I'm astonished to meet you here today.",
+        "frasePortugues": "Estou surpreso em conhecê-lo aqui hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 61,
+        "ingles": "Speechless to see you",
+        "portugues": "Sem palavras para te ver",
+        "fraseIngles": "I'm speechless to see you after the accident.",
+        "frasePortugues": "Estou sem palavras para te ver depois do acidente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 62,
+        "ingles": "Moved to see you",
+        "portugues": "Emocionado em te ver",
+        "fraseIngles": "I'm moved to see you doing so well.",
+        "frasePortugues": "Estou emocionado em te ver indo tão bem.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 63,
+        "ingles": "Touched to meet you",
+        "portugues": "Tocado em conhecê-lo",
+        "fraseIngles": "I'm touched to meet you on this special day.",
+        "frasePortugues": "Estou tocado em conhecê-lo neste dia especial.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 64,
+        "ingles": "Inspired to meet you",
+        "portugues": "Inspirado em conhecê-lo",
+        "fraseIngles": "I'm inspired to meet you, my hero.",
+        "frasePortugues": "Estou inspirado em conhecê-lo, meu herói.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 65,
+        "ingles": "Motivated to see you",
+        "portugues": "Motivado em te ver",
+        "fraseIngles": "I'm motivated to see you succeeding.",
+        "frasePortugues": "Estou motivado em te ver tendo sucesso.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 66,
+        "ingles": "Encouraged to meet you",
+        "portugues": "Encorajado em conhecê-lo",
+        "fraseIngles": "I'm encouraged to meet you today.",
+        "frasePortugues": "Estou encorajado em conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 67,
+        "ingles": "Uplifted to see you",
+        "portugues": "Animado em te ver",
+        "fraseIngles": "I'm uplifted to see you so positive.",
+        "frasePortugues": "Estou animado em te ver tão positivo.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 68,
+        "ingles": "Refreshed to see you",
+        "portugues": "Revigorado em te ver",
+        "fraseIngles": "I'm refreshed to see you again.",
+        "frasePortugues": "Estou revigorado em te ver novamente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 69,
+        "ingles": "Energized to meet you",
+        "portugues": "Energizado em conhecê-lo",
+        "fraseIngles": "I'm energized to meet you at last.",
+        "frasePortugues": "Estou energizado em conhecê-lo finalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 70,
+        "ingles": "Invigorated to see you",
+        "portugues": "Revigorado em te ver",
+        "fraseIngles": "I'm invigorated to see you so healthy.",
+        "frasePortugues": "Estou revigorado em te ver tão saudável.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 71,
+        "ingles": "Rejuvenated to meet you",
+        "portugues": "Rejuvenescido em conhecê-lo",
+        "fraseIngles": "I'm rejuvenated to meet you today.",
+        "frasePortugues": "Estou rejuvenescido em conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 72,
+        "ingles": "Renewed to see you",
+        "portugues": "Renovado em te ver",
+        "fraseIngles": "I'm renewed to see you back on your feet.",
+        "frasePortugues": "Estou renovado em te ver de pé novamente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 73,
+        "ingles": "Revitalized to meet you",
+        "portugues": "Revitalizado em conhecê-lo",
+        "fraseIngles": "I'm revitalized to meet you here.",
+        "frasePortugues": "Estou revitalizado em conhecê-lo aqui.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 74,
+        "ingles": "Restored to see you",
+        "portugues": "Restaurado em te ver",
+        "fraseIngles": "I'm restored to see you happy again.",
+        "frasePortugues": "Estou restaurado em te ver feliz novamente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 75,
+        "ingles": "Relieved to see you",
+        "portugues": "Aliviado em te ver",
+        "fraseIngles": "I'm relieved to see you're okay.",
+        "frasePortugues": "Estou aliviado em ver que você está bem.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 76,
+        "ingles": "Comforted to meet you",
+        "portugues": "Consolado em conhecê-lo",
+        "fraseIngles": "I'm comforted to meet you in this difficult time.",
+        "frasePortugues": "Estou consolado em conhecê-lo neste momento difícil.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 77,
+        "ingles": "Reassured to see you",
+        "portugues": "Tranquilizado em te ver",
+        "fraseIngles": "I'm reassured to see you improving.",
+        "frasePortugues": "Estou tranquilizado em te ver melhorando.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 78,
+        "ingles": "Calmed to meet you",
+        "portugues": "Acalmado em conhecê-lo",
+        "fraseIngles": "I'm calmed to meet you at last.",
+        "frasePortugues": "Estou acalmado em conhecê-lo finalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 79,
+        "ingles": "Peaceful to see you",
+        "portugues": "Em paz ao te ver",
+        "fraseIngles": "I feel peaceful to see you content.",
+        "frasePortugues": "Sinto-me em paz ao te ver contente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 80,
+        "ingles": "Serene to meet you",
+        "portugues": "Sereno em conhecê-lo",
+        "fraseIngles": "I feel serene to meet you today.",
+        "frasePortugues": "Sinto-me sereno em conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 81,
+        "ingles": "Tranquil to see you",
+        "portugues": "Tranquilo ao te ver",
+        "fraseIngles": "I feel tranquil to see you smiling.",
+        "frasePortugues": "Sinto-me tranquilo ao te ver sorrindo.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 82,
+        "ingles": "Content to meet you",
+        "portugues": "Satisfeito em conhecê-lo",
+        "fraseIngles": "I'm content to meet you finally.",
+        "frasePortugues": "Estou satisfeito em conhecê-lo finalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 83,
+        "ingles": "Satisfied to see you",
+        "portugues": "Satisfeito em te ver",
+        "fraseIngles": "I'm satisfied to see you succeeding.",
+        "frasePortugues": "Estou satisfeito em te ver tendo sucesso.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 84,
+        "ingles": "Fulfilled to meet you",
+        "portugues": "Realizado em conhecê-lo",
+        "fraseIngles": "I'm fulfilled to meet you today.",
+        "frasePortugues": "Estou realizado em conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 85,
+        "ingles": "Complete to see you",
+        "portugues": "Completo ao te ver",
+        "fraseIngles": "I feel complete to see you again.",
+        "frasePortugues": "Sinto-me completo ao te ver novamente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 86,
+        "ingles": "Whole to meet you",
+        "portugues": "Inteiro ao conhecê-lo",
+        "fraseIngles": "I feel whole to meet you at last.",
+        "frasePortugues": "Sinto-me inteiro ao conhecê-lo finalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 87,
+        "ingles": "Perfect to see you",
+        "portugues": "Perfeito te ver",
+        "fraseIngles": "It's perfect to see you here tonight.",
+        "frasePortugues": "É perfeito te ver aqui esta noite.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 88,
+        "ingles": "Ideal to meet you",
+        "portugues": "Ideal conhecê-lo",
+        "fraseIngles": "It's ideal to meet you at this moment.",
+        "frasePortugues": "É ideal conhecê-lo neste momento.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 89,
+        "ingles": "Excellent to see you",
+        "portugues": "Excelente te ver",
+        "fraseIngles": "It's excellent to see you again.",
+        "frasePortugues": "É excelente te ver novamente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 90,
+        "ingles": "Outstanding to meet you",
+        "portugues": "Excepcional conhecê-lo",
+        "fraseIngles": "It's outstanding to meet you in person.",
+        "frasePortugues": "É excepcional conhecê-lo pessoalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 91,
+        "ingles": "Remarkable to see you",
+        "portugues": "Notável te ver",
+        "fraseIngles": "It's remarkable to see you after so long.",
+        "frasePortugues": "É notável te ver depois de tanto tempo.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 92,
+        "ingles": "Incredible to meet you",
+        "portugues": "Incrível conhecê-lo",
+        "fraseIngles": "It's incredible to meet you today.",
+        "frasePortugues": "É incrível conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 93,
+        "ingles": "Unbelievable to see you",
+        "portugues": "Inacreditável te ver",
+        "fraseIngles": "It's unbelievable to see you here.",
+        "frasePortugues": "É inacreditável te ver aqui.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 94,
+        "ingles": "Extraordinary to meet you",
+        "portugues": "Extraordinário conhecê-lo",
+        "fraseIngles": "It's extraordinary to meet you finally.",
+        "frasePortugues": "É extraordinário conhecê-lo finalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 95,
+        "ingles": "Phenomenal to see you",
+        "portugues": "Fenomenal te ver",
+        "fraseIngles": "It's phenomenal to see you doing so well.",
+        "frasePortugues": "É fenomenal te ver indo tão bem.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 96,
+        "ingles": "Magnificent to meet you",
+        "portugues": "Magnífico conhecê-lo",
+        "fraseIngles": "It's magnificent to meet you at last.",
+        "frasePortugues": "É magnífico conhecê-lo finalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 97,
+        "ingles": "Spectacular to see you",
+        "portugues": "Espetacular te ver",
+        "fraseIngles": "It's spectacular to see you again.",
+        "frasePortugues": "É espetacular te ver novamente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 98,
+        "ingles": "Brilliant to meet you",
+        "portugues": "Brilhante conhecê-lo",
+        "fraseIngles": "It's brilliant to meet you today.",
+        "frasePortugues": "É brilhante conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 99,
+        "ingles": "Superb to see you",
+        "portugues": "Excelente te ver",
+        "fraseIngles": "It's superb to see you looking great.",
+        "frasePortugues": "É excelente te ver com ótima aparência.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 100,
+        "ingles": "Marvelous to meet you",
+        "portugues": "Maravilhoso conhecê-lo",
+        "fraseIngles": "It's marvelous to meet you in person.",
+        "frasePortugues": "É maravilhoso conhecê-lo pessoalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 101,
+        "ingles": "Splendid to see you",
+        "portugues": "Esplêndido te ver",
+        "fraseIngles": "It's splendid to see you again.",
+        "frasePortugues": "É esplêndido te ver novamente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 102,
+        "ingles": "Terrific to meet you",
+        "portugues": "Formidável conhecê-lo",
+        "fraseIngles": "It's terrific to meet you at this event.",
+        "frasePortugues": "É formidável conhecê-lo neste evento.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 103,
+        "ingles": "Amazing to see you",
+        "portugues": "Incrível te ver",
+        "fraseIngles": "It's amazing to see you after the surgery.",
+        "frasePortugues": "É incrível te ver depois da cirurgia.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 104,
+        "ingles": "Awesome to meet you",
+        "portugues": "Incrível conhecê-lo",
+        "fraseIngles": "It's awesome to meet you finally.",
+        "frasePortugues": "É incrível conhecê-lo finalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 105,
+        "ingles": "Cool to see you",
+        "portugues": "Legal te ver",
+        "fraseIngles": "It's cool to see you at this concert.",
+        "frasePortugues": "É legal te ver neste show.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 106,
+        "ingles": "Sweet to meet you",
+        "portugues": "Doce conhecê-lo",
+        "fraseIngles": "It's sweet to meet you today.",
+        "frasePortugues": "É doce conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 107,
+        "ingles": "Lovely seeing you",
+        "portugues": "Adorável te ver",
+        "fraseIngles": "It's lovely seeing you so happy.",
+        "frasePortugues": "É adorável te ver tão feliz.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 108,
+        "ingles": "Beautiful meeting you",
+        "portugues": "Lindo conhecê-lo",
+        "fraseIngles": "It's beautiful meeting you at last.",
+        "frasePortugues": "É lindo conhecê-lo finalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 109,
+        "ingles": "Gorgeous seeing you",
+        "portugues": "Lindo te ver",
+        "fraseIngles": "It's gorgeous seeing you again.",
+        "frasePortugues": "É lindo te ver novamente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 110,
+        "ingles": "Stunning meeting you",
+        "portugues": "Deslumbrante conhecê-lo",
+        "fraseIngles": "It's stunning meeting you in person.",
+        "frasePortugues": "É deslumbrante conhecê-lo pessoalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 111,
+        "ingles": "Breathtaking seeing you",
+        "portugues": "De tirar o fôlego te ver",
+        "fraseIngles": "It's breathtaking seeing you perform.",
+        "frasePortugues": "É de tirar o fôlego te ver apresentar.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 112,
+        "ingles": "Divine meeting you",
+        "portugues": "Divino conhecê-lo",
+        "fraseIngles": "It's divine meeting you today.",
+        "frasePortugues": "É divino conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 113,
+        "ingles": "Heavenly seeing you",
+        "portugues": "Celestial te ver",
+        "fraseIngles": "It's heavenly seeing you again.",
+        "frasePortugues": "É celestial te ver novamente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 114,
+        "ingles": "Blissful meeting you",
+        "portugues": "Feliz conhecê-lo",
+        "fraseIngles": "It's blissful meeting you at last.",
+        "frasePortugues": "É uma felicidade conhecê-lo finalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 115,
+        "ingles": "Joyful seeing you",
+        "portugues": "Alegre te ver",
+        "fraseIngles": "It's joyful seeing you so well.",
+        "frasePortugues": "É alegre te ver tão bem.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 116,
+        "ingles": "Cheerful meeting you",
+        "portugues": "Alegre conhecê-lo",
+        "fraseIngles": "It's cheerful meeting you today.",
+        "frasePortugues": "É alegre conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 117,
+        "ingles": "Delightful seeing you",
+        "portugues": "Delicioso te ver",
+        "fraseIngles": "It's delightful seeing you again.",
+        "frasePortugues": "É delicioso te ver novamente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 118,
+        "ingles": "Pleasant meeting you",
+        "portugues": "Agradável conhecê-lo",
+        "fraseIngles": "It's pleasant meeting you here.",
+        "frasePortugues": "É agradável conhecê-lo aqui.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 119,
+        "ingles": "Enjoyable seeing you",
+        "portugues": "Prazeroso te ver",
+        "fraseIngles": "It's enjoyable seeing you perform.",
+        "frasePortugues": "É prazeroso te ver apresentar.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 120,
+        "ingles": "Fun meeting you",
+        "portugues": "Divertido conhecê-lo",
+        "fraseIngles": "It's fun meeting you at this party.",
+        "frasePortugues": "É divertido conhecê-lo nesta festa.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 121,
+        "ingles": "Exciting seeing you",
+        "portugues": "Emocionante te ver",
+        "fraseIngles": "It's exciting seeing you after so long.",
+        "frasePortugues": "É emocionante te ver depois de tanto tempo.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 122,
+        "ingles": "Thrilling meeting you",
+        "portugues": "Emocionante conhecê-lo",
+        "fraseIngles": "It's thrilling meeting you in person.",
+        "frasePortugues": "É emocionante conhecê-lo pessoalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 123,
+        "ingles": "Electrifying seeing you",
+        "portugues": "Eletrizante te ver",
+        "fraseIngles": "It's electrifying seeing you perform live.",
+        "frasePortugues": "É eletrizante te ver apresentar ao vivo.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 124,
+        "ingles": "Stimulating meeting you",
+        "portugues": "Estimulante conhecê-lo",
+        "fraseIngles": "It's stimulating meeting you today.",
+        "frasePortugues": "É estimulante conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 125,
+        "ingles": "Fascinating seeing you",
+        "portugues": "Fascinante te ver",
+        "fraseIngles": "It's fascinating seeing you work.",
+        "frasePortugues": "É fascinante te ver trabalhar.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 126,
+        "ingles": "Captivating meeting you",
+        "portugues": "Cativante conhecê-lo",
+        "fraseIngles": "It's captivating meeting you at last.",
+        "frasePortugues": "É cativante conhecê-lo finalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 127,
+        "ingles": "Enchanting seeing you",
+        "portugues": "Encantador te ver",
+        "fraseIngles": "It's enchanting seeing you dance.",
+        "frasePortugues": "É encantador te ver dançar.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 128,
+        "ingles": "Mesmerizing meeting you",
+        "portugues": "Hipnotizante conhecê-lo",
+        "fraseIngles": "It's mesmerizing meeting you today.",
+        "frasePortugues": "É hipnotizante conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 129,
+        "ingles": "Spellbinding seeing you",
+        "portugues": "Fascinante te ver",
+        "fraseIngles": "It's spellbinding seeing you sing.",
+        "frasePortugues": "É fascinante te ver cantar.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 130,
+        "ingles": "Hypnotic meeting you",
+        "portugues": "Hipnótico conhecê-lo",
+        "fraseIngles": "It's hypnotic meeting you in person.",
+        "frasePortugues": "É hipnótico conhecê-lo pessoalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 131,
+        "ingles": "Magnetic seeing you",
+        "portugues": "Magnético te ver",
+        "fraseIngles": "It's magnetic seeing you on stage.",
+        "frasePortugues": "É magnético te ver no palco.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 132,
+        "ingles": "Compelling meeting you",
+        "portugues": "Convincente conhecê-lo",
+        "fraseIngles": "It's compelling meeting you today.",
+        "frasePortugues": "É convincente conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 133,
+        "ingles": "Irresistible seeing you",
+        "portugues": "Irresistível te ver",
+        "fraseIngles": "It's irresistible seeing you smile.",
+        "frasePortugues": "É irresistível te ver sorrir.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 134,
+        "ingles": "Charming meeting you",
+        "portugues": "Charmoso conhecê-lo",
+        "fraseIngles": "It's charming meeting you at this dinner.",
+        "frasePortugues": "É charmoso conhecê-lo neste jantar.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 135,
+        "ingles": "Appealing seeing you",
+        "portugues": "Atraente te ver",
+        "fraseIngles": "It's appealing seeing you so confident.",
+        "frasePortugues": "É atraente te ver tão confiante.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 136,
+        "ingles": "Alluring meeting you",
+        "portugues": "Sedutor conhecê-lo",
+        "fraseIngles": "It's alluring meeting you finally.",
+        "frasePortugues": "É sedutor conhecê-lo finalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 137,
+        "ingles": "Attractive seeing you",
+        "portugues": "Atraente te ver",
+        "fraseIngles": "It's attractive seeing you again.",
+        "frasePortugues": "É atraente te ver novamente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 138,
+        "ingles": "Engaging meeting you",
+        "portugues": "Envolvente conhecê-lo",
+        "fraseIngles": "It's engaging meeting you today.",
+        "frasePortugues": "É envolvente conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 139,
+        "ingles": "Intriguing seeing you",
+        "portugues": "Intrigante te ver",
+        "fraseIngles": "It's intriguing seeing you here.",
+        "frasePortugues": "É intrigante te ver aqui.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 140,
+        "ingles": "Mysterious meeting you",
+        "portugues": "Misterioso conhecê-lo",
+        "fraseIngles": "It's mysterious meeting you at last.",
+        "frasePortugues": "É misterioso conhecê-lo finalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 141,
+        "ingles": "Enigmatic seeing you",
+        "portugues": "Enigmático te ver",
+        "fraseIngles": "It's enigmatic seeing you perform.",
+        "frasePortugues": "É enigmático te ver apresentar.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 142,
+        "ingles": "Mystical meeting you",
+        "portugues": "Místico conhecê-lo",
+        "fraseIngles": "It's mystical meeting you today.",
+        "frasePortugues": "É místico conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 143,
+        "ingles": "Magical seeing you",
+        "portugues": "Mágico te ver",
+        "fraseIngles": "It's magical seeing you again.",
+        "frasePortugues": "É mágico te ver novamente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 144,
+        "ingles": "Miraculous meeting you",
+        "portugues": "Miraculoso conhecê-lo",
+        "fraseIngles": "It's miraculous meeting you alive.",
+        "frasePortugues": "É miraculoso conhecê-lo vivo.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 145,
+        "ingles": "Wondrous seeing you",
+        "portugues": "Maravilhoso te ver",
+        "fraseIngles": "It's wondrous seeing you recovered.",
+        "frasePortugues": "É maravilhoso te ver recuperado.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 146,
+        "ingles": "Fabulous meeting you",
+        "portugues": "Fabuloso conhecê-lo",
+        "fraseIngles": "It's fabulous meeting you in person.",
+        "frasePortugues": "É fabuloso conhecê-lo pessoalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 147,
+        "ingles": "Glorious seeing you",
+        "portugues": "Glorioso te ver",
+        "fraseIngles": "It's glorious seeing you victorious.",
+        "frasePortugues": "É glorioso te ver vitorioso.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 148,
+        "ingles": "Majestic meeting you",
+        "portugues": "Majestoso conhecê-lo",
+        "fraseIngles": "It's majestic meeting you today.",
+        "frasePortugues": "É majestoso conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 149,
+        "ingles": "Royal seeing you",
+        "portugues": "Real te ver",
+        "fraseIngles": "It's royal seeing you at the palace.",
+        "frasePortugues": "É real te ver no palácio.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 150,
+        "ingles": "Noble meeting you",
+        "portugues": "Nobre conhecê-lo",
+        "fraseIngles": "It's noble meeting you, your highness.",
+        "frasePortugues": "É nobre conhecê-lo, vossa alteza.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 151,
+        "ingles": "Dignified seeing you",
+        "portugues": "Digno te ver",
+        "fraseIngles": "It's dignified seeing you again.",
+        "frasePortugues": "É digno te ver novamente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 152,
+        "ingles": "Graceful meeting you",
+        "portugues": "Gracioso conhecê-lo",
+        "fraseIngles": "It's graceful meeting you today.",
+        "frasePortugues": "É gracioso conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 153,
+        "ingles": "Elegant seeing you",
+        "portugues": "Elegante te ver",
+        "fraseIngles": "It's elegant seeing you at the gala.",
+        "frasePortugues": "É elegante te ver na gala.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 154,
+        "ingles": "Sophisticated meeting you",
+        "portugues": "Sofisticado conhecê-lo",
+        "fraseIngles": "It's sophisticated meeting you finally.",
+        "frasePortugues": "É sofisticado conhecê-lo finalmente.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 155,
+        "ingles": "Refined seeing you",
+        "portugues": "Refinado te ver",
+        "fraseIngles": "It's refined seeing you at the opera.",
+        "frasePortugues": "É refinado te ver na ópera.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 156,
+        "ingles": "Classy meeting you",
+        "portugues": "Com classe conhecê-lo",
+        "fraseIngles": "It's classy meeting you today.",
+        "frasePortugues": "É com classe conhecê-lo hoje.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 157,
+        "ingles": "Stylish seeing you",
+        "portugues": "Elegante te ver",
+        "fraseIngles": "It's stylish seeing you at fashion week.",
+        "frasePortugues": "É elegante te ver na semana de moda.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 158,
+        "ingles": "Chic meeting you",
+        "portugues": "Chique conhecê-lo",
+        "fraseIngles": "It's chic meeting you at this boutique.",
+        "frasePortugues": "É chique conhecê-lo nesta boutique.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 159,
+        "ingles": "Trendy seeing you",
+        "portugues": "Na moda te ver",
+        "fraseIngles": "It's trendy seeing you at this café.",
+        "frasePortugues": "É moderno te ver neste café.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 160,
+        "ingles": "Hip meeting you",
+        "portugues": "Descolado conhecê-lo",
+        "fraseIngles": "It's hip meeting you at this club.",
+        "frasePortugues": "É descolado conhecê-lo neste clube.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    },
+    {
+        "id": 161,
+        "ingles": "Cool seeing you",
+        "portugues": "Legal te ver",
+        "fraseIngles": "It's cool seeing you at the skate park.",
+        "frasePortugues": "É legal te ver na pista de skate.",
+        "subtopico": "Cumprimentos",
+        "topico": "Frases"
+    }
+]

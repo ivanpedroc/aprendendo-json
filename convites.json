@@ -1,0 +1,2450 @@
+[
+    {
+        "id": 1,
+        "ingles": "Plan",
+        "portugues": "Plano",
+        "fraseIngles": "What's your plan for the weekend?",
+        "frasePortugues": "Qual é seu plano para o fim de semana?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 2,
+        "ingles": "Plans",
+        "portugues": "Planos",
+        "fraseIngles": "Do you have any plans tonight?",
+        "frasePortugues": "Você tem planos para hoje à noite?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 3,
+        "ingles": "Invite",
+        "portugues": "Convidar",
+        "fraseIngles": "I'd like to invite you to dinner.",
+        "frasePortugues": "Gostaria de convidá-lo para jantar.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 4,
+        "ingles": "Invitation",
+        "portugues": "Convite",
+        "fraseIngles": "Did you receive my invitation?",
+        "frasePortugues": "Você recebeu meu convite?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 5,
+        "ingles": "Would you like",
+        "portugues": "Gostaria de",
+        "fraseIngles": "Would you like to join us?",
+        "frasePortugues": "Gostaria de se juntar a nós?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 6,
+        "ingles": "Want to",
+        "portugues": "Quer",
+        "fraseIngles": "Do you want to go to the movies?",
+        "frasePortugues": "Você quer ir ao cinema?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 7,
+        "ingles": "How about",
+        "portugues": "Que tal",
+        "fraseIngles": "How about we meet for coffee?",
+        "frasePortugues": "Que tal nos encontrarmos para um café?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 8,
+        "ingles": "What about",
+        "portugues": "E se",
+        "fraseIngles": "What about going to the beach?",
+        "frasePortugues": "E se fôssemos à praia?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 9,
+        "ingles": "Shall we",
+        "portugues": "Vamos",
+        "fraseIngles": "Shall we have lunch together?",
+        "frasePortugues": "Vamos almoçar juntos?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 10,
+        "ingles": "Let's",
+        "portugues": "Vamos",
+        "fraseIngles": "Let's go out for dinner tonight.",
+        "frasePortugues": "Vamos sair para jantar hoje à noite.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 11,
+        "ingles": "Why don't we",
+        "portugues": "Por que não",
+        "fraseIngles": "Why don't we watch a movie?",
+        "frasePortugues": "Por que não assistimos a um filme?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 12,
+        "ingles": "Feel like",
+        "portugues": "Estar com vontade",
+        "fraseIngles": "Do you feel like going shopping?",
+        "frasePortugues": "Você está com vontade de ir às compras?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 13,
+        "ingles": "Interested",
+        "portugues": "Interessado",
+        "fraseIngles": "Are you interested in joining us?",
+        "frasePortugues": "Você está interessado em se juntar a nós?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 14,
+        "ingles": "Available",
+        "portugues": "Disponível",
+        "fraseIngles": "Are you available this Saturday?",
+        "frasePortugues": "Você está disponível neste sábado?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 15,
+        "ingles": "Free",
+        "portugues": "Livre",
+        "fraseIngles": "Are you free tomorrow evening?",
+        "frasePortugues": "Você está livre amanhã à noite?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 16,
+        "ingles": "Busy",
+        "portugues": "Ocupado",
+        "fraseIngles": "I'm busy this afternoon.",
+        "frasePortugues": "Estou ocupado esta tarde.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 17,
+        "ingles": "Schedule",
+        "portugues": "Cronograma",
+        "fraseIngles": "What's your schedule like?",
+        "frasePortugues": "Como está seu cronograma?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 18,
+        "ingles": "Time",
+        "portugues": "Tempo",
+        "fraseIngles": "Do you have time to meet?",
+        "frasePortugues": "Você tem tempo para nos encontrarmos?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 19,
+        "ingles": "Meet",
+        "portugues": "Encontrar",
+        "fraseIngles": "Where should we meet?",
+        "frasePortugues": "Onde devemos nos encontrar?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 20,
+        "ingles": "Get together",
+        "portugues": "Se reunir",
+        "fraseIngles": "Let's get together soon.",
+        "frasePortugues": "Vamos nos reunir em breve.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 21,
+        "ingles": "Hang out",
+        "portugues": "Sair",
+        "fraseIngles": "Do you want to hang out later?",
+        "frasePortugues": "Você quer sair mais tarde?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 22,
+        "ingles": "Spend time",
+        "portugues": "Passar tempo",
+        "fraseIngles": "I'd love to spend time with you.",
+        "frasePortugues": "Adoraria passar tempo com você.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 23,
+        "ingles": "Join",
+        "portugues": "Participar",
+        "fraseIngles": "Would you like to join our group?",
+        "frasePortugues": "Gostaria de participar do nosso grupo?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 24,
+        "ingles": "Come",
+        "portugues": "Vir",
+        "fraseIngles": "Can you come to my party?",
+        "frasePortugues": "Você pode vir à minha festa?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 25,
+        "ingles": "Attend",
+        "portugues": "Participar",
+        "fraseIngles": "Will you attend the conference?",
+        "frasePortugues": "Você participará da conferência?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 26,
+        "ingles": "Participate",
+        "portugues": "Participar",
+        "fraseIngles": "Everyone can participate in the game.",
+        "frasePortugues": "Todos podem participar do jogo.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 27,
+        "ingles": "Include",
+        "portugues": "Incluir",
+        "fraseIngles": "We'd like to include you.",
+        "frasePortugues": "Gostaríamos de incluí-lo.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 28,
+        "ingles": "Bring",
+        "portugues": "Trazer",
+        "fraseIngles": "Feel free to bring a friend.",
+        "frasePortugues": "Sinta-se livre para trazer um amigo.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 29,
+        "ingles": "Take",
+        "portugues": "Levar",
+        "fraseIngles": "I can take you to the airport.",
+        "frasePortugues": "Posso levá-lo ao aeroporto.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 30,
+        "ingles": "Pick up",
+        "portugues": "Buscar",
+        "fraseIngles": "I'll pick you up at eight.",
+        "frasePortugues": "Te busco às oito.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 31,
+        "ingles": "Drive",
+        "portugues": "Dirigir",
+        "fraseIngles": "I can drive us there.",
+        "frasePortugues": "Posso nos dirigir até lá.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 32,
+        "ingles": "Walk",
+        "portugues": "Caminhar",
+        "fraseIngles": "Shall we walk to the restaurant?",
+        "frasePortugues": "Vamos caminhar até o restaurante?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 33,
+        "ingles": "Suggest",
+        "portugues": "Sugerir",
+        "fraseIngles": "I suggest we meet at noon.",
+        "frasePortugues": "Sugiro que nos encontremos ao meio-dia.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 34,
+        "ingles": "Propose",
+        "portugues": "Propor",
+        "fraseIngles": "I propose we go hiking.",
+        "frasePortugues": "Proponho que façamos trilha.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 35,
+        "ingles": "Recommend",
+        "portugues": "Recomendar",
+        "fraseIngles": "I recommend this restaurant.",
+        "frasePortugues": "Recomendo este restaurante.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 36,
+        "ingles": "Idea",
+        "portugues": "Ideia",
+        "fraseIngles": "That's a great idea!",
+        "frasePortugues": "Essa é uma ótima ideia!",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 37,
+        "ingles": "Suggestion",
+        "portugues": "Sugestão",
+        "fraseIngles": "Do you have any suggestions?",
+        "frasePortugues": "Você tem alguma sugestão?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 38,
+        "ingles": "Option",
+        "portugues": "Opção",
+        "fraseIngles": "We have several options.",
+        "frasePortugues": "Temos várias opções.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 39,
+        "ingles": "Choice",
+        "portugues": "Escolha",
+        "fraseIngles": "The choice is yours.",
+        "frasePortugues": "A escolha é sua.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 40,
+        "ingles": "Decide",
+        "portugues": "Decidir",
+        "fraseIngles": "Let's decide together.",
+        "frasePortugues": "Vamos decidir juntos.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 41,
+        "ingles": "Choose",
+        "portugues": "Escolher",
+        "fraseIngles": "You can choose the place.",
+        "frasePortugues": "Você pode escolher o lugar.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 42,
+        "ingles": "Pick",
+        "portugues": "Escolher",
+        "fraseIngles": "Pick whatever you prefer.",
+        "frasePortugues": "Escolha o que você preferir.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 43,
+        "ingles": "Prefer",
+        "portugues": "Preferir",
+        "fraseIngles": "I prefer Italian food.",
+        "frasePortugues": "Prefiro comida italiana.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 44,
+        "ingles": "Like",
+        "portugues": "Gostar",
+        "fraseIngles": "What would you like to do?",
+        "frasePortugues": "O que você gostaria de fazer?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 45,
+        "ingles": "Love",
+        "portugues": "Adorar",
+        "fraseIngles": "I'd love to come!",
+        "frasePortugues": "Adoraria vir!",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 46,
+        "ingles": "Enjoy",
+        "portugues": "Aproveitar",
+        "fraseIngles": "I always enjoy your company.",
+        "frasePortugues": "Sempre aproveito sua companhia.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 47,
+        "ingles": "Fun",
+        "portugues": "Diversão",
+        "fraseIngles": "It will be fun!",
+        "frasePortugues": "Será divertido!",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 48,
+        "ingles": "Exciting",
+        "portugues": "Emocionante",
+        "fraseIngles": "This sounds exciting!",
+        "frasePortugues": "Isso parece emocionante!",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 49,
+        "ingles": "Interesting",
+        "portugues": "Interessante",
+        "fraseIngles": "That sounds very interesting.",
+        "frasePortugues": "Isso parece muito interessante.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 50,
+        "ingles": "Great",
+        "portugues": "Ótimo",
+        "fraseIngles": "That sounds great to me.",
+        "frasePortugues": "Isso parece ótimo para mim.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 51,
+        "ingles": "Perfect",
+        "portugues": "Perfeito",
+        "fraseIngles": "That time is perfect for me.",
+        "frasePortugues": "Esse horário é perfeito para mim.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 52,
+        "ingles": "Wonderful",
+        "portugues": "Maravilhoso",
+        "fraseIngles": "What a wonderful idea!",
+        "frasePortugues": "Que ideia maravilhosa!",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 53,
+        "ingles": "Excellent",
+        "portugues": "Excelente",
+        "fraseIngles": "That's an excellent suggestion.",
+        "frasePortugues": "Essa é uma sugestão excelente.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 54,
+        "ingles": "Fantastic",
+        "portugues": "Fantástico",
+        "fraseIngles": "That sounds fantastic!",
+        "frasePortugues": "Isso parece fantástico!",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 55,
+        "ingles": "Amazing",
+        "portugues": "Incrível",
+        "fraseIngles": "This will be amazing!",
+        "frasePortugues": "Isso será incrível!",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 56,
+        "ingles": "Awesome",
+        "portugues": "Incrível",
+        "fraseIngles": "That's awesome! Count me in.",
+        "frasePortugues": "Isso é incrível! Podem contar comigo.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 57,
+        "ingles": "Cool",
+        "portugues": "Legal",
+        "fraseIngles": "That's really cool!",
+        "frasePortugues": "Isso é realmente legal!",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 58,
+        "ingles": "Nice",
+        "portugues": "Legal",
+        "fraseIngles": "That would be nice.",
+        "frasePortugues": "Isso seria legal.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 59,
+        "ingles": "Good",
+        "portugues": "Bom",
+        "fraseIngles": "That sounds good to me.",
+        "frasePortugues": "Isso parece bom para mim.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 60,
+        "ingles": "Fine",
+        "portugues": "Tudo bem",
+        "fraseIngles": "That's fine with me.",
+        "frasePortugues": "Tudo bem para mim.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 61,
+        "ingles": "Okay",
+        "portugues": "Ok",
+        "fraseIngles": "Okay, let's do it!",
+        "frasePortugues": "Ok, vamos fazer isso!",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 62,
+        "ingles": "Alright",
+        "portugues": "Tudo bem",
+        "fraseIngles": "Alright, I'll be there.",
+        "frasePortugues": "Tudo bem, estarei lá.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 63,
+        "ingles": "Sure",
+        "portugues": "Claro",
+        "fraseIngles": "Sure, I'd be happy to join.",
+        "frasePortugues": "Claro, ficaria feliz em participar.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 64,
+        "ingles": "Absolutely",
+        "portugues": "Absolutamente",
+        "fraseIngles": "Absolutely! I'm in.",
+        "frasePortugues": "Absolutamente! Estou dentro.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 65,
+        "ingles": "Definitely",
+        "portugues": "Definitivamente",
+        "fraseIngles": "I'll definitely be there.",
+        "frasePortugues": "Definitivamente estarei lá.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 66,
+        "ingles": "Certainly",
+        "portugues": "Certamente",
+        "fraseIngles": "I can certainly make it.",
+        "frasePortugues": "Certamente posso ir.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 67,
+        "ingles": "Of course",
+        "portugues": "Claro",
+        "fraseIngles": "Of course I'll come!",
+        "frasePortugues": "Claro que eu vou!",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 68,
+        "ingles": "Yes",
+        "portugues": "Sim",
+        "fraseIngles": "Yes, that works for me.",
+        "frasePortugues": "Sim, isso funciona para mim.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 69,
+        "ingles": "Accept",
+        "portugues": "Aceitar",
+        "fraseIngles": "I accept your invitation.",
+        "frasePortugues": "Aceito seu convite.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 70,
+        "ingles": "Agree",
+        "portugues": "Concordar",
+        "fraseIngles": "I agree with your plan.",
+        "frasePortugues": "Concordo com seu plano.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 71,
+        "ingles": "Confirm",
+        "portugues": "Confirmar",
+        "fraseIngles": "Let me confirm the details.",
+        "frasePortugues": "Deixe-me confirmar os detalhes.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 72,
+        "ingles": "RSVP",
+        "portugues": "Confirmar presença",
+        "fraseIngles": "Please RSVP by Friday.",
+        "frasePortugues": "Por favor, confirme presença até sexta.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 73,
+        "ingles": "Respond",
+        "portugues": "Responder",
+        "fraseIngles": "Please respond by tomorrow.",
+        "frasePortugues": "Por favor, responda até amanhã.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 74,
+        "ingles": "Reply",
+        "portugues": "Responder",
+        "fraseIngles": "I'll reply with my answer soon.",
+        "frasePortugues": "Responderei com minha resposta em breve.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 75,
+        "ingles": "Let me know",
+        "portugues": "Me avise",
+        "fraseIngles": "Let me know if you can make it.",
+        "frasePortugues": "Me avise se você pode ir.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 76,
+        "ingles": "Tell me",
+        "portugues": "Me diga",
+        "fraseIngles": "Tell me what you think.",
+        "frasePortugues": "Me diga o que você acha.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 77,
+        "ingles": "Inform",
+        "portugues": "Informar",
+        "fraseIngles": "Please inform me of your decision.",
+        "frasePortugues": "Por favor, me informe sua decisão.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 78,
+        "ingles": "Sorry",
+        "portugues": "Desculpa",
+        "fraseIngles": "Sorry, I can't make it.",
+        "frasePortugues": "Desculpa, não posso ir.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 79,
+        "ingles": "Unfortunately",
+        "portugues": "Infelizmente",
+        "fraseIngles": "Unfortunately, I'm not available.",
+        "frasePortugues": "Infelizmente, não estou disponível.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 80,
+        "ingles": "Can't",
+        "portugues": "Não posso",
+        "fraseIngles": "I can't come tonight.",
+        "frasePortugues": "Não posso vir hoje à noite.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 81,
+        "ingles": "Unable",
+        "portugues": "Incapaz",
+        "fraseIngles": "I'm unable to attend.",
+        "frasePortugues": "Não posso comparecer.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 82,
+        "ingles": "Busy",
+        "portugues": "Ocupado",
+        "fraseIngles": "I'm busy that day.",
+        "frasePortugues": "Estou ocupado naquele dia.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 83,
+        "ingles": "Previous commitment",
+        "portugues": "Compromisso anterior",
+        "fraseIngles": "I have a previous commitment.",
+        "frasePortugues": "Tenho um compromisso anterior.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 84,
+        "ingles": "Conflict",
+        "portugues": "Conflito",
+        "fraseIngles": "There's a schedule conflict.",
+        "frasePortugues": "Há um conflito de horário.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 85,
+        "ingles": "Overlap",
+        "portugues": "Sobreposição",
+        "fraseIngles": "My meetings overlap that day.",
+        "frasePortugues": "Minhas reuniões se sobrepõem naquele dia.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 86,
+        "ingles": "Decline",
+        "portugues": "Recusar",
+        "fraseIngles": "I have to decline your invitation.",
+        "frasePortugues": "Tenho que recusar seu convite.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 87,
+        "ingles": "Refuse",
+        "portugues": "Recusar",
+        "fraseIngles": "I must refuse this time.",
+        "frasePortugues": "Devo recusar desta vez.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 88,
+        "ingles": "Pass",
+        "portugues": "Passar",
+        "fraseIngles": "I'll have to pass on this one.",
+        "frasePortugues": "Vou ter que passar desta.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 89,
+        "ingles": "Skip",
+        "portugues": "Pular",
+        "fraseIngles": "I might skip dinner tonight.",
+        "frasePortugues": "Posso pular o jantar hoje à noite.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 90,
+        "ingles": "Miss",
+        "portugues": "Perder",
+        "fraseIngles": "I don't want to miss this event.",
+        "frasePortugues": "Não quero perder este evento.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 91,
+        "ingles": "Rain check",
+        "portugues": "Deixar para outra hora",
+        "fraseIngles": "Can I take a rain check?",
+        "frasePortugues": "Posso deixar para outra hora?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 92,
+        "ingles": "Postpone",
+        "portugues": "Adiar",
+        "fraseIngles": "Should we postpone until next week?",
+        "frasePortugues": "Devemos adiar para a próxima semana?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 93,
+        "ingles": "Reschedule",
+        "portugues": "Reagendar",
+        "fraseIngles": "Let's reschedule for tomorrow.",
+        "frasePortugues": "Vamos reagendar para amanhã.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 94,
+        "ingles": "Delay",
+        "portugues": "Atrasar",
+        "fraseIngles": "We might need to delay the start.",
+        "frasePortugues": "Talvez precisemos atrasar o início.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 95,
+        "ingles": "Cancel",
+        "portugues": "Cancelar",
+        "fraseIngles": "I hate to cancel, but...",
+        "frasePortugues": "Odeio cancelar, mas...",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 96,
+        "ingles": "Change",
+        "portugues": "Mudar",
+        "fraseIngles": "Do we need to change the time?",
+        "frasePortugues": "Precisamos mudar o horário?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 97,
+        "ingles": "Move",
+        "portugues": "Mover",
+        "fraseIngles": "Can we move it to Saturday?",
+        "frasePortugues": "Podemos mudar para sábado?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 98,
+        "ingles": "Switch",
+        "portugues": "Trocar",
+        "fraseIngles": "Let's switch to a different day.",
+        "frasePortugues": "Vamos trocar para um dia diferente.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 99,
+        "ingles": "Adjust",
+        "portugues": "Ajustar",
+        "fraseIngles": "Can we adjust the timing?",
+        "frasePortugues": "Podemos ajustar o horário?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 100,
+        "ingles": "Modify",
+        "portugues": "Modificar",
+        "fraseIngles": "We might need to modify our plans.",
+        "frasePortugues": "Talvez precisemos modificar nossos planos.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 101,
+        "ingles": "Alternative",
+        "portugues": "Alternativa",
+        "fraseIngles": "Do you have an alternative?",
+        "frasePortugues": "Você tem uma alternativa?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 102,
+        "ingles": "Backup plan",
+        "portugues": "Plano B",
+        "fraseIngles": "What's our backup plan?",
+        "frasePortugues": "Qual é nosso plano B?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 103,
+        "ingles": "Option B",
+        "portugues": "Opção B",
+        "fraseIngles": "Let's go with option B.",
+        "frasePortugues": "Vamos com a opção B.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 104,
+        "ingles": "Instead",
+        "portugues": "Em vez de",
+        "fraseIngles": "How about pizza instead?",
+        "frasePortugues": "Que tal pizza em vez disso?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 105,
+        "ingles": "Rather",
+        "portugues": "Preferivelmente",
+        "fraseIngles": "I'd rather stay home tonight.",
+        "frasePortugues": "Preferiria ficar em casa hoje à noite.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 106,
+        "ingles": "Different",
+        "portugues": "Diferente",
+        "fraseIngles": "Let's try something different.",
+        "frasePortugues": "Vamos tentar algo diferente.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 107,
+        "ingles": "Another",
+        "portugues": "Outro",
+        "fraseIngles": "How about another restaurant?",
+        "frasePortugues": "Que tal outro restaurante?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 108,
+        "ingles": "Other",
+        "portugues": "Outro",
+        "fraseIngles": "Any other suggestions?",
+        "frasePortugues": "Alguma outra sugestão?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 109,
+        "ingles": "Else",
+        "portugues": "Mais",
+        "fraseIngles": "What else can we do?",
+        "frasePortugues": "O que mais podemos fazer?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 110,
+        "ingles": "When",
+        "portugues": "Quando",
+        "fraseIngles": "When are you available?",
+        "frasePortugues": "Quando você está disponível?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 111,
+        "ingles": "What time",
+        "portugues": "Que horas",
+        "fraseIngles": "What time works for you?",
+        "frasePortugues": "Que horas funciona para você?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 112,
+        "ingles": "Where",
+        "portugues": "Onde",
+        "fraseIngles": "Where should we meet?",
+        "frasePortugues": "Onde devemos nos encontrar?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 113,
+        "ingles": "Which",
+        "portugues": "Qual",
+        "fraseIngles": "Which restaurant do you prefer?",
+        "frasePortugues": "Qual restaurante você prefere?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 114,
+        "ingles": "Who",
+        "portugues": "Quem",
+        "fraseIngles": "Who else is coming?",
+        "frasePortugues": "Quem mais está vindo?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 115,
+        "ingles": "How",
+        "portugues": "Como",
+        "fraseIngles": "How should we get there?",
+        "frasePortugues": "Como devemos chegar lá?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 116,
+        "ingles": "Why",
+        "portugues": "Por que",
+        "fraseIngles": "Why don't we try that new place?",
+        "frasePortugues": "Por que não tentamos aquele lugar novo?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 117,
+        "ingles": "Location",
+        "portugues": "Local",
+        "fraseIngles": "What's a good location to meet?",
+        "frasePortugues": "Qual é um bom local para nos encontrarmos?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 118,
+        "ingles": "Place",
+        "portugues": "Lugar",
+        "fraseIngles": "Do you know a good place?",
+        "frasePortugues": "Você conhece um bom lugar?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 119,
+        "ingles": "Venue",
+        "portugues": "Local",
+        "fraseIngles": "The venue is perfect for parties.",
+        "frasePortugues": "O local é perfeito para festas.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 120,
+        "ingles": "Spot",
+        "portugues": "Local",
+        "fraseIngles": "I know the perfect spot.",
+        "frasePortugues": "Conheço o local perfeito.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 121,
+        "ingles": "Address",
+        "portugues": "Endereço",
+        "fraseIngles": "What's the address?",
+        "frasePortugues": "Qual é o endereço?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 122,
+        "ingles": "Directions",
+        "portugues": "Direções",
+        "fraseIngles": "Can you give me directions?",
+        "frasePortugues": "Pode me dar direções?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 123,
+        "ingles": "Map",
+        "portugues": "Mapa",
+        "fraseIngles": "I'll send you a map.",
+        "frasePortugues": "Te enviarei um mapa.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 124,
+        "ingles": "GPS",
+        "portugues": "GPS",
+        "fraseIngles": "Just follow your GPS.",
+        "frasePortugues": "Apenas siga seu GPS.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 125,
+        "ingles": "Transport",
+        "portugues": "Transporte",
+        "fraseIngles": "How will you get there?",
+        "frasePortugues": "Como você chegará lá?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 126,
+        "ingles": "Transportation",
+        "portugues": "Transporte",
+        "fraseIngles": "I can arrange transportation.",
+        "frasePortugues": "Posso organizar transporte.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 127,
+        "ingles": "Ride",
+        "portugues": "Carona",
+        "fraseIngles": "Do you need a ride?",
+        "frasePortugues": "Você precisa de carona?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 128,
+        "ingles": "Lift",
+        "portugues": "Carona",
+        "fraseIngles": "I can give you a lift.",
+        "frasePortugues": "Posso te dar uma carona.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 129,
+        "ingles": "Car",
+        "portugues": "Carro",
+        "fraseIngles": "Should we take my car?",
+        "frasePortugues": "Devemos levar meu carro?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 130,
+        "ingles": "Taxi",
+        "portugues": "Táxi",
+        "fraseIngles": "We can call a taxi.",
+        "frasePortugues": "Podemos chamar um táxi.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 131,
+        "ingles": "Uber",
+        "portugues": "Uber",
+        "fraseIngles": "Let's order an Uber.",
+        "frasePortugues": "Vamos pedir um Uber.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 132,
+        "ingles": "Public transport",
+        "portugues": "Transporte público",
+        "fraseIngles": "Public transport is convenient.",
+        "frasePortugues": "Transporte público é conveniente.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 133,
+        "ingles": "Bus",
+        "portugues": "Ônibus",
+        "fraseIngles": "The bus stop is nearby.",
+        "frasePortugues": "O ponto de ônibus fica perto.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 134,
+        "ingles": "Train",
+        "portugues": "Trem",
+        "fraseIngles": "The train is faster.",
+        "frasePortugues": "O trem é mais rápido.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 135,
+        "ingles": "Subway",
+        "portugues": "Metrô",
+        "fraseIngles": "Take the subway to downtown.",
+        "frasePortugues": "Pegue o metrô para o centro.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 136,
+        "ingles": "Walk",
+        "portugues": "Caminhar",
+        "fraseIngles": "We could walk there.",
+        "frasePortugues": "Poderíamos caminhar até lá.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 137,
+        "ingles": "Distance",
+        "portugues": "Distância",
+        "fraseIngles": "What's the distance?",
+        "frasePortugues": "Qual é a distância?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 138,
+        "ingles": "Far",
+        "portugues": "Longe",
+        "fraseIngles": "Is it far from here?",
+        "frasePortugues": "Fica longe daqui?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 139,
+        "ingles": "Close",
+        "portugues": "Perto",
+        "fraseIngles": "It's close to my house.",
+        "frasePortugues": "Fica perto da minha casa.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 140,
+        "ingles": "Near",
+        "portugues": "Perto",
+        "fraseIngles": "Is there anything near you?",
+        "frasePortugues": "Há algo perto de você?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 141,
+        "ingles": "Nearby",
+        "portugues": "Por perto",
+        "fraseIngles": "There's a café nearby.",
+        "frasePortugues": "Há um café por perto.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 142,
+        "ingles": "Around",
+        "portugues": "Por aí",
+        "fraseIngles": "Is there anything good around here?",
+        "frasePortugues": "Há algo bom por aqui?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 143,
+        "ingles": "Convenient",
+        "portugues": "Conveniente",
+        "fraseIngles": "What's convenient for you?",
+        "frasePortugues": "O que é conveniente para você?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 144,
+        "ingles": "Easy",
+        "portugues": "Fácil",
+        "fraseIngles": "Choose somewhere easy to find.",
+        "frasePortugues": "Escolha algum lugar fácil de encontrar.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 145,
+        "ingles": "Accessible",
+        "portugues": "Acessível",
+        "fraseIngles": "The location is wheelchair accessible.",
+        "frasePortugues": "O local é acessível para cadeiras de rodas.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 146,
+        "ingles": "Parking",
+        "portugues": "Estacionamento",
+        "fraseIngles": "Is there parking available?",
+        "frasePortugues": "Há estacionamento disponível?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 147,
+        "ingles": "Tonight",
+        "portugues": "Hoje à noite",
+        "fraseIngles": "Are you free tonight?",
+        "frasePortugues": "Você está livre hoje à noite?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 148,
+        "ingles": "Tomorrow",
+        "portugues": "Amanhã",
+        "fraseIngles": "How about tomorrow?",
+        "frasePortugues": "Que tal amanhã?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 149,
+        "ingles": "Weekend",
+        "portugues": "Fim de semana",
+        "fraseIngles": "Do you have weekend plans?",
+        "frasePortugues": "Você tem planos para o fim de semana?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 150,
+        "ingles": "Saturday",
+        "portugues": "Sábado",
+        "fraseIngles": "Saturday works for me.",
+        "frasePortugues": "Sábado funciona para mim.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 151,
+        "ingles": "Sunday",
+        "portugues": "Domingo",
+        "fraseIngles": "Are you free on Sunday?",
+        "frasePortugues": "Você está livre no domingo?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 152,
+        "ingles": "Monday",
+        "portugues": "Segunda-feira",
+        "fraseIngles": "Let's meet Monday morning.",
+        "frasePortugues": "Vamos nos encontrar segunda de manhã.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 153,
+        "ingles": "Tuesday",
+        "portugues": "Terça-feira",
+        "fraseIngles": "Tuesday evening is perfect.",
+        "frasePortugues": "Terça à noite é perfeita.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 154,
+        "ingles": "Wednesday",
+        "portugues": "Quarta-feira",
+        "fraseIngles": "Wednesday lunch sounds good.",
+        "frasePortugues": "Almoço de quarta parece bom.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 155,
+        "ingles": "Thursday",
+        "portugues": "Quinta-feira",
+        "fraseIngles": "Thursday is my only free day.",
+        "frasePortugues": "Quinta é meu único dia livre.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 156,
+        "ingles": "Friday",
+        "portugues": "Sexta-feira",
+        "fraseIngles": "Friday night is party time!",
+        "frasePortugues": "Sexta à noite é hora da festa!",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 157,
+        "ingles": "This week",
+        "portugues": "Esta semana",
+        "fraseIngles": "I'm busy this week.",
+        "frasePortugues": "Estou ocupado esta semana.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 158,
+        "ingles": "Next week",
+        "portugues": "Próxima semana",
+        "fraseIngles": "How about next week?",
+        "frasePortugues": "Que tal na próxima semana?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 159,
+        "ingles": "Month",
+        "portugues": "Mês",
+        "fraseIngles": "Maybe next month?",
+        "frasePortugues": "Talvez no próximo mês?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 160,
+        "ingles": "Year",
+        "portugues": "Ano",
+        "fraseIngles": "We should plan a trip this year.",
+        "frasePortugues": "Devemos planejar uma viagem este ano.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 161,
+        "ingles": "Morning",
+        "portugues": "Manhã",
+        "fraseIngles": "Are you free in the morning?",
+        "frasePortugues": "Você está livre de manhã?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 162,
+        "ingles": "Afternoon",
+        "portugues": "Tarde",
+        "fraseIngles": "Afternoon works better for me.",
+        "frasePortugues": "Tarde funciona melhor para mim.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 163,
+        "ingles": "Evening",
+        "portugues": "Noite",
+        "fraseIngles": "Evening is perfect.",
+        "frasePortugues": "Noite é perfeita.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 164,
+        "ingles": "Night",
+        "portugues": "Noite",
+        "fraseIngles": "Late night isn't good for me.",
+        "frasePortugues": "Muito tarde não é bom para mim.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 165,
+        "ingles": "Early",
+        "portugues": "Cedo",
+        "fraseIngles": "How about early morning?",
+        "frasePortugues": "Que tal cedo de manhã?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 166,
+        "ingles": "Late",
+        "portugues": "Tarde",
+        "fraseIngles": "I don't mind staying late.",
+        "frasePortugues": "Não me importo de ficar até tarde.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 167,
+        "ingles": "Noon",
+        "portugues": "Meio-dia",
+        "fraseIngles": "Let's meet at noon.",
+        "frasePortugues": "Vamos nos encontrar ao meio-dia.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 168,
+        "ingles": "Midnight",
+        "portugues": "Meia-noite",
+        "fraseIngles": "The party goes until midnight.",
+        "frasePortugues": "A festa vai até meia-noite.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 169,
+        "ingles": "Specific time",
+        "portugues": "Horário específico",
+        "fraseIngles": "Do you need a specific time?",
+        "frasePortugues": "Você precisa de um horário específico?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 170,
+        "ingles": "Flexible",
+        "portugues": "Flexível",
+        "fraseIngles": "I'm flexible with timing.",
+        "frasePortugues": "Sou flexível com horários.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 171,
+        "ingles": "Fixed",
+        "portugues": "Fixo",
+        "fraseIngles": "The time is fixed at 7 PM.",
+        "frasePortugues": "O horário é fixo às 19h.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 172,
+        "ingles": "Appointment",
+        "portugues": "Agendamento",
+        "fraseIngles": "Do we need to make an appointment?",
+        "frasePortugues": "Precisamos fazer um agendamento?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 173,
+        "ingles": "Reservation",
+        "portugues": "Reserva",
+        "fraseIngles": "I'll make a reservation.",
+        "frasePortugues": "Farei uma reserva.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 174,
+        "ingles": "Book",
+        "portugues": "Reservar",
+        "fraseIngles": "Should I book a table?",
+        "frasePortugues": "Devo reservar uma mesa?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 175,
+        "ingles": "Reserve",
+        "portugues": "Reservar",
+        "fraseIngles": "Let me reserve us a spot.",
+        "frasePortugues": "Deixe-me reservar um lugar para nós.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 176,
+        "ingles": "Table",
+        "portugues": "Mesa",
+        "fraseIngles": "I'll book a table for four.",
+        "frasePortugues": "Reservarei uma mesa para quatro.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 177,
+        "ingles": "Seats",
+        "portugues": "Lugares",
+        "fraseIngles": "How many seats do we need?",
+        "frasePortugues": "Quantos lugares precisamos?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 178,
+        "ingles": "Tickets",
+        "portugues": "Ingressos",
+        "fraseIngles": "Do we need to buy tickets?",
+        "frasePortugues": "Precisamos comprar ingressos?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 179,
+        "ingles": "Admission",
+        "portugues": "Entrada",
+        "fraseIngles": "What's the admission fee?",
+        "frasePortugues": "Qual é a taxa de entrada?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 180,
+        "ingles": "Entry",
+        "portugues": "Entrada",
+        "fraseIngles": "Entry is free before 6 PM.",
+        "frasePortugues": "Entrada é gratuita antes das 18h.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 181,
+        "ingles": "Cost",
+        "portugues": "Custo",
+        "fraseIngles": "What's the cost per person?",
+        "frasePortugues": "Qual é o custo por pessoa?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 182,
+        "ingles": "Price",
+        "portugues": "Preço",
+        "fraseIngles": "The price includes dinner.",
+        "frasePortugues": "O preço inclui jantar.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 183,
+        "ingles": "Expensive",
+        "portugues": "Caro",
+        "fraseIngles": "This restaurant is expensive.",
+        "frasePortugues": "Este restaurante é caro.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 184,
+        "ingles": "Cheap",
+        "portugues": "Barato",
+        "fraseIngles": "I know a cheap place.",
+        "frasePortugues": "Conheço um lugar barato.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 185,
+        "ingles": "Affordable",
+        "portugues": "Acessível",
+        "fraseIngles": "Let's find somewhere affordable.",
+        "frasePortugues": "Vamos encontrar algum lugar acessível.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 186,
+        "ingles": "Budget",
+        "portugues": "Orçamento",
+        "fraseIngles": "What's your budget?",
+        "frasePortugues": "Qual é seu orçamento?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 187,
+        "ingles": "Free",
+        "portugues": "Gratuito",
+        "fraseIngles": "The concert is free.",
+        "frasePortugues": "O show é gratuito.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 188,
+        "ingles": "Pay",
+        "portugues": "Pagar",
+        "fraseIngles": "I'll pay for dinner.",
+        "frasePortugues": "Eu pago o jantar.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 189,
+        "ingles": "Split",
+        "portugues": "Dividir",
+        "fraseIngles": "Should we split the bill?",
+        "frasePortugues": "Devemos dividir a conta?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 190,
+        "ingles": "Share",
+        "portugues": "Compartilhar",
+        "fraseIngles": "We can share the cost.",
+        "frasePortugues": "Podemos compartilhar o custo.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 191,
+        "ingles": "Treat",
+        "portugues": "Pagar para",
+        "fraseIngles": "This is my treat.",
+        "frasePortugues": "Esta é por minha conta.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 192,
+        "ingles": "Dutch",
+        "portugues": "Dividir igualmente",
+        "fraseIngles": "Let's go Dutch.",
+        "frasePortugues": "Vamos rachar.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 193,
+        "ingles": "Party",
+        "portugues": "Festa",
+        "fraseIngles": "Are you having a party?",
+        "frasePortugues": "Você vai dar uma festa?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 194,
+        "ingles": "Celebration",
+        "portugues": "Celebração",
+        "fraseIngles": "It's a birthday celebration.",
+        "frasePortugues": "É uma celebração de aniversário.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 195,
+        "ingles": "Event",
+        "portugues": "Evento",
+        "fraseIngles": "What kind of event is it?",
+        "frasePortugues": "Que tipo de evento é?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 196,
+        "ingles": "Gathering",
+        "portugues": "Reunião",
+        "fraseIngles": "It's just a small gathering.",
+        "frasePortugues": "É apenas uma pequena reunião.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 197,
+        "ingles": "Get-together",
+        "portugues": "Encontro",
+        "fraseIngles": "We're having a get-together.",
+        "frasePortugues": "Vamos ter um encontro.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 198,
+        "ingles": "Reunion",
+        "portugues": "Reunião",
+        "fraseIngles": "It's our class reunion.",
+        "frasePortugues": "É nossa reunião de turma.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 199,
+        "ingles": "Potluck",
+        "portugues": "Cada um traz um prato",
+        "fraseIngles": "It's a potluck dinner.",
+        "frasePortugues": "É um jantar onde cada um traz um prato.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 200,
+        "ingles": "Barbecue",
+        "portugues": "Churrasco",
+        "fraseIngles": "We're having a barbecue.",
+        "frasePortugues": "Vamos ter um churrasco.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 201,
+        "ingles": "Picnic",
+        "portugues": "Piquenique",
+        "fraseIngles": "How about a picnic in the park?",
+        "frasePortugues": "Que tal um piquenique no parque?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 202,
+        "ingles": "Dinner party",
+        "portugues": "Jantar",
+        "fraseIngles": "I'm hosting a dinner party.",
+        "frasePortugues": "Estou dando um jantar.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 203,
+        "ingles": "Birthday",
+        "portugues": "Aniversário",
+        "fraseIngles": "It's my birthday next week.",
+        "frasePortugues": "É meu aniversário na próxima semana.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 204,
+        "ingles": "Anniversary",
+        "portugues": "Aniversário",
+        "fraseIngles": "It's our wedding anniversary.",
+        "frasePortugues": "É nosso aniversário de casamento.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 205,
+        "ingles": "Wedding",
+        "portugues": "Casamento",
+        "fraseIngles": "Are you coming to the wedding?",
+        "frasePortugues": "Você vem ao casamento?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 206,
+        "ingles": "Graduation",
+        "portugues": "Formatura",
+        "fraseIngles": "The graduation ceremony is Saturday.",
+        "frasePortugues": "A cerimônia de formatura é sábado.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 207,
+        "ingles": "Holiday",
+        "portugues": "Feriado",
+        "fraseIngles": "What are your holiday plans?",
+        "frasePortugues": "Quais são seus planos para o feriado?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 208,
+        "ingles": "Christmas",
+        "portugues": "Natal",
+        "fraseIngles": "What are you doing for Christmas?",
+        "frasePortugues": "O que você fará no Natal?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 209,
+        "ingles": "New Year",
+        "portugues": "Ano Novo",
+        "fraseIngles": "New Year's Eve party at my place!",
+        "frasePortugues": "Festa de Ano Novo na minha casa!",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 210,
+        "ingles": "Valentine's Day",
+        "portugues": "Dia dos Namorados",
+        "fraseIngles": "Any Valentine's Day plans?",
+        "frasePortugues": "Algum plano para o Dia dos Namorados?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 211,
+        "ingles": "Halloween",
+        "portugues": "Dia das Bruxas",
+        "fraseIngles": "Are you dressing up for Halloween?",
+        "frasePortugues": "Você vai se fantasiar para o Halloween?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 212,
+        "ingles": "Thanksgiving",
+        "portugues": "Ação de Graças",
+        "fraseIngles": "Thanksgiving dinner is at 3 PM.",
+        "frasePortugues": "Jantar de Ação de Graças é às 15h.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 213,
+        "ingles": "Easter",
+        "portugues": "Páscoa",
+        "fraseIngles": "Easter brunch sounds lovely.",
+        "frasePortugues": "Brunch de Páscoa parece adorável.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 214,
+        "ingles": "Activity",
+        "portugues": "Atividade",
+        "fraseIngles": "What activity do you suggest?",
+        "frasePortugues": "Que atividade você sugere?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 215,
+        "ingles": "Entertainment",
+        "portugues": "Entretenimento",
+        "fraseIngles": "What kind of entertainment?",
+        "frasePortugues": "Que tipo de entretenimento?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 216,
+        "ingles": "Movie",
+        "portugues": "Filme",
+        "fraseIngles": "There's a good movie playing.",
+        "frasePortugues": "Há um bom filme em cartaz.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 217,
+        "ingles": "Concert",
+        "portugues": "Show",
+        "fraseIngles": "The concert is sold out.",
+        "frasePortugues": "O show está esgotado.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 218,
+        "ingles": "Theater",
+        "portugues": "Teatro",
+        "fraseIngles": "Let's go to the theater.",
+        "frasePortugues": "Vamos ao teatro.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 219,
+        "ingles": "Show",
+        "portugues": "Espetáculo",
+        "fraseIngles": "The show gets great reviews.",
+        "frasePortugues": "O espetáculo tem ótimas críticas.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 220,
+        "ingles": "Performance",
+        "portugues": "Apresentação",
+        "fraseIngles": "The performance starts at 8.",
+        "frasePortugues": "A apresentação começa às 8.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 221,
+        "ingles": "Play",
+        "portugues": "Peça",
+        "fraseIngles": "It's a new play downtown.",
+        "frasePortugues": "É uma peça nova no centro.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 222,
+        "ingles": "Musical",
+        "portugues": "Musical",
+        "fraseIngles": "I love Broadway musicals.",
+        "frasePortugues": "Adoro musicais da Broadway.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 223,
+        "ingles": "Opera",
+        "portugues": "Ópera",
+        "fraseIngles": "Have you ever been to an opera?",
+        "frasePortugues": "Você já foi a uma ópera?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 224,
+        "ingles": "Ballet",
+        "portugues": "Ballet",
+        "fraseIngles": "The ballet is beautiful.",
+        "frasePortugues": "O ballet é lindo.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 225,
+        "ingles": "Exhibition",
+        "portugues": "Exposição",
+        "fraseIngles": "There's an art exhibition.",
+        "frasePortugues": "Há uma exposição de arte.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 226,
+        "ingles": "Museum",
+        "portugues": "Museu",
+        "fraseIngles": "The museum has a new exhibit.",
+        "frasePortugues": "O museu tem uma nova exposição.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 227,
+        "ingles": "Gallery",
+        "portugues": "Galeria",
+        "fraseIngles": "The gallery opening is tonight.",
+        "frasePortugues": "A abertura da galeria é hoje à noite.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 228,
+        "ingles": "Festival",
+        "portugues": "Festival",
+        "fraseIngles": "The music festival is amazing.",
+        "frasePortugues": "O festival de música é incrível.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 229,
+        "ingles": "Fair",
+        "portugues": "Feira",
+        "fraseIngles": "The county fair is this weekend.",
+        "frasePortugues": "A feira do condado é neste fim de semana.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 230,
+        "ingles": "Market",
+        "portugues": "Mercado",
+        "fraseIngles": "Let's visit the farmers market.",
+        "frasePortugues": "Vamos visitar a feira de produtores.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 231,
+        "ingles": "Shopping",
+        "portugues": "Compras",
+        "fraseIngles": "Want to go shopping?",
+        "frasePortugues": "Quer ir às compras?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 232,
+        "ingles": "Mall",
+        "portugues": "Shopping",
+        "fraseIngles": "The mall has everything.",
+        "frasePortugues": "O shopping tem tudo.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 233,
+        "ingles": "Restaurant",
+        "portugues": "Restaurante",
+        "fraseIngles": "I know a great restaurant.",
+        "frasePortugues": "Conheço um ótimo restaurante.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 234,
+        "ingles": "Café",
+        "portugues": "Café",
+        "fraseIngles": "There's a cozy café nearby.",
+        "frasePortugues": "Há um café aconchegante por perto.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 235,
+        "ingles": "Bar",
+        "portugues": "Bar",
+        "fraseIngles": "Let's meet at the bar.",
+        "frasePortugues": "Vamos nos encontrar no bar.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 236,
+        "ingles": "Club",
+        "portugues": "Clube",
+        "fraseIngles": "The club has live music.",
+        "frasePortugues": "O clube tem música ao vivo.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 237,
+        "ingles": "Pub",
+        "portugues": "Pub",
+        "fraseIngles": "The pub has great atmosphere.",
+        "frasePortugues": "O pub tem ótima atmosfera.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 238,
+        "ingles": "Lounge",
+        "portugues": "Lounge",
+        "fraseIngles": "The lounge is very elegant.",
+        "frasePortugues": "O lounge é muito elegante.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 239,
+        "ingles": "Sports",
+        "portugues": "Esportes",
+        "fraseIngles": "Are you into sports?",
+        "frasePortugues": "Você gosta de esportes?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 240,
+        "ingles": "Game",
+        "portugues": "Jogo",
+        "fraseIngles": "There's a game tonight.",
+        "frasePortugues": "Há um jogo hoje à noite.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 241,
+        "ingles": "Match",
+        "portugues": "Partida",
+        "fraseIngles": "The tennis match is exciting.",
+        "frasePortugues": "A partida de tênis é emocionante.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 242,
+        "ingles": "Stadium",
+        "portugues": "Estádio",
+        "fraseIngles": "Let's go to the stadium.",
+        "frasePortugues": "Vamos ao estádio.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 243,
+        "ingles": "Gym",
+        "portugues": "Academia",
+        "fraseIngles": "Want to go to the gym?",
+        "frasePortugues": "Quer ir à academia?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 244,
+        "ingles": "Exercise",
+        "portugues": "Exercitar",
+        "fraseIngles": "We could exercise together.",
+        "frasePortugues": "Poderíamos nos exercitar juntos.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 245,
+        "ingles": "Workout",
+        "portugues": "Treino",
+        "fraseIngles": "Join me for a workout.",
+        "frasePortugues": "Venha treinar comigo.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 246,
+        "ingles": "Running",
+        "portugues": "Corrida",
+        "fraseIngles": "Let's go running in the park.",
+        "frasePortugues": "Vamos correr no parque.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 247,
+        "ingles": "Hiking",
+        "portugues": "Trilha",
+        "fraseIngles": "Hiking sounds like fun.",
+        "frasePortugues": "Trilha parece divertido.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 248,
+        "ingles": "Swimming",
+        "portugues": "Natação",
+        "fraseIngles": "The pool is perfect for swimming.",
+        "frasePortugues": "A piscina é perfeita para nadar.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 249,
+        "ingles": "Beach",
+        "portugues": "Praia",
+        "fraseIngles": "Let's spend the day at the beach.",
+        "frasePortugues": "Vamos passar o dia na praia.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 250,
+        "ingles": "Park",
+        "portugues": "Parque",
+        "fraseIngles": "The park is beautiful today.",
+        "frasePortugues": "O parque está lindo hoje.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 251,
+        "ingles": "Nature",
+        "portugues": "Natureza",
+        "fraseIngles": "I love being in nature.",
+        "frasePortugues": "Adoro estar na natureza.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 252,
+        "ingles": "Outdoors",
+        "portugues": "Ar livre",
+        "fraseIngles": "Let's do something outdoors.",
+        "frasePortugues": "Vamos fazer algo ao ar livre.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 253,
+        "ingles": "Indoor",
+        "portugues": "Interior",
+        "fraseIngles": "Indoor activities for rainy days.",
+        "frasePortugues": "Atividades internas para dias chuvosos.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 254,
+        "ingles": "Travel",
+        "portugues": "Viajar",
+        "fraseIngles": "Want to travel somewhere?",
+        "frasePortugues": "Quer viajar para algum lugar?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 255,
+        "ingles": "Trip",
+        "portugues": "Viagem",
+        "fraseIngles": "Let's plan a weekend trip.",
+        "frasePortugues": "Vamos planejar uma viagem de fim de semana.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 256,
+        "ingles": "Vacation",
+        "portugues": "Férias",
+        "fraseIngles": "Where should we go on vacation?",
+        "frasePortugues": "Onde devemos ir de férias?",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 257,
+        "ingles": "Adventure",
+        "portugues": "Aventura",
+        "fraseIngles": "I'm ready for an adventure.",
+        "frasePortugues": "Estou pronto para uma aventura.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 258,
+        "ingles": "Explore",
+        "portugues": "Explorar",
+        "fraseIngles": "Let's explore the city.",
+        "frasePortugues": "Vamos explorar a cidade.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 259,
+        "ingles": "Tour",
+        "portugues": "Passeio",
+        "fraseIngles": "The guided tour is informative.",
+        "frasePortugues": "O passeio guiado é informativo.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 260,
+        "ingles": "Sightseeing",
+        "portugues": "Turismo",
+        "fraseIngles": "Sightseeing is my favorite activity.",
+        "frasePortugues": "Turismo é minha atividade favorita.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 261,
+        "ingles": "Visit",
+        "portugues": "Visitar",
+        "fraseIngles": "We should visit that new place.",
+        "frasePortugues": "Devemos visitar aquele lugar novo.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 262,
+        "ingles": "Discover",
+        "portugues": "Descobrir",
+        "fraseIngles": "Let's discover something new.",
+        "frasePortugues": "Vamos descobrir algo novo.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 263,
+        "ingles": "Experience",
+        "portugues": "Experiência",
+        "fraseIngles": "This will be a great experience.",
+        "frasePortugues": "Esta será uma ótima experiência.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 264,
+        "ingles": "Memory",
+        "portugues": "Memória",
+        "fraseIngles": "We'll create wonderful memories.",
+        "frasePortugues": "Criaremos memórias maravilhosas.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 265,
+        "ingles": "Looking forward",
+        "portugues": "Ansioso",
+        "fraseIngles": "I'm looking forward to it.",
+        "frasePortugues": "Estou ansioso por isso.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 266,
+        "ingles": "Excited",
+        "portugues": "Animado",
+        "fraseIngles": "I'm so excited about this!",
+        "frasePortugues": "Estou tão animado com isso!",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 267,
+        "ingles": "Can't wait",
+        "portugues": "Mal posso esperar",
+        "fraseIngles": "I can't wait to see you!",
+        "frasePortugues": "Mal posso esperar para te ver!",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 268,
+        "ingles": "See you",
+        "portugues": "Te vejo",
+        "fraseIngles": "See you tomorrow!",
+        "frasePortugues": "Te vejo amanhã!",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 269,
+        "ingles": "Until then",
+        "portugues": "Até lá",
+        "fraseIngles": "Until then, take care.",
+        "frasePortugues": "Até lá, se cuide.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 270,
+        "ingles": "Talk soon",
+        "portugues": "Falar em breve",
+        "fraseIngles": "We'll talk soon about details.",
+        "frasePortugues": "Falaremos em breve sobre os detalhes.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 271,
+        "ingles": "Keep in touch",
+        "portugues": "Manter contato",
+        "fraseIngles": "Let's keep in touch about plans.",
+        "frasePortugues": "Vamos manter contato sobre os planos.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    },
+    {
+        "id": 272,
+        "ingles": "Catch up",
+        "portugues": "Colocar o papo em dia",
+        "fraseIngles": "We need to catch up soon.",
+        "frasePortugues": "Precisamos colocar o papo em dia em breve.",
+        "subtopico": "Convites",
+        "topico": "Frases"
+    }
+]

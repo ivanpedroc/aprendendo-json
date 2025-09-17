@@ -1,0 +1,2018 @@
+[
+    {
+        "id": 1,
+        "ingles": "Introduction",
+        "portugues": "Apresentação",
+        "fraseIngles": "Let me make a proper introduction.",
+        "frasePortugues": "Deixe-me fazer uma apresentação adequada.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 2,
+        "ingles": "Hello",
+        "portugues": "Olá",
+        "fraseIngles": "Hello, I'm pleased to meet you.",
+        "frasePortugues": "Olá, é um prazer conhecê-lo.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 3,
+        "ingles": "Good morning",
+        "portugues": "Bom dia",
+        "fraseIngles": "Good morning, everyone.",
+        "frasePortugues": "Bom dia a todos.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 4,
+        "ingles": "Good afternoon",
+        "portugues": "Boa tarde",
+        "fraseIngles": "Good afternoon, ladies and gentlemen.",
+        "frasePortugues": "Boa tarde, senhoras e senhores.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 5,
+        "ingles": "Good evening",
+        "portugues": "Boa noite",
+        "fraseIngles": "Good evening, thank you for coming.",
+        "frasePortugues": "Boa noite, obrigado por virem.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 6,
+        "ingles": "Name",
+        "portugues": "Nome",
+        "fraseIngles": "My name is Sarah Johnson.",
+        "frasePortugues": "Meu nome é Sarah Johnson.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 7,
+        "ingles": "Full name",
+        "portugues": "Nome completo",
+        "fraseIngles": "Could I have your full name please?",
+        "frasePortugues": "Poderia ter seu nome completo, por favor?",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 8,
+        "ingles": "First name",
+        "portugues": "Primeiro nome",
+        "fraseIngles": "Please call me by my first name.",
+        "frasePortugues": "Por favor, me chame pelo meu primeiro nome.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 9,
+        "ingles": "Last name",
+        "portugues": "Sobrenome",
+        "fraseIngles": "How do you spell your last name?",
+        "frasePortugues": "Como se escreve seu sobrenome?",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 10,
+        "ingles": "Middle name",
+        "portugues": "Nome do meio",
+        "fraseIngles": "Do you use your middle name professionally?",
+        "frasePortugues": "Você usa seu nome do meio profissionalmente?",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 11,
+        "ingles": "Title",
+        "portugues": "Título",
+        "fraseIngles": "What's your professional title?",
+        "frasePortugues": "Qual é seu título profissional?",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 12,
+        "ingles": "Position",
+        "portugues": "Posição / Cargo",
+        "fraseIngles": "I hold the position of Marketing Director.",
+        "frasePortugues": "Ocupo a posição de Diretor de Marketing.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 13,
+        "ingles": "Job title",
+        "portugues": "Título do cargo",
+        "fraseIngles": "My job title is Senior Analyst.",
+        "frasePortugues": "Meu título do cargo é Analista Sênior.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 14,
+        "ingles": "Role",
+        "portugues": "Função",
+        "fraseIngles": "What's your role in the company?",
+        "frasePortugues": "Qual é sua função na empresa?",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 15,
+        "ingles": "Responsibility",
+        "portugues": "Responsabilidade",
+        "fraseIngles": "My main responsibility is project management.",
+        "frasePortugues": "Minha principal responsabilidade é gerenciamento de projetos.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 16,
+        "ingles": "Company",
+        "portugues": "Empresa",
+        "fraseIngles": "I work for a technology company.",
+        "frasePortugues": "Trabalho para uma empresa de tecnologia.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 17,
+        "ingles": "Organization",
+        "portugues": "Organização",
+        "fraseIngles": "Our organization focuses on sustainability.",
+        "frasePortugues": "Nossa organização foca em sustentabilidade.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 18,
+        "ingles": "Corporation",
+        "portugues": "Corporação",
+        "fraseIngles": "She works for a multinational corporation.",
+        "frasePortugues": "Ela trabalha para uma corporação multinacional.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 19,
+        "ingles": "Firm",
+        "portugues": "Empresa",
+        "fraseIngles": "He's a partner at a consulting firm.",
+        "frasePortugues": "Ele é sócio numa empresa de consultoria.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 20,
+        "ingles": "Business",
+        "portugues": "Negócio",
+        "fraseIngles": "We run a family business.",
+        "frasePortugues": "Administramos um negócio familiar.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 21,
+        "ingles": "Industry",
+        "portugues": "Indústria / Setor",
+        "fraseIngles": "I work in the healthcare industry.",
+        "frasePortugues": "Trabalho no setor de saúde.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 22,
+        "ingles": "Sector",
+        "portugues": "Setor",
+        "fraseIngles": "The public sector offers great benefits.",
+        "frasePortugues": "O setor público oferece ótimos benefícios.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 23,
+        "ingles": "Field",
+        "portugues": "Área",
+        "fraseIngles": "I'm new to this field.",
+        "frasePortugues": "Sou novo nesta área.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 24,
+        "ingles": "Department",
+        "portugues": "Departamento",
+        "fraseIngles": "I work in the Human Resources department.",
+        "frasePortugues": "Trabalho no departamento de Recursos Humanos.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 25,
+        "ingles": "Division",
+        "portugues": "Divisão",
+        "fraseIngles": "The International Division handles exports.",
+        "frasePortugues": "A Divisão Internacional cuida das exportações.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 26,
+        "ingles": "Team",
+        "portugues": "Equipe",
+        "fraseIngles": "I lead a team of five people.",
+        "frasePortugues": "Lidero uma equipe de cinco pessoas.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 27,
+        "ingles": "Group",
+        "portugues": "Grupo",
+        "fraseIngles": "Our group specializes in research.",
+        "frasePortugues": "Nosso grupo é especializado em pesquisa.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 28,
+        "ingles": "Unit",
+        "portugues": "Unidade",
+        "fraseIngles": "The Sales Unit exceeded targets this quarter.",
+        "frasePortugues": "A Unidade de Vendas superou as metas este trimestre.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 29,
+        "ingles": "Branch",
+        "portugues": "Filial",
+        "fraseIngles": "This is our newest branch office.",
+        "frasePortugues": "Esta é nossa filial mais nova.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 30,
+        "ingles": "Office",
+        "portugues": "Escritório",
+        "fraseIngles": "Our main office is downtown.",
+        "frasePortugues": "Nosso escritório principal fica no centro.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 31,
+        "ingles": "Headquarters",
+        "portugues": "Sede",
+        "fraseIngles": "Company headquarters are in New York.",
+        "frasePortugues": "A sede da empresa fica em Nova York.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 32,
+        "ingles": "Location",
+        "portugues": "Local",
+        "fraseIngles": "We have locations in five countries.",
+        "frasePortugues": "Temos locais em cinco países.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 33,
+        "ingles": "Background",
+        "portugues": "Formação / Histórico",
+        "fraseIngles": "Let me share my professional background.",
+        "frasePortugues": "Deixe-me compartilhar minha formação profissional.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 34,
+        "ingles": "Experience",
+        "portugues": "Experiência",
+        "fraseIngles": "I have ten years of experience.",
+        "frasePortugues": "Tenho dez anos de experiência.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 35,
+        "ingles": "Expertise",
+        "portugues": "Especialização",
+        "fraseIngles": "My expertise is in digital marketing.",
+        "frasePortugues": "Minha especialização é em marketing digital.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 36,
+        "ingles": "Skills",
+        "portugues": "Habilidades",
+        "fraseIngles": "I have strong analytical skills.",
+        "frasePortugues": "Tenho fortes habilidades analíticas.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 37,
+        "ingles": "Qualifications",
+        "portugues": "Qualificações",
+        "fraseIngles": "What qualifications do you have?",
+        "frasePortugues": "Que qualificações você tem?",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 38,
+        "ingles": "Education",
+        "portugues": "Educação",
+        "fraseIngles": "My education is in engineering.",
+        "frasePortugues": "Minha formação é em engenharia.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 39,
+        "ingles": "Degree",
+        "portugues": "Diploma",
+        "fraseIngles": "I have a degree in Business Administration.",
+        "frasePortugues": "Tenho um diploma em Administração de Empresas.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 40,
+        "ingles": "Bachelor's",
+        "portugues": "Bacharelado",
+        "fraseIngles": "I earned my Bachelor's degree in 2018.",
+        "frasePortugues": "Obtive meu bacharelado em 2018.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 41,
+        "ingles": "Master's",
+        "portugues": "Mestrado",
+        "fraseIngles": "I'm pursuing a Master's in Finance.",
+        "frasePortugues": "Estou fazendo mestrado em Finanças.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 42,
+        "ingles": "MBA",
+        "portugues": "MBA",
+        "fraseIngles": "An MBA helped advance my career.",
+        "frasePortugues": "Um MBA ajudou a avançar minha carreira.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 43,
+        "ingles": "PhD",
+        "portugues": "Doutorado",
+        "fraseIngles": "She's completing her PhD in Psychology.",
+        "frasePortugues": "Ela está completando seu doutorado em Psicologia.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 44,
+        "ingles": "Certificate",
+        "portugues": "Certificado",
+        "fraseIngles": "I have a certificate in Project Management.",
+        "frasePortugues": "Tenho um certificado em Gerenciamento de Projetos.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 45,
+        "ingles": "Training",
+        "portugues": "Treinamento",
+        "fraseIngles": "I completed leadership training last year.",
+        "frasePortugues": "Completei treinamento de liderança no ano passado.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 46,
+        "ingles": "Course",
+        "portugues": "Curso",
+        "fraseIngles": "I'm taking a course in data analysis.",
+        "frasePortugues": "Estou fazendo um curso em análise de dados.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 47,
+        "ingles": "Workshop",
+        "portugues": "Workshop",
+        "fraseIngles": "The workshop on negotiation was excellent.",
+        "frasePortugues": "O workshop sobre negociação foi excelente.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 48,
+        "ingles": "Seminar",
+        "portugues": "Seminário",
+        "fraseIngles": "I attended a seminar on innovation.",
+        "frasePortugues": "Participei de um seminário sobre inovação.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 49,
+        "ingles": "Conference",
+        "portugues": "Conferência",
+        "fraseIngles": "The annual conference is next month.",
+        "frasePortugues": "A conferência anual é no próximo mês.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 50,
+        "ingles": "Career",
+        "portugues": "Carreira",
+        "fraseIngles": "I'm passionate about my career.",
+        "frasePortugues": "Sou apaixonado pela minha carreira.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 51,
+        "ingles": "Profession",
+        "portugues": "Profissão",
+        "fraseIngles": "Teaching is a noble profession.",
+        "frasePortugues": "Ensinar é uma profissão nobre.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 52,
+        "ingles": "Occupation",
+        "portugues": "Ocupação",
+        "fraseIngles": "What's your current occupation?",
+        "frasePortugues": "Qual é sua ocupação atual?",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 53,
+        "ingles": "Work",
+        "portugues": "Trabalho",
+        "fraseIngles": "I love the work I do.",
+        "frasePortugues": "Amo o trabalho que faço.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 54,
+        "ingles": "Employment",
+        "portugues": "Emprego",
+        "fraseIngles": "My employment history is diverse.",
+        "frasePortugues": "Meu histórico de emprego é diversificado.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 55,
+        "ingles": "Previous",
+        "portugues": "Anterior",
+        "fraseIngles": "In my previous role, I managed budgets.",
+        "frasePortugues": "No meu cargo anterior, gerenciava orçamentos.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 56,
+        "ingles": "Current",
+        "portugues": "Atual",
+        "fraseIngles": "My current position is very challenging.",
+        "frasePortugues": "Minha posição atual é muito desafiadora.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 57,
+        "ingles": "Former",
+        "portugues": "Ex",
+        "fraseIngles": "My former colleague recommended me.",
+        "frasePortugues": "Meu ex-colega me recomendou.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 58,
+        "ingles": "Achievements",
+        "portugues": "Conquistas",
+        "fraseIngles": "Let me highlight my key achievements.",
+        "frasePortugues": "Deixe-me destacar minhas principais conquistas.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 59,
+        "ingles": "Accomplishments",
+        "portugues": "Realizações",
+        "fraseIngles": "I'm proud of my accomplishments.",
+        "frasePortugues": "Tenho orgulho das minhas realizações.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 60,
+        "ingles": "Success",
+        "portugues": "Sucesso",
+        "fraseIngles": "Success comes from hard work.",
+        "frasePortugues": "Sucesso vem do trabalho duro.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 61,
+        "ingles": "Awards",
+        "portugues": "Prêmios",
+        "fraseIngles": "I've received several awards.",
+        "frasePortugues": "Recebi vários prêmios.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 62,
+        "ingles": "Recognition",
+        "portugues": "Reconhecimento",
+        "fraseIngles": "The recognition was unexpected.",
+        "frasePortugues": "O reconhecimento foi inesperado.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 63,
+        "ingles": "Honor",
+        "portugues": "Honra",
+        "fraseIngles": "It's an honor to be here.",
+        "frasePortugues": "É uma honra estar aqui.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 64,
+        "ingles": "Projects",
+        "portugues": "Projetos",
+        "fraseIngles": "I've managed several major projects.",
+        "frasePortugues": "Gerenciei vários projetos importantes.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 65,
+        "ingles": "Initiatives",
+        "portugues": "Iniciativas",
+        "fraseIngles": "I led three successful initiatives.",
+        "frasePortugues": "Liderei três iniciativas bem-sucedidas.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 66,
+        "ingles": "Campaigns",
+        "portugues": "Campanhas",
+        "fraseIngles": "Our marketing campaigns were effective.",
+        "frasePortugues": "Nossas campanhas de marketing foram eficazes.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 67,
+        "ingles": "Programs",
+        "portugues": "Programas",
+        "fraseIngles": "I developed training programs.",
+        "frasePortugues": "Desenvolvi programas de treinamento.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 68,
+        "ingles": "Results",
+        "portugues": "Resultados",
+        "fraseIngles": "The results exceeded expectations.",
+        "frasePortugues": "Os resultados superaram as expectativas.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 69,
+        "ingles": "Outcomes",
+        "portugues": "Resultados",
+        "fraseIngles": "We measured all outcomes carefully.",
+        "frasePortugues": "Medimos todos os resultados cuidadosamente.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 70,
+        "ingles": "Impact",
+        "portugues": "Impacto",
+        "fraseIngles": "The program had a positive impact.",
+        "frasePortugues": "O programa teve um impacto positivo.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 71,
+        "ingles": "Contribution",
+        "portugues": "Contribuição",
+        "fraseIngles": "My contribution was in strategy development.",
+        "frasePortugues": "Minha contribuição foi no desenvolvimento da estratégia.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 72,
+        "ingles": "Goals",
+        "portugues": "Metas",
+        "fraseIngles": "I always achieve my goals.",
+        "frasePortugues": "Sempre alcanço minhas metas.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 73,
+        "ingles": "Objectives",
+        "portugues": "Objetivos",
+        "fraseIngles": "Our objectives are clearly defined.",
+        "frasePortugues": "Nossos objetivos são claramente definidos.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 74,
+        "ingles": "Targets",
+        "portugues": "Metas",
+        "fraseIngles": "We exceeded all quarterly targets.",
+        "frasePortugues": "Superamos todas as metas trimestrais.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 75,
+        "ingles": "Performance",
+        "portugues": "Desempenho",
+        "fraseIngles": "My performance reviews are excellent.",
+        "frasePortugues": "Minhas avaliações de desempenho são excelentes.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 76,
+        "ingles": "Leadership",
+        "portugues": "Liderança",
+        "fraseIngles": "I have strong leadership skills.",
+        "frasePortugues": "Tenho fortes habilidades de liderança.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 77,
+        "ingles": "Management",
+        "portugues": "Gerenciamento",
+        "fraseIngles": "Management is both art and science.",
+        "frasePortugues": "Gerenciamento é arte e ciência.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 78,
+        "ingles": "Supervision",
+        "portugues": "Supervisão",
+        "fraseIngles": "I'm responsible for team supervision.",
+        "frasePortugues": "Sou responsável pela supervisão da equipe.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 79,
+        "ingles": "Coordination",
+        "portugues": "Coordenação",
+        "fraseIngles": "Project coordination requires attention to detail.",
+        "frasePortugues": "Coordenação de projetos requer atenção aos detalhes.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 80,
+        "ingles": "Collaboration",
+        "portugues": "Colaboração",
+        "fraseIngles": "I excel at collaboration.",
+        "frasePortugues": "Me destaco na colaboração.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 81,
+        "ingles": "Teamwork",
+        "portugues": "Trabalho em equipe",
+        "fraseIngles": "Teamwork is essential for success.",
+        "frasePortugues": "Trabalho em equipe é essencial para o sucesso.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 82,
+        "ingles": "Communication",
+        "portugues": "Comunicação",
+        "fraseIngles": "Communication skills are vital.",
+        "frasePortugues": "Habilidades de comunicação são vitais.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 83,
+        "ingles": "Presentation",
+        "portugues": "Apresentação",
+        "fraseIngles": "I give presentations regularly.",
+        "frasePortugues": "Faço apresentações regularmente.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 84,
+        "ingles": "Public speaking",
+        "portugues": "Falar em público",
+        "fraseIngles": "Public speaking doesn't intimidate me.",
+        "frasePortugues": "Falar em público não me intimida.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 85,
+        "ingles": "Negotiation",
+        "portugues": "Negociação",
+        "fraseIngles": "Negotiation skills improve with practice.",
+        "frasePortugues": "Habilidades de negociação melhoram com a prática.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 86,
+        "ingles": "Problem solving",
+        "portugues": "Resolução de problemas",
+        "fraseIngles": "Problem solving is my strength.",
+        "frasePortugues": "Resolução de problemas é minha força.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 87,
+        "ingles": "Decision making",
+        "portugues": "Tomada de decisão",
+        "fraseIngles": "Decision making requires good judgment.",
+        "frasePortugues": "Tomada de decisão requer bom julgamento.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 88,
+        "ingles": "Analysis",
+        "portugues": "Análise",
+        "fraseIngles": "I specialize in data analysis.",
+        "frasePortugues": "Me especializo em análise de dados.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 89,
+        "ingles": "Research",
+        "portugues": "Pesquisa",
+        "fraseIngles": "Research is fundamental to innovation.",
+        "frasePortugues": "Pesquisa é fundamental para inovação.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 90,
+        "ingles": "Development",
+        "portugues": "Desenvolvimento",
+        "fraseIngles": "I work in product development.",
+        "frasePortugues": "Trabalho em desenvolvimento de produtos.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 91,
+        "ingles": "Innovation",
+        "portugues": "Inovação",
+        "fraseIngles": "Innovation drives our company forward.",
+        "frasePortugues": "Inovação impulsiona nossa empresa.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 92,
+        "ingles": "Strategy",
+        "portugues": "Estratégia",
+        "fraseIngles": "I'm involved in strategic planning.",
+        "frasePortugues": "Estou envolvido no planejamento estratégico.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 93,
+        "ingles": "Planning",
+        "portugues": "Planejamento",
+        "fraseIngles": "Good planning prevents poor performance.",
+        "frasePortugues": "Bom planejamento previne baixo desempenho.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 94,
+        "ingles": "Implementation",
+        "portugues": "Implementação",
+        "fraseIngles": "Implementation is often the hardest part.",
+        "frasePortugues": "Implementação é frequentemente a parte mais difícil.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 95,
+        "ingles": "Execution",
+        "portugues": "Execução",
+        "fraseIngles": "Flawless execution sets us apart.",
+        "frasePortugues": "Execução impecável nos diferencia.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 96,
+        "ingles": "Quality",
+        "portugues": "Qualidade",
+        "fraseIngles": "Quality is our top priority.",
+        "frasePortugues": "Qualidade é nossa principal prioridade.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 97,
+        "ingles": "Excellence",
+        "portugues": "Excelência",
+        "fraseIngles": "We strive for excellence in everything.",
+        "frasePortugues": "Buscamos excelência em tudo.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 98,
+        "ingles": "Standards",
+        "portugues": "Padrões",
+        "fraseIngles": "We maintain the highest standards.",
+        "frasePortugues": "Mantemos os mais altos padrões.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 99,
+        "ingles": "Best practices",
+        "portugues": "Melhores práticas",
+        "fraseIngles": "I follow industry best practices.",
+        "frasePortugues": "Sigo as melhores práticas da indústria.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 100,
+        "ingles": "Efficiency",
+        "portugues": "Eficiência",
+        "fraseIngles": "Efficiency saves time and money.",
+        "frasePortugues": "Eficiência economiza tempo e dinheiro.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 101,
+        "ingles": "Productivity",
+        "portugues": "Produtividade",
+        "fraseIngles": "Productivity has increased this year.",
+        "frasePortugues": "Produtividade aumentou este ano.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 102,
+        "ingles": "Professional",
+        "portugues": "Profissional",
+        "fraseIngles": "I maintain professional standards always.",
+        "frasePortugues": "Mantenho padrões profissionais sempre.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 103,
+        "ingles": "Expertise",
+        "portugues": "Conhecimento especializado",
+        "fraseIngles": "My expertise is recognized industry-wide.",
+        "frasePortugues": "Meu conhecimento especializado é reconhecido no setor.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 104,
+        "ingles": "Specialist",
+        "portugues": "Especialista",
+        "fraseIngles": "I'm a specialist in cybersecurity.",
+        "frasePortugues": "Sou especialista em cibersegurança.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 105,
+        "ingles": "Expert",
+        "portugues": "Especialista",
+        "fraseIngles": "She's an expert in international law.",
+        "frasePortugues": "Ela é especialista em direito internacional.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 106,
+        "ingles": "Authority",
+        "portugues": "Autoridade",
+        "fraseIngles": "He's an authority on climate change.",
+        "frasePortugues": "Ele é uma autoridade em mudanças climáticas.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 107,
+        "ingles": "Consultant",
+        "portugues": "Consultor",
+        "fraseIngles": "I work as an independent consultant.",
+        "frasePortugues": "Trabalho como consultor independente.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 108,
+        "ingles": "Advisor",
+        "portugues": "Consultor",
+        "fraseIngles": "I serve as an advisor to startups.",
+        "frasePortugues": "Sirvo como consultor para startups.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 109,
+        "ingles": "Mentor",
+        "portugues": "Mentor",
+        "fraseIngles": "I'm a mentor to junior colleagues.",
+        "frasePortugues": "Sou mentor de colegas júniores.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 110,
+        "ingles": "Coach",
+        "portugues": "Coach",
+        "fraseIngles": "Executive coaching is my specialty.",
+        "frasePortugues": "Coaching executivo é minha especialidade.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 111,
+        "ingles": "Client",
+        "portugues": "Cliente",
+        "fraseIngles": "We prioritize client satisfaction.",
+        "frasePortugues": "Priorizamos a satisfação do cliente.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 112,
+        "ingles": "Customer",
+        "portugues": "Cliente",
+        "fraseIngles": "Customer service is our focus.",
+        "frasePortugues": "Atendimento ao cliente é nosso foco.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 113,
+        "ingles": "Partnership",
+        "portugues": "Parceria",
+        "fraseIngles": "We value long-term partnerships.",
+        "frasePortugues": "Valorizamos parcerias de longo prazo.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 114,
+        "ingles": "Relationship",
+        "portugues": "Relacionamento",
+        "fraseIngles": "Building relationships takes time.",
+        "frasePortugues": "Construir relacionamentos leva tempo.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 115,
+        "ingles": "Network",
+        "portugues": "Rede",
+        "fraseIngles": "I have an extensive professional network.",
+        "frasePortugues": "Tenho uma ampla rede profissional.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 116,
+        "ingles": "Contact",
+        "portugues": "Contato",
+        "fraseIngles": "Let me give you my contact information.",
+        "frasePortugues": "Deixe-me dar minhas informações de contato.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 117,
+        "ingles": "Connection",
+        "portugues": "Conexão",
+        "fraseIngles": "Professional connections are valuable.",
+        "frasePortugues": "Conexões profissionais são valiosas.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 118,
+        "ingles": "Reference",
+        "portugues": "Referência",
+        "fraseIngles": "I can provide excellent references.",
+        "frasePortugues": "Posso fornecer excelentes referências.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 119,
+        "ingles": "Recommendation",
+        "portugues": "Recomendação",
+        "fraseIngles": "I have strong recommendations.",
+        "frasePortugues": "Tenho fortes recomendações.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 120,
+        "ingles": "Referral",
+        "portugues": "Indicação",
+        "fraseIngles": "This meeting came through a referral.",
+        "frasePortugues": "Esta reunião veio através de uma indicação.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 121,
+        "ingles": "Opportunity",
+        "portugues": "Oportunidade",
+        "fraseIngles": "I'm excited about this opportunity.",
+        "frasePortugues": "Estou animado com esta oportunidade.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 122,
+        "ingles": "Challenge",
+        "portugues": "Desafio",
+        "fraseIngles": "I enjoy taking on new challenges.",
+        "frasePortugues": "Gosto de assumir novos desafios.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 123,
+        "ingles": "Growth",
+        "portugues": "Crescimento",
+        "fraseIngles": "I'm focused on professional growth.",
+        "frasePortugues": "Estou focado no crescimento profissional.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 124,
+        "ingles": "Development",
+        "portugues": "Desenvolvimento",
+        "fraseIngles": "Personal development is important.",
+        "frasePortugues": "Desenvolvimento pessoal é importante.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 125,
+        "ingles": "Advancement",
+        "portugues": "Avanço",
+        "fraseIngles": "Career advancement requires dedication.",
+        "frasePortugues": "Avanço na carreira requer dedicação.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 126,
+        "ingles": "Promotion",
+        "portugues": "Promoção",
+        "fraseIngles": "I recently received a promotion.",
+        "frasePortugues": "Recebi uma promoção recentemente.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 127,
+        "ingles": "Progress",
+        "portugues": "Progresso",
+        "fraseIngles": "I've made significant progress.",
+        "frasePortugues": "Fiz progresso significativo.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 128,
+        "ingles": "Future",
+        "portugues": "Futuro",
+        "fraseIngles": "I'm optimistic about the future.",
+        "frasePortugues": "Sou otimista sobre o futuro.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 129,
+        "ingles": "Aspiration",
+        "portugues": "Aspiração",
+        "fraseIngles": "My aspiration is to lead globally.",
+        "frasePortugues": "Minha aspiração é liderar globalmente.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 130,
+        "ingles": "Ambition",
+        "portugues": "Ambição",
+        "fraseIngles": "Healthy ambition drives success.",
+        "frasePortugues": "Ambição saudável impulsiona o sucesso.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 131,
+        "ingles": "Vision",
+        "portugues": "Visão",
+        "fraseIngles": "Our company vision inspires me.",
+        "frasePortugues": "A visão da nossa empresa me inspira.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 132,
+        "ingles": "Mission",
+        "portugues": "Missão",
+        "fraseIngles": "I'm aligned with the company mission.",
+        "frasePortugues": "Estou alinhado com a missão da empresa.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 133,
+        "ingles": "Values",
+        "portugues": "Valores",
+        "fraseIngles": "Our values guide our decisions.",
+        "frasePortugues": "Nossos valores guiam nossas decisões.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 134,
+        "ingles": "Ethics",
+        "portugues": "Ética",
+        "fraseIngles": "Business ethics are non-negotiable.",
+        "frasePortugues": "Ética empresarial é inegociável.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 135,
+        "ingles": "Integrity",
+        "portugues": "Integridade",
+        "fraseIngles": "I operate with complete integrity.",
+        "frasePortugues": "Opero com integridade completa.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 136,
+        "ingles": "Honesty",
+        "portugues": "Honestidade",
+        "fraseIngles": "Honesty builds trust.",
+        "frasePortugues": "Honestidade constrói confiança.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 137,
+        "ingles": "Trust",
+        "portugues": "Confiança",
+        "fraseIngles": "Trust is earned through actions.",
+        "frasePortugues": "Confiança é conquistada através de ações.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 138,
+        "ingles": "Reliability",
+        "portugues": "Confiabilidade",
+        "fraseIngles": "Reliability is one of my strengths.",
+        "frasePortugues": "Confiabilidade é uma das minhas forças.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 139,
+        "ingles": "Dependability",
+        "portugues": "Confiabilidade",
+        "fraseIngles": "Dependability matters in business.",
+        "frasePortugues": "Confiabilidade importa nos negócios.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 140,
+        "ingles": "Commitment",
+        "portugues": "Comprometimento",
+        "fraseIngles": "My commitment to excellence is unwavering.",
+        "frasePortugues": "Meu comprometimento com a excelência é inabalável.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 141,
+        "ingles": "Dedication",
+        "portugues": "Dedicação",
+        "fraseIngles": "Dedication sets high performers apart.",
+        "frasePortugues": "Dedicação diferencia altos executores.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 142,
+        "ingles": "Passion",
+        "portugues": "Paixão",
+        "fraseIngles": "Passion for work makes a difference.",
+        "frasePortugues": "Paixão pelo trabalho faz diferença.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 143,
+        "ingles": "Enthusiasm",
+        "portugues": "Entusiasmo",
+        "fraseIngles": "I bring enthusiasm to every project.",
+        "frasePortugues": "Trago entusiasmo para cada projeto.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 144,
+        "ingles": "Motivation",
+        "portugues": "Motivação",
+        "fraseIngles": "Intrinsic motivation drives me.",
+        "frasePortugues": "Motivação intrínseca me impulsiona.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 145,
+        "ingles": "Drive",
+        "portugues": "Determinação",
+        "fraseIngles": "I have the drive to succeed.",
+        "frasePortugues": "Tenho determinação para ter sucesso.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 146,
+        "ingles": "Initiative",
+        "portugues": "Iniciativa",
+        "fraseIngles": "I take initiative when needed.",
+        "frasePortugues": "Tomo iniciativa quando necessário.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 147,
+        "ingles": "Proactive",
+        "portugues": "Proativo",
+        "fraseIngles": "I'm proactive in solving problems.",
+        "frasePortugues": "Sou proativo em resolver problemas.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 148,
+        "ingles": "Resourceful",
+        "portugues": "Engenhoso",
+        "fraseIngles": "Being resourceful helps overcome obstacles.",
+        "frasePortugues": "Ser engenhoso ajuda a superar obstáculos.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 149,
+        "ingles": "Creative",
+        "portugues": "Criativo",
+        "fraseIngles": "Creative thinking leads to innovation.",
+        "frasePortugues": "Pensamento criativo leva à inovação.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 150,
+        "ingles": "Innovative",
+        "portugues": "Inovador",
+        "fraseIngles": "I'm known for innovative solutions.",
+        "frasePortugues": "Sou conhecido por soluções inovadoras.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 151,
+        "ingles": "Adaptable",
+        "portugues": "Adaptável",
+        "fraseIngles": "Being adaptable is crucial today.",
+        "frasePortugues": "Ser adaptável é crucial hoje.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 152,
+        "ingles": "Flexible",
+        "portugues": "Flexível",
+        "fraseIngles": "I'm flexible with changing requirements.",
+        "frasePortugues": "Sou flexível com requisitos em mudança.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 153,
+        "ingles": "Versatile",
+        "portugues": "Versátil",
+        "fraseIngles": "My versatile skills suit various roles.",
+        "frasePortugues": "Minhas habilidades versáteis se adequam a vários cargos.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 154,
+        "ingles": "Multi-skilled",
+        "portugues": "Multi-habilidoso",
+        "fraseIngles": "Multi-skilled professionals are valued.",
+        "frasePortugues": "Profissionais multi-habilidosos são valorizados.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 155,
+        "ingles": "Well-rounded",
+        "portugues": "Completo",
+        "fraseIngles": "I consider myself well-rounded professionally.",
+        "frasePortugues": "Me considero profissionalmente completo.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 156,
+        "ingles": "Comprehensive",
+        "portugues": "Abrangente",
+        "fraseIngles": "I have comprehensive industry knowledge.",
+        "frasePortugues": "Tenho conhecimento abrangente da indústria.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 157,
+        "ingles": "Thorough",
+        "portugues": "Minucioso",
+        "fraseIngles": "I'm thorough in all my work.",
+        "frasePortugues": "Sou minucioso em todo meu trabalho.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 158,
+        "ingles": "Detail-oriented",
+        "portugues": "Orientado a detalhes",
+        "fraseIngles": "Being detail-oriented prevents errors.",
+        "frasePortugues": "Ser orientado a detalhes previne erros.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 159,
+        "ingles": "Analytical",
+        "portugues": "Analítico",
+        "fraseIngles": "My analytical skills are strong.",
+        "frasePortugues": "Minhas habilidades analíticas são fortes.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 160,
+        "ingles": "Logical",
+        "portugues": "Lógico",
+        "fraseIngles": "I approach problems logically.",
+        "frasePortugues": "Abordo problemas logicamente.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 161,
+        "ingles": "Strategic",
+        "portugues": "Estratégico",
+        "fraseIngles": "Strategic thinking is my forte.",
+        "frasePortugues": "Pensamento estratégico é meu forte.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 162,
+        "ingles": "Tactical",
+        "portugues": "Tático",
+        "fraseIngles": "I can think both strategically and tactically.",
+        "frasePortugues": "Posso pensar estratégica e taticamente.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 163,
+        "ingles": "Practical",
+        "portugues": "Prático",
+        "fraseIngles": "I prefer practical solutions.",
+        "frasePortugues": "Prefiro soluções práticas.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 164,
+        "ingles": "Pragmatic",
+        "portugues": "Pragmático",
+        "fraseIngles": "A pragmatic approach works best.",
+        "frasePortugues": "Uma abordagem pragmática funciona melhor.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 165,
+        "ingles": "Results-oriented",
+        "portugues": "Orientado a resultados",
+        "fraseIngles": "I'm highly results-oriented.",
+        "frasePortugues": "Sou altamente orientado a resultados.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 166,
+        "ingles": "Goal-oriented",
+        "portugues": "Orientado a metas",
+        "fraseIngles": "Being goal-oriented drives performance.",
+        "frasePortugues": "Ser orientado a metas impulsiona desempenho.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 167,
+        "ingles": "Achievement-focused",
+        "portugues": "Focado em conquistas",
+        "fraseIngles": "I'm achievement-focused in everything.",
+        "frasePortugues": "Sou focado em conquistas em tudo.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 168,
+        "ingles": "Performance-driven",
+        "portugues": "Impulsionado por desempenho",
+        "fraseIngles": "Our culture is performance-driven.",
+        "frasePortugues": "Nossa cultura é impulsionada por desempenho.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 169,
+        "ingles": "Competitive",
+        "portugues": "Competitivo",
+        "fraseIngles": "I'm competitive but fair.",
+        "frasePortugues": "Sou competitivo mas justo.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 170,
+        "ingles": "Collaborative",
+        "portugues": "Colaborativo",
+        "fraseIngles": "I prefer collaborative approaches.",
+        "frasePortugues": "Prefiro abordagens colaborativas.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 171,
+        "ingles": "Cooperative",
+        "portugues": "Cooperativo",
+        "fraseIngles": "Being cooperative builds better teams.",
+        "frasePortugues": "Ser cooperativo constrói melhores equipes.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 172,
+        "ingles": "Supportive",
+        "portugues": "Prestativo",
+        "fraseIngles": "I'm supportive of my colleagues.",
+        "frasePortugues": "Sou prestativo com meus colegas.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 173,
+        "ingles": "Helpful",
+        "portugues": "Prestativo",
+        "fraseIngles": "Being helpful creates positive relationships.",
+        "frasePortugues": "Ser prestativo cria relacionamentos positivos.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 174,
+        "ingles": "Approachable",
+        "portugues": "Acessível",
+        "fraseIngles": "I try to remain approachable.",
+        "frasePortugues": "Tento permanecer acessível.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 175,
+        "ingles": "Personable",
+        "portugues": "Sociável",
+        "fraseIngles": "Being personable helps in business.",
+        "frasePortugues": "Ser sociável ajuda nos negócios.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 176,
+        "ingles": "Professional",
+        "portugues": "Profissional",
+        "fraseIngles": "I always maintain professional demeanor.",
+        "frasePortugues": "Sempre mantenho comportamento profissional.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 177,
+        "ingles": "Polished",
+        "portugues": "Refinado",
+        "fraseIngles": "A polished presentation makes an impression.",
+        "frasePortugues": "Uma apresentação refinada causa impressão.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 178,
+        "ingles": "Articulate",
+        "portugues": "Articulado",
+        "fraseIngles": "Being articulate helps communication.",
+        "frasePortugues": "Ser articulado ajuda na comunicação.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 179,
+        "ingles": "Eloquent",
+        "portugues": "Eloquente",
+        "fraseIngles": "She's an eloquent speaker.",
+        "frasePortugues": "Ela é uma oradora eloquente.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 180,
+        "ingles": "Confident",
+        "portugues": "Confiante",
+        "fraseIngles": "Confidence comes from preparation.",
+        "frasePortugues": "Confiança vem da preparação.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 181,
+        "ingles": "Assured",
+        "portugues": "Seguro",
+        "fraseIngles": "I feel assured about my capabilities.",
+        "frasePortugues": "Me sinto seguro sobre minhas capacidades.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 182,
+        "ingles": "Poised",
+        "portugues": "Equilibrado",
+        "fraseIngles": "Staying poised under pressure helps.",
+        "frasePortugues": "Manter-se equilibrado sob pressão ajuda.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 183,
+        "ingles": "Composed",
+        "portugues": "Composto",
+        "fraseIngles": "I remain composed in difficult situations.",
+        "frasePortugues": "Permaneço composto em situações difíceis.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 184,
+        "ingles": "Calm",
+        "portugues": "Calmo",
+        "fraseIngles": "Staying calm helps clear thinking.",
+        "frasePortugues": "Manter-se calmo ajuda o pensamento claro.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 185,
+        "ingles": "Steady",
+        "portugues": "Firme",
+        "fraseIngles": "I provide steady leadership.",
+        "frasePortugues": "Forneço liderança firme.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 186,
+        "ingles": "Consistent",
+        "portugues": "Consistente",
+        "fraseIngles": "Consistent performance builds trust.",
+        "frasePortugues": "Desempenho consistente constrói confiança.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 187,
+        "ingles": "Reliable",
+        "portugues": "Confiável",
+        "fraseIngles": "I'm known for being reliable.",
+        "frasePortugues": "Sou conhecido por ser confiável.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 188,
+        "ingles": "Punctual",
+        "portugues": "Pontual",
+        "fraseIngles": "Being punctual shows respect.",
+        "frasePortugues": "Ser pontual mostra respeito.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 189,
+        "ingles": "Organized",
+        "portugues": "Organizado",
+        "fraseIngles": "Staying organized improves efficiency.",
+        "frasePortugues": "Manter-se organizado melhora a eficiência.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 190,
+        "ingles": "Prepared",
+        "portugues": "Preparado",
+        "fraseIngles": "I always come prepared.",
+        "frasePortugues": "Sempre venho preparado.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 191,
+        "ingles": "Ready",
+        "portugues": "Pronto",
+        "fraseIngles": "I'm ready for new challenges.",
+        "frasePortugues": "Estou pronto para novos desafios.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 192,
+        "ingles": "Eager",
+        "portugues": "Ansioso",
+        "fraseIngles": "I'm eager to contribute.",
+        "frasePortugues": "Estou ansioso para contribuir.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 193,
+        "ingles": "Interested",
+        "portugues": "Interessado",
+        "fraseIngles": "I'm very interested in this role.",
+        "frasePortugues": "Estou muito interessado neste cargo.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 194,
+        "ingles": "Curious",
+        "portugues": "Curioso",
+        "fraseIngles": "Curiosity drives continuous learning.",
+        "frasePortugues": "Curiosidade impulsiona aprendizado contínuo.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 195,
+        "ingles": "Inquisitive",
+        "portugues": "Curioso",
+        "fraseIngles": "Being inquisitive helps understanding.",
+        "frasePortugues": "Ser curioso ajuda na compreensão.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 196,
+        "ingles": "Open-minded",
+        "portugues": "Mente aberta",
+        "fraseIngles": "I'm open-minded to new ideas.",
+        "frasePortugues": "Tenho mente aberta para novas ideias.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 197,
+        "ingles": "Receptive",
+        "portugues": "Receptivo",
+        "fraseIngles": "I'm receptive to feedback.",
+        "frasePortugues": "Sou receptivo ao feedback.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 198,
+        "ingles": "Learning-oriented",
+        "portugues": "Orientado ao aprendizado",
+        "fraseIngles": "I'm always learning-oriented.",
+        "frasePortugues": "Sempre sou orientado ao aprendizado.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 199,
+        "ingles": "Growth-minded",
+        "portugues": "Mentalidade de crescimento",
+        "fraseIngles": "A growth-minded approach helps development.",
+        "frasePortugues": "Uma abordagem de mentalidade de crescimento ajuda no desenvolvimento.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 200,
+        "ingles": "Forward-thinking",
+        "portugues": "Visionário",
+        "fraseIngles": "I'm forward-thinking in my approach.",
+        "frasePortugues": "Sou visionário na minha abordagem.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 201,
+        "ingles": "Progressive",
+        "portugues": "Progressista",
+        "fraseIngles": "Progressive thinking drives innovation.",
+        "frasePortugues": "Pensamento progressista impulsiona inovação.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 202,
+        "ingles": "Dynamic",
+        "portugues": "Dinâmico",
+        "fraseIngles": "I bring dynamic energy to teams.",
+        "frasePortugues": "Trago energia dinâmica às equipes.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 203,
+        "ingles": "Energetic",
+        "portugues": "Energético",
+        "fraseIngles": "An energetic attitude is contagious.",
+        "frasePortugues": "Uma atitude energética é contagiosa.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 204,
+        "ingles": "Enthusiastic",
+        "portugues": "Entusiasta",
+        "fraseIngles": "I'm enthusiastic about opportunities.",
+        "frasePortugues": "Sou entusiasta sobre oportunidades.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 205,
+        "ingles": "Positive",
+        "portugues": "Positivo",
+        "fraseIngles": "I maintain a positive outlook.",
+        "frasePortugues": "Mantenho uma perspectiva positiva.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 206,
+        "ingles": "Optimistic",
+        "portugues": "Otimista",
+        "fraseIngles": "Being optimistic helps during challenges.",
+        "frasePortugues": "Ser otimista ajuda durante desafios.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 207,
+        "ingles": "Pleasant",
+        "portugues": "Agradável",
+        "fraseIngles": "I strive to be pleasant to work with.",
+        "frasePortugues": "Me esforço para ser agradável no trabalho.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 208,
+        "ingles": "Nice to meet you",
+        "portugues": "Prazer em conhecê-lo",
+        "fraseIngles": "It's nice to meet you.",
+        "frasePortugues": "É um prazer conhecê-lo.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 209,
+        "ingles": "Pleasure",
+        "portugues": "Prazer",
+        "fraseIngles": "The pleasure is mine.",
+        "frasePortugues": "O prazer é meu.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 210,
+        "ingles": "Honor",
+        "portugues": "Honra",
+        "fraseIngles": "It's an honor to be here.",
+        "frasePortugues": "É uma honra estar aqui.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 211,
+        "ingles": "Privilege",
+        "portugues": "Privilégio",
+        "fraseIngles": "It's a privilege to meet you.",
+        "frasePortugues": "É um privilégio conhecê-lo.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 212,
+        "ingles": "Delighted",
+        "portugues": "Encantado",
+        "fraseIngles": "I'm delighted to make your acquaintance.",
+        "frasePortugues": "Estou encantado em fazer sua companhia.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 213,
+        "ingles": "Thrilled",
+        "portugues": "Emocionado",
+        "fraseIngles": "I'm thrilled to be part of this team.",
+        "frasePortugues": "Estou emocionado em fazer parte desta equipe.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 214,
+        "ingles": "Excited",
+        "portugues": "Animado",
+        "fraseIngles": "I'm excited about this opportunity.",
+        "frasePortugues": "Estou animado com esta oportunidade.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 215,
+        "ingles": "Looking forward",
+        "portugues": "Ansioso por",
+        "fraseIngles": "I'm looking forward to working together.",
+        "frasePortugues": "Estou ansioso por trabalhar juntos.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 216,
+        "ingles": "Thank you",
+        "portugues": "Obrigado",
+        "fraseIngles": "Thank you for your time.",
+        "frasePortugues": "Obrigado pelo seu tempo.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 217,
+        "ingles": "Appreciate",
+        "portugues": "Agradecer",
+        "fraseIngles": "I appreciate this opportunity.",
+        "frasePortugues": "Agradeço esta oportunidade.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 218,
+        "ingles": "Grateful",
+        "portugues": "Grato",
+        "fraseIngles": "I'm grateful for the introduction.",
+        "frasePortugues": "Sou grato pela apresentação.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 219,
+        "ingles": "Business card",
+        "portugues": "Cartão de visita",
+        "fraseIngles": "Here's my business card.",
+        "frasePortugues": "Aqui está meu cartão de visita.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 220,
+        "ingles": "Contact information",
+        "portugues": "Informações de contato",
+        "fraseIngles": "Let me share my contact information.",
+        "frasePortugues": "Deixe-me compartilhar minhas informações de contato.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 221,
+        "ingles": "Follow up",
+        "portugues": "Acompanhar",
+        "fraseIngles": "I'll follow up with you next week.",
+        "frasePortugues": "Farei acompanhamento com você na próxima semana.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 222,
+        "ingles": "Stay in touch",
+        "portugues": "Manter contato",
+        "fraseIngles": "Let's stay in touch.",
+        "frasePortugues": "Vamos manter contato.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 223,
+        "ingles": "Connect",
+        "portugues": "Conectar",
+        "fraseIngles": "I'd like to connect with you on LinkedIn.",
+        "frasePortugues": "Gostaria de me conectar com você no LinkedIn.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    },
+    {
+        "id": 224,
+        "ingles": "Networking",
+        "portugues": "Networking",
+        "fraseIngles": "Networking is essential for career growth.",
+        "frasePortugues": "Networking é essencial para crescimento na carreira.",
+        "subtopico": "Profissões",
+        "topico": "Frases"
+    }
+]

@@ -1,0 +1,2216 @@
+[
+    {
+        "id": 1,
+        "ingles": "Hello",
+        "portugues": "Alô",
+        "fraseIngles": "Hello, this is John speaking.",
+        "frasePortugues": "Alô, aqui é o John falando.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 2,
+        "ingles": "Phone",
+        "portugues": "Telefone",
+        "fraseIngles": "The phone is ringing loudly.",
+        "frasePortugues": "O telefone está tocando alto.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 3,
+        "ingles": "Call",
+        "portugues": "Ligar / Ligação",
+        "fraseIngles": "I need to make a phone call.",
+        "frasePortugues": "Preciso fazer uma ligação.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 4,
+        "ingles": "Telephone",
+        "portugues": "Telefone",
+        "fraseIngles": "The telephone system is down.",
+        "frasePortugues": "O sistema telefônico está fora do ar.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 5,
+        "ingles": "Ring",
+        "portugues": "Tocar",
+        "fraseIngles": "Did you hear the phone ring?",
+        "frasePortugues": "Você ouviu o telefone tocar?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 6,
+        "ingles": "Answer",
+        "portugues": "Atender",
+        "fraseIngles": "Please answer the phone.",
+        "frasePortugues": "Por favor, atenda o telefone.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 7,
+        "ingles": "Pick up",
+        "portugues": "Atender",
+        "fraseIngles": "Can you pick up the phone?",
+        "frasePortugues": "Você pode atender o telefone?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 8,
+        "ingles": "Hang up",
+        "portugues": "Desligar",
+        "fraseIngles": "Don't hang up, I'll be right back.",
+        "frasePortugues": "Não desligue, já volto.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 9,
+        "ingles": "Dial",
+        "portugues": "Discar",
+        "fraseIngles": "Dial the number carefully.",
+        "frasePortugues": "Disque o número com cuidado.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 10,
+        "ingles": "Number",
+        "portugues": "Número",
+        "fraseIngles": "What's your phone number?",
+        "frasePortugues": "Qual é seu número de telefone?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 11,
+        "ingles": "Extension",
+        "portugues": "Ramal",
+        "fraseIngles": "Press 2 for the sales extension.",
+        "frasePortugues": "Aperte 2 para o ramal de vendas.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 12,
+        "ingles": "Area code",
+        "portugues": "Código de área",
+        "fraseIngles": "Don't forget the area code.",
+        "frasePortugues": "Não esqueça o código de área.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 13,
+        "ingles": "Country code",
+        "portugues": "Código do país",
+        "fraseIngles": "The country code for Brazil is 55.",
+        "frasePortugues": "O código do país para o Brasil é 55.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 14,
+        "ingles": "International",
+        "portugues": "Internacional",
+        "fraseIngles": "This is an international call.",
+        "frasePortugues": "Esta é uma ligação internacional.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 15,
+        "ingles": "Local",
+        "portugues": "Local",
+        "fraseIngles": "Local calls are free.",
+        "frasePortugues": "Ligações locais são gratuitas.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 16,
+        "ingles": "Long distance",
+        "portugues": "Longa distância",
+        "fraseIngles": "Long distance calls cost more.",
+        "frasePortugues": "Ligações de longa distância custam mais.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 17,
+        "ingles": "Mobile",
+        "portugues": "Celular",
+        "fraseIngles": "Call my mobile phone.",
+        "frasePortugues": "Ligue para meu celular.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 18,
+        "ingles": "Cell phone",
+        "portugues": "Celular",
+        "fraseIngles": "My cell phone battery is dead.",
+        "frasePortugues": "A bateria do meu celular acabou.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 19,
+        "ingles": "Landline",
+        "portugues": "Telefone fixo",
+        "fraseIngles": "The landline has better sound quality.",
+        "frasePortugues": "O telefone fixo tem melhor qualidade de som.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 20,
+        "ingles": "Home phone",
+        "portugues": "Telefone de casa",
+        "fraseIngles": "You can reach me on my home phone.",
+        "frasePortugues": "Pode me encontrar no telefone de casa.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 21,
+        "ingles": "Work phone",
+        "portugues": "Telefone do trabalho",
+        "fraseIngles": "Call me at my work phone tomorrow.",
+        "frasePortugues": "Me ligue no telefone do trabalho amanhã.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 22,
+        "ingles": "Office",
+        "portugues": "Escritório",
+        "fraseIngles": "This is the main office number.",
+        "frasePortugues": "Este é o número principal do escritório.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 23,
+        "ingles": "Business",
+        "portugues": "Comercial",
+        "fraseIngles": "For business inquiries, press 1.",
+        "frasePortugues": "Para consultas comerciais, aperte 1.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 24,
+        "ingles": "Personal",
+        "portugues": "Pessoal",
+        "fraseIngles": "This is my personal phone number.",
+        "frasePortugues": "Este é meu número de telefone pessoal.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 25,
+        "ingles": "Private",
+        "portugues": "Privado",
+        "fraseIngles": "This line is private.",
+        "frasePortugues": "Esta linha é privada.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 26,
+        "ingles": "Public",
+        "portugues": "Público",
+        "fraseIngles": "There's a public phone in the lobby.",
+        "frasePortugues": "Há um telefone público no lobby.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 27,
+        "ingles": "Payphone",
+        "portugues": "Orelhão",
+        "fraseIngles": "Payphones are rare nowadays.",
+        "frasePortugues": "Orelhões são raros hoje em dia.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 28,
+        "ingles": "Booth",
+        "portugues": "Cabine",
+        "fraseIngles": "The phone booth is broken.",
+        "frasePortugues": "A cabine telefônica está quebrada.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 29,
+        "ingles": "Line",
+        "portugues": "Linha",
+        "fraseIngles": "The line is busy right now.",
+        "frasePortugues": "A linha está ocupada agora.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 30,
+        "ingles": "Busy",
+        "portugues": "Ocupado",
+        "fraseIngles": "I got a busy signal.",
+        "frasePortugues": "Recebi sinal de ocupado.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 31,
+        "ingles": "Engaged",
+        "portugues": "Ocupado",
+        "fraseIngles": "The number is engaged.",
+        "frasePortugues": "O número está ocupado.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 32,
+        "ingles": "Available",
+        "portugues": "Disponível",
+        "fraseIngles": "The line is available now.",
+        "frasePortugues": "A linha está disponível agora.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 33,
+        "ingles": "Free",
+        "portugues": "Livre",
+        "fraseIngles": "Is this line free?",
+        "frasePortugues": "Esta linha está livre?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 34,
+        "ingles": "Connected",
+        "portugues": "Conectado",
+        "fraseIngles": "You're now connected to customer service.",
+        "frasePortugues": "Você está agora conectado ao atendimento ao cliente.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 35,
+        "ingles": "Disconnected",
+        "portugues": "Desconectado",
+        "fraseIngles": "We got disconnected somehow.",
+        "frasePortugues": "Fomos desconectados de alguma forma.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 36,
+        "ingles": "Signal",
+        "portugues": "Sinal",
+        "fraseIngles": "The signal is very weak here.",
+        "frasePortugues": "O sinal está muito fraco aqui.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 37,
+        "ingles": "Reception",
+        "portugues": "Recepção",
+        "fraseIngles": "The reception is poor in this area.",
+        "frasePortugues": "A recepção é ruim nesta área.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 38,
+        "ingles": "Coverage",
+        "portugues": "Cobertura",
+        "fraseIngles": "This area has good cell coverage.",
+        "frasePortugues": "Esta área tem boa cobertura celular.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 39,
+        "ingles": "Network",
+        "portugues": "Rede",
+        "fraseIngles": "Which network do you use?",
+        "frasePortugues": "Que rede você usa?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 40,
+        "ingles": "Provider",
+        "portugues": "Operadora",
+        "fraseIngles": "My service provider is reliable.",
+        "frasePortugues": "Minha operadora é confiável.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 41,
+        "ingles": "Carrier",
+        "portugues": "Operadora",
+        "fraseIngles": "Switch to a better carrier.",
+        "frasePortugues": "Mude para uma operadora melhor.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 42,
+        "ingles": "Plan",
+        "portugues": "Plano",
+        "fraseIngles": "I have an unlimited calling plan.",
+        "frasePortugues": "Tenho um plano de ligações ilimitadas.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 43,
+        "ingles": "Contract",
+        "portugues": "Contrato",
+        "fraseIngles": "My phone contract expires next month.",
+        "frasePortugues": "Meu contrato de telefone expira no próximo mês.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 44,
+        "ingles": "Prepaid",
+        "portugues": "Pré-pago",
+        "fraseIngles": "Prepaid phones don't require contracts.",
+        "frasePortugues": "Telefones pré-pagos não requerem contratos.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 45,
+        "ingles": "Credit",
+        "portugues": "Crédito",
+        "fraseIngles": "I need to add credit to my phone.",
+        "frasePortugues": "Preciso adicionar crédito ao meu telefone.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 46,
+        "ingles": "Minutes",
+        "portugues": "Minutos",
+        "fraseIngles": "How many minutes do you have left?",
+        "frasePortugues": "Quantos minutos você tem restantes?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 47,
+        "ingles": "Unlimited",
+        "portugues": "Ilimitado",
+        "fraseIngles": "This plan offers unlimited calls.",
+        "frasePortugues": "Este plano oferece ligações ilimitadas.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 48,
+        "ingles": "Roaming",
+        "portugues": "Roaming",
+        "fraseIngles": "Roaming charges can be expensive.",
+        "frasePortugues": "Taxas de roaming podem ser caras.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 49,
+        "ingles": "Voicemail",
+        "portugues": "Correio de voz",
+        "fraseIngles": "Check your voicemail messages.",
+        "frasePortugues": "Verifique suas mensagens de correio de voz.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 50,
+        "ingles": "Message",
+        "portugues": "Mensagem",
+        "fraseIngles": "Please leave a message after the beep.",
+        "frasePortugues": "Por favor, deixe uma mensagem após o sinal.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 51,
+        "ingles": "Recording",
+        "portugues": "Gravação",
+        "fraseIngles": "This call may be recorded for training.",
+        "frasePortugues": "Esta ligação pode ser gravada para treinamento.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 52,
+        "ingles": "Automated",
+        "portugues": "Automatizado",
+        "fraseIngles": "Follow the automated instructions.",
+        "frasePortugues": "Siga as instruções automatizadas.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 53,
+        "ingles": "Menu",
+        "portugues": "Menu",
+        "fraseIngles": "Listen to the menu options carefully.",
+        "frasePortugues": "Ouça as opções do menu cuidadosamente.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 54,
+        "ingles": "Press",
+        "portugues": "Apertar",
+        "fraseIngles": "Press 1 for English.",
+        "frasePortugues": "Aperte 1 para inglês.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 55,
+        "ingles": "Button",
+        "portugues": "Botão",
+        "fraseIngles": "Press the red button to end the call.",
+        "frasePortugues": "Aperte o botão vermelho para encerrar a ligação.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 56,
+        "ingles": "Hold",
+        "portugues": "Esperar",
+        "fraseIngles": "Please hold while I transfer you.",
+        "frasePortugues": "Por favor, aguarde enquanto eu o transfiro.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 57,
+        "ingles": "Wait",
+        "portugues": "Esperar",
+        "fraseIngles": "Please wait for the next available agent.",
+        "frasePortugues": "Por favor, aguarde o próximo agente disponível.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 58,
+        "ingles": "Transfer",
+        "portugues": "Transferir",
+        "fraseIngles": "I'll transfer you to the manager.",
+        "frasePortugues": "Vou transferi-lo para o gerente.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 59,
+        "ingles": "Connect",
+        "portugues": "Conectar",
+        "fraseIngles": "Let me connect you to the right department.",
+        "frasePortugues": "Deixe-me conectá-lo ao departamento certo.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 60,
+        "ingles": "Forward",
+        "portugues": "Encaminhar",
+        "fraseIngles": "I'll forward your call immediately.",
+        "frasePortugues": "Vou encaminhar sua ligação imediatamente.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 61,
+        "ingles": "Redirect",
+        "portugues": "Redirecionar",
+        "fraseIngles": "The call will be redirected automatically.",
+        "frasePortugues": "A ligação será redirecionada automaticamente.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 62,
+        "ingles": "Speaking",
+        "portugues": "Falando",
+        "fraseIngles": "This is Maria speaking.",
+        "frasePortugues": "Aqui é a Maria falando.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 63,
+        "ingles": "Calling",
+        "portugues": "Ligando",
+        "fraseIngles": "I'm calling about the job posting.",
+        "frasePortugues": "Estou ligando sobre a vaga de emprego.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 64,
+        "ingles": "Phoning",
+        "portugues": "Telefonando",
+        "fraseIngles": "I'm phoning to confirm my appointment.",
+        "frasePortugues": "Estou telefonando para confirmar minha consulta.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 65,
+        "ingles": "Contact",
+        "portugues": "Contato",
+        "fraseIngles": "How can I contact you later?",
+        "frasePortugues": "Como posso contatá-lo mais tarde?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 66,
+        "ingles": "Reach",
+        "portugues": "Alcançar",
+        "fraseIngles": "How can I reach you tomorrow?",
+        "frasePortugues": "Como posso alcançá-lo amanhã?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 67,
+        "ingles": "Get through",
+        "portugues": "Conseguir falar",
+        "fraseIngles": "I can't get through to anyone.",
+        "frasePortugues": "Não consigo falar com ninguém.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 68,
+        "ingles": "Get hold of",
+        "portugues": "Conseguir contato",
+        "fraseIngles": "I need to get hold of the manager.",
+        "frasePortugues": "Preciso conseguir contato com o gerente.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 69,
+        "ingles": "Callback",
+        "portugues": "Retorno de ligação",
+        "fraseIngles": "I'll give you a callback later.",
+        "frasePortugues": "Te dou um retorno de ligação mais tarde.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 70,
+        "ingles": "Return call",
+        "portugues": "Retornar ligação",
+        "fraseIngles": "Please return my call as soon as possible.",
+        "frasePortugues": "Por favor, retorne minha ligação o mais rápido possível.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 71,
+        "ingles": "Follow up",
+        "portugues": "Acompanhar",
+        "fraseIngles": "I'm calling to follow up on our meeting.",
+        "frasePortugues": "Estou ligando para acompanhar nossa reunião.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 72,
+        "ingles": "Check in",
+        "portugues": "Verificar",
+        "fraseIngles": "I'm calling to check in on the project.",
+        "frasePortugues": "Estou ligando para verificar o projeto.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 73,
+        "ingles": "Touch base",
+        "portugues": "Entrar em contato",
+        "fraseIngles": "Let me touch base with you next week.",
+        "frasePortugues": "Deixe-me entrar em contato na próxima semana.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 74,
+        "ingles": "Catch up",
+        "portugues": "Conversar",
+        "fraseIngles": "Let's catch up over the phone.",
+        "frasePortugues": "Vamos conversar por telefone.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 75,
+        "ingles": "Who",
+        "portugues": "Quem",
+        "fraseIngles": "Who am I speaking with?",
+        "frasePortugues": "Com quem estou falando?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 76,
+        "ingles": "Whom",
+        "portugues": "A quem",
+        "fraseIngles": "To whom should I direct this call?",
+        "frasePortugues": "A quem devo direcionar esta ligação?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 77,
+        "ingles": "What",
+        "portugues": "O que",
+        "fraseIngles": "What can I help you with today?",
+        "frasePortugues": "Com o que posso ajudá-lo hoje?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 78,
+        "ingles": "Where",
+        "portugues": "Onde",
+        "fraseIngles": "Where are you calling from?",
+        "frasePortugues": "De onde você está ligando?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 79,
+        "ingles": "When",
+        "portugues": "Quando",
+        "fraseIngles": "When would be a good time to call back?",
+        "frasePortugues": "Quando seria um bom horário para ligar de volta?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 80,
+        "ingles": "Why",
+        "portugues": "Por que",
+        "fraseIngles": "Why are you calling our office?",
+        "frasePortugues": "Por que está ligando para nosso escritório?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 81,
+        "ingles": "How",
+        "portugues": "Como",
+        "fraseIngles": "How can I assist you?",
+        "frasePortugues": "Como posso ajudá-lo?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 82,
+        "ingles": "May I",
+        "portugues": "Posso",
+        "fraseIngles": "May I ask who's calling?",
+        "frasePortugues": "Posso perguntar quem está ligando?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 83,
+        "ingles": "Could you",
+        "portugues": "Poderia",
+        "fraseIngles": "Could you please hold for a moment?",
+        "frasePortugues": "Poderia aguardar um momento, por favor?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 84,
+        "ingles": "Would you",
+        "portugues": "Você poderia",
+        "fraseIngles": "Would you like to leave a message?",
+        "frasePortugues": "Você gostaria de deixar uma mensagem?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 85,
+        "ingles": "Can I",
+        "portugues": "Posso",
+        "fraseIngles": "Can I take a message for him?",
+        "frasePortugues": "Posso anotar um recado para ele?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 86,
+        "ingles": "Identify",
+        "portugues": "Identificar",
+        "fraseIngles": "Please identify yourself.",
+        "frasePortugues": "Por favor, identifique-se.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 87,
+        "ingles": "Name",
+        "portugues": "Nome",
+        "fraseIngles": "May I have your name please?",
+        "frasePortugues": "Posso ter seu nome, por favor?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 88,
+        "ingles": "Spell",
+        "portugues": "Soletrar",
+        "fraseIngles": "Could you spell your last name?",
+        "frasePortugues": "Poderia soletrar seu sobrenome?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 89,
+        "ingles": "Repeat",
+        "portugues": "Repetir",
+        "fraseIngles": "Could you repeat that please?",
+        "frasePortugues": "Poderia repetir isso, por favor?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 90,
+        "ingles": "Clarify",
+        "portugues": "Esclarecer",
+        "fraseIngles": "Let me clarify what you're asking.",
+        "frasePortugues": "Deixe-me esclarecer o que você está perguntando.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 91,
+        "ingles": "Confirm",
+        "portugues": "Confirmar",
+        "fraseIngles": "Let me confirm your phone number.",
+        "frasePortugues": "Deixe-me confirmar seu número de telefone.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 92,
+        "ingles": "Verify",
+        "portugues": "Verificar",
+        "fraseIngles": "I need to verify your account information.",
+        "frasePortugues": "Preciso verificar as informações da sua conta.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 93,
+        "ingles": "Information",
+        "portugues": "Informação",
+        "fraseIngles": "I need some information from you.",
+        "frasePortugues": "Preciso de algumas informações suas.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 94,
+        "ingles": "Details",
+        "portugues": "Detalhes",
+        "fraseIngles": "Can you give me more details?",
+        "frasePortugues": "Pode me dar mais detalhes?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 95,
+        "ingles": "Specific",
+        "portugues": "Específico",
+        "fraseIngles": "I need specific information about this.",
+        "frasePortugues": "Preciso de informação específica sobre isso.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 96,
+        "ingles": "General",
+        "portugues": "Geral",
+        "fraseIngles": "This is just a general inquiry.",
+        "frasePortugues": "Esta é apenas uma consulta geral.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 97,
+        "ingles": "Question",
+        "portugues": "Pergunta",
+        "fraseIngles": "I have a question about my order.",
+        "frasePortugues": "Tenho uma pergunta sobre meu pedido.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 98,
+        "ingles": "Inquiry",
+        "portugues": "Consulta",
+        "fraseIngles": "This is an inquiry about your services.",
+        "frasePortugues": "Esta é uma consulta sobre seus serviços.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 99,
+        "ingles": "Request",
+        "portugues": "Solicitação",
+        "fraseIngles": "I have a request for information.",
+        "frasePortugues": "Tenho uma solicitação de informação.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 100,
+        "ingles": "Purpose",
+        "portugues": "Propósito",
+        "fraseIngles": "What's the purpose of your call?",
+        "frasePortugues": "Qual é o propósito da sua ligação?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 101,
+        "ingles": "Reason",
+        "portugues": "Razão",
+        "fraseIngles": "The reason I'm calling is to complain.",
+        "frasePortugues": "A razão pela qual estou ligando é para reclamar.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 102,
+        "ingles": "Matter",
+        "portugues": "Assunto",
+        "fraseIngles": "This is regarding a personal matter.",
+        "frasePortugues": "Isto é sobre um assunto pessoal.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 103,
+        "ingles": "Issue",
+        "portugues": "Questão",
+        "fraseIngles": "I'm calling about a billing issue.",
+        "frasePortugues": "Estou ligando sobre uma questão de cobrança.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 104,
+        "ingles": "Problem",
+        "portugues": "Problema",
+        "fraseIngles": "I'm having a problem with my service.",
+        "frasePortugues": "Estou tendo um problema com meu serviço.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 105,
+        "ingles": "Complaint",
+        "portugues": "Reclamação",
+        "fraseIngles": "I'd like to file a complaint.",
+        "frasePortugues": "Gostaria de fazer uma reclamação.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 106,
+        "ingles": "Concern",
+        "portugues": "Preocupação",
+        "fraseIngles": "I have a concern about my account.",
+        "frasePortugues": "Tenho uma preocupação sobre minha conta.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 107,
+        "ingles": "Emergency",
+        "portugues": "Emergência",
+        "fraseIngles": "This is an emergency call.",
+        "frasePortugues": "Esta é uma ligação de emergência.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 108,
+        "ingles": "Urgent",
+        "portugues": "Urgente",
+        "fraseIngles": "This matter is very urgent.",
+        "frasePortugues": "Este assunto é muito urgente.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 109,
+        "ingles": "Important",
+        "portugues": "Importante",
+        "fraseIngles": "This is an important call.",
+        "frasePortugues": "Esta é uma ligação importante.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 110,
+        "ingles": "Priority",
+        "portugues": "Prioridade",
+        "fraseIngles": "This call is high priority.",
+        "frasePortugues": "Esta ligação é de alta prioridade.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 111,
+        "ingles": "Routine",
+        "portugues": "Rotina",
+        "fraseIngles": "This is just a routine check-in call.",
+        "frasePortugues": "Esta é apenas uma ligação de verificação de rotina.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 112,
+        "ingles": "Appointment",
+        "portugues": "Agendamento",
+        "fraseIngles": "I'm calling to schedule an appointment.",
+        "frasePortugues": "Estou ligando para agendar uma consulta.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 113,
+        "ingles": "Schedule",
+        "portugues": "Agendar",
+        "fraseIngles": "Can we schedule a phone meeting?",
+        "frasePortugues": "Podemos agendar uma reunião por telefone?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 114,
+        "ingles": "Reschedule",
+        "portugues": "Reagendar",
+        "fraseIngles": "I need to reschedule our call.",
+        "frasePortugues": "Preciso reagendar nossa ligação.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 115,
+        "ingles": "Cancel",
+        "portugues": "Cancelar",
+        "fraseIngles": "I have to cancel our phone appointment.",
+        "frasePortugues": "Tenho que cancelar nosso agendamento telefônico.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 116,
+        "ingles": "Postpone",
+        "portugues": "Adiar",
+        "fraseIngles": "Can we postpone the call until tomorrow?",
+        "frasePortugues": "Podemos adiar a ligação para amanhã?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 117,
+        "ingles": "Delay",
+        "portugues": "Atrasar",
+        "fraseIngles": "There will be a delay in returning your call.",
+        "frasePortugues": "Haverá um atraso em retornar sua ligação.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 118,
+        "ingles": "Available",
+        "portugues": "Disponível",
+        "fraseIngles": "I'm available to talk now.",
+        "frasePortugues": "Estou disponível para falar agora.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 119,
+        "ingles": "Busy",
+        "portugues": "Ocupado",
+        "fraseIngles": "I'm busy right now, can you call back?",
+        "frasePortugues": "Estou ocupado agora, pode ligar mais tarde?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 120,
+        "ingles": "Free",
+        "portugues": "Livre",
+        "fraseIngles": "Are you free to talk?",
+        "frasePortugues": "Você está livre para falar?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 121,
+        "ingles": "Time",
+        "portugues": "Tempo",
+        "fraseIngles": "Do you have time to talk?",
+        "frasePortugues": "Você tem tempo para falar?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 122,
+        "ingles": "Convenient",
+        "portugues": "Conveniente",
+        "fraseIngles": "Is this a convenient time to call?",
+        "frasePortugues": "Este é um horário conveniente para ligar?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 123,
+        "ingles": "Inconvenient",
+        "portugues": "Inconveniente",
+        "fraseIngles": "This is an inconvenient time for me.",
+        "frasePortugues": "Este é um horário inconveniente para mim.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 124,
+        "ingles": "Better",
+        "portugues": "Melhor",
+        "fraseIngles": "Would later be better for you?",
+        "frasePortugues": "Mais tarde seria melhor para você?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 125,
+        "ingles": "Perfect",
+        "portugues": "Perfeito",
+        "fraseIngles": "This timing is perfect.",
+        "frasePortugues": "Este horário é perfeito.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 126,
+        "ingles": "Good",
+        "portugues": "Bom",
+        "fraseIngles": "This is a good time to call.",
+        "frasePortugues": "Este é um bom horário para ligar.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 127,
+        "ingles": "Bad",
+        "portugues": "Ruim",
+        "fraseIngles": "This is a bad time to talk.",
+        "frasePortugues": "Este é um horário ruim para falar.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 128,
+        "ingles": "Early",
+        "portugues": "Cedo",
+        "fraseIngles": "Sorry for calling so early.",
+        "frasePortugues": "Desculpe por ligar tão cedo.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 129,
+        "ingles": "Late",
+        "portugues": "Tarde",
+        "fraseIngles": "I hope it's not too late to call.",
+        "frasePortugues": "Espero que não seja tarde demais para ligar.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 130,
+        "ingles": "Business hours",
+        "portugues": "Horário comercial",
+        "fraseIngles": "Please call during business hours.",
+        "frasePortugues": "Por favor, ligue durante o horário comercial.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 131,
+        "ingles": "After hours",
+        "portugues": "Fora do horário",
+        "fraseIngles": "This is an after-hours call.",
+        "frasePortugues": "Esta é uma ligação fora do horário.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 132,
+        "ingles": "Weekend",
+        "portugues": "Fim de semana",
+        "fraseIngles": "Can I call you over the weekend?",
+        "frasePortugues": "Posso ligar para você no fim de semana?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 133,
+        "ingles": "Holiday",
+        "portugues": "Feriado",
+        "fraseIngles": "We're closed for the holiday.",
+        "frasePortugues": "Estamos fechados pelo feriado.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 134,
+        "ingles": "Volume",
+        "portugues": "Volume",
+        "fraseIngles": "Can you turn up the volume?",
+        "frasePortugues": "Pode aumentar o volume?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 135,
+        "ingles": "Loud",
+        "portugues": "Alto",
+        "fraseIngles": "You're speaking too loud.",
+        "frasePortugues": "Você está falando alto demais.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 136,
+        "ingles": "Quiet",
+        "portugues": "Baixo",
+        "fraseIngles": "Please speak louder, you're too quiet.",
+        "frasePortugues": "Por favor, fale mais alto, você está muito baixo.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 137,
+        "ingles": "Clear",
+        "portugues": "Claro",
+        "fraseIngles": "The connection is very clear.",
+        "frasePortugues": "A conexão está muito clara.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 138,
+        "ingles": "Unclear",
+        "portugues": "Pouco claro",
+        "fraseIngles": "Your voice is unclear.",
+        "frasePortugues": "Sua voz não está clara.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 139,
+        "ingles": "Muffled",
+        "portugues": "Abafado",
+        "fraseIngles": "Your voice sounds muffled.",
+        "frasePortugues": "Sua voz está abafada.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 140,
+        "ingles": "Distorted",
+        "portugues": "Distorcida",
+        "fraseIngles": "The sound is distorted.",
+        "frasePortugues": "O som está distorcido.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 141,
+        "ingles": "Echo",
+        "portugues": "Eco",
+        "fraseIngles": "There's an echo on the line.",
+        "frasePortugues": "Há eco na linha.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 142,
+        "ingles": "Static",
+        "portugues": "Chiado",
+        "fraseIngles": "I'm hearing a lot of static.",
+        "frasePortugues": "Estou ouvindo muito chiado.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 143,
+        "ingles": "Interference",
+        "portugues": "Interferência",
+        "fraseIngles": "There's interference on the line.",
+        "frasePortugues": "Há interferência na linha.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 144,
+        "ingles": "Noise",
+        "portugues": "Ruído",
+        "fraseIngles": "There's background noise.",
+        "frasePortugues": "Há ruído de fundo.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 145,
+        "ingles": "Quiet down",
+        "portugues": "Silenciar",
+        "fraseIngles": "Can you quiet down the background?",
+        "frasePortugues": "Pode silenciar o fundo?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 146,
+        "ingles": "Microphone",
+        "portugues": "Microfone",
+        "fraseIngles": "Check your microphone settings.",
+        "frasePortugues": "Verifique as configurações do seu microfone.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 147,
+        "ingles": "Speaker",
+        "portugues": "Alto-falante",
+        "fraseIngles": "Put me on speaker phone.",
+        "frasePortugues": "Me coloque no viva-voz.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 148,
+        "ingles": "Speakerphone",
+        "portugues": "Viva-voz",
+        "fraseIngles": "Is this call on speakerphone?",
+        "frasePortugues": "Esta ligação está no viva-voz?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 149,
+        "ingles": "Headset",
+        "portugues": "Fone de ouvido",
+        "fraseIngles": "I'm using a headset for better quality.",
+        "frasePortugues": "Estou usando fone de ouvido para melhor qualidade.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 150,
+        "ingles": "Bluetooth",
+        "portugues": "Bluetooth",
+        "fraseIngles": "My Bluetooth headset is connected.",
+        "frasePortugues": "Meu fone Bluetooth está conectado.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 151,
+        "ingles": "Wireless",
+        "portugues": "Sem fio",
+        "fraseIngles": "This is a wireless connection.",
+        "frasePortugues": "Esta é uma conexão sem fio.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 152,
+        "ingles": "Hands-free",
+        "portugues": "Viva-voz",
+        "fraseIngles": "I'm driving, so I'm using hands-free.",
+        "frasePortugues": "Estou dirigindo, então estou usando viva-voz.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 153,
+        "ingles": "Mute",
+        "portugues": "Mudo",
+        "fraseIngles": "Can you mute your microphone?",
+        "frasePortugues": "Pode colocar seu microfone no mudo?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 154,
+        "ingles": "Unmute",
+        "portugues": "Tirar do mudo",
+        "fraseIngles": "Please unmute yourself.",
+        "frasePortugues": "Por favor, tire-se do mudo.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 155,
+        "ingles": "Conference call",
+        "portugues": "Conferência",
+        "fraseIngles": "This is a conference call with three people.",
+        "frasePortugues": "Esta é uma conferência com três pessoas.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 156,
+        "ingles": "Meeting",
+        "portugues": "Reunião",
+        "fraseIngles": "Let's have a phone meeting instead.",
+        "frasePortugues": "Vamos fazer uma reunião por telefone.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 157,
+        "ingles": "Group call",
+        "portugues": "Ligação em grupo",
+        "fraseIngles": "We're having a group call at 3 PM.",
+        "frasePortugues": "Vamos ter uma ligação em grupo às 15h.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 158,
+        "ingles": "Three-way call",
+        "portugues": "Ligação tripartite",
+        "fraseIngles": "Can you set up a three-way call?",
+        "frasePortugues": "Pode configurar uma ligação tripartite?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 159,
+        "ingles": "Join",
+        "portugues": "Participar",
+        "fraseIngles": "How do I join the conference call?",
+        "frasePortugues": "Como participo da conferência?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 160,
+        "ingles": "Dial in",
+        "portugues": "Discar para entrar",
+        "fraseIngles": "Dial in using the number provided.",
+        "frasePortugues": "Disque para entrar usando o número fornecido.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 161,
+        "ingles": "Access code",
+        "portugues": "Código de acesso",
+        "fraseIngles": "You'll need the access code to join.",
+        "frasePortugues": "Você precisará do código de acesso para participar.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 162,
+        "ingles": "Participant",
+        "portugues": "Participante",
+        "fraseIngles": "How many participants are on this call?",
+        "frasePortugues": "Quantos participantes há nesta ligação?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 163,
+        "ingles": "Host",
+        "portugues": "Anfitrião",
+        "fraseIngles": "I'm the host of this conference.",
+        "frasePortugues": "Sou o anfitrião desta conferência.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 164,
+        "ingles": "Moderator",
+        "portugues": "Moderador",
+        "fraseIngles": "The moderator will start the call shortly.",
+        "frasePortugues": "O moderador iniciará a ligação em breve.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 165,
+        "ingles": "Recording",
+        "portugues": "Gravação",
+        "fraseIngles": "This conference call is being recorded.",
+        "frasePortugues": "Esta conferência está sendo gravada.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 166,
+        "ingles": "Privacy",
+        "portugues": "Privacidade",
+        "fraseIngles": "This call is private and confidential.",
+        "frasePortugues": "Esta ligação é privada e confidencial.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 167,
+        "ingles": "Confidential",
+        "portugues": "Confidencial",
+        "fraseIngles": "The information discussed is confidential.",
+        "frasePortugues": "A informação discutida é confidencial.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 168,
+        "ingles": "Secure",
+        "portugues": "Seguro",
+        "fraseIngles": "This is a secure phone line.",
+        "frasePortugues": "Esta é uma linha telefônica segura.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 169,
+        "ingles": "Encrypted",
+        "portugues": "Criptografado",
+        "fraseIngles": "Our calls are encrypted for security.",
+        "frasePortugues": "Nossas ligações são criptografadas por segurança.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 170,
+        "ingles": "Customer service",
+        "portugues": "Atendimento ao cliente",
+        "fraseIngles": "You've reached customer service.",
+        "frasePortugues": "Você chegou ao atendimento ao cliente.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 171,
+        "ingles": "Support",
+        "portugues": "Suporte",
+        "fraseIngles": "This is technical support.",
+        "frasePortugues": "Este é o suporte técnico.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 172,
+        "ingles": "Help desk",
+        "portugues": "Mesa de ajuda",
+        "fraseIngles": "The help desk is available 24/7.",
+        "frasePortugues": "A mesa de ajuda está disponível 24/7.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 173,
+        "ingles": "Agent",
+        "portugues": "Agente",
+        "fraseIngles": "You'll be connected to the next agent.",
+        "frasePortugues": "Você será conectado ao próximo agente.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 174,
+        "ingles": "Representative",
+        "portugues": "Representante",
+        "fraseIngles": "A representative will assist you.",
+        "frasePortugues": "Um representante o ajudará.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 175,
+        "ingles": "Operator",
+        "portugues": "Operador",
+        "fraseIngles": "Please hold for an operator.",
+        "frasePortugues": "Por favor, aguarde um operador.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 176,
+        "ingles": "Assistant",
+        "portugues": "Assistente",
+        "fraseIngles": "This is the manager's assistant.",
+        "frasePortugues": "Esta é a assistente do gerente.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 177,
+        "ingles": "Secretary",
+        "portugues": "Secretário",
+        "fraseIngles": "The secretary will take your message.",
+        "frasePortugues": "O secretário anotará sua mensagem.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 178,
+        "ingles": "Receptionist",
+        "portugues": "Recepcionista",
+        "fraseIngles": "The receptionist answered the phone.",
+        "frasePortugues": "A recepcionista atendeu o telefone.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 179,
+        "ingles": "Department",
+        "portugues": "Departamento",
+        "fraseIngles": "Which department are you trying to reach?",
+        "frasePortugues": "Que departamento você está tentando alcançar?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 180,
+        "ingles": "Sales",
+        "portugues": "Vendas",
+        "fraseIngles": "Press 1 for the sales department.",
+        "frasePortugues": "Aperte 1 para o departamento de vendas.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 181,
+        "ingles": "Marketing",
+        "portugues": "Marketing",
+        "fraseIngles": "Marketing can help with that inquiry.",
+        "frasePortugues": "Marketing pode ajudar com essa consulta.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 182,
+        "ingles": "Billing",
+        "portugues": "Faturamento",
+        "fraseIngles": "Billing questions go to extension 205.",
+        "frasePortugues": "Perguntas de faturamento vão para o ramal 205.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 183,
+        "ingles": "Accounting",
+        "portugues": "Contabilidade",
+        "fraseIngles": "Transfer this to accounting.",
+        "frasePortugues": "Transfira isso para a contabilidade.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 184,
+        "ingles": "Legal",
+        "portugues": "Jurídico",
+        "fraseIngles": "You need to speak with legal.",
+        "frasePortugues": "Você precisa falar com o jurídico.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 185,
+        "ingles": "Human resources",
+        "portugues": "Recursos humanos",
+        "fraseIngles": "HR handles employment questions.",
+        "frasePortugues": "RH cuida de questões trabalhistas.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 186,
+        "ingles": "IT",
+        "portugues": "TI",
+        "fraseIngles": "Call IT for technical problems.",
+        "frasePortugues": "Ligue para TI para problemas técnicos.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 187,
+        "ingles": "Management",
+        "portugues": "Gerência",
+        "fraseIngles": "Management will review your complaint.",
+        "frasePortugues": "A gerência revisará sua reclamação.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 188,
+        "ingles": "Supervisor",
+        "portugues": "Supervisor",
+        "fraseIngles": "Let me get my supervisor.",
+        "frasePortugues": "Deixe-me chamar meu supervisor.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 189,
+        "ingles": "Manager",
+        "portugues": "Gerente",
+        "fraseIngles": "The manager is in a meeting.",
+        "frasePortugues": "O gerente está em reunião.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 190,
+        "ingles": "Director",
+        "portugues": "Diretor",
+        "fraseIngles": "The director will call you back.",
+        "frasePortugues": "O diretor retornará sua ligação.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 191,
+        "ingles": "President",
+        "portugues": "Presidente",
+        "fraseIngles": "The president is unavailable today.",
+        "frasePortugues": "O presidente não está disponível hoje.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 192,
+        "ingles": "CEO",
+        "portugues": "Diretor executivo",
+        "fraseIngles": "The CEO's office is on line two.",
+        "frasePortugues": "O escritório do diretor executivo está na linha dois.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 193,
+        "ingles": "Appointment book",
+        "portugues": "Agenda",
+        "fraseIngles": "Let me check the appointment book.",
+        "frasePortugues": "Deixe-me verificar a agenda.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 194,
+        "ingles": "Calendar",
+        "portugues": "Calendário",
+        "fraseIngles": "I'll add this to my calendar.",
+        "frasePortugues": "Vou adicionar isso ao meu calendário.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 195,
+        "ingles": "Diary",
+        "portugues": "Agenda",
+        "fraseIngles": "Check your diary for availability.",
+        "frasePortugues": "Verifique sua agenda para disponibilidade.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 196,
+        "ingles": "Reminder",
+        "portugues": "Lembrete",
+        "fraseIngles": "I'll set a reminder to call you.",
+        "frasePortugues": "Vou definir um lembrete para ligar para você.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 197,
+        "ingles": "Note",
+        "portugues": "Anotação",
+        "fraseIngles": "Let me make a note of that.",
+        "frasePortugues": "Deixe-me anotar isso.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 198,
+        "ingles": "Write down",
+        "portugues": "Anotar",
+        "fraseIngles": "Write down this phone number.",
+        "frasePortugues": "Anote este número de telefone.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 199,
+        "ingles": "Record",
+        "portugues": "Registrar",
+        "fraseIngles": "I'll record your complaint.",
+        "frasePortugues": "Vou registrar sua reclamação.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 200,
+        "ingles": "Document",
+        "portugues": "Documentar",
+        "fraseIngles": "We need to document this conversation.",
+        "frasePortugues": "Precisamos documentar esta conversa.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 201,
+        "ingles": "File",
+        "portugues": "Arquivo",
+        "fraseIngles": "I'll put this in your file.",
+        "frasePortugues": "Vou colocar isso no seu arquivo.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 202,
+        "ingles": "Reference",
+        "portugues": "Referência",
+        "fraseIngles": "What's your reference number?",
+        "frasePortugues": "Qual é seu número de referência?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 203,
+        "ingles": "Case number",
+        "portugues": "Número do caso",
+        "fraseIngles": "Your case number is 12345.",
+        "frasePortugues": "Seu número de caso é 12345.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 204,
+        "ingles": "Ticket",
+        "portugues": "Chamado",
+        "fraseIngles": "I'll create a support ticket.",
+        "frasePortugues": "Vou criar um chamado de suporte.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 205,
+        "ingles": "Follow up",
+        "portugues": "Acompanhamento",
+        "fraseIngles": "I'll do a follow up call tomorrow.",
+        "frasePortugues": "Farei uma ligação de acompanhamento amanhã.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 206,
+        "ingles": "Update",
+        "portugues": "Atualização",
+        "fraseIngles": "I'll call with an update later.",
+        "frasePortugues": "Ligarei com uma atualização mais tarde.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 207,
+        "ingles": "Status",
+        "portugues": "Status",
+        "fraseIngles": "What's the status of my request?",
+        "frasePortugues": "Qual é o status da minha solicitação?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 208,
+        "ingles": "Progress",
+        "portugues": "Progresso",
+        "fraseIngles": "Let me check the progress.",
+        "frasePortugues": "Deixe-me verificar o progresso.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 209,
+        "ingles": "Resolution",
+        "portugues": "Resolução",
+        "fraseIngles": "We're working toward a resolution.",
+        "frasePortugues": "Estamos trabalhando para uma resolução.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 210,
+        "ingles": "Solution",
+        "portugues": "Solução",
+        "fraseIngles": "I think I have a solution.",
+        "frasePortugues": "Acho que tenho uma solução.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 211,
+        "ingles": "Answer",
+        "portugues": "Resposta",
+        "fraseIngles": "I don't have an answer right now.",
+        "frasePortugues": "Não tenho uma resposta agora.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 212,
+        "ingles": "Response",
+        "portugues": "Resposta",
+        "fraseIngles": "You'll get a response within 24 hours.",
+        "frasePortugues": "Você receberá uma resposta em 24 horas.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 213,
+        "ingles": "Feedback",
+        "portugues": "Feedback",
+        "fraseIngles": "We appreciate your feedback.",
+        "frasePortugues": "Agradecemos seu feedback.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 214,
+        "ingles": "Satisfaction",
+        "portugues": "Satisfação",
+        "fraseIngles": "How would you rate your satisfaction?",
+        "frasePortugues": "Como avaliaria sua satisfação?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 215,
+        "ingles": "Survey",
+        "portugues": "Pesquisa",
+        "fraseIngles": "You may receive a satisfaction survey.",
+        "frasePortugues": "Você pode receber uma pesquisa de satisfação.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 216,
+        "ingles": "Rating",
+        "portugues": "Avaliação",
+        "fraseIngles": "Please give us a rating.",
+        "frasePortugues": "Por favor, nos dê uma avaliação.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 217,
+        "ingles": "Review",
+        "portugues": "Avaliação",
+        "fraseIngles": "We'd appreciate an online review.",
+        "frasePortugues": "Agradeceríamos uma avaliação online.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 218,
+        "ingles": "Quality",
+        "portugues": "Qualidade",
+        "fraseIngles": "This call may be monitored for quality.",
+        "frasePortugues": "Esta ligação pode ser monitorada para qualidade.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 219,
+        "ingles": "Training",
+        "portugues": "Treinamento",
+        "fraseIngles": "Calls are recorded for training purposes.",
+        "frasePortugues": "Ligações são gravadas para fins de treinamento.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 220,
+        "ingles": "Improvement",
+        "portugues": "Melhoria",
+        "fraseIngles": "We're always working on improvement.",
+        "frasePortugues": "Estamos sempre trabalhando na melhoria.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 221,
+        "ingles": "Service",
+        "portugues": "Serviço",
+        "fraseIngles": "How was our service today?",
+        "frasePortugues": "Como foi nosso serviço hoje?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 222,
+        "ingles": "Experience",
+        "portugues": "Experiência",
+        "fraseIngles": "How was your experience with us?",
+        "frasePortugues": "Como foi sua experiência conosco?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 223,
+        "ingles": "Helpful",
+        "portugues": "Útil",
+        "fraseIngles": "I hope I was helpful.",
+        "frasePortugues": "Espero ter sido útil.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 224,
+        "ingles": "Assistance",
+        "portugues": "Assistência",
+        "fraseIngles": "Thank you for your assistance.",
+        "frasePortugues": "Obrigado pela sua assistência.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 225,
+        "ingles": "Cooperation",
+        "portugues": "Cooperação",
+        "fraseIngles": "I appreciate your cooperation.",
+        "frasePortugues": "Agradeço sua cooperação.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 226,
+        "ingles": "Patience",
+        "portugues": "Paciência",
+        "fraseIngles": "Thank you for your patience.",
+        "frasePortugues": "Obrigado pela sua paciência.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 227,
+        "ingles": "Understanding",
+        "portugues": "Compreensão",
+        "fraseIngles": "Thank you for your understanding.",
+        "frasePortugues": "Obrigado pela sua compreensão.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 228,
+        "ingles": "Sorry",
+        "portugues": "Desculpa",
+        "fraseIngles": "Sorry for the inconvenience.",
+        "frasePortugues": "Desculpa pela inconveniência.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 229,
+        "ingles": "Apologize",
+        "portugues": "Pedir desculpas",
+        "fraseIngles": "I apologize for the delay.",
+        "frasePortugues": "Peço desculpas pelo atraso.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 230,
+        "ingles": "Excuse",
+        "portugues": "Desculpar",
+        "fraseIngles": "Excuse the interruption.",
+        "frasePortugues": "Desculpe a interrupção.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 231,
+        "ingles": "Pardon",
+        "portugues": "Perdão",
+        "fraseIngles": "Pardon me, could you repeat that?",
+        "frasePortugues": "Perdão, poderia repetir isso?",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 232,
+        "ingles": "Thank you",
+        "portugues": "Obrigado",
+        "fraseIngles": "Thank you for calling.",
+        "frasePortugues": "Obrigado por ligar.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 233,
+        "ingles": "Thanks",
+        "portugues": "Obrigado",
+        "fraseIngles": "Thanks for your time.",
+        "frasePortugues": "Obrigado pelo seu tempo.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 234,
+        "ingles": "Appreciate",
+        "portugues": "Agradecer",
+        "fraseIngles": "I appreciate your help.",
+        "frasePortugues": "Agradeço sua ajuda.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 235,
+        "ingles": "Welcome",
+        "portugues": "De nada",
+        "fraseIngles": "You're welcome, anytime.",
+        "frasePortugues": "De nada, sempre que precisar.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 236,
+        "ingles": "Pleasure",
+        "portugues": "Prazer",
+        "fraseIngles": "It was a pleasure talking with you.",
+        "frasePortugues": "Foi um prazer falar com você.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 237,
+        "ingles": "Goodbye",
+        "portugues": "Tchau",
+        "fraseIngles": "Goodbye, have a great day.",
+        "frasePortugues": "Tchau, tenha um ótimo dia.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 238,
+        "ingles": "Bye",
+        "portugues": "Tchau",
+        "fraseIngles": "Bye for now.",
+        "frasePortugues": "Tchau por enquanto.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 239,
+        "ingles": "Talk soon",
+        "portugues": "Falar em breve",
+        "fraseIngles": "Talk to you soon.",
+        "frasePortugues": "Falo com você em breve.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 240,
+        "ingles": "Take care",
+        "portugues": "Se cuide",
+        "fraseIngles": "Take care of yourself.",
+        "frasePortugues": "Cuide-se.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 241,
+        "ingles": "Have a good day",
+        "portugues": "Tenha um bom dia",
+        "fraseIngles": "Have a good day!",
+        "frasePortugues": "Tenha um bom dia!",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 242,
+        "ingles": "Nice talking",
+        "portugues": "Foi bom conversar",
+        "fraseIngles": "It was nice talking to you.",
+        "frasePortugues": "Foi bom conversar com você.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 243,
+        "ingles": "Keep in touch",
+        "portugues": "Manter contato",
+        "fraseIngles": "Let's keep in touch.",
+        "frasePortugues": "Vamos manter contato.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 244,
+        "ingles": "Call back",
+        "portugues": "Ligar de volta",
+        "fraseIngles": "I'll call you back later.",
+        "frasePortugues": "Ligarei de volta mais tarde.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 245,
+        "ingles": "Speak later",
+        "portugues": "Falar mais tarde",
+        "fraseIngles": "We'll speak again later.",
+        "frasePortugues": "Falaremos novamente mais tarde.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    },
+    {
+        "id": 246,
+        "ingles": "Until next time",
+        "portugues": "Até a próxima",
+        "fraseIngles": "Until next time, goodbye.",
+        "frasePortugues": "Até a próxima, tchau.",
+        "subtopico": "Falando_ao_telefone",
+        "topico": "Frases"
+    }
+]

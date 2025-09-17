@@ -1,0 +1,1856 @@
+[
+    {
+        "id": 1,
+        "ingles": "Restaurant",
+        "portugues": "Restaurante",
+        "fraseIngles": "This restaurant serves Italian food.",
+        "frasePortugues": "Este restaurante serve comida italiana.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 2,
+        "ingles": "Table",
+        "portugues": "Mesa",
+        "fraseIngles": "Can we have a table for two?",
+        "frasePortugues": "Podemos ter uma mesa para dois?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 3,
+        "ingles": "Reservation",
+        "portugues": "Reserva",
+        "fraseIngles": "I have a reservation under Johnson.",
+        "frasePortugues": "Tenho uma reserva no nome de Johnson.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 4,
+        "ingles": "Menu",
+        "portugues": "Cardápio",
+        "fraseIngles": "May I see the menu, please?",
+        "frasePortugues": "Posso ver o cardápio, por favor?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 5,
+        "ingles": "Order",
+        "portugues": "Pedido / Pedir",
+        "fraseIngles": "I'd like to order the fish.",
+        "frasePortugues": "Gostaria de pedir o peixe.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 6,
+        "ingles": "Waiter",
+        "portugues": "Garçom",
+        "fraseIngles": "The waiter is very attentive.",
+        "frasePortugues": "O garçom é muito atencioso.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 7,
+        "ingles": "Waitress",
+        "portugues": "Garçonete",
+        "fraseIngles": "Our waitress was very friendly.",
+        "frasePortugues": "Nossa garçonete foi muito simpática.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 8,
+        "ingles": "Chef",
+        "portugues": "Chefe de cozinha",
+        "fraseIngles": "The chef prepared this specially.",
+        "frasePortugues": "O chefe de cozinha preparou isso especialmente.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 9,
+        "ingles": "Kitchen",
+        "portugues": "Cozinha",
+        "fraseIngles": "The kitchen closes at 10 PM.",
+        "frasePortugues": "A cozinha fecha às 22h.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 10,
+        "ingles": "Appetizer",
+        "portugues": "Entrada",
+        "fraseIngles": "What appetizers do you recommend?",
+        "frasePortugues": "Que entradas você recomenda?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 11,
+        "ingles": "Starter",
+        "portugues": "Entrada",
+        "fraseIngles": "We'll have the soup as a starter.",
+        "frasePortugues": "Vamos querer a sopa como entrada.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 12,
+        "ingles": "Main course",
+        "portugues": "Prato principal",
+        "fraseIngles": "What's your main course today?",
+        "frasePortugues": "Qual é seu prato principal hoje?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 13,
+        "ingles": "Entrée",
+        "portugues": "Prato principal",
+        "fraseIngles": "The chicken entrée looks delicious.",
+        "frasePortugues": "O prato principal de frango parece delicioso.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 14,
+        "ingles": "Side dish",
+        "portugues": "Acompanhamento",
+        "fraseIngles": "What side dishes come with this?",
+        "frasePortugues": "Que acompanhamentos vêm com isso?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 15,
+        "ingles": "Dessert",
+        "portugues": "Sobremesa",
+        "fraseIngles": "Do you have any desserts?",
+        "frasePortugues": "Vocês têm sobremesas?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 16,
+        "ingles": "Drink",
+        "portugues": "Bebida",
+        "fraseIngles": "What drinks do you have?",
+        "frasePortugues": "Que bebidas vocês têm?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 17,
+        "ingles": "Beverage",
+        "portugues": "Bebida",
+        "fraseIngles": "Can I see the beverage menu?",
+        "frasePortugues": "Posso ver o cardápio de bebidas?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 18,
+        "ingles": "Water",
+        "portugues": "Água",
+        "fraseIngles": "Can I have a glass of water?",
+        "frasePortugues": "Posso ter um copo de água?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 19,
+        "ingles": "Juice",
+        "portugues": "Suco",
+        "fraseIngles": "I'd like orange juice, please.",
+        "frasePortugues": "Gostaria de suco de laranja, por favor.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 20,
+        "ingles": "Soda",
+        "portugues": "Refrigerante",
+        "fraseIngles": "Do you have diet soda?",
+        "frasePortugues": "Vocês têm refrigerante diet?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 21,
+        "ingles": "Coffee",
+        "portugues": "Café",
+        "fraseIngles": "I'll have coffee with dessert.",
+        "frasePortugues": "Vou querer café com a sobremesa.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 22,
+        "ingles": "Tea",
+        "portugues": "Chá",
+        "fraseIngles": "What kinds of tea do you have?",
+        "frasePortugues": "Que tipos de chá vocês têm?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 23,
+        "ingles": "Wine",
+        "portugues": "Vinho",
+        "fraseIngles": "Do you have wine by the glass?",
+        "frasePortugues": "Vocês têm vinho por taça?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 24,
+        "ingles": "Beer",
+        "portugues": "Cerveja",
+        "fraseIngles": "What beers do you have on tap?",
+        "frasePortugues": "Que cervejas vocês têm na torneira?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 25,
+        "ingles": "Cocktail",
+        "portugues": "Coquetel",
+        "fraseIngles": "I'd like to try your signature cocktail.",
+        "frasePortugues": "Gostaria de experimentar seu coquetel especial.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 26,
+        "ingles": "Glass",
+        "portugues": "Copo",
+        "fraseIngles": "Can I have another glass?",
+        "frasePortugues": "Posso ter outro copo?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 27,
+        "ingles": "Bottle",
+        "portugues": "Garrafa",
+        "fraseIngles": "We'll take a bottle of red wine.",
+        "frasePortugues": "Vamos querer uma garrafa de vinho tinto.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 28,
+        "ingles": "Cup",
+        "portugues": "Xícara",
+        "fraseIngles": "This cup is dirty.",
+        "frasePortugues": "Esta xícara está suja.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 29,
+        "ingles": "Plate",
+        "portugues": "Prato",
+        "fraseIngles": "Could you bring me a clean plate?",
+        "frasePortugues": "Poderia me trazer um prato limpo?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 30,
+        "ingles": "Bowl",
+        "portugues": "Tigela",
+        "fraseIngles": "I need a soup bowl.",
+        "frasePortugues": "Preciso de uma tigela de sopa.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 31,
+        "ingles": "Fork",
+        "portugues": "Garfo",
+        "fraseIngles": "I dropped my fork.",
+        "frasePortugues": "Derrubei meu garfo.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 32,
+        "ingles": "Knife",
+        "portugues": "Faca",
+        "fraseIngles": "This knife is not sharp enough.",
+        "frasePortugues": "Esta faca não está afiada o suficiente.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 33,
+        "ingles": "Spoon",
+        "portugues": "Colher",
+        "fraseIngles": "May I have a teaspoon?",
+        "frasePortugues": "Posso ter uma colher de chá?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 34,
+        "ingles": "Napkin",
+        "portugues": "Guardanapo",
+        "fraseIngles": "Could you bring more napkins?",
+        "frasePortugues": "Poderia trazer mais guardanapos?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 35,
+        "ingles": "Salt",
+        "portugues": "Sal",
+        "fraseIngles": "Could you pass the salt?",
+        "frasePortugues": "Poderia passar o sal?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 36,
+        "ingles": "Pepper",
+        "portugues": "Pimenta",
+        "fraseIngles": "This needs more pepper.",
+        "frasePortugues": "Isso precisa de mais pimenta.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 37,
+        "ingles": "Sugar",
+        "portugues": "Açúcar",
+        "fraseIngles": "Do you have sugar substitute?",
+        "frasePortugues": "Vocês têm adoçante?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 38,
+        "ingles": "Butter",
+        "portugues": "Manteiga",
+        "fraseIngles": "Can we have some butter?",
+        "frasePortugues": "Podemos ter um pouco de manteiga?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 39,
+        "ingles": "Bread",
+        "portugues": "Pão",
+        "fraseIngles": "The bread is fresh and warm.",
+        "frasePortugues": "O pão está fresco e quentinho.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 40,
+        "ingles": "Salad",
+        "portugues": "Salada",
+        "fraseIngles": "I'll start with the Caesar salad.",
+        "frasePortugues": "Vou começar com a salada Caesar.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 41,
+        "ingles": "Soup",
+        "portugues": "Sopa",
+        "fraseIngles": "What's the soup of the day?",
+        "frasePortugues": "Qual é a sopa do dia?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 42,
+        "ingles": "Fish",
+        "portugues": "Peixe",
+        "fraseIngles": "How is the fish prepared?",
+        "frasePortugues": "Como o peixe é preparado?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 43,
+        "ingles": "Chicken",
+        "portugues": "Frango",
+        "fraseIngles": "I'd like the grilled chicken.",
+        "frasePortugues": "Gostaria do frango grelhado.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 44,
+        "ingles": "Beef",
+        "portugues": "Carne bovina",
+        "fraseIngles": "How do you like your beef cooked?",
+        "frasePortugues": "Como você quer sua carne?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 45,
+        "ingles": "Pork",
+        "portugues": "Carne suína",
+        "fraseIngles": "The pork chops are excellent.",
+        "frasePortugues": "As costeletas de porco são excelentes.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 46,
+        "ingles": "Lamb",
+        "portugues": "Cordeiro",
+        "fraseIngles": "Do you have lamb on the menu?",
+        "frasePortugues": "Vocês têm cordeiro no cardápio?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 47,
+        "ingles": "Vegetarian",
+        "portugues": "Vegetariano",
+        "fraseIngles": "Do you have vegetarian options?",
+        "frasePortugues": "Vocês têm opções vegetarianas?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 48,
+        "ingles": "Vegan",
+        "portugues": "Vegano",
+        "fraseIngles": "Is this dish vegan?",
+        "frasePortugues": "Este prato é vegano?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 49,
+        "ingles": "Gluten-free",
+        "portugues": "Sem glúten",
+        "fraseIngles": "Do you have gluten-free bread?",
+        "frasePortugues": "Vocês têm pão sem glúten?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 50,
+        "ingles": "Dairy-free",
+        "portugues": "Sem laticínios",
+        "fraseIngles": "Is this dessert dairy-free?",
+        "frasePortugues": "Esta sobremesa é sem laticínios?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 51,
+        "ingles": "Organic",
+        "portugues": "Orgânico",
+        "fraseIngles": "Do you serve organic vegetables?",
+        "frasePortugues": "Vocês servem vegetais orgânicos?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 52,
+        "ingles": "Fresh",
+        "portugues": "Fresco",
+        "fraseIngles": "All our ingredients are fresh.",
+        "frasePortugues": "Todos os nossos ingredientes são frescos.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 53,
+        "ingles": "Frozen",
+        "portugues": "Congelado",
+        "fraseIngles": "Is this fish fresh or frozen?",
+        "frasePortugues": "Este peixe é fresco ou congelado?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 54,
+        "ingles": "Cooked",
+        "portugues": "Cozido",
+        "fraseIngles": "How long is this cooked?",
+        "frasePortugues": "Por quanto tempo isso é cozido?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 55,
+        "ingles": "Raw",
+        "portugues": "Cru",
+        "fraseIngles": "I don't eat raw fish.",
+        "frasePortugues": "Não como peixe cru.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 56,
+        "ingles": "Grilled",
+        "portugues": "Grelhado",
+        "fraseIngles": "I prefer grilled vegetables.",
+        "frasePortugues": "Prefiro vegetais grelhados.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 57,
+        "ingles": "Fried",
+        "portugues": "Frito",
+        "fraseIngles": "The fried chicken is crispy.",
+        "frasePortugues": "O frango frito está crocante.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 58,
+        "ingles": "Baked",
+        "portugues": "Assado",
+        "fraseIngles": "The baked potato comes with butter.",
+        "frasePortugues": "A batata assada vem com manteiga.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 59,
+        "ingles": "Roasted",
+        "portugues": "Assado no forno",
+        "fraseIngles": "The roasted beef smells amazing.",
+        "frasePortugues": "A carne assada no forno tem um cheiro incrível.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 60,
+        "ingles": "Steamed",
+        "portugues": "No vapor",
+        "fraseIngles": "Steamed broccoli is healthy.",
+        "frasePortugues": "Brócolis no vapor é saudável.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 61,
+        "ingles": "Boiled",
+        "portugues": "Cozido em água",
+        "fraseIngles": "I'd like boiled eggs.",
+        "frasePortugues": "Gostaria de ovos cozidos.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 62,
+        "ingles": "Rare",
+        "portugues": "Mal passado",
+        "fraseIngles": "I like my steak rare.",
+        "frasePortugues": "Gosto do meu bife mal passado.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 63,
+        "ingles": "Medium rare",
+        "portugues": "Ao ponto para mal passado",
+        "fraseIngles": "Medium rare, please.",
+        "frasePortugues": "Ao ponto para mal passado, por favor.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 64,
+        "ingles": "Medium",
+        "portugues": "Ao ponto",
+        "fraseIngles": "Cook it medium, please.",
+        "frasePortugues": "Cozinhe ao ponto, por favor.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 65,
+        "ingles": "Well done",
+        "portugues": "Bem passado",
+        "fraseIngles": "I want it well done.",
+        "frasePortugues": "Quero bem passado.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 66,
+        "ingles": "Hot",
+        "portugues": "Quente",
+        "fraseIngles": "This soup is very hot.",
+        "frasePortugues": "Esta sopa está muito quente.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 67,
+        "ingles": "Cold",
+        "portugues": "Frio",
+        "fraseIngles": "The salad should be served cold.",
+        "frasePortugues": "A salada deve ser servida fria.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 68,
+        "ingles": "Spicy",
+        "portugues": "Picante",
+        "fraseIngles": "Is this dish spicy?",
+        "frasePortugues": "Este prato é picante?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 69,
+        "ingles": "Mild",
+        "portugues": "Suave",
+        "fraseIngles": "I prefer mild flavors.",
+        "frasePortugues": "Prefiro sabores suaves.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 70,
+        "ingles": "Sweet",
+        "portugues": "Doce",
+        "fraseIngles": "This dessert is too sweet.",
+        "frasePortugues": "Esta sobremesa está muito doce.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 71,
+        "ingles": "Sour",
+        "portugues": "Azedo",
+        "fraseIngles": "The lemon is sour.",
+        "frasePortugues": "O limão está azedo.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 72,
+        "ingles": "Bitter",
+        "portugues": "Amargo",
+        "fraseIngles": "This coffee tastes bitter.",
+        "frasePortugues": "Este café tem gosto amargo.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 73,
+        "ingles": "Salty",
+        "portugues": "Salgado",
+        "fraseIngles": "This dish is too salty.",
+        "frasePortugues": "Este prato está muito salgado.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 74,
+        "ingles": "Delicious",
+        "portugues": "Delicioso",
+        "fraseIngles": "This meal is absolutely delicious!",
+        "frasePortugues": "Esta refeição está absolutamente deliciosa!",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 75,
+        "ingles": "Tasty",
+        "portugues": "Saboroso",
+        "fraseIngles": "The pasta is very tasty.",
+        "frasePortugues": "A massa está muito saborosa.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 76,
+        "ingles": "Bland",
+        "portugues": "Sem graça",
+        "fraseIngles": "This food is bland.",
+        "frasePortugues": "Esta comida está sem graça.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 77,
+        "ingles": "Seasoned",
+        "portugues": "Temperado",
+        "fraseIngles": "The meat is well seasoned.",
+        "frasePortugues": "A carne está bem temperada.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 78,
+        "ingles": "Portion",
+        "portugues": "Porção",
+        "fraseIngles": "The portion is quite large.",
+        "frasePortugues": "A porção é bem grande.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 79,
+        "ingles": "Size",
+        "portugues": "Tamanho",
+        "fraseIngles": "What size portions do you serve?",
+        "frasePortugues": "Que tamanho de porções vocês servem?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 80,
+        "ingles": "Small",
+        "portugues": "Pequeno",
+        "fraseIngles": "I'll have a small salad.",
+        "frasePortugues": "Vou querer uma salada pequena.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 81,
+        "ingles": "Medium",
+        "portugues": "Médio",
+        "fraseIngles": "A medium pizza, please.",
+        "frasePortugues": "Uma pizza média, por favor.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 82,
+        "ingles": "Large",
+        "portugues": "Grande",
+        "fraseIngles": "We'll share a large appetizer.",
+        "frasePortugues": "Vamos dividir uma entrada grande.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 83,
+        "ingles": "Extra",
+        "portugues": "Extra",
+        "fraseIngles": "Can I have extra sauce?",
+        "frasePortugues": "Posso ter molho extra?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 84,
+        "ingles": "Less",
+        "portugues": "Menos",
+        "fraseIngles": "Less salt, please.",
+        "frasePortugues": "Menos sal, por favor.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 85,
+        "ingles": "More",
+        "portugues": "Mais",
+        "fraseIngles": "Could I have more bread?",
+        "frasePortugues": "Poderia ter mais pão?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 86,
+        "ingles": "Enough",
+        "portugues": "Suficiente",
+        "fraseIngles": "This is enough, thank you.",
+        "frasePortugues": "Isso é suficiente, obrigado.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 87,
+        "ingles": "Full",
+        "portugues": "Cheio",
+        "fraseIngles": "I'm full, thank you.",
+        "frasePortugues": "Estou cheio, obrigado.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 88,
+        "ingles": "Hungry",
+        "portugues": "Com fome",
+        "fraseIngles": "I'm very hungry.",
+        "frasePortugues": "Estou com muita fome.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 89,
+        "ingles": "Thirsty",
+        "portugues": "Com sede",
+        "fraseIngles": "I'm getting thirsty.",
+        "frasePortugues": "Estou ficando com sede.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 90,
+        "ingles": "Ready",
+        "portugues": "Pronto",
+        "fraseIngles": "Are you ready to order?",
+        "frasePortugues": "Vocês estão prontos para pedir?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 91,
+        "ingles": "Decide",
+        "portugues": "Decidir",
+        "fraseIngles": "I can't decide what to order.",
+        "frasePortugues": "Não consigo decidir o que pedir.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 92,
+        "ingles": "Recommend",
+        "portugues": "Recomendar",
+        "fraseIngles": "What do you recommend?",
+        "frasePortugues": "O que você recomenda?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 93,
+        "ingles": "Popular",
+        "portugues": "Popular",
+        "fraseIngles": "What's popular here?",
+        "frasePortugues": "O que é popular aqui?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 94,
+        "ingles": "Special",
+        "portugues": "Especial",
+        "fraseIngles": "What's today's special?",
+        "frasePortugues": "Qual é o especial de hoje?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 95,
+        "ingles": "Fresh",
+        "portugues": "Fresco",
+        "fraseIngles": "What's fresh today?",
+        "frasePortugues": "O que está fresco hoje?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 96,
+        "ingles": "Seasonal",
+        "portugues": "Sazonal",
+        "fraseIngles": "Do you have seasonal dishes?",
+        "frasePortugues": "Vocês têm pratos sazonais?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 97,
+        "ingles": "Local",
+        "portugues": "Local",
+        "fraseIngles": "Do you serve local specialties?",
+        "frasePortugues": "Vocês servem especialidades locais?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 98,
+        "ingles": "Traditional",
+        "portugues": "Tradicional",
+        "fraseIngles": "Is this a traditional recipe?",
+        "frasePortugues": "Esta é uma receita tradicional?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 99,
+        "ingles": "Homemade",
+        "portugues": "Caseiro",
+        "fraseIngles": "Is this sauce homemade?",
+        "frasePortugues": "Este molho é caseiro?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 100,
+        "ingles": "Imported",
+        "portugues": "Importado",
+        "fraseIngles": "This cheese is imported from Italy.",
+        "frasePortugues": "Este queijo é importado da Itália.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 101,
+        "ingles": "Allergic",
+        "portugues": "Alérgico",
+        "fraseIngles": "I'm allergic to nuts.",
+        "frasePortugues": "Sou alérgico a castanhas.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 102,
+        "ingles": "Allergy",
+        "portugues": "Alergia",
+        "fraseIngles": "Do you have any food allergies?",
+        "frasePortugues": "Você tem alguma alergia alimentar?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 103,
+        "ingles": "Ingredient",
+        "portugues": "Ingrediente",
+        "fraseIngles": "What ingredients are in this dish?",
+        "frasePortugues": "Que ingredientes tem neste prato?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 104,
+        "ingles": "Contain",
+        "portugues": "Conter",
+        "fraseIngles": "Does this contain eggs?",
+        "frasePortugues": "Isso contém ovos?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 105,
+        "ingles": "Sauce",
+        "portugues": "Molho",
+        "fraseIngles": "Can I have the sauce on the side?",
+        "frasePortugues": "Posso ter o molho à parte?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 106,
+        "ingles": "Dressing",
+        "portugues": "Tempero para salada",
+        "fraseIngles": "What dressings do you have?",
+        "frasePortugues": "Que temperos para salada vocês têm?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 107,
+        "ingles": "Oil",
+        "portugues": "Óleo",
+        "fraseIngles": "What kind of oil do you use?",
+        "frasePortugues": "Que tipo de óleo vocês usam?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 108,
+        "ingles": "Vinegar",
+        "portugues": "Vinagre",
+        "fraseIngles": "Do you have balsamic vinegar?",
+        "frasePortugues": "Vocês têm vinagre balsâmico?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 109,
+        "ingles": "Lemon",
+        "portugues": "Limão",
+        "fraseIngles": "Can I have lemon with my fish?",
+        "frasePortugues": "Posso ter limão com meu peixe?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 110,
+        "ingles": "Lime",
+        "portugues": "Lima",
+        "fraseIngles": "I'd like lime with my drink.",
+        "frasePortugues": "Gostaria de lima com minha bebida.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 111,
+        "ingles": "Onion",
+        "portugues": "Cebola",
+        "fraseIngles": "No onions, please.",
+        "frasePortugues": "Sem cebola, por favor.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 112,
+        "ingles": "Garlic",
+        "portugues": "Alho",
+        "fraseIngles": "This has too much garlic.",
+        "frasePortugues": "Isso tem muito alho.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 113,
+        "ingles": "Cheese",
+        "portugues": "Queijo",
+        "fraseIngles": "What kind of cheese is this?",
+        "frasePortugues": "Que tipo de queijo é este?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 114,
+        "ingles": "Cream",
+        "portugues": "Creme",
+        "fraseIngles": "Does this have cream in it?",
+        "frasePortugues": "Isso tem creme?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 115,
+        "ingles": "Milk",
+        "portugues": "Leite",
+        "fraseIngles": "I'm lactose intolerant.",
+        "frasePortugues": "Sou intolerante à lactose.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 116,
+        "ingles": "Egg",
+        "portugues": "Ovo",
+        "fraseIngles": "Are there eggs in this pasta?",
+        "frasePortugues": "Há ovos nesta massa?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 117,
+        "ingles": "Nuts",
+        "portugues": "Castanhas/Nozes",
+        "fraseIngles": "This salad has nuts in it.",
+        "frasePortugues": "Esta salada tem castanhas.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 118,
+        "ingles": "Seafood",
+        "portugues": "Frutos do mar",
+        "fraseIngles": "I love seafood dishes.",
+        "frasePortugues": "Adoro pratos de frutos do mar.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 119,
+        "ingles": "Shellfish",
+        "portugues": "Crustáceos",
+        "fraseIngles": "I'm allergic to shellfish.",
+        "frasePortugues": "Sou alérgico a crustáceos.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 120,
+        "ingles": "Rice",
+        "portugues": "Arroz",
+        "fraseIngles": "Can I substitute rice for potatoes?",
+        "frasePortugues": "Posso substituir arroz por batatas?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 121,
+        "ingles": "Pasta",
+        "portugues": "Massa",
+        "fraseIngles": "What pasta dishes do you have?",
+        "frasePortugues": "Que pratos de massa vocês têm?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 122,
+        "ingles": "Potato",
+        "portugues": "Batata",
+        "fraseIngles": "How are the potatoes prepared?",
+        "frasePortugues": "Como as batatas são preparadas?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 123,
+        "ingles": "Vegetable",
+        "portugues": "Vegetal",
+        "fraseIngles": "What vegetables come with this?",
+        "frasePortugues": "Que vegetais vêm com isso?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 124,
+        "ingles": "Fruit",
+        "portugues": "Fruta",
+        "fraseIngles": "Do you have fresh fruit?",
+        "frasePortugues": "Vocês têm frutas frescas?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 125,
+        "ingles": "Ice cream",
+        "portugues": "Sorvete",
+        "fraseIngles": "What flavors of ice cream do you have?",
+        "frasePortugues": "Que sabores de sorvete vocês têm?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 126,
+        "ingles": "Cake",
+        "portugues": "Bolo",
+        "fraseIngles": "The chocolate cake looks amazing.",
+        "frasePortugues": "O bolo de chocolate parece incrível.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 127,
+        "ingles": "Pie",
+        "portugues": "Torta",
+        "fraseIngles": "Do you make apple pie?",
+        "frasePortugues": "Vocês fazem torta de maçã?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 128,
+        "ingles": "Bill",
+        "portugues": "Conta",
+        "fraseIngles": "Can we have the bill, please?",
+        "frasePortugues": "Podemos ter a conta, por favor?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 129,
+        "ingles": "Check",
+        "portugues": "Conta",
+        "fraseIngles": "Check, please.",
+        "frasePortugues": "A conta, por favor.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 130,
+        "ingles": "Payment",
+        "portugues": "Pagamento",
+        "fraseIngles": "What forms of payment do you accept?",
+        "frasePortugues": "Que formas de pagamento vocês aceitam?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 131,
+        "ingles": "Cash",
+        "portugues": "Dinheiro",
+        "fraseIngles": "I'll pay in cash.",
+        "frasePortugues": "Vou pagar em dinheiro.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 132,
+        "ingles": "Credit card",
+        "portugues": "Cartão de crédito",
+        "fraseIngles": "Do you accept credit cards?",
+        "frasePortugues": "Vocês aceitam cartões de crédito?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 133,
+        "ingles": "Tip",
+        "portugues": "Gorjeta",
+        "fraseIngles": "How much should I tip?",
+        "frasePortugues": "Quanto devo dar de gorjeta?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 134,
+        "ingles": "Service charge",
+        "portugues": "Taxa de serviço",
+        "fraseIngles": "Is there a service charge?",
+        "frasePortugues": "Há taxa de serviço?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 135,
+        "ingles": "Receipt",
+        "portugues": "Recibo",
+        "fraseIngles": "Can I have a receipt?",
+        "frasePortugues": "Posso ter um recibo?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 136,
+        "ingles": "Change",
+        "portugues": "Troco",
+        "fraseIngles": "Keep the change.",
+        "frasePortugues": "Fique com o troco.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 137,
+        "ingles": "Split",
+        "portugues": "Dividir",
+        "fraseIngles": "Can we split the bill?",
+        "frasePortugues": "Podemos dividir a conta?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 138,
+        "ingles": "Separate checks",
+        "portugues": "Contas separadas",
+        "fraseIngles": "We'd like separate checks.",
+        "frasePortugues": "Gostaríamos de contas separadas.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 139,
+        "ingles": "Together",
+        "portugues": "Junto",
+        "fraseIngles": "We'll pay together.",
+        "frasePortugues": "Pagaremos juntos.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 140,
+        "ingles": "Expensive",
+        "portugues": "Caro",
+        "fraseIngles": "This restaurant is expensive.",
+        "frasePortugues": "Este restaurante é caro.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 141,
+        "ingles": "Cheap",
+        "portugues": "Barato",
+        "fraseIngles": "Do you know a cheap place to eat?",
+        "frasePortugues": "Você conhece um lugar barato para comer?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 142,
+        "ingles": "Reasonable",
+        "portugues": "Razoável",
+        "fraseIngles": "The prices are very reasonable.",
+        "frasePortugues": "Os preços são muito razoáveis.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 143,
+        "ingles": "Worth it",
+        "portugues": "Vale a pena",
+        "fraseIngles": "The food is worth the price.",
+        "frasePortugues": "A comida vale o preço.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 144,
+        "ingles": "Overpriced",
+        "portugues": "Caro demais",
+        "fraseIngles": "I think this is overpriced.",
+        "frasePortugues": "Acho que isso está caro demais.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 145,
+        "ingles": "Free",
+        "portugues": "Grátis",
+        "fraseIngles": "Is bread free?",
+        "frasePortugues": "O pão é grátis?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 146,
+        "ingles": "Complimentary",
+        "portugues": "Cortesia",
+        "fraseIngles": "This appetizer is complimentary.",
+        "frasePortugues": "Esta entrada é cortesia da casa.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 147,
+        "ingles": "Wait",
+        "portugues": "Esperar",
+        "fraseIngles": "How long is the wait?",
+        "frasePortugues": "Quanto tempo é a espera?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 148,
+        "ingles": "Busy",
+        "portugues": "Ocupado",
+        "fraseIngles": "The restaurant is very busy tonight.",
+        "frasePortugues": "O restaurante está muito ocupado hoje à noite.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 149,
+        "ingles": "Crowded",
+        "portugues": "Lotado",
+        "fraseIngles": "It's too crowded here.",
+        "frasePortugues": "Está muito lotado aqui.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 150,
+        "ingles": "Quiet",
+        "portugues": "Silencioso",
+        "fraseIngles": "Can we have a quiet table?",
+        "frasePortugues": "Podemos ter uma mesa silenciosa?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 151,
+        "ingles": "Noisy",
+        "portugues": "Barulhento",
+        "fraseIngles": "This table is too noisy.",
+        "frasePortugues": "Esta mesa é muito barulhenta.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 152,
+        "ingles": "Atmosphere",
+        "portugues": "Atmosfera",
+        "fraseIngles": "The atmosphere here is romantic.",
+        "frasePortugues": "A atmosfera aqui é romântica.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 153,
+        "ingles": "Ambiance",
+        "portugues": "Ambiente",
+        "fraseIngles": "I love the ambiance of this place.",
+        "frasePortugues": "Adoro o ambiente deste lugar.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 154,
+        "ingles": "Lighting",
+        "portugues": "Iluminação",
+        "fraseIngles": "The lighting is perfect.",
+        "frasePortugues": "A iluminação está perfeita.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 155,
+        "ingles": "Music",
+        "portugues": "Música",
+        "fraseIngles": "The music is too loud.",
+        "frasePortugues": "A música está muito alta.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 156,
+        "ingles": "Comfortable",
+        "portugues": "Confortável",
+        "fraseIngles": "These chairs are very comfortable.",
+        "frasePortugues": "Estas cadeiras são muito confortáveis.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 157,
+        "ingles": "Cozy",
+        "portugues": "Aconchegante",
+        "fraseIngles": "This is a cozy little restaurant.",
+        "frasePortugues": "Este é um restaurantezinho aconchegante.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 158,
+        "ingles": "Elegant",
+        "portugues": "Elegante",
+        "fraseIngles": "The décor is very elegant.",
+        "frasePortugues": "A decoração é muito elegante.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 159,
+        "ingles": "Casual",
+        "portugues": "Casual",
+        "fraseIngles": "This is a casual dining restaurant.",
+        "frasePortugues": "Este é um restaurante casual.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 160,
+        "ingles": "Formal",
+        "portugues": "Formal",
+        "fraseIngles": "Do I need to dress formally?",
+        "frasePortugues": "Preciso me vestir formalmente?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 161,
+        "ingles": "Dress code",
+        "portugues": "Código de vestimenta",
+        "fraseIngles": "Is there a dress code?",
+        "frasePortugues": "Há um código de vestimenta?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 162,
+        "ingles": "Reservation required",
+        "portugues": "Reserva obrigatória",
+        "fraseIngles": "Reservations are required.",
+        "frasePortugues": "Reservas são obrigatórias.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 163,
+        "ingles": "Walk-in",
+        "portugues": "Sem reserva",
+        "fraseIngles": "Do you accept walk-ins?",
+        "frasePortugues": "Vocês aceitam pessoas sem reserva?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 164,
+        "ingles": "Waiting list",
+        "portugues": "Lista de espera",
+        "fraseIngles": "Can you put us on the waiting list?",
+        "frasePortugues": "Podem nos colocar na lista de espera?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 165,
+        "ingles": "Available",
+        "portugues": "Disponível",
+        "fraseIngles": "Do you have anything available now?",
+        "frasePortugues": "Vocês têm algo disponível agora?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 166,
+        "ingles": "Booked",
+        "portugues": "Reservado",
+        "fraseIngles": "We're fully booked tonight.",
+        "frasePortugues": "Estamos totalmente reservados hoje à noite.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 167,
+        "ingles": "Cancel",
+        "portugues": "Cancelar",
+        "fraseIngles": "I need to cancel my reservation.",
+        "frasePortugues": "Preciso cancelar minha reserva.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 168,
+        "ingles": "Confirm",
+        "portugues": "Confirmar",
+        "fraseIngles": "I'd like to confirm my reservation.",
+        "frasePortugues": "Gostaria de confirmar minha reserva.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 169,
+        "ingles": "Party",
+        "portugues": "Grupo",
+        "fraseIngles": "How many in your party?",
+        "frasePortugues": "Quantos no seu grupo?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 170,
+        "ingles": "Seating",
+        "portugues": "Lugares",
+        "fraseIngles": "We have indoor and outdoor seating.",
+        "frasePortugues": "Temos lugares internos e externos.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 171,
+        "ingles": "Patio",
+        "portugues": "Pátio",
+        "fraseIngles": "Can we sit on the patio?",
+        "frasePortugues": "Podemos sentar no pátio?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 172,
+        "ingles": "Terrace",
+        "portugues": "Terraço",
+        "fraseIngles": "The terrace has a beautiful view.",
+        "frasePortugues": "O terraço tem uma vista linda.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 173,
+        "ingles": "Window",
+        "portugues": "Janela",
+        "fraseIngles": "Can we have a window seat?",
+        "frasePortugues": "Podemos ter um lugar na janela?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 174,
+        "ingles": "Corner",
+        "portugues": "Canto",
+        "fraseIngles": "I'd prefer a corner table.",
+        "frasePortugues": "Preferiria uma mesa no canto.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 175,
+        "ingles": "Booth",
+        "portugues": "Cabine",
+        "fraseIngles": "Do you have any booths available?",
+        "frasePortugues": "Vocês têm cabines disponíveis?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 176,
+        "ingles": "High chair",
+        "portugues": "Cadeirão",
+        "fraseIngles": "We need a high chair for the baby.",
+        "frasePortugues": "Precisamos de um cadeirão para o bebê.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 177,
+        "ingles": "Kids menu",
+        "portugues": "Cardápio infantil",
+        "fraseIngles": "Do you have a kids menu?",
+        "frasePortugues": "Vocês têm cardápio infantil?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 178,
+        "ingles": "Senior discount",
+        "portugues": "Desconto para idosos",
+        "fraseIngles": "Do you offer senior discounts?",
+        "frasePortugues": "Vocês oferecem descontos para idosos?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 179,
+        "ingles": "Happy hour",
+        "portugues": "Happy hour",
+        "fraseIngles": "What time is happy hour?",
+        "frasePortugues": "Que horas é o happy hour?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 180,
+        "ingles": "Lunch special",
+        "portugues": "Especial do almoço",
+        "fraseIngles": "What's your lunch special today?",
+        "frasePortugues": "Qual é o especial do almoço hoje?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 181,
+        "ingles": "Dinner special",
+        "portugues": "Especial do jantar",
+        "fraseIngles": "Do you have dinner specials?",
+        "frasePortugues": "Vocês têm especiais do jantar?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 182,
+        "ingles": "Early bird",
+        "portugues": "Desconto por horário",
+        "fraseIngles": "Do you have early bird specials?",
+        "frasePortugues": "Vocês têm especiais por chegar cedo?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 183,
+        "ingles": "Takeout",
+        "portugues": "Para viagem",
+        "fraseIngles": "Is this available for takeout?",
+        "frasePortugues": "Isso está disponível para viagem?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 184,
+        "ingles": "Delivery",
+        "portugues": "Entrega",
+        "fraseIngles": "Do you offer delivery?",
+        "frasePortugues": "Vocês fazem entrega?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 185,
+        "ingles": "To go",
+        "portugues": "Para levar",
+        "fraseIngles": "I'd like this to go.",
+        "frasePortugues": "Gostaria disso para levar.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 186,
+        "ingles": "Doggy bag",
+        "portugues": "Embalagem para levar sobras",
+        "fraseIngles": "Can I have a doggy bag?",
+        "frasePortugues": "Posso ter uma embalagem para as sobras?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 187,
+        "ingles": "Leftovers",
+        "portugues": "Sobras",
+        "fraseIngles": "Can you wrap up these leftovers?",
+        "frasePortugues": "Podem embalar essas sobras?",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 188,
+        "ingles": "Container",
+        "portugues": "Recipiente",
+        "fraseIngles": "I need a container for this.",
+        "frasePortugues": "Preciso de um recipiente para isso.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 189,
+        "ingles": "Satisfied",
+        "portugues": "Satisfeito",
+        "fraseIngles": "I'm very satisfied with the meal.",
+        "frasePortugues": "Estou muito satisfeito com a refeição.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 190,
+        "ingles": "Disappointed",
+        "portugues": "Desapontado",
+        "fraseIngles": "I'm disappointed with the service.",
+        "frasePortugues": "Estou desapontado com o serviço.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 191,
+        "ingles": "Complaint",
+        "portugues": "Reclamação",
+        "fraseIngles": "I have a complaint about my food.",
+        "frasePortugues": "Tenho uma reclamação sobre minha comida.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 192,
+        "ingles": "Problem",
+        "portugues": "Problema",
+        "fraseIngles": "There's a problem with my order.",
+        "frasePortugues": "Há um problema com meu pedido.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 193,
+        "ingles": "Wrong",
+        "portugues": "Errado",
+        "fraseIngles": "This is the wrong dish.",
+        "frasePortugues": "Este é o prato errado.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 194,
+        "ingles": "Missing",
+        "portugues": "Faltando",
+        "fraseIngles": "My side dish is missing.",
+        "frasePortugues": "Meu acompanhamento está faltando.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 195,
+        "ingles": "Slow",
+        "portugues": "Lento",
+        "fraseIngles": "The service is very slow.",
+        "frasePortugues": "O serviço está muito lento.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 196,
+        "ingles": "Fast",
+        "portugues": "Rápido",
+        "fraseIngles": "The service here is fast.",
+        "frasePortugues": "O serviço aqui é rápido.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 197,
+        "ingles": "Excellent",
+        "portugues": "Excelente",
+        "fraseIngles": "The food is excellent!",
+        "frasePortugues": "A comida está excelente!",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 198,
+        "ingles": "Perfect",
+        "portugues": "Perfeito",
+        "fraseIngles": "Everything was perfect.",
+        "frasePortugues": "Tudo estava perfeito.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 199,
+        "ingles": "Amazing",
+        "portugues": "Incrível",
+        "fraseIngles": "This dish is amazing!",
+        "frasePortugues": "Este prato está incrível!",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 200,
+        "ingles": "Wonderful",
+        "portugues": "Maravilhoso",
+        "fraseIngles": "We had a wonderful evening.",
+        "frasePortugues": "Tivemos uma noite maravilhosa.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 201,
+        "ingles": "Terrible",
+        "portugues": "Terrível",
+        "fraseIngles": "The food was terrible.",
+        "frasePortugues": "A comida estava terrível.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 202,
+        "ingles": "Awful",
+        "portugues": "Horrível",
+        "fraseIngles": "The service was awful.",
+        "frasePortugues": "O serviço foi horrível.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 203,
+        "ingles": "Thank you",
+        "portugues": "Obrigado",
+        "fraseIngles": "Thank you for the excellent service.",
+        "frasePortugues": "Obrigado pelo excelente serviço.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 204,
+        "ingles": "Welcome",
+        "portugues": "Bem-vindo",
+        "fraseIngles": "You're welcome back anytime.",
+        "frasePortugues": "Vocês são bem-vindos de volta a qualquer hora.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 205,
+        "ingles": "Come again",
+        "portugues": "Volte novamente",
+        "fraseIngles": "Please come again soon.",
+        "frasePortugues": "Por favor, voltem em breve.",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    },
+    {
+        "id": 206,
+        "ingles": "Enjoy",
+        "portugues": "Aproveitar",
+        "fraseIngles": "Enjoy your meal!",
+        "frasePortugues": "Aproveitem a refeição!",
+        "subtopico": "Restaurante",
+        "topico": "Frases"
+    }
+]

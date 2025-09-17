@@ -1,0 +1,4790 @@
+[
+    {
+        "id": 1,
+        "ingles": "Opinion",
+        "portugues": "Opinião",
+        "fraseIngles": "What's your opinion on this matter?",
+        "frasePortugues": "Qual é sua opinião sobre este assunto?",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 2,
+        "ingles": "Think",
+        "portugues": "Achar / Pensar",
+        "fraseIngles": "I think this is a great idea.",
+        "frasePortugues": "Acho que esta é uma ótima ideia.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 3,
+        "ingles": "Believe",
+        "portugues": "Acreditar",
+        "fraseIngles": "I believe we should try harder.",
+        "frasePortugues": "Acredito que devemos nos esforçar mais.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 4,
+        "ingles": "Feel",
+        "portugues": "Sentir",
+        "fraseIngles": "I feel this approach is wrong.",
+        "frasePortugues": "Sinto que esta abordagem está errada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 5,
+        "ingles": "View",
+        "portugues": "Ponto de vista",
+        "fraseIngles": "From my view, this makes sense.",
+        "frasePortugues": "Do meu ponto de vista, isso faz sentido.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 6,
+        "ingles": "Perspective",
+        "portugues": "Perspectiva",
+        "fraseIngles": "Your perspective is interesting.",
+        "frasePortugues": "Sua perspectiva é interessante.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 7,
+        "ingles": "Viewpoint",
+        "portugues": "Ponto de vista",
+        "fraseIngles": "Everyone has a different viewpoint.",
+        "frasePortugues": "Todos têm um ponto de vista diferente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 8,
+        "ingles": "Position",
+        "portugues": "Posição",
+        "fraseIngles": "What's your position on this issue?",
+        "frasePortugues": "Qual é sua posição sobre esta questão?",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 9,
+        "ingles": "Stance",
+        "portugues": "Postura",
+        "fraseIngles": "The company's stance is clear.",
+        "frasePortugues": "A postura da empresa é clara.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 10,
+        "ingles": "Attitude",
+        "portugues": "Atitude",
+        "fraseIngles": "I like your positive attitude.",
+        "frasePortugues": "Gosto da sua atitude positiva.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 11,
+        "ingles": "Approach",
+        "portugues": "Abordagem",
+        "fraseIngles": "This approach seems reasonable.",
+        "frasePortugues": "Esta abordagem parece razoável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 12,
+        "ingles": "Point of view",
+        "portugues": "Ponto de vista",
+        "fraseIngles": "I understand your point of view.",
+        "frasePortugues": "Entendo seu ponto de vista.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 13,
+        "ingles": "In my opinion",
+        "portugues": "Na minha opinião",
+        "fraseIngles": "In my opinion, this is the best choice.",
+        "frasePortugues": "Na minha opinião, esta é a melhor escolha.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 14,
+        "ingles": "I think",
+        "portugues": "Eu acho",
+        "fraseIngles": "I think you're absolutely right.",
+        "frasePortugues": "Eu acho que você está absolutamente certo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 15,
+        "ingles": "I believe",
+        "portugues": "Eu acredito",
+        "fraseIngles": "I believe this will work perfectly.",
+        "frasePortugues": "Eu acredito que isso funcionará perfeitamente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 16,
+        "ingles": "I feel",
+        "portugues": "Eu sinto",
+        "fraseIngles": "I feel we need more information.",
+        "frasePortugues": "Eu sinto que precisamos de mais informações.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 17,
+        "ingles": "It seems",
+        "portugues": "Parece",
+        "fraseIngles": "It seems like a good solution.",
+        "frasePortugues": "Parece uma boa solução.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 18,
+        "ingles": "It appears",
+        "portugues": "Aparenta",
+        "fraseIngles": "It appears we have no choice.",
+        "frasePortugues": "Aparenta que não temos escolha.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 19,
+        "ingles": "It looks like",
+        "portugues": "Parece que",
+        "fraseIngles": "It looks like rain today.",
+        "frasePortugues": "Parece que vai chover hoje.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 20,
+        "ingles": "I suppose",
+        "portugues": "Eu suponho",
+        "fraseIngles": "I suppose that could work.",
+        "frasePortugues": "Eu suponho que isso poderia funcionar.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 21,
+        "ingles": "I guess",
+        "portugues": "Eu acho",
+        "fraseIngles": "I guess we'll have to wait.",
+        "frasePortugues": "Eu acho que teremos que esperar.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 22,
+        "ingles": "I assume",
+        "portugues": "Eu presumo",
+        "fraseIngles": "I assume you agree with me.",
+        "frasePortugues": "Eu presumo que você concorda comigo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 23,
+        "ingles": "I reckon",
+        "portugues": "Eu acredito",
+        "fraseIngles": "I reckon this is our best bet.",
+        "frasePortugues": "Eu acredito que esta é nossa melhor aposta.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 24,
+        "ingles": "I figure",
+        "portugues": "Eu imagino",
+        "fraseIngles": "I figure we should start early.",
+        "frasePortugues": "Eu imagino que devemos começar cedo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 25,
+        "ingles": "As I see it",
+        "portugues": "Como eu vejo",
+        "fraseIngles": "As I see it, we have two options.",
+        "frasePortugues": "Como eu vejo, temos duas opções.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 26,
+        "ingles": "From my perspective",
+        "portugues": "Da minha perspectiva",
+        "fraseIngles": "From my perspective, this is risky.",
+        "frasePortugues": "Da minha perspectiva, isso é arriscado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 27,
+        "ingles": "In my view",
+        "portugues": "Na minha visão",
+        "fraseIngles": "In my view, quality matters most.",
+        "frasePortugues": "Na minha visão, qualidade é o que mais importa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 28,
+        "ingles": "To my mind",
+        "portugues": "Para mim",
+        "fraseIngles": "To my mind, this is the right decision.",
+        "frasePortugues": "Para mim, esta é a decisão certa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 29,
+        "ingles": "If you ask me",
+        "portugues": "Se você me perguntar",
+        "fraseIngles": "If you ask me, we should cancel.",
+        "frasePortugues": "Se você me perguntar, devemos cancelar.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 30,
+        "ingles": "Personally",
+        "portugues": "Pessoalmente",
+        "fraseIngles": "Personally, I disagree with that.",
+        "frasePortugues": "Pessoalmente, eu discordo disso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 31,
+        "ingles": "Honestly",
+        "portugues": "Sinceramente",
+        "fraseIngles": "Honestly, I'm not convinced.",
+        "frasePortugues": "Sinceramente, não estou convencido.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 32,
+        "ingles": "Frankly",
+        "portugues": "Francamente",
+        "fraseIngles": "Frankly, this won't work.",
+        "frasePortugues": "Francamente, isso não funcionará.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 33,
+        "ingles": "To be honest",
+        "portugues": "Para ser honesto",
+        "fraseIngles": "To be honest, I have doubts.",
+        "frasePortugues": "Para ser honesto, tenho dúvidas.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 34,
+        "ingles": "Actually",
+        "portugues": "Na verdade",
+        "fraseIngles": "Actually, I think you're wrong.",
+        "frasePortugues": "Na verdade, acho que você está errado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 35,
+        "ingles": "Really",
+        "portugues": "Realmente",
+        "fraseIngles": "I really think we should reconsider.",
+        "frasePortugues": "Realmente acho que devemos reconsiderar.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 36,
+        "ingles": "Truly",
+        "portugues": "Verdadeiramente",
+        "fraseIngles": "I truly believe this is important.",
+        "frasePortugues": "Verdadeiramente acredito que isso é importante.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 37,
+        "ingles": "Certainly",
+        "portugues": "Certamente",
+        "fraseIngles": "This is certainly the right approach.",
+        "frasePortugues": "Esta é certamente a abordagem certa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 38,
+        "ingles": "Definitely",
+        "portugues": "Definitivamente",
+        "fraseIngles": "This is definitely worth trying.",
+        "frasePortugues": "Isso definitivamente vale a pena tentar.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 39,
+        "ingles": "Absolutely",
+        "portugues": "Absolutamente",
+        "fraseIngles": "I absolutely agree with you.",
+        "frasePortugues": "Eu absolutamente concordo com você.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 40,
+        "ingles": "Completely",
+        "portugues": "Completamente",
+        "fraseIngles": "I completely understand your concern.",
+        "frasePortugues": "Eu completamente entendo sua preocupação.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 41,
+        "ingles": "Totally",
+        "portugues": "Totalmente",
+        "fraseIngles": "I'm totally against this idea.",
+        "frasePortugues": "Sou totalmente contra esta ideia.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 42,
+        "ingles": "Entirely",
+        "portugues": "Inteiramente",
+        "fraseIngles": "I'm not entirely sure about this.",
+        "frasePortugues": "Não estou inteiramente certo sobre isso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 43,
+        "ingles": "Partly",
+        "portugues": "Parcialmente",
+        "fraseIngles": "I partly agree with your assessment.",
+        "frasePortugues": "Concordo parcialmente com sua avaliação.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 44,
+        "ingles": "Somewhat",
+        "portugues": "Um pouco",
+        "fraseIngles": "I'm somewhat skeptical about this.",
+        "frasePortugues": "Estou um pouco cético sobre isso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 45,
+        "ingles": "Rather",
+        "portugues": "Bastante",
+        "fraseIngles": "I'm rather impressed by the results.",
+        "frasePortugues": "Estou bastante impressionado com os resultados.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 46,
+        "ingles": "Quite",
+        "portugues": "Bastante",
+        "fraseIngles": "This is quite an interesting proposal.",
+        "frasePortugues": "Esta é uma proposta bastante interessante.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 47,
+        "ingles": "Very",
+        "portugues": "Muito",
+        "fraseIngles": "I'm very excited about this project.",
+        "frasePortugues": "Estou muito animado com este projeto.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 48,
+        "ingles": "Extremely",
+        "portugues": "Extremamente",
+        "fraseIngles": "This is extremely important to consider.",
+        "frasePortugues": "Isso é extremamente importante considerar.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 49,
+        "ingles": "Highly",
+        "portugues": "Altamente",
+        "fraseIngles": "I highly recommend this approach.",
+        "frasePortugues": "Recomendo altamente esta abordagem.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 50,
+        "ingles": "Strongly",
+        "portugues": "Fortemente",
+        "fraseIngles": "I strongly believe in this plan.",
+        "frasePortugues": "Acredito fortemente neste plano.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 51,
+        "ingles": "Firmly",
+        "portugues": "Firmemente",
+        "fraseIngles": "I firmly support this decision.",
+        "frasePortugues": "Apoio firmemente esta decisão.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 52,
+        "ingles": "Deeply",
+        "portugues": "Profundamente",
+        "fraseIngles": "I'm deeply concerned about this issue.",
+        "frasePortugues": "Estou profundamente preocupado com esta questão.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 53,
+        "ingles": "Seriously",
+        "portugues": "Seriamente",
+        "fraseIngles": "Seriously, we need to act now.",
+        "frasePortugues": "Seriamente, precisamos agir agora.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 54,
+        "ingles": "Obviously",
+        "portugues": "Obviamente",
+        "fraseIngles": "Obviously, this is the best solution.",
+        "frasePortugues": "Obviamente, esta é a melhor solução.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 55,
+        "ingles": "Clearly",
+        "portugues": "Claramente",
+        "fraseIngles": "Clearly, we need more time.",
+        "frasePortugues": "Claramente, precisamos de mais tempo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 56,
+        "ingles": "Apparently",
+        "portugues": "Aparentemente",
+        "fraseIngles": "Apparently, there are some problems.",
+        "frasePortugues": "Aparentemente, há alguns problemas.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 57,
+        "ingles": "Evidently",
+        "portugues": "Evidentemente",
+        "fraseIngles": "Evidently, the plan isn't working.",
+        "frasePortugues": "Evidentemente, o plano não está funcionando.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 58,
+        "ingles": "Presumably",
+        "portugues": "Presumivelmente",
+        "fraseIngles": "Presumably, they know what they're doing.",
+        "frasePortugues": "Presumivelmente, eles sabem o que estão fazendo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 59,
+        "ingles": "Probably",
+        "portugues": "Provavelmente",
+        "fraseIngles": "This will probably take longer.",
+        "frasePortugues": "Isso provavelmente levará mais tempo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 60,
+        "ingles": "Possibly",
+        "portugues": "Possivelmente",
+        "fraseIngles": "This could possibly work.",
+        "frasePortugues": "Isso possivelmente poderia funcionar.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 61,
+        "ingles": "Maybe",
+        "portugues": "Talvez",
+        "fraseIngles": "Maybe we should try a different approach.",
+        "frasePortugues": "Talvez devêssemos tentar uma abordagem diferente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 62,
+        "ingles": "Perhaps",
+        "portugues": "Talvez",
+        "fraseIngles": "Perhaps you're right about this.",
+        "frasePortugues": "Talvez você esteja certo sobre isso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 63,
+        "ingles": "Likely",
+        "portugues": "Provavelmente",
+        "fraseIngles": "This is likely to succeed.",
+        "frasePortugues": "Isso provavelmente terá sucesso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 64,
+        "ingles": "Unlikely",
+        "portugues": "Improvável",
+        "fraseIngles": "Success seems unlikely at this point.",
+        "frasePortugues": "Sucesso parece improvável neste momento.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 65,
+        "ingles": "Possible",
+        "portugues": "Possível",
+        "fraseIngles": "It's possible we're making a mistake.",
+        "frasePortugues": "É possível que estejamos cometendo um erro.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 66,
+        "ingles": "Impossible",
+        "portugues": "Impossível",
+        "fraseIngles": "That seems almost impossible.",
+        "frasePortugues": "Isso parece quase impossível.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 67,
+        "ingles": "Certain",
+        "portugues": "Certo",
+        "fraseIngles": "I'm certain this will work.",
+        "frasePortugues": "Tenho certeza de que isso funcionará.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 68,
+        "ingles": "Uncertain",
+        "portugues": "Incerto",
+        "fraseIngles": "I'm uncertain about the outcome.",
+        "frasePortugues": "Estou incerto sobre o resultado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 69,
+        "ingles": "Sure",
+        "portugues": "Certo",
+        "fraseIngles": "I'm sure we can fix this.",
+        "frasePortugues": "Tenho certeza de que podemos consertar isso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 70,
+        "ingles": "Unsure",
+        "portugues": "Incerto",
+        "fraseIngles": "I'm unsure about this decision.",
+        "frasePortugues": "Estou incerto sobre esta decisão.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 71,
+        "ingles": "Confident",
+        "portugues": "Confiante",
+        "fraseIngles": "I'm confident in our abilities.",
+        "frasePortugues": "Estou confiante em nossas habilidades.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 72,
+        "ingles": "Doubtful",
+        "portugues": "Duvidoso",
+        "fraseIngles": "I'm doubtful this will succeed.",
+        "frasePortugues": "Estou duvidoso de que isso terá sucesso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 73,
+        "ingles": "Skeptical",
+        "portugues": "Cético",
+        "fraseIngles": "I'm skeptical about these claims.",
+        "frasePortugues": "Estou cético sobre essas afirmações.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 74,
+        "ingles": "Optimistic",
+        "portugues": "Otimista",
+        "fraseIngles": "I'm optimistic about the future.",
+        "frasePortugues": "Sou otimista sobre o futuro.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 75,
+        "ingles": "Pessimistic",
+        "portugues": "Pessimista",
+        "fraseIngles": "Don't be so pessimistic.",
+        "frasePortugues": "Não seja tão pessimista.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 76,
+        "ingles": "Hopeful",
+        "portugues": "Esperançoso",
+        "fraseIngles": "I'm hopeful things will improve.",
+        "frasePortugues": "Estou esperançoso de que as coisas melhorem.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 77,
+        "ingles": "Worried",
+        "portugues": "Preocupado",
+        "fraseIngles": "I'm worried about the consequences.",
+        "frasePortugues": "Estou preocupado com as consequências.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 78,
+        "ingles": "Concerned",
+        "portugues": "Preocupado",
+        "fraseIngles": "I'm concerned about the timing.",
+        "frasePortugues": "Estou preocupado com o timing.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 79,
+        "ingles": "Excited",
+        "portugues": "Animado",
+        "fraseIngles": "I'm excited about this opportunity.",
+        "frasePortugues": "Estou animado com esta oportunidade.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 80,
+        "ingles": "Enthusiastic",
+        "portugues": "Entusiasmado",
+        "fraseIngles": "I'm enthusiastic about the project.",
+        "frasePortugues": "Estou entusiasmado com o projeto.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 81,
+        "ingles": "Impressed",
+        "portugues": "Impressionado",
+        "fraseIngles": "I'm impressed by your work.",
+        "frasePortugues": "Estou impressionado com seu trabalho.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 82,
+        "ingles": "Disappointed",
+        "portugues": "Desapontado",
+        "fraseIngles": "I'm disappointed with the results.",
+        "frasePortugues": "Estou desapontado com os resultados.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 83,
+        "ingles": "Satisfied",
+        "portugues": "Satisfeito",
+        "fraseIngles": "I'm satisfied with the outcome.",
+        "frasePortugues": "Estou satisfeito com o resultado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 84,
+        "ingles": "Pleased",
+        "portugues": "Satisfeito",
+        "fraseIngles": "I'm pleased with your progress.",
+        "frasePortugues": "Estou satisfeito com seu progresso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 85,
+        "ingles": "Happy",
+        "portugues": "Feliz",
+        "fraseIngles": "I'm happy with this arrangement.",
+        "frasePortugues": "Estou feliz com este arranjo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 86,
+        "ingles": "Unhappy",
+        "portugues": "Infeliz",
+        "fraseIngles": "I'm unhappy about the delay.",
+        "frasePortugues": "Estou infeliz com o atraso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 87,
+        "ingles": "Glad",
+        "portugues": "Contente",
+        "fraseIngles": "I'm glad we made this choice.",
+        "frasePortugues": "Estou contente que fizemos esta escolha.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 88,
+        "ingles": "Sorry",
+        "portugues": "Lamentando",
+        "fraseIngles": "I'm sorry, but I disagree.",
+        "frasePortugues": "Sinto muito, mas discordo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 89,
+        "ingles": "Surprised",
+        "portugues": "Surpreso",
+        "fraseIngles": "I'm surprised by this development.",
+        "frasePortugues": "Estou surpreso com este desenvolvimento.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 90,
+        "ingles": "Shocked",
+        "portugues": "Chocado",
+        "fraseIngles": "I'm shocked by these findings.",
+        "frasePortugues": "Estou chocado com essas descobertas.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 91,
+        "ingles": "Amazed",
+        "portugues": "Impressionado",
+        "fraseIngles": "I'm amazed at the improvement.",
+        "frasePortugues": "Estou impressionado com a melhoria.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 92,
+        "ingles": "Confused",
+        "portugues": "Confuso",
+        "fraseIngles": "I'm confused by your reasoning.",
+        "frasePortugues": "Estou confuso com seu raciocínio.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 93,
+        "ingles": "Frustrated",
+        "portugues": "Frustrado",
+        "fraseIngles": "I'm frustrated with the lack of progress.",
+        "frasePortugues": "Estou frustrado com a falta de progresso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 94,
+        "ingles": "Annoyed",
+        "portugues": "Irritado",
+        "fraseIngles": "I'm annoyed by the constant delays.",
+        "frasePortugues": "Estou irritado com os atrasos constantes.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 95,
+        "ingles": "Angry",
+        "portugues": "Bravo",
+        "fraseIngles": "I'm angry about this situation.",
+        "frasePortugues": "Estou bravo com esta situação.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 96,
+        "ingles": "Upset",
+        "portugues": "Chateado",
+        "fraseIngles": "I'm upset by these changes.",
+        "frasePortugues": "Estou chateado com essas mudanças.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 97,
+        "ingles": "Agree",
+        "portugues": "Concordar",
+        "fraseIngles": "I completely agree with you.",
+        "frasePortugues": "Concordo completamente com você.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 98,
+        "ingles": "Disagree",
+        "portugues": "Discordar",
+        "fraseIngles": "I have to disagree on this point.",
+        "frasePortugues": "Tenho que discordar neste ponto.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 99,
+        "ingles": "Support",
+        "portugues": "Apoiar",
+        "fraseIngles": "I support your proposal.",
+        "frasePortugues": "Apoio sua proposta.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 100,
+        "ingles": "Oppose",
+        "portugues": "Opor-se",
+        "fraseIngles": "I oppose this decision.",
+        "frasePortugues": "Me oponho a esta decisão.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 101,
+        "ingles": "Accept",
+        "portugues": "Aceitar",
+        "fraseIngles": "I accept your explanation.",
+        "frasePortugues": "Aceito sua explicação.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 102,
+        "ingles": "Reject",
+        "portugues": "Rejeitar",
+        "fraseIngles": "I reject that argument.",
+        "frasePortugues": "Rejeito esse argumento.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 103,
+        "ingles": "Approve",
+        "portugues": "Aprovar",
+        "fraseIngles": "I approve of this plan.",
+        "frasePortugues": "Aprovo este plano.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 104,
+        "ingles": "Disapprove",
+        "portugues": "Desaprovar",
+        "fraseIngles": "I disapprove of this behavior.",
+        "frasePortugues": "Desaprovo este comportamento.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 105,
+        "ingles": "Like",
+        "portugues": "Gostar",
+        "fraseIngles": "I like your suggestion.",
+        "frasePortugues": "Gosto da sua sugestão.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 106,
+        "ingles": "Dislike",
+        "portugues": "Não gostar",
+        "fraseIngles": "I dislike this approach.",
+        "frasePortugues": "Não gosto desta abordagem.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 107,
+        "ingles": "Love",
+        "portugues": "Adorar",
+        "fraseIngles": "I love this new system.",
+        "frasePortugues": "Adoro este novo sistema.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 108,
+        "ingles": "Hate",
+        "portugues": "Odiar",
+        "fraseIngles": "I hate when this happens.",
+        "frasePortugues": "Odeio quando isso acontece.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 109,
+        "ingles": "Prefer",
+        "portugues": "Preferir",
+        "fraseIngles": "I prefer the original plan.",
+        "frasePortugues": "Prefiro o plano original.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 110,
+        "ingles": "Favor",
+        "portugues": "Favorecer",
+        "fraseIngles": "I favor the second option.",
+        "frasePortugues": "Favoreço a segunda opção.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 111,
+        "ingles": "Recommend",
+        "portugues": "Recomendar",
+        "fraseIngles": "I highly recommend this course.",
+        "frasePortugues": "Recomendo muito este curso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 112,
+        "ingles": "Suggest",
+        "portugues": "Sugerir",
+        "fraseIngles": "I suggest we postpone the meeting.",
+        "frasePortugues": "Sugiro que adiemos a reunião.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 113,
+        "ingles": "Propose",
+        "portugues": "Propor",
+        "fraseIngles": "I propose we try something different.",
+        "frasePortugues": "Proponho que tentemos algo diferente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 114,
+        "ingles": "Advise",
+        "portugues": "Aconselhar",
+        "fraseIngles": "I advise against this action.",
+        "frasePortugues": "Aconselho contra esta ação.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 115,
+        "ingles": "Warn",
+        "portugues": "Avisar",
+        "fraseIngles": "I warn you this could backfire.",
+        "frasePortugues": "Te aviso que isso pode sair pela culatra.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 116,
+        "ingles": "Encourage",
+        "portugues": "Encorajar",
+        "fraseIngles": "I encourage you to continue.",
+        "frasePortugues": "Te encorajo a continuar.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 117,
+        "ingles": "Discourage",
+        "portugues": "Desencorajar",
+        "fraseIngles": "I discourage this risky move.",
+        "frasePortugues": "Desencorajo este movimento arriscado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 118,
+        "ingles": "Urge",
+        "portugues": "Insistir",
+        "fraseIngles": "I urge you to reconsider.",
+        "frasePortugues": "Insisto que você reconsidere.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 119,
+        "ingles": "Insist",
+        "portugues": "Insistir",
+        "fraseIngles": "I insist this is the right way.",
+        "frasePortugues": "Insisto que este é o caminho certo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 120,
+        "ingles": "Demand",
+        "portugues": "Exigir",
+        "fraseIngles": "I demand better quality control.",
+        "frasePortugues": "Exijo melhor controle de qualidade.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 121,
+        "ingles": "Request",
+        "portugues": "Solicitar",
+        "fraseIngles": "I request more time to decide.",
+        "frasePortugues": "Solicito mais tempo para decidir.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 122,
+        "ingles": "Right",
+        "portugues": "Certo",
+        "fraseIngles": "You're absolutely right.",
+        "frasePortugues": "Você está absolutamente certo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 123,
+        "ingles": "Wrong",
+        "portugues": "Errado",
+        "fraseIngles": "I think you're wrong about this.",
+        "frasePortugues": "Acho que você está errado sobre isso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 124,
+        "ingles": "Correct",
+        "portugues": "Correto",
+        "fraseIngles": "Your analysis is correct.",
+        "frasePortugues": "Sua análise está correta.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 125,
+        "ingles": "Incorrect",
+        "portugues": "Incorreto",
+        "fraseIngles": "That information is incorrect.",
+        "frasePortugues": "Essa informação está incorreta.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 126,
+        "ingles": "True",
+        "portugues": "Verdadeiro",
+        "fraseIngles": "What you said is true.",
+        "frasePortugues": "O que você disse é verdadeiro.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 127,
+        "ingles": "False",
+        "portugues": "Falso",
+        "fraseIngles": "That statement is false.",
+        "frasePortugues": "Essa afirmação é falsa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 128,
+        "ingles": "Accurate",
+        "portugues": "Preciso",
+        "fraseIngles": "Your assessment is accurate.",
+        "frasePortugues": "Sua avaliação é precisa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 129,
+        "ingles": "Inaccurate",
+        "portugues": "Impreciso",
+        "fraseIngles": "The data seems inaccurate.",
+        "frasePortugues": "Os dados parecem imprecisos.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 130,
+        "ingles": "Valid",
+        "portugues": "Válido",
+        "fraseIngles": "That's a valid point.",
+        "frasePortugues": "Esse é um ponto válido.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 131,
+        "ingles": "Invalid",
+        "portugues": "Inválido",
+        "fraseIngles": "Your argument is invalid.",
+        "frasePortugues": "Seu argumento é inválido.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 132,
+        "ingles": "Fair",
+        "portugues": "Justo",
+        "fraseIngles": "That's a fair assessment.",
+        "frasePortugues": "Essa é uma avaliação justa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 133,
+        "ingles": "Unfair",
+        "portugues": "Injusto",
+        "fraseIngles": "This seems unfair to me.",
+        "frasePortugues": "Isso me parece injusto.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 134,
+        "ingles": "Reasonable",
+        "portugues": "Razoável",
+        "fraseIngles": "Your request is reasonable.",
+        "frasePortugues": "Sua solicitação é razoável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 135,
+        "ingles": "Unreasonable",
+        "portugues": "Irracional",
+        "fraseIngles": "That's completely unreasonable.",
+        "frasePortugues": "Isso é completamente irracional.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 136,
+        "ingles": "Logical",
+        "portugues": "Lógico",
+        "fraseIngles": "Your reasoning is logical.",
+        "frasePortugues": "Seu raciocínio é lógico.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 137,
+        "ingles": "Illogical",
+        "portugues": "Ilógico",
+        "fraseIngles": "That conclusion seems illogical.",
+        "frasePortugues": "Essa conclusão parece ilógica.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 138,
+        "ingles": "Rational",
+        "portugues": "Racional",
+        "fraseIngles": "Let's be rational about this.",
+        "frasePortugues": "Vamos ser racionais sobre isso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 139,
+        "ingles": "Irrational",
+        "portugues": "Irracional",
+        "fraseIngles": "That fear is irrational.",
+        "frasePortugues": "Esse medo é irracional.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 140,
+        "ingles": "Sensible",
+        "portugues": "Sensato",
+        "fraseIngles": "That's a sensible approach.",
+        "frasePortugues": "Essa é uma abordagem sensata.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 141,
+        "ingles": "Nonsensical",
+        "portugues": "Sem sentido",
+        "fraseIngles": "This plan is nonsensical.",
+        "frasePortugues": "Este plano não faz sentido.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 142,
+        "ingles": "Wise",
+        "portugues": "Sábio",
+        "fraseIngles": "That was a wise decision.",
+        "frasePortugues": "Essa foi uma decisão sábia.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 143,
+        "ingles": "Foolish",
+        "portugues": "Tolo",
+        "fraseIngles": "That would be foolish.",
+        "frasePortugues": "Isso seria tolo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 144,
+        "ingles": "Smart",
+        "portugues": "Inteligente",
+        "fraseIngles": "That's a smart move.",
+        "frasePortugues": "Esse é um movimento inteligente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 145,
+        "ingles": "Stupid",
+        "portugues": "Estúpido",
+        "fraseIngles": "That's a stupid idea.",
+        "frasePortugues": "Essa é uma ideia estúpida.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 146,
+        "ingles": "Clever",
+        "portugues": "Esperto",
+        "fraseIngles": "That's a clever solution.",
+        "frasePortugues": "Essa é uma solução esperta.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 147,
+        "ingles": "Good",
+        "portugues": "Bom",
+        "fraseIngles": "That's a good idea.",
+        "frasePortugues": "Essa é uma boa ideia.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 148,
+        "ingles": "Bad",
+        "portugues": "Ruim",
+        "fraseIngles": "That's a bad decision.",
+        "frasePortugues": "Essa é uma decisão ruim.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 149,
+        "ingles": "Excellent",
+        "portugues": "Excelente",
+        "fraseIngles": "That's an excellent point.",
+        "frasePortugues": "Esse é um ponto excelente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 150,
+        "ingles": "Terrible",
+        "portugues": "Terrível",
+        "fraseIngles": "That's a terrible mistake.",
+        "frasePortugues": "Esse é um erro terrível.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 151,
+        "ingles": "Great",
+        "portugues": "Ótimo",
+        "fraseIngles": "That's a great suggestion.",
+        "frasePortugues": "Essa é uma ótima sugestão.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 152,
+        "ingles": "Awful",
+        "portugues": "Horrível",
+        "fraseIngles": "That's an awful idea.",
+        "frasePortugues": "Essa é uma ideia horrível.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 153,
+        "ingles": "Perfect",
+        "portugues": "Perfeito",
+        "fraseIngles": "That's a perfect solution.",
+        "frasePortugues": "Essa é uma solução perfeita.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 154,
+        "ingles": "Imperfect",
+        "portugues": "Imperfeito",
+        "fraseIngles": "The plan is imperfect but workable.",
+        "frasePortugues": "O plano é imperfeito mas viável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 155,
+        "ingles": "Ideal",
+        "portugues": "Ideal",
+        "fraseIngles": "This is the ideal situation.",
+        "frasePortugues": "Esta é a situação ideal.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 156,
+        "ingles": "Effective",
+        "portugues": "Eficaz",
+        "fraseIngles": "This method is very effective.",
+        "frasePortugues": "Este método é muito eficaz.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 157,
+        "ingles": "Ineffective",
+        "portugues": "Ineficaz",
+        "fraseIngles": "The current approach is ineffective.",
+        "frasePortugues": "A abordagem atual é ineficaz.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 158,
+        "ingles": "Efficient",
+        "portugues": "Eficiente",
+        "fraseIngles": "This system is highly efficient.",
+        "frasePortugues": "Este sistema é altamente eficiente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 159,
+        "ingles": "Inefficient",
+        "portugues": "Ineficiente",
+        "fraseIngles": "The process is too inefficient.",
+        "frasePortugues": "O processo é muito ineficiente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 160,
+        "ingles": "Successful",
+        "portugues": "Bem-sucedido",
+        "fraseIngles": "The project was successful.",
+        "frasePortugues": "O projeto foi bem-sucedido.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 161,
+        "ingles": "Unsuccessful",
+        "portugues": "Mal-sucedido",
+        "fraseIngles": "The attempt was unsuccessful.",
+        "frasePortugues": "A tentativa foi mal-sucedida.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 162,
+        "ingles": "Useful",
+        "portugues": "Útil",
+        "fraseIngles": "This tool is very useful.",
+        "frasePortugues": "Esta ferramenta é muito útil.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 163,
+        "ingles": "Useless",
+        "portugues": "Inútil",
+        "fraseIngles": "This information is useless.",
+        "frasePortugues": "Esta informação é inútil.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 164,
+        "ingles": "Helpful",
+        "portugues": "Útil",
+        "fraseIngles": "Your advice is helpful.",
+        "frasePortugues": "Seu conselho é útil.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 165,
+        "ingles": "Unhelpful",
+        "portugues": "Não útil",
+        "fraseIngles": "That comment was unhelpful.",
+        "frasePortugues": "Esse comentário não foi útil.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 166,
+        "ingles": "Beneficial",
+        "portugues": "Benéfico",
+        "fraseIngles": "This change is beneficial.",
+        "frasePortugues": "Esta mudança é benéfica.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 167,
+        "ingles": "Harmful",
+        "portugues": "Prejudicial",
+        "fraseIngles": "This could be harmful.",
+        "frasePortugues": "Isso poderia ser prejudicial.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 168,
+        "ingles": "Positive",
+        "portugues": "Positivo",
+        "fraseIngles": "The feedback is positive.",
+        "frasePortugues": "O feedback é positivo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 169,
+        "ingles": "Negative",
+        "portugues": "Negativo",
+        "fraseIngles": "The reaction was negative.",
+        "frasePortugues": "A reação foi negativa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 170,
+        "ingles": "Constructive",
+        "portugues": "Construtivo",
+        "fraseIngles": "Please give constructive criticism.",
+        "frasePortugues": "Por favor, dê críticas construtivas.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 171,
+        "ingles": "Destructive",
+        "portugues": "Destrutivo",
+        "fraseIngles": "Negative attitudes are destructive.",
+        "frasePortugues": "Atitudes negativas são destrutivas.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 172,
+        "ingles": "Important",
+        "portugues": "Importante",
+        "fraseIngles": "This is very important.",
+        "frasePortugues": "Isso é muito importante.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 173,
+        "ingles": "Unimportant",
+        "portugues": "Sem importância",
+        "fraseIngles": "That detail is unimportant.",
+        "frasePortugues": "Esse detalhe não tem importância.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 174,
+        "ingles": "Significant",
+        "portugues": "Significativo",
+        "fraseIngles": "This is a significant improvement.",
+        "frasePortugues": "Esta é uma melhoria significativa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 175,
+        "ingles": "Insignificant",
+        "portugues": "Insignificante",
+        "fraseIngles": "The difference is insignificant.",
+        "frasePortugues": "A diferença é insignificante.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 176,
+        "ingles": "Relevant",
+        "portugues": "Relevante",
+        "fraseIngles": "Your experience is relevant.",
+        "frasePortugues": "Sua experiência é relevante.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 177,
+        "ingles": "Irrelevant",
+        "portugues": "Irrelevante",
+        "fraseIngles": "That point is irrelevant.",
+        "frasePortugues": "Esse ponto é irrelevante.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 178,
+        "ingles": "Necessary",
+        "portugues": "Necessário",
+        "fraseIngles": "This step is necessary.",
+        "frasePortugues": "Este passo é necessário.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 179,
+        "ingles": "Unnecessary",
+        "portugues": "Desnecessário",
+        "fraseIngles": "This expense is unnecessary.",
+        "frasePortugues": "Esta despesa é desnecessária.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 180,
+        "ingles": "Essential",
+        "portugues": "Essencial",
+        "fraseIngles": "Quality control is essential.",
+        "frasePortugues": "Controle de qualidade é essencial.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 181,
+        "ingles": "Optional",
+        "portugues": "Opcional",
+        "fraseIngles": "Attendance is optional.",
+        "frasePortugues": "Comparecimento é opcional.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 182,
+        "ingles": "Crucial",
+        "portugues": "Crucial",
+        "fraseIngles": "Timing is crucial here.",
+        "frasePortugues": "O timing é crucial aqui.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 183,
+        "ingles": "Trivial",
+        "portugues": "Trivial",
+        "fraseIngles": "That's a trivial concern.",
+        "frasePortugues": "Essa é uma preocupação trivial.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 184,
+        "ingles": "Critical",
+        "portugues": "Crítico",
+        "fraseIngles": "This is a critical decision.",
+        "frasePortugues": "Esta é uma decisão crítica.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 185,
+        "ingles": "Minor",
+        "portugues": "Menor",
+        "fraseIngles": "That's just a minor issue.",
+        "frasePortugues": "Essa é apenas uma questão menor.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 186,
+        "ingles": "Major",
+        "portugues": "Maior",
+        "fraseIngles": "This is a major problem.",
+        "frasePortugues": "Este é um problema maior.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 187,
+        "ingles": "Serious",
+        "portugues": "Sério",
+        "fraseIngles": "This is a serious matter.",
+        "frasePortugues": "Este é um assunto sério.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 188,
+        "ingles": "Urgent",
+        "portugues": "Urgente",
+        "fraseIngles": "This requires urgent attention.",
+        "frasePortugues": "Isso requer atenção urgente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 189,
+        "ingles": "Priority",
+        "portugues": "Prioridade",
+        "fraseIngles": "Safety is our top priority.",
+        "frasePortugues": "Segurança é nossa prioridade máxima.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 190,
+        "ingles": "Secondary",
+        "portugues": "Secundário",
+        "fraseIngles": "That's a secondary concern.",
+        "frasePortugues": "Essa é uma preocupação secundária.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 191,
+        "ingles": "Primary",
+        "portugues": "Primário",
+        "fraseIngles": "What's the primary objective?",
+        "frasePortugues": "Qual é o objetivo primário?",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 192,
+        "ingles": "Key",
+        "portugues": "Chave",
+        "fraseIngles": "This is a key factor.",
+        "frasePortugues": "Este é um fator chave.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 193,
+        "ingles": "Main",
+        "portugues": "Principal",
+        "fraseIngles": "The main issue is cost.",
+        "frasePortugues": "A questão principal é o custo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 194,
+        "ingles": "Central",
+        "portugues": "Central",
+        "fraseIngles": "Quality is central to our mission.",
+        "frasePortugues": "Qualidade é central à nossa missão.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 195,
+        "ingles": "Fundamental",
+        "portugues": "Fundamental",
+        "fraseIngles": "This is a fundamental principle.",
+        "frasePortugues": "Este é um princípio fundamental.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 196,
+        "ingles": "Basic",
+        "portugues": "Básico",
+        "fraseIngles": "We need to cover the basics first.",
+        "frasePortugues": "Precisamos cobrir o básico primeiro.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 197,
+        "ingles": "Advanced",
+        "portugues": "Avançado",
+        "fraseIngles": "This is an advanced technique.",
+        "frasePortugues": "Esta é uma técnica avançada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 198,
+        "ingles": "Simple",
+        "portugues": "Simples",
+        "fraseIngles": "Let's keep it simple.",
+        "frasePortugues": "Vamos manter simples.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 199,
+        "ingles": "Complex",
+        "portugues": "Complexo",
+        "fraseIngles": "This is a complex situation.",
+        "frasePortugues": "Esta é uma situação complexa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 200,
+        "ingles": "Complicated",
+        "portugues": "Complicado",
+        "fraseIngles": "The process is too complicated.",
+        "frasePortugues": "O processo é muito complicado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 201,
+        "ingles": "Easy",
+        "portugues": "Fácil",
+        "fraseIngles": "This should be easy to fix.",
+        "frasePortugues": "Isso deveria ser fácil de consertar.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 202,
+        "ingles": "Difficult",
+        "portugues": "Difícil",
+        "fraseIngles": "This is a difficult challenge.",
+        "frasePortugues": "Este é um desafio difícil.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 203,
+        "ingles": "Hard",
+        "portugues": "Difícil",
+        "fraseIngles": "It's hard to make this decision.",
+        "frasePortugues": "É difícil tomar esta decisão.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 204,
+        "ingles": "Challenging",
+        "portugues": "Desafiador",
+        "fraseIngles": "This project is challenging.",
+        "frasePortugues": "Este projeto é desafiador.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 205,
+        "ingles": "Risky",
+        "portugues": "Arriscado",
+        "fraseIngles": "This investment is too risky.",
+        "frasePortugues": "Este investimento é arriscado demais.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 206,
+        "ingles": "Safe",
+        "portugues": "Seguro",
+        "fraseIngles": "This is the safer option.",
+        "frasePortugues": "Esta é a opção mais segura.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 207,
+        "ingles": "Dangerous",
+        "portugues": "Perigoso",
+        "fraseIngles": "That approach is dangerous.",
+        "frasePortugues": "Essa abordagem é perigosa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 208,
+        "ingles": "Secure",
+        "portugues": "Seguro",
+        "fraseIngles": "Our data is secure.",
+        "frasePortugues": "Nossos dados estão seguros.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 209,
+        "ingles": "Vulnerable",
+        "portugues": "Vulnerável",
+        "fraseIngles": "The system is vulnerable.",
+        "frasePortugues": "O sistema está vulnerável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 210,
+        "ingles": "Strong",
+        "portugues": "Forte",
+        "fraseIngles": "We have a strong position.",
+        "frasePortugues": "Temos uma posição forte.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 211,
+        "ingles": "Weak",
+        "portugues": "Fraco",
+        "fraseIngles": "The argument is weak.",
+        "frasePortugues": "O argumento é fraco.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 212,
+        "ingles": "Solid",
+        "portugues": "Sólido",
+        "fraseIngles": "This is a solid plan.",
+        "frasePortugues": "Este é um plano sólido.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 213,
+        "ingles": "Shaky",
+        "portugues": "Instável",
+        "fraseIngles": "The foundation seems shaky.",
+        "frasePortugues": "A base parece instável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 214,
+        "ingles": "Stable",
+        "portugues": "Estável",
+        "fraseIngles": "The market is stable.",
+        "frasePortugues": "O mercado está estável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 215,
+        "ingles": "Unstable",
+        "portugues": "Instável",
+        "fraseIngles": "The situation is unstable.",
+        "frasePortugues": "A situação está instável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 216,
+        "ingles": "Reliable",
+        "portugues": "Confiável",
+        "fraseIngles": "This source is reliable.",
+        "frasePortugues": "Esta fonte é confiável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 217,
+        "ingles": "Unreliable",
+        "portugues": "Não confiável",
+        "fraseIngles": "The information is unreliable.",
+        "frasePortugues": "A informação não é confiável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 218,
+        "ingles": "Consistent",
+        "portugues": "Consistente",
+        "fraseIngles": "The results are consistent.",
+        "frasePortugues": "Os resultados são consistentes.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 219,
+        "ingles": "Inconsistent",
+        "portugues": "Inconsistente",
+        "fraseIngles": "The data is inconsistent.",
+        "frasePortugues": "Os dados são inconsistentes.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 220,
+        "ingles": "Predictable",
+        "portugues": "Previsível",
+        "fraseIngles": "The outcome is predictable.",
+        "frasePortugues": "O resultado é previsível.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 221,
+        "ingles": "Unpredictable",
+        "portugues": "Imprevisível",
+        "fraseIngles": "Market behavior is unpredictable.",
+        "frasePortugues": "Comportamento do mercado é imprevisível.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 222,
+        "ingles": "Expected",
+        "portugues": "Esperado",
+        "fraseIngles": "This was the expected result.",
+        "frasePortugues": "Este foi o resultado esperado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 223,
+        "ingles": "Unexpected",
+        "portugues": "Inesperado",
+        "fraseIngles": "This is an unexpected development.",
+        "frasePortugues": "Este é um desenvolvimento inesperado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 224,
+        "ingles": "Normal",
+        "portugues": "Normal",
+        "fraseIngles": "This is normal behavior.",
+        "frasePortugues": "Este é comportamento normal.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 225,
+        "ingles": "Abnormal",
+        "portugues": "Anormal",
+        "fraseIngles": "The readings are abnormal.",
+        "frasePortugues": "As leituras estão anormais.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 226,
+        "ingles": "Typical",
+        "portugues": "Típico",
+        "fraseIngles": "This is typical for this season.",
+        "frasePortugues": "Isso é típico para esta estação.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 227,
+        "ingles": "Unusual",
+        "portugues": "Incomum",
+        "fraseIngles": "This is an unusual situation.",
+        "frasePortugues": "Esta é uma situação incomum.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 228,
+        "ingles": "Common",
+        "portugues": "Comum",
+        "fraseIngles": "This is a common problem.",
+        "frasePortugues": "Este é um problema comum.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 229,
+        "ingles": "Rare",
+        "portugues": "Raro",
+        "fraseIngles": "Such opportunities are rare.",
+        "frasePortugues": "Tais oportunidades são raras.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 230,
+        "ingles": "Frequent",
+        "portugues": "Frequente",
+        "fraseIngles": "Delays are frequent here.",
+        "frasePortugues": "Atrasos são frequentes aqui.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 231,
+        "ingles": "Infrequent",
+        "portugues": "Infrequente",
+        "fraseIngles": "Accidents are infrequent.",
+        "frasePortugues": "Acidentes são infrequentes.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 232,
+        "ingles": "Regular",
+        "portugues": "Regular",
+        "fraseIngles": "We hold regular meetings.",
+        "frasePortugues": "Realizamos reuniões regulares.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 233,
+        "ingles": "Irregular",
+        "portugues": "Irregular",
+        "fraseIngles": "The schedule is irregular.",
+        "frasePortugues": "O cronograma é irregular.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 234,
+        "ingles": "Standard",
+        "portugues": "Padrão",
+        "fraseIngles": "This is standard procedure.",
+        "frasePortugues": "Este é procedimento padrão.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 235,
+        "ingles": "Non-standard",
+        "portugues": "Fora do padrão",
+        "fraseIngles": "This is a non-standard approach.",
+        "frasePortugues": "Esta é uma abordagem fora do padrão.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 236,
+        "ingles": "Conventional",
+        "portugues": "Convencional",
+        "fraseIngles": "Let's try the conventional method.",
+        "frasePortugues": "Vamos tentar o método convencional.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 237,
+        "ingles": "Unconventional",
+        "portugues": "Não convencional",
+        "fraseIngles": "This is an unconventional solution.",
+        "frasePortugues": "Esta é uma solução não convencional.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 238,
+        "ingles": "Traditional",
+        "portugues": "Tradicional",
+        "fraseIngles": "We follow traditional practices.",
+        "frasePortugues": "Seguimos práticas tradicionais.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 239,
+        "ingles": "Modern",
+        "portugues": "Moderno",
+        "fraseIngles": "We need modern technology.",
+        "frasePortugues": "Precisamos de tecnologia moderna.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 240,
+        "ingles": "Old-fashioned",
+        "portugues": "Antiquado",
+        "fraseIngles": "That approach is old-fashioned.",
+        "frasePortugues": "Essa abordagem é antiquada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 241,
+        "ingles": "Up-to-date",
+        "portugues": "Atualizado",
+        "fraseIngles": "Keep the information up-to-date.",
+        "frasePortugues": "Mantenha a informação atualizada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 242,
+        "ingles": "Current",
+        "portugues": "Atual",
+        "fraseIngles": "What's the current status?",
+        "frasePortugues": "Qual é o status atual?",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 243,
+        "ingles": "Outdated",
+        "portugues": "Desatualizado",
+        "fraseIngles": "The system is outdated.",
+        "frasePortugues": "O sistema está desatualizado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 244,
+        "ingles": "Fresh",
+        "portugues": "Fresco",
+        "fraseIngles": "We need fresh ideas.",
+        "frasePortugues": "Precisamos de ideias frescas.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 245,
+        "ingles": "Stale",
+        "portugues": "Velho",
+        "fraseIngles": "These concepts are stale.",
+        "frasePortugues": "Esses conceitos estão velhos.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 246,
+        "ingles": "New",
+        "portugues": "Novo",
+        "fraseIngles": "This is a new approach.",
+        "frasePortugues": "Esta é uma nova abordagem.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 247,
+        "ingles": "Old",
+        "portugues": "Velho",
+        "fraseIngles": "The old system worked fine.",
+        "frasePortugues": "O sistema antigo funcionava bem.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 248,
+        "ingles": "Recent",
+        "portugues": "Recente",
+        "fraseIngles": "This is a recent development.",
+        "frasePortugues": "Este é um desenvolvimento recente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 249,
+        "ingles": "Past",
+        "portugues": "Passado",
+        "fraseIngles": "Learn from past mistakes.",
+        "frasePortugues": "Aprenda com erros passados.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 250,
+        "ingles": "Future",
+        "portugues": "Futuro",
+        "fraseIngles": "Consider future implications.",
+        "frasePortugues": "Considere implicações futuras.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 251,
+        "ingles": "Temporary",
+        "portugues": "Temporário",
+        "fraseIngles": "This is a temporary solution.",
+        "frasePortugues": "Esta é uma solução temporária.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 252,
+        "ingles": "Permanent",
+        "portugues": "Permanente",
+        "fraseIngles": "We need a permanent fix.",
+        "frasePortugues": "Precisamos de uma solução permanente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 253,
+        "ingles": "Short-term",
+        "portugues": "Curto prazo",
+        "fraseIngles": "This is a short-term strategy.",
+        "frasePortugues": "Esta é uma estratégia de curto prazo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 254,
+        "ingles": "Long-term",
+        "portugues": "Longo prazo",
+        "fraseIngles": "Think about long-term consequences.",
+        "frasePortugues": "Pense nas consequências de longo prazo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 255,
+        "ingles": "Quick",
+        "portugues": "Rápido",
+        "fraseIngles": "We need a quick decision.",
+        "frasePortugues": "Precisamos de uma decisão rápida.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 256,
+        "ingles": "Slow",
+        "portugues": "Lento",
+        "fraseIngles": "The progress is too slow.",
+        "frasePortugues": "O progresso está muito lento.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 257,
+        "ingles": "Fast",
+        "portugues": "Rápido",
+        "fraseIngles": "This is a fast solution.",
+        "frasePortugues": "Esta é uma solução rápida.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 258,
+        "ingles": "Gradual",
+        "portugues": "Gradual",
+        "fraseIngles": "Change should be gradual.",
+        "frasePortugues": "A mudança deve ser gradual.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 259,
+        "ingles": "Immediate",
+        "portugues": "Imediato",
+        "fraseIngles": "We need immediate action.",
+        "frasePortugues": "Precisamos de ação imediata.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 260,
+        "ingles": "Delayed",
+        "portugues": "Atrasado",
+        "fraseIngles": "The response was delayed.",
+        "frasePortugues": "A resposta foi atrasada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 261,
+        "ingles": "Early",
+        "portugues": "Cedo",
+        "fraseIngles": "It's too early to decide.",
+        "frasePortugues": "É cedo demais para decidir.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 262,
+        "ingles": "Late",
+        "portugues": "Tarde",
+        "fraseIngles": "It's too late to change.",
+        "frasePortugues": "É tarde demais para mudar.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 263,
+        "ingles": "Timely",
+        "portugues": "Oportuno",
+        "fraseIngles": "Your intervention was timely.",
+        "frasePortugues": "Sua intervenção foi oportuna.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 264,
+        "ingles": "Untimely",
+        "portugues": "Inoportuno",
+        "fraseIngles": "This is an untimely request.",
+        "frasePortugues": "Esta é uma solicitação inoportuna.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 265,
+        "ingles": "Appropriate",
+        "portugues": "Apropriado",
+        "fraseIngles": "This response is appropriate.",
+        "frasePortugues": "Esta resposta é apropriada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 266,
+        "ingles": "Inappropriate",
+        "portugues": "Inapropriado",
+        "fraseIngles": "That comment was inappropriate.",
+        "frasePortugues": "Esse comentário foi inapropriado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 267,
+        "ingles": "Suitable",
+        "portugues": "Adequado",
+        "fraseIngles": "This location is suitable.",
+        "frasePortugues": "Este local é adequado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 268,
+        "ingles": "Unsuitable",
+        "portugues": "Inadequado",
+        "fraseIngles": "The timing is unsuitable.",
+        "frasePortugues": "O timing é inadequado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 269,
+        "ingles": "Proper",
+        "portugues": "Adequado",
+        "fraseIngles": "Follow proper procedures.",
+        "frasePortugues": "Siga procedimentos adequados.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 270,
+        "ingles": "Improper",
+        "portugues": "Inadequado",
+        "fraseIngles": "That was improper conduct.",
+        "frasePortugues": "Essa foi conduta inadequada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 271,
+        "ingles": "Acceptable",
+        "portugues": "Aceitável",
+        "fraseIngles": "The quality is acceptable.",
+        "frasePortugues": "A qualidade é aceitável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 272,
+        "ingles": "Unacceptable",
+        "portugues": "Inaceitável",
+        "fraseIngles": "This behavior is unacceptable.",
+        "frasePortugues": "Este comportamento é inaceitável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 273,
+        "ingles": "Satisfactory",
+        "portugues": "Satisfatório",
+        "fraseIngles": "The results are satisfactory.",
+        "frasePortugues": "Os resultados são satisfatórios.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 274,
+        "ingles": "Unsatisfactory",
+        "portugues": "Insatisfatório",
+        "fraseIngles": "The performance was unsatisfactory.",
+        "frasePortugues": "O desempenho foi insatisfatório.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 275,
+        "ingles": "Adequate",
+        "portugues": "Adequado",
+        "fraseIngles": "The resources are adequate.",
+        "frasePortugues": "Os recursos são adequados.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 276,
+        "ingles": "Inadequate",
+        "portugues": "Inadequado",
+        "fraseIngles": "The funding is inadequate.",
+        "frasePortugues": "O financiamento é inadequado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 277,
+        "ingles": "Sufficient",
+        "portugues": "Suficiente",
+        "fraseIngles": "Do we have sufficient time?",
+        "frasePortugues": "Temos tempo suficiente?",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 278,
+        "ingles": "Insufficient",
+        "portugues": "Insuficiente",
+        "fraseIngles": "The evidence is insufficient.",
+        "frasePortugues": "A evidência é insuficiente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 279,
+        "ingles": "Enough",
+        "portugues": "Suficiente",
+        "fraseIngles": "Is this enough for now?",
+        "frasePortugues": "Isso é suficiente por enquanto?",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 280,
+        "ingles": "Too much",
+        "portugues": "Demais",
+        "fraseIngles": "This is too much to handle.",
+        "frasePortugues": "Isso é demais para lidar.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 281,
+        "ingles": "Too little",
+        "portugues": "Pouco demais",
+        "fraseIngles": "We have too little information.",
+        "frasePortugues": "Temos informação de menos.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 282,
+        "ingles": "Just right",
+        "portugues": "Na medida certa",
+        "fraseIngles": "This amount is just right.",
+        "frasePortugues": "Esta quantidade está na medida certa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 283,
+        "ingles": "Balanced",
+        "portugues": "Equilibrado",
+        "fraseIngles": "We need a balanced approach.",
+        "frasePortugues": "Precisamos de uma abordagem equilibrada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 284,
+        "ingles": "Unbalanced",
+        "portugues": "Desequilibrado",
+        "fraseIngles": "The proposal is unbalanced.",
+        "frasePortugues": "A proposta está desequilibrada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 285,
+        "ingles": "Objective",
+        "portugues": "Objetivo",
+        "fraseIngles": "Try to be objective.",
+        "frasePortugues": "Tente ser objetivo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 286,
+        "ingles": "Subjective",
+        "portugues": "Subjetivo",
+        "fraseIngles": "That's a subjective opinion.",
+        "frasePortugues": "Essa é uma opinião subjetiva.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 287,
+        "ingles": "Biased",
+        "portugues": "Tendencioso",
+        "fraseIngles": "The report seems biased.",
+        "frasePortugues": "O relatório parece tendencioso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 288,
+        "ingles": "Unbiased",
+        "portugues": "Imparcial",
+        "fraseIngles": "We need an unbiased evaluation.",
+        "frasePortugues": "Precisamos de uma avaliação imparcial.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 289,
+        "ingles": "Neutral",
+        "portugues": "Neutro",
+        "fraseIngles": "I'll remain neutral on this.",
+        "frasePortugues": "Permanecerei neutro sobre isso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 290,
+        "ingles": "Partial",
+        "portugues": "Parcial",
+        "fraseIngles": "That's only a partial truth.",
+        "frasePortugues": "Essa é apenas uma verdade parcial.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 291,
+        "ingles": "Complete",
+        "portugues": "Completo",
+        "fraseIngles": "Give me the complete picture.",
+        "frasePortugues": "Me dê o quadro completo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 292,
+        "ingles": "Incomplete",
+        "portugues": "Incompleto",
+        "fraseIngles": "The information is incomplete.",
+        "frasePortugues": "A informação está incompleta.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 293,
+        "ingles": "Comprehensive",
+        "portugues": "Abrangente",
+        "fraseIngles": "We need a comprehensive plan.",
+        "frasePortugues": "Precisamos de um plano abrangente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 294,
+        "ingles": "Limited",
+        "portugues": "Limitado",
+        "fraseIngles": "Our options are limited.",
+        "frasePortugues": "Nossas opções são limitadas.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 295,
+        "ingles": "Unlimited",
+        "portugues": "Ilimitado",
+        "fraseIngles": "We have unlimited potential.",
+        "frasePortugues": "Temos potencial ilimitado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 296,
+        "ingles": "Broad",
+        "portugues": "Amplo",
+        "fraseIngles": "Take a broad perspective.",
+        "frasePortugues": "Tenha uma perspectiva ampla.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 297,
+        "ingles": "Narrow",
+        "portugues": "Restrito",
+        "fraseIngles": "Your focus is too narrow.",
+        "frasePortugues": "Seu foco está muito restrito.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 298,
+        "ingles": "Wide",
+        "portugues": "Amplo",
+        "fraseIngles": "Consider a wide range of options.",
+        "frasePortugues": "Considere uma ampla gama de opções.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 299,
+        "ingles": "Specific",
+        "portugues": "Específico",
+        "fraseIngles": "Can you be more specific?",
+        "frasePortugues": "Pode ser mais específico?",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 300,
+        "ingles": "General",
+        "portugues": "Geral",
+        "fraseIngles": "That's too general a statement.",
+        "frasePortugues": "Essa é uma afirmação muito geral.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 301,
+        "ingles": "Detailed",
+        "portugues": "Detalhado",
+        "fraseIngles": "We need a detailed analysis.",
+        "frasePortugues": "Precisamos de uma análise detalhada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 302,
+        "ingles": "Vague",
+        "portugues": "Vago",
+        "fraseIngles": "Your explanation is vague.",
+        "frasePortugues": "Sua explicação é vaga.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 303,
+        "ingles": "Clear",
+        "portugues": "Claro",
+        "fraseIngles": "Your instructions are clear.",
+        "frasePortugues": "Suas instruções são claras.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 304,
+        "ingles": "Unclear",
+        "portugues": "Pouco claro",
+        "fraseIngles": "The message is unclear.",
+        "frasePortugues": "A mensagem está pouco clara.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 305,
+        "ingles": "Obvious",
+        "portugues": "Óbvio",
+        "fraseIngles": "The answer is obvious.",
+        "frasePortugues": "A resposta é óbvia.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 306,
+        "ingles": "Subtle",
+        "portugues": "Sutil",
+        "fraseIngles": "The difference is subtle.",
+        "frasePortugues": "A diferença é sutil.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 307,
+        "ingles": "Direct",
+        "portugues": "Direto",
+        "fraseIngles": "I prefer a direct approach.",
+        "frasePortugues": "Prefiro uma abordagem direta.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 308,
+        "ingles": "Indirect",
+        "portugues": "Indireto",
+        "fraseIngles": "Use an indirect method.",
+        "frasePortugues": "Use um método indireto.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 309,
+        "ingles": "Straightforward",
+        "portugues": "Direto",
+        "fraseIngles": "Be straightforward with me.",
+        "frasePortugues": "Seja direto comigo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 310,
+        "ingles": "Complicated",
+        "portugues": "Complicado",
+        "fraseIngles": "This situation is complicated.",
+        "frasePortugues": "Esta situação é complicada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 311,
+        "ingles": "Honest",
+        "portugues": "Honesto",
+        "fraseIngles": "Give me your honest opinion.",
+        "frasePortugues": "Me dê sua opinião honesta.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 312,
+        "ingles": "Dishonest",
+        "portugues": "Desonesto",
+        "fraseIngles": "That would be dishonest.",
+        "frasePortugues": "Isso seria desonesto.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 313,
+        "ingles": "Sincere",
+        "portugues": "Sincero",
+        "fraseIngles": "I appreciate your sincere feedback.",
+        "frasePortugues": "Agradeço seu feedback sincero.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 314,
+        "ingles": "Insincere",
+        "portugues": "Falso",
+        "fraseIngles": "His apology seemed insincere.",
+        "frasePortugues": "Seu pedido de desculpas pareceu falso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 315,
+        "ingles": "Genuine",
+        "portugues": "Genuíno",
+        "fraseIngles": "This is a genuine concern.",
+        "frasePortugues": "Esta é uma preocupação genuína.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 316,
+        "ingles": "Fake",
+        "portugues": "Falso",
+        "fraseIngles": "That excuse sounds fake.",
+        "frasePortugues": "Essa desculpa soa falsa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 317,
+        "ingles": "Authentic",
+        "portugues": "Autêntico",
+        "fraseIngles": "We need authentic feedback.",
+        "frasePortugues": "Precisamos de feedback autêntico.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 318,
+        "ingles": "Artificial",
+        "portugues": "Artificial",
+        "fraseIngles": "The solution feels artificial.",
+        "frasePortugues": "A solução parece artificial.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 319,
+        "ingles": "Real",
+        "portugues": "Real",
+        "fraseIngles": "This is a real problem.",
+        "frasePortugues": "Este é um problema real.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 320,
+        "ingles": "Imaginary",
+        "portugues": "Imaginário",
+        "fraseIngles": "Those fears are imaginary.",
+        "frasePortugues": "Esses medos são imaginários.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 321,
+        "ingles": "Practical",
+        "portugues": "Prático",
+        "fraseIngles": "That's a practical solution.",
+        "frasePortugues": "Essa é uma solução prática.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 322,
+        "ingles": "Impractical",
+        "portugues": "Impraticável",
+        "fraseIngles": "Your plan is impractical.",
+        "frasePortugues": "Seu plano é impraticável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 323,
+        "ingles": "Realistic",
+        "portugues": "Realista",
+        "fraseIngles": "Be realistic about expectations.",
+        "frasePortugues": "Seja realista sobre expectativas.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 324,
+        "ingles": "Unrealistic",
+        "portugues": "Irrealista",
+        "fraseIngles": "That goal is unrealistic.",
+        "frasePortugues": "Essa meta é irrealista.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 325,
+        "ingles": "Possible",
+        "portugues": "Possível",
+        "fraseIngles": "Everything is possible.",
+        "frasePortugues": "Tudo é possível.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 326,
+        "ingles": "Impossible",
+        "portugues": "Impossível",
+        "fraseIngles": "That's virtually impossible.",
+        "frasePortugues": "Isso é praticamente impossível.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 327,
+        "ingles": "Feasible",
+        "portugues": "Viável",
+        "fraseIngles": "The project is feasible.",
+        "frasePortugues": "O projeto é viável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 328,
+        "ingles": "Unfeasible",
+        "portugues": "Inviável",
+        "fraseIngles": "The timeline is unfeasible.",
+        "frasePortugues": "O cronograma é inviável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 329,
+        "ingles": "Workable",
+        "portugues": "Funcional",
+        "fraseIngles": "This is a workable compromise.",
+        "frasePortugues": "Este é um compromisso funcional.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 330,
+        "ingles": "Unworkable",
+        "portugues": "Impraticável",
+        "fraseIngles": "The current system is unworkable.",
+        "frasePortugues": "O sistema atual é impraticável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 331,
+        "ingles": "Flexible",
+        "portugues": "Flexível",
+        "fraseIngles": "We need to be flexible.",
+        "frasePortugues": "Precisamos ser flexíveis.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 332,
+        "ingles": "Inflexible",
+        "portugues": "Inflexível",
+        "fraseIngles": "The rules are inflexible.",
+        "frasePortugues": "As regras são inflexíveis.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 333,
+        "ingles": "Adaptable",
+        "portugues": "Adaptável",
+        "fraseIngles": "The plan is adaptable.",
+        "frasePortugues": "O plano é adaptável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 334,
+        "ingles": "Rigid",
+        "portugues": "Rígido",
+        "fraseIngles": "The structure is too rigid.",
+        "frasePortugues": "A estrutura é muito rígida.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 335,
+        "ingles": "Open",
+        "portugues": "Aberto",
+        "fraseIngles": "Keep an open mind.",
+        "frasePortugues": "Mantenha uma mente aberta.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 336,
+        "ingles": "Closed",
+        "portugues": "Fechado",
+        "fraseIngles": "Don't be so closed-minded.",
+        "frasePortugues": "Não seja tão mente fechada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 337,
+        "ingles": "Broad-minded",
+        "portugues": "Mente aberta",
+        "fraseIngles": "She's very broad-minded.",
+        "frasePortugues": "Ela tem a mente muito aberta.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 338,
+        "ingles": "Narrow-minded",
+        "portugues": "Mente estreita",
+        "fraseIngles": "That's a narrow-minded view.",
+        "frasePortugues": "Esse é um ponto de vista de mente estreita.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 339,
+        "ingles": "Progressive",
+        "portugues": "Progressista",
+        "fraseIngles": "We need progressive thinking.",
+        "frasePortugues": "Precisamos de pensamento progressista.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 340,
+        "ingles": "Conservative",
+        "portugues": "Conservador",
+        "fraseIngles": "Take a conservative approach.",
+        "frasePortugues": "Adote uma abordagem conservadora.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 341,
+        "ingles": "Liberal",
+        "portugues": "Liberal",
+        "fraseIngles": "He has liberal views.",
+        "frasePortugues": "Ele tem visões liberais.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 342,
+        "ingles": "Radical",
+        "portugues": "Radical",
+        "fraseIngles": "That's a radical change.",
+        "frasePortugues": "Essa é uma mudança radical.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 343,
+        "ingles": "Moderate",
+        "portugues": "Moderado",
+        "fraseIngles": "Take a moderate position.",
+        "frasePortugues": "Adote uma posição moderada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 344,
+        "ingles": "Extreme",
+        "portugues": "Extremo",
+        "fraseIngles": "That's an extreme reaction.",
+        "frasePortugues": "Essa é uma reação extrema.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 345,
+        "ingles": "Balanced",
+        "portugues": "Equilibrado",
+        "fraseIngles": "Present a balanced argument.",
+        "frasePortugues": "Apresente um argumento equilibrado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 346,
+        "ingles": "One-sided",
+        "portugues": "Parcial",
+        "fraseIngles": "That's a one-sided view.",
+        "frasePortugues": "Essa é uma visão parcial.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 347,
+        "ingles": "Fair",
+        "portugues": "Justo",
+        "fraseIngles": "That's a fair criticism.",
+        "frasePortugues": "Essa é uma crítica justa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 348,
+        "ingles": "Unfair",
+        "portugues": "Injusto",
+        "fraseIngles": "The comparison is unfair.",
+        "frasePortugues": "A comparação é injusta.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 349,
+        "ingles": "Just",
+        "portugues": "Justo",
+        "fraseIngles": "The decision was just.",
+        "frasePortugues": "A decisão foi justa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 350,
+        "ingles": "Unjust",
+        "portugues": "Injusto",
+        "fraseIngles": "The punishment is unjust.",
+        "frasePortugues": "A punição é injusta.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 351,
+        "ingles": "Equal",
+        "portugues": "Igual",
+        "fraseIngles": "Everyone deserves equal treatment.",
+        "frasePortugues": "Todos merecem tratamento igual.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 352,
+        "ingles": "Unequal",
+        "portugues": "Desigual",
+        "fraseIngles": "The distribution is unequal.",
+        "frasePortugues": "A distribuição é desigual.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 353,
+        "ingles": "Impartial",
+        "portugues": "Imparcial",
+        "fraseIngles": "Judges must be impartial.",
+        "frasePortugues": "Juízes devem ser imparciais.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 354,
+        "ingles": "Partial",
+        "portugues": "Parcial",
+        "fraseIngles": "The referee was partial.",
+        "frasePortugues": "O árbitro foi parcial.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 355,
+        "ingles": "Democratic",
+        "portugues": "Democrático",
+        "fraseIngles": "Use a democratic process.",
+        "frasePortugues": "Use um processo democrático.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 356,
+        "ingles": "Authoritarian",
+        "portugues": "Autoritário",
+        "fraseIngles": "The approach is too authoritarian.",
+        "frasePortugues": "A abordagem é muito autoritária.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 357,
+        "ingles": "Inclusive",
+        "portugues": "Inclusivo",
+        "fraseIngles": "Create an inclusive environment.",
+        "frasePortugues": "Crie um ambiente inclusivo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 358,
+        "ingles": "Exclusive",
+        "portugues": "Exclusivo",
+        "fraseIngles": "The club is exclusive.",
+        "frasePortugues": "O clube é exclusivo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 359,
+        "ingles": "Collaborative",
+        "portugues": "Colaborativo",
+        "fraseIngles": "Foster collaborative relationships.",
+        "frasePortugues": "Promova relacionamentos colaborativos.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 360,
+        "ingles": "Competitive",
+        "portugues": "Competitivo",
+        "fraseIngles": "The market is competitive.",
+        "frasePortugues": "O mercado é competitivo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 361,
+        "ingles": "Cooperative",
+        "portugues": "Cooperativo",
+        "fraseIngles": "We need cooperative effort.",
+        "frasePortugues": "Precisamos de esforço cooperativo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 362,
+        "ingles": "Confrontational",
+        "portugues": "Confrontativo",
+        "fraseIngles": "Avoid confrontational language.",
+        "frasePortugues": "Evite linguagem confrontativa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 363,
+        "ingles": "Diplomatic",
+        "portugues": "Diplomático",
+        "fraseIngles": "Handle this diplomatically.",
+        "frasePortugues": "Lide com isso diplomaticamente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 364,
+        "ingles": "Aggressive",
+        "portugues": "Agressivo",
+        "fraseIngles": "That's too aggressive an approach.",
+        "frasePortugues": "Essa é uma abordagem agressiva demais.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 365,
+        "ingles": "Passive",
+        "portugues": "Passivo",
+        "fraseIngles": "Don't be passive about this.",
+        "frasePortugues": "Não seja passivo sobre isso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 366,
+        "ingles": "Assertive",
+        "portugues": "Assertivo",
+        "fraseIngles": "Be more assertive in meetings.",
+        "frasePortugues": "Seja mais assertivo nas reuniões.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 367,
+        "ingles": "Submissive",
+        "portugues": "Submisso",
+        "fraseIngles": "Don't be submissive to pressure.",
+        "frasePortugues": "Não seja submisso à pressão.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 368,
+        "ingles": "Dominant",
+        "portugues": "Dominante",
+        "fraseIngles": "One view shouldn't be dominant.",
+        "frasePortugues": "Uma visão não deveria ser dominante.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 369,
+        "ingles": "Patient",
+        "portugues": "Paciente",
+        "fraseIngles": "Be patient with the process.",
+        "frasePortugues": "Seja paciente com o processo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 370,
+        "ingles": "Impatient",
+        "portugues": "Impaciente",
+        "fraseIngles": "Don't be impatient for results.",
+        "frasePortugues": "Não seja impaciente por resultados.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 371,
+        "ingles": "Tolerant",
+        "portugues": "Tolerante",
+        "fraseIngles": "We must be tolerant of differences.",
+        "frasePortugues": "Devemos ser tolerantes às diferenças.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 372,
+        "ingles": "Intolerant",
+        "portugues": "Intolerante",
+        "fraseIngles": "Don't be intolerant of mistakes.",
+        "frasePortugues": "Não seja intolerante a erros.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 373,
+        "ingles": "Understanding",
+        "portugues": "Compreensivo",
+        "fraseIngles": "Thank you for being understanding.",
+        "frasePortugues": "Obrigado por ser compreensivo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 374,
+        "ingles": "Misunderstanding",
+        "portugues": "Mal-entendido",
+        "fraseIngles": "This is all a misunderstanding.",
+        "frasePortugues": "Isso tudo é um mal-entendido.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 375,
+        "ingles": "Supportive",
+        "portugues": "Prestativo",
+        "fraseIngles": "Your team is very supportive.",
+        "frasePortugues": "Sua equipe é muito prestativa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 376,
+        "ingles": "Unsupportive",
+        "portugues": "Não prestativo",
+        "fraseIngles": "The management is unsupportive.",
+        "frasePortugues": "A gerência não é prestativa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 377,
+        "ingles": "Encouraging",
+        "portugues": "Encorajador",
+        "fraseIngles": "Your words are encouraging.",
+        "frasePortugues": "Suas palavras são encorajadoras.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 378,
+        "ingles": "Discouraging",
+        "portugues": "Desencorajador",
+        "fraseIngles": "Don't be discouraging about this.",
+        "frasePortugues": "Não seja desencorajador sobre isso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 379,
+        "ingles": "Motivating",
+        "portugues": "Motivador",
+        "fraseIngles": "This challenge is motivating.",
+        "frasePortugues": "Este desafio é motivador.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 380,
+        "ingles": "Demotivating",
+        "portugues": "Desmotivador",
+        "fraseIngles": "Criticism can be demotivating.",
+        "frasePortugues": "Críticas podem ser desmotivadoras.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 381,
+        "ingles": "Inspiring",
+        "portugues": "Inspirador",
+        "fraseIngles": "Your leadership is inspiring.",
+        "frasePortugues": "Sua liderança é inspiradora.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 382,
+        "ingles": "Uninspiring",
+        "portugues": "Pouco inspirador",
+        "fraseIngles": "The presentation was uninspiring.",
+        "frasePortugues": "A apresentação foi pouco inspiradora.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 383,
+        "ingles": "Refreshing",
+        "portugues": "Refrescante",
+        "fraseIngles": "Your honesty is refreshing.",
+        "frasePortugues": "Sua honestidade é refrescante.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 384,
+        "ingles": "Stale",
+        "portugues": "Gasto",
+        "fraseIngles": "These ideas are stale.",
+        "frasePortugues": "Essas ideias estão gastas.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 385,
+        "ingles": "Original",
+        "portugues": "Original",
+        "fraseIngles": "That's an original concept.",
+        "frasePortugues": "Esse é um conceito original.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 386,
+        "ingles": "Unoriginal",
+        "portugues": "Pouco original",
+        "fraseIngles": "The design is unoriginal.",
+        "frasePortugues": "O design é pouco original.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 387,
+        "ingles": "Creative",
+        "portugues": "Criativo",
+        "fraseIngles": "We need creative solutions.",
+        "frasePortugues": "Precisamos de soluções criativas.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 388,
+        "ingles": "Uncreative",
+        "portugues": "Pouco criativo",
+        "fraseIngles": "The approach is uncreative.",
+        "frasePortugues": "A abordagem é pouco criativa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 389,
+        "ingles": "Innovative",
+        "portugues": "Inovador",
+        "fraseIngles": "This is an innovative approach.",
+        "frasePortugues": "Esta é uma abordagem inovadora.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 390,
+        "ingles": "Traditional",
+        "portugues": "Tradicional",
+        "fraseIngles": "Stick with traditional methods.",
+        "frasePortugues": "Fique com métodos tradicionais.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 391,
+        "ingles": "Revolutionary",
+        "portugues": "Revolucionário",
+        "fraseIngles": "This could be revolutionary.",
+        "frasePortugues": "Isso poderia ser revolucionário.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 392,
+        "ingles": "Evolutionary",
+        "portugues": "Evolucionário",
+        "fraseIngles": "Change should be evolutionary.",
+        "frasePortugues": "A mudança deve ser evolucionária.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 393,
+        "ingles": "Groundbreaking",
+        "portugues": "Inovador",
+        "fraseIngles": "This is groundbreaking research.",
+        "frasePortugues": "Esta é pesquisa inovadora.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 394,
+        "ingles": "Conventional",
+        "portugues": "Convencional",
+        "fraseIngles": "Use conventional wisdom.",
+        "frasePortugues": "Use sabedoria convencional.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 395,
+        "ingles": "Cutting-edge",
+        "portugues": "Vanguarda",
+        "fraseIngles": "This is cutting-edge technology.",
+        "frasePortugues": "Esta é tecnologia de vanguarda.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 396,
+        "ingles": "Outdated",
+        "portugues": "Ultrapassado",
+        "fraseIngles": "That method is outdated.",
+        "frasePortugues": "Esse método está ultrapassado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 397,
+        "ingles": "State-of-the-art",
+        "portugues": "Estado da arte",
+        "fraseIngles": "This is state-of-the-art equipment.",
+        "frasePortugues": "Este é equipamento do estado da arte.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 398,
+        "ingles": "Obsolete",
+        "portugues": "Obsoleto",
+        "fraseIngles": "The system is obsolete.",
+        "frasePortugues": "O sistema está obsoleto.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 399,
+        "ingles": "Advanced",
+        "portugues": "Avançado",
+        "fraseIngles": "This is advanced thinking.",
+        "frasePortugues": "Este é pensamento avançado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 400,
+        "ingles": "Backward",
+        "portugues": "Atrasado",
+        "fraseIngles": "That's backward reasoning.",
+        "frasePortugues": "Esse é raciocínio atrasado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 401,
+        "ingles": "Forward-thinking",
+        "portugues": "Visionário",
+        "fraseIngles": "We need forward-thinking leaders.",
+        "frasePortugues": "Precisamos de líderes visionários.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 402,
+        "ingles": "Short-sighted",
+        "portugues": "Míope",
+        "fraseIngles": "That's a short-sighted decision.",
+        "frasePortugues": "Essa é uma decisão míope.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 403,
+        "ingles": "Far-sighted",
+        "portugues": "Visionário",
+        "fraseIngles": "Take a far-sighted approach.",
+        "frasePortugues": "Adote uma abordagem visionária.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 404,
+        "ingles": "Visionary",
+        "portugues": "Visionário",
+        "fraseIngles": "She's a visionary leader.",
+        "frasePortugues": "Ela é uma líder visionária.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 405,
+        "ingles": "Narrow-visioned",
+        "portugues": "Visão limitada",
+        "fraseIngles": "Don't be narrow-visioned about this.",
+        "frasePortugues": "Não tenha visão limitada sobre isso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 406,
+        "ingles": "Comprehensive",
+        "portugues": "Abrangente",
+        "fraseIngles": "Take a comprehensive view.",
+        "frasePortugues": "Tenha uma visão abrangente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 407,
+        "ingles": "Superficial",
+        "portugues": "Superficial",
+        "fraseIngles": "That's a superficial analysis.",
+        "frasePortugues": "Essa é uma análise superficial.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 408,
+        "ingles": "Deep",
+        "portugues": "Profundo",
+        "fraseIngles": "This requires deep thinking.",
+        "frasePortugues": "Isso requer pensamento profundo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 409,
+        "ingles": "Shallow",
+        "portugues": "Raso",
+        "fraseIngles": "Your understanding is shallow.",
+        "frasePortugues": "Seu entendimento é raso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 410,
+        "ingles": "Thorough",
+        "portugues": "Minucioso",
+        "fraseIngles": "Do a thorough investigation.",
+        "frasePortugues": "Faça uma investigação minuciosa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 411,
+        "ingles": "Cursory",
+        "portugues": "Superficial",
+        "fraseIngles": "That was just a cursory review.",
+        "frasePortugues": "Essa foi apenas uma revisão superficial.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 412,
+        "ingles": "Careful",
+        "portugues": "Cuidadoso",
+        "fraseIngles": "Be careful with your words.",
+        "frasePortugues": "Seja cuidadoso com suas palavras.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 413,
+        "ingles": "Careless",
+        "portugues": "Descuidado",
+        "fraseIngles": "That was a careless mistake.",
+        "frasePortugues": "Esse foi um erro descuidado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 414,
+        "ingles": "Thoughtful",
+        "portugues": "Atencioso",
+        "fraseIngles": "Your response was thoughtful.",
+        "frasePortugues": "Sua resposta foi atenciosa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 415,
+        "ingles": "Thoughtless",
+        "portugues": "Desatencioso",
+        "fraseIngles": "That comment was thoughtless.",
+        "frasePortugues": "Esse comentário foi desatencioso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 416,
+        "ingles": "Considerate",
+        "portugues": "Atencioso",
+        "fraseIngles": "Please be considerate of others.",
+        "frasePortugues": "Por favor, seja atencioso com outros.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 417,
+        "ingles": "Inconsiderate",
+        "portugues": "Desatencioso",
+        "fraseIngles": "That behavior is inconsiderate.",
+        "frasePortugues": "Esse comportamento é desatencioso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 418,
+        "ingles": "Respectful",
+        "portugues": "Respeitoso",
+        "fraseIngles": "Always be respectful in discussions.",
+        "frasePortugues": "Sempre seja respeitoso em discussões.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 419,
+        "ingles": "Disrespectful",
+        "portugues": "Desrespeitoso",
+        "fraseIngles": "That tone is disrespectful.",
+        "frasePortugues": "Esse tom é desrespeitoso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 420,
+        "ingles": "Professional",
+        "portugues": "Profissional",
+        "fraseIngles": "Keep the discussion professional.",
+        "frasePortugues": "Mantenha a discussão profissional.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 421,
+        "ingles": "Unprofessional",
+        "portugues": "Não profissional",
+        "fraseIngles": "That behavior is unprofessional.",
+        "frasePortugues": "Esse comportamento não é profissional.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 422,
+        "ingles": "Mature",
+        "portugues": "Maduro",
+        "fraseIngles": "Handle this in a mature way.",
+        "frasePortugues": "Lide com isso de forma madura.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 423,
+        "ingles": "Immature",
+        "portugues": "Imaturo",
+        "fraseIngles": "That's an immature response.",
+        "frasePortugues": "Essa é uma resposta imatura.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 424,
+        "ingles": "Responsible",
+        "portugues": "Responsável",
+        "fraseIngles": "Be responsible with decisions.",
+        "frasePortugues": "Seja responsável com decisões.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 425,
+        "ingles": "Irresponsible",
+        "portugues": "Irresponsável",
+        "fraseIngles": "That's irresponsible behavior.",
+        "frasePortugues": "Esse é comportamento irresponsável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 426,
+        "ingles": "Ethical",
+        "portugues": "Ético",
+        "fraseIngles": "Make ethical choices.",
+        "frasePortugues": "Faça escolhas éticas.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 427,
+        "ingles": "Unethical",
+        "portugues": "Antiético",
+        "fraseIngles": "That would be unethical.",
+        "frasePortugues": "Isso seria antiético.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 428,
+        "ingles": "Moral",
+        "portugues": "Moral",
+        "fraseIngles": "Consider the moral implications.",
+        "frasePortugues": "Considere as implicações morais.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 429,
+        "ingles": "Immoral",
+        "portugues": "Imoral",
+        "fraseIngles": "That action is immoral.",
+        "frasePortugues": "Essa ação é imoral.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 430,
+        "ingles": "Legal",
+        "portugues": "Legal",
+        "fraseIngles": "Make sure it's legal.",
+        "frasePortugues": "Certifique-se de que é legal.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 431,
+        "ingles": "Illegal",
+        "portugues": "Ilegal",
+        "fraseIngles": "That would be illegal.",
+        "frasePortugues": "Isso seria ilegal.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 432,
+        "ingles": "Legitimate",
+        "portugues": "Legítimo",
+        "fraseIngles": "That's a legitimate concern.",
+        "frasePortugues": "Essa é uma preocupação legítima.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 433,
+        "ingles": "Illegitimate",
+        "portugues": "Ilegítimo",
+        "fraseIngles": "The claim is illegitimate.",
+        "frasePortugues": "A reivindicação é ilegítima.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 434,
+        "ingles": "Justified",
+        "portugues": "Justificado",
+        "fraseIngles": "Your anger is justified.",
+        "frasePortugues": "Sua raiva é justificada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 435,
+        "ingles": "Unjustified",
+        "portugues": "Injustificado",
+        "fraseIngles": "That criticism is unjustified.",
+        "frasePortugues": "Essa crítica é injustificada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 436,
+        "ingles": "Warranted",
+        "portugues": "Justificado",
+        "fraseIngles": "The concern is warranted.",
+        "frasePortugues": "A preocupação é justificada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 437,
+        "ingles": "Unwarranted",
+        "portugues": "Injustificado",
+        "fraseIngles": "That assumption is unwarranted.",
+        "frasePortugues": "Essa suposição é injustificada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 438,
+        "ingles": "Deserved",
+        "portugues": "Merecido",
+        "fraseIngles": "The recognition is well deserved.",
+        "frasePortugues": "O reconhecimento é bem merecido.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 439,
+        "ingles": "Undeserved",
+        "portugues": "Imerecido",
+        "fraseIngles": "The punishment seems undeserved.",
+        "frasePortugues": "A punição parece imerecida.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 440,
+        "ingles": "Earned",
+        "portugues": "Conquistado",
+        "fraseIngles": "Success must be earned.",
+        "frasePortugues": "Sucesso deve ser conquistado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 441,
+        "ingles": "Given",
+        "portugues": "Dado",
+        "fraseIngles": "Nothing should be given freely.",
+        "frasePortugues": "Nada deveria ser dado de graça.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 442,
+        "ingles": "Merit",
+        "portugues": "Mérito",
+        "fraseIngles": "Judge based on merit.",
+        "frasePortugues": "Julgue com base no mérito.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 443,
+        "ingles": "Favoritism",
+        "portugues": "Favoritismo",
+        "fraseIngles": "Avoid any hint of favoritism.",
+        "frasePortugues": "Evite qualquer indício de favoritismo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 444,
+        "ingles": "Objective",
+        "portugues": "Objetivo",
+        "fraseIngles": "Remain objective in evaluations.",
+        "frasePortugues": "Permaneça objetivo nas avaliações.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 445,
+        "ingles": "Subjective",
+        "portugues": "Subjetivo",
+        "fraseIngles": "Art appreciation is subjective.",
+        "frasePortugues": "Apreciação artística é subjetiva.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 446,
+        "ingles": "Fact",
+        "portugues": "Fato",
+        "fraseIngles": "Stick to the facts.",
+        "frasePortugues": "Atenha-se aos fatos.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 447,
+        "ingles": "Opinion",
+        "portugues": "Opinião",
+        "fraseIngles": "That's just your opinion.",
+        "frasePortugues": "Essa é apenas sua opinião.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 448,
+        "ingles": "Evidence",
+        "portugues": "Evidência",
+        "fraseIngles": "Where's the evidence?",
+        "frasePortugues": "Onde está a evidência?",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 449,
+        "ingles": "Assumption",
+        "portugues": "Suposição",
+        "fraseIngles": "Don't make assumptions.",
+        "frasePortugues": "Não faça suposições.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 450,
+        "ingles": "Proof",
+        "portugues": "Prova",
+        "fraseIngles": "We need concrete proof.",
+        "frasePortugues": "Precisamos de prova concreta.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 451,
+        "ingles": "Speculation",
+        "portugues": "Especulação",
+        "fraseIngles": "That's pure speculation.",
+        "frasePortugues": "Isso é pura especulação.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 452,
+        "ingles": "Theory",
+        "portugues": "Teoria",
+        "fraseIngles": "The theory needs testing.",
+        "frasePortugues": "A teoria precisa ser testada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 453,
+        "ingles": "Practice",
+        "portugues": "Prática",
+        "fraseIngles": "Theory differs from practice.",
+        "frasePortugues": "Teoria difere da prática.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 454,
+        "ingles": "Experience",
+        "portugues": "Experiência",
+        "fraseIngles": "Experience teaches us lessons.",
+        "frasePortugues": "Experiência nos ensina lições.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 455,
+        "ingles": "Inexperience",
+        "portugues": "Inexperiência",
+        "fraseIngles": "Inexperience shows in mistakes.",
+        "frasePortugues": "Inexperiência aparece nos erros.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 456,
+        "ingles": "Knowledge",
+        "portugues": "Conhecimento",
+        "fraseIngles": "Knowledge is power.",
+        "frasePortugues": "Conhecimento é poder.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 457,
+        "ingles": "Ignorance",
+        "portugues": "Ignorância",
+        "fraseIngles": "Ignorance breeds fear.",
+        "frasePortugues": "Ignorância gera medo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 458,
+        "ingles": "Wisdom",
+        "portugues": "Sabedoria",
+        "fraseIngles": "Wisdom comes with age.",
+        "frasePortugues": "Sabedoria vem com a idade.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 459,
+        "ingles": "Foolishness",
+        "portugues": "Tolice",
+        "fraseIngles": "That borders on foolishness.",
+        "frasePortugues": "Isso beira a tolice.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 460,
+        "ingles": "Intelligence",
+        "portugues": "Inteligência",
+        "fraseIngles": "Use your intelligence wisely.",
+        "frasePortugues": "Use sua inteligência sabiamente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 461,
+        "ingles": "Stupidity",
+        "portugues": "Estupidez",
+        "fraseIngles": "That's pure stupidity.",
+        "frasePortugues": "Isso é pura estupidez.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 462,
+        "ingles": "Genius",
+        "portugues": "Genialidade",
+        "fraseIngles": "That idea shows genius.",
+        "frasePortugues": "Essa ideia mostra genialidade.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 463,
+        "ingles": "Mediocrity",
+        "portugues": "Mediocridade",
+        "fraseIngles": "Don't settle for mediocrity.",
+        "frasePortugues": "Não se contente com mediocridade.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 464,
+        "ingles": "Excellence",
+        "portugues": "Excelência",
+        "fraseIngles": "Strive for excellence always.",
+        "frasePortugues": "Busque sempre a excelência.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 465,
+        "ingles": "Failure",
+        "portugues": "Fracasso",
+        "fraseIngles": "Learn from failure.",
+        "frasePortugues": "Aprenda com o fracasso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 466,
+        "ingles": "Success",
+        "portugues": "Sucesso",
+        "fraseIngles": "Success requires dedication.",
+        "frasePortugues": "Sucesso requer dedicação.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 467,
+        "ingles": "Achievement",
+        "portugues": "Conquista",
+        "fraseIngles": "Celebrate every achievement.",
+        "frasePortugues": "Celebre cada conquista.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 468,
+        "ingles": "Accomplishment",
+        "portugues": "Realização",
+        "fraseIngles": "That's a major accomplishment.",
+        "frasePortugues": "Essa é uma grande realização.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 469,
+        "ingles": "Progress",
+        "portugues": "Progresso",
+        "fraseIngles": "We're making good progress.",
+        "frasePortugues": "Estamos fazendo bom progresso.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 470,
+        "ingles": "Setback",
+        "portugues": "Revés",
+        "fraseIngles": "This is just a temporary setback.",
+        "frasePortugues": "Isso é apenas um revés temporário.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 471,
+        "ingles": "Advance",
+        "portugues": "Avanço",
+        "fraseIngles": "This represents real advance.",
+        "frasePortugues": "Isso representa avanço real.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 472,
+        "ingles": "Retreat",
+        "portugues": "Recuo",
+        "fraseIngles": "Strategic retreat isn't defeat.",
+        "frasePortugues": "Recuo estratégico não é derrota.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 473,
+        "ingles": "Victory",
+        "portugues": "Vitória",
+        "fraseIngles": "Victory belongs to the persistent.",
+        "frasePortugues": "Vitória pertence ao persistente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 474,
+        "ingles": "Defeat",
+        "portugues": "Derrota",
+        "fraseIngles": "Don't let defeat discourage you.",
+        "frasePortugues": "Não deixe a derrota te desencorajar.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 475,
+        "ingles": "Win",
+        "portugues": "Vitória",
+        "fraseIngles": "Everyone can win here.",
+        "frasePortugues": "Todos podem vencer aqui.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 476,
+        "ingles": "Lose",
+        "portugues": "Perda",
+        "fraseIngles": "Nobody has to lose.",
+        "frasePortugues": "Ninguém precisa perder.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 477,
+        "ingles": "Gain",
+        "portugues": "Ganho",
+        "fraseIngles": "What do we gain from this?",
+        "frasePortugues": "O que ganhamos com isso?",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 478,
+        "ingles": "Loss",
+        "portugues": "Perda",
+        "fraseIngles": "The loss is significant.",
+        "frasePortugues": "A perda é significativa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 479,
+        "ingles": "Benefit",
+        "portugues": "Benefício",
+        "fraseIngles": "What's the main benefit?",
+        "frasePortugues": "Qual é o principal benefício?",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 480,
+        "ingles": "Disadvantage",
+        "portugues": "Desvantagem",
+        "fraseIngles": "Consider every disadvantage.",
+        "frasePortugues": "Considere cada desvantagem.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 481,
+        "ingles": "Advantage",
+        "portugues": "Vantagem",
+        "fraseIngles": "We have a clear advantage.",
+        "frasePortugues": "Temos uma vantagem clara.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 482,
+        "ingles": "Drawback",
+        "portugues": "Desvantagem",
+        "fraseIngles": "There's one major drawback.",
+        "frasePortugues": "Há uma grande desvantagem.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 483,
+        "ingles": "Strength",
+        "portugues": "Força",
+        "fraseIngles": "Play to your strengths.",
+        "frasePortugues": "Jogue com suas forças.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 484,
+        "ingles": "Weakness",
+        "portugues": "Fraqueza",
+        "fraseIngles": "Address every weakness.",
+        "frasePortugues": "Aborde cada fraqueza.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 485,
+        "ingles": "Opportunity",
+        "portugues": "Oportunidade",
+        "fraseIngles": "Seize every opportunity.",
+        "frasePortugues": "Aproveite cada oportunidade.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 486,
+        "ingles": "Threat",
+        "portugues": "Ameaça",
+        "fraseIngles": "Identify potential threats.",
+        "frasePortugues": "Identifique ameaças potenciais.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 487,
+        "ingles": "Hope",
+        "portugues": "Esperança",
+        "fraseIngles": "Never lose hope.",
+        "frasePortugues": "Nunca perca a esperança.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 488,
+        "ingles": "Despair",
+        "portugues": "Desespero",
+        "fraseIngles": "Don't give in to despair.",
+        "frasePortugues": "Não se entregue ao desespero.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 489,
+        "ingles": "Confidence",
+        "portugues": "Confiança",
+        "fraseIngles": "Build your confidence gradually.",
+        "frasePortugues": "Construa sua confiança gradualmente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 490,
+        "ingles": "Doubt",
+        "portugues": "Dúvida",
+        "fraseIngles": "Don't let doubt paralyze you.",
+        "frasePortugues": "Não deixe a dúvida te paralisar.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 491,
+        "ingles": "Faith",
+        "portugues": "Fé",
+        "fraseIngles": "Have faith in the process.",
+        "frasePortugues": "Tenha fé no processo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 492,
+        "ingles": "Skepticism",
+        "portugues": "Ceticismo",
+        "fraseIngles": "Healthy skepticism is good.",
+        "frasePortugues": "Ceticismo saudável é bom.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 493,
+        "ingles": "Trust",
+        "portugues": "Confiança",
+        "fraseIngles": "Trust must be earned.",
+        "frasePortugues": "Confiança deve ser conquistada.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 494,
+        "ingles": "Distrust",
+        "portugues": "Desconfiança",
+        "fraseIngles": "Distrust breeds problems.",
+        "frasePortugues": "Desconfiança gera problemas.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 495,
+        "ingles": "Belief",
+        "portugues": "Crença",
+        "fraseIngles": "Strong belief drives action.",
+        "frasePortugues": "Crença forte impulsiona ação.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 496,
+        "ingles": "Disbelief",
+        "portugues": "Descrença",
+        "fraseIngles": "Don't let disbelief stop you.",
+        "frasePortugues": "Não deixe a descrença te parar.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 497,
+        "ingles": "Conviction",
+        "portugues": "Convicção",
+        "fraseIngles": "Speak with conviction.",
+        "frasePortugues": "Fale com convicção.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 498,
+        "ingles": "Uncertainty",
+        "portugues": "Incerteza",
+        "fraseIngles": "Uncertainty is normal.",
+        "frasePortugues": "Incerteza é normal.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 499,
+        "ingles": "Certainty",
+        "portugues": "Certeza",
+        "fraseIngles": "Nothing is absolute certainty.",
+        "frasePortugues": "Nada é certeza absoluta.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 500,
+        "ingles": "Clarity",
+        "portugues": "Clareza",
+        "fraseIngles": "Seek clarity in communication.",
+        "frasePortugues": "Busque clareza na comunicação.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 501,
+        "ingles": "Confusion",
+        "portugues": "Confusão",
+        "fraseIngles": "Avoid unnecessary confusion.",
+        "frasePortugues": "Evite confusão desnecessária.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 502,
+        "ingles": "Understanding",
+        "portugues": "Entendimento",
+        "fraseIngles": "Seek mutual understanding.",
+        "frasePortugues": "Busque entendimento mútuo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 503,
+        "ingles": "Misunderstanding",
+        "portugues": "Mal-entendido",
+        "fraseIngles": "Clear up any misunderstanding.",
+        "frasePortugues": "Esclareça qualquer mal-entendido.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 504,
+        "ingles": "Agreement",
+        "portugues": "Acordo",
+        "fraseIngles": "We've reached agreement.",
+        "frasePortugues": "Chegamos a um acordo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 505,
+        "ingles": "Disagreement",
+        "portugues": "Desacordo",
+        "fraseIngles": "Disagreement can be productive.",
+        "frasePortugues": "Desacordo pode ser produtivo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 506,
+        "ingles": "Consensus",
+        "portugues": "Consenso",
+        "fraseIngles": "Build consensus gradually.",
+        "frasePortugues": "Construa consenso gradualmente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 507,
+        "ingles": "Conflict",
+        "portugues": "Conflito",
+        "fraseIngles": "Resolve conflict quickly.",
+        "frasePortugues": "Resolva conflito rapidamente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 508,
+        "ingles": "Harmony",
+        "portugues": "Harmonia",
+        "fraseIngles": "Work toward harmony.",
+        "frasePortugues": "Trabalhe em direção à harmonia.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 509,
+        "ingles": "Discord",
+        "portugues": "Discórdia",
+        "fraseIngles": "Avoid sowing discord.",
+        "frasePortugues": "Evite semear discórdia.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 510,
+        "ingles": "Unity",
+        "portugues": "Unidade",
+        "fraseIngles": "Unity strengthens us.",
+        "frasePortugues": "Unidade nos fortalece.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 511,
+        "ingles": "Division",
+        "portugues": "Divisão",
+        "fraseIngles": "Division weakens organizations.",
+        "frasePortugues": "Divisão enfraquece organizações.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 512,
+        "ingles": "Cooperation",
+        "portugues": "Cooperação",
+        "fraseIngles": "Cooperation benefits everyone.",
+        "frasePortugues": "Cooperação beneficia todos.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 513,
+        "ingles": "Competition",
+        "portugues": "Competição",
+        "fraseIngles": "Healthy competition improves performance.",
+        "frasePortugues": "Competição saudável melhora desempenho.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 514,
+        "ingles": "Collaboration",
+        "portugues": "Colaboração",
+        "fraseIngles": "Collaboration produces innovation.",
+        "frasePortugues": "Colaboração produz inovação.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 515,
+        "ingles": "Independence",
+        "portugues": "Independência",
+        "fraseIngles": "Maintain healthy independence.",
+        "frasePortugues": "Mantenha independência saudável.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 516,
+        "ingles": "Dependence",
+        "portugues": "Dependência",
+        "fraseIngles": "Avoid excessive dependence.",
+        "frasePortugues": "Evite dependência excessiva.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 517,
+        "ingles": "Autonomy",
+        "portugues": "Autonomia",
+        "fraseIngles": "Respect individual autonomy.",
+        "frasePortugues": "Respeite autonomia individual.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 518,
+        "ingles": "Control",
+        "portugues": "Controle",
+        "fraseIngles": "Maintain appropriate control.",
+        "frasePortugues": "Mantenha controle apropriado.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 519,
+        "ingles": "Freedom",
+        "portugues": "Liberdade",
+        "fraseIngles": "Balance freedom with responsibility.",
+        "frasePortugues": "Balance liberdade com responsabilidade.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 520,
+        "ingles": "Restriction",
+        "portugues": "Restrição",
+        "fraseIngles": "Some restriction is necessary.",
+        "frasePortugues": "Alguma restrição é necessária.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 521,
+        "ingles": "Permission",
+        "portugues": "Permissão",
+        "fraseIngles": "Always ask permission first.",
+        "frasePortugues": "Sempre peça permissão primeiro.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 522,
+        "ingles": "Prohibition",
+        "portugues": "Proibição",
+        "fraseIngles": "The prohibition is absolute.",
+        "frasePortugues": "A proibição é absoluta.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 523,
+        "ingles": "Rights",
+        "portugues": "Direitos",
+        "fraseIngles": "Everyone has basic rights.",
+        "frasePortugues": "Todos têm direitos básicos.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 524,
+        "ingles": "Responsibilities",
+        "portugues": "Responsabilidades",
+        "fraseIngles": "Rights come with responsibilities.",
+        "frasePortugues": "Direitos vêm com responsabilidades.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 525,
+        "ingles": "Duty",
+        "portugues": "Dever",
+        "fraseIngles": "We have a duty to society.",
+        "frasePortugues": "Temos um dever com a sociedade.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 526,
+        "ingles": "Obligation",
+        "portugues": "Obrigação",
+        "fraseIngles": "Legal obligation is binding.",
+        "frasePortugues": "Obrigação legal é vinculante.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 527,
+        "ingles": "Choice",
+        "portugues": "Escolha",
+        "fraseIngles": "The choice is yours.",
+        "frasePortugues": "A escolha é sua.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 528,
+        "ingles": "Alternative",
+        "portugues": "Alternativa",
+        "fraseIngles": "Consider every alternative.",
+        "frasePortugues": "Considere cada alternativa.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 529,
+        "ingles": "Decision",
+        "portugues": "Decisão",
+        "fraseIngles": "Make the decision carefully.",
+        "frasePortugues": "Tome a decisão cuidadosamente.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 530,
+        "ingles": "Conclusion",
+        "portugues": "Conclusão",
+        "fraseIngles": "What's your final conclusion?",
+        "frasePortugues": "Qual é sua conclusão final?",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 531,
+        "ingles": "Summary",
+        "portugues": "Resumo",
+        "fraseIngles": "Here's my summary.",
+        "frasePortugues": "Aqui está meu resumo.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    },
+    {
+        "id": 532,
+        "ingles": "Final word",
+        "portugues": "Palavra final",
+        "fraseIngles": "Let me have the final word.",
+        "frasePortugues": "Deixe-me ter a palavra final.",
+        "subtopico": "Opiniões",
+        "topico": "Frases"
+    }
+]
