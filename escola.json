@@ -1,920 +1,1370 @@
 [
     {
         "id": 1,
-        "ingles": "School",
-        "portugues": "Escola",
-        "fraseIngles": "I love going to school every day.",
-        "frasePortugues": "Adoro ir à escola todos os dias.",
+        "ingles": "Backpack",
+        "portugues": "Mochila",
+        "fraseIngles": "Pack your books in the backpack.",
+        "frasePortugues": "Coloque seus livros na mochila.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 2,
-        "ingles": "Education",
-        "portugues": "Educação",
-        "fraseIngles": "Education is the key to success.",
-        "frasePortugues": "Educação é a chave para o sucesso.",
+        "ingles": "School bag",
+        "portugues": "Mochila escolar",
+        "fraseIngles": "Carry your school bag to class.",
+        "frasePortugues": "Leve sua mochila escolar para a aula.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 3,
-        "ingles": "Student",
-        "portugues": "Estudante",
-        "fraseIngles": "Every student deserves quality education.",
-        "frasePortugues": "Todo estudante merece educação de qualidade.",
+        "ingles": "Pencil case",
+        "portugues": "Estojo",
+        "fraseIngles": "Keep pens organized in your pencil case.",
+        "frasePortugues": "Mantenha canetas organizadas no seu estojo.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 4,
-        "ingles": "Teacher",
-        "portugues": "Professor",
-        "fraseIngles": "My teacher is very patient and kind.",
-        "frasePortugues": "Meu professor é muito paciente e gentil.",
+        "ingles": "Pencil box",
+        "portugues": "Caixa de lápis",
+        "fraseIngles": "Store art supplies in a pencil box.",
+        "frasePortugues": "Guarde materiais de arte em uma caixa de lápis.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 5,
-        "ingles": "Principal",
-        "portugues": "Diretor",
-        "fraseIngles": "The principal announced new school rules.",
-        "frasePortugues": "O diretor anunciou novas regras da escola.",
+        "ingles": "Textbook",
+        "portugues": "Livro didático",
+        "fraseIngles": "Read chapter five in your textbook.",
+        "frasePortugues": "Leia o capítulo cinco no seu livro didático.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 6,
-        "ingles": "Class",
-        "portugues": "Aula / Turma",
-        "fraseIngles": "Our class has thirty students.",
-        "frasePortugues": "Nossa turma tem trinta alunos.",
+        "ingles": "Workbook",
+        "portugues": "Caderno de exercícios",
+        "fraseIngles": "Complete exercises in the workbook.",
+        "frasePortugues": "Complete exercícios no caderno de exercícios.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 7,
-        "ingles": "Classroom",
-        "portugues": "Sala de aula",
-        "fraseIngles": "The classroom is bright and spacious.",
-        "frasePortugues": "A sala de aula é clara e espaçosa.",
+        "ingles": "Exercise book",
+        "portugues": "Caderno de atividades",
+        "fraseIngles": "Write answers in your exercise book.",
+        "frasePortugues": "Escreva respostas no seu caderno de atividades.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 8,
-        "ingles": "Lesson",
-        "portugues": "Lição / Aula",
-        "fraseIngles": "Today's lesson is about history.",
-        "frasePortugues": "A lição de hoje é sobre história.",
+        "ingles": "Composition notebook",
+        "portugues": "Caderno de redação",
+        "fraseIngles": "Write essays in your composition notebook.",
+        "frasePortugues": "Escreva redações no seu caderno de redação.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 9,
-        "ingles": "Subject",
-        "portugues": "Matéria",
-        "fraseIngles": "Math is my favorite subject.",
-        "frasePortugues": "Matemática é minha matéria favorita.",
+        "ingles": "Graph paper",
+        "portugues": "Papel quadriculado",
+        "fraseIngles": "Use graph paper for math problems.",
+        "frasePortugues": "Use papel quadriculado para problemas de matemática.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 10,
-        "ingles": "Course",
-        "portugues": "Curso",
-        "fraseIngles": "I'm taking a photography course.",
-        "frasePortugues": "Estou fazendo um curso de fotografia.",
+        "ingles": "Lined paper",
+        "portugues": "Papel pautado",
+        "fraseIngles": "Write neatly on lined paper.",
+        "frasePortugues": "Escreva com capricho no papel pautado.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 11,
-        "ingles": "Curriculum",
-        "portugues": "Currículo",
-        "fraseIngles": "The curriculum includes many subjects.",
-        "frasePortugues": "O currículo inclui muitas matérias.",
+        "ingles": "Loose-leaf paper",
+        "portugues": "Papel avulso",
+        "fraseIngles": "Add loose-leaf paper to your binder.",
+        "frasePortugues": "Adicione papel avulso ao seu fichário.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 12,
-        "ingles": "Grade",
-        "portugues": "Série / Nota",
-        "fraseIngles": "I'm in fifth grade this year.",
-        "frasePortugues": "Estou na quinta série este ano.",
+        "ingles": "Construction paper",
+        "portugues": "Papel colorido",
+        "fraseIngles": "Make crafts with construction paper.",
+        "frasePortugues": "Faça artesanatos com papel colorido.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 13,
-        "ingles": "Level",
-        "portugues": "Nível",
-        "fraseIngles": "This exercise is at an advanced level.",
-        "frasePortugues": "Este exercício está em nível avançado.",
+        "ingles": "Drawing paper",
+        "portugues": "Papel de desenho",
+        "fraseIngles": "Sketch pictures on drawing paper.",
+        "frasePortugues": "Desenhe figuras no papel de desenho.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 14,
-        "ingles": "Elementary",
-        "portugues": "Fundamental",
-        "fraseIngles": "Elementary school has six grades.",
-        "frasePortugues": "O ensino fundamental tem seis séries.",
+        "ingles": "Art paper",
+        "portugues": "Papel para arte",
+        "fraseIngles": "Use special art paper for watercolors.",
+        "frasePortugues": "Use papel especial para arte para aquarelas.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 15,
-        "ingles": "Middle school",
-        "portugues": "Ensino médio",
-        "fraseIngles": "Middle school prepares students for high school.",
-        "frasePortugues": "O ensino médio prepara estudantes para o colégio.",
+        "ingles": "Tracing paper",
+        "portugues": "Papel vegetal",
+        "fraseIngles": "Copy drawings with tracing paper.",
+        "frasePortugues": "Copie desenhos com papel vegetal.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 16,
-        "ingles": "High school",
-        "portugues": "Colégio",
-        "fraseIngles": "High school students are teenagers.",
-        "frasePortugues": "Estudantes do colégio são adolescentes.",
+        "ingles": "Carbon paper",
+        "portugues": "Papel carbono",
+        "fraseIngles": "Make copies using carbon paper.",
+        "frasePortugues": "Faça cópias usando papel carbono.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 17,
-        "ingles": "University",
-        "portugues": "Universidade",
-        "fraseIngles": "She wants to go to university.",
-        "frasePortugues": "Ela quer ir para a universidade.",
+        "ingles": "Flash cards",
+        "portugues": "Cartões de memória",
+        "fraseIngles": "Study vocabulary with flash cards.",
+        "frasePortugues": "Estude vocabulário com cartões de memória.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 18,
-        "ingles": "College",
-        "portugues": "Faculdade",
-        "fraseIngles": "College education opens many doors.",
-        "frasePortugues": "Educação universitária abre muitas portas.",
+        "ingles": "Study cards",
+        "portugues": "Cartões de estudo",
+        "fraseIngles": "Review material using study cards.",
+        "frasePortugues": "Revise material usando cartões de estudo.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 19,
-        "ingles": "Kindergarten",
-        "portugues": "Jardim de infância",
-        "fraseIngles": "Kindergarten children are very curious.",
-        "frasePortugues": "Crianças do jardim de infância são muito curiosas.",
+        "ingles": "Homework planner",
+        "portugues": "Agenda escolar",
+        "fraseIngles": "Track assignments in your homework planner.",
+        "frasePortugues": "Acompanhe tarefas na sua agenda escolar.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 20,
-        "ingles": "Preschool",
-        "portugues": "Pré-escola",
-        "fraseIngles": "Preschool helps children socialize.",
-        "frasePortugues": "A pré-escola ajuda crianças a socializar.",
+        "ingles": "Student planner",
+        "portugues": "Agenda do estudante",
+        "fraseIngles": "Organize your schedule in a student planner.",
+        "frasePortugues": "Organize sua agenda em uma agenda do estudante.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 21,
-        "ingles": "Nursery",
-        "portugues": "Creche",
-        "fraseIngles": "The nursery takes care of toddlers.",
-        "frasePortugues": "A creche cuida de crianças pequenas.",
+        "ingles": "Grade book",
+        "portugues": "Caderno de notas",
+        "fraseIngles": "Teachers record grades in a grade book.",
+        "frasePortugues": "Professores registram notas em um caderno de notas.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 22,
-        "ingles": "Schedule",
-        "portugues": "Horário",
-        "fraseIngles": "My school schedule is very busy.",
-        "frasePortugues": "Meu horário escolar é muito ocupado.",
+        "ingles": "Report card",
+        "portugues": "Boletim",
+        "fraseIngles": "Parents review the report card.",
+        "frasePortugues": "Pais revisam o boletim.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 23,
-        "ingles": "Timetable",
-        "portugues": "Horário das aulas",
-        "fraseIngles": "Check the timetable for room changes.",
-        "frasePortugues": "Verifique o horário das aulas para mudanças de sala.",
+        "ingles": "Transcript",
+        "portugues": "Histórico escolar",
+        "fraseIngles": "Request your transcript for college applications.",
+        "frasePortugues": "Solicite seu histórico escolar para candidaturas universitárias.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 24,
-        "ingles": "Period",
-        "portugues": "Período / Aula",
-        "fraseIngles": "First period starts at 8 AM.",
-        "frasePortugues": "O primeiro período começa às 8h.",
+        "ingles": "ID card",
+        "portugues": "Cartão de estudante",
+        "fraseIngles": "Show your ID card to enter the library.",
+        "frasePortugues": "Mostre seu cartão de estudante para entrar na biblioteca.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 25,
-        "ingles": "Break",
-        "portugues": "Intervalo",
-        "fraseIngles": "We have a 15-minute break.",
-        "frasePortugues": "Temos um intervalo de 15 minutos.",
+        "ingles": "Library card",
+        "portugues": "Cartão da biblioteca",
+        "fraseIngles": "Use your library card to borrow books.",
+        "frasePortugues": "Use seu cartão da biblioteca para emprestar livros.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 26,
-        "ingles": "Recess",
-        "portugues": "Recreio",
-        "fraseIngles": "Children play outside during recess.",
-        "frasePortugues": "As crianças brincam lá fora durante o recreio.",
+        "ingles": "Locker",
+        "portugues": "Armário",
+        "fraseIngles": "Store books in your school locker.",
+        "frasePortugues": "Guarde livros no seu armário escolar.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 27,
-        "ingles": "Lunch",
-        "portugues": "Almoço",
-        "fraseIngles": "Lunch is served at noon.",
-        "frasePortugues": "O almoço é servido ao meio-dia.",
+        "ingles": "Combination lock",
+        "portugues": "Cadeado com combinação",
+        "fraseIngles": "Secure your locker with a combination lock.",
+        "frasePortugues": "Proteja seu armário com um cadeado com combinação.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 28,
-        "ingles": "Cafeteria",
-        "portugues": "Cantina",
-        "fraseIngles": "The cafeteria serves healthy meals.",
-        "frasePortugues": "A cantina serve refeições saudáveis.",
+        "ingles": "Padlock",
+        "portugues": "Cadeado",
+        "fraseIngles": "Use a padlock to secure your gym bag.",
+        "frasePortugues": "Use um cadeado para proteger sua bolsa da academia.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 29,
-        "ingles": "Library",
-        "portugues": "Biblioteca",
-        "fraseIngles": "I spend hours studying in the library.",
-        "frasePortugues": "Passo horas estudando na biblioteca.",
+        "ingles": "Desk",
+        "portugues": "Carteira",
+        "fraseIngles": "Sit at your assigned desk.",
+        "frasePortugues": "Sente-se na sua carteira designada.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 30,
-        "ingles": "Librarian",
-        "portugues": "Bibliotecário",
-        "fraseIngles": "The librarian helps students find books.",
-        "frasePortugues": "O bibliotecário ajuda estudantes a encontrar livros.",
+        "ingles": "Chair",
+        "portugues": "Cadeira",
+        "fraseIngles": "Pull out your chair before sitting.",
+        "frasePortugues": "Puxe sua cadeira antes de sentar.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 31,
-        "ingles": "Book",
-        "portugues": "Livro",
-        "fraseIngles": "This book contains useful information.",
-        "frasePortugues": "Este livro contém informações úteis.",
+        "ingles": "Table",
+        "portugues": "Mesa",
+        "fraseIngles": "Work in groups at the lab table.",
+        "frasePortugues": "Trabalhe em grupos na mesa do laboratório.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 32,
-        "ingles": "Textbook",
-        "portugues": "Livro didático",
-        "fraseIngles": "We need to buy new textbooks.",
-        "frasePortugues": "Precisamos comprar livros didáticos novos.",
+        "ingles": "Stool",
+        "portugues": "Banquinho",
+        "fraseIngles": "Sit on the lab stool during experiments.",
+        "frasePortugues": "Sente-se no banquinho do laboratório durante experimentos.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 33,
-        "ingles": "Notebook",
-        "portugues": "Caderno",
-        "fraseIngles": "I write notes in my notebook.",
-        "frasePortugues": "Escrevo anotações no meu caderno.",
+        "ingles": "Blackboard",
+        "portugues": "Quadro-negro",
+        "fraseIngles": "The teacher writes on the blackboard.",
+        "frasePortugues": "O professor escreve no quadro-negro.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 34,
-        "ingles": "Paper",
-        "portugues": "Papel",
-        "fraseIngles": "Can you give me a sheet of paper?",
-        "frasePortugues": "Pode me dar uma folha de papel?",
+        "ingles": "Chalkboard",
+        "portugues": "Lousa",
+        "fraseIngles": "Clean the chalkboard with an eraser.",
+        "frasePortugues": "Limpe a lousa com um apagador.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 35,
-        "ingles": "Pen",
-        "portugues": "Caneta",
-        "fraseIngles": "My pen is out of ink.",
-        "frasePortugues": "Minha caneta acabou a tinta.",
+        "ingles": "Whiteboard",
+        "portugues": "Quadro branco",
+        "fraseIngles": "Use markers on the whiteboard.",
+        "frasePortugues": "Use marcadores no quadro branco.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 36,
-        "ingles": "Pencil",
-        "portugues": "Lápis",
-        "fraseIngles": "Always bring a pencil to the test.",
-        "frasePortugues": "Sempre traga um lápis para a prova.",
+        "ingles": "Smart board",
+        "portugues": "Lousa digital",
+        "fraseIngles": "Interactive lessons use the smart board.",
+        "frasePortugues": "Aulas interativas usam a lousa digital.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 37,
-        "ingles": "Eraser",
-        "portugues": "Borracha",
-        "fraseIngles": "I need an eraser to fix mistakes.",
-        "frasePortugues": "Preciso de uma borracha para corrigir erros.",
+        "ingles": "Projector",
+        "portugues": "Projetor",
+        "fraseIngles": "Display slides with the projector.",
+        "frasePortugues": "Exiba slides com o projetor.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 38,
-        "ingles": "Ruler",
-        "portugues": "Régua",
-        "fraseIngles": "Use a ruler to draw straight lines.",
-        "frasePortugues": "Use uma régua para desenhar linhas retas.",
+        "ingles": "Screen",
+        "portugues": "Tela",
+        "fraseIngles": "Pull down the screen for the presentation.",
+        "frasePortugues": "Abaixe a tela para a apresentação.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 39,
-        "ingles": "Calculator",
-        "portugues": "Calculadora",
-        "fraseIngles": "Calculators are allowed in math class.",
-        "frasePortugues": "Calculadoras são permitidas na aula de matemática.",
+        "ingles": "Overhead projector",
+        "portugues": "Retroprojetor",
+        "fraseIngles": "Use transparencies with the overhead projector.",
+        "frasePortugues": "Use transparências com o retroprojetor.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 40,
-        "ingles": "Computer",
-        "portugues": "Computador",
-        "fraseIngles": "Every student has access to computers.",
-        "frasePortugues": "Todo estudante tem acesso a computadores.",
+        "ingles": "Document camera",
+        "portugues": "Câmera de documento",
+        "fraseIngles": "Show textbook pages with the document camera.",
+        "frasePortugues": "Mostre páginas de livros com a câmera de documento.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 41,
-        "ingles": "Laptop",
-        "portugues": "Laptop",
-        "fraseIngles": "Students bring laptops to class.",
-        "frasePortugues": "Estudantes trazem laptops para a aula.",
+        "ingles": "Chalk",
+        "portugues": "Giz",
+        "fraseIngles": "Write on the board with white chalk.",
+        "frasePortugues": "Escreva no quadro com giz branco.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 42,
-        "ingles": "Tablet",
-        "portugues": "Tablet",
-        "fraseIngles": "Tablets are useful for reading.",
-        "frasePortugues": "Tablets são úteis para leitura.",
+        "ingles": "Eraser",
+        "portugues": "Apagador",
+        "fraseIngles": "Clean the board with an eraser.",
+        "frasePortugues": "Limpe o quadro com um apagador.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 43,
-        "ingles": "Projector",
-        "portugues": "Projetor",
-        "fraseIngles": "The teacher uses a projector for presentations.",
-        "frasePortugues": "O professor usa um projetor para apresentações.",
+        "ingles": "Duster",
+        "portugues": "Espanador",
+        "fraseIngles": "Remove chalk dust with a duster.",
+        "frasePortugues": "Remova pó de giz com um espanador.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 44,
-        "ingles": "Screen",
-        "portugues": "Tela",
-        "fraseIngles": "The screen shows today's agenda.",
-        "frasePortugues": "A tela mostra a agenda de hoje.",
+        "ingles": "Pointer",
+        "portugues": "Apontador",
+        "fraseIngles": "The teacher uses a pointer to show details.",
+        "frasePortugues": "O professor usa um apontador para mostrar detalhes.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 45,
-        "ingles": "Board",
-        "portugues": "Quadro",
-        "fraseIngles": "The teacher writes on the board.",
-        "frasePortugues": "O professor escreve no quadro.",
+        "ingles": "Laser pointer",
+        "portugues": "Apontador laser",
+        "fraseIngles": "Highlight text with a laser pointer.",
+        "frasePortugues": "Destaque texto com um apontador laser.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 46,
-        "ingles": "Whiteboard",
-        "portugues": "Quadro branco",
-        "fraseIngles": "Whiteboard markers come in different colors.",
-        "frasePortugues": "Marcadores de quadro branco vêm em cores diferentes.",
+        "ingles": "Globe",
+        "portugues": "Globo",
+        "fraseIngles": "Study countries on the world globe.",
+        "frasePortugues": "Estude países no globo mundial.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 47,
-        "ingles": "Blackboard",
-        "portugues": "Quadro negro",
-        "fraseIngles": "Old classrooms had blackboards.",
-        "frasePortugues": "Salas antigas tinham quadros negros.",
+        "ingles": "Map",
+        "portugues": "Mapa",
+        "fraseIngles": "Locate cities on the wall map.",
+        "frasePortugues": "Localize cidades no mapa da parede.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 48,
-        "ingles": "Chalk",
-        "portugues": "Giz",
-        "fraseIngles": "Chalk creates dust when writing.",
-        "frasePortugues": "O giz cria poeira ao escrever.",
+        "ingles": "Atlas",
+        "portugues": "Atlas",
+        "fraseIngles": "Find countries in the geography atlas.",
+        "frasePortugues": "Encontre países no atlas de geografia.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 49,
-        "ingles": "Marker",
-        "portugues": "Marcador",
-        "fraseIngles": "This marker is running out of ink.",
-        "frasePortugues": "Este marcador está acabando a tinta.",
+        "ingles": "Chart",
+        "portugues": "Gráfico",
+        "fraseIngles": "Read data from the science chart.",
+        "frasePortugues": "Leia dados do gráfico de ciências.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 50,
-        "ingles": "Desk",
-        "portugues": "Carteira",
-        "fraseIngles": "Each student has their own desk.",
-        "frasePortugues": "Cada estudante tem sua própria carteira.",
+        "ingles": "Poster",
+        "portugues": "Cartaz",
+        "fraseIngles": "Hang educational posters on the wall.",
+        "frasePortugues": "Pendure cartazes educativos na parede.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 51,
-        "ingles": "Chair",
-        "portugues": "Cadeira",
-        "fraseIngles": "This chair is uncomfortable.",
-        "frasePortugues": "Esta cadeira é desconfortável.",
+        "ingles": "Banner",
+        "portugues": "Faixa",
+        "fraseIngles": "Display the school banner in the hallway.",
+        "frasePortugues": "Exiba a faixa da escola no corredor.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 52,
-        "ingles": "Backpack",
-        "portugues": "Mochila",
-        "fraseIngles": "My backpack is full of books.",
-        "frasePortugues": "Minha mochila está cheia de livros.",
+        "ingles": "Bulletin board",
+        "portugues": "Quadro de avisos",
+        "fraseIngles": "Post student work on the bulletin board.",
+        "frasePortugues": "Afixe trabalhos de alunos no quadro de avisos.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 53,
-        "ingles": "Bag",
-        "portugues": "Bolsa",
-        "fraseIngles": "She carries her books in a bag.",
-        "frasePortugues": "Ela carrega seus livros numa bolsa.",
+        "ingles": "Display board",
+        "portugues": "Quadro de exibição",
+        "fraseIngles": "Show projects on the display board.",
+        "frasePortugues": "Mostre projetos no quadro de exibição.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 54,
-        "ingles": "Locker",
-        "portugues": "Armário",
-        "fraseIngles": "Students keep belongings in lockers.",
-        "frasePortugues": "Estudantes guardam pertences nos armários.",
+        "ingles": "Clock",
+        "portugues": "Relógio",
+        "fraseIngles": "Check the classroom clock for time.",
+        "frasePortugues": "Verifique o relógio da sala para ver as horas.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 55,
-        "ingles": "Hallway",
-        "portugues": "Corredor",
-        "fraseIngles": "Students walk quietly in the hallway.",
-        "frasePortugues": "Estudantes andam silenciosamente no corredor.",
+        "ingles": "Bell",
+        "portugues": "Sinal",
+        "fraseIngles": "The school bell rings between classes.",
+        "frasePortugues": "O sinal da escola toca entre as aulas.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 56,
-        "ingles": "Office",
-        "portugues": "Escritório",
-        "fraseIngles": "The principal's office is on the first floor.",
-        "frasePortugues": "O escritório do diretor fica no primeiro andar.",
+        "ingles": "Intercom",
+        "portugues": "Intercomunicador",
+        "fraseIngles": "Announcements come through the intercom.",
+        "frasePortugues": "Anúncios vêm através do intercomunicador.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 57,
-        "ingles": "Gymnasium",
-        "portugues": "Ginásio",
-        "fraseIngles": "Physical education classes are in the gymnasium.",
-        "frasePortugues": "Aulas de educação física são no ginásio.",
+        "ingles": "PA system",
+        "portugues": "Sistema de som",
+        "fraseIngles": "The principal speaks on the PA system.",
+        "frasePortugues": "O diretor fala no sistema de som.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 58,
-        "ingles": "Playground",
-        "portugues": "Pátio",
-        "fraseIngles": "Children play games on the playground.",
-        "frasePortugues": "Crianças fazem jogos no pátio.",
+        "ingles": "Microscope",
+        "portugues": "Microscópio",
+        "fraseIngles": "Observe cells under the microscope.",
+        "frasePortugues": "Observe células sob o microscópio.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 59,
-        "ingles": "Laboratory",
-        "portugues": "Laboratório",
-        "fraseIngles": "Science experiments happen in the laboratory.",
-        "frasePortugues": "Experimentos científicos acontecem no laboratório.",
+        "ingles": "Magnifying glass",
+        "portugues": "Lupa",
+        "fraseIngles": "Examine specimens with a magnifying glass.",
+        "frasePortugues": "Examine espécimes com uma lupa.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 60,
-        "ingles": "Auditorium",
-        "portugues": "Auditório",
-        "fraseIngles": "School assemblies are held in the auditorium.",
-        "frasePortugues": "Assembleias escolares são realizadas no auditório.",
+        "ingles": "Beaker",
+        "portugues": "Béquer",
+        "fraseIngles": "Mix chemicals in a glass beaker.",
+        "frasePortugues": "Misture químicos em um béquer de vidro.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 61,
-        "ingles": "Study",
-        "portugues": "Estudar",
-        "fraseIngles": "I study two hours every night.",
-        "frasePortugues": "Estudo duas horas toda noite.",
+        "ingles": "Test tube",
+        "portugues": "Tubo de ensaio",
+        "fraseIngles": "Heat liquids in a test tube.",
+        "frasePortugues": "Aqueça líquidos em um tubo de ensaio.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 62,
-        "ingles": "Learn",
-        "portugues": "Aprender",
-        "fraseIngles": "Children learn quickly when interested.",
-        "frasePortugues": "Crianças aprendem rapidamente quando interessadas.",
+        "ingles": "Flask",
+        "portugues": "Frasco",
+        "fraseIngles": "Store solutions in a laboratory flask.",
+        "frasePortugues": "Guarde soluções em um frasco de laboratório.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 63,
-        "ingles": "Teach",
-        "portugues": "Ensinar",
-        "fraseIngles": "Good teachers know how to teach effectively.",
-        "frasePortugues": "Bons professores sabem como ensinar efetivamente.",
+        "ingles": "Petri dish",
+        "portugues": "Placa de Petri",
+        "fraseIngles": "Grow bacteria in a Petri dish.",
+        "frasePortugues": "Cultive bactérias em uma placa de Petri.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 64,
-        "ingles": "Understand",
-        "portugues": "Entender",
-        "fraseIngles": "Do you understand the assignment?",
-        "frasePortugues": "Você entende a tarefa?",
+        "ingles": "Pipette",
+        "portugues": "Pipeta",
+        "fraseIngles": "Measure liquids with a pipette.",
+        "frasePortugues": "Meça líquidos com uma pipeta.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 65,
-        "ingles": "Explain",
-        "portugues": "Explicar",
-        "fraseIngles": "Can you explain this problem?",
-        "frasePortugues": "Pode explicar este problema?",
+        "ingles": "Dropper",
+        "portugues": "Conta-gotas",
+        "fraseIngles": "Add drops using a dropper.",
+        "frasePortugues": "Adicione gotas usando um conta-gotas.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 66,
-        "ingles": "Listen",
-        "portugues": "Ouvir",
-        "fraseIngles": "Listen carefully to the instructions.",
-        "frasePortugues": "Ouça atentamente as instruções.",
+        "ingles": "Funnel",
+        "portugues": "Funil",
+        "fraseIngles": "Pour liquids through a funnel.",
+        "frasePortugues": "Despeje líquidos através de um funil.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 67,
-        "ingles": "Read",
-        "portugues": "Ler",
-        "fraseIngles": "Reading improves vocabulary and knowledge.",
-        "frasePortugues": "Ler melhora vocabulário e conhecimento.",
+        "ingles": "Thermometer",
+        "portugues": "Termômetro",
+        "fraseIngles": "Check temperature with a thermometer.",
+        "frasePortugues": "Verifique a temperatura com um termômetro.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 68,
-        "ingles": "Write",
-        "portugues": "Escrever",
-        "fraseIngles": "Write your name at the top.",
-        "frasePortugues": "Escreva seu nome no topo.",
+        "ingles": "Balance scale",
+        "portugues": "Balança",
+        "fraseIngles": "Weigh substances on a balance scale.",
+        "frasePortugues": "Pese substâncias em uma balança.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 69,
-        "ingles": "Speak",
-        "portugues": "Falar",
-        "fraseIngles": "Practice speaking English daily.",
-        "frasePortugues": "Pratique falar inglês diariamente.",
+        "ingles": "Measuring cylinder",
+        "portugues": "Proveta",
+        "fraseIngles": "Measure volume with a measuring cylinder.",
+        "frasePortugues": "Meça volume com uma proveta.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 70,
-        "ingles": "Answer",
-        "portugues": "Responder",
-        "fraseIngles": "Raise your hand before you answer.",
-        "frasePortugues": "Levante a mão antes de responder.",
+        "ingles": "Safety goggles",
+        "portugues": "Óculos de proteção",
+        "fraseIngles": "Wear safety goggles in the lab.",
+        "frasePortugues": "Use óculos de proteção no laboratório.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 71,
-        "ingles": "Question",
-        "portugues": "Pergunta",
-        "fraseIngles": "Feel free to ask any question.",
-        "frasePortugues": "Sinta-se livre para fazer qualquer pergunta.",
+        "ingles": "Lab coat",
+        "portugues": "Jaleco",
+        "fraseIngles": "Put on a lab coat for protection.",
+        "frasePortugues": "Vista um jaleco para proteção.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 72,
-        "ingles": "Ask",
-        "portugues": "Perguntar",
-        "fraseIngles": "Don't be afraid to ask for help.",
-        "frasePortugues": "Não tenha medo de pedir ajuda.",
+        "ingles": "Gloves",
+        "portugues": "Luvas",
+        "fraseIngles": "Wear gloves when handling chemicals.",
+        "frasePortugues": "Use luvas ao manusear químicos.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 73,
-        "ingles": "Help",
-        "portugues": "Ajudar",
-        "fraseIngles": "Teachers are here to help students.",
-        "frasePortugues": "Professores estão aqui para ajudar estudantes.",
+        "ingles": "Bunsen burner",
+        "portugues": "Bico de Bunsen",
+        "fraseIngles": "Heat substances with a Bunsen burner.",
+        "frasePortugues": "Aqueça substâncias com um bico de Bunsen.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 74,
-        "ingles": "Homework",
-        "portugues": "Lição de casa",
-        "fraseIngles": "Finish your homework before playing.",
-        "frasePortugues": "Termine sua lição de casa antes de brincar.",
+        "ingles": "Hot plate",
+        "portugues": "Placa aquecedora",
+        "fraseIngles": "Use a hot plate to heat solutions.",
+        "frasePortugues": "Use uma placa aquecedora para aquecer soluções.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 75,
-        "ingles": "Assignment",
-        "portugues": "Tarefa",
-        "fraseIngles": "This assignment is due tomorrow.",
-        "frasePortugues": "Esta tarefa é para entregar amanhã.",
+        "ingles": "Stirring rod",
+        "portugues": "Bastão de vidro",
+        "fraseIngles": "Mix chemicals with a stirring rod.",
+        "frasePortugues": "Misture químicos com um bastão de vidro.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 76,
-        "ingles": "Project",
-        "portugues": "Projeto",
-        "fraseIngles": "Our science project won first prize.",
-        "frasePortugues": "Nosso projeto de ciências ganhou primeiro lugar.",
+        "ingles": "Mortar and pestle",
+        "portugues": "Gral e pistilo",
+        "fraseIngles": "Grind samples with mortar and pestle.",
+        "frasePortugues": "Triture amostras com gral e pistilo.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 77,
-        "ingles": "Report",
-        "portugues": "Relatório",
-        "fraseIngles": "Write a report about your research.",
-        "frasePortugues": "Escreva um relatório sobre sua pesquisa.",
+        "ingles": "Litmus paper",
+        "portugues": "Papel de tornassol",
+        "fraseIngles": "Test pH with litmus paper.",
+        "frasePortugues": "Teste pH com papel de tornassol.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 78,
-        "ingles": "Essay",
-        "portugues": "Redação",
-        "fraseIngles": "The essay must be 500 words long.",
-        "frasePortugues": "A redação deve ter 500 palavras.",
+        "ingles": "pH meter",
+        "portugues": "Medidor de pH",
+        "fraseIngles": "Measure acidity with a pH meter.",
+        "frasePortugues": "Meça acidez com um medidor de pH.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 79,
-        "ingles": "Test",
-        "portugues": "Teste",
-        "fraseIngles": "We have a math test on Friday.",
-        "frasePortugues": "Temos um teste de matemática na sexta.",
+        "ingles": "Periodic table",
+        "portugues": "Tabela periódica",
+        "fraseIngles": "Study elements on the periodic table.",
+        "frasePortugues": "Estude elementos na tabela periódica.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 80,
-        "ingles": "Quiz",
-        "portugues": "Questionário",
-        "fraseIngles": "Pop quizzes help check understanding.",
-        "frasePortugues": "Questionários surpresa ajudam a verificar compreensão.",
+        "ingles": "Formula chart",
+        "portugues": "Tabela de fórmulas",
+        "fraseIngles": "Reference formulas on the chart.",
+        "frasePortugues": "Consulte fórmulas na tabela.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 81,
-        "ingles": "Exam",
-        "portugues": "Exame",
-        "fraseIngles": "Final exams determine course grades.",
-        "frasePortugues": "Exames finais determinam as notas do curso.",
+        "ingles": "Scientific calculator",
+        "portugues": "Calculadora científica",
+        "fraseIngles": "Use a scientific calculator for complex math.",
+        "frasePortugues": "Use uma calculadora científica para matemática complexa.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 82,
-        "ingles": "Score",
-        "portugues": "Pontuação",
-        "fraseIngles": "What score did you get?",
-        "frasePortugues": "Que pontuação você teve?",
+        "ingles": "Protractor",
+        "portugues": "Transferidor",
+        "fraseIngles": "Measure angles with a protractor.",
+        "frasePortugues": "Meça ângulos com um transferidor.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 83,
-        "ingles": "Result",
-        "portugues": "Resultado",
-        "fraseIngles": "The test results were excellent.",
-        "frasePortugues": "Os resultados do teste foram excelentes.",
+        "ingles": "Compass",
+        "portugues": "Compasso",
+        "fraseIngles": "Draw circles with a compass.",
+        "frasePortugues": "Desenhe círculos com um compasso.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 84,
-        "ingles": "Grade",
-        "portugues": "Nota",
-        "fraseIngles": "She got the highest grade in class.",
-        "frasePortugues": "Ela teve a maior nota da turma.",
+        "ingles": "Set square",
+        "portugues": "Esquadro",
+        "fraseIngles": "Draw right angles with a set square.",
+        "frasePortugues": "Desenhe ângulos retos com um esquadro.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 85,
-        "ingles": "Pass",
-        "portugues": "Passar / Ser aprovado",
-        "fraseIngles": "You need 60% to pass the course.",
-        "frasePortugues": "Você precisa de 60% para passar no curso.",
+        "ingles": "Divider",
+        "portugues": "Compasso de divisão",
+        "fraseIngles": "Mark equal distances with dividers.",
+        "frasePortugues": "Marque distâncias iguais com compasso de divisão.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 86,
-        "ingles": "Fail",
-        "portugues": "Reprovar",
-        "fraseIngles": "Don't worry if you fail once.",
-        "frasePortugues": "Não se preocupe se reprovar uma vez.",
+        "ingles": "Slide rule",
+        "portugues": "Régua de cálculo",
+        "fraseIngles": "Calculate using a slide rule.",
+        "frasePortugues": "Calcule usando uma régua de cálculo.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 87,
-        "ingles": "Success",
-        "portugues": "Sucesso",
-        "fraseIngles": "Success comes from hard work.",
-        "frasePortugues": "Sucesso vem do trabalho duro.",
+        "ingles": "Abacus",
+        "portugues": "Ábaco",
+        "fraseIngles": "Count with the ancient abacus.",
+        "frasePortugues": "Conte com o ábaco antigo.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 88,
-        "ingles": "Achievement",
-        "portugues": "Conquista",
-        "fraseIngles": "Graduation is a great achievement.",
-        "frasePortugues": "Formatura é uma grande conquista.",
+        "ingles": "Paintbrush",
+        "portugues": "Pincel",
+        "fraseIngles": "Paint pictures with a paintbrush.",
+        "frasePortugues": "Pinte figuras com um pincel.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 89,
-        "ingles": "Progress",
-        "portugues": "Progresso",
-        "fraseIngles": "Your progress this year is remarkable.",
-        "frasePortugues": "Seu progresso este ano é notável.",
+        "ingles": "Paint palette",
+        "portugues": "Paleta de tintas",
+        "fraseIngles": "Mix colors on the paint palette.",
+        "frasePortugues": "Misture cores na paleta de tintas.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 90,
-        "ingles": "Improvement",
-        "portugues": "Melhoria",
-        "fraseIngles": "I see improvement in your writing.",
-        "frasePortugues": "Vejo melhoria na sua escrita.",
+        "ingles": "Easel",
+        "portugues": "Cavalete",
+        "fraseIngles": "Set up your canvas on an easel.",
+        "frasePortugues": "Monte sua tela em um cavalete.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 91,
-        "ingles": "Practice",
-        "portugues": "Praticar",
-        "fraseIngles": "Practice makes perfect.",
-        "frasePortugues": "A prática leva à perfeição.",
+        "ingles": "Canvas",
+        "portugues": "Tela",
+        "fraseIngles": "Paint your artwork on canvas.",
+        "frasePortugues": "Pinte sua obra de arte na tela.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 92,
-        "ingles": "Exercise",
-        "portugues": "Exercício",
-        "fraseIngles": "Complete exercises 1 through 10.",
-        "frasePortugues": "Complete os exercícios de 1 a 10.",
+        "ingles": "Sketchpad",
+        "portugues": "Bloco de desenho",
+        "fraseIngles": "Draw sketches in your sketchpad.",
+        "frasePortugues": "Desenhe esboços no seu bloco de desenho.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 93,
-        "ingles": "Drill",
-        "portugues": "Exercício repetitivo",
-        "fraseIngles": "Math drills help memorize facts.",
-        "frasePortugues": "Exercícios repetitivos de matemática ajudam a memorizar fatos.",
+        "ingles": "Charcoal",
+        "portugues": "Carvão",
+        "fraseIngles": "Shade drawings with charcoal.",
+        "frasePortugues": "Sombreie desenhos com carvão.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 94,
-        "ingles": "Review",
-        "portugues": "Revisar",
-        "fraseIngles": "Review your notes before the test.",
-        "frasePortugues": "Revise suas anotações antes do teste.",
+        "ingles": "Pastels",
+        "portugues": "Pastéis",
+        "fraseIngles": "Color artwork with soft pastels.",
+        "frasePortugues": "Colora arte com pastéis macios.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 95,
-        "ingles": "Prepare",
-        "portugues": "Preparar",
-        "fraseIngles": "Prepare well for tomorrow's presentation.",
-        "frasePortugues": "Prepare-se bem para a apresentação de amanhã.",
+        "ingles": "Crayons",
+        "portugues": "Giz de cera",
+        "fraseIngles": "Young children color with crayons.",
+        "frasePortugues": "Crianças pequenas colorem com giz de cera.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 96,
-        "ingles": "Memory",
-        "portugues": "Memória",
-        "fraseIngles": "Good memory helps in learning.",
-        "frasePortugues": "Boa memória ajuda na aprendizagem.",
+        "ingles": "Oil paints",
+        "portugues": "Tintas a óleo",
+        "fraseIngles": "Create masterpieces with oil paints.",
+        "frasePortugues": "Crie obras-primas com tintas a óleo.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 97,
-        "ingles": "Memorize",
-        "portugues": "Memorizar",
-        "fraseIngles": "Memorize these vocabulary words.",
-        "frasePortugues": "Memorize estas palavras do vocabulário.",
+        "ingles": "Watercolors",
+        "portugues": "Aquarelas",
+        "fraseIngles": "Paint landscapes with watercolors.",
+        "frasePortugues": "Pinte paisagens com aquarelas.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 98,
-        "ingles": "Concentrate",
-        "portugues": "Concentrar",
-        "fraseIngles": "Try to concentrate during class.",
-        "frasePortugues": "Tente se concentrar durante a aula.",
+        "ingles": "Acrylic paint",
+        "portugues": "Tinta acrílica",
+        "fraseIngles": "Use acrylic paint for quick drying.",
+        "frasePortugues": "Use tinta acrílica para secagem rápida.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 99,
-        "ingles": "Focus",
-        "portugues": "Focar",
-        "fraseIngles": "Focus on the main ideas.",
-        "frasePortugues": "Foque nas ideias principais.",
+        "ingles": "Art smock",
+        "portugues": "Avental de arte",
+        "fraseIngles": "Protect clothes with an art smock.",
+        "frasePortugues": "Proteja roupas com um avental de arte.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 100,
-        "ingles": "Attention",
-        "portugues": "Atenção",
-        "fraseIngles": "Pay attention to the teacher.",
-        "frasePortugues": "Preste atenção ao professor.",
+        "ingles": "Clay",
+        "portugues": "Argila",
+        "fraseIngles": "Sculpt figures from clay.",
+        "frasePortugues": "Esculpa figuras de argila.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 101,
-        "ingles": "Participate",
-        "portugues": "Participar",
-        "fraseIngles": "Active participation improves learning.",
-        "frasePortugues": "Participação ativa melhora o aprendizado.",
+        "ingles": "Pottery wheel",
+        "portugues": "Roda de oleiro",
+        "fraseIngles": "Shape clay on a pottery wheel.",
+        "frasePortugues": "Modele argila em uma roda de oleiro.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
     },
     {
         "id": 102,
-        "ingles": "Discuss",
-        "portugues": "Discutir",
-        "fraseIngles": "Let's discuss this topic together.",
-        "frasePortugues": "Vamos discutir",
+        "ingles": "Kiln",
+        "portugues": "Forno de cerâmica",
+        "fraseIngles": "Fire pottery in a kiln.",
+        "frasePortugues": "Queime cerâmica em um forno de cerâmica.",
         "subtopico": "Escola",
-        "topico": "Frases"
+        "topico": "Objetos"
+    },
+    {
+        "id": 103,
+        "ingles": "Chisel",
+        "portugues": "Cinzel",
+        "fraseIngles": "Carve wood with a chisel.",
+        "frasePortugues": "Entalhe madeira com um cinzel.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 104,
+        "ingles": "Mallet",
+        "portugues": "Martelo de madeira",
+        "fraseIngles": "Use a mallet with the chisel.",
+        "frasePortugues": "Use um martelo de madeira com o cinzel.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 105,
+        "ingles": "X-acto knife",
+        "portugues": "Estilete",
+        "fraseIngles": "Cut paper precisely with an X-acto knife.",
+        "frasePortugues": "Corte papel precisamente com um estilete.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 106,
+        "ingles": "Cutting mat",
+        "portugues": "Base de corte",
+        "fraseIngles": "Protect surfaces with a cutting mat.",
+        "frasePortugues": "Proteja superfícies com uma base de corte.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 107,
+        "ingles": "Glue gun",
+        "portugues": "Pistola de cola",
+        "fraseIngles": "Attach materials with a glue gun.",
+        "frasePortugues": "Fixe materiais com uma pistola de cola.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 108,
+        "ingles": "Hot glue sticks",
+        "portugues": "Bastões de cola quente",
+        "fraseIngles": "Load hot glue sticks into the gun.",
+        "frasePortugues": "Carregue bastões de cola quente na pistola.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 109,
+        "ingles": "Craft knife",
+        "portugues": "Estilete artesanal",
+        "fraseIngles": "Make precise cuts with a craft knife.",
+        "frasePortugues": "Faça cortes precisos com um estilete artesanal.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 110,
+        "ingles": "Bookshelf",
+        "portugues": "Estante",
+        "fraseIngles": "Organize books on the bookshelf.",
+        "frasePortugues": "Organize livros na estante.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 111,
+        "ingles": "Library shelf",
+        "portugues": "Prateleira da biblioteca",
+        "fraseIngles": "Find books on the library shelf.",
+        "frasePortugues": "Encontre livros na prateleira da biblioteca.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 112,
+        "ingles": "Book cart",
+        "portugues": "Carrinho de livros",
+        "fraseIngles": "Transport books with a book cart.",
+        "frasePortugues": "Transporte livros com um carrinho de livros.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 113,
+        "ingles": "Card catalog",
+        "portugues": "Fichário de cartões",
+        "fraseIngles": "Search the card catalog for books.",
+        "frasePortugues": "Procure no fichário de cartões por livros.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 114,
+        "ingles": "Computer catalog",
+        "portugues": "Catálogo eletrônico",
+        "fraseIngles": "Use the computer catalog to find resources.",
+        "frasePortugues": "Use o catálogo eletrônico para encontrar recursos.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 115,
+        "ingles": "Checkout desk",
+        "portugues": "Balcão de empréstimo",
+        "fraseIngles": "Return books at the checkout desk.",
+        "frasePortugues": "Devolva livros no balcão de empréstimo.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 116,
+        "ingles": "Book return slot",
+        "portugues": "Slot de devolução",
+        "fraseIngles": "Drop books in the book return slot.",
+        "frasePortugues": "Coloque livros no slot de devolução.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 117,
+        "ingles": "Reading table",
+        "portugues": "Mesa de leitura",
+        "fraseIngles": "Study quietly at the reading table.",
+        "frasePortugues": "Estude silenciosamente na mesa de leitura.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 118,
+        "ingles": "Study carrel",
+        "portugues": "Cabine de estudo",
+        "fraseIngles": "Work privately in a study carrel.",
+        "frasePortugues": "Trabalhe privativamente em uma cabine de estudo.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 119,
+        "ingles": "Reference section",
+        "portugues": "Seção de referência",
+        "fraseIngles": "Find encyclopedias in the reference section.",
+        "frasePortugues": "Encontre enciclopédias na seção de referência.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 120,
+        "ingles": "Periodical section",
+        "portugues": "Seção de periódicos",
+        "fraseIngles": "Read magazines in the periodical section.",
+        "frasePortugues": "Leia revistas na seção de periódicos.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 121,
+        "ingles": "Microfilm reader",
+        "portugues": "Leitor de microfilme",
+        "fraseIngles": "View old newspapers on the microfilm reader.",
+        "frasePortugues": "Veja jornais antigos no leitor de microfilme.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 122,
+        "ingles": "Photocopier",
+        "portugues": "Fotocopiadora",
+        "fraseIngles": "Make copies at the library photocopier.",
+        "frasePortugues": "Faça cópias na fotocopiadora da biblioteca.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 123,
+        "ingles": "Basketball",
+        "portugues": "Basquete",
+        "fraseIngles": "Play basketball in gym class.",
+        "frasePortugues": "Jogue basquete na aula de educação física.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 124,
+        "ingles": "Soccer ball",
+        "portugues": "Bola de futebol",
+        "fraseIngles": "Kick the soccer ball into the goal.",
+        "frasePortugues": "Chute a bola de futebol para o gol.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 125,
+        "ingles": "Volleyball",
+        "portugues": "Vôlei",
+        "fraseIngles": "Serve the volleyball over the net.",
+        "frasePortugues": "Saque o vôlei por cima da rede.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 126,
+        "ingles": "Tennis ball",
+        "portugues": "Bola de tênis",
+        "fraseIngles": "Hit the tennis ball with a racket.",
+        "frasePortugues": "Bata a bola de tênis com uma raquete.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 127,
+        "ingles": "Baseball",
+        "portugues": "Baseball",
+        "fraseIngles": "Catch the baseball with a mitt.",
+        "frasePortugues": "Pegue o baseball com uma luva.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 128,
+        "ingles": "Football",
+        "portugues": "Futebol americano",
+        "fraseIngles": "Throw the football to your teammate.",
+        "frasePortugues": "Lance o futebol americano para seu companheiro de equipe.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 129,
+        "ingles": "Ping pong ball",
+        "portugues": "Bola de ping pong",
+        "fraseIngles": "Rally the ping pong ball back and forth.",
+        "frasePortugues": "Rebata a bola de ping pong de um lado para o outro.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 130,
+        "ingles": "Tennis racket",
+        "portugues": "Raquete de tênis",
+        "fraseIngles": "Swing the tennis racket to hit the ball.",
+        "frasePortugues": "Balance a raquete de tênis para bater na bola.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 131,
+        "ingles": "Baseball bat",
+        "portugues": "Taco de baseball",
+        "fraseIngles": "Hit home runs with a baseball bat.",
+        "frasePortugues": "Faça home runs com um taco de baseball.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 132,
+        "ingles": "Baseball glove",
+        "portugues": "Luva de baseball",
+        "fraseIngles": "Catch fly balls with a baseball glove.",
+        "frasePortugues": "Pegue bolas altas com uma luva de baseball.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 133,
+        "ingles": "Hockey stick",
+        "portugues": "Taco de hockey",
+        "fraseIngles": "Pass the puck with your hockey stick.",
+        "frasePortugues": "Passe o disco com seu taco de hockey.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 134,
+        "ingles": "Golf club",
+        "portugues": "Taco de golfe",
+        "fraseIngles": "Drive the ball with a golf club.",
+        "frasePortugues": "Rebata a bola com um taco de golfe.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 135,
+        "ingles": "Gym uniform",
+        "portugues": "Uniforme de educação física",
+        "fraseIngles": "Change into your gym uniform for PE class.",
+        "frasePortugues": "Vista seu uniforme de educação física para a aula de EF.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 136,
+        "ingles": "Athletic shoes",
+        "portugues": "Tênis esportivo",
+        "fraseIngles": "Wear athletic shoes for running.",
+        "frasePortugues": "Use tênis esportivo para correr.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 137,
+        "ingles": "Sneakers",
+        "portugues": "Tênis",
+        "fraseIngles": "Put on your sneakers for gym class.",
+        "frasePortugues": "Calce seus tênis para a aula de educação física.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 138,
+        "ingles": "Sweatshirt",
+        "portugues": "Moletom",
+        "fraseIngles": "Wear a sweatshirt during cool weather.",
+        "frasePortugues": "Use um moletom durante tempo fresco.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 139,
+        "ingles": "Shorts",
+        "portugues": "Shorts",
+        "fraseIngles": "Change into shorts for basketball.",
+        "frasePortugues": "Vista shorts para basquete.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 140,
+        "ingles": "Whistle",
+        "portugues": "Apito",
+        "fraseIngles": "The coach blows the whistle to start.",
+        "frasePortugues": "O técnico sopra o apito para começar.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 141,
+        "ingles": "Stopwatch",
+        "portugues": "Cronômetro",
+        "fraseIngles": "Time the race with a stopwatch.",
+        "frasePortugues": "Cronometre a corrida com um cronômetro.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 142,
+        "ingles": "Score board",
+        "portugues": "Placar",
+        "fraseIngles": "Check the score on the score board.",
+        "frasePortugues": "Verifique o placar no quadro de pontuação.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 143,
+        "ingles": "Gymnasium",
+        "portugues": "Ginásio",
+        "fraseIngles": "Play sports in the school gymnasium.",
+        "frasePortugues": "Pratique esportes no ginásio da escola.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 144,
+        "ingles": "Playing field",
+        "portugues": "Campo de jogo",
+        "fraseIngles": "Run laps around the playing field.",
+        "frasePortugues": "Corra voltas ao redor do campo de jogo.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 145,
+        "ingles": "Track",
+        "portugues": "Pista",
+        "fraseIngles": "Run races on the athletic track.",
+        "frasePortugues": "Corra provas na pista atlética.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 146,
+        "ingles": "Goal post",
+        "portugues": "Trave",
+        "fraseIngles": "Kick field goals through the goal post.",
+        "frasePortugues": "Chute gols de campo através da trave.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 147,
+        "ingles": "Net",
+        "portugues": "Rede",
+        "fraseIngles": "The ball must go over the net.",
+        "frasePortugues": "A bola deve passar por cima da rede.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 148,
+        "ingles": "Hurdle",
+        "portugues": "Obstáculo",
+        "fraseIngles": "Jump over each hurdle in the race.",
+        "frasePortugues": "Pule sobre cada obstáculo na corrida.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 149,
+        "ingles": "Mat",
+        "portugues": "Colchonete",
+        "fraseIngles": "Do gymnastics on the safety mat.",
+        "frasePortugues": "Faça ginástica no colchonete de segurança.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 150,
+        "ingles": "Weight",
+        "portugues": "Peso",
+        "fraseIngles": "Lift weights to build strength.",
+        "frasePortugues": "Levante pesos para ganhar força.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 151,
+        "ingles": "Dumbbell",
+        "portugues": "Halter",
+        "fraseIngles": "Exercise with dumbbells.",
+        "frasePortugues": "Exercite-se com halteres.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
+    },
+    {
+        "id": 152,
+        "ingles": "Jump rope",
+        "portugues": "Corda de pular",
+        "fraseIngles": "Skip with a jump rope for cardio.",
+        "frasePortugues": "Pule com uma corda de pular para cardio.",
+        "subtopico": "Escola",
+        "topico": "Objetos"
     }
 ]

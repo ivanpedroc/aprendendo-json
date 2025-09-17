@@ -1,0 +1,1415 @@
+[
+    {
+        "id": 1,
+        "ingles": "Soccer ball",
+        "portugues": "Bola de futebol",
+        "fraseIngles": "Kick the soccer ball into the goal.",
+        "frasePortugues": "Chute a bola de futebol para o gol.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 2,
+        "ingles": "Football",
+        "portugues": "Bola de futebol (britânico)",
+        "fraseIngles": "Europeans call it a football.",
+        "frasePortugues": "Europeus chamam de football.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 3,
+        "ingles": "Ball",
+        "portugues": "Bola",
+        "fraseIngles": "The player dribbled the ball skillfully.",
+        "frasePortugues": "O jogador driblou a bola habilmente.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 4,
+        "ingles": "Official ball",
+        "portugues": "Bola oficial",
+        "fraseIngles": "The match uses an official FIFA ball.",
+        "frasePortugues": "A partida usa uma bola oficial da FIFA.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 5,
+        "ingles": "Match ball",
+        "portugues": "Bola da partida",
+        "fraseIngles": "The referee checks the match ball pressure.",
+        "frasePortugues": "O árbitro verifica a pressão da bola da partida.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 6,
+        "ingles": "Training ball",
+        "portugues": "Bola de treino",
+        "fraseIngles": "Practice with a training ball daily.",
+        "frasePortugues": "Pratique com uma bola de treino diariamente.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 7,
+        "ingles": "Size 5 ball",
+        "portugues": "Bola tamanho 5",
+        "fraseIngles": "Adult players use a size 5 ball.",
+        "frasePortugues": "Jogadores adultos usam bola tamanho 5.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 8,
+        "ingles": "Size 4 ball",
+        "portugues": "Bola tamanho 4",
+        "fraseIngles": "Youth players use a size 4 ball.",
+        "frasePortugues": "Jovens jogadores usam bola tamanho 4.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 9,
+        "ingles": "Size 3 ball",
+        "portugues": "Bola tamanho 3",
+        "fraseIngles": "Children start with a size 3 ball.",
+        "frasePortugues": "Crianças começam com bola tamanho 3.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 10,
+        "ingles": "Leather ball",
+        "portugues": "Bola de couro",
+        "fraseIngles": "Traditional soccer balls were made of leather.",
+        "frasePortugues": "Bolas de futebol tradicionais eram feitas de couro.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 11,
+        "ingles": "Synthetic ball",
+        "portugues": "Bola sintética",
+        "fraseIngles": "Modern balls use synthetic materials.",
+        "frasePortugues": "Bolas modernas usam materiais sintéticos.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 12,
+        "ingles": "Waterproof ball",
+        "portugues": "Bola à prova d'água",
+        "fraseIngles": "Play in rain with a waterproof ball.",
+        "frasePortugues": "Jogue na chuva com uma bola à prova d'água.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 13,
+        "ingles": "Goal",
+        "portugues": "Gol (trave)",
+        "fraseIngles": "The striker shot the ball toward the goal.",
+        "frasePortugues": "O atacante chutou a bola em direção ao gol.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 14,
+        "ingles": "Goalpost",
+        "portugues": "Trave",
+        "fraseIngles": "The ball hit the goalpost and bounced out.",
+        "frasePortugues": "A bola bateu na trave e quicou para fora.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 15,
+        "ingles": "Crossbar",
+        "portugues": "Travessão",
+        "fraseIngles": "The shot went over the crossbar.",
+        "frasePortugues": "O chute passou por cima do travessão.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 16,
+        "ingles": "Net",
+        "portugues": "Rede",
+        "fraseIngles": "The ball bulged the back of the net.",
+        "frasePortugues": "A bola balançou o fundo da rede.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 17,
+        "ingles": "Goal net",
+        "portugues": "Rede do gol",
+        "fraseIngles": "Check that the goal net is properly attached.",
+        "frasePortugues": "Verifique se a rede do gol está bem fixada.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 18,
+        "ingles": "Goal frame",
+        "portugues": "Estrutura do gol",
+        "fraseIngles": "The goal frame is made of aluminum.",
+        "frasePortugues": "A estrutura do gol é feita de alumínio.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 19,
+        "ingles": "Mini goal",
+        "portugues": "Gol pequeno",
+        "fraseIngles": "Children practice with mini goals.",
+        "frasePortugues": "Crianças praticam com gols pequenos.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 20,
+        "ingles": "Portable goal",
+        "portugues": "Gol portátil",
+        "fraseIngles": "Set up portable goals for training.",
+        "frasePortugues": "Monte gols portáteis para treino.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 21,
+        "ingles": "Soccer cleats",
+        "portugues": "Chuteiras",
+        "fraseIngles": "Wear proper soccer cleats for traction.",
+        "frasePortugues": "Use chuteiras adequadas para tração.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 22,
+        "ingles": "Football boots",
+        "portugues": "Chuteiras (britânico)",
+        "fraseIngles": "Professional players need quality football boots.",
+        "frasePortugues": "Jogadores profissionais precisam de chuteiras de qualidade.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 23,
+        "ingles": "Cleats",
+        "portugues": "Travas",
+        "fraseIngles": "The cleats provide grip on grass.",
+        "frasePortugues": "As travas proporcionam aderência na grama.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 24,
+        "ingles": "Studs",
+        "portugues": "Cravos",
+        "fraseIngles": "Metal studs work best on wet fields.",
+        "frasePortugues": "Cravos de metal funcionam melhor em campos molhados.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 25,
+        "ingles": "Molded cleats",
+        "portugues": "Chuteiras de cravos fixos",
+        "fraseIngles": "Molded cleats are good for hard surfaces.",
+        "frasePortugues": "Chuteiras de cravos fixos são boas para superfícies duras.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 26,
+        "ingles": "Screw-in studs",
+        "portugues": "Cravos rosqueáveis",
+        "fraseIngles": "Change screw-in studs for different conditions.",
+        "frasePortugues": "Troque cravos rosqueáveis para condições diferentes.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 27,
+        "ingles": "Indoor shoes",
+        "portugues": "Tênis de futsal",
+        "fraseIngles": "Play futsal with indoor shoes.",
+        "frasePortugues": "Jogue futsal com tênis de futsal.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 28,
+        "ingles": "Turf shoes",
+        "portugues": "Chuteiras society",
+        "fraseIngles": "Artificial turf requires special turf shoes.",
+        "frasePortugues": "Grama sintética requer chuteiras society especiais.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 29,
+        "ingles": "Soccer socks",
+        "portugues": "Meias de futebol",
+        "fraseIngles": "Wear long soccer socks over shin guards.",
+        "frasePortugues": "Use meias longas de futebol sobre as caneleiras.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 30,
+        "ingles": "Shin guards",
+        "portugues": "Caneleiras",
+        "fraseIngles": "Protect your legs with shin guards.",
+        "frasePortugues": "Proteja suas pernas com caneleiras.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 31,
+        "ingles": "Shin pads",
+        "portugues": "Caneleiras (britânico)",
+        "fraseIngles": "All players must wear shin pads.",
+        "frasePortugues": "Todos os jogadores devem usar caneleiras.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 32,
+        "ingles": "Ankle guards",
+        "portugues": "Tornozeleiras",
+        "fraseIngles": "Some players wear additional ankle guards.",
+        "frasePortugues": "Alguns jogadores usam tornozeleiras adicionais.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 33,
+        "ingles": "Soccer jersey",
+        "portugues": "Camisa de futebol",
+        "fraseIngles": "Each team wears a different colored jersey.",
+        "frasePortugues": "Cada time usa uma camisa de cor diferente.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 34,
+        "ingles": "Football shirt",
+        "portugues": "Camisa de futebol (britânico)",
+        "fraseIngles": "The football shirt displays the team logo.",
+        "frasePortugues": "A camisa de futebol exibe o logo do time.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 35,
+        "ingles": "Home jersey",
+        "portugues": "Camisa titular",
+        "fraseIngles": "The team plays in their home jersey.",
+        "frasePortugues": "O time joga com sua camisa titular.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 36,
+        "ingles": "Away jersey",
+        "portugues": "Camisa reserva",
+        "fraseIngles": "Wear the away jersey for road games.",
+        "frasePortugues": "Use a camisa reserva para jogos fora de casa.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 37,
+        "ingles": "Third kit",
+        "portugues": "Terceiro uniforme",
+        "fraseIngles": "Some teams have a third kit option.",
+        "frasePortugues": "Alguns times têm opção de terceiro uniforme.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 38,
+        "ingles": "Goalkeeper jersey",
+        "portugues": "Camisa de goleiro",
+        "fraseIngles": "The goalkeeper wears a different colored jersey.",
+        "frasePortugues": "O goleiro usa uma camisa de cor diferente.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 39,
+        "ingles": "Soccer shorts",
+        "portugues": "Calção de futebol",
+        "fraseIngles": "Match the shorts to the team colors.",
+        "frasePortugues": "Combine o calção com as cores do time.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 40,
+        "ingles": "Training gear",
+        "portugues": "Roupa de treino",
+        "fraseIngles": "Wear comfortable training gear for practice.",
+        "frasePortugues": "Use roupa de treino confortável para a prática.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 41,
+        "ingles": "Warm-up suit",
+        "portugues": "Agasalho",
+        "fraseIngles": "Players wear warm-up suits before matches.",
+        "frasePortugues": "Jogadores usam agasalhos antes das partidas.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 42,
+        "ingles": "Captain's armband",
+        "portugues": "Braçadeira de capitão",
+        "fraseIngles": "The team captain wears the armband.",
+        "frasePortugues": "O capitão do time usa a braçadeira.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 43,
+        "ingles": "Referee shirt",
+        "portugues": "Camisa de árbitro",
+        "fraseIngles": "The referee wears a distinctive shirt.",
+        "frasePortugues": "O árbitro usa uma camisa distintiva.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 44,
+        "ingles": "Referee shorts",
+        "portugues": "Calção de árbitro",
+        "fraseIngles": "Black referee shorts are standard.",
+        "frasePortugues": "Calções pretos de árbitro são padrão.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 45,
+        "ingles": "Referee socks",
+        "portugues": "Meias de árbitro",
+        "fraseIngles": "Referees wear black socks typically.",
+        "frasePortugues": "Árbitros geralmente usam meias pretas.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 46,
+        "ingles": "Whistle",
+        "portugues": "Apito",
+        "fraseIngles": "The referee blows the whistle to start play.",
+        "frasePortugues": "O árbitro sopra o apito para iniciar o jogo.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 47,
+        "ingles": "Cards",
+        "portugues": "Cartões",
+        "fraseIngles": "The referee shows cards for misconduct.",
+        "frasePortugues": "O árbitro mostra cartões por má conduta.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 48,
+        "ingles": "Yellow card",
+        "portugues": "Cartão amarelo",
+        "fraseIngles": "Players get a yellow card for minor offenses.",
+        "frasePortugues": "Jogadores recebem cartão amarelo por infrações menores.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 49,
+        "ingles": "Red card",
+        "portugues": "Cartão vermelho",
+        "fraseIngles": "Serious fouls result in a red card.",
+        "frasePortugues": "Faltas graves resultam em cartão vermelho.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 50,
+        "ingles": "Referee flag",
+        "portugues": "Bandeira de árbitro",
+        "fraseIngles": "Linesmen wave the referee flag for offsides.",
+        "frasePortugues": "Bandeirinhas acenam a bandeira para impedimentos.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 51,
+        "ingles": "Corner flag",
+        "portugues": "Bandeira de escanteio",
+        "fraseIngles": "The corner flag marks the field boundaries.",
+        "frasePortugues": "A bandeira de escanteio marca os limites do campo.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 52,
+        "ingles": "Penalty spot",
+        "portugues": "Marca do pênalti",
+        "fraseIngles": "Place the ball on the penalty spot.",
+        "frasePortugues": "Coloque a bola na marca do pênalti.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 53,
+        "ingles": "Center circle",
+        "portugues": "Círculo central",
+        "fraseIngles": "Kickoffs start from the center circle.",
+        "frasePortugues": "Saídas de bola começam do círculo central.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 54,
+        "ingles": "Goal area",
+        "portugues": "Área do gol",
+        "fraseIngles": "The goalkeeper can handle the ball in the goal area.",
+        "frasePortugues": "O goleiro pode pegar a bola na área do gol.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 55,
+        "ingles": "Penalty area",
+        "portugues": "Grande área",
+        "fraseIngles": "Fouls in the penalty area result in penalties.",
+        "frasePortugues": "Faltas na grande área resultam em pênaltis.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 56,
+        "ingles": "Goal line",
+        "portugues": "Linha do gol",
+        "fraseIngles": "The ball must cross the goal line completely.",
+        "frasePortugues": "A bola deve atravessar completamente a linha do gol.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 57,
+        "ingles": "Touch line",
+        "portugues": "Linha lateral",
+        "fraseIngles": "When the ball crosses the touch line, it's out.",
+        "frasePortugues": "Quando a bola cruza a linha lateral, está fora.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 58,
+        "ingles": "Halfway line",
+        "portugues": "Linha do meio de campo",
+        "fraseIngles": "The halfway line divides the field equally.",
+        "frasePortugues": "A linha do meio de campo divide o campo igualmente.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 59,
+        "ingles": "Six-yard box",
+        "portugues": "Pequena área",
+        "fraseIngles": "The six-yard box is closest to the goal.",
+        "frasePortugues": "A pequena área é a mais próxima do gol.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 60,
+        "ingles": "Eighteen-yard box",
+        "portugues": "Grande área",
+        "fraseIngles": "The eighteen-yard box is the penalty area.",
+        "frasePortugues": "A grande área é a área de pênalti.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 61,
+        "ingles": "Soccer field",
+        "portugues": "Campo de futebol",
+        "fraseIngles": "The soccer field is 100-130 yards long.",
+        "frasePortugues": "O campo de futebol tem 100-130 jardas de comprimento.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 62,
+        "ingles": "Football pitch",
+        "portugues": "Campo de futebol (britânico)",
+        "fraseIngles": "A football pitch must be rectangular.",
+        "frasePortugues": "Um campo de futebol deve ser retangular.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 63,
+        "ingles": "Grass field",
+        "portugues": "Campo de grama",
+        "fraseIngles": "Natural grass fields require more maintenance.",
+        "frasePortugues": "Campos de grama natural requerem mais manutenção.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 64,
+        "ingles": "Artificial turf",
+        "portugues": "Grama sintética",
+        "fraseIngles": "Some stadiums use artificial turf.",
+        "frasePortugues": "Alguns estádios usam grama sintética.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 65,
+        "ingles": "Stadium",
+        "portugues": "Estádio",
+        "fraseIngles": "The stadium holds 80,000 spectators.",
+        "frasePortugues": "O estádio comporta 80.000 espectadores.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 66,
+        "ingles": "Bleachers",
+        "portugues": "Arquibancadas",
+        "fraseIngles": "Fans sit in the bleachers to watch.",
+        "frasePortugues": "Torcedores sentam nas arquibancadas para assistir.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 67,
+        "ingles": "Grandstand",
+        "portugues": "Tribuna principal",
+        "fraseIngles": "VIPs watch from the grandstand.",
+        "frasePortugues": "VIPs assistem da tribuna principal.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 68,
+        "ingles": "Dugout",
+        "portugues": "Banco de reservas",
+        "fraseIngles": "Substitutes wait in the dugout.",
+        "frasePortugues": "Reservas esperam no banco de reservas.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 69,
+        "ingles": "Technical area",
+        "portugues": "Área técnica",
+        "fraseIngles": "Coaches must stay in the technical area.",
+        "frasePortugues": "Técnicos devem ficar na área técnica.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 70,
+        "ingles": "Scoreboard",
+        "portugues": "Placar eletrônico",
+        "fraseIngles": "Check the time on the scoreboard.",
+        "frasePortugues": "Verifique o tempo no placar eletrônico.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 71,
+        "ingles": "Floodlights",
+        "portugues": "Refletores",
+        "fraseIngles": "Floodlights illuminate night games.",
+        "frasePortugues": "Refletores iluminam jogos noturnos.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 72,
+        "ingles": "Sprinkler system",
+        "portugues": "Sistema de irrigação",
+        "fraseIngles": "The sprinkler system waters the grass.",
+        "frasePortugues": "O sistema de irrigação molha a grama.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 73,
+        "ingles": "Groundskeeping equipment",
+        "portugues": "Equipamentos de manutenção",
+        "fraseIngles": "Groundskeepers use specialized equipment.",
+        "frasePortugues": "Jardineiros usam equipamentos especializados.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 74,
+        "ingles": "Line marker",
+        "portugues": "Marcador de linhas",
+        "fraseIngles": "Paint field lines with a line marker.",
+        "frasePortugues": "Pinte linhas do campo com um marcador de linhas.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 75,
+        "ingles": "Chalk",
+        "portugues": "Giz",
+        "fraseIngles": "Mark the field boundaries with chalk.",
+        "frasePortugues": "Marque os limites do campo com giz.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 76,
+        "ingles": "Paint",
+        "portugues": "Tinta",
+        "fraseIngles": "Use white paint for permanent lines.",
+        "frasePortugues": "Use tinta branca para linhas permanentes.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 77,
+        "ingles": "Cone",
+        "portugues": "Cone",
+        "fraseIngles": "Set up training drills with cones.",
+        "frasePortugues": "Monte treinos com cones.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 78,
+        "ingles": "Training cone",
+        "portugues": "Cone de treino",
+        "fraseIngles": "Players dribble around training cones.",
+        "frasePortugues": "Jogadores driblam ao redor de cones de treino.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 79,
+        "ingles": "Marker disc",
+        "portugues": "Disco marcador",
+        "fraseIngles": "Use marker discs for positioning drills.",
+        "frasePortugues": "Use discos marcadores para treinos de posicionamento.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 80,
+        "ingles": "Agility ladder",
+        "portugues": "Escada de agilidade",
+        "fraseIngles": "Improve footwork with an agility ladder.",
+        "frasePortugues": "Melhore movimentos dos pés com escada de agilidade.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 81,
+        "ingles": "Speed ladder",
+        "portugues": "Escada de velocidade",
+        "fraseIngles": "Quick feet drills use a speed ladder.",
+        "frasePortugues": "Treinos de pés rápidos usam escada de velocidade.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 82,
+        "ingles": "Hurdle",
+        "portugues": "Barreira",
+        "fraseIngles": "Jump over hurdles during training.",
+        "frasePortugues": "Pule sobre barreiras durante o treino.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 83,
+        "ingles": "Slalom pole",
+        "portugues": "Poste de slalom",
+        "fraseIngles": "Weave between slalom poles for agility.",
+        "frasePortugues": "Zigue-zague entre postes de slalom para agilidade.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 84,
+        "ingles": "Training bib",
+        "portugues": "Colete de treino",
+        "fraseIngles": "Different colored bibs separate teams.",
+        "frasePortugues": "Coletes de cores diferentes separam times.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 85,
+        "ingles": "Scrimmage vest",
+        "portugues": "Colete de rachão",
+        "fraseIngles": "Wear scrimmage vests during practice games.",
+        "frasePortugues": "Use coletes de rachão durante jogos de treino.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 86,
+        "ingles": "Pinnies",
+        "portugues": "Coletes (americano)",
+        "fraseIngles": "Divide players into teams with pinnies.",
+        "frasePortugues": "Divida jogadores em times com coletes.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 87,
+        "ingles": "Water bottle",
+        "portugues": "Garrafa de água",
+        "fraseIngles": "Stay hydrated with your water bottle.",
+        "frasePortugues": "Mantenha-se hidratado com sua garrafa de água.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 88,
+        "ingles": "Sports drink",
+        "portugues": "Bebida esportiva",
+        "fraseIngles": "Replenish electrolytes with sports drinks.",
+        "frasePortugues": "Reponha eletrólitos with bebidas esportivas.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 89,
+        "ingles": "Towel",
+        "portugues": "Toalha",
+        "fraseIngles": "Wipe sweat with a towel during breaks.",
+        "frasePortugues": "Limpe suor com uma toalha durante intervalos.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 90,
+        "ingles": "Ice pack",
+        "portugues": "Bolsa de gelo",
+        "fraseIngles": "Apply ice pack to injuries immediately.",
+        "frasePortugues": "Aplique bolsa de gelo em lesões imediatamente.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 91,
+        "ingles": "First aid kit",
+        "portugues": "Kit de primeiros socorros",
+        "fraseIngles": "Every team needs a first aid kit.",
+        "frasePortugues": "Todo time precisa de um kit de primeiros socorros.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 92,
+        "ingles": "Medical bag",
+        "portugues": "Bolsa médica",
+        "fraseIngles": "The team doctor carries a medical bag.",
+        "frasePortugues": "O médico do time carrega uma bolsa médica.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 93,
+        "ingles": "Stretcher",
+        "portugues": "Maca",
+        "fraseIngles": "Carry injured players off on a stretcher.",
+        "frasePortugues": "Carregue jogadores lesionados numa maca.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 94,
+        "ingles": "Spray bottle",
+        "portugues": "Borrifador",
+        "fraseIngles": "Cool players down with a spray bottle.",
+        "frasePortugues": "Refresque jogadores com um borrifador.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 95,
+        "ingles": "Cooler",
+        "portugues": "Cooler",
+        "fraseIngles": "Keep drinks cold in the team cooler.",
+        "frasePortugues": "Mantenha bebidas geladas no cooler do time.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 96,
+        "ingles": "Bench",
+        "portugues": "Banco",
+        "fraseIngles": "Players and coaches sit on the bench.",
+        "frasePortugues": "Jogadores e técnicos sentam no banco.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 97,
+        "ingles": "Folding chair",
+        "portugues": "Cadeira dobrável",
+        "fraseIngles": "Coaches often use folding chairs.",
+        "frasePortugues": "Técnicos frequentemente usam cadeiras dobráveis.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 98,
+        "ingles": "Umbrella",
+        "portugues": "Guarda-sol",
+        "fraseIngles": "Protect from sun with a sideline umbrella.",
+        "frasePortugues": "Proteja-se do sol com guarda-sol da lateral.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 99,
+        "ingles": "Tent",
+        "portugues": "Tenda",
+        "fraseIngles": "Set up a tent for shade during tournaments.",
+        "frasePortugues": "Monte uma tenda para sombra durante torneios.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 100,
+        "ingles": "Scorebook",
+        "portugues": "Livro de pontuação",
+        "fraseIngles": "Record match statistics in the scorebook.",
+        "frasePortugues": "Registre estatísticas da partida no livro de pontuação.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 101,
+        "ingles": "Clipboard",
+        "portugues": "Prancheta",
+        "fraseIngles": "Coaches use clipboards for game plans.",
+        "frasePortugues": "Técnicos usam pranchetas para planos de jogo.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 102,
+        "ingles": "Stopwatch",
+        "portugues": "Cronômetro",
+        "fraseIngles": "Time practice drills with a stopwatch.",
+        "frasePortugues": "Cronometrre treinos com um cronômetro.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 103,
+        "ingles": "Tactical board",
+        "portugues": "Quadro tático",
+        "fraseIngles": "Draw plays on the tactical board.",
+        "frasePortugues": "Desenhe jogadas no quadro tático.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 104,
+        "ingles": "Whiteboard",
+        "portugues": "Quadro branco",
+        "fraseIngles": "Explain strategies on the whiteboard.",
+        "frasePortugues": "Explique estratégias no quadro branco.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 105,
+        "ingles": "Marker pen",
+        "portugues": "Marcador",
+        "fraseIngles": "Use different colored marker pens.",
+        "frasePortugues": "Use marcadores de cores diferentes.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 106,
+        "ingles": "Video camera",
+        "portugues": "Câmera de vídeo",
+        "fraseIngles": "Film games for later analysis.",
+        "frasePortugues": "Filme jogos para análise posterior.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 107,
+        "ingles": "Drone camera",
+        "portugues": "Câmera drone",
+        "fraseIngles": "Some teams use drone cameras for overhead shots.",
+        "frasePortugues": "Alguns times usam câmeras drone para tomadas aéreas.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 108,
+        "ingles": "Megaphone",
+        "portugues": "Megafone",
+        "fraseIngles": "Coaches use megaphones to communicate.",
+        "frasePortugues": "Técnicos usam megafones para se comunicar.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 109,
+        "ingles": "Walkie-talkie",
+        "portugues": "Rádio comunicador",
+        "fraseIngles": "Staff coordinate with walkie-talkies.",
+        "frasePortugues": "Equipe técnica se coordena com rádios comunicadores.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 110,
+        "ingles": "Soccer bag",
+        "portugues": "Bolsa de futebol",
+        "fraseIngles": "Carry all gear in your soccer bag.",
+        "frasePortugues": "Carregue todo equipamento na sua bolsa de futebol.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 111,
+        "ingles": "Equipment bag",
+        "portugues": "Bolsa de equipamentos",
+        "fraseIngles": "Store team equipment in the equipment bag.",
+        "frasePortugues": "Guarde equipamentos do time na bolsa de equipamentos.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 112,
+        "ingles": "Ball bag",
+        "portugues": "Bolsa de bolas",
+        "fraseIngles": "Carry multiple balls in a ball bag.",
+        "frasePortugues": "Carregue várias bolas numa bolsa de bolas.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 113,
+        "ingles": "Ball cart",
+        "portugues": "Carrinho de bolas",
+        "fraseIngles": "Transport many balls with a ball cart.",
+        "frasePortugues": "Transporte muitas bolas com um carrinho de bolas.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 114,
+        "ingles": "Ball pump",
+        "portugues": "Bomba de bola",
+        "fraseIngles": "Inflate balls with a ball pump.",
+        "frasePortugues": "Enche bolas com uma bomba de bola.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 115,
+        "ingles": "Pressure gauge",
+        "portugues": "Medidor de pressão",
+        "fraseIngles": "Check ball pressure with a pressure gauge.",
+        "frasePortugues": "Verifique pressão da bola com um medidor de pressão.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 116,
+        "ingles": "Needle",
+        "portugues": "Agulha",
+        "fraseIngles": "Insert the needle to inflate the ball.",
+        "frasePortugues": "Insira a agulha para encher a bola.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 117,
+        "ingles": "Valve",
+        "portugues": "Válvula",
+        "fraseIngles": "The ball valve controls air flow.",
+        "frasePortugues": "A válvula da bola controla o fluxo de ar.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 118,
+        "ingles": "Patch kit",
+        "portugues": "Kit de reparo",
+        "fraseIngles": "Fix punctures with a patch kit.",
+        "frasePortugues": "Conserte furos com um kit de reparo.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 119,
+        "ingles": "Goalkeeper gloves",
+        "portugues": "Luvas de goleiro",
+        "fraseIngles": "Goalkeepers wear special gloves.",
+        "frasePortugues": "Goleiros usam luvas especiais.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 120,
+        "ingles": "Keeper gloves",
+        "portugues": "Luvas de goleiro (abrev.)",
+        "fraseIngles": "Good keeper gloves improve grip.",
+        "frasePortugues": "Boas luvas de goleiro melhoram a pegada.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 121,
+        "ingles": "Goalie shirt",
+        "portugues": "Camisa de goleiro",
+        "fraseIngles": "The goalie shirt has padding.",
+        "frasePortugues": "A camisa de goleiro tem proteção.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 122,
+        "ingles": "Goalkeeper pants",
+        "portugues": "Calça de goleiro",
+        "fraseIngles": "Padded goalkeeper pants protect knees.",
+        "frasePortugues": "Calças acolchoadas de goleiro protegem joelhos.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 123,
+        "ingles": "Diving practice mat",
+        "portugues": "Colchão de treino",
+        "fraseIngles": "Goalkeepers practice on diving mats.",
+        "frasePortugues": "Goleiros praticam em colchões de treino.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 124,
+        "ingles": "Rebounder",
+        "portugues": "Rebatedor",
+        "fraseIngles": "Practice passing with a rebounder net.",
+        "frasePortugues": "Pratique passe com uma rede rebatedora.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 125,
+        "ingles": "Shooting target",
+        "portugues": "Alvo de chute",
+        "fraseIngles": "Improve accuracy with shooting targets.",
+        "frasePortugues": "Melhore precisão com alvos de chute.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 126,
+        "ingles": "Free kick wall",
+        "portugues": "Barreira de treino",
+        "fraseIngles": "Practice free kicks against a wall.",
+        "frasePortugues": "Pratique cobranças de falta contra uma barreira.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 127,
+        "ingles": "Mannequin",
+        "portugues": "Boneco de treino",
+        "fraseIngles": "Defensive mannequins simulate opponents.",
+        "frasePortugues": "Bonecos defensivos simulam oponentes.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 128,
+        "ingles": "Pop-up goal",
+        "portugues": "Gol dobrável",
+        "fraseIngles": "Pop-up goals are easy to transport.",
+        "frasePortugues": "Gols dobráveis são fáceis de transportar.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 129,
+        "ingles": "Training poles",
+        "portugues": "Postes de treino",
+        "fraseIngles": "Set up training courses with poles.",
+        "frasePortugues": "Monte cursos de treino com postes.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 130,
+        "ingles": "Boundary markers",
+        "portugues": "Marcadores de limite",
+        "fraseIngles": "Use boundary markers for small-sided games.",
+        "frasePortugues": "Use marcadores de limite para jogos reduzidos.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 131,
+        "ingles": "Substitution board",
+        "portugues": "Prancheta de substituição",
+        "fraseIngles": "Officials use substitution boards.",
+        "frasePortugues": "Oficiais usam pranchetas de substituição.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 132,
+        "ingles": "Fourth official board",
+        "portugues": "Placa do quarto árbitro",
+        "fraseIngles": "The fourth official shows added time.",
+        "frasePortugues": "O quarto árbitro mostra tempo adicional.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 133,
+        "ingles": "Electronic board",
+        "portugues": "Placar eletrônico",
+        "fraseIngles": "Modern stadiums have electronic boards.",
+        "frasePortugues": "Estádios modernos têm placares eletrônicos.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 134,
+        "ingles": "Team banner",
+        "portugues": "Bandeira do time",
+        "fraseIngles": "Fans wave team banners in support.",
+        "frasePortugues": "Torcedores acenam bandeiras do time em apoio.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 135,
+        "ingles": "Scarf",
+        "portugues": "Cachecol",
+        "fraseIngles": "Supporters wear team scarves.",
+        "frasePortugues": "Torcedores usam cachecóis do time.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 136,
+        "ingles": "Flag",
+        "portugues": "Bandeira",
+        "fraseIngles": "Corner flags mark field boundaries.",
+        "frasePortugues": "Bandeiras de escanteio marcam limites do campo.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 137,
+        "ingles": "Pennant",
+        "portugues": "Flâmula",
+        "fraseIngles": "Teams exchange pennants before matches.",
+        "frasePortugues": "Times trocam flâmulas antes das partidas.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 138,
+        "ingles": "Trophy",
+        "portugues": "Troféu",
+        "fraseIngles": "The winning team receives a trophy.",
+        "frasePortugues": "O time vencedor recebe um troféu.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 139,
+        "ingles": "Medal",
+        "portugues": "Medalha",
+        "fraseIngles": "Players get medals for tournament wins.",
+        "frasePortugues": "Jogadores ganham medalhas por vitórias em torneios.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 140,
+        "ingles": "Championship cup",
+        "portugues": "Taça do campeonato",
+        "fraseIngles": "The championship cup is awarded annually.",
+        "frasePortugues": "A taça do campeonato é concedida anualmente.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 141,
+        "ingles": "Soccer cleaner",
+        "portugues": "Limpador de chuteiras",
+        "fraseIngles": "Clean muddy boots with soccer cleaner.",
+        "frasePortugues": "Limpe chuteiras sujas com limpador de chuteiras.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 142,
+        "ingles": "Boot bag",
+        "portugues": "Bolsa para chuteiras",
+        "fraseIngles": "Store dirty boots in a boot bag.",
+        "frasePortugues": "Guarde chuteiras sujas numa bolsa para chuteiras.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 143,
+        "ingles": "Shoe horn",
+        "portugues": "Calçador",
+        "fraseIngles": "Use a shoe horn for tight cleats.",
+        "frasePortugues": "Use um calçador para chuteiras apertadas.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 144,
+        "ingles": "Insoles",
+        "portugues": "Palmilhas",
+        "fraseIngles": "Comfortable insoles prevent blisters.",
+        "frasePortugues": "Palmilhas confortáveis previnem bolhas.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 145,
+        "ingles": "Sock tape",
+        "portugues": "Fita para meia",
+        "fraseIngles": "Secure socks with sock tape.",
+        "frasePortugues": "Fixe meias com fita para meia.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 146,
+        "ingles": "Pre-wrap",
+        "portugues": "Atadura pré-envolvimento",
+        "fraseIngles": "Apply pre-wrap before taping.",
+        "frasePortugues": "Aplique atadura pré-envolvimento antes da fita.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 147,
+        "ingles": "Athletic tape",
+        "portugues": "Fita atlética",
+        "fraseIngles": "Support injured joints with athletic tape.",
+        "frasePortugues": "Apoie articulações lesionadas com fita atlética.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 148,
+        "ingles": "Elastic bandage",
+        "portugues": "Bandagem elástica",
+        "fraseIngles": "Wrap sprains with elastic bandages.",
+        "frasePortugues": "Envolva torções com bandagens elásticas.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 149,
+        "ingles": "Compression sleeve",
+        "portugues": "Manga de compressão",
+        "fraseIngles": "Wear compression sleeves for support.",
+        "frasePortugues": "Use mangas de compressão para apoio.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 150,
+        "ingles": "Knee brace",
+        "portugues": "Joelheira",
+        "fraseIngles": "Protect weak knees with a knee brace.",
+        "frasePortugues": "Proteja joelhos fracos com uma joelheira.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 151,
+        "ingles": "Ankle brace",
+        "portugues": "Tornozeleira de apoio",
+        "fraseIngles": "Prevent ankle injuries with a brace.",
+        "frasePortugues": "Previna lesões no tornozelo com uma tornozeleira.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 152,
+        "ingles": "Mouthguard",
+        "portugues": "Protetor bucal",
+        "fraseIngles": "Some players wear mouthguards for protection.",
+        "frasePortugues": "Alguns jogadores usam protetores bucais para proteção.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 153,
+        "ingles": "Headband",
+        "portugues": "Faixa de cabeça",
+        "fraseIngles": "Keep hair out of eyes with a headband.",
+        "frasePortugues": "Mantenha cabelos longe dos olhos com uma faixa de cabeça.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 154,
+        "ingles": "Wristband",
+        "portugues": "Munhequeira",
+        "fraseIngles": "Wipe sweat with terry cloth wristbands.",
+        "frasePortugues": "Limpe suor com munhequeiras de algodão.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 155,
+        "ingles": "GPS tracker",
+        "portugues": "Rastreador GPS",
+        "fraseIngles": "Professional teams use GPS trackers.",
+        "frasePortugues": "Times profissionais usam rastreadores GPS.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 156,
+        "ingles": "Heart rate monitor",
+        "portugues": "Monitor cardíaco",
+        "fraseIngles": "Monitor training intensity with heart rate monitors.",
+        "frasePortugues": "Monitore intensidade do treino com monitores cardíacos.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    },
+    {
+        "id": 157,
+        "ingles": "Fitness tracker",
+        "portugues": "Rastreador de fitness",
+        "fraseIngles": "Track player performance with fitness trackers.",
+        "frasePortugues": "Acompanhe performance do jogador com rastreadores de fitness.",
+        "subtopico": "Futebol",
+        "topico": "Objetos"
+    }
+]

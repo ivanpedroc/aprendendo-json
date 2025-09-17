@@ -5,8 +5,8 @@
         "portugues": "Amor",
         "fraseIngles": "Parents show unconditional love to their children.",
         "frasePortugues": "Os pais demonstram amor incondicional aos filhos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 2,
@@ -14,8 +14,8 @@
         "portugues": "Carinho",
         "fraseIngles": "She shows affection by hugging her siblings.",
         "frasePortugues": "Ela demonstra carinho abraçando os irmãos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 3,
@@ -23,8 +23,8 @@
         "portugues": "Vínculo",
         "fraseIngles": "The bond between mother and child is strong.",
         "frasePortugues": "O vínculo entre mãe e filho é forte.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 4,
@@ -32,8 +32,8 @@
         "portugues": "Conexão",
         "fraseIngles": "They share a deep emotional connection.",
         "frasePortugues": "Eles compartilham uma conexão emocional profunda.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 5,
@@ -41,8 +41,8 @@
         "portugues": "Apego",
         "fraseIngles": "The baby formed an attachment to his father.",
         "frasePortugues": "O bebê desenvolveu apego ao pai.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 6,
@@ -50,8 +50,8 @@
         "portugues": "Proximidade",
         "fraseIngles": "The family enjoys their closeness.",
         "frasePortugues": "A família aprecia sua proximidade.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 7,
@@ -59,8 +59,8 @@
         "portugues": "Intimidade",
         "fraseIngles": "Family intimacy creates trust and security.",
         "frasePortugues": "Intimidade familiar cria confiança e segurança.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 8,
@@ -68,8 +68,8 @@
         "portugues": "Confiança",
         "fraseIngles": "Children need to trust their parents completely.",
         "frasePortugues": "Crianças precisam confiar completamente nos pais.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 9,
@@ -77,8 +77,8 @@
         "portugues": "Apoio",
         "fraseIngles": "Family members provide emotional support.",
         "frasePortugues": "Membros da família oferecem apoio emocional.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 10,
@@ -86,8 +86,8 @@
         "portugues": "Cuidado",
         "fraseIngles": "Grandparents show care through their actions.",
         "frasePortugues": "Avós demonstram cuidado através de suas ações.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 11,
@@ -95,8 +95,8 @@
         "portugues": "Proteção",
         "fraseIngles": "Parents offer protection to their children.",
         "frasePortugues": "Pais oferecem proteção aos filhos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 12,
@@ -104,8 +104,8 @@
         "portugues": "Segurança",
         "fraseIngles": "A stable family provides emotional security.",
         "frasePortugues": "Uma família estável oferece segurança emocional.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 13,
@@ -113,8 +113,8 @@
         "portugues": "Conforto",
         "fraseIngles": "Mothers provide comfort when children cry.",
         "frasePortugues": "Mães oferecem conforto quando crianças choram.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 14,
@@ -122,8 +122,8 @@
         "portugues": "Compreensão",
         "fraseIngles": "Siblings develop understanding over time.",
         "frasePortugues": "Irmãos desenvolvem compreensão com o tempo.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 15,
@@ -131,8 +131,8 @@
         "portugues": "Empatia",
         "fraseIngles": "Family members show empathy during difficulties.",
         "frasePortugues": "Membros da família demonstram empatia durante dificuldades.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 16,
@@ -140,8 +140,8 @@
         "portugues": "Compaixão",
         "fraseIngles": "Grandparents often show great compassion.",
         "frasePortugues": "Avós frequentemente mostram grande compaixão.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 17,
@@ -149,8 +149,8 @@
         "portugues": "Perdão",
         "fraseIngles": "Family forgiveness heals old wounds.",
         "frasePortugues": "Perdão familiar cura feridas antigas.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 18,
@@ -158,8 +158,8 @@
         "portugues": "Aceitação",
         "fraseIngles": "Parents should practice unconditional acceptance.",
         "frasePortugues": "Pais devem praticar aceitação incondicional.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 19,
@@ -167,8 +167,8 @@
         "portugues": "Respeito",
         "fraseIngles": "Children learn respect by example.",
         "frasePortugues": "Crianças aprendem respeito pelo exemplo.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 20,
@@ -176,8 +176,8 @@
         "portugues": "Lealdade",
         "fraseIngles": "Family loyalty means standing together.",
         "frasePortugues": "Lealdade familiar significa permanecer unidos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 21,
@@ -185,8 +185,8 @@
         "portugues": "Devoção",
         "fraseIngles": "Her devotion to family is admirable.",
         "frasePortugues": "Sua devoção à família é admirável.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 22,
@@ -194,8 +194,8 @@
         "portugues": "Compromisso",
         "fraseIngles": "Marriage requires long-term commitment.",
         "frasePortugues": "Casamento requer compromisso de longo prazo.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 23,
@@ -203,8 +203,8 @@
         "portugues": "Responsabilidade",
         "fraseIngles": "Parents have responsibility for their children's welfare.",
         "frasePortugues": "Pais têm responsabilidade pelo bem-estar dos filhos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 24,
@@ -212,8 +212,8 @@
         "portugues": "Dever",
         "fraseIngles": "Adult children have duty to care for aging parents.",
         "frasePortugues": "Filhos adultos têm o dever de cuidar dos pais idosos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 25,
@@ -221,8 +221,8 @@
         "portugues": "Obrigação",
         "fraseIngles": "Family obligations sometimes create stress.",
         "frasePortugues": "Obrigações familiares às vezes criam estresse.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 26,
@@ -230,8 +230,8 @@
         "portugues": "Sacrifício",
         "fraseIngles": "Parents make sacrifices for their children's future.",
         "frasePortugues": "Pais fazem sacrifícios pelo futuro dos filhos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 27,
@@ -239,8 +239,8 @@
         "portugues": "Nutrir",
         "fraseIngles": "Mothers nurture their children's growth.",
         "frasePortugues": "Mães nutrem o crescimento dos filhos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 28,
@@ -248,8 +248,8 @@
         "portugues": "Orientação",
         "fraseIngles": "Fathers provide guidance during tough times.",
         "frasePortugues": "Pais oferecem orientação durante momentos difíceis.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 29,
@@ -257,8 +257,8 @@
         "portugues": "Sabedoria",
         "fraseIngles": "Grandparents share their life wisdom.",
         "frasePortugues": "Avós compartilham sua sabedoria de vida.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 30,
@@ -266,8 +266,8 @@
         "portugues": "Conselho",
         "fraseIngles": "Older siblings often give advice.",
         "frasePortugues": "Irmãos mais velhos frequentemente dão conselhos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 31,
@@ -275,8 +275,8 @@
         "portugues": "Ensinar",
         "fraseIngles": "Parents are constantly teaching their children.",
         "frasePortugues": "Pais estão constantemente ensinando os filhos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 32,
@@ -284,8 +284,8 @@
         "portugues": "Aprender",
         "fraseIngles": "Children learn values from family interactions.",
         "frasePortugues": "Crianças aprendem valores das interações familiares.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 33,
@@ -293,8 +293,8 @@
         "portugues": "Modelo",
         "fraseIngles": "Parents serve as role models for behavior.",
         "frasePortugues": "Pais servem como modelos de comportamento.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 34,
@@ -302,8 +302,8 @@
         "portugues": "Exemplo",
         "fraseIngles": "Setting a good example influences children.",
         "frasePortugues": "Dar um bom exemplo influencia as crianças.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 35,
@@ -311,8 +311,8 @@
         "portugues": "Influência",
         "fraseIngles": "Family influence shapes personality development.",
         "frasePortugues": "Influência familiar molda o desenvolvimento da personalidade.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 36,
@@ -320,8 +320,8 @@
         "portugues": "Autoridade",
         "fraseIngles": "Parents maintain authority while showing love.",
         "frasePortugues": "Pais mantêm autoridade enquanto demonstram amor.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 37,
@@ -329,8 +329,8 @@
         "portugues": "Disciplina",
         "fraseIngles": "Consistent discipline helps children learn boundaries.",
         "frasePortugues": "Disciplina consistente ajuda crianças a aprender limites.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 38,
@@ -338,8 +338,8 @@
         "portugues": "Regras",
         "fraseIngles": "Family rules create structure and safety.",
         "frasePortugues": "Regras familiares criam estrutura e segurança.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 39,
@@ -347,8 +347,8 @@
         "portugues": "Limites",
         "fraseIngles": "Healthy families establish clear boundaries.",
         "frasePortugues": "Famílias saudáveis estabelecem limites claros.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 40,
@@ -356,8 +356,8 @@
         "portugues": "Estrutura",
         "fraseIngles": "Children thrive with family structure.",
         "frasePortugues": "Crianças prosperam com estrutura familiar.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 41,
@@ -365,8 +365,8 @@
         "portugues": "Estabilidade",
         "fraseIngles": "Family stability promotes emotional growth.",
         "frasePortugues": "Estabilidade familiar promove crescimento emocional.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 42,
@@ -374,8 +374,8 @@
         "portugues": "Consistência",
         "fraseIngles": "Parenting requires consistency in approach.",
         "frasePortugues": "Criação requer consistência na abordagem.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 43,
@@ -383,8 +383,8 @@
         "portugues": "Comunicação",
         "fraseIngles": "Open communication strengthens family bonds.",
         "frasePortugues": "Comunicação aberta fortalece vínculos familiares.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 44,
@@ -392,8 +392,8 @@
         "portugues": "Conversa",
         "fraseIngles": "Daily conversation builds relationships.",
         "frasePortugues": "Conversa diária constrói relacionamentos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 45,
@@ -401,8 +401,8 @@
         "portugues": "Discussão",
         "fraseIngles": "Family discussions solve problems together.",
         "frasePortugues": "Discussões familiares resolvem problemas juntos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 46,
@@ -410,8 +410,8 @@
         "portugues": "Diálogo",
         "fraseIngles": "Honest dialogue prevents misunderstandings.",
         "frasePortugues": "Diálogo honesto previne mal-entendidos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 47,
@@ -419,8 +419,8 @@
         "portugues": "Escutar",
         "fraseIngles": "Active listening shows family respect.",
         "frasePortugues": "Escuta ativa demonstra respeito familiar.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 48,
@@ -428,8 +428,8 @@
         "portugues": "Compartilhar",
         "fraseIngles": "Sharing experiences brings families closer.",
         "frasePortugues": "Compartilhar experiências aproxima as famílias.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 49,
@@ -437,8 +437,8 @@
         "portugues": "Abertura",
         "fraseIngles": "Family openness creates emotional safety.",
         "frasePortugues": "Abertura familiar cria segurança emocional.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 50,
@@ -446,8 +446,8 @@
         "portugues": "Honestidade",
         "fraseIngles": "Honesty builds trust within families.",
         "frasePortugues": "Honestidade constrói confiança dentro das famílias.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 51,
@@ -455,8 +455,8 @@
         "portugues": "Transparência",
         "fraseIngles": "Age-appropriate transparency helps children understand.",
         "frasePortugues": "Transparência adequada à idade ajuda crianças a entender.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 52,
@@ -464,8 +464,8 @@
         "portugues": "Expressão",
         "fraseIngles": "Healthy families encourage emotional expression.",
         "frasePortugues": "Famílias saudáveis encorajam expressão emocional.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 53,
@@ -473,8 +473,8 @@
         "portugues": "Validação",
         "fraseIngles": "Children need emotional validation from parents.",
         "frasePortugues": "Crianças precisam de validação emocional dos pais.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 54,
@@ -482,8 +482,8 @@
         "portugues": "Reconhecimento",
         "fraseIngles": "Family recognition boosts self-esteem.",
         "frasePortugues": "Reconhecimento familiar aumenta autoestima.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 55,
@@ -491,8 +491,8 @@
         "portugues": "Valorização",
         "fraseIngles": "Showing appreciation strengthens family bonds.",
         "frasePortugues": "Demonstrar valorização fortalece vínculos familiares.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 56,
@@ -500,8 +500,8 @@
         "portugues": "Gratidão",
         "fraseIngles": "Family gratitude creates positive atmosphere.",
         "frasePortugues": "Gratidão familiar cria atmosfera positiva.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 57,
@@ -509,8 +509,8 @@
         "portugues": "Encorajamento",
         "fraseIngles": "Parental encouragement builds confidence.",
         "frasePortugues": "Encorajamento dos pais constrói confiança.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 58,
@@ -518,8 +518,8 @@
         "portugues": "Motivação",
         "fraseIngles": "Family motivation helps achieve goals.",
         "frasePortugues": "Motivação familiar ajuda a alcançar objetivos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 59,
@@ -527,8 +527,8 @@
         "portugues": "Inspiração",
         "fraseIngles": "Parents can be sources of inspiration.",
         "frasePortugues": "Pais podem ser fontes de inspiração.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 60,
@@ -536,8 +536,8 @@
         "portugues": "Orgulho",
         "fraseIngles": "Parents feel pride in their children's achievements.",
         "frasePortugues": "Pais sentem orgulho nas conquistas dos filhos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 61,
@@ -545,8 +545,8 @@
         "portugues": "Alegria",
         "fraseIngles": "Family time brings joy to everyone.",
         "frasePortugues": "Tempo em família traz alegria a todos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 62,
@@ -554,8 +554,8 @@
         "portugues": "Felicidade",
         "fraseIngles": "Family happiness comes from shared experiences.",
         "frasePortugues": "Felicidade familiar vem de experiências compartilhadas.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 63,
@@ -563,8 +563,8 @@
         "portugues": "Riso",
         "fraseIngles": "Family laughter creates lasting memories.",
         "frasePortugues": "Riso familiar cria memórias duradouras.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 64,
@@ -572,8 +572,8 @@
         "portugues": "Diversão",
         "fraseIngles": "Having fun together strengthens family bonds.",
         "frasePortugues": "Se divertir juntos fortalece vínculos familiares.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 65,
@@ -581,8 +581,8 @@
         "portugues": "Brincadeira",
         "fraseIngles": "Playfulness keeps family relationships light.",
         "frasePortugues": "Brincadeira mantém relacionamentos familiares leves.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 66,
@@ -590,8 +590,8 @@
         "portugues": "Humor",
         "fraseIngles": "Family humor helps during difficult times.",
         "frasePortugues": "Humor familiar ajuda durante momentos difíceis.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 67,
@@ -599,8 +599,8 @@
         "portugues": "Celebração",
         "fraseIngles": "Family celebrations mark important milestones.",
         "frasePortugues": "Celebrações familiares marcam marcos importantes.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 68,
@@ -608,8 +608,8 @@
         "portugues": "Tradição",
         "fraseIngles": "Family traditions create sense of belonging.",
         "frasePortugues": "Tradições familiares criam senso de pertencimento.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 69,
@@ -617,8 +617,8 @@
         "portugues": "Ritual",
         "fraseIngles": "Daily rituals provide comfort and stability.",
         "frasePortugues": "Rituais diários oferecem conforto e estabilidade.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 70,
@@ -626,8 +626,8 @@
         "portugues": "Costume",
         "fraseIngles": "Each family develops its own customs.",
         "frasePortugues": "Cada família desenvolve seus próprios costumes.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 71,
@@ -635,8 +635,8 @@
         "portugues": "Herança",
         "fraseIngles": "Preserving family heritage connects generations.",
         "frasePortugues": "Preservar herança familiar conecta gerações.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 72,
@@ -644,8 +644,8 @@
         "portugues": "Legado",
         "fraseIngles": "Parents hope to leave a positive legacy.",
         "frasePortugues": "Pais esperam deixar um legado positivo.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 73,
@@ -653,8 +653,8 @@
         "portugues": "Valores",
         "fraseIngles": "Family values guide decision-making.",
         "frasePortugues": "Valores familiares orientam tomadas de decisão.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 74,
@@ -662,8 +662,8 @@
         "portugues": "Crenças",
         "fraseIngles": "Shared beliefs unite family members.",
         "frasePortugues": "Crenças compartilhadas unem membros da família.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 75,
@@ -671,8 +671,8 @@
         "portugues": "Moral",
         "fraseIngles": "Parents teach moral behavior by example.",
         "frasePortugues": "Pais ensinam comportamento moral pelo exemplo.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 76,
@@ -680,8 +680,8 @@
         "portugues": "Ética",
         "fraseIngles": "Family ethics shape character development.",
         "frasePortugues": "Ética familiar molda desenvolvimento do caráter.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 77,
@@ -689,8 +689,8 @@
         "portugues": "Princípios",
         "fraseIngles": "Strong principles guide family choices.",
         "frasePortugues": "Princípios fortes orientam escolhas familiares.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 78,
@@ -698,8 +698,8 @@
         "portugues": "Padrões",
         "fraseIngles": "Family standards set expectations for behavior.",
         "frasePortugues": "Padrões familiares estabelecem expectativas de comportamento.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 79,
@@ -707,8 +707,8 @@
         "portugues": "Expectativas",
         "fraseIngles": "Clear expectations help children succeed.",
         "frasePortugues": "Expectativas claras ajudam crianças a ter sucesso.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 80,
@@ -716,8 +716,8 @@
         "portugues": "Objetivos",
         "fraseIngles": "Families work together toward common goals.",
         "frasePortugues": "Famílias trabalham juntas em direção a objetivos comuns.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 81,
@@ -725,8 +725,8 @@
         "portugues": "Sonhos",
         "fraseIngles": "Parents support their children's dreams.",
         "frasePortugues": "Pais apoiam os sonhos dos filhos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 82,
@@ -734,8 +734,8 @@
         "portugues": "Aspirações",
         "fraseIngles": "Family aspirations motivate everyone forward.",
         "frasePortugues": "Aspirações familiares motivam todos para frente.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 83,
@@ -743,8 +743,8 @@
         "portugues": "Esperanças",
         "fraseIngles": "Parents have hopes for their children's future.",
         "frasePortugues": "Pais têm esperanças para o futuro dos filhos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 84,
@@ -752,8 +752,8 @@
         "portugues": "Desejos",
         "fraseIngles": "Children's wishes matter to loving parents.",
         "frasePortugues": "Desejos das crianças importam para pais amorosos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 85,
@@ -761,8 +761,8 @@
         "portugues": "Conflito",
         "fraseIngles": "Family conflict is normal and can be healthy.",
         "frasePortugues": "Conflito familiar é normal e pode ser saudável.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 86,
@@ -770,8 +770,8 @@
         "portugues": "Desacordo",
         "fraseIngles": "Disagreements happen in all families.",
         "frasePortugues": "Desacordos acontecem em todas as famílias.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 87,
@@ -779,8 +779,8 @@
         "portugues": "Discussão",
         "fraseIngles": "Arguments can lead to better understanding.",
         "frasePortugues": "Discussões podem levar a melhor compreensão.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 88,
@@ -788,8 +788,8 @@
         "portugues": "Briga",
         "fraseIngles": "Sibling fights are common during childhood.",
         "frasePortugues": "Brigas entre irmãos são comuns durante a infância.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 89,
@@ -797,8 +797,8 @@
         "portugues": "Tensão",
         "fraseIngles": "Family tension requires careful handling.",
         "frasePortugues": "Tensão familiar requer manuseio cuidadoso.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 90,
@@ -806,8 +806,8 @@
         "portugues": "Estresse",
         "fraseIngles": "Family stress affects everyone differently.",
         "frasePortugues": "Estresse familiar afeta todos de forma diferente.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 91,
@@ -815,8 +815,8 @@
         "portugues": "Pressão",
         "fraseIngles": "Too much pressure can damage relationships.",
         "frasePortugues": "Pressão demais pode prejudicar relacionamentos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 92,
@@ -824,8 +824,8 @@
         "portugues": "Competição",
         "fraseIngles": "Healthy competition can motivate family members.",
         "frasePortugues": "Competição saudável pode motivar membros da família.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 93,
@@ -833,8 +833,8 @@
         "portugues": "Ciúme",
         "fraseIngles": "Sibling jealousy is a normal emotion.",
         "frasePortugues": "Ciúme entre irmãos é uma emoção normal.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 94,
@@ -842,8 +842,8 @@
         "portugues": "Inveja",
         "fraseIngles": "Family envy can create lasting problems.",
         "frasePortugues": "Inveja familiar pode criar problemas duradouros.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 95,
@@ -851,8 +851,8 @@
         "portugues": "Ressentimento",
         "fraseIngles": "Unresolved issues create resentment.",
         "frasePortugues": "Questões não resolvidas criam ressentimento.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 96,
@@ -860,8 +860,8 @@
         "portugues": "Raiva",
         "fraseIngles": "Managing anger is important for families.",
         "frasePortugues": "Controlar raiva é importante para famílias.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 97,
@@ -869,8 +869,8 @@
         "portugues": "Frustração",
         "fraseIngles": "Frustration is natural in family dynamics.",
         "frasePortugues": "Frustração é natural na dinâmica familiar.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 98,
@@ -878,8 +878,8 @@
         "portugues": "Decepção",
         "fraseIngles": "Disappointment is part of family life.",
         "frasePortugues": "Decepção faz parte da vida familiar.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 99,
@@ -887,8 +887,8 @@
         "portugues": "Sentimentos feridos",
         "fraseIngles": "Hurt feelings need acknowledgment and healing.",
         "frasePortugues": "Sentimentos feridos precisam de reconhecimento e cura.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 100,
@@ -896,8 +896,8 @@
         "portugues": "Mal-entendido",
         "fraseIngles": "Misunderstandings can be cleared up with communication.",
         "frasePortugues": "Mal-entendidos podem ser esclarecidos com comunicação.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 101,
@@ -905,8 +905,8 @@
         "portugues": "Resolução",
         "fraseIngles": "Conflict resolution strengthens family bonds.",
         "frasePortugues": "Resolução de conflitos fortalece vínculos familiares.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 102,
@@ -914,8 +914,8 @@
         "portugues": "Compromisso",
         "fraseIngles": "Family compromise requires flexibility.",
         "frasePortugues": "Compromisso familiar requer flexibilidade.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 103,
@@ -923,8 +923,8 @@
         "portugues": "Negociação",
         "fraseIngles": "Family negotiation teaches valuable skills.",
         "frasePortugues": "Negociação familiar ensina habilidades valiosas.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 104,
@@ -932,8 +932,8 @@
         "portugues": "Mediação",
         "fraseIngles": "Sometimes families need outside mediation.",
         "frasePortugues": "Às vezes famílias precisam de mediação externa.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 105,
@@ -941,8 +941,8 @@
         "portugues": "Paz",
         "fraseIngles": "Making peace is essential for family harmony.",
         "frasePortugues": "Fazer as pazes é essencial para harmonia familiar.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 106,
@@ -950,8 +950,8 @@
         "portugues": "Harmonia",
         "fraseIngles": "Family harmony creates a pleasant home environment.",
         "frasePortugues": "Harmonia familiar cria um ambiente doméstico agradável.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 107,
@@ -959,8 +959,8 @@
         "portugues": "Equilíbrio",
         "fraseIngles": "Healthy families maintain balance in relationships.",
         "frasePortugues": "Famílias saudáveis mantêm equilíbrio nos relacionamentos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 108,
@@ -968,8 +968,8 @@
         "portugues": "Cooperação",
         "fraseIngles": "Family cooperation makes household tasks easier.",
         "frasePortugues": "Cooperação familiar torna tarefas domésticas mais fáceis.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 109,
@@ -977,8 +977,8 @@
         "portugues": "Trabalho em equipe",
         "fraseIngles": "Families function best with good teamwork.",
         "frasePortugues": "Famílias funcionam melhor com bom trabalho em equipe.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 110,
@@ -986,8 +986,8 @@
         "portugues": "Unidade",
         "fraseIngles": "Family unity helps overcome challenges.",
         "frasePortugues": "Unidade familiar ajuda a superar desafios.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 111,
@@ -995,8 +995,8 @@
         "portugues": "Solidariedade",
         "fraseIngles": "Family solidarity provides strength during crises.",
         "frasePortugues": "Solidariedade familiar oferece força durante crises.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 112,
@@ -1004,8 +1004,8 @@
         "portugues": "Aliança",
         "fraseIngles": "Siblings sometimes form alliances against parents.",
         "frasePortugues": "Irmãos às vezes formam alianças contra os pais.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 113,
@@ -1013,8 +1013,8 @@
         "portugues": "Parceria",
         "fraseIngles": "Marriage is a partnership requiring effort.",
         "frasePortugues": "Casamento é uma parceria que requer esforço.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 114,
@@ -1022,8 +1022,8 @@
         "portugues": "Colaboração",
         "fraseIngles": "Family collaboration achieves better results.",
         "frasePortugues": "Colaboração familiar alcança melhores resultados.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 115,
@@ -1031,8 +1031,8 @@
         "portugues": "Interdependência",
         "fraseIngles": "Healthy families show appropriate interdependence.",
         "frasePortugues": "Famílias saudáveis mostram interdependência apropriada.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 116,
@@ -1040,8 +1040,8 @@
         "portugues": "Independência",
         "fraseIngles": "Growing children need increasing independence.",
         "frasePortugues": "Crianças em crescimento precisam de independência crescente.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 117,
@@ -1049,8 +1049,8 @@
         "portugues": "Autonomia",
         "fraseIngles": "Teenagers seek greater autonomy from parents.",
         "frasePortugues": "Adolescentes buscam maior autonomia dos pais.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 118,
@@ -1058,8 +1058,8 @@
         "portugues": "Liberdade",
         "fraseIngles": "Children gradually earn more freedom.",
         "frasePortugues": "Crianças gradualmente conquistam mais liberdade.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 119,
@@ -1067,8 +1067,8 @@
         "portugues": "Privacidade",
         "fraseIngles": "Respecting privacy maintains family harmony.",
         "frasePortugues": "Respeitar privacidade mantém harmonia familiar.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 120,
@@ -1076,8 +1076,8 @@
         "portugues": "Espaço",
         "fraseIngles": "Everyone needs personal space within families.",
         "frasePortugues": "Todos precisam de espaço pessoal dentro das famílias.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 121,
@@ -1085,8 +1085,8 @@
         "portugues": "Distância",
         "fraseIngles": "Sometimes families need healthy distance.",
         "frasePortugues": "Às vezes famílias precisam de distância saudável.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 122,
@@ -1094,8 +1094,8 @@
         "portugues": "Separação",
         "fraseIngles": "Temporary separation can strengthen relationships.",
         "frasePortugues": "Separação temporária pode fortalecer relacionamentos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 123,
@@ -1103,8 +1103,8 @@
         "portugues": "Reencontro",
         "fraseIngles": "Family reunions celebrate relationships.",
         "frasePortugues": "Reencontros familiares celebram relacionamentos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 124,
@@ -1112,8 +1112,8 @@
         "portugues": "Reconciliação",
         "fraseIngles": "Reconciliation heals damaged family relationships.",
         "frasePortugues": "Reconciliação cura relacionamentos familiares danificados.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 125,
@@ -1121,8 +1121,8 @@
         "portugues": "Cura",
         "fraseIngles": "Family healing takes time and effort.",
         "frasePortugues": "Cura familiar leva tempo e esforço.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 126,
@@ -1130,8 +1130,8 @@
         "portugues": "Recuperação",
         "fraseIngles": "Recovery from family trauma requires support.",
         "frasePortugues": "Recuperação de trauma familiar requer apoio.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 127,
@@ -1139,8 +1139,8 @@
         "portugues": "Crescimento",
         "fraseIngles": "Family relationships require continuous growth.",
         "frasePortugues": "Relacionamentos familiares requerem crescimento contínuo.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 128,
@@ -1148,8 +1148,8 @@
         "portugues": "Desenvolvimento",
         "fraseIngles": "Family development happens throughout life.",
         "frasePortugues": "Desenvolvimento familiar acontece ao longo da vida.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 129,
@@ -1157,8 +1157,8 @@
         "portugues": "Evolução",
         "fraseIngles": "Family relationships evolve over time.",
         "frasePortugues": "Relacionamentos familiares evoluem com o tempo.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 130,
@@ -1166,8 +1166,8 @@
         "portugues": "Mudança",
         "fraseIngles": "Family change is inevitable and necessary.",
         "frasePortugues": "Mudança familiar é inevitável e necessária.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 131,
@@ -1175,8 +1175,8 @@
         "portugues": "Adaptação",
         "fraseIngles": "Families must adapt to new circumstances.",
         "frasePortugues": "Famílias devem se adaptar a novas circunstâncias.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 132,
@@ -1184,8 +1184,8 @@
         "portugues": "Ajuste",
         "fraseIngles": "Family adjustment periods require patience.",
         "frasePortugues": "Períodos de ajuste familiar requerem paciência.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 133,
@@ -1193,8 +1193,8 @@
         "portugues": "Transição",
         "fraseIngles": "Life transitions affect entire families.",
         "frasePortugues": "Transições da vida afetam famílias inteiras.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 134,
@@ -1202,8 +1202,8 @@
         "portugues": "Crise",
         "fraseIngles": "Family crisis can strengthen or weaken bonds.",
         "frasePortugues": "Crise familiar pode fortalecer ou enfraquecer vínculos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 135,
@@ -1211,8 +1211,8 @@
         "portugues": "Desafio",
         "fraseIngles": "Every family faces unique challenges.",
         "frasePortugues": "Toda família enfrenta desafios únicos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 136,
@@ -1220,8 +1220,8 @@
         "portugues": "Dificuldade",
         "fraseIngles": "Overcoming difficulty together builds strength.",
         "frasePortugues": "Superar dificuldades juntos constrói força.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 137,
@@ -1229,8 +1229,8 @@
         "portugues": "Problema",
         "fraseIngles": "Solving problems together improves relationships.",
         "frasePortugues": "Resolver problemas juntos melhora relacionamentos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 138,
@@ -1238,8 +1238,8 @@
         "portugues": "Solução",
         "fraseIngles": "Family solutions work best when everyone participates.",
         "frasePortugues": "Soluções familiares funcionam melhor quando todos participam.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 139,
@@ -1247,8 +1247,8 @@
         "portugues": "Ajuda",
         "fraseIngles": "Family members help each other naturally.",
         "frasePortugues": "Membros da família se ajudam naturalmente.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 140,
@@ -1256,8 +1256,8 @@
         "portugues": "Assistência",
         "fraseIngles": "Providing assistance shows family care.",
         "frasePortugues": "Oferecer assistência demonstra cuidado familiar.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 141,
@@ -1265,8 +1265,8 @@
         "portugues": "Auxílio",
         "fraseIngles": "Family aid comes without conditions.",
         "frasePortugues": "Auxílio familiar vem sem condições.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 142,
@@ -1274,8 +1274,8 @@
         "portugues": "Alívio",
         "fraseIngles": "Emotional relief comes from family support.",
         "frasePortugues": "Alívio emocional vem do apoio familiar.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 143,
@@ -1283,8 +1283,8 @@
         "portugues": "Zona de conforto",
         "fraseIngles": "Families provide each member's comfort zone.",
         "frasePortugues": "Famílias oferecem zona de conforto para cada membro.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 144,
@@ -1292,8 +1292,8 @@
         "portugues": "Porto seguro",
         "fraseIngles": "Home serves as a safe haven.",
         "frasePortugues": "Casa serve como porto seguro.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 145,
@@ -1301,8 +1301,8 @@
         "portugues": "Refúgio",
         "fraseIngles": "Family provides refuge from outside pressures.",
         "frasePortugues": "Família oferece refúgio das pressões externas.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 146,
@@ -1310,8 +1310,8 @@
         "portugues": "Abrigo",
         "fraseIngles": "Emotional shelter helps weather life's storms.",
         "frasePortugues": "Abrigo emocional ajuda a enfrentar tempestades da vida.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 147,
@@ -1319,8 +1319,8 @@
         "portugues": "Fundação",
         "fraseIngles": "Strong families provide life's foundation.",
         "frasePortugues": "Famílias fortes oferecem a fundação da vida.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 148,
@@ -1328,8 +1328,8 @@
         "portugues": "Pedra angular",
         "fraseIngles": "Family relationships are life's cornerstone.",
         "frasePortugues": "Relacionamentos familiares são a pedra angular da vida.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 149,
@@ -1337,8 +1337,8 @@
         "portugues": "Âncora",
         "fraseIngles": "Family serves as life's anchor.",
         "frasePortugues": "Família serve como âncora da vida.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 150,
@@ -1346,8 +1346,8 @@
         "portugues": "Rocha",
         "fraseIngles": "Parents are often the family rock.",
         "frasePortugues": "Pais frequentemente são a rocha da família.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 151,
@@ -1355,8 +1355,8 @@
         "portugues": "Força",
         "fraseIngles": "Family strength comes from unity.",
         "frasePortugues": "Força familiar vem da unidade.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 152,
@@ -1364,8 +1364,8 @@
         "portugues": "Fraqueza",
         "fraseIngles": "Acknowledging weakness helps families grow.",
         "frasePortugues": "Reconhecer fraqueza ajuda famílias a crescer.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 153,
@@ -1373,8 +1373,8 @@
         "portugues": "Vulnerabilidade",
         "fraseIngles": "Showing vulnerability builds deeper connections.",
         "frasePortugues": "Mostrar vulnerabilidade constrói conexões mais profundas.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 154,
@@ -1382,8 +1382,8 @@
         "portugues": "Resistência",
         "fraseIngles": "Family resilience helps overcome adversity.",
         "frasePortugues": "Resistência familiar ajuda a superar adversidades.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 155,
@@ -1391,8 +1391,8 @@
         "portugues": "Resistência",
         "fraseIngles": "Long-term relationships require endurance.",
         "frasePortugues": "Relacionamentos de longo prazo requerem resistência.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 156,
@@ -1400,8 +1400,8 @@
         "portugues": "Perseverança",
         "fraseIngles": "Family perseverance pays off eventually.",
         "frasePortugues": "Perseverança familiar compensa eventualmente.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 157,
@@ -1409,8 +1409,8 @@
         "portugues": "Paciência",
         "fraseIngles": "Raising children requires enormous patience.",
         "frasePortugues": "Criar filhos requer paciência enorme.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 158,
@@ -1418,8 +1418,8 @@
         "portugues": "Tolerância",
         "fraseIngles": "Family tolerance accepts individual differences.",
         "frasePortugues": "Tolerância familiar aceita diferenças individuais.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 159,
@@ -1427,8 +1427,8 @@
         "portugues": "Flexibilidade",
         "fraseIngles": "Successful families show great flexibility.",
         "frasePortugues": "Famílias bem-sucedidas mostram grande flexibilidade.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 160,
@@ -1436,8 +1436,8 @@
         "portugues": "Adaptabilidade",
         "fraseIngles": "Family adaptability helps navigate changes.",
         "frasePortugues": "Adaptabilidade familiar ajuda a navegar mudanças.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 161,
@@ -1445,8 +1445,8 @@
         "portugues": "Abertura à mudança",
         "fraseIngles": "Openness to change keeps families healthy.",
         "frasePortugues": "Abertura à mudança mantém famílias saudáveis.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 162,
@@ -1454,8 +1454,8 @@
         "portugues": "Tradição vs. inovação",
         "fraseIngles": "Balancing tradition with innovation challenges families.",
         "frasePortugues": "Equilibrar tradição com inovação desafia famílias.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 163,
@@ -1463,8 +1463,8 @@
         "portugues": "Diferenças geracionais",
         "fraseIngles": "Generational differences can create family tension.",
         "frasePortugues": "Diferenças geracionais podem criar tensão familiar.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 164,
@@ -1472,8 +1472,8 @@
         "portugues": "Valores culturais",
         "fraseIngles": "Cultural values influence family dynamics.",
         "frasePortugues": "Valores culturais influenciam dinâmicas familiares.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 165,
@@ -1481,8 +1481,8 @@
         "portugues": "Crenças religiosas",
         "fraseIngles": "Religious beliefs often guide family decisions.",
         "frasePortugues": "Crenças religiosas frequentemente orientam decisões familiares.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 166,
@@ -1490,8 +1490,8 @@
         "portugues": "Conexão espiritual",
         "fraseIngles": "Spiritual connection can unite families.",
         "frasePortugues": "Conexão espiritual pode unir famílias.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 167,
@@ -1499,8 +1499,8 @@
         "portugues": "Orientação moral",
         "fraseIngles": "Parents provide essential moral guidance.",
         "frasePortugues": "Pais oferecem orientação moral essencial.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 168,
@@ -1508,8 +1508,8 @@
         "portugues": "Formação de caráter",
         "fraseIngles": "Family interactions build character.",
         "frasePortugues": "Interações familiares constroem caráter.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 169,
@@ -1517,8 +1517,8 @@
         "portugues": "Desenvolvimento de personalidade",
         "fraseIngles": "Family environment shapes personality development.",
         "frasePortugues": "Ambiente familiar molda desenvolvimento de personalidade.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 170,
@@ -1526,8 +1526,8 @@
         "portugues": "Formação de identidade",
         "fraseIngles": "Family helps with healthy identity formation.",
         "frasePortugues": "Família ajuda com formação saudável de identidade.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 171,
@@ -1535,8 +1535,8 @@
         "portugues": "Autoestima",
         "fraseIngles": "Family support builds healthy self-esteem.",
         "frasePortugues": "Apoio familiar constrói autoestima saudável.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 172,
@@ -1544,8 +1544,8 @@
         "portugues": "Confiança",
         "fraseIngles": "Parental encouragement builds confidence.",
         "frasePortugues": "Encorajamento dos pais constrói confiança.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 173,
@@ -1553,8 +1553,8 @@
         "portugues": "Valor próprio",
         "fraseIngles": "Children learn self-worth from family treatment.",
         "frasePortugues": "Crianças aprendem valor próprio do tratamento familiar.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 174,
@@ -1562,8 +1562,8 @@
         "portugues": "Pertencimento",
         "fraseIngles": "Sense of belonging comes from family acceptance.",
         "frasePortugues": "Senso de pertencimento vem da aceitação familiar.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 175,
@@ -1571,8 +1571,8 @@
         "portugues": "Aceitação",
         "fraseIngles": "Unconditional acceptance fosters healthy development.",
         "frasePortugues": "Aceitação incondicional promove desenvolvimento saudável.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 176,
@@ -1580,8 +1580,8 @@
         "portugues": "Inclusão",
         "fraseIngles": "Family inclusion makes everyone feel valued.",
         "frasePortugues": "Inclusão familiar faz todos se sentirem valorizados.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 177,
@@ -1589,8 +1589,8 @@
         "portugues": "Exclusão",
         "fraseIngles": "Family exclusion can cause lasting damage.",
         "frasePortugues": "Exclusão familiar pode causar danos duradouros.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 178,
@@ -1598,8 +1598,8 @@
         "portugues": "Favoritismo",
         "fraseIngles": "Parental favoritism creates sibling rivalry.",
         "frasePortugues": "Favoritismo dos pais cria rivalidade entre irmãos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 179,
@@ -1607,8 +1607,8 @@
         "portugues": "Igualdade",
         "fraseIngles": "Fair treatment promotes family equality.",
         "frasePortugues": "Tratamento justo promove igualdade familiar.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 180,
@@ -1616,8 +1616,8 @@
         "portugues": "Justiça",
         "fraseIngles": "Children have a strong sense of fairness.",
         "frasePortugues": "Crianças têm um forte senso de justiça.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 181,
@@ -1625,8 +1625,8 @@
         "portugues": "Justiça",
         "fraseIngles": "Family justice means fair treatment for all.",
         "frasePortugues": "Justiça familiar significa tratamento justo para todos.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 182,
@@ -1634,8 +1634,8 @@
         "portugues": "Consistência no tratamento",
         "fraseIngles": "Consistency in treatment prevents resentment.",
         "frasePortugues": "Consistência no tratamento previne ressentimento.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 183,
@@ -1643,8 +1643,8 @@
         "portugues": "Atenção individual",
         "fraseIngles": "Each child needs individual attention.",
         "frasePortugues": "Cada criança precisa de atenção individual.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 184,
@@ -1652,8 +1652,8 @@
         "portugues": "Tempo de qualidade",
         "fraseIngles": "Quality time strengthens family relationships.",
         "frasePortugues": "Tempo de qualidade fortalece relacionamentos familiares.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 185,
@@ -1661,8 +1661,8 @@
         "portugues": "Presença",
         "fraseIngles": "Physical and emotional presence matters.",
         "frasePortugues": "Presença física e emocional importa.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 186,
@@ -1670,8 +1670,8 @@
         "portugues": "Disponibilidade",
         "fraseIngles": "Parental availability reassures children.",
         "frasePortugues": "Disponibilidade dos pais tranquiliza crianças.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 187,
@@ -1679,8 +1679,8 @@
         "portugues": "Acessibilidade",
         "fraseIngles": "Being accessible shows family commitment.",
         "frasePortugues": "Ser acessível mostra compromisso familiar.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 188,
@@ -1688,8 +1688,8 @@
         "portugues": "Capacidade de resposta",
         "fraseIngles": "Emotional responsiveness builds secure attachments.",
         "frasePortugues": "Capacidade de resposta emocional constrói vínculos seguros.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 189,
@@ -1697,8 +1697,8 @@
         "portugues": "Sintonia",
         "fraseIngles": "Parental attunement helps children feel understood.",
         "frasePortugues": "Sintonia dos pais ajuda crianças a se sentirem compreendidas.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 190,
@@ -1706,8 +1706,8 @@
         "portugues": "Sensibilidade",
         "fraseIngles": "Family sensitivity to emotions creates safety.",
         "frasePortugues": "Sensibilidade familiar às emoções cria segurança.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 191,
@@ -1715,8 +1715,8 @@
         "portugues": "Consciência",
         "fraseIngles": "Emotional awareness improves family dynamics.",
         "frasePortugues": "Consciência emocional melhora dinâmicas familiares.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 192,
@@ -1724,8 +1724,8 @@
         "portugues": "Atenção plena",
         "fraseIngles": "Practicing mindfulness improves family connections.",
         "frasePortugues": "Praticar atenção plena melhora conexões familiares.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     },
     {
         "id": 193,
@@ -1733,7 +1733,7 @@
         "portugues": "Intencionalidade",
         "fraseIngles": "Intentional parenting creates better outcomes.",
         "frasePortugues": "Criação intencional cria melhores resultados.",
-        "subtopico": "Relações",
-        "topico": "Família"
+        "subtopico": "Relação,",
+        "topico": "Objetos"
     }
 ]
