@@ -1,0 +1,1244 @@
+[
+    {
+        "id": 1,
+        "ingles": "Circle",
+        "portugues": "Círculo",
+        "fraseIngles": "The clock face is a perfect circle.",
+        "frasePortugues": "O mostrador do relógio é um círculo perfeito.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 2,
+        "ingles": "Square",
+        "portugues": "Quadrado",
+        "fraseIngles": "The window has a square shape.",
+        "frasePortugues": "A janela tem formato quadrado.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 3,
+        "ingles": "Triangle",
+        "portugues": "Triângulo",
+        "fraseIngles": "The roof forms a triangle.",
+        "frasePortugues": "O telhado forma um triângulo.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 4,
+        "ingles": "Rectangle",
+        "portugues": "Retângulo",
+        "fraseIngles": "Books are usually rectangle shaped.",
+        "frasePortugues": "Livros geralmente têm formato retangular.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 5,
+        "ingles": "Diamond",
+        "portugues": "Losango",
+        "fraseIngles": "The kite has a diamond shape.",
+        "frasePortugues": "A pipa tem formato de losango.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 6,
+        "ingles": "Oval",
+        "portugues": "Oval",
+        "fraseIngles": "Eggs have an oval shape.",
+        "frasePortugues": "Os ovos têm formato oval.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 7,
+        "ingles": "Sphere",
+        "portugues": "Esfera",
+        "fraseIngles": "A ball is a perfect sphere.",
+        "frasePortugues": "Uma bola é uma esfera perfeita.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 8,
+        "ingles": "Cube",
+        "portugues": "Cubo",
+        "fraseIngles": "Dice are small cubes.",
+        "frasePortugues": "Dados são pequenos cubos.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 9,
+        "ingles": "Cylinder",
+        "portugues": "Cilindro",
+        "fraseIngles": "Cans have a cylinder shape.",
+        "frasePortugues": "Latas têm formato de cilindro.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 10,
+        "ingles": "Cone",
+        "portugues": "Cone",
+        "fraseIngles": "Ice cream cones are cone shaped.",
+        "frasePortugues": "Casquinhas de sorvete têm formato de cone.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 11,
+        "ingles": "Pyramid",
+        "portugues": "Pirâmide",
+        "fraseIngles": "Egyptian pyramids are triangular.",
+        "frasePortugues": "Pirâmides egípcias são triangulares.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 12,
+        "ingles": "Hexagon",
+        "portugues": "Hexágono",
+        "fraseIngles": "Honeycomb cells are hexagons.",
+        "frasePortugues": "Células de favo são hexágonos.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 13,
+        "ingles": "Pentagon",
+        "portugues": "Pentágono",
+        "fraseIngles": "The building has a pentagon shape.",
+        "frasePortugues": "O prédio tem formato de pentágono.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 14,
+        "ingles": "Octagon",
+        "portugues": "Octágono",
+        "fraseIngles": "Stop signs are octagon shaped.",
+        "frasePortugues": "Placas de pare têm formato octogonal.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 15,
+        "ingles": "Star",
+        "portugues": "Estrela",
+        "fraseIngles": "The badge has a star shape.",
+        "frasePortugues": "O distintivo tem formato de estrela.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 16,
+        "ingles": "Heart",
+        "portugues": "Coração",
+        "fraseIngles": "Valentine cards show heart shapes.",
+        "frasePortugues": "Cartões do Dia dos Namorados mostram formato de coração.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 17,
+        "ingles": "Crescent",
+        "portugues": "Crescente",
+        "fraseIngles": "The moon shows a crescent shape.",
+        "frasePortugues": "A lua mostra formato crescente.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 18,
+        "ingles": "Arrow",
+        "portugues": "Seta",
+        "fraseIngles": "The sign has an arrow shape.",
+        "frasePortugues": "A placa tem formato de seta.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 19,
+        "ingles": "Cross",
+        "portugues": "Cruz",
+        "fraseIngles": "The church has a cross shape.",
+        "frasePortugues": "A igreja tem formato de cruz.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 20,
+        "ingles": "Plus",
+        "portugues": "Mais",
+        "fraseIngles": "The symbol has a plus shape.",
+        "frasePortugues": "O símbolo tem formato de mais.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 21,
+        "ingles": "Minus",
+        "portugues": "Menos",
+        "fraseIngles": "Draw a minus shape on paper.",
+        "frasePortugues": "Desenhe um formato de menos no papel.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 22,
+        "ingles": "Line",
+        "portugues": "Linha",
+        "fraseIngles": "Draw a straight line here.",
+        "frasePortugues": "Desenhe uma linha reta aqui.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 23,
+        "ingles": "Curve",
+        "portugues": "Curva",
+        "fraseIngles": "The road has a gentle curve.",
+        "frasePortugues": "A estrada tem uma curva suave.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 24,
+        "ingles": "Spiral",
+        "portugues": "Espiral",
+        "fraseIngles": "Seashells often have spiral shapes.",
+        "frasePortugues": "Conchas frequentemente têm formatos espirais.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 25,
+        "ingles": "Zigzag",
+        "portugues": "Zigue-zague",
+        "fraseIngles": "Lightning has a zigzag pattern.",
+        "frasePortugues": "O raio tem padrão zigue-zague.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 26,
+        "ingles": "Wave",
+        "portugues": "Onda",
+        "fraseIngles": "The fabric has a wave pattern.",
+        "frasePortugues": "O tecido tem padrão ondulado.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 27,
+        "ingles": "Round",
+        "portugues": "Redondo",
+        "fraseIngles": "The table has a round top.",
+        "frasePortugues": "A mesa tem tampo redondo.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 28,
+        "ingles": "Flat",
+        "portugues": "Plano",
+        "fraseIngles": "The board is completely flat.",
+        "frasePortugues": "A tábua é completamente plana.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 29,
+        "ingles": "Curved",
+        "portugues": "Curvado",
+        "fraseIngles": "The bridge has a curved design.",
+        "frasePortugues": "A ponte tem design curvado.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 30,
+        "ingles": "Straight",
+        "portugues": "Reto",
+        "fraseIngles": "The ruler has straight edges.",
+        "frasePortugues": "A régua tem bordas retas.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 31,
+        "ingles": "Sharp",
+        "portugues": "Pontudo",
+        "fraseIngles": "The knife has a sharp point.",
+        "frasePortugues": "A faca tem ponta pontuda.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 32,
+        "ingles": "Blunt",
+        "portugues": "Cego",
+        "fraseIngles": "The pencil has a blunt tip.",
+        "frasePortugues": "O lápis tem ponta cega.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 33,
+        "ingles": "Pointed",
+        "portugues": "Pontudo",
+        "fraseIngles": "The church steeple is pointed.",
+        "frasePortugues": "A torre da igreja é pontuda.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 34,
+        "ingles": "Rounded",
+        "portugues": "Arredondado",
+        "fraseIngles": "The stone has rounded edges.",
+        "frasePortugues": "A pedra tem bordas arredondadas.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 35,
+        "ingles": "Angular",
+        "portugues": "Angular",
+        "fraseIngles": "The building has angular features.",
+        "frasePortugues": "O prédio tem características angulares.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 36,
+        "ingles": "Smooth",
+        "portugues": "Liso",
+        "fraseIngles": "The glass surface is smooth.",
+        "frasePortugues": "A superfície do vidro é lisa.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 37,
+        "ingles": "Rough",
+        "portugues": "Áspero",
+        "fraseIngles": "Tree bark feels rough.",
+        "frasePortugues": "A casca da árvore é áspera.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 38,
+        "ingles": "Bumpy",
+        "portugues": "Irregular",
+        "fraseIngles": "The old road is bumpy.",
+        "frasePortugues": "A estrada velha é irregular.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 39,
+        "ingles": "Ribbed",
+        "portugues": "Ranhurado",
+        "fraseIngles": "The coin has ribbed edges.",
+        "frasePortugues": "A moeda tem bordas ranhuradas.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 40,
+        "ingles": "Grooved",
+        "portugues": "Sulcado",
+        "fraseIngles": "The record has grooved surfaces.",
+        "frasePortugues": "O disco tem superfícies sulcadas.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 41,
+        "ingles": "Ridged",
+        "portugues": "Com cristas",
+        "fraseIngles": "Potato chips are ridged.",
+        "frasePortugues": "Batatas fritas têm cristas.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 42,
+        "ingles": "Textured",
+        "portugues": "Texturizado",
+        "fraseIngles": "The wall has a textured finish.",
+        "frasePortugues": "A parede tem acabamento texturizado.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 43,
+        "ingles": "Patterned",
+        "portugues": "Padronizado",
+        "fraseIngles": "The carpet has a patterned design.",
+        "frasePortugues": "O tapete tem design padronizado.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 44,
+        "ingles": "Striped",
+        "portugues": "Listrado",
+        "fraseIngles": "The shirt has a striped pattern.",
+        "frasePortugues": "A camisa tem padrão listrado.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 45,
+        "ingles": "Spotted",
+        "portugues": "Pintalgado",
+        "fraseIngles": "The dog has a spotted coat.",
+        "frasePortugues": "O cachorro tem pelo pintalgado.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 46,
+        "ingles": "Checkered",
+        "portugues": "Xadrez",
+        "fraseIngles": "The flag has a checkered pattern.",
+        "frasePortugues": "A bandeira tem padrão xadrez.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 47,
+        "ingles": "Solid",
+        "portugues": "Sólido",
+        "fraseIngles": "The door is made of solid wood.",
+        "frasePortugues": "A porta é feita de madeira sólida.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 48,
+        "ingles": "Hollow",
+        "portugues": "Oco",
+        "fraseIngles": "The pipe is hollow inside.",
+        "frasePortugues": "O cano é oco por dentro.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 49,
+        "ingles": "Thick",
+        "portugues": "Grosso",
+        "fraseIngles": "The book has thick covers.",
+        "frasePortugues": "O livro tem capas grossas.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 50,
+        "ingles": "Thin",
+        "portugues": "Fino",
+        "fraseIngles": "Paper is very thin.",
+        "frasePortugues": "Papel é muito fino.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 51,
+        "ingles": "Wide",
+        "portugues": "Largo",
+        "fraseIngles": "The river is wide here.",
+        "frasePortugues": "O rio é largo aqui.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 52,
+        "ingles": "Narrow",
+        "portugues": "Estreito",
+        "fraseIngles": "The hallway is narrow.",
+        "frasePortugues": "O corredor é estreito.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 53,
+        "ingles": "Long",
+        "portugues": "Comprido",
+        "fraseIngles": "The rope is very long.",
+        "frasePortugues": "A corda é muito comprida.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 54,
+        "ingles": "Short",
+        "portugues": "Curto",
+        "fraseIngles": "The pencil is short.",
+        "frasePortugues": "O lápis é curto.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 55,
+        "ingles": "Tall",
+        "portugues": "Alto",
+        "fraseIngles": "The building is tall.",
+        "frasePortugues": "O prédio é alto.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 56,
+        "ingles": "Low",
+        "portugues": "Baixo",
+        "fraseIngles": "The fence is low.",
+        "frasePortugues": "A cerca é baixa.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 57,
+        "ingles": "High",
+        "portugues": "Alto",
+        "fraseIngles": "The mountain is high.",
+        "frasePortugues": "A montanha é alta.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 58,
+        "ingles": "Deep",
+        "portugues": "Profundo",
+        "fraseIngles": "The well is very deep.",
+        "frasePortugues": "O poço é muito profundo.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 59,
+        "ingles": "Shallow",
+        "portugues": "Raso",
+        "fraseIngles": "The puddle is shallow.",
+        "frasePortugues": "A poça é rasa.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 60,
+        "ingles": "Big",
+        "portugues": "Grande",
+        "fraseIngles": "The elephant is big.",
+        "frasePortugues": "O elefante é grande.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 61,
+        "ingles": "Small",
+        "portugues": "Pequeno",
+        "fraseIngles": "The ant is small.",
+        "frasePortugues": "A formiga é pequena.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 62,
+        "ingles": "Large",
+        "portugues": "Grande",
+        "fraseIngles": "The house is large.",
+        "frasePortugues": "A casa é grande.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 63,
+        "ingles": "Tiny",
+        "portugues": "Minúsculo",
+        "fraseIngles": "The seed is tiny.",
+        "frasePortugues": "A semente é minúscula.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 64,
+        "ingles": "Huge",
+        "portugues": "Enorme",
+        "fraseIngles": "The whale is huge.",
+        "frasePortugues": "A baleia é enorme.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 65,
+        "ingles": "Enormous",
+        "portugues": "Enorme",
+        "fraseIngles": "The tree is enormous.",
+        "frasePortugues": "A árvore é enorme.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 66,
+        "ingles": "Massive",
+        "portugues": "Maciço",
+        "fraseIngles": "The rock is massive.",
+        "frasePortugues": "A rocha é maciça.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 67,
+        "ingles": "Miniature",
+        "portugues": "Miniatura",
+        "fraseIngles": "The toy car is miniature.",
+        "frasePortugues": "O carrinho de brinquedo é miniatura.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 68,
+        "ingles": "Giant",
+        "portugues": "Gigante",
+        "fraseIngles": "The statue is giant sized.",
+        "frasePortugues": "A estátua tem tamanho gigante.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 69,
+        "ingles": "Regular",
+        "portugues": "Normal",
+        "fraseIngles": "This is a regular size box.",
+        "frasePortugues": "Esta é uma caixa de tamanho normal.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 70,
+        "ingles": "Standard",
+        "portugues": "Padrão",
+        "fraseIngles": "Use standard size paper.",
+        "frasePortugues": "Use papel tamanho padrão.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 71,
+        "ingles": "Custom",
+        "portugues": "Personalizado",
+        "fraseIngles": "The frame is custom made.",
+        "frasePortugues": "A moldura é personalizada.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 72,
+        "ingles": "Uniform",
+        "portugues": "Uniforme",
+        "fraseIngles": "The tiles are uniform in size.",
+        "frasePortugues": "As peças são uniformes em tamanho.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 73,
+        "ingles": "Irregular",
+        "portugues": "Irregular",
+        "fraseIngles": "The stone has irregular shape.",
+        "frasePortugues": "A pedra tem formato irregular.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 74,
+        "ingles": "Symmetrical",
+        "portugues": "Simétrico",
+        "fraseIngles": "The butterfly is symmetrical.",
+        "frasePortugues": "A borboleta é simétrica.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 75,
+        "ingles": "Asymmetrical",
+        "portugues": "Assimétrico",
+        "fraseIngles": "The design is asymmetrical.",
+        "frasePortugues": "O design é assimétrico.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 76,
+        "ingles": "Balanced",
+        "portugues": "Equilibrado",
+        "fraseIngles": "The composition is balanced.",
+        "frasePortugues": "A composição é equilibrada.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 77,
+        "ingles": "Unbalanced",
+        "portugues": "Desequilibrado",
+        "fraseIngles": "The load is unbalanced.",
+        "frasePortugues": "A carga está desequilibrada.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 78,
+        "ingles": "Proportional",
+        "portugues": "Proporcional",
+        "fraseIngles": "The drawing is proportional.",
+        "frasePortugues": "O desenho é proporcional.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 79,
+        "ingles": "Disproportionate",
+        "portugues": "Desproporcional",
+        "fraseIngles": "The head looks disproportionate.",
+        "frasePortugues": "A cabeça parece desproporcional.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 80,
+        "ingles": "Geometric",
+        "portugues": "Geométrico",
+        "fraseIngles": "The pattern is geometric.",
+        "frasePortugues": "O padrão é geométrico.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 81,
+        "ingles": "Organic",
+        "portugues": "Orgânico",
+        "fraseIngles": "The shape looks organic.",
+        "frasePortugues": "O formato parece orgânico.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 82,
+        "ingles": "Abstract",
+        "portugues": "Abstrato",
+        "fraseIngles": "The sculpture is abstract.",
+        "frasePortugues": "A escultura é abstrata.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 83,
+        "ingles": "Realistic",
+        "portugues": "Realista",
+        "fraseIngles": "The painting is realistic.",
+        "frasePortugues": "A pintura é realista.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 84,
+        "ingles": "Simple",
+        "portugues": "Simples",
+        "fraseIngles": "The design is simple.",
+        "frasePortugues": "O design é simples.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 85,
+        "ingles": "Complex",
+        "portugues": "Complexo",
+        "fraseIngles": "The mechanism is complex.",
+        "frasePortugues": "O mecanismo é complexo.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 86,
+        "ingles": "Basic",
+        "portugues": "Básico",
+        "fraseIngles": "This is a basic shape.",
+        "frasePortugues": "Este é um formato básico.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 87,
+        "ingles": "Advanced",
+        "portugues": "Avançado",
+        "fraseIngles": "The structure is advanced.",
+        "frasePortugues": "A estrutura é avançada.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 88,
+        "ingles": "Traditional",
+        "portugues": "Tradicional",
+        "fraseIngles": "The pattern is traditional.",
+        "frasePortugues": "O padrão é tradicional.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 89,
+        "ingles": "Modern",
+        "portugues": "Moderno",
+        "fraseIngles": "The chair has modern lines.",
+        "frasePortugues": "A cadeira tem linhas modernas.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 90,
+        "ingles": "Classic",
+        "portugues": "Clássico",
+        "fraseIngles": "The building has classic proportions.",
+        "frasePortugues": "O prédio tem proporções clássicas.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 91,
+        "ingles": "Contemporary",
+        "portugues": "Contemporâneo",
+        "fraseIngles": "The art is contemporary.",
+        "frasePortugues": "A arte é contemporânea.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 92,
+        "ingles": "Vintage",
+        "portugues": "Vintage",
+        "fraseIngles": "The car has vintage curves.",
+        "frasePortugues": "O carro tem curvas vintage.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 93,
+        "ingles": "Antique",
+        "portugues": "Antigo",
+        "fraseIngles": "The vase has antique styling.",
+        "frasePortugues": "O vaso tem estilo antigo.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 94,
+        "ingles": "Sleek",
+        "portugues": "Elegante",
+        "fraseIngles": "The phone has a sleek design.",
+        "frasePortugues": "O telefone tem design elegante.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 95,
+        "ingles": "Streamlined",
+        "portugues": "Aerodinâmico",
+        "fraseIngles": "The car is streamlined.",
+        "frasePortugues": "O carro é aerodinâmico.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 96,
+        "ingles": "Aerodynamic",
+        "portugues": "Aerodinâmico",
+        "fraseIngles": "The plane is aerodynamic.",
+        "frasePortugues": "O avião é aerodinâmico.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 97,
+        "ingles": "Bulky",
+        "portugues": "Volumoso",
+        "fraseIngles": "The package is bulky.",
+        "frasePortugues": "O pacote é volumoso.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 98,
+        "ingles": "Compact",
+        "portugues": "Compacto",
+        "fraseIngles": "The camera is compact.",
+        "frasePortugues": "A câmera é compacta.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 99,
+        "ingles": "Dense",
+        "portugues": "Denso",
+        "fraseIngles": "The material is dense.",
+        "frasePortugues": "O material é denso.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 100,
+        "ingles": "Light",
+        "portugues": "Leve",
+        "fraseIngles": "The fabric is light.",
+        "frasePortugues": "O tecido é leve.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 101,
+        "ingles": "Heavy",
+        "portugues": "Pesado",
+        "fraseIngles": "The box is heavy.",
+        "frasePortugues": "A caixa é pesada.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 102,
+        "ingles": "Solid",
+        "portugues": "Maciço",
+        "fraseIngles": "The table is solid oak.",
+        "frasePortugues": "A mesa é carvalho maciço.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 103,
+        "ingles": "Flexible",
+        "portugues": "Flexível",
+        "fraseIngles": "The wire is flexible.",
+        "frasePortugues": "O fio é flexível.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 104,
+        "ingles": "Rigid",
+        "portugues": "Rígido",
+        "fraseIngles": "The frame is rigid.",
+        "frasePortugues": "A moldura é rígida.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 105,
+        "ingles": "Soft",
+        "portugues": "Macio",
+        "fraseIngles": "The pillow is soft.",
+        "frasePortugues": "O travesseiro é macio.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 106,
+        "ingles": "Hard",
+        "portugues": "Duro",
+        "fraseIngles": "The rock is hard.",
+        "frasePortugues": "A pedra é dura.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 107,
+        "ingles": "Smooth",
+        "portugues": "Liso",
+        "fraseIngles": "The surface is smooth.",
+        "frasePortugues": "A superfície é lisa.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 108,
+        "ingles": "Polished",
+        "portugues": "Polido",
+        "fraseIngles": "The floor is polished.",
+        "frasePortugues": "O chão é polido.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 109,
+        "ingles": "Matte",
+        "portugues": "Fosco",
+        "fraseIngles": "The paint has matte finish.",
+        "frasePortugues": "A tinta tem acabamento fosco.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 110,
+        "ingles": "Glossy",
+        "portugues": "Brilhante",
+        "fraseIngles": "The photo is glossy.",
+        "frasePortugues": "A foto é brilhante.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 111,
+        "ingles": "Shiny",
+        "portugues": "Brilhoso",
+        "fraseIngles": "The metal is shiny.",
+        "frasePortugues": "O metal é brilhoso.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 112,
+        "ingles": "Dull",
+        "portugues": "Opaco",
+        "fraseIngles": "The knife is dull.",
+        "frasePortugues": "A faca está cega.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 113,
+        "ingles": "Transparent",
+        "portugues": "Transparente",
+        "fraseIngles": "Glass is transparent.",
+        "frasePortugues": "Vidro é transparente.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 114,
+        "ingles": "Opaque",
+        "portugues": "Opaco",
+        "fraseIngles": "The curtain is opaque.",
+        "frasePortugues": "A cortina é opaca.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 115,
+        "ingles": "Clear",
+        "portugues": "Claro",
+        "fraseIngles": "The water is clear.",
+        "frasePortugues": "A água é clara.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 116,
+        "ingles": "Cloudy",
+        "portugues": "Turvo",
+        "fraseIngles": "The liquid is cloudy.",
+        "frasePortugues": "O líquido está turvo.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 117,
+        "ingles": "Colorful",
+        "portugues": "Colorido",
+        "fraseIngles": "The painting is colorful.",
+        "frasePortugues": "A pintura é colorida.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 118,
+        "ingles": "Colorless",
+        "portugues": "Incolor",
+        "fraseIngles": "The gas is colorless.",
+        "frasePortugues": "O gás é incolor.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 119,
+        "ingles": "Bright",
+        "portugues": "Brilhante",
+        "fraseIngles": "The light is bright.",
+        "frasePortugues": "A luz é brilhante.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 120,
+        "ingles": "Dark",
+        "portugues": "Escuro",
+        "fraseIngles": "The room is dark.",
+        "frasePortugues": "O quarto está escuro.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 121,
+        "ingles": "Light",
+        "portugues": "Claro",
+        "fraseIngles": "The color is light.",
+        "frasePortugues": "A cor é clara.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 122,
+        "ingles": "Pale",
+        "portugues": "Pálido",
+        "fraseIngles": "The shade is pale.",
+        "frasePortugues": "O tom é pálido.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 123,
+        "ingles": "Vivid",
+        "portugues": "Vívido",
+        "fraseIngles": "The colors are vivid.",
+        "frasePortugues": "As cores são vívidas.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 124,
+        "ingles": "Faded",
+        "portugues": "Desbotado",
+        "fraseIngles": "The fabric is faded.",
+        "frasePortugues": "O tecido está desbotado.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 125,
+        "ingles": "Fresh",
+        "portugues": "Fresco",
+        "fraseIngles": "The paint looks fresh.",
+        "frasePortugues": "A tinta parece fresca.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 126,
+        "ingles": "Worn",
+        "portugues": "Gasto",
+        "fraseIngles": "The shoes are worn.",
+        "frasePortugues": "Os sapatos estão gastos.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 127,
+        "ingles": "New",
+        "portugues": "Novo",
+        "fraseIngles": "The car is brand new.",
+        "frasePortugues": "O carro é novinho.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 128,
+        "ingles": "Old",
+        "portugues": "Velho",
+        "fraseIngles": "The house is old.",
+        "frasePortugues": "A casa é velha.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 129,
+        "ingles": "Ancient",
+        "portugues": "Antigo",
+        "fraseIngles": "The ruins are ancient.",
+        "frasePortugues": "As ruínas são antigas.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 130,
+        "ingles": "Cracked",
+        "portugues": "Rachado",
+        "fraseIngles": "The wall is cracked.",
+        "frasePortugues": "A parede está rachada.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 131,
+        "ingles": "Broken",
+        "portugues": "Quebrado",
+        "fraseIngles": "The vase is broken.",
+        "frasePortugues": "O vaso está quebrado.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 132,
+        "ingles": "Whole",
+        "portugues": "Inteiro",
+        "fraseIngles": "The plate is whole.",
+        "frasePortugues": "O prato está inteiro.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 133,
+        "ingles": "Complete",
+        "portugues": "Completo",
+        "fraseIngles": "The set is complete.",
+        "frasePortugues": "O conjunto está completo.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 134,
+        "ingles": "Incomplete",
+        "portugues": "Incompleto",
+        "fraseIngles": "The puzzle is incomplete.",
+        "frasePortugues": "O quebra-cabeça está incompleto.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 135,
+        "ingles": "Perfect",
+        "portugues": "Perfeito",
+        "fraseIngles": "The circle is perfect.",
+        "frasePortugues": "O círculo é perfeito.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 136,
+        "ingles": "Imperfect",
+        "portugues": "Imperfeito",
+        "fraseIngles": "The shape is imperfect.",
+        "frasePortugues": "A forma é imperfeita.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 137,
+        "ingles": "Flawed",
+        "portugues": "Defeituoso",
+        "fraseIngles": "The diamond is flawed.",
+        "frasePortugues": "O diamante é defeituoso.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    },
+    {
+        "id": 138,
+        "ingles": "Flawless",
+        "portugues": "Perfeito",
+        "fraseIngles": "The surface is flawless.",
+        "frasePortugues": "A superfície é perfeita.",
+        "subtopico": "Formas",
+        "topico": "Números"
+    }
+]

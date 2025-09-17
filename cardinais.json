@@ -1,0 +1,938 @@
+[
+    {
+        "id": 1,
+        "ingles": "One",
+        "portugues": "Um",
+        "fraseIngles": "I have one book on my desk.",
+        "frasePortugues": "Eu tenho um livro na minha mesa.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 2,
+        "ingles": "Two",
+        "portugues": "Dois",
+        "fraseIngles": "She bought two apples at the market.",
+        "frasePortugues": "Ela comprou duas maçãs no mercado.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 3,
+        "ingles": "Three",
+        "portugues": "Três",
+        "fraseIngles": "There are three cats in the garden.",
+        "frasePortugues": "Há três gatos no jardim.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 4,
+        "ingles": "Four",
+        "portugues": "Quatro",
+        "fraseIngles": "We need four chairs for the table.",
+        "frasePortugues": "Precisamos de quatro cadeiras para a mesa.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 5,
+        "ingles": "Five",
+        "portugues": "Cinco",
+        "fraseIngles": "The meeting starts at five o'clock.",
+        "frasePortugues": "A reunião começa às cinco horas.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 6,
+        "ingles": "Six",
+        "portugues": "Seis",
+        "fraseIngles": "I work six days a week.",
+        "frasePortugues": "Eu trabalho seis dias por semana.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 7,
+        "ingles": "Seven",
+        "portugues": "Sete",
+        "fraseIngles": "There are seven days in a week.",
+        "frasePortugues": "Há sete dias em uma semana.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 8,
+        "ingles": "Eight",
+        "portugues": "Oito",
+        "fraseIngles": "The store opens at eight in the morning.",
+        "frasePortugues": "A loja abre às oito da manhã.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 9,
+        "ingles": "Nine",
+        "portugues": "Nove",
+        "fraseIngles": "She has nine years of experience.",
+        "frasePortugues": "Ela tem nove anos de experiência.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 10,
+        "ingles": "Ten",
+        "portugues": "Dez",
+        "fraseIngles": "The test has ten questions.",
+        "frasePortugues": "A prova tem dez questões.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 11,
+        "ingles": "Eleven",
+        "portugues": "Onze",
+        "fraseIngles": "My birthday is on the eleventh of May.",
+        "frasePortugues": "Meu aniversário é no dia onze de maio.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 12,
+        "ingles": "Twelve",
+        "portugues": "Doze",
+        "fraseIngles": "There are twelve months in a year.",
+        "frasePortugues": "Há doze meses em um ano.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 13,
+        "ingles": "Thirteen",
+        "portugues": "Treze",
+        "fraseIngles": "She is thirteen years old.",
+        "frasePortugues": "Ela tem treze anos.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 14,
+        "ingles": "Fourteen",
+        "portugues": "Catorze",
+        "fraseIngles": "The package will arrive in fourteen days.",
+        "frasePortugues": "O pacote chegará em catorze dias.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 15,
+        "ingles": "Fifteen",
+        "portugues": "Quinze",
+        "fraseIngles": "The class has fifteen students.",
+        "frasePortugues": "A turma tem quinze alunos.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 16,
+        "ingles": "Sixteen",
+        "portugues": "Dezesseis",
+        "fraseIngles": "I bought sixteen oranges for juice.",
+        "frasePortugues": "Eu comprei dezesseis laranjas para suco.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 17,
+        "ingles": "Seventeen",
+        "portugues": "Dezessete",
+        "fraseIngles": "The movie starts at seventeen minutes past eight.",
+        "frasePortugues": "O filme começa aos dezessete minutos depois das oito.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 18,
+        "ingles": "Eighteen",
+        "portugues": "Dezoito",
+        "fraseIngles": "She will turn eighteen next month.",
+        "frasePortugues": "Ela vai fazer dezoito anos no próximo mês.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 19,
+        "ingles": "Nineteen",
+        "portugues": "Dezenove",
+        "fraseIngles": "The bus arrives at nineteen minutes past the hour.",
+        "frasePortugues": "O ônibus chega aos dezenove minutos depois da hora.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 20,
+        "ingles": "Twenty",
+        "portugues": "Vinte",
+        "fraseIngles": "I saved twenty dollars last week.",
+        "frasePortugues": "Eu economizei vinte dólares na semana passada.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 21,
+        "ingles": "Twenty-one",
+        "portugues": "Vinte e um",
+        "fraseIngles": "The temperature is twenty-one degrees.",
+        "frasePortugues": "A temperatura está vinte e um graus.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 22,
+        "ingles": "Twenty-two",
+        "portugues": "Vinte e dois",
+        "fraseIngles": "My sister is twenty-two years old.",
+        "frasePortugues": "Minha irmã tem vinte e dois anos.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 23,
+        "ingles": "Twenty-three",
+        "portugues": "Vinte e três",
+        "fraseIngles": "I wake up at twenty-three minutes past six.",
+        "frasePortugues": "Eu acordo aos vinte e três minutos depois das seis.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 24,
+        "ingles": "Twenty-four",
+        "portugues": "Vinte e quatro",
+        "fraseIngles": "The store is open twenty-four hours.",
+        "frasePortugues": "A loja fica aberta vinte e quatro horas.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 25,
+        "ingles": "Twenty-five",
+        "portugues": "Vinte e cinco",
+        "fraseIngles": "Christmas is on the twenty-fifth of December.",
+        "frasePortugues": "O Natal é no dia vinte e cinco de dezembro.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 26,
+        "ingles": "Thirty",
+        "portugues": "Trinta",
+        "fraseIngles": "The temperature is thirty degrees today.",
+        "frasePortugues": "A temperatura está trinta graus hoje.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 27,
+        "ingles": "Thirty-one",
+        "portugues": "Trinta e um",
+        "fraseIngles": "January has thirty-one days.",
+        "frasePortugues": "Janeiro tem trinta e um dias.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 28,
+        "ingles": "Thirty-two",
+        "portugues": "Trinta e dois",
+        "fraseIngles": "I am thirty-two years old.",
+        "frasePortugues": "Eu tenho trinta e dois anos.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 29,
+        "ingles": "Thirty-five",
+        "portugues": "Trinta e cinco",
+        "fraseIngles": "The speed limit is thirty-five miles per hour.",
+        "frasePortugues": "O limite de velocidade é trinta e cinco milhas por hora.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 30,
+        "ingles": "Forty",
+        "portugues": "Quarenta",
+        "fraseIngles": "He ran forty kilometers yesterday.",
+        "frasePortugues": "Ele correu quarenta quilômetros ontem.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 31,
+        "ingles": "Forty-five",
+        "portugues": "Quarenta e cinco",
+        "fraseIngles": "The class lasts forty-five minutes.",
+        "frasePortugues": "A aula dura quarenta e cinco minutos.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 32,
+        "ingles": "Fifty",
+        "portugues": "Cinquenta",
+        "fraseIngles": "The hotel has fifty rooms.",
+        "frasePortugues": "O hotel tem cinquenta quartos.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 33,
+        "ingles": "Fifty-five",
+        "portugues": "Cinquenta e cinco",
+        "fraseIngles": "My father is fifty-five years old.",
+        "frasePortugues": "Meu pai tem cinquenta e cinco anos.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 34,
+        "ingles": "Sixty",
+        "portugues": "Sessenta",
+        "fraseIngles": "My grandfather is sixty years old.",
+        "frasePortugues": "Meu avô tem sessenta anos.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 35,
+        "ingles": "Sixty-five",
+        "portugues": "Sessenta e cinco",
+        "fraseIngles": "The retirement age is sixty-five.",
+        "frasePortugues": "A idade da aposentadoria é sessenta e cinco.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 36,
+        "ingles": "Seventy",
+        "portugues": "Setenta",
+        "fraseIngles": "The speed limit is seventy miles per hour.",
+        "frasePortugues": "O limite de velocidade é setenta milhas por hora.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 37,
+        "ingles": "Seventy-five",
+        "portugues": "Setenta e cinco",
+        "fraseIngles": "The test score was seventy-five percent.",
+        "frasePortugues": "A nota da prova foi setenta e cinco por cento.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 38,
+        "ingles": "Eighty",
+        "portugues": "Oitenta",
+        "fraseIngles": "She scored eighty points on the exam.",
+        "frasePortugues": "Ela fez oitenta pontos na prova.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 39,
+        "ingles": "Eighty-five",
+        "portugues": "Oitenta e cinco",
+        "fraseIngles": "The building is eighty-five years old.",
+        "frasePortugues": "O prédio tem oitenta e cinco anos.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 40,
+        "ingles": "Ninety",
+        "portugues": "Noventa",
+        "fraseIngles": "The movie is ninety minutes long.",
+        "frasePortugues": "O filme tem noventa minutos de duração.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 41,
+        "ingles": "Ninety-five",
+        "portugues": "Noventa e cinco",
+        "fraseIngles": "Gas costs ninety-five cents per liter.",
+        "frasePortugues": "A gasolina custa noventa e cinco centavos por litro.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 42,
+        "ingles": "One hundred",
+        "portugues": "Cem",
+        "fraseIngles": "There are one hundred people at the party.",
+        "frasePortugues": "Há cem pessoas na festa.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 43,
+        "ingles": "One hundred ten",
+        "portugues": "Cento e dez",
+        "fraseIngles": "The book costs one hundred ten dollars.",
+        "frasePortugues": "O livro custa cento e dez dólares.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 44,
+        "ingles": "One hundred twenty",
+        "portugues": "Cento e vinte",
+        "fraseIngles": "The apartment rent is one hundred twenty dollars.",
+        "frasePortugues": "O aluguel do apartamento é cento e vinte dólares.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 45,
+        "ingles": "One hundred fifty",
+        "portugues": "Cento e cinquenta",
+        "fraseIngles": "The trip takes one hundred fifty minutes.",
+        "frasePortugues": "A viagem leva cento e cinquenta minutos.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 46,
+        "ingles": "Two hundred",
+        "portugues": "Duzentos",
+        "fraseIngles": "The book has two hundred pages.",
+        "frasePortugues": "O livro tem duzentas páginas.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 47,
+        "ingles": "Two hundred fifty",
+        "portugues": "Duzentos e cinquenta",
+        "fraseIngles": "I paid two hundred fifty dollars for the jacket.",
+        "frasePortugues": "Eu paguei duzentos e cinquenta dólares pela jaqueta.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 48,
+        "ingles": "Three hundred",
+        "portugues": "Trezentos",
+        "fraseIngles": "The car travels three hundred miles per day.",
+        "frasePortugues": "O carro viaja trezentas milhas por dia.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 49,
+        "ingles": "Four hundred",
+        "portugues": "Quatrocentos",
+        "fraseIngles": "The flight costs four hundred dollars.",
+        "frasePortugues": "O voo custa quatrocentos dólares.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 50,
+        "ingles": "Five hundred",
+        "portugues": "Quinhentos",
+        "fraseIngles": "She has five hundred photos on her phone.",
+        "frasePortugues": "Ela tem quinhentas fotos no celular.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 51,
+        "ingles": "Six hundred",
+        "portugues": "Seiscentos",
+        "fraseIngles": "The concert hall seats six hundred people.",
+        "frasePortugues": "A sala de concertos tem lugar para seiscentas pessoas.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 52,
+        "ingles": "Seven hundred",
+        "portugues": "Setecentos",
+        "fraseIngles": "The city is seven hundred kilometers away.",
+        "frasePortugues": "A cidade fica a setecentos quilômetros de distância.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 53,
+        "ingles": "Eight hundred",
+        "portugues": "Oitocentos",
+        "fraseIngles": "The school has eight hundred students.",
+        "frasePortugues": "A escola tem oitocentos alunos.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 54,
+        "ingles": "Nine hundred",
+        "portugues": "Novecentos",
+        "fraseIngles": "The tower is nine hundred feet tall.",
+        "frasePortugues": "A torre tem novecentos pés de altura.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 55,
+        "ingles": "One thousand",
+        "portugues": "Mil",
+        "fraseIngles": "The car costs one thousand dollars.",
+        "frasePortugues": "O carro custa mil dólares.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 56,
+        "ingles": "Two thousand",
+        "portugues": "Dois mil",
+        "fraseIngles": "She earns two thousand dollars per month.",
+        "frasePortugues": "Ela ganha dois mil dólares por mês.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 57,
+        "ingles": "Three thousand",
+        "portugues": "Três mil",
+        "fraseIngles": "The computer costs three thousand dollars.",
+        "frasePortugues": "O computador custa três mil dólares.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 58,
+        "ingles": "Five thousand",
+        "portugues": "Cinco mil",
+        "fraseIngles": "The town has five thousand inhabitants.",
+        "frasePortugues": "A cidade tem cinco mil habitantes.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 59,
+        "ingles": "Ten thousand",
+        "portugues": "Dez mil",
+        "fraseIngles": "The prize is ten thousand dollars.",
+        "frasePortugues": "O prêmio é de dez mil dólares.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 60,
+        "ingles": "Fifteen thousand",
+        "portugues": "Quinze mil",
+        "fraseIngles": "The car has fifteen thousand miles on it.",
+        "frasePortugues": "O carro tem quinze mil milhas rodadas.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 61,
+        "ingles": "Twenty thousand",
+        "portugues": "Vinte mil",
+        "fraseIngles": "She has twenty thousand followers online.",
+        "frasePortugues": "Ela tem vinte mil seguidores online.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 62,
+        "ingles": "Fifty thousand",
+        "portugues": "Cinquenta mil",
+        "fraseIngles": "The house costs fifty thousand dollars.",
+        "frasePortugues": "A casa custa cinquenta mil dólares.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 63,
+        "ingles": "One hundred thousand",
+        "portugues": "Cem mil",
+        "fraseIngles": "The city has one hundred thousand residents.",
+        "frasePortugues": "A cidade tem cem mil moradores.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 64,
+        "ingles": "Five hundred thousand",
+        "portugues": "Quinhentos mil",
+        "fraseIngles": "The lottery prize is five hundred thousand dollars.",
+        "frasePortugues": "O prêmio da loteria é quinhentos mil dólares.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 65,
+        "ingles": "One million",
+        "portugues": "Um milhão",
+        "fraseIngles": "He won one million dollars in the lottery.",
+        "frasePortugues": "Ele ganhou um milhão de dólares na loteria.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 66,
+        "ingles": "Two million",
+        "portugues": "Dois milhões",
+        "fraseIngles": "The company is worth two million dollars.",
+        "frasePortugues": "A empresa vale dois milhões de dólares.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 67,
+        "ingles": "Five million",
+        "portugues": "Cinco milhões",
+        "fraseIngles": "The movie made five million dollars.",
+        "frasePortugues": "O filme faturou cinco milhões de dólares.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 68,
+        "ingles": "Ten million",
+        "portugues": "Dez milhões",
+        "fraseIngles": "The city has ten million people.",
+        "frasePortugues": "A cidade tem dez milhões de pessoas.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 69,
+        "ingles": "One billion",
+        "portugues": "Um bilhão",
+        "fraseIngles": "The project costs one billion dollars.",
+        "frasePortugues": "O projeto custa um bilhão de dólares.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 70,
+        "ingles": "Half",
+        "portugues": "Metade",
+        "fraseIngles": "I ate half of the pizza.",
+        "frasePortugues": "Eu comi metade da pizza.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 71,
+        "ingles": "Quarter",
+        "portugues": "Um quarto",
+        "fraseIngles": "It's a quarter past three.",
+        "frasePortugues": "São três e quinze.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 72,
+        "ingles": "Third",
+        "portugues": "Um terço",
+        "fraseIngles": "He ate one third of the cake.",
+        "frasePortugues": "Ele comeu um terço do bolo.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 73,
+        "ingles": "Double",
+        "portugues": "Dobro",
+        "fraseIngles": "The price is double what it was.",
+        "frasePortugues": "O preço está o dobro do que era.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 74,
+        "ingles": "Triple",
+        "portugues": "Triplo",
+        "fraseIngles": "Sales increased triple this year.",
+        "frasePortugues": "As vendas aumentaram o triplo este ano.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 75,
+        "ingles": "Zero",
+        "portugues": "Zero",
+        "fraseIngles": "The temperature dropped to zero degrees.",
+        "frasePortugues": "A temperatura caiu para zero graus.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 76,
+        "ingles": "Dozen",
+        "portugues": "Dúzia",
+        "fraseIngles": "I bought a dozen eggs.",
+        "frasePortugues": "Eu comprei uma dúzia de ovos.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 77,
+        "ingles": "Couple",
+        "portugues": "Par (dois)",
+        "fraseIngles": "I need a couple of minutes.",
+        "frasePortugues": "Eu preciso de uns dois minutos.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 78,
+        "ingles": "Few",
+        "portugues": "Poucos",
+        "fraseIngles": "Only a few people came to the meeting.",
+        "frasePortugues": "Apenas poucas pessoas vieram à reunião.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 79,
+        "ingles": "Several",
+        "portugues": "Vários",
+        "fraseIngles": "Several students failed the test.",
+        "frasePortugues": "Vários alunos reprovaram na prova.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 80,
+        "ingles": "Many",
+        "portugues": "Muitos",
+        "fraseIngles": "Many people attended the concert.",
+        "frasePortugues": "Muitas pessoas compareceram ao concerto.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 81,
+        "ingles": "Hundreds",
+        "portugues": "Centenas",
+        "fraseIngles": "Hundreds of birds flew over the lake.",
+        "frasePortugues": "Centenas de pássaros voaram sobre o lago.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 82,
+        "ingles": "Thousands",
+        "portugues": "Milhares",
+        "fraseIngles": "Thousands of people live in this city.",
+        "frasePortugues": "Milhares de pessoas vivem nesta cidade.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 83,
+        "ingles": "Millions",
+        "portugues": "Milhões",
+        "fraseIngles": "Millions of stars shine in the sky.",
+        "frasePortugues": "Milhões de estrelas brilham no céu.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 84,
+        "ingles": "All",
+        "portugues": "Todos",
+        "fraseIngles": "All students passed the exam.",
+        "frasePortugues": "Todos os alunos passaram na prova.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 85,
+        "ingles": "Both",
+        "portugues": "Ambos",
+        "fraseIngles": "Both answers are correct.",
+        "frasePortugues": "Ambas as respostas estão corretas.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 86,
+        "ingles": "Each",
+        "portugues": "Cada",
+        "fraseIngles": "Each student received a certificate.",
+        "frasePortugues": "Cada aluno recebeu um certificado.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 87,
+        "ingles": "Every",
+        "portugues": "Cada (todo)",
+        "fraseIngles": "Every day I drink coffee.",
+        "frasePortugues": "Todos os dias eu bebo café.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 88,
+        "ingles": "Either",
+        "portugues": "Qualquer um (dos dois)",
+        "fraseIngles": "You can choose either option.",
+        "frasePortugues": "Você pode escolher qualquer uma das opções.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 89,
+        "ingles": "Neither",
+        "portugues": "Nenhum (dos dois)",
+        "fraseIngles": "Neither answer is correct.",
+        "frasePortugues": "Nenhuma das respostas está correta.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 90,
+        "ingles": "None",
+        "portugues": "Nenhum",
+        "fraseIngles": "None of the students arrived late.",
+        "frasePortugues": "Nenhum dos alunos chegou atrasado.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 91,
+        "ingles": "Plus",
+        "portugues": "Mais",
+        "fraseIngles": "Two plus two equals four.",
+        "frasePortugues": "Dois mais dois é igual a quatro.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 92,
+        "ingles": "Minus",
+        "portugues": "Menos",
+        "fraseIngles": "Ten minus five equals five.",
+        "frasePortugues": "Dez menos cinco é igual a cinco.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 93,
+        "ingles": "Times",
+        "portugues": "Vezes",
+        "fraseIngles": "Three times four equals twelve.",
+        "frasePortugues": "Três vezes quatro é igual a doze.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 94,
+        "ingles": "Divided by",
+        "portugues": "Dividido por",
+        "fraseIngles": "Eight divided by two equals four.",
+        "frasePortugues": "Oito dividido por dois é igual a quatro.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 95,
+        "ingles": "Equals",
+        "portugues": "É igual a",
+        "fraseIngles": "Five plus three equals eight.",
+        "frasePortugues": "Cinco mais três é igual a oito.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 96,
+        "ingles": "Percent",
+        "portugues": "Por cento",
+        "fraseIngles": "Twenty percent of students failed.",
+        "frasePortugues": "Vinte por cento dos alunos reprovaram.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 97,
+        "ingles": "Point",
+        "portugues": "Vírgula (em decimais)",
+        "fraseIngles": "The price is three point five dollars.",
+        "frasePortugues": "O preço é três vírgula cinco dólares.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 98,
+        "ingles": "Decimal",
+        "portugues": "Decimal",
+        "fraseIngles": "Please write the number in decimal form.",
+        "frasePortugues": "Por favor, escreva o número em forma decimal.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 99,
+        "ingles": "Fraction",
+        "portugues": "Fração",
+        "fraseIngles": "Two thirds is a fraction.",
+        "frasePortugues": "Dois terços é uma fração.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 100,
+        "ingles": "Sum",
+        "portugues": "Soma",
+        "fraseIngles": "The sum of five and three is eight.",
+        "frasePortugues": "A soma de cinco e três é oito.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 101,
+        "ingles": "Total",
+        "portugues": "Total",
+        "fraseIngles": "The total amount is fifty dollars.",
+        "frasePortugues": "O valor total é cinquenta dólares.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 102,
+        "ingles": "Average",
+        "portugues": "Média",
+        "fraseIngles": "The average temperature is twenty degrees.",
+        "frasePortugues": "A temperatura média é vinte graus.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 103,
+        "ingles": "Maximum",
+        "portugues": "Máximo",
+        "fraseIngles": "The maximum speed is sixty miles per hour.",
+        "frasePortugues": "A velocidade máxima é sessenta milhas por hora.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    },
+    {
+        "id": 104,
+        "ingles": "Minimum",
+        "portugues": "Mínimo",
+        "fraseIngles": "The minimum age is eighteen years.",
+        "frasePortugues": "A idade mínima é dezoito anos.",
+        "subtopico": "Cardinais",
+        "topico": "Números"
+    }
+]

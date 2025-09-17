@@ -1,0 +1,1892 @@
+[
+    {
+        "id": 1,
+        "ingles": "First",
+        "portugues": "Primeiro",
+        "fraseIngles": "This is my first day at work.",
+        "frasePortugues": "Este é meu primeiro dia de trabalho.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 2,
+        "ingles": "Second",
+        "portugues": "Segundo",
+        "fraseIngles": "She lives on the second floor.",
+        "frasePortugues": "Ela mora no segundo andar.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 3,
+        "ingles": "Third",
+        "portugues": "Terceiro",
+        "fraseIngles": "He finished third in the race.",
+        "frasePortugues": "Ele terminou em terceiro na corrida.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 4,
+        "ingles": "Fourth",
+        "portugues": "Quarto",
+        "fraseIngles": "July is the fourth month of summer.",
+        "frasePortugues": "Julho é o quarto mês do verão.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 5,
+        "ingles": "Fifth",
+        "portugues": "Quinto",
+        "fraseIngles": "This is the fifth time I call you.",
+        "frasePortugues": "Esta é a quinta vez que te ligo.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 6,
+        "ingles": "Sixth",
+        "portugues": "Sexto",
+        "fraseIngles": "My office is on the sixth floor.",
+        "frasePortugues": "Meu escritório fica no sexto andar.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 7,
+        "ingles": "Seventh",
+        "portugues": "Sétimo",
+        "fraseIngles": "Today is the seventh of March.",
+        "frasePortugues": "Hoje é dia sete de março.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 8,
+        "ingles": "Eighth",
+        "portugues": "Oitavo",
+        "fraseIngles": "She was born on the eighth of December.",
+        "frasePortugues": "Ela nasceu no dia oito de dezembro.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 9,
+        "ingles": "Ninth",
+        "portugues": "Nono",
+        "fraseIngles": "This is the ninth chapter of the book.",
+        "frasePortugues": "Este é o nono capítulo do livro.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 10,
+        "ingles": "Tenth",
+        "portugues": "Décimo",
+        "fraseIngles": "The tenth student passed the test.",
+        "frasePortugues": "O décimo aluno passou no teste.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 11,
+        "ingles": "Eleventh",
+        "portugues": "Décimo primeiro",
+        "fraseIngles": "The meeting is on the eleventh floor.",
+        "frasePortugues": "A reunião é no décimo primeiro andar.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 12,
+        "ingles": "Twelfth",
+        "portugues": "Décimo segundo",
+        "fraseIngles": "December is the twelfth month.",
+        "frasePortugues": "Dezembro é o décimo segundo mês.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 13,
+        "ingles": "Thirteenth",
+        "portugues": "Décimo terceiro",
+        "fraseIngles": "Friday the thirteenth is considered unlucky.",
+        "frasePortugues": "Sexta-feira treze é considerada azarada.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 14,
+        "ingles": "Fourteenth",
+        "portugues": "Décimo quarto",
+        "fraseIngles": "Valentine's Day is on the fourteenth of February.",
+        "frasePortugues": "O Dia dos Namorados é no dia catorze de fevereiro.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 15,
+        "ingles": "Fifteenth",
+        "portugues": "Décimo quinto",
+        "fraseIngles": "I was born on the fifteenth of August.",
+        "frasePortugues": "Eu nasci no dia quinze de agosto.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 16,
+        "ingles": "Sixteenth",
+        "portugues": "Décimo sexto",
+        "fraseIngles": "Her birthday is on the sixteenth of May.",
+        "frasePortugues": "O aniversário dela é no dia dezesseis de maio.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 17,
+        "ingles": "Seventeenth",
+        "portugues": "Décimo sétimo",
+        "fraseIngles": "The seventeenth century was very important.",
+        "frasePortugues": "O décimo sétimo século foi muito importante.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 18,
+        "ingles": "Eighteenth",
+        "portugues": "Décimo oitavo",
+        "fraseIngles": "She turned eighteen on her eighteenth birthday.",
+        "frasePortugues": "Ela fez dezoito anos no seu décimo oitavo aniversário.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 19,
+        "ingles": "Nineteenth",
+        "portugues": "Décimo nono",
+        "fraseIngles": "The nineteenth century ended in 1900.",
+        "frasePortugues": "O décimo nono século terminou em 1900.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 20,
+        "ingles": "Twentieth",
+        "portugues": "Vigésimo",
+        "fraseIngles": "The twentieth century ended in 2000.",
+        "frasePortugues": "O vigésimo século terminou em 2000.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 21,
+        "ingles": "Twenty-first",
+        "portugues": "Vigésimo primeiro",
+        "fraseIngles": "Welcome to the twenty-first century.",
+        "frasePortugues": "Bem-vindos ao vigésimo primeiro século.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 22,
+        "ingles": "Twenty-second",
+        "portugues": "Vigésimo segundo",
+        "fraseIngles": "Today is the twenty-second of October.",
+        "frasePortugues": "Hoje é dia vinte e dois de outubro.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 23,
+        "ingles": "Twenty-third",
+        "portugues": "Vigésimo terceiro",
+        "fraseIngles": "The twenty-third psalm is very famous.",
+        "frasePortugues": "O vigésimo terceiro salmo é muito famoso.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 24,
+        "ingles": "Twenty-fourth",
+        "portugues": "Vigésimo quarto",
+        "fraseIngles": "Christmas Eve is on the twenty-fourth.",
+        "frasePortugues": "A véspera de Natal é no dia vinte e quatro.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 25,
+        "ingles": "Twenty-fifth",
+        "portugues": "Vigésimo quinto",
+        "fraseIngles": "Christmas is on the twenty-fifth of December.",
+        "frasePortugues": "O Natal é no dia vinte e cinco de dezembro.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 26,
+        "ingles": "Twenty-sixth",
+        "portugues": "Vigésimo sexto",
+        "fraseIngles": "The meeting is on the twenty-sixth floor.",
+        "frasePortugues": "A reunião é no vigésimo sexto andar.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 27,
+        "ingles": "Twenty-seventh",
+        "portugues": "Vigésimo sétimo",
+        "fraseIngles": "My appointment is on the twenty-seventh.",
+        "frasePortugues": "Meu compromisso é no dia vinte e sete.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 28,
+        "ingles": "Twenty-eighth",
+        "portugues": "Vigésimo oitavo",
+        "fraseIngles": "February twenty-eighth is usually the last day.",
+        "frasePortugues": "Vinte e oito de fevereiro geralmente é o último dia.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 29,
+        "ingles": "Twenty-ninth",
+        "portugues": "Vigésimo nono",
+        "fraseIngles": "Leap years have a twenty-ninth of February.",
+        "frasePortugues": "Os anos bissextos têm um dia vinte e nove de fevereiro.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 30,
+        "ingles": "Thirtieth",
+        "portugues": "Trigésimo",
+        "fraseIngles": "My birthday is on the thirtieth of June.",
+        "frasePortugues": "Meu aniversário é no dia trinta de junho.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 31,
+        "ingles": "Thirty-first",
+        "portugues": "Trigésimo primeiro",
+        "fraseIngles": "New Year's Eve is on the thirty-first.",
+        "frasePortugues": "A véspera do Ano Novo é no dia trinta e um.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 32,
+        "ingles": "Fortieth",
+        "portugues": "Quadragésimo",
+        "fraseIngles": "This is my fortieth birthday.",
+        "frasePortugues": "Este é meu quadragésimo aniversário.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 33,
+        "ingles": "Fiftieth",
+        "portugues": "Quinquagésimo",
+        "fraseIngles": "They celebrated their fiftieth anniversary.",
+        "frasePortugues": "Eles comemoraram seu quinquagésimo aniversário.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 34,
+        "ingles": "Sixtieth",
+        "portugues": "Sexagésimo",
+        "fraseIngles": "My grandmother's sixtieth birthday was special.",
+        "frasePortugues": "O sexagésimo aniversário da minha avó foi especial.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 35,
+        "ingles": "Seventieth",
+        "portugues": "Septuagésimo",
+        "fraseIngles": "The seventieth anniversary of the school.",
+        "frasePortugues": "O septuagésimo aniversário da escola.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 36,
+        "ingles": "Eightieth",
+        "portugues": "Octogésimo",
+        "fraseIngles": "My grandfather celebrated his eightieth birthday.",
+        "frasePortugues": "Meu avô comemorou seu octogésimo aniversário.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 37,
+        "ingles": "Ninetieth",
+        "portugues": "Nonagésimo",
+        "fraseIngles": "She reached her ninetieth birthday.",
+        "frasePortugues": "Ela chegou ao seu nonagésimo aniversário.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 38,
+        "ingles": "One hundredth",
+        "portugues": "Centésimo",
+        "fraseIngles": "This is the one hundredth day of school.",
+        "frasePortugues": "Este é o centésimo dia de aula.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 39,
+        "ingles": "Last",
+        "portugues": "Último",
+        "fraseIngles": "This is the last question on the test.",
+        "frasePortugues": "Esta é a última questão da prova.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 40,
+        "ingles": "Next",
+        "portugues": "Próximo",
+        "fraseIngles": "The next train arrives at ten.",
+        "frasePortugues": "O próximo trem chega às dez.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 41,
+        "ingles": "Previous",
+        "portugues": "Anterior",
+        "fraseIngles": "The previous chapter was about history.",
+        "frasePortugues": "O capítulo anterior era sobre história.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 42,
+        "ingles": "Final",
+        "portugues": "Final",
+        "fraseIngles": "This is the final exam.",
+        "frasePortugues": "Esta é a prova final.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 43,
+        "ingles": "Initial",
+        "portugues": "Inicial",
+        "fraseIngles": "Please write your initial here.",
+        "frasePortugues": "Por favor, escreva sua inicial aqui.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 44,
+        "ingles": "Middle",
+        "portugues": "Do meio",
+        "fraseIngles": "The middle child is often forgotten.",
+        "frasePortugues": "O filho do meio é frequentemente esquecido.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 45,
+        "ingles": "Primary",
+        "portugues": "Primário",
+        "fraseIngles": "This is our primary concern.",
+        "frasePortugues": "Esta é nossa preocupação primária.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 46,
+        "ingles": "Secondary",
+        "portugues": "Secundário",
+        "fraseIngles": "That's a secondary issue.",
+        "frasePortugues": "Essa é uma questão secundária.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 47,
+        "ingles": "Leading",
+        "portugues": "Principal",
+        "fraseIngles": "She's the leading candidate.",
+        "frasePortugues": "Ela é a candidata principal.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 48,
+        "ingles": "Following",
+        "portugues": "Seguinte",
+        "fraseIngles": "The following day was sunny.",
+        "frasePortugues": "O dia seguinte estava ensolarado.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 49,
+        "ingles": "Preceding",
+        "portugues": "Precedente",
+        "fraseIngles": "The preceding week was busy.",
+        "frasePortugues": "A semana precedente foi corrida.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 50,
+        "ingles": "Subsequent",
+        "portugues": "Subsequente",
+        "fraseIngles": "The subsequent events were surprising.",
+        "frasePortugues": "Os eventos subsequentes foram surpreendentes.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 51,
+        "ingles": "Consecutive",
+        "portugues": "Consecutivo",
+        "fraseIngles": "It rained for three consecutive days.",
+        "frasePortugues": "Choveu por três dias consecutivos.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 52,
+        "ingles": "Alternative",
+        "portugues": "Alternativo",
+        "fraseIngles": "We need an alternative solution.",
+        "frasePortugues": "Precisamos de uma solução alternativa.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 53,
+        "ingles": "Additional",
+        "portugues": "Adicional",
+        "fraseIngles": "We need additional information.",
+        "frasePortugues": "Precisamos de informações adicionais.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 54,
+        "ingles": "Extra",
+        "portugues": "Extra",
+        "fraseIngles": "Do you want extra cheese?",
+        "frasePortugues": "Você quer queijo extra?",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 55,
+        "ingles": "Spare",
+        "portugues": "Sobressalente",
+        "fraseIngles": "I have a spare key.",
+        "frasePortugues": "Eu tenho uma chave sobressalente.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 56,
+        "ingles": "Remaining",
+        "portugues": "Restante",
+        "fraseIngles": "The remaining time is five minutes.",
+        "frasePortugues": "O tempo restante são cinco minutos.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 57,
+        "ingles": "Outstanding",
+        "portugues": "Pendente",
+        "fraseIngles": "There are outstanding issues to resolve.",
+        "frasePortugues": "Há questões pendentes para resolver.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 58,
+        "ingles": "Pending",
+        "portugues": "Pendente",
+        "fraseIngles": "The decision is still pending.",
+        "frasePortugues": "A decisão ainda está pendente.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 59,
+        "ingles": "Ongoing",
+        "portugues": "Em andamento",
+        "fraseIngles": "This is an ongoing project.",
+        "frasePortugues": "Este é um projeto em andamento.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 60,
+        "ingles": "Upcoming",
+        "portugues": "Próximo (que vem)",
+        "fraseIngles": "The upcoming meeting is important.",
+        "frasePortugues": "A próxima reunião é importante.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 61,
+        "ingles": "Former",
+        "portugues": "Anterior",
+        "fraseIngles": "He's the former president.",
+        "frasePortugues": "Ele é o ex-presidente.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 62,
+        "ingles": "Current",
+        "portugues": "Atual",
+        "fraseIngles": "The current situation is difficult.",
+        "frasePortugues": "A situação atual é difícil.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 63,
+        "ingles": "Present",
+        "portugues": "Presente",
+        "fraseIngles": "The present moment is all we have.",
+        "frasePortugues": "O momento presente é tudo que temos.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 64,
+        "ingles": "Past",
+        "portugues": "Passado",
+        "fraseIngles": "We learned from past mistakes.",
+        "frasePortugues": "Aprendemos com os erros do passado.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 65,
+        "ingles": "Future",
+        "portugues": "Futuro",
+        "fraseIngles": "Future generations will thank us.",
+        "frasePortugues": "As gerações futuras nos agradecerão.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 66,
+        "ingles": "Earlier",
+        "portugues": "Anterior",
+        "fraseIngles": "We discussed this in an earlier meeting.",
+        "frasePortugues": "Discutimos isso em uma reunião anterior.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 67,
+        "ingles": "Later",
+        "portugues": "Posterior",
+        "fraseIngles": "We'll discuss this in a later meeting.",
+        "frasePortugues": "Discutiremos isso em uma reunião posterior.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 68,
+        "ingles": "Prior",
+        "portugues": "Anterior",
+        "fraseIngles": "Prior experience is required.",
+        "frasePortugues": "Experiência anterior é necessária.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 69,
+        "ingles": "Subsequent",
+        "portugues": "Subsequente",
+        "fraseIngles": "Subsequent tests showed improvement.",
+        "frasePortugues": "Testes subsequentes mostraram melhora.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 70,
+        "ingles": "Immediate",
+        "portugues": "Imediato",
+        "fraseIngles": "We need immediate action.",
+        "frasePortugues": "Precisamos de ação imediata.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 71,
+        "ingles": "Direct",
+        "portugues": "Direto",
+        "fraseIngles": "Take the direct route to the airport.",
+        "frasePortugues": "Pegue a rota direta para o aeroporto.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 72,
+        "ingles": "Indirect",
+        "portugues": "Indireto",
+        "fraseIngles": "He gave an indirect answer.",
+        "frasePortugues": "Ele deu uma resposta indireta.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 73,
+        "ingles": "Main",
+        "portugues": "Principal",
+        "fraseIngles": "The main reason is cost.",
+        "frasePortugues": "A razão principal é o custo.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 74,
+        "ingles": "Minor",
+        "portugues": "Menor",
+        "fraseIngles": "It's just a minor problem.",
+        "frasePortugues": "É apenas um problema menor.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 75,
+        "ingles": "Major",
+        "portugues": "Maior",
+        "fraseIngles": "This is a major breakthrough.",
+        "frasePortugues": "Esta é uma grande descoberta.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 76,
+        "ingles": "Superior",
+        "portugues": "Superior",
+        "fraseIngles": "The superior quality is obvious.",
+        "frasePortugues": "A qualidade superior é óbvia.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 77,
+        "ingles": "Inferior",
+        "portugues": "Inferior",
+        "fraseIngles": "This product has inferior quality.",
+        "frasePortugues": "Este produto tem qualidade inferior.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 78,
+        "ingles": "Upper",
+        "portugues": "Superior",
+        "fraseIngles": "I live on the upper floor.",
+        "frasePortugues": "Eu moro no andar superior.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 79,
+        "ingles": "Lower",
+        "portugues": "Inferior",
+        "fraseIngles": "The lower level is the basement.",
+        "frasePortugues": "O nível inferior é o porão.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 80,
+        "ingles": "Higher",
+        "portugues": "Mais alto",
+        "fraseIngles": "We need a higher standard.",
+        "frasePortugues": "Precisamos de um padrão mais alto.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 81,
+        "ingles": "Maximum",
+        "portugues": "Máximo",
+        "fraseIngles": "This is the maximum speed allowed.",
+        "frasePortugues": "Esta é a velocidade máxima permitida.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 82,
+        "ingles": "Minimum",
+        "portugues": "Mínimo",
+        "fraseIngles": "The minimum age is eighteen.",
+        "frasePortugues": "A idade mínima é dezoito anos.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 83,
+        "ingles": "Optimal",
+        "portugues": "Ótimo",
+        "fraseIngles": "This is the optimal solution.",
+        "frasePortugues": "Esta é a solução ótima.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 84,
+        "ingles": "Perfect",
+        "portugues": "Perfeito",
+        "fraseIngles": "Nobody is perfect.",
+        "frasePortugues": "Ninguém é perfeito.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 85,
+        "ingles": "Ideal",
+        "portugues": "Ideal",
+        "fraseIngles": "This is the ideal situation.",
+        "frasePortugues": "Esta é a situação ideal.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 86,
+        "ingles": "Best",
+        "portugues": "Melhor",
+        "fraseIngles": "This is the best option.",
+        "frasePortugues": "Esta é a melhor opção.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 87,
+        "ingles": "Worst",
+        "portugues": "Pior",
+        "fraseIngles": "This is the worst day ever.",
+        "frasePortugues": "Este é o pior dia de todos.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 88,
+        "ingles": "Better",
+        "portugues": "Melhor",
+        "fraseIngles": "Tomorrow will be better.",
+        "frasePortugues": "Amanhã será melhor.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 89,
+        "ingles": "Worse",
+        "portugues": "Pior",
+        "fraseIngles": "The weather is getting worse.",
+        "frasePortugues": "O tempo está piorando.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 90,
+        "ingles": "Closest",
+        "portugues": "Mais próximo",
+        "fraseIngles": "Where's the closest hospital?",
+        "frasePortugues": "Onde fica o hospital mais próximo?",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 91,
+        "ingles": "Farthest",
+        "portugues": "Mais distante",
+        "fraseIngles": "This is the farthest I've traveled.",
+        "frasePortugues": "Esta é a distância mais longa que já viajei.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 92,
+        "ingles": "Nearest",
+        "portugues": "Mais próximo",
+        "fraseIngles": "The nearest store is two blocks away.",
+        "frasePortugues": "A loja mais próxima fica a duas quadras.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 93,
+        "ingles": "Latest",
+        "portugues": "Mais recente",
+        "fraseIngles": "What's the latest news?",
+        "frasePortugues": "Quais são as notícias mais recentes?",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 94,
+        "ingles": "Earliest",
+        "portugues": "Mais cedo",
+        "fraseIngles": "The earliest flight is at six AM.",
+        "frasePortugues": "O voo mais cedo é às seis da manhã.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 95,
+        "ingles": "Oldest",
+        "portugues": "Mais velho",
+        "fraseIngles": "He's the oldest in the family.",
+        "frasePortugues": "Ele é o mais velho da família.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 96,
+        "ingles": "Youngest",
+        "portugues": "Mais novo",
+        "fraseIngles": "She's the youngest in the class.",
+        "frasePortugues": "Ela é a mais nova da turma.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 97,
+        "ingles": "Largest",
+        "portugues": "Maior",
+        "fraseIngles": "This is the largest room in the house.",
+        "frasePortugues": "Este é o maior quarto da casa.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 98,
+        "ingles": "Smallest",
+        "portugues": "Menor",
+        "fraseIngles": "This is the smallest size available.",
+        "frasePortugues": "Este é o menor tamanho disponível.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 99,
+        "ingles": "Biggest",
+        "portugues": "Maior",
+        "fraseIngles": "This is the biggest problem we face.",
+        "frasePortugues": "Este é o maior problema que enfrentamos.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 100,
+        "ingles": "Tiniest",
+        "portugues": "Menor",
+        "fraseIngles": "This is the tiniest apartment I've seen.",
+        "frasePortugues": "Este é o menor apartamento que já vi.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 101,
+        "ingles": "Longest",
+        "portugues": "Mais longo",
+        "fraseIngles": "This is the longest river in the country.",
+        "frasePortugues": "Este é o rio mais longo do país.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 102,
+        "ingles": "Shortest",
+        "portugues": "Mais curto",
+        "fraseIngles": "Take the shortest route home.",
+        "frasePortugues": "Pegue o caminho mais curto para casa.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 103,
+        "ingles": "Tallest",
+        "portugues": "Mais alto",
+        "fraseIngles": "He's the tallest player on the team.",
+        "frasePortugues": "Ele é o jogador mais alto do time.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 104,
+        "ingles": "Deepest",
+        "portugues": "Mais profundo",
+        "fraseIngles": "This is the deepest part of the ocean.",
+        "frasePortugues": "Esta é a parte mais profunda do oceano.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 105,
+        "ingles": "Widest",
+        "portugues": "Mais largo",
+        "fraseIngles": "This is the widest street in the city.",
+        "frasePortugues": "Esta é a rua mais larga da cidade.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 106,
+        "ingles": "Narrowest",
+        "portugues": "Mais estreito",
+        "fraseIngles": "This is the narrowest bridge I've crossed.",
+        "frasePortugues": "Esta é a ponte mais estreita que já atravessei.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 107,
+        "ingles": "Heaviest",
+        "portugues": "Mais pesado",
+        "fraseIngles": "This is the heaviest box.",
+        "frasePortugues": "Esta é a caixa mais pesada.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 108,
+        "ingles": "Lightest",
+        "portugues": "Mais leve",
+        "fraseIngles": "This is the lightest material available.",
+        "frasePortugues": "Este é o material mais leve disponível.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 109,
+        "ingles": "Fastest",
+        "portugues": "Mais rápido",
+        "fraseIngles": "He's the fastest runner in school.",
+        "frasePortugues": "Ele é o corredor mais rápido da escola.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 110,
+        "ingles": "Slowest",
+        "portugues": "Mais lento",
+        "fraseIngles": "This is the slowest computer ever.",
+        "frasePortugues": "Este é o computador mais lento de todos.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 111,
+        "ingles": "Strongest",
+        "portugues": "Mais forte",
+        "fraseIngles": "He's the strongest man I know.",
+        "frasePortugues": "Ele é o homem mais forte que conheço.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 112,
+        "ingles": "Weakest",
+        "portugues": "Mais fraco",
+        "fraseIngles": "This is my weakest subject.",
+        "frasePortugues": "Esta é minha matéria mais fraca.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 113,
+        "ingles": "Richest",
+        "portugues": "Mais rico",
+        "fraseIngles": "He's the richest person in town.",
+        "frasePortugues": "Ele é a pessoa mais rica da cidade.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 114,
+        "ingles": "Poorest",
+        "portugues": "Mais pobre",
+        "fraseIngles": "This is the poorest neighborhood.",
+        "frasePortugues": "Este é o bairro mais pobre.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 115,
+        "ingles": "Smartest",
+        "portugues": "Mais inteligente",
+        "fraseIngles": "She's the smartest student in class.",
+        "frasePortugues": "Ela é a aluna mais inteligente da turma.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 116,
+        "ingles": "Happiest",
+        "portugues": "Mais feliz",
+        "fraseIngles": "This was the happiest day of my life.",
+        "frasePortugues": "Este foi o dia mais feliz da minha vida.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 117,
+        "ingles": "Saddest",
+        "portugues": "Mais triste",
+        "fraseIngles": "That was the saddest movie I've ever seen.",
+        "frasePortugues": "Esse foi o filme mais triste que já vi.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 118,
+        "ingles": "Busiest",
+        "portugues": "Mais ocupado",
+        "fraseIngles": "Monday is the busiest day of the week.",
+        "frasePortugues": "Segunda-feira é o dia mais ocupado da semana.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 119,
+        "ingles": "Quietest",
+        "portugues": "Mais quieto",
+        "fraseIngles": "This is the quietest place in the city.",
+        "frasePortugues": "Este é o lugar mais quieto da cidade.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 120,
+        "ingles": "Loudest",
+        "portugues": "Mais alto (barulho)",
+        "fraseIngles": "That was the loudest noise I've heard.",
+        "frasePortugues": "Esse foi o barulho mais alto que já ouvi.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 121,
+        "ingles": "Brightest",
+        "portugues": "Mais brilhante",
+        "fraseIngles": "She's the brightest student in the program.",
+        "frasePortugues": "Ela é a aluna mais brilhante do programa.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 122,
+        "ingles": "Darkest",
+        "portugues": "Mais escuro",
+        "fraseIngles": "This is the darkest room in the house.",
+        "frasePortugues": "Este é o quarto mais escuro da casa.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 123,
+        "ingles": "Hottest",
+        "portugues": "Mais quente",
+        "fraseIngles": "July is the hottest month here.",
+        "frasePortugues": "Julho é o mês mais quente aqui.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 124,
+        "ingles": "Coldest",
+        "portugues": "Mais frio",
+        "fraseIngles": "January is the coldest month.",
+        "frasePortugues": "Janeiro é o mês mais frio.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 125,
+        "ingles": "Wettest",
+        "portugues": "Mais úmido",
+        "fraseIngles": "This is the wettest season.",
+        "frasePortugues": "Esta é a estação mais úmida.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 126,
+        "ingles": "Driest",
+        "portugues": "Mais seco",
+        "fraseIngles": "This is the driest region in the country.",
+        "frasePortugues": "Esta é a região mais seca do país.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 127,
+        "ingles": "Most important",
+        "portugues": "Mais importante",
+        "fraseIngles": "This is the most important decision.",
+        "frasePortugues": "Esta é a decisão mais importante.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 128,
+        "ingles": "Least important",
+        "portugues": "Menos importante",
+        "fraseIngles": "This is the least important issue.",
+        "frasePortugues": "Esta é a questão menos importante.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 129,
+        "ingles": "Most beautiful",
+        "portugues": "Mais bonito",
+        "fraseIngles": "This is the most beautiful place I've visited.",
+        "frasePortugues": "Este é o lugar mais bonito que já visitei.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 130,
+        "ingles": "Most dangerous",
+        "portugues": "Mais perigoso",
+        "fraseIngles": "This is the most dangerous part of the city.",
+        "frasePortugues": "Esta é a parte mais perigosa da cidade.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 131,
+        "ingles": "Most expensive",
+        "portugues": "Mais caro",
+        "fraseIngles": "This is the most expensive restaurant.",
+        "frasePortugues": "Este é o restaurante mais caro.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 132,
+        "ingles": "Least expensive",
+        "portugues": "Menos caro",
+        "fraseIngles": "This is the least expensive option.",
+        "frasePortugues": "Esta é a opção menos cara.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 133,
+        "ingles": "Most popular",
+        "portugues": "Mais popular",
+        "fraseIngles": "This is the most popular song.",
+        "frasePortugues": "Esta é a música mais popular.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 134,
+        "ingles": "Most common",
+        "portugues": "Mais comum",
+        "fraseIngles": "This is the most common mistake.",
+        "frasePortugues": "Este é o erro mais comum.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 135,
+        "ingles": "Most rare",
+        "portugues": "Mais raro",
+        "fraseIngles": "This is the most rare coin.",
+        "frasePortugues": "Esta é a moeda mais rara.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 136,
+        "ingles": "Most difficult",
+        "portugues": "Mais difícil",
+        "fraseIngles": "This is the most difficult exam.",
+        "frasePortugues": "Esta é a prova mais difícil.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 137,
+        "ingles": "Easiest",
+        "portugues": "Mais fácil",
+        "fraseIngles": "This is the easiest way to do it.",
+        "frasePortugues": "Esta é a maneira mais fácil de fazer isso.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 138,
+        "ingles": "Most interesting",
+        "portugues": "Mais interessante",
+        "fraseIngles": "This is the most interesting book.",
+        "frasePortugues": "Este é o livro mais interessante.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 139,
+        "ingles": "Most boring",
+        "portugues": "Mais chato",
+        "fraseIngles": "This was the most boring movie.",
+        "frasePortugues": "Este foi o filme mais chato.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 140,
+        "ingles": "Most exciting",
+        "portugues": "Mais emocionante",
+        "fraseIngles": "This is the most exciting game.",
+        "frasePortugues": "Este é o jogo mais emocionante.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 141,
+        "ingles": "Most surprising",
+        "portugues": "Mais surpreendente",
+        "fraseIngles": "This was the most surprising news.",
+        "frasePortugues": "Esta foi a notícia mais surpreendente.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 142,
+        "ingles": "Thirty-second",
+        "portugues": "Trigésimo segundo",
+        "fraseIngles": "The thirty-second day of the month is rare.",
+        "frasePortugues": "O trigésimo segundo dia do mês é raro.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 143,
+        "ingles": "Thirty-third",
+        "portugues": "Trigésimo terceiro",
+        "fraseIngles": "He lives on the thirty-third floor.",
+        "frasePortugues": "Ele mora no trigésimo terceiro andar.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 144,
+        "ingles": "Thirty-fourth",
+        "portugues": "Trigésimo quarto",
+        "fraseIngles": "This is my thirty-fourth birthday.",
+        "frasePortugues": "Este é meu trigésimo quarto aniversário.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 145,
+        "ingles": "Thirty-fifth",
+        "portugues": "Trigésimo quinto",
+        "fraseIngles": "The thirty-fifth president was young.",
+        "frasePortugues": "O trigésimo quinto presidente era jovem.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 146,
+        "ingles": "Thirty-sixth",
+        "portugues": "Trigésimo sexto",
+        "fraseIngles": "I finished in thirty-sixth place.",
+        "frasePortugues": "Eu terminei em trigésimo sexto lugar.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 147,
+        "ingles": "Thirty-seventh",
+        "portugues": "Trigésimo sétimo",
+        "fraseIngles": "The thirty-seventh chapter is interesting.",
+        "frasePortugues": "O trigésimo sétimo capítulo é interessante.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 148,
+        "ingles": "Thirty-eighth",
+        "portugues": "Trigésimo oitavo",
+        "fraseIngles": "She was born on the thirty-eighth week.",
+        "frasePortugues": "Ela nasceu na trigésima oitava semana.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 149,
+        "ingles": "Thirty-ninth",
+        "portugues": "Trigésimo nono",
+        "fraseIngles": "This is the thirty-ninth attempt.",
+        "frasePortugues": "Esta é a trigésima nona tentativa.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 150,
+        "ingles": "Fortieth",
+        "portugues": "Quadragésimo",
+        "fraseIngles": "This is my fortieth birthday party.",
+        "frasePortugues": "Esta é minha festa de quadragésimo aniversário.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 151,
+        "ingles": "Forty-first",
+        "portugues": "Quadragésimo primeiro",
+        "fraseIngles": "The forty-first state joined the union.",
+        "frasePortugues": "O quadragésimo primeiro estado juntou-se à união.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 152,
+        "ingles": "Forty-second",
+        "portugues": "Quadragésimo segundo",
+        "fraseIngles": "The forty-second street is very busy.",
+        "frasePortugues": "A quadragésima segunda rua é muito movimentada.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 153,
+        "ingles": "Forty-third",
+        "portugues": "Quadragésimo terceiro",
+        "fraseIngles": "He became the forty-third president.",
+        "frasePortugues": "Ele se tornou o quadragésimo terceiro presidente.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 154,
+        "ingles": "Forty-fourth",
+        "portugues": "Quadragésimo quarto",
+        "fraseIngles": "The forty-fourth day of the year.",
+        "frasePortugues": "O quadragésimo quarto dia do ano.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 155,
+        "ingles": "Forty-fifth",
+        "portugues": "Quadragésimo quinto",
+        "fraseIngles": "The forty-fifth anniversary celebration.",
+        "frasePortugues": "A celebração do quadragésimo quinto aniversário.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 156,
+        "ingles": "Forty-sixth",
+        "portugues": "Quadragésimo sexto",
+        "fraseIngles": "She ranked forty-sixth in the competition.",
+        "frasePortugues": "Ela ficou em quadragésimo sexto lugar na competição.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 157,
+        "ingles": "Forty-seventh",
+        "portugues": "Quadragésimo sétimo",
+        "fraseIngles": "The forty-seventh minute of the game.",
+        "frasePortugues": "O quadragésimo sétimo minuto do jogo.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 158,
+        "ingles": "Forty-eighth",
+        "portugues": "Quadragésimo oitavo",
+        "fraseIngles": "The forty-eighth state was Alaska.",
+        "frasePortugues": "O quadragésimo oitavo estado foi o Alasca.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 159,
+        "ingles": "Forty-ninth",
+        "portugues": "Quadragésimo nono",
+        "fraseIngles": "The forty-ninth parallel marks the border.",
+        "frasePortugues": "O quadragésimo nono paralelo marca a fronteira.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 160,
+        "ingles": "Fiftieth",
+        "portugues": "Quinquagésimo",
+        "fraseIngles": "They celebrated their fiftieth wedding anniversary.",
+        "frasePortugues": "Eles comemoraram seu quinquagésimo aniversário de casamento.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 161,
+        "ingles": "Fifty-first",
+        "portugues": "Quinquagésimo primeiro",
+        "fraseIngles": "The fifty-first week of the year.",
+        "frasePortugues": "A quinquagésima primeira semana do ano.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 162,
+        "ingles": "Fifty-second",
+        "portugues": "Quinquagésimo segundo",
+        "fraseIngles": "The fifty-second card in the deck.",
+        "frasePortugues": "A quinquagésima segunda carta do baralho.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 163,
+        "ingles": "Fifty-third",
+        "portugues": "Quinquagésimo terceiro",
+        "fraseIngles": "The fifty-third day of school.",
+        "frasePortugues": "O quinquagésimo terceiro dia de aula.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 164,
+        "ingles": "Fifty-fourth",
+        "portugues": "Quinquagésimo quarto",
+        "fraseIngles": "The fifty-fourth floor has a great view.",
+        "frasePortugues": "O quinquagésimo quarto andar tem uma vista incrível.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 165,
+        "ingles": "Fifty-fifth",
+        "portugues": "Quinquagésimo quinto",
+        "fraseIngles": "This is the fifty-fifth year of the company.",
+        "frasePortugues": "Este é o quinquagésimo quinto ano da empresa.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 166,
+        "ingles": "Fifty-sixth",
+        "portugues": "Quinquagésimo sexto",
+        "fraseIngles": "The fifty-sixth participant arrived late.",
+        "frasePortugues": "O quinquagésimo sexto participante chegou atrasado.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 167,
+        "ingles": "Fifty-seventh",
+        "portugues": "Quinquagésimo sétimo",
+        "fraseIngles": "The fifty-seventh page contains the answer.",
+        "frasePortugues": "A quinquagésima sétima página contém a resposta.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 168,
+        "ingles": "Fifty-eighth",
+        "portugues": "Quinquagésimo oitavo",
+        "fraseIngles": "The fifty-eighth attempt was successful.",
+        "frasePortugues": "A quinquagésima oitava tentativa foi bem-sucedida.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 169,
+        "ingles": "Fifty-ninth",
+        "portugues": "Quinquagésimo nono",
+        "fraseIngles": "The fifty-ninth second of the minute.",
+        "frasePortugues": "O quinquagésimo nono segundo do minuto.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 170,
+        "ingles": "Sixtieth",
+        "portugues": "Sexagésimo",
+        "fraseIngles": "My grandmother's sixtieth birthday was special.",
+        "frasePortugues": "O sexagésimo aniversário da minha avó foi especial.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 171,
+        "ingles": "Sixty-first",
+        "portugues": "Sexagésimo primeiro",
+        "fraseIngles": "The sixty-first day of spring.",
+        "frasePortugues": "O sexagésimo primeiro dia da primavera.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 172,
+        "ingles": "Sixty-second",
+        "portugues": "Sexagésimo segundo",
+        "fraseIngles": "The sixty-second element on the periodic table.",
+        "frasePortugues": "O sexagésimo segundo elemento da tabela periódica.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 173,
+        "ingles": "Sixty-third",
+        "portugues": "Sexagésimo terceiro",
+        "fraseIngles": "The sixty-third customer gets a discount.",
+        "frasePortugues": "O sexagésimo terceiro cliente ganha um desconto.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 174,
+        "ingles": "Sixty-fourth",
+        "portugues": "Sexagésimo quarto",
+        "fraseIngles": "The sixty-fourth square on the chessboard.",
+        "frasePortugues": "A sexagésima quarta casa do tabuleiro de xadrez.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 175,
+        "ingles": "Sixty-fifth",
+        "portugues": "Sexagésimo quinto",
+        "fraseIngles": "The sixty-fifth anniversary of independence.",
+        "frasePortugues": "O sexagésimo quinto aniversário da independência.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 176,
+        "ingles": "Sixty-sixth",
+        "portugues": "Sexagésimo sexto",
+        "fraseIngles": "The sixty-sixth route goes through the mountains.",
+        "frasePortugues": "A sexagésima sexta rota passa pelas montanhas.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 177,
+        "ingles": "Sixty-seventh",
+        "portugues": "Sexagésimo sétimo",
+        "fraseIngles": "The sixty-seventh minute of the match.",
+        "frasePortugues": "O sexagésimo sétimo minuto da partida.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 178,
+        "ingles": "Sixty-eighth",
+        "portugues": "Sexagésimo oitavo",
+        "fraseIngles": "The sixty-eighth day of the year.",
+        "frasePortugues": "O sexagésimo oitavo dia do ano.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 179,
+        "ingles": "Sixty-ninth",
+        "portugues": "Sexagésimo nono",
+        "fraseIngles": "The sixty-ninth participant won the prize.",
+        "frasePortugues": "O sexagésimo nono participante ganhou o prêmio.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 180,
+        "ingles": "Seventieth",
+        "portugues": "Septuagésimo",
+        "fraseIngles": "The seventieth anniversary of the school.",
+        "frasePortugues": "O septuagésimo aniversário da escola.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 181,
+        "ingles": "Seventy-first",
+        "portugues": "Septuagésimo primeiro",
+        "fraseIngles": "The seventy-first day of summer.",
+        "frasePortugues": "O septuagésimo primeiro dia do verão.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 182,
+        "ingles": "Seventy-second",
+        "portugues": "Septuagésimo segundo",
+        "fraseIngles": "The seventy-second player joined the team.",
+        "frasePortugues": "O septuagésimo segundo jogador juntou-se ao time.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 183,
+        "ingles": "Seventy-third",
+        "portugues": "Septuagésimo terceiro",
+        "fraseIngles": "The seventy-third chapter is the longest.",
+        "frasePortugues": "O septuagésimo terceiro capítulo é o mais longo.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 184,
+        "ingles": "Seventy-fourth",
+        "portugues": "Septuagésimo quarto",
+        "fraseIngles": "The seventy-fourth floor is the top floor.",
+        "frasePortugues": "O septuagésimo quarto andar é o último andar.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 185,
+        "ingles": "Seventy-fifth",
+        "portugues": "Septuagésimo quinto",
+        "fraseIngles": "The seventy-fifth anniversary celebration.",
+        "frasePortugues": "A celebração do septuagésimo quinto aniversário.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 186,
+        "ingles": "Seventy-sixth",
+        "portugues": "Septuagésimo sexto",
+        "fraseIngles": "The seventy-sixth day of the semester.",
+        "frasePortugues": "O septuagésimo sexto dia do semestre.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 187,
+        "ingles": "Seventy-seventh",
+        "portugues": "Septuagésimo sétimo",
+        "fraseIngles": "The seventy-seventh street is under construction.",
+        "frasePortugues": "A septuagésima sétima rua está em construção.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 188,
+        "ingles": "Seventy-eighth",
+        "portugues": "Septuagésimo oitavo",
+        "fraseIngles": "The seventy-eighth minute was crucial.",
+        "frasePortugues": "O septuagésimo oitavo minuto foi crucial.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 189,
+        "ingles": "Seventy-ninth",
+        "portugues": "Septuagésimo nono",
+        "fraseIngles": "The seventy-ninth attempt finally worked.",
+        "frasePortugues": "A septuagésima nona tentativa finalmente funcionou.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 190,
+        "ingles": "Eightieth",
+        "portugues": "Octogésimo",
+        "fraseIngles": "My grandfather celebrated his eightieth birthday.",
+        "frasePortugues": "Meu avô comemorou seu octogésimo aniversário.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 191,
+        "ingles": "Eighty-first",
+        "portugues": "Octogésimo primeiro",
+        "fraseIngles": "The eighty-first day of the year.",
+        "frasePortugues": "O octogésimo primeiro dia do ano.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 192,
+        "ingles": "Eighty-second",
+        "portugues": "Octogésimo segundo",
+        "fraseIngles": "The eighty-second airborne division.",
+        "frasePortugues": "A octogésima segunda divisão aerotransportada.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 193,
+        "ingles": "Eighty-third",
+        "portugues": "Octogésimo terceiro",
+        "fraseIngles": "The eighty-third page has important information.",
+        "frasePortugues": "A octogésima terceira página tem informações importantes.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 194,
+        "ingles": "Eighty-fourth",
+        "portugues": "Octogésimo quarto",
+        "fraseIngles": "The eighty-fourth student graduated.",
+        "frasePortugues": "O octogésimo quarto aluno se formou.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 195,
+        "ingles": "Eighty-fifth",
+        "portugues": "Octogésimo quinto",
+        "fraseIngles": "The eighty-fifth anniversary of the museum.",
+        "frasePortugues": "O octogésimo quinto aniversário do museu.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 196,
+        "ingles": "Eighty-sixth",
+        "portugues": "Octogésimo sexto",
+        "fraseIngles": "The eighty-sixth floor has a restaurant.",
+        "frasePortugues": "O octogésimo sexto andar tem um restaurante.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 197,
+        "ingles": "Eighty-seventh",
+        "portugues": "Octogésimo sétimo",
+        "fraseIngles": "The eighty-seventh day of school.",
+        "frasePortugues": "O octogésimo sétimo dia de aula.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 198,
+        "ingles": "Eighty-eighth",
+        "portugues": "Octogésimo oitavo",
+        "fraseIngles": "The eighty-eighth key on the piano.",
+        "frasePortugues": "A octogésima oitava tecla do piano.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 199,
+        "ingles": "Eighty-ninth",
+        "portugues": "Octogésimo nono",
+        "fraseIngles": "The eighty-ninth participant arrived.",
+        "frasePortugues": "O octogésimo nono participante chegou.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 200,
+        "ingles": "Ninetieth",
+        "portugues": "Nonagésimo",
+        "fraseIngles": "She reached her ninetieth birthday.",
+        "frasePortugues": "Ela chegou ao seu nonagésimo aniversário.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 201,
+        "ingles": "Ninety-first",
+        "portugues": "Nonagésimo primeiro",
+        "fraseIngles": "The ninety-first day of spring.",
+        "frasePortugues": "O nonagésimo primeiro dia da primavera.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 202,
+        "ingles": "Ninety-second",
+        "portugues": "Nonagésimo segundo",
+        "fraseIngles": "The ninety-second street is very long.",
+        "frasePortugues": "A nonagésima segunda rua é muito longa.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 203,
+        "ingles": "Ninety-third",
+        "portugues": "Nonagésimo terceiro",
+        "fraseIngles": "The ninety-third minute of the game.",
+        "frasePortugues": "O nonagésimo terceiro minuto do jogo.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 204,
+        "ingles": "Ninety-fourth",
+        "portugues": "Nonagésimo quarto",
+        "fraseIngles": "The ninety-fourth chapter concludes the book.",
+        "frasePortugues": "O nonagésimo quarto capítulo conclui o livro.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 205,
+        "ingles": "Ninety-fifth",
+        "portugues": "Nonagésimo quinto",
+        "fraseIngles": "The ninety-fifth percentile is very high.",
+        "frasePortugues": "O nonagésimo quinto percentil é muito alto.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 206,
+        "ingles": "Ninety-sixth",
+        "portugues": "Nonagésimo sexto",
+        "fraseIngles": "The ninety-sixth day of the year.",
+        "frasePortugues": "O nonagésimo sexto dia do ano.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 207,
+        "ingles": "Ninety-seventh",
+        "portugues": "Nonagésimo sétimo",
+        "fraseIngles": "The ninety-seventh attempt was successful.",
+        "frasePortugues": "A nonagésima sétima tentativa foi bem-sucedida.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 208,
+        "ingles": "Ninety-eighth",
+        "portugues": "Nonagésimo oitavo",
+        "fraseIngles": "The ninety-eighth floor is almost the top.",
+        "frasePortugues": "O nonagésimo oitavo andar é quase o último.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 209,
+        "ingles": "Ninety-ninth",
+        "portugues": "Nonagésimo nono",
+        "fraseIngles": "The ninety-ninth problem is the hardest.",
+        "frasePortugues": "O nonagésimo nono problema é o mais difícil.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    },
+    {
+        "id": 210,
+        "ingles": "One hundredth",
+        "portugues": "Centésimo",
+        "fraseIngles": "This is the one hundredth day of school.",
+        "frasePortugues": "Este é o centésimo dia de aula.",
+        "subtopico": "Ordinais",
+        "topico": "Números"
+    }
+]

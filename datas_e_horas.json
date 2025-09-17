@@ -1,0 +1,1514 @@
+[
+    {
+        "id": 1,
+        "ingles": "Monday",
+        "portugues": "Segunda-feira",
+        "fraseIngles": "I start work on Monday morning.",
+        "frasePortugues": "Eu começo a trabalhar na segunda-feira de manhã.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 2,
+        "ingles": "Tuesday",
+        "portugues": "Terça-feira",
+        "fraseIngles": "The meeting is scheduled for Tuesday.",
+        "frasePortugues": "A reunião está marcada para terça-feira.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 3,
+        "ingles": "Wednesday",
+        "portugues": "Quarta-feira",
+        "fraseIngles": "Wednesday is the middle of the week.",
+        "frasePortugues": "Quarta-feira é o meio da semana.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 4,
+        "ingles": "Thursday",
+        "portugues": "Quinta-feira",
+        "fraseIngles": "I have a doctor's appointment on Thursday.",
+        "frasePortugues": "Tenho consulta médica na quinta-feira.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 5,
+        "ingles": "Friday",
+        "portugues": "Sexta-feira",
+        "fraseIngles": "Thank God it's Friday!",
+        "frasePortugues": "Graças a Deus é sexta-feira!",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 6,
+        "ingles": "Saturday",
+        "portugues": "Sábado",
+        "fraseIngles": "We usually go shopping on Saturday.",
+        "frasePortugues": "Geralmente fazemos compras no sábado.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 7,
+        "ingles": "Sunday",
+        "portugues": "Domingo",
+        "fraseIngles": "Sunday is a day of rest.",
+        "frasePortugues": "Domingo é um dia de descanso.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 8,
+        "ingles": "January",
+        "portugues": "Janeiro",
+        "fraseIngles": "January is the first month of the year.",
+        "frasePortugues": "Janeiro é o primeiro mês do ano.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 9,
+        "ingles": "February",
+        "portugues": "Fevereiro",
+        "fraseIngles": "February has only twenty-eight days.",
+        "frasePortugues": "Fevereiro tem apenas vinte e oito dias.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 10,
+        "ingles": "March",
+        "portugues": "Março",
+        "fraseIngles": "Spring begins in March.",
+        "frasePortugues": "A primavera começa em março.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 11,
+        "ingles": "April",
+        "portugues": "Abril",
+        "fraseIngles": "April showers bring May flowers.",
+        "frasePortugues": "As chuvas de abril trazem as flores de maio.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 12,
+        "ingles": "May",
+        "portugues": "Maio",
+        "fraseIngles": "May is a beautiful month.",
+        "frasePortugues": "Maio é um mês lindo.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 13,
+        "ingles": "June",
+        "portugues": "Junho",
+        "fraseIngles": "School ends in June.",
+        "frasePortugues": "A escola termina em junho.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 14,
+        "ingles": "July",
+        "portugues": "Julho",
+        "fraseIngles": "July is the hottest month here.",
+        "frasePortugues": "Julho é o mês mais quente aqui.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 15,
+        "ingles": "August",
+        "portugues": "Agosto",
+        "fraseIngles": "We go on vacation in August.",
+        "frasePortugues": "Nós viajamos de férias em agosto.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 16,
+        "ingles": "September",
+        "portugues": "Setembro",
+        "fraseIngles": "School starts again in September.",
+        "frasePortugues": "A escola recomeça em setembro.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 17,
+        "ingles": "October",
+        "portugues": "Outubro",
+        "fraseIngles": "October is autumn in the northern hemisphere.",
+        "frasePortugues": "Outubro é outono no hemisfério norte.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 18,
+        "ingles": "November",
+        "portugues": "Novembro",
+        "fraseIngles": "Thanksgiving is in November in the US.",
+        "frasePortugues": "O Dia de Ação de Graças é em novembro nos EUA.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 19,
+        "ingles": "December",
+        "portugues": "Dezembro",
+        "fraseIngles": "Christmas is in December.",
+        "frasePortugues": "O Natal é em dezembro.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 20,
+        "ingles": "Today",
+        "portugues": "Hoje",
+        "fraseIngles": "What are you doing today?",
+        "frasePortugues": "O que você está fazendo hoje?",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 21,
+        "ingles": "Tomorrow",
+        "portugues": "Amanhã",
+        "fraseIngles": "I will call you tomorrow.",
+        "frasePortugues": "Eu vou te ligar amanhã.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 22,
+        "ingles": "Yesterday",
+        "portugues": "Ontem",
+        "fraseIngles": "I saw her yesterday at the mall.",
+        "frasePortugues": "Eu a vi ontem no shopping.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 23,
+        "ingles": "Week",
+        "portugues": "Semana",
+        "fraseIngles": "There are seven days in a week.",
+        "frasePortugues": "Há sete dias em uma semana.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 24,
+        "ingles": "Month",
+        "portugues": "Mês",
+        "fraseIngles": "This month has been very busy.",
+        "frasePortugues": "Este mês tem sido muito corrido.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 25,
+        "ingles": "Year",
+        "portugues": "Ano",
+        "fraseIngles": "Happy New Year!",
+        "frasePortugues": "Feliz Ano Novo!",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 26,
+        "ingles": "Morning",
+        "portugues": "Manhã",
+        "fraseIngles": "I drink coffee every morning.",
+        "frasePortugues": "Eu bebo café toda manhã.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 27,
+        "ingles": "Afternoon",
+        "portugues": "Tarde",
+        "fraseIngles": "The meeting is this afternoon.",
+        "frasePortugues": "A reunião é esta tarde.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 28,
+        "ingles": "Evening",
+        "portugues": "Noite",
+        "fraseIngles": "We have dinner in the evening.",
+        "frasePortugues": "Nós jantamos no início da noite.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 29,
+        "ingles": "Night",
+        "portugues": "Noite",
+        "fraseIngles": "Good night, sleep well!",
+        "frasePortugues": "Boa noite, durma bem!",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 30,
+        "ingles": "O'clock",
+        "portugues": "Horas",
+        "fraseIngles": "The class starts at nine o'clock.",
+        "frasePortugues": "A aula começa às nove horas.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 31,
+        "ingles": "Half past",
+        "portugues": "E meia",
+        "fraseIngles": "It's half past two.",
+        "frasePortugues": "São duas e meia.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 32,
+        "ingles": "Quarter past",
+        "portugues": "E quinze",
+        "fraseIngles": "It's quarter past four.",
+        "frasePortugues": "São quatro e quinze.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 33,
+        "ingles": "Quarter to",
+        "portugues": "Quinze para",
+        "fraseIngles": "It's quarter to six.",
+        "frasePortugues": "São quinze para as seis.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 34,
+        "ingles": "AM",
+        "portugues": "Manhã",
+        "fraseIngles": "I wake up at 7 AM every day.",
+        "frasePortugues": "Eu acordo às 7 da manhã todos os dias.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 35,
+        "ingles": "PM",
+        "portugues": "Tarde e noite",
+        "fraseIngles": "The store closes at 10 PM.",
+        "frasePortugues": "A loja fecha às 10 da noite.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 36,
+        "ingles": "Midnight",
+        "portugues": "Meia-noite",
+        "fraseIngles": "The party ends at midnight.",
+        "frasePortugues": "A festa termina à meia-noite.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 37,
+        "ingles": "Noon",
+        "portugues": "Meio-dia",
+        "fraseIngles": "We have lunch at noon.",
+        "frasePortugues": "Nós almoçamos ao meio-dia.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 38,
+        "ingles": "Early",
+        "portugues": "Cedo",
+        "fraseIngles": "I prefer to wake up early.",
+        "frasePortugues": "Eu prefiro acordar cedo.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 39,
+        "ingles": "Late",
+        "portugues": "Tarde",
+        "fraseIngles": "Sorry I'm late for the meeting.",
+        "frasePortugues": "Desculpe, estou atrasado para a reunião.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 40,
+        "ingles": "On time",
+        "portugues": "Na hora",
+        "fraseIngles": "Please arrive on time for the interview.",
+        "frasePortugues": "Por favor, chegue na hora para a entrevista.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 41,
+        "ingles": "Weekday",
+        "portugues": "Dia útil",
+        "fraseIngles": "I work on weekdays only.",
+        "frasePortugues": "Eu trabalho apenas em dias úteis.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 42,
+        "ingles": "Weekend",
+        "portugues": "Final de semana",
+        "fraseIngles": "We relax on the weekend.",
+        "frasePortugues": "Nós relaxamos no final de semana.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 43,
+        "ingles": "Workday",
+        "portugues": "Dia de trabalho",
+        "fraseIngles": "Today is a busy workday.",
+        "frasePortugues": "Hoje é um dia de trabalho corrido.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 44,
+        "ingles": "Holiday",
+        "portugues": "Feriado",
+        "fraseIngles": "Christmas is my favorite holiday.",
+        "frasePortugues": "O Natal é meu feriado favorito.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 45,
+        "ingles": "Vacation",
+        "portugues": "Férias",
+        "fraseIngles": "Summer vacation lasts three months.",
+        "frasePortugues": "As férias de verão duram três meses.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 46,
+        "ingles": "Break",
+        "portugues": "Intervalo",
+        "fraseIngles": "Let's take a ten-minute break.",
+        "frasePortugues": "Vamos fazer um intervalo de dez minutos.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 47,
+        "ingles": "Season",
+        "portugues": "Estação",
+        "fraseIngles": "Which season do you prefer?",
+        "frasePortugues": "Qual estação você prefere?",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 48,
+        "ingles": "Spring",
+        "portugues": "Primavera",
+        "fraseIngles": "Flowers bloom in spring.",
+        "frasePortugues": "As flores desabrocham na primavera.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 49,
+        "ingles": "Summer",
+        "portugues": "Verão",
+        "fraseIngles": "Summer is hot and sunny.",
+        "frasePortugues": "O verão é quente e ensolarado.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 50,
+        "ingles": "Fall",
+        "portugues": "Outono",
+        "fraseIngles": "Leaves change color in fall.",
+        "frasePortugues": "As folhas mudam de cor no outono.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 51,
+        "ingles": "Autumn",
+        "portugues": "Outono",
+        "fraseIngles": "Autumn is beautiful here.",
+        "frasePortugues": "O outono é lindo aqui.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 52,
+        "ingles": "Winter",
+        "portugues": "Inverno",
+        "fraseIngles": "It snows in winter.",
+        "frasePortugues": "Neva no inverno.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 53,
+        "ingles": "Dawn",
+        "portugues": "Amanhecer",
+        "fraseIngles": "We woke up at dawn.",
+        "frasePortugues": "Nós acordamos ao amanhecer.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 54,
+        "ingles": "Dusk",
+        "portugues": "Anoitecer",
+        "fraseIngles": "The sky is beautiful at dusk.",
+        "frasePortugues": "O céu fica lindo no anoitecer.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 55,
+        "ingles": "Sunrise",
+        "portugues": "Nascer do sol",
+        "fraseIngles": "I love watching the sunrise.",
+        "frasePortugues": "Eu amo assistir o nascer do sol.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 56,
+        "ingles": "Sunset",
+        "portugues": "Pôr do sol",
+        "fraseIngles": "The sunset was magnificent.",
+        "frasePortugues": "O pôr do sol estava magnífico.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 57,
+        "ingles": "Hour",
+        "portugues": "Hora",
+        "fraseIngles": "The meeting lasted one hour.",
+        "frasePortugues": "A reunião durou uma hora.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 58,
+        "ingles": "Minute",
+        "portugues": "Minuto",
+        "fraseIngles": "Wait a minute, please.",
+        "frasePortugues": "Espere um minuto, por favor.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 59,
+        "ingles": "Second",
+        "portugues": "Segundo",
+        "fraseIngles": "The race was won by one second.",
+        "frasePortugues": "A corrida foi ganha por um segundo.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 60,
+        "ingles": "Clock",
+        "portugues": "Relógio",
+        "fraseIngles": "The clock on the wall is wrong.",
+        "frasePortugues": "O relógio na parede está errado.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 61,
+        "ingles": "Watch",
+        "portugues": "Relógio de pulso",
+        "fraseIngles": "My watch stopped working.",
+        "frasePortugues": "Meu relógio parou de funcionar.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 62,
+        "ingles": "Time",
+        "portugues": "Tempo",
+        "fraseIngles": "What time is it?",
+        "frasePortugues": "Que horas são?",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 63,
+        "ingles": "Schedule",
+        "portugues": "Horário",
+        "fraseIngles": "Check the bus schedule.",
+        "frasePortugues": "Verifique o horário do ônibus.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 64,
+        "ingles": "Appointment",
+        "portugues": "Compromisso",
+        "fraseIngles": "I have a dentist appointment.",
+        "frasePortugues": "Eu tenho um compromisso com o dentista.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 65,
+        "ingles": "Meeting",
+        "portugues": "Reunião",
+        "fraseIngles": "The meeting starts at three.",
+        "frasePortugues": "A reunião começa às três.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 66,
+        "ingles": "Deadline",
+        "portugues": "Prazo",
+        "fraseIngles": "The deadline is tomorrow.",
+        "frasePortugues": "O prazo é amanhã.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 67,
+        "ingles": "Duration",
+        "portugues": "Duração",
+        "fraseIngles": "The movie's duration is two hours.",
+        "frasePortugues": "A duração do filme é de duas horas.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 68,
+        "ingles": "Period",
+        "portugues": "Período",
+        "fraseIngles": "This period was very productive.",
+        "frasePortugues": "Este período foi muito produtivo.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 69,
+        "ingles": "Moment",
+        "portugues": "Momento",
+        "fraseIngles": "Wait a moment, please.",
+        "frasePortugues": "Espere um momento, por favor.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 70,
+        "ingles": "Instant",
+        "portugues": "Instante",
+        "fraseIngles": "It happened in an instant.",
+        "frasePortugues": "Aconteceu em um instante.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 71,
+        "ingles": "Now",
+        "portugues": "Agora",
+        "fraseIngles": "We need to leave now.",
+        "frasePortugues": "Precisamos partir agora.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 72,
+        "ingles": "Then",
+        "portugues": "Então",
+        "fraseIngles": "I was young then.",
+        "frasePortugues": "Eu era jovem então.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 73,
+        "ingles": "Soon",
+        "portugues": "Logo",
+        "fraseIngles": "I'll be there soon.",
+        "frasePortugues": "Eu estarei lá logo.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 74,
+        "ingles": "Later",
+        "portugues": "Mais tarde",
+        "fraseIngles": "I'll call you later.",
+        "frasePortugues": "Eu te ligo mais tarde.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 75,
+        "ingles": "Before",
+        "portugues": "Antes",
+        "fraseIngles": "I arrived before you.",
+        "frasePortugues": "Eu cheguei antes de você.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 76,
+        "ingles": "After",
+        "portugues": "Depois",
+        "fraseIngles": "We'll eat after the movie.",
+        "frasePortugues": "Vamos comer depois do filme.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 77,
+        "ingles": "During",
+        "portugues": "Durante",
+        "fraseIngles": "It rained during the night.",
+        "frasePortugues": "Choveu durante a noite.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 78,
+        "ingles": "While",
+        "portugues": "Enquanto",
+        "fraseIngles": "I read while you cook.",
+        "frasePortugues": "Eu leio enquanto você cozinha.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 79,
+        "ingles": "Since",
+        "portugues": "Desde",
+        "fraseIngles": "I've lived here since 2010.",
+        "frasePortugues": "Eu moro aqui desde 2010.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 80,
+        "ingles": "Until",
+        "portugues": "Até",
+        "fraseIngles": "Wait until I return.",
+        "frasePortugues": "Espere até eu voltar.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 81,
+        "ingles": "Already",
+        "portugues": "Já",
+        "fraseIngles": "I've already finished my work.",
+        "frasePortugues": "Eu já terminei meu trabalho.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 82,
+        "ingles": "Still",
+        "portugues": "Ainda",
+        "fraseIngles": "It's still raining outside.",
+        "frasePortugues": "Ainda está chovendo lá fora.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 83,
+        "ingles": "Yet",
+        "portugues": "Ainda",
+        "fraseIngles": "He hasn't arrived yet.",
+        "frasePortugues": "Ele ainda não chegou.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 84,
+        "ingles": "Always",
+        "portugues": "Sempre",
+        "fraseIngles": "I always drink coffee in the morning.",
+        "frasePortugues": "Eu sempre bebo café de manhã.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 85,
+        "ingles": "Never",
+        "portugues": "Nunca",
+        "fraseIngles": "I never eat fast food.",
+        "frasePortugues": "Eu nunca como fast food.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 86,
+        "ingles": "Sometimes",
+        "portugues": "Às vezes",
+        "fraseIngles": "Sometimes I walk to work.",
+        "frasePortugues": "Às vezes eu vou a pé para o trabalho.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 87,
+        "ingles": "Often",
+        "portugues": "Frequentemente",
+        "fraseIngles": "I often visit my parents.",
+        "frasePortugues": "Eu visito meus pais frequentemente.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 88,
+        "ingles": "Usually",
+        "portugues": "Geralmente",
+        "fraseIngles": "I usually wake up at seven.",
+        "frasePortugues": "Eu geralmente acordo às sete.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 89,
+        "ingles": "Rarely",
+        "portugues": "Raramente",
+        "fraseIngles": "I rarely watch TV.",
+        "frasePortugues": "Eu raramente assisto TV.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 90,
+        "ingles": "Occasionally",
+        "portugues": "Ocasionalmente",
+        "fraseIngles": "I occasionally eat chocolate.",
+        "frasePortugues": "Eu ocasionalmente como chocolate.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 91,
+        "ingles": "Frequently",
+        "portugues": "Frequentemente",
+        "fraseIngles": "I frequently travel for work.",
+        "frasePortugues": "Eu viajo frequentemente a trabalho.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 92,
+        "ingles": "Regularly",
+        "portugues": "Regularmente",
+        "fraseIngles": "I exercise regularly.",
+        "frasePortugues": "Eu me exercito regularmente.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 93,
+        "ingles": "Daily",
+        "portugues": "Diariamente",
+        "fraseIngles": "I read the news daily.",
+        "frasePortugues": "Eu leio as notícias diariamente.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 94,
+        "ingles": "Weekly",
+        "portugues": "Semanalmente",
+        "fraseIngles": "We meet weekly for coffee.",
+        "frasePortugues": "Nos encontramos semanalmente para um café.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 95,
+        "ingles": "Monthly",
+        "portugues": "Mensalmente",
+        "fraseIngles": "I pay my bills monthly.",
+        "frasePortugues": "Eu pago minhas contas mensalmente.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 96,
+        "ingles": "Annually",
+        "portugues": "Anualmente",
+        "fraseIngles": "We take a vacation annually.",
+        "frasePortugues": "Nós viajamos de férias anualmente.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 97,
+        "ingles": "Yearly",
+        "portugues": "Anualmente",
+        "fraseIngles": "The conference happens yearly.",
+        "frasePortugues": "A conferência acontece anualmente.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 98,
+        "ingles": "Hourly",
+        "portugues": "Por hora",
+        "fraseIngles": "I'm paid hourly.",
+        "frasePortugues": "Eu sou pago por hora.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 99,
+        "ingles": "Once",
+        "portugues": "Uma vez",
+        "fraseIngles": "I've been there once.",
+        "frasePortugues": "Eu estive lá uma vez.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 100,
+        "ingles": "Twice",
+        "portugues": "Duas vezes",
+        "fraseIngles": "I called you twice.",
+        "frasePortugues": "Eu te liguei duas vezes.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 101,
+        "ingles": "Three times",
+        "portugues": "Três vezes",
+        "fraseIngles": "I've seen that movie three times.",
+        "frasePortugues": "Eu vi esse filme três vezes.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 102,
+        "ingles": "Several times",
+        "portugues": "Várias vezes",
+        "fraseIngles": "I've told you several times.",
+        "frasePortugues": "Eu te disse várias vezes.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 103,
+        "ingles": "Many times",
+        "portugues": "Muitas vezes",
+        "fraseIngles": "I've been there many times.",
+        "frasePortugues": "Eu estive lá muitas vezes.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 104,
+        "ingles": "Few times",
+        "portugues": "Poucas vezes",
+        "fraseIngles": "I've only been there a few times.",
+        "frasePortugues": "Eu só estive lá poucas vezes.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 105,
+        "ingles": "First time",
+        "portugues": "Primeira vez",
+        "fraseIngles": "This is my first time here.",
+        "frasePortugues": "Esta é minha primeira vez aqui.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 106,
+        "ingles": "Last time",
+        "portugues": "Última vez",
+        "fraseIngles": "This is the last time I help you.",
+        "frasePortugues": "Esta é a última vez que te ajudo.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 107,
+        "ingles": "Next time",
+        "portugues": "Próxima vez",
+        "fraseIngles": "I'll remember next time.",
+        "frasePortugues": "Eu vou lembrar na próxima vez.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 108,
+        "ingles": "Every day",
+        "portugues": "Todo dia",
+        "fraseIngles": "I study English every day.",
+        "frasePortugues": "Eu estudo inglês todo dia.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 109,
+        "ingles": "Every week",
+        "portugues": "Toda semana",
+        "fraseIngles": "We clean the house every week.",
+        "frasePortugues": "Nós limpamos a casa toda semana.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 110,
+        "ingles": "Every month",
+        "portugues": "Todo mês",
+        "fraseIngles": "I visit the doctor every month.",
+        "frasePortugues": "Eu visito o médico todo mês.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 111,
+        "ingles": "Every year",
+        "portugues": "Todo ano",
+        "fraseIngles": "We celebrate every year.",
+        "frasePortugues": "Nós comemoramos todo ano.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 112,
+        "ingles": "All day",
+        "portugues": "O dia todo",
+        "fraseIngles": "It rained all day.",
+        "frasePortugues": "Choveu o dia todo.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 113,
+        "ingles": "All night",
+        "portugues": "A noite toda",
+        "fraseIngles": "I worked all night.",
+        "frasePortugues": "Eu trabalhei a noite toda.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 114,
+        "ingles": "All week",
+        "portugues": "A semana toda",
+        "fraseIngles": "I was sick all week.",
+        "frasePortugues": "Eu estive doente a semana toda.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 115,
+        "ingles": "All month",
+        "portugues": "O mês todo",
+        "fraseIngles": "It was hot all month.",
+        "frasePortugues": "Fez calor o mês todo.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 116,
+        "ingles": "This morning",
+        "portugues": "Esta manhã",
+        "fraseIngles": "I woke up late this morning.",
+        "frasePortugues": "Eu acordei tarde esta manhã.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 117,
+        "ingles": "This afternoon",
+        "portugues": "Esta tarde",
+        "fraseIngles": "We have a meeting this afternoon.",
+        "frasePortugues": "Temos uma reunião esta tarde.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 118,
+        "ingles": "This evening",
+        "portugues": "Esta noite",
+        "fraseIngles": "We're going out this evening.",
+        "frasePortugues": "Vamos sair esta noite.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 119,
+        "ingles": "Tonight",
+        "portugues": "Esta noite",
+        "fraseIngles": "What are you doing tonight?",
+        "frasePortugues": "O que você vai fazer esta noite?",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 120,
+        "ingles": "Last night",
+        "portugues": "Ontem à noite",
+        "fraseIngles": "I slept well last night.",
+        "frasePortugues": "Eu dormi bem ontem à noite.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 121,
+        "ingles": "Last week",
+        "portugues": "Semana passada",
+        "fraseIngles": "I was on vacation last week.",
+        "frasePortugues": "Eu estava de férias na semana passada.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 122,
+        "ingles": "Last month",
+        "portugues": "Mês passado",
+        "fraseIngles": "I moved here last month.",
+        "frasePortugues": "Eu me mudei para cá no mês passado.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 123,
+        "ingles": "Last year",
+        "portugues": "Ano passado",
+        "fraseIngles": "I graduated last year.",
+        "frasePortugues": "Eu me formei no ano passado.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 124,
+        "ingles": "Next week",
+        "portugues": "Próxima semana",
+        "fraseIngles": "I'll be traveling next week.",
+        "frasePortugues": "Estarei viajando na próxima semana.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 125,
+        "ingles": "Next month",
+        "portugues": "Próximo mês",
+        "fraseIngles": "My birthday is next month.",
+        "frasePortugues": "Meu aniversário é no próximo mês.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 126,
+        "ingles": "Next year",
+        "portugues": "Próximo ano",
+        "fraseIngles": "I'll graduate next year.",
+        "frasePortugues": "Vou me formar no próximo ano.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 127,
+        "ingles": "This week",
+        "portugues": "Esta semana",
+        "fraseIngles": "This week is very busy.",
+        "frasePortugues": "Esta semana está muito corrida.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 128,
+        "ingles": "This month",
+        "portugues": "Este mês",
+        "fraseIngles": "This month flew by quickly.",
+        "frasePortugues": "Este mês passou voando.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 129,
+        "ingles": "This year",
+        "portugues": "Este ano",
+        "fraseIngles": "This year has been challenging.",
+        "frasePortugues": "Este ano tem sido desafiador.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 130,
+        "ingles": "Two days ago",
+        "portugues": "Dois dias atrás",
+        "fraseIngles": "I saw him two days ago.",
+        "frasePortugues": "Eu o vi dois dias atrás.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 131,
+        "ingles": "Three weeks ago",
+        "portugues": "Três semanas atrás",
+        "fraseIngles": "I started this job three weeks ago.",
+        "frasePortugues": "Comecei este trabalho três semanas atrás.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 132,
+        "ingles": "A month ago",
+        "portugues": "Um mês atrás",
+        "fraseIngles": "I bought this car a month ago.",
+        "frasePortugues": "Comprei este carro um mês atrás.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 133,
+        "ingles": "A year ago",
+        "portugues": "Um ano atrás",
+        "fraseIngles": "We met a year ago.",
+        "frasePortugues": "Nos conhecemos um ano atrás.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 134,
+        "ingles": "In two days",
+        "portugues": "Em dois dias",
+        "fraseIngles": "I'll finish in two days.",
+        "frasePortugues": "Terminarei em dois dias.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 135,
+        "ingles": "In a week",
+        "portugues": "Em uma semana",
+        "fraseIngles": "The project is due in a week.",
+        "frasePortugues": "O projeto deve ser entregue em uma semana.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 136,
+        "ingles": "In a month",
+        "portugues": "Em um mês",
+        "fraseIngles": "I'll be back in a month.",
+        "frasePortugues": "Estarei de volta em um mês.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 137,
+        "ingles": "In a year",
+        "portugues": "Em um ano",
+        "fraseIngles": "I'll graduate in a year.",
+        "frasePortugues": "Me formarei em um ano.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 138,
+        "ingles": "For an hour",
+        "portugues": "Por uma hora",
+        "fraseIngles": "I waited for an hour.",
+        "frasePortugues": "Eu esperei por uma hora.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 139,
+        "ingles": "For a day",
+        "portugues": "Por um dia",
+        "fraseIngles": "I was sick for a day.",
+        "frasePortugues": "Estive doente por um dia.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 140,
+        "ingles": "For a week",
+        "portugues": "Por uma semana",
+        "fraseIngles": "I was away for a week.",
+        "frasePortugues": "Estive fora por uma semana.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 141,
+        "ingles": "For a month",
+        "portugues": "Por um mês",
+        "fraseIngles": "I lived there for a month.",
+        "frasePortugues": "Morei lá por um mês.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 142,
+        "ingles": "For a year",
+        "portugues": "Por um ano",
+        "fraseIngles": "I studied abroad for a year.",
+        "frasePortugues": "Estudei no exterior por um ano.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 143,
+        "ingles": "Since morning",
+        "portugues": "Desde manhã",
+        "fraseIngles": "I've been working since morning.",
+        "frasePortugues": "Estou trabalhando desde de manhã.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 144,
+        "ingles": "Since yesterday",
+        "portugues": "Desde ontem",
+        "fraseIngles": "It's been raining since yesterday.",
+        "frasePortugues": "Está chovendo desde ontem.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 145,
+        "ingles": "Since last week",
+        "portugues": "Desde semana passada",
+        "fraseIngles": "I haven't seen him since last week.",
+        "frasePortugues": "Não o vejo desde a semana passada.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 146,
+        "ingles": "Since last month",
+        "portugues": "Desde mês passado",
+        "fraseIngles": "I've been here since last month.",
+        "frasePortugues": "Estou aqui desde o mês passado.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 147,
+        "ingles": "Since last year",
+        "portugues": "Desde ano passado",
+        "fraseIngles": "I've been studying since last year.",
+        "frasePortugues": "Estou estudando desde o ano passado.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 148,
+        "ingles": "Until tomorrow",
+        "portugues": "Até amanhã",
+        "fraseIngles": "The store is closed until tomorrow.",
+        "frasePortugues": "A loja está fechada até amanhã.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 149,
+        "ingles": "Until next week",
+        "portugues": "Até semana que vem",
+        "fraseIngles": "I'm busy until next week.",
+        "frasePortugues": "Estou ocupado até a semana que vem.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 150,
+        "ingles": "Until next month",
+        "portugues": "Até mês que vem",
+        "fraseIngles": "The project runs until next month.",
+        "frasePortugues": "O projeto vai até o mês que vem.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 151,
+        "ingles": "By tomorrow",
+        "portugues": "Até amanhã",
+        "fraseIngles": "I need this done by tomorrow.",
+        "frasePortugues": "Preciso que isso seja feito até amanhã.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 152,
+        "ingles": "By next week",
+        "portugues": "Até semana que vem",
+        "fraseIngles": "The report is due by next week.",
+        "frasePortugues": "O relatório deve ser entregue até a semana que vem.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 153,
+        "ingles": "By the end of the day",
+        "portugues": "Até o final do dia",
+        "fraseIngles": "Please finish this by the end of the day.",
+        "frasePortugues": "Por favor, termine isso até o final do dia.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 154,
+        "ingles": "By the end of the week",
+        "portugues": "Até o final da semana",
+        "fraseIngles": "We need results by the end of the week.",
+        "frasePortugues": "Precisamos de resultados até o final da semana.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 155,
+        "ingles": "By the end of the month",
+        "portugues": "Até o final do mês",
+        "fraseIngles": "The project should be completed by the end of the month.",
+        "frasePortugues": "O projeto deve ser concluído até o final do mês.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 156,
+        "ingles": "At the beginning",
+        "portugues": "No início",
+        "fraseIngles": "At the beginning, it was difficult.",
+        "frasePortugues": "No início, foi difícil.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 157,
+        "ingles": "At the end",
+        "portugues": "No final",
+        "fraseIngles": "At the end, everything worked out.",
+        "frasePortugues": "No final, tudo deu certo.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 158,
+        "ingles": "In the middle",
+        "portugues": "No meio",
+        "fraseIngles": "In the middle of the night, I woke up.",
+        "frasePortugues": "No meio da noite, eu acordei.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 159,
+        "ingles": "From time to time",
+        "portugues": "De vez em quando",
+        "fraseIngles": "I visit my hometown from time to time.",
+        "frasePortugues": "Visito minha cidade natal de vez em quando.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 160,
+        "ingles": "All the time",
+        "portugues": "O tempo todo",
+        "fraseIngles": "She talks all the time.",
+        "frasePortugues": "Ela fala o tempo todo.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 161,
+        "ingles": "At the same time",
+        "portugues": "Ao mesmo tempo",
+        "fraseIngles": "We arrived at the same time.",
+        "frasePortugues": "Chegamos ao mesmo tempo.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 162,
+        "ingles": "On time",
+        "portugues": "No horário",
+        "fraseIngles": "The train arrived on time.",
+        "frasePortugues": "O trem chegou no horário.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 163,
+        "ingles": "Ahead of time",
+        "portugues": "Antes do tempo",
+        "fraseIngles": "We finished ahead of time.",
+        "frasePortugues": "Terminamos antes do tempo.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 164,
+        "ingles": "Behind schedule",
+        "portugues": "Atrasado",
+        "fraseIngles": "The project is behind schedule.",
+        "frasePortugues": "O projeto está atrasado.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 165,
+        "ingles": "Right now",
+        "portugues": "Agora mesmo",
+        "fraseIngles": "I need to leave right now.",
+        "frasePortugues": "Preciso sair agora mesmo.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 166,
+        "ingles": "Just now",
+        "portugues": "Agora há pouco",
+        "fraseIngles": "He called just now.",
+        "frasePortugues": "Ele ligou agora há pouco.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 167,
+        "ingles": "A while ago",
+        "portugues": "Há um tempo",
+        "fraseIngles": "I saw her a while ago.",
+        "frasePortugues": "A vi há um tempo.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    },
+    {
+        "id": 168,
+        "ingles": "Long ago",
+        "portugues": "Há muito tempo",
+        "fraseIngles": "That happened long ago.",
+        "frasePortugues": "Isso aconteceu há muito tempo.",
+        "subtopico": "Datas e horas",
+        "topico": "Números"
+    }
+]

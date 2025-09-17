@@ -1,0 +1,2027 @@
+[
+    {
+        "id": 1,
+        "ingles": "Always",
+        "portugues": "Sempre",
+        "fraseIngles": "I always brush my teeth before bed.",
+        "frasePortugues": "Eu sempre escovo os dentes antes de dormir.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 2,
+        "ingles": "Never",
+        "portugues": "Nunca",
+        "fraseIngles": "I never eat fast food.",
+        "frasePortugues": "Eu nunca como fast food.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 3,
+        "ingles": "Sometimes",
+        "portugues": "Às vezes",
+        "fraseIngles": "Sometimes I walk to work.",
+        "frasePortugues": "Às vezes eu vou a pé para o trabalho.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 4,
+        "ingles": "Often",
+        "portugues": "Frequentemente",
+        "fraseIngles": "I often visit my parents on weekends.",
+        "frasePortugues": "Eu frequentemente visito meus pais nos finais de semana.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 5,
+        "ingles": "Usually",
+        "portugues": "Geralmente",
+        "fraseIngles": "I usually wake up at seven.",
+        "frasePortugues": "Eu geralmente acordo às sete.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 6,
+        "ingles": "Rarely",
+        "portugues": "Raramente",
+        "fraseIngles": "I rarely watch television.",
+        "frasePortugues": "Eu raramente assisto televisão.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 7,
+        "ingles": "Occasionally",
+        "portugues": "Ocasionalmente",
+        "fraseIngles": "I occasionally eat chocolate.",
+        "frasePortugues": "Eu ocasionalmente como chocolate.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 8,
+        "ingles": "Frequently",
+        "portugues": "Frequentemente",
+        "fraseIngles": "I frequently travel for business.",
+        "frasePortugues": "Eu frequentemente viajo a negócios.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 9,
+        "ingles": "Regularly",
+        "portugues": "Regularmente",
+        "fraseIngles": "I exercise regularly at the gym.",
+        "frasePortugues": "Eu me exercito regularmente na academia.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 10,
+        "ingles": "Constantly",
+        "portugues": "Constantemente",
+        "fraseIngles": "The baby cries constantly at night.",
+        "frasePortugues": "O bebê chora constantemente à noite.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 11,
+        "ingles": "Continuously",
+        "portugues": "Continuamente",
+        "fraseIngles": "The machine runs continuously.",
+        "frasePortugues": "A máquina funciona continuamente.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 12,
+        "ingles": "Repeatedly",
+        "portugues": "Repetidamente",
+        "fraseIngles": "I called him repeatedly but no answer.",
+        "frasePortugues": "Liguei para ele repetidamente mas não teve resposta.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 13,
+        "ingles": "Seldom",
+        "portugues": "Raramente",
+        "fraseIngles": "I seldom eat spicy food.",
+        "frasePortugues": "Eu raramente como comida apimentada.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 14,
+        "ingles": "Hardly ever",
+        "portugues": "Quase nunca",
+        "fraseIngles": "I hardly ever go to the movies.",
+        "frasePortugues": "Eu quase nunca vou ao cinema.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 15,
+        "ingles": "Almost never",
+        "portugues": "Quase nunca",
+        "fraseIngles": "I almost never drink alcohol.",
+        "frasePortugues": "Eu quase nunca bebo álcool.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 16,
+        "ingles": "Almost always",
+        "portugues": "Quase sempre",
+        "fraseIngles": "I almost always arrive on time.",
+        "frasePortugues": "Eu quase sempre chego no horário.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 17,
+        "ingles": "Every day",
+        "portugues": "Todo dia",
+        "fraseIngles": "I study English every day.",
+        "frasePortugues": "Eu estudo inglês todo dia.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 18,
+        "ingles": "Every week",
+        "portugues": "Toda semana",
+        "fraseIngles": "We clean the house every week.",
+        "frasePortugues": "Nós limpamos a casa toda semana.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 19,
+        "ingles": "Every month",
+        "portugues": "Todo mês",
+        "fraseIngles": "I visit the dentist every month.",
+        "frasePortugues": "Eu visito o dentista todo mês.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 20,
+        "ingles": "Every year",
+        "portugues": "Todo ano",
+        "fraseIngles": "We take a vacation every year.",
+        "frasePortugues": "Nós viajamos de férias todo ano.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 21,
+        "ingles": "Once",
+        "portugues": "Uma vez",
+        "fraseIngles": "I've been to Paris once.",
+        "frasePortugues": "Eu estive em Paris uma vez.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 22,
+        "ingles": "Twice",
+        "portugues": "Duas vezes",
+        "fraseIngles": "I called you twice yesterday.",
+        "frasePortugues": "Eu te liguei duas vezes ontem.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 23,
+        "ingles": "Three times",
+        "portugues": "Três vezes",
+        "fraseIngles": "I've seen that movie three times.",
+        "frasePortugues": "Eu vi esse filme três vezes.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 24,
+        "ingles": "Four times",
+        "portugues": "Quatro vezes",
+        "fraseIngles": "I went to the gym four times this week.",
+        "frasePortugues": "Fui à academia quatro vezes esta semana.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 25,
+        "ingles": "Five times",
+        "portugues": "Cinco vezes",
+        "fraseIngles": "I've read this book five times.",
+        "frasePortugues": "Eu li este livro cinco vezes.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 26,
+        "ingles": "Several times",
+        "portugues": "Várias vezes",
+        "fraseIngles": "I've told you several times.",
+        "frasePortugues": "Eu te disse várias vezes.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 27,
+        "ingles": "Many times",
+        "portugues": "Muitas vezes",
+        "fraseIngles": "I've been there many times.",
+        "frasePortugues": "Eu estive lá muitas vezes.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 28,
+        "ingles": "Few times",
+        "portugues": "Poucas vezes",
+        "fraseIngles": "I've only been there a few times.",
+        "frasePortugues": "Eu só estive lá poucas vezes.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 29,
+        "ingles": "Countless times",
+        "portugues": "Incontáveis vezes",
+        "fraseIngles": "I've explained this countless times.",
+        "frasePortugues": "Expliquei isso incontáveis vezes.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 30,
+        "ingles": "Multiple times",
+        "portugues": "Múltiplas vezes",
+        "fraseIngles": "I checked the answer multiple times.",
+        "frasePortugues": "Verifiquei a resposta múltiplas vezes.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 31,
+        "ingles": "Daily",
+        "portugues": "Diariamente",
+        "fraseIngles": "I read the news daily.",
+        "frasePortugues": "Eu leio as notícias diariamente.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 32,
+        "ingles": "Weekly",
+        "portugues": "Semanalmente",
+        "fraseIngles": "We meet weekly for coffee.",
+        "frasePortugues": "Nos encontramos semanalmente para um café.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 33,
+        "ingles": "Monthly",
+        "portugues": "Mensalmente",
+        "fraseIngles": "I pay my bills monthly.",
+        "frasePortugues": "Eu pago minhas contas mensalmente.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 34,
+        "ingles": "Quarterly",
+        "portugues": "Trimestralmente",
+        "fraseIngles": "The company reports quarterly earnings.",
+        "frasePortugues": "A empresa divulga lucros trimestralmente.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 35,
+        "ingles": "Annually",
+        "portugues": "Anualmente",
+        "fraseIngles": "We take a vacation annually.",
+        "frasePortugues": "Nós viajamos de férias anualmente.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 36,
+        "ingles": "Yearly",
+        "portugues": "Anualmente",
+        "fraseIngles": "The conference happens yearly.",
+        "frasePortugues": "A conferência acontece anualmente.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 37,
+        "ingles": "Hourly",
+        "portugues": "Por hora",
+        "fraseIngles": "The radio gives news updates hourly.",
+        "frasePortugues": "O rádio dá atualizações de notícias por hora.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 38,
+        "ingles": "Twice a day",
+        "portugues": "Duas vezes por dia",
+        "fraseIngles": "I brush my teeth twice a day.",
+        "frasePortugues": "Eu escovo os dentes duas vezes por dia.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 39,
+        "ingles": "Three times a day",
+        "portugues": "Três vezes por dia",
+        "fraseIngles": "Take this medicine three times a day.",
+        "frasePortugues": "Tome este remédio três vezes por dia.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 40,
+        "ingles": "Once a week",
+        "portugues": "Uma vez por semana",
+        "fraseIngles": "I go shopping once a week.",
+        "frasePortugues": "Eu vou fazer compras uma vez por semana.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 41,
+        "ingles": "Twice a week",
+        "portugues": "Duas vezes por semana",
+        "fraseIngles": "I exercise twice a week.",
+        "frasePortugues": "Eu me exercito duas vezes por semana.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 42,
+        "ingles": "Once a month",
+        "portugues": "Uma vez por mês",
+        "fraseIngles": "I get a haircut once a month.",
+        "frasePortugues": "Eu corto o cabelo uma vez por mês.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 43,
+        "ingles": "Twice a month",
+        "portugues": "Duas vezes por mês",
+        "fraseIngles": "I get paid twice a month.",
+        "frasePortugues": "Eu recebo salário duas vezes por mês.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 44,
+        "ingles": "Once a year",
+        "portugues": "Uma vez por ano",
+        "fraseIngles": "I visit my hometown once a year.",
+        "frasePortugues": "Eu visito minha cidade natal uma vez por ano.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 45,
+        "ingles": "Twice a year",
+        "portugues": "Duas vezes por ano",
+        "fraseIngles": "I see the doctor twice a year.",
+        "frasePortugues": "Eu consulto o médico duas vezes por ano.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 46,
+        "ingles": "Every other day",
+        "portugues": "Dia sim dia não",
+        "fraseIngles": "I water the plants every other day.",
+        "frasePortugues": "Eu rego as plantas dia sim dia não.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 47,
+        "ingles": "Every few days",
+        "portugues": "A cada poucos dias",
+        "fraseIngles": "I call my mother every few days.",
+        "frasePortugues": "Eu ligo para minha mãe a cada poucos dias.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 48,
+        "ingles": "Every so often",
+        "portugues": "De vez em quando",
+        "fraseIngles": "Every so often I eat ice cream.",
+        "frasePortugues": "De vez em quando eu como sorvete.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 49,
+        "ingles": "From time to time",
+        "portugues": "De vez em quando",
+        "fraseIngles": "From time to time I visit the museum.",
+        "frasePortugues": "De vez em quando eu visito o museu.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 50,
+        "ingles": "Now and then",
+        "portugues": "De vez em quando",
+        "fraseIngles": "Now and then I play guitar.",
+        "frasePortugues": "De vez em quando eu toco violão.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 51,
+        "ingles": "Once in a while",
+        "portugues": "De vez em quando",
+        "fraseIngles": "Once in a while I cook dinner.",
+        "frasePortugues": "De vez em quando eu cozinho o jantar.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 52,
+        "ingles": "On occasion",
+        "portugues": "Em algumas ocasiões",
+        "fraseIngles": "On occasion I drink wine.",
+        "frasePortugues": "Em algumas ocasiões eu bebo vinho.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 53,
+        "ingles": "Periodically",
+        "portugues": "Periodicamente",
+        "fraseIngles": "The system updates periodically.",
+        "frasePortugues": "O sistema atualiza periodicamente.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 54,
+        "ingles": "Intermittently",
+        "portugues": "Intermitentemente",
+        "fraseIngles": "The rain falls intermittently.",
+        "frasePortugues": "A chuva cai intermitentemente.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 55,
+        "ingles": "Sporadically",
+        "portugues": "Esporadicamente",
+        "fraseIngles": "He attends meetings sporadically.",
+        "frasePortugues": "Ele comparece às reuniões esporadicamente.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 56,
+        "ingles": "At intervals",
+        "portugues": "Em intervalos",
+        "fraseIngles": "The bus comes at ten-minute intervals.",
+        "frasePortugues": "O ônibus vem em intervalos de dez minutos.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 57,
+        "ingles": "At regular intervals",
+        "portugues": "Em intervalos regulares",
+        "fraseIngles": "Check your blood pressure at regular intervals.",
+        "frasePortugues": "Verifique sua pressão arterial em intervalos regulares.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 58,
+        "ingles": "Back to back",
+        "portugues": "Consecutivamente",
+        "fraseIngles": "I have three meetings back to back.",
+        "frasePortugues": "Tenho três reuniões consecutivamente.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 59,
+        "ingles": "One after another",
+        "portugues": "Um após o outro",
+        "fraseIngles": "The problems came one after another.",
+        "frasePortugues": "Os problemas vieram um após o outro.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 60,
+        "ingles": "In succession",
+        "portugues": "Em sucessão",
+        "fraseIngles": "He won three games in succession.",
+        "frasePortugues": "Ele ganhou três jogos em sucessão.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 61,
+        "ingles": "Consecutively",
+        "portugues": "Consecutivamente",
+        "fraseIngles": "It rained for five days consecutively.",
+        "frasePortugues": "Choveu por cinco dias consecutivamente.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 62,
+        "ingles": "In a row",
+        "portugues": "Seguidos",
+        "fraseIngles": "I worked ten hours in a row.",
+        "frasePortugues": "Trabalhei dez horas seguidas.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 63,
+        "ingles": "Non-stop",
+        "portugues": "Sem parar",
+        "fraseIngles": "The plane flew non-stop to London.",
+        "frasePortugues": "O avião voou sem parar para Londres.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 64,
+        "ingles": "Round the clock",
+        "portugues": "Vinte e quatro horas",
+        "fraseIngles": "The hospital operates round the clock.",
+        "frasePortugues": "O hospital funciona vinte e quatro horas.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 65,
+        "ingles": "Day and night",
+        "portugues": "Dia e noite",
+        "fraseIngles": "The factory runs day and night.",
+        "frasePortugues": "A fábrica funciona dia e noite.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 66,
+        "ingles": "All the time",
+        "portugues": "O tempo todo",
+        "fraseIngles": "She talks all the time.",
+        "frasePortugues": "Ela fala o tempo todo.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 67,
+        "ingles": "Most of the time",
+        "portugues": "A maior parte do tempo",
+        "fraseIngles": "Most of the time I work from home.",
+        "frasePortugues": "A maior parte do tempo eu trabalho de casa.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 68,
+        "ingles": "Half the time",
+        "portugues": "Metade do tempo",
+        "fraseIngles": "Half the time I forget my keys.",
+        "frasePortugues": "Metade do tempo eu esqueço minhas chaves.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 69,
+        "ingles": "Some of the time",
+        "portugues": "Parte do tempo",
+        "fraseIngles": "Some of the time I feel tired.",
+        "frasePortugues": "Parte do tempo eu me sinto cansado.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 70,
+        "ingles": "Part of the time",
+        "portugues": "Parte do tempo",
+        "fraseIngles": "Part of the time I study at night.",
+        "frasePortugues": "Parte do tempo eu estudo à noite.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 71,
+        "ingles": "Percent",
+        "portugues": "Por cento",
+        "fraseIngles": "Twenty percent of students failed.",
+        "frasePortugues": "Vinte por cento dos alunos reprovaram.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 72,
+        "ingles": "Percentage",
+        "portugues": "Porcentagem",
+        "fraseIngles": "What percentage of people agree?",
+        "frasePortugues": "Que porcentagem das pessoas concorda?",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 73,
+        "ingles": "One percent",
+        "portugues": "Um por cento",
+        "fraseIngles": "Only one percent of applicants qualify.",
+        "frasePortugues": "Apenas um por cento dos candidatos se qualifica.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 74,
+        "ingles": "Five percent",
+        "portugues": "Cinco por cento",
+        "fraseIngles": "The interest rate is five percent.",
+        "frasePortugues": "A taxa de juros é cinco por cento.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 75,
+        "ingles": "Ten percent",
+        "portugues": "Dez por cento",
+        "fraseIngles": "I save ten percent of my income.",
+        "frasePortugues": "Eu economizo dez por cento da minha renda.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 76,
+        "ingles": "Twenty percent",
+        "portugues": "Vinte por cento",
+        "fraseIngles": "The tip is twenty percent of the bill.",
+        "frasePortugues": "A gorjeta é vinte por cento da conta.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 77,
+        "ingles": "Twenty-five percent",
+        "portugues": "Vinte e cinco por cento",
+        "fraseIngles": "The discount is twenty-five percent.",
+        "frasePortugues": "O desconto é vinte e cinco por cento.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 78,
+        "ingles": "Thirty percent",
+        "portugues": "Trinta por cento",
+        "fraseIngles": "Thirty percent of the class is absent.",
+        "frasePortugues": "Trinta por cento da turma está ausente.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 79,
+        "ingles": "Fifty percent",
+        "portugues": "Cinquenta por cento",
+        "fraseIngles": "Fifty percent chance of rain today.",
+        "frasePortugues": "Cinquenta por cento de chance de chuva hoje.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 80,
+        "ingles": "Seventy-five percent",
+        "portugues": "Setenta e cinco por cento",
+        "fraseIngles": "I completed seventy-five percent of the work.",
+        "frasePortugues": "Completei setenta e cinco por cento do trabalho.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 81,
+        "ingles": "Eighty percent",
+        "portugues": "Oitenta por cento",
+        "fraseIngles": "I scored eighty percent on the test.",
+        "frasePortugues": "Tirei oitenta por cento na prova.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 82,
+        "ingles": "Ninety percent",
+        "portugues": "Noventa por cento",
+        "fraseIngles": "Ninety percent of the project is done.",
+        "frasePortugues": "Noventa por cento do projeto está pronto.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 83,
+        "ingles": "One hundred percent",
+        "portugues": "Cem por cento",
+        "fraseIngles": "I'm one hundred percent sure.",
+        "frasePortugues": "Estou cem por cento certo.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 84,
+        "ingles": "Half a percent",
+        "portugues": "Meio por cento",
+        "fraseIngles": "The rate increased by half a percent.",
+        "frasePortugues": "A taxa aumentou meio por cento.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 85,
+        "ingles": "Quarter of a percent",
+        "portugues": "Um quarto por cento",
+        "fraseIngles": "Inflation rose a quarter of a percent.",
+        "frasePortugues": "A inflação subiu um quarto por cento.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 86,
+        "ingles": "Point five percent",
+        "portugues": "Zero vírgula cinco por cento",
+        "fraseIngles": "The fee is point five percent.",
+        "frasePortugues": "A taxa é zero vírgula cinco por cento.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 87,
+        "ingles": "Point one percent",
+        "portugues": "Zero vírgula um por cento",
+        "fraseIngles": "Only point one percent showed side effects.",
+        "frasePortugues": "Apenas zero vírgula um por cento mostrou efeitos colaterais.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 88,
+        "ingles": "Decimal",
+        "portugues": "Decimal",
+        "fraseIngles": "Write the number in decimal form.",
+        "frasePortugues": "Escreva o número em forma decimal.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 89,
+        "ingles": "Point",
+        "portugues": "Vírgula",
+        "fraseIngles": "Three point five equals three and a half.",
+        "frasePortugues": "Três vírgula cinco é igual a três e meio.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 90,
+        "ingles": "Zero point one",
+        "portugues": "Zero vírgula um",
+        "fraseIngles": "The measurement is zero point one millimeters.",
+        "frasePortugues": "A medição é zero vírgula um milímetros.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 91,
+        "ingles": "Zero point five",
+        "portugues": "Zero vírgula cinco",
+        "fraseIngles": "Add zero point five liters of water.",
+        "frasePortugues": "Adicione zero vírgula cinco litros de água.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 92,
+        "ingles": "One point two",
+        "portugues": "Um vírgula dois",
+        "fraseIngles": "The distance is one point two kilometers.",
+        "frasePortugues": "A distância é um vírgula dois quilômetros.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 93,
+        "ingles": "Two point seven",
+        "portugues": "Dois vírgula sete",
+        "fraseIngles": "The price is two point seven dollars.",
+        "frasePortugues": "O preço é dois vírgula sete dólares.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 94,
+        "ingles": "Three point fourteen",
+        "portugues": "Três vírgula catorze",
+        "fraseIngles": "Pi equals three point fourteen approximately.",
+        "frasePortugues": "Pi é igual a três vírgula catorze aproximadamente.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 95,
+        "ingles": "Four point eight",
+        "portugues": "Quatro vírgula oito",
+        "fraseIngles": "My grade was four point eight out of five.",
+        "frasePortugues": "Minha nota foi quatro vírgula oito de cinco.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 96,
+        "ingles": "Five point nine",
+        "portugues": "Cinco vírgula nove",
+        "fraseIngles": "The temperature is five point nine degrees.",
+        "frasePortugues": "A temperatura é cinco vírgula nove graus.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 97,
+        "ingles": "Ten point three",
+        "portugues": "Dez vírgula três",
+        "fraseIngles": "The inflation rate is ten point three percent.",
+        "frasePortugues": "A taxa de inflação é dez vírgula três por cento.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 98,
+        "ingles": "Twentieth",
+        "portugues": "Um vigésimo",
+        "fraseIngles": "He finished in twentieth place.",
+        "frasePortugues": "Ele terminou em vigésimo lugar.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 99,
+        "ingles": "Hundredth",
+        "portugues": "Um centésimo",
+        "fraseIngles": "This is the hundredth time I tell you.",
+        "frasePortugues": "Esta é a centésima vez que te digo.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 100,
+        "ingles": "Thousandth",
+        "portugues": "Um milésimo",
+        "fraseIngles": "The difference is one thousandth of an inch.",
+        "frasePortugues": "A diferença é um milésimo de polegada.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 101,
+        "ingles": "Half",
+        "portugues": "Metade",
+        "fraseIngles": "I ate half of the pizza.",
+        "frasePortugues": "Eu comi metade da pizza.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 102,
+        "ingles": "One half",
+        "portugues": "Um meio",
+        "fraseIngles": "One half equals zero point five.",
+        "frasePortugues": "Um meio é igual a zero vírgula cinco.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 103,
+        "ingles": "Two halves",
+        "portugues": "Duas metades",
+        "fraseIngles": "Two halves make a whole.",
+        "frasePortugues": "Duas metades fazem um inteiro.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 104,
+        "ingles": "Third",
+        "portugues": "Um terço",
+        "fraseIngles": "He ate one third of the cake.",
+        "frasePortugues": "Ele comeu um terço do bolo.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 105,
+        "ingles": "One third",
+        "portugues": "Um terço",
+        "fraseIngles": "One third of the students are absent.",
+        "frasePortugues": "Um terço dos alunos está ausente.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 106,
+        "ingles": "Two thirds",
+        "portugues": "Dois terços",
+        "fraseIngles": "Two thirds of the work is complete.",
+        "frasePortugues": "Dois terços do trabalho está completo.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 107,
+        "ingles": "Quarter",
+        "portugues": "Um quarto",
+        "fraseIngles": "A quarter of the pie is left.",
+        "frasePortugues": "Um quarto da torta sobrou.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 108,
+        "ingles": "One quarter",
+        "portugues": "Um quarto",
+        "fraseIngles": "One quarter equals twenty-five percent.",
+        "frasePortugues": "Um quarto é igual a vinte e cinco por cento.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 109,
+        "ingles": "Three quarters",
+        "portugues": "Três quartos",
+        "fraseIngles": "Three quarters of the movie is over.",
+        "frasePortugues": "Três quartos do filme já passou.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 110,
+        "ingles": "Fifth",
+        "portugues": "Um quinto",
+        "fraseIngles": "He owns one fifth of the company.",
+        "frasePortugues": "Ele possui um quinto da empresa.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 111,
+        "ingles": "One fifth",
+        "portugues": "Um quinto",
+        "fraseIngles": "One fifth of twenty is four.",
+        "frasePortugues": "Um quinto de vinte é quatro.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 112,
+        "ingles": "Two fifths",
+        "portugues": "Dois quintos",
+        "fraseIngles": "Two fifths of the students passed.",
+        "frasePortugues": "Dois quintos dos alunos passaram.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 113,
+        "ingles": "Three fifths",
+        "portugues": "Três quintos",
+        "fraseIngles": "Three fifths of sixty is thirty-six.",
+        "frasePortugues": "Três quintos de sessenta é trinta e seis.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 114,
+        "ingles": "Four fifths",
+        "portugues": "Quatro quintos",
+        "fraseIngles": "Four fifths of the job is done.",
+        "frasePortugues": "Quatro quintos do trabalho está feito.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 115,
+        "ingles": "Sixth",
+        "portugues": "Um sexto",
+        "fraseIngles": "One sixth of the pizza remains.",
+        "frasePortugues": "Um sexto da pizza sobra.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 116,
+        "ingles": "Seventh",
+        "portugues": "Um sétimo",
+        "fraseIngles": "He gets one seventh of the profits.",
+        "frasePortugues": "Ele recebe um sétimo dos lucros.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 117,
+        "ingles": "Eighth",
+        "portugues": "Um oitavo",
+        "fraseIngles": "Cut the apple into one eighth pieces.",
+        "frasePortugues": "Corte a maçã em pedaços de um oitavo.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 118,
+        "ingles": "Ninth",
+        "portugues": "Um nono",
+        "fraseIngles": "One ninth of the pie is missing.",
+        "frasePortugues": "Um nono da torta está faltando.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 119,
+        "ingles": "Tenth",
+        "portugues": "Um décimo",
+        "fraseIngles": "One tenth of a dollar is ten cents.",
+        "frasePortugues": "Um décimo de um dólar são dez centavos.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 120,
+        "ingles": "Fraction",
+        "portugues": "Fração",
+        "fraseIngles": "Express this as a fraction.",
+        "frasePortugues": "Expresse isso como uma fração.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 121,
+        "ingles": "Numerator",
+        "portugues": "Numerador",
+        "fraseIngles": "In three fifths, three is the numerator.",
+        "frasePortugues": "Em três quintos, três é o numerador.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 122,
+        "ingles": "Denominator",
+        "portugues": "Denominador",
+        "fraseIngles": "In three fifths, five is the denominator.",
+        "frasePortugues": "Em três quintos, cinco é o denominador.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 123,
+        "ingles": "Whole number",
+        "portugues": "Número inteiro",
+        "fraseIngles": "Five is a whole number.",
+        "frasePortugues": "Cinco é um número inteiro.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 124,
+        "ingles": "Mixed number",
+        "portugues": "Número misto",
+        "fraseIngles": "Two and one half is a mixed number.",
+        "frasePortugues": "Dois e meio é um número misto.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 125,
+        "ingles": "Improper fraction",
+        "portugues": "Fração imprópria",
+        "fraseIngles": "Five thirds is an improper fraction.",
+        "frasePortugues": "Cinco terços é uma fração imprópria.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 126,
+        "ingles": "Proper fraction",
+        "portugues": "Fração própria",
+        "fraseIngles": "Two thirds is a proper fraction.",
+        "frasePortugues": "Dois terços é uma fração própria.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 127,
+        "ingles": "Common fraction",
+        "portugues": "Fração comum",
+        "fraseIngles": "One half is a common fraction.",
+        "frasePortugues": "Um meio é uma fração comum.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 128,
+        "ingles": "Equivalent fraction",
+        "portugues": "Fração equivalente",
+        "fraseIngles": "Two fourths is equivalent to one half.",
+        "frasePortugues": "Dois quartos é equivalente a um meio.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 129,
+        "ingles": "Simplified fraction",
+        "portugues": "Fração simplificada",
+        "fraseIngles": "Two fourths simplified is one half.",
+        "frasePortugues": "Dois quartos simplificado é um meio.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 130,
+        "ingles": "Reduced fraction",
+        "portugues": "Fração reduzida",
+        "fraseIngles": "The reduced fraction is one third.",
+        "frasePortugues": "A fração reduzida é um terço.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 131,
+        "ingles": "Lowest terms",
+        "portugues": "Termos mínimos",
+        "fraseIngles": "Express the fraction in lowest terms.",
+        "frasePortugues": "Expresse a fração em termos mínimos.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 132,
+        "ingles": "Plus",
+        "portugues": "Mais",
+        "fraseIngles": "Two plus three equals five.",
+        "frasePortugues": "Dois mais três é igual a cinco.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 133,
+        "ingles": "Add",
+        "portugues": "Somar",
+        "fraseIngles": "Add five and seven.",
+        "frasePortugues": "Some cinco e sete.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 134,
+        "ingles": "Addition",
+        "portugues": "Adição",
+        "fraseIngles": "Addition is a basic math operation.",
+        "frasePortugues": "Adição é uma operação matemática básica.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 135,
+        "ingles": "Sum",
+        "portugues": "Soma",
+        "fraseIngles": "The sum of four and six is ten.",
+        "frasePortugues": "A soma de quatro e seis é dez.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 136,
+        "ingles": "Total",
+        "portugues": "Total",
+        "fraseIngles": "The total comes to fifty dollars.",
+        "frasePortugues": "O total dá cinquenta dólares.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 137,
+        "ingles": "Minus",
+        "portugues": "Menos",
+        "fraseIngles": "Ten minus four equals six.",
+        "frasePortugues": "Dez menos quatro é igual a seis.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 138,
+        "ingles": "Subtract",
+        "portugues": "Subtrair",
+        "fraseIngles": "Subtract three from eight.",
+        "frasePortugues": "Subtraia três de oito.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 139,
+        "ingles": "Subtraction",
+        "portugues": "Subtração",
+        "fraseIngles": "Subtraction is the opposite of addition.",
+        "frasePortugues": "Subtração é o oposto da adição.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 140,
+        "ingles": "Difference",
+        "portugues": "Diferença",
+        "fraseIngles": "The difference between ten and six is four.",
+        "frasePortugues": "A diferença entre dez e seis é quatro.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 141,
+        "ingles": "Take away",
+        "portugues": "Tirar",
+        "fraseIngles": "Take away five from twelve.",
+        "frasePortugues": "Tire cinco de doze.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 142,
+        "ingles": "Times",
+        "portugues": "Vezes",
+        "fraseIngles": "Three times four equals twelve.",
+        "frasePortugues": "Três vezes quatro é igual a doze.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 143,
+        "ingles": "Multiply",
+        "portugues": "Multiplicar",
+        "fraseIngles": "Multiply six by seven.",
+        "frasePortugues": "Multiplique seis por sete.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 144,
+        "ingles": "Multiplication",
+        "portugues": "Multiplicação",
+        "fraseIngles": "Multiplication is repeated addition.",
+        "frasePortugues": "Multiplicação é adição repetida.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 145,
+        "ingles": "Product",
+        "portugues": "Produto",
+        "fraseIngles": "The product of five and eight is forty.",
+        "frasePortugues": "O produto de cinco e oito é quarenta.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 146,
+        "ingles": "Multiply by",
+        "portugues": "Multiplicar por",
+        "fraseIngles": "Multiply ten by three.",
+        "frasePortugues": "Multiplique dez por três.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 147,
+        "ingles": "Divided by",
+        "portugues": "Dividido por",
+        "fraseIngles": "Twenty divided by four equals five.",
+        "frasePortugues": "Vinte dividido por quatro é igual a cinco.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 148,
+        "ingles": "Divide",
+        "portugues": "Dividir",
+        "fraseIngles": "Divide fifteen by three.",
+        "frasePortugues": "Divida quinze por três.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 149,
+        "ingles": "Division",
+        "portugues": "Divisão",
+        "fraseIngles": "Division is the opposite of multiplication.",
+        "frasePortugues": "Divisão é o oposto da multiplicação.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 150,
+        "ingles": "Quotient",
+        "portugues": "Quociente",
+        "fraseIngles": "The quotient of twelve divided by three is four.",
+        "frasePortugues": "O quociente de doze dividido por três é quatro.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 151,
+        "ingles": "Remainder",
+        "portugues": "Resto",
+        "fraseIngles": "Seven divided by two has a remainder of one.",
+        "frasePortugues": "Sete dividido por dois tem resto um.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 152,
+        "ingles": "Equals",
+        "portugues": "É igual a",
+        "fraseIngles": "Five plus five equals ten.",
+        "frasePortugues": "Cinco mais cinco é igual a dez.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 153,
+        "ingles": "Equal to",
+        "portugues": "Igual a",
+        "fraseIngles": "Ten is equal to five plus five.",
+        "frasePortugues": "Dez é igual a cinco mais cinco.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 154,
+        "ingles": "Is",
+        "portugues": "É",
+        "fraseIngles": "Two plus two is four.",
+        "frasePortugues": "Dois mais dois é quatro.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 155,
+        "ingles": "Makes",
+        "portugues": "Faz",
+        "fraseIngles": "Three plus seven makes ten.",
+        "frasePortugues": "Três mais sete faz dez.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 156,
+        "ingles": "Gives",
+        "portugues": "Dá",
+        "fraseIngles": "Four times five gives twenty.",
+        "frasePortugues": "Quatro vezes cinco dá vinte.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 157,
+        "ingles": "Result",
+        "portugues": "Resultado",
+        "fraseIngles": "The result of the calculation is fifteen.",
+        "frasePortugues": "O resultado do cálculo é quinze.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 158,
+        "ingles": "Answer",
+        "portugues": "Resposta",
+        "fraseIngles": "The answer to the problem is eight.",
+        "frasePortugues": "A resposta do problema é oito.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 159,
+        "ingles": "Solution",
+        "portugues": "Solução",
+        "fraseIngles": "The solution to the equation is twelve.",
+        "frasePortugues": "A solução da equação é doze.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 160,
+        "ingles": "Calculate",
+        "portugues": "Calcular",
+        "fraseIngles": "Calculate the total cost.",
+        "frasePortugues": "Calcule o custo total.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 161,
+        "ingles": "Computation",
+        "portugues": "Cálculo",
+        "fraseIngles": "The computation took several minutes.",
+        "frasePortugues": "O cálculo levou vários minutos.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 162,
+        "ingles": "Math",
+        "portugues": "Matemática",
+        "fraseIngles": "I need help with math.",
+        "frasePortugues": "Preciso de ajuda com matemática.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 163,
+        "ingles": "Mathematics",
+        "portugues": "Matemática",
+        "fraseIngles": "Mathematics is my favorite subject.",
+        "frasePortugues": "Matemática é minha matéria favorita.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 164,
+        "ingles": "Arithmetic",
+        "portugues": "Aritmética",
+        "fraseIngles": "Basic arithmetic includes addition and subtraction.",
+        "frasePortugues": "Aritmética básica inclui adição e subtração.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 165,
+        "ingles": "Operation",
+        "portugues": "Operação",
+        "fraseIngles": "What operation should I use?",
+        "frasePortugues": "Que operação devo usar?",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 166,
+        "ingles": "Problem",
+        "portugues": "Problema",
+        "fraseIngles": "Solve this math problem.",
+        "frasePortugues": "Resolva este problema de matemática.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 167,
+        "ingles": "Equation",
+        "portugues": "Equação",
+        "fraseIngles": "Write the equation on the board.",
+        "frasePortugues": "Escreva a equação no quadro.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 168,
+        "ingles": "Formula",
+        "portugues": "Fórmula",
+        "fraseIngles": "Use this formula to find the area.",
+        "frasePortugues": "Use esta fórmula para encontrar a área.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 169,
+        "ingles": "Expression",
+        "portugues": "Expressão",
+        "fraseIngles": "Simplify the mathematical expression.",
+        "frasePortugues": "Simplifique a expressão matemática.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 170,
+        "ingles": "Variable",
+        "portugues": "Variável",
+        "fraseIngles": "X is a variable in this equation.",
+        "frasePortugues": "X é uma variável nesta equação.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 171,
+        "ingles": "Constant",
+        "portugues": "Constante",
+        "fraseIngles": "Pi is a mathematical constant.",
+        "frasePortugues": "Pi é uma constante matemática.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 172,
+        "ingles": "Factor",
+        "portugues": "Fator",
+        "fraseIngles": "Two is a factor of eight.",
+        "frasePortugues": "Dois é um fator de oito.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 173,
+        "ingles": "Multiple",
+        "portugues": "Múltiplo",
+        "fraseIngles": "Six is a multiple of three.",
+        "frasePortugues": "Seis é um múltiplo de três.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 174,
+        "ingles": "Square",
+        "portugues": "Quadrado",
+        "fraseIngles": "Four squared equals sixteen.",
+        "frasePortugues": "Quatro ao quadrado é igual a dezesseis.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 175,
+        "ingles": "Squared",
+        "portugues": "Ao quadrado",
+        "fraseIngles": "Five squared is twenty-five.",
+        "frasePortugues": "Cinco ao quadrado é vinte e cinco.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 176,
+        "ingles": "Square root",
+        "portugues": "Raiz quadrada",
+        "fraseIngles": "The square root of nine is three.",
+        "frasePortugues": "A raiz quadrada de nove é três.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 177,
+        "ingles": "Cube",
+        "portugues": "Cubo",
+        "fraseIngles": "Two cubed equals eight.",
+        "frasePortugues": "Dois ao cubo é igual a oito.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 178,
+        "ingles": "Cubed",
+        "portugues": "Ao cubo",
+        "fraseIngles": "Three cubed is twenty-seven.",
+        "frasePortugues": "Três ao cubo é vinte e sete.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 179,
+        "ingles": "Power",
+        "portugues": "Potência",
+        "fraseIngles": "Two to the power of three is eight.",
+        "frasePortugues": "Dois elevado à potência três é oito.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 180,
+        "ingles": "Exponent",
+        "portugues": "Expoente",
+        "fraseIngles": "In two to the third power, three is the exponent.",
+        "frasePortugues": "Em dois elevado à terceira potência, três é o expoente.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 181,
+        "ingles": "Base",
+        "portugues": "Base",
+        "fraseIngles": "In two to the third power, two is the base.",
+        "frasePortugues": "Em dois elevado à terceira potência, dois é a base.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 182,
+        "ingles": "Positive",
+        "portugues": "Positivo",
+        "fraseIngles": "Five is a positive number.",
+        "frasePortugues": "Cinco é um número positivo.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 183,
+        "ingles": "Negative",
+        "portugues": "Negativo",
+        "fraseIngles": "Minus three is a negative number.",
+        "frasePortugues": "Menos três é um número negativo.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 184,
+        "ingles": "Absolute value",
+        "portugues": "Valor absoluto",
+        "fraseIngles": "The absolute value of minus five is five.",
+        "frasePortugues": "O valor absoluto de menos cinco é cinco.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 185,
+        "ingles": "Greater than",
+        "portugues": "Maior que",
+        "fraseIngles": "Ten is greater than five.",
+        "frasePortugues": "Dez é maior que cinco.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 186,
+        "ingles": "Less than",
+        "portugues": "Menor que",
+        "fraseIngles": "Three is less than seven.",
+        "frasePortugues": "Três é menor que sete.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 187,
+        "ingles": "Greater than or equal to",
+        "portugues": "Maior ou igual a",
+        "fraseIngles": "X is greater than or equal to five.",
+        "frasePortugues": "X é maior ou igual a cinco.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 188,
+        "ingles": "Less than or equal to",
+        "portugues": "Menor ou igual a",
+        "fraseIngles": "Y is less than or equal to ten.",
+        "frasePortugues": "Y é menor ou igual a dez.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 189,
+        "ingles": "Approximately",
+        "portugues": "Aproximadamente",
+        "fraseIngles": "Pi is approximately three point fourteen.",
+        "frasePortugues": "Pi é aproximadamente três vírgula catorze.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 190,
+        "ingles": "About",
+        "portugues": "Cerca de",
+        "fraseIngles": "The answer is about twenty.",
+        "frasePortugues": "A resposta é cerca de vinte.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 191,
+        "ingles": "Roughly",
+        "portugues": "Aproximadamente",
+        "fraseIngles": "The distance is roughly fifty miles.",
+        "frasePortugues": "A distância é aproximadamente cinquenta milhas.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 192,
+        "ingles": "Around",
+        "portugues": "Por volta de",
+        "fraseIngles": "The cost is around one hundred dollars.",
+        "frasePortugues": "O custo é por volta de cem dólares.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 193,
+        "ingles": "Nearly",
+        "portugues": "Quase",
+        "fraseIngles": "Nearly half the students attended.",
+        "frasePortugues": "Quase metade dos alunos compareceu.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 194,
+        "ingles": "Almost",
+        "portugues": "Quase",
+        "fraseIngles": "The project is almost finished.",
+        "frasePortugues": "O projeto está quase terminado.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 195,
+        "ingles": "Exactly",
+        "portugues": "Exatamente",
+        "fraseIngles": "The temperature is exactly twenty degrees.",
+        "frasePortugues": "A temperatura é exatamente vinte graus.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 196,
+        "ingles": "Precisely",
+        "portugues": "Precisamente",
+        "fraseIngles": "The measurement is precisely five centimeters.",
+        "frasePortugues": "A medição é precisamente cinco centímetros.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 197,
+        "ingles": "Close to",
+        "portugues": "Perto de",
+        "fraseIngles": "The result is close to our estimate.",
+        "frasePortugues": "O resultado está perto da nossa estimativa.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 198,
+        "ingles": "More or less",
+        "portugues": "Mais ou menos",
+        "fraseIngles": "It costs fifty dollars, more or less.",
+        "frasePortugues": "Custa cinquenta dólares, mais ou menos.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 199,
+        "ingles": "Give or take",
+        "portugues": "Mais ou menos",
+        "fraseIngles": "The trip takes two hours, give or take.",
+        "frasePortugues": "A viagem leva duas horas, mais ou menos.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 200,
+        "ingles": "In the ballpark",
+        "portugues": "Por aí",
+        "fraseIngles": "The estimate is in the ballpark.",
+        "frasePortugues": "A estimativa está por aí.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 201,
+        "ingles": "Round number",
+        "portugues": "Número redondo",
+        "fraseIngles": "One hundred is a round number.",
+        "frasePortugues": "Cem é um número redondo.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 202,
+        "ingles": "Round up",
+        "portugues": "Arredondar para cima",
+        "fraseIngles": "Round up to the nearest ten.",
+        "frasePortugues": "Arredonde para cima até a dezena mais próxima.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 203,
+        "ingles": "Round down",
+        "portugues": "Arredondar para baixo",
+        "fraseIngles": "Round down to the nearest hundred.",
+        "frasePortugues": "Arredonde para baixo até a centena mais próxima.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 204,
+        "ingles": "Round off",
+        "portugues": "Arredondar",
+        "fraseIngles": "Round off the decimal to two places.",
+        "frasePortugues": "Arredonde o decimal para duas casas.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 205,
+        "ingles": "Estimate",
+        "portugues": "Estimar",
+        "fraseIngles": "Estimate the total cost.",
+        "frasePortugues": "Estime o custo total.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 206,
+        "ingles": "Average",
+        "portugues": "Média",
+        "fraseIngles": "The average score was eighty percent.",
+        "frasePortugues": "A pontuação média foi oitenta por cento.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 207,
+        "ingles": "Mean",
+        "portugues": "Média",
+        "fraseIngles": "Calculate the mean of these numbers.",
+        "frasePortugues": "Calcule a média destes números.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 208,
+        "ingles": "Median",
+        "portugues": "Mediana",
+        "fraseIngles": "Find the median value.",
+        "frasePortugues": "Encontre o valor da mediana.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 209,
+        "ingles": "Mode",
+        "portugues": "Moda",
+        "fraseIngles": "The mode is the most frequent number.",
+        "frasePortugues": "A moda é o número mais frequente.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 210,
+        "ingles": "Range",
+        "portugues": "Faixa",
+        "fraseIngles": "The range is from ten to fifty.",
+        "frasePortugues": "A faixa é de dez a cinquenta.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 211,
+        "ingles": "Minimum",
+        "portugues": "Mínimo",
+        "fraseIngles": "The minimum temperature is five degrees.",
+        "frasePortugues": "A temperatura mínima é cinco graus.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 212,
+        "ingles": "Maximum",
+        "portugues": "Máximo",
+        "fraseIngles": "The maximum capacity is one hundred people.",
+        "frasePortugues": "A capacidade máxima é cem pessoas.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 213,
+        "ingles": "Ratio",
+        "portugues": "Proporção",
+        "fraseIngles": "The ratio of boys to girls is two to one.",
+        "frasePortugues": "A proporção de meninos para meninas é dois para um.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 214,
+        "ingles": "Proportion",
+        "portugues": "Proporção",
+        "fraseIngles": "The proportion of success is high.",
+        "frasePortugues": "A proporção de sucesso é alta.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 215,
+        "ingles": "Rate",
+        "portugues": "Taxa",
+        "fraseIngles": "The success rate is ninety percent.",
+        "frasePortugues": "A taxa de sucesso é noventa por cento.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 216,
+        "ingles": "Per",
+        "portugues": "Por",
+        "fraseIngles": "The speed is sixty miles per hour.",
+        "frasePortugues": "A velocidade é sessenta milhas por hora.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 217,
+        "ingles": "Out of",
+        "portugues": "De",
+        "fraseIngles": "Nine out of ten doctors agree.",
+        "frasePortugues": "Nove de dez médicos concordam.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 218,
+        "ingles": "In every",
+        "portugues": "Em cada",
+        "fraseIngles": "One in every five students fails.",
+        "frasePortugues": "Um em cada cinco alunos reprova.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 219,
+        "ingles": "For every",
+        "portugues": "Para cada",
+        "fraseIngles": "For every dollar spent, save fifty cents.",
+        "frasePortugues": "Para cada dólar gasto, economize cinquenta centavos.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 220,
+        "ingles": "Every other",
+        "portugues": "Um sim um não",
+        "fraseIngles": "Take the medicine every other day.",
+        "frasePortugues": "Tome o remédio um dia sim um não.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 221,
+        "ingles": "One in",
+        "portugues": "Um em",
+        "fraseIngles": "One in a million chance.",
+        "frasePortugues": "Uma chance em um milhão.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 222,
+        "ingles": "Odds",
+        "portugues": "Chances",
+        "fraseIngles": "The odds are fifty-fifty.",
+        "frasePortugues": "As chances são cinquenta-cinquenta.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 223,
+        "ingles": "Probability",
+        "portugues": "Probabilidade",
+        "fraseIngles": "The probability of rain is high.",
+        "frasePortugues": "A probabilidade de chuva é alta.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 224,
+        "ingles": "Chance",
+        "portugues": "Chance",
+        "fraseIngles": "There's a good chance of success.",
+        "frasePortugues": "Há uma boa chance de sucesso.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    },
+    {
+        "id": 225,
+        "ingles": "Likelihood",
+        "portugues": "Probabilidade",
+        "fraseIngles": "The likelihood of winning is low.",
+        "frasePortugues": "A probabilidade de ganhar é baixa.",
+        "subtopico": "Termos matemáticos",
+        "topico": "Números"
+    }
+]
