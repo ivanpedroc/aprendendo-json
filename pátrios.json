@@ -1,0 +1,857 @@
+[
+    {
+        "id": 1,
+        "ingles": "Brazilian",
+        "portugues": "Brasileiro",
+        "fraseIngles": "The Brazilian soccer team plays beautifully.",
+        "frasePortugues": "A seleção brasileira joga lindamente.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 2,
+        "ingles": "American",
+        "portugues": "Americano",
+        "fraseIngles": "American movies are popular worldwide.",
+        "frasePortugues": "Filmes americanos são populares mundialmente.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 3,
+        "ingles": "British",
+        "portugues": "Britânico",
+        "fraseIngles": "British tea culture is world famous.",
+        "frasePortugues": "A cultura do chá britânica é mundialmente famosa.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 4,
+        "ingles": "French",
+        "portugues": "Francês",
+        "fraseIngles": "French cuisine is considered sophisticated.",
+        "frasePortugues": "A culinária francesa é considerada sofisticada.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 5,
+        "ingles": "German",
+        "portugues": "Alemão",
+        "fraseIngles": "German engineering is highly respected.",
+        "frasePortugues": "A engenharia alemã é muito respeitada.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 6,
+        "ingles": "Italian",
+        "portugues": "Italiano",
+        "fraseIngles": "Italian pasta dishes are beloved globally.",
+        "frasePortugues": "Pratos de massa italianos são amados globalmente.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 7,
+        "ingles": "Spanish",
+        "portugues": "Espanhol",
+        "fraseIngles": "Spanish flamenco dancing is passionate.",
+        "frasePortugues": "A dança flamenca espanhola é apaixonada.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 8,
+        "ingles": "Chinese",
+        "portugues": "Chinês",
+        "fraseIngles": "Chinese culture spans thousands of years.",
+        "frasePortugues": "A cultura chinesa abrange milhares de anos.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 9,
+        "ingles": "Japanese",
+        "portugues": "Japonês",
+        "fraseIngles": "Japanese technology leads many industries.",
+        "frasePortugues": "A tecnologia japonesa lidera muitas indústrias.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 10,
+        "ingles": "Korean",
+        "portugues": "Coreano",
+        "fraseIngles": "Korean pop music gains international fans.",
+        "frasePortugues": "A música pop coreana ganha fãs internacionais.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 11,
+        "ingles": "Indian",
+        "portugues": "Indiano",
+        "fraseIngles": "Indian spices create flavorful dishes.",
+        "frasePortugues": "Temperos indianos criam pratos saborosos.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 12,
+        "ingles": "Russian",
+        "portugues": "Russo",
+        "fraseIngles": "Russian ballet is artistically renowned.",
+        "frasePortugues": "O balé russo é artisticamente renomado.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 13,
+        "ingles": "Canadian",
+        "portugues": "Canadense",
+        "fraseIngles": "Canadian hospitality is genuinely warm.",
+        "frasePortugues": "A hospitalidade canadense é genuinamente calorosa.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 14,
+        "ingles": "Australian",
+        "portugues": "Australiano",
+        "fraseIngles": "Australian wildlife is uniquely diverse.",
+        "frasePortugues": "A vida selvagem australiana é unicamente diversa.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 15,
+        "ingles": "Mexican",
+        "portugues": "Mexicano",
+        "fraseIngles": "Mexican festivals are colorfully vibrant.",
+        "frasePortugues": "Festivais mexicanos são vibrantes e coloridos.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 16,
+        "ingles": "Argentine",
+        "portugues": "Argentino",
+        "fraseIngles": "Argentine tango is elegantly passionate.",
+        "frasePortugues": "O tango argentino é elegantemente apaixonado.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 17,
+        "ingles": "Portuguese",
+        "portugues": "Português",
+        "fraseIngles": "Portuguese explorers sailed worldwide.",
+        "frasePortugues": "Exploradores portugueses navegaram pelo mundo todo.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 18,
+        "ingles": "Dutch",
+        "portugues": "Holandês",
+        "fraseIngles": "Dutch tulips bloom beautifully in spring.",
+        "frasePortugues": "Tulipas holandesas florescem lindamente na primavera.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 19,
+        "ingles": "Swedish",
+        "portugues": "Sueco",
+        "fraseIngles": "Swedish design emphasizes clean simplicity.",
+        "frasePortugues": "O design sueco enfatiza simplicidade limpa.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 20,
+        "ingles": "Norwegian",
+        "portugues": "Norueguês",
+        "fraseIngles": "Norwegian fjords are breathtakingly beautiful.",
+        "frasePortugues": "Fiordes noruegueses são de beleza de tirar o fôlego.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 21,
+        "ingles": "Danish",
+        "portugues": "Dinamarquês",
+        "fraseIngles": "Danish pastries are deliciously sweet.",
+        "frasePortugues": "Doces dinamarqueses são deliciosamente doces.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 22,
+        "ingles": "Finnish",
+        "portugues": "Finlandês",
+        "fraseIngles": "Finnish saunas promote health and relaxation.",
+        "frasePortugues": "Saunas finlandesas promovem saúde e relaxamento.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 23,
+        "ingles": "Swiss",
+        "portugues": "Suíço",
+        "fraseIngles": "Swiss watches are precision instruments.",
+        "frasePortugues": "Relógios suíços são instrumentos de precisão.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 24,
+        "ingles": "Austrian",
+        "portugues": "Austríaco",
+        "fraseIngles": "Austrian classical music is timelessly beautiful.",
+        "frasePortugues": "Música clássica austríaca é atemporalmente bela.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 25,
+        "ingles": "Belgian",
+        "portugues": "Belga",
+        "fraseIngles": "Belgian chocolate is exceptionally rich.",
+        "frasePortugues": "Chocolate belga é excepcionalmente rico.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 26,
+        "ingles": "Irish",
+        "portugues": "Irlandês",
+        "fraseIngles": "Irish folklore tells enchanting stories.",
+        "frasePortugues": "O folclore irlandês conta histórias encantadoras.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 27,
+        "ingles": "Scottish",
+        "portugues": "Escocês",
+        "fraseIngles": "Scottish kilts represent clan traditions.",
+        "frasePortugues": "Kilts escoceses representam tradições de clã.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 28,
+        "ingles": "Welsh",
+        "portugues": "Galês",
+        "fraseIngles": "Welsh singing voices are hauntingly beautiful.",
+        "frasePortugues": "Vozes cantantes galesas são assombrosamente belas.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 29,
+        "ingles": "Polish",
+        "portugues": "Polonês",
+        "fraseIngles": "Polish pierogi are comfort food favorites.",
+        "frasePortugues": "Pierogi poloneses são favoritos da comida caseira.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 30,
+        "ingles": "Czech",
+        "portugues": "Tcheco",
+        "fraseIngles": "Czech beer brewing has ancient traditions.",
+        "frasePortugues": "A fabricação de cerveja tcheca tem tradições antigas.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 31,
+        "ingles": "Hungarian",
+        "portugues": "Húngaro",
+        "fraseIngles": "Hungarian paprika adds distinctive flavor.",
+        "frasePortugues": "Páprica húngara adiciona sabor distintivo.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 32,
+        "ingles": "Greek",
+        "portugues": "Grego",
+        "fraseIngles": "Greek mythology influences modern literature.",
+        "frasePortugues": "A mitologia grega influencia literatura moderna.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 33,
+        "ingles": "Turkish",
+        "portugues": "Turco",
+        "fraseIngles": "Turkish carpets are intricately woven.",
+        "frasePortugues": "Tapetes turcos são intricadamente tecidos.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 34,
+        "ingles": "Egyptian",
+        "portugues": "Egípcio",
+        "fraseIngles": "Egyptian pyramids inspire worldwide wonder.",
+        "frasePortugues": "Pirâmides egípcias inspiram admiração mundial.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 35,
+        "ingles": "Moroccan",
+        "portugues": "Marroquino",
+        "fraseIngles": "Moroccan architecture features intricate patterns.",
+        "frasePortugues": "Arquitetura marroquina apresenta padrões intrincados.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 36,
+        "ingles": "South African",
+        "portugues": "Sul-africano",
+        "fraseIngles": "South African safaris showcase wildlife.",
+        "frasePortugues": "Safáris sul-africanos exibem vida selvagem.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 37,
+        "ingles": "Nigerian",
+        "portugues": "Nigeriano",
+        "fraseIngles": "Nigerian music rhythms energize listeners.",
+        "frasePortugues": "Ritmos musicais nigerianos energizam ouvintes.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 38,
+        "ingles": "Kenyan",
+        "portugues": "Queniano",
+        "fraseIngles": "Kenyan runners dominate marathons.",
+        "frasePortugues": "Corredores quenianos dominam maratonas.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 39,
+        "ingles": "Ethiopian",
+        "portugues": "Etíope",
+        "fraseIngles": "Ethiopian coffee has rich historical origins.",
+        "frasePortugues": "O café etíope tem origens históricas ricas.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 40,
+        "ingles": "Israeli",
+        "portugues": "Israelense",
+        "fraseIngles": "Israeli technology advances medical science.",
+        "frasePortugues": "Tecnologia israelense avança ciência médica.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 41,
+        "ingles": "Lebanese",
+        "portugues": "Libanês",
+        "fraseIngles": "Lebanese cuisine balances fresh flavors.",
+        "frasePortugues": "A culinária libanesa equilibra sabores frescos.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 42,
+        "ingles": "Iranian",
+        "portugues": "Iraniano",
+        "fraseIngles": "Iranian carpets are artistic masterpieces.",
+        "frasePortugues": "Tapetes iranianos são obras-primas artísticas.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 43,
+        "ingles": "Saudi",
+        "portugues": "Saudita",
+        "fraseIngles": "Saudi oil reserves influence global economics.",
+        "frasePortugues": "Reservas de petróleo sauditas influenciam economia global.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 44,
+        "ingles": "Thai",
+        "portugues": "Tailandês",
+        "fraseIngles": "Thai massage promotes physical wellness.",
+        "frasePortugues": "Massagem tailandesa promove bem-estar físico.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 45,
+        "ingles": "Vietnamese",
+        "portugues": "Vietnamita",
+        "fraseIngles": "Vietnamese pho soup is internationally loved.",
+        "frasePortugues": "Sopa pho vietnamita é amada internacionalmente.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 46,
+        "ingles": "Filipino",
+        "portugues": "Filipino",
+        "fraseIngles": "Filipino hospitality welcomes all visitors.",
+        "frasePortugues": "Hospitalidade filipina acolhe todos os visitantes.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 47,
+        "ingles": "Indonesian",
+        "portugues": "Indonésio",
+        "fraseIngles": "Indonesian islands offer tropical paradise.",
+        "frasePortugues": "Ilhas indonésias oferecem paraíso tropical.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 48,
+        "ingles": "Malaysian",
+        "portugues": "Malaio",
+        "fraseIngles": "Malaysian food combines diverse cultural influences.",
+        "frasePortugues": "Comida malaia combina diversas influências culturais.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 49,
+        "ingles": "Singaporean",
+        "portugues": "Singapuriano",
+        "fraseIngles": "Singaporean efficiency impresses business visitors.",
+        "frasePortugues": "Eficiência singapuriana impressiona visitantes de negócios.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 50,
+        "ingles": "Taiwanese",
+        "portugues": "Taiwanês",
+        "fraseIngles": "Taiwanese technology manufacturing leads globally.",
+        "frasePortugues": "Manufatura de tecnologia taiwanesa lidera globalmente.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 51,
+        "ingles": "Hong Kong",
+        "portugues": "De Hong Kong",
+        "fraseIngles": "Hong Kong skyline creates stunning cityscapes.",
+        "frasePortugues": "O horizonte de Hong Kong cria paisagens urbanas impressionantes.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 52,
+        "ingles": "Nepalese",
+        "portugues": "Nepalês",
+        "fraseIngles": "Nepalese mountains attract adventure seekers.",
+        "frasePortugues": "Montanhas nepalesas atraem aventureiros.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 53,
+        "ingles": "Pakistani",
+        "portugues": "Paquistanês",
+        "fraseIngles": "Pakistani textiles showcase intricate craftsmanship.",
+        "frasePortugues": "Têxteis paquistaneses exibem artesanato intrincado.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 54,
+        "ingles": "Bangladeshi",
+        "portugues": "Bangladês",
+        "fraseIngles": "Bangladeshi rice feeds millions daily.",
+        "frasePortugues": "Arroz bangladês alimenta milhões diariamente.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 55,
+        "ingles": "Sri Lankan",
+        "portugues": "Cingalês",
+        "fraseIngles": "Sri Lankan tea plantations produce quality leaves.",
+        "frasePortugues": "Plantações de chá cingalesas produzem folhas de qualidade.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 56,
+        "ingles": "Burmese",
+        "portugues": "Birmanês",
+        "fraseIngles": "Burmese temples display golden architecture.",
+        "frasePortugues": "Templos birmaneses exibem arquitetura dourada.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 57,
+        "ingles": "Cambodian",
+        "portugues": "Cambojano",
+        "fraseIngles": "Cambodian temples preserve ancient history.",
+        "frasePortugues": "Templos cambojanos preservam história antiga.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 58,
+        "ingles": "Laotian",
+        "portugues": "Laosiano",
+        "fraseIngles": "Laotian culture emphasizes peaceful living.",
+        "frasePortugues": "Cultura laosiana enfatiza vida pacífica.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 59,
+        "ingles": "Mongolian",
+        "portugues": "Mongol",
+        "fraseIngles": "Mongolian horsemen maintain nomadic traditions.",
+        "frasePortugues": "Cavaleiros mongóis mantêm tradições nômades.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 60,
+        "ingles": "Tibetan",
+        "portugues": "Tibetano",
+        "fraseIngles": "Tibetan Buddhism promotes spiritual enlightenment.",
+        "frasePortugues": "Budismo tibetano promove iluminação espiritual.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 61,
+        "ingles": "Afghan",
+        "portugues": "Afegão",
+        "fraseIngles": "Afghan carpets display masterful weaving.",
+        "frasePortugues": "Tapetes afegãos exibem tecelagem magistral.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 62,
+        "ingles": "Uzbek",
+        "portugues": "Uzbeque",
+        "fraseIngles": "Uzbek silk roads connected ancient civilizations.",
+        "frasePortugues": "Rotas da seda uzbeques conectaram civilizações antigas.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 63,
+        "ingles": "Kazakh",
+        "portugues": "Cazaque",
+        "fraseIngles": "Kazakh steppes stretch endlessly.",
+        "frasePortugues": "Estepes cazaques se estendem infinitamente.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 64,
+        "ingles": "Ukrainian",
+        "portugues": "Ucraniano",
+        "fraseIngles": "Ukrainian folk art celebrates cultural heritage.",
+        "frasePortugues": "Arte folclórica ucraniana celebra herança cultural.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 65,
+        "ingles": "Belarusian",
+        "portugues": "Bielorrusso",
+        "fraseIngles": "Belarusian forests provide natural beauty.",
+        "frasePortugues": "Florestas bielorrussas oferecem beleza natural.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 66,
+        "ingles": "Lithuanian",
+        "portugues": "Lituano",
+        "fraseIngles": "Lithuanian amber preserves ancient history.",
+        "frasePortugues": "Âmbar lituano preserva história antiga.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 67,
+        "ingles": "Latvian",
+        "portugues": "Letão",
+        "fraseIngles": "Latvian songs preserve cultural memory.",
+        "frasePortugues": "Canções letãs preservam memória cultural.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 68,
+        "ingles": "Estonian",
+        "portugues": "Estoniano",
+        "fraseIngles": "Estonian digital innovation leads Europe.",
+        "frasePortugues": "Inovação digital estônia lidera a Europa.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 69,
+        "ingles": "Georgian",
+        "portugues": "Georgiano",
+        "fraseIngles": "Georgian wine making has ancient roots.",
+        "frasePortugues": "Produção de vinho georgiano tem raízes antigas.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 70,
+        "ingles": "Armenian",
+        "portugues": "Armênio",
+        "fraseIngles": "Armenian churches showcase distinctive architecture.",
+        "frasePortugues": "Igrejas armênias exibem arquitetura distintiva.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 71,
+        "ingles": "Azerbaijani",
+        "portugues": "Azeri",
+        "fraseIngles": "Azerbaijani carpets feature intricate designs.",
+        "frasePortugues": "Tapetes azeris apresentam designs intrincados.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 72,
+        "ingles": "Peruvian",
+        "portugues": "Peruano",
+        "fraseIngles": "Peruvian cuisine combines indigenous ingredients.",
+        "frasePortugues": "Culinária peruana combina ingredientes indígenas.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 73,
+        "ingles": "Colombian",
+        "portugues": "Colombiano",
+        "fraseIngles": "Colombian coffee beans are world renowned.",
+        "frasePortugues": "Grãos de café colombianos são mundialmente renomados.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 74,
+        "ingles": "Venezuelan",
+        "portugues": "Venezuelano",
+        "fraseIngles": "Venezuelan music rhythms inspire dancing.",
+        "frasePortugues": "Ritmos musicais venezuelanos inspiram dança.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 75,
+        "ingles": "Ecuadorian",
+        "portugues": "Equatoriano",
+        "fraseIngles": "Ecuadorian roses bloom year round.",
+        "frasePortugues": "Rosas equatorianas florescem o ano todo.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 76,
+        "ingles": "Bolivian",
+        "portugues": "Boliviano",
+        "fraseIngles": "Bolivian textiles display vibrant colors.",
+        "frasePortugues": "Têxteis bolivianos exibem cores vibrantes.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 77,
+        "ingles": "Chilean",
+        "portugues": "Chileno",
+        "fraseIngles": "Chilean wines earn international recognition.",
+        "frasePortugues": "Vinhos chilenos ganham reconhecimento internacional.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 78,
+        "ingles": "Paraguayan",
+        "portugues": "Paraguaio",
+        "fraseIngles": "Paraguayan handicrafts preserve traditions.",
+        "frasePortugues": "Artesanato paraguaio preserva tradições.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 79,
+        "ingles": "Uruguayan",
+        "portugues": "Uruguaio",
+        "fraseIngles": "Uruguayan beaches attract summer visitors.",
+        "frasePortugues": "Praias uruguaias atraem visitantes de verão.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 80,
+        "ingles": "Cuban",
+        "portugues": "Cubano",
+        "fraseIngles": "Cuban cigars are internationally famous.",
+        "frasePortugues": "Charutos cubanos são internacionalmente famosos.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 81,
+        "ingles": "Jamaican",
+        "portugues": "Jamaicano",
+        "fraseIngles": "Jamaican reggae music spreads worldwide.",
+        "frasePortugues": "Música reggae jamaicana se espalha mundialmente.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 82,
+        "ingles": "Dominican",
+        "portugues": "Dominicano",
+        "fraseIngles": "Dominican merengue dancing is joyfully energetic.",
+        "frasePortugues": "Dança merengue dominicana é alegremente energética.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 83,
+        "ingles": "Haitian",
+        "portugues": "Haitiano",
+        "fraseIngles": "Haitian art expresses cultural resilience.",
+        "frasePortugues": "Arte haitiana expressa resistência cultural.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 84,
+        "ingles": "Puerto Rican",
+        "portugues": "Porto-riquenho",
+        "fraseIngles": "Puerto Rican salsa music energizes dancers.",
+        "frasePortugues": "Música salsa porto-riquenha energiza dançarinos.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 85,
+        "ingles": "Costa Rican",
+        "portugues": "Costa-riquenho",
+        "fraseIngles": "Costa Rican biodiversity amazes researchers.",
+        "frasePortugues": "Biodiversidade costa-riquenha impressiona pesquisadores.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 86,
+        "ingles": "Guatemalan",
+        "portugues": "Guatemalteco",
+        "fraseIngles": "Guatemalan textiles showcase Mayan heritage.",
+        "frasePortugues": "Têxteis guatemaltecos exibem herança maia.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 87,
+        "ingles": "Honduran",
+        "portugues": "Hondurenho",
+        "fraseIngles": "Honduran coffee grows in mountain regions.",
+        "frasePortugues": "Café hondurenho cresce em regiões montanhosas.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 88,
+        "ingles": "Nicaraguan",
+        "portugues": "Nicaraguense",
+        "fraseIngles": "Nicaraguan lakes provide freshwater resources.",
+        "frasePortugues": "Lagos nicaraguenses fornecem recursos de água doce.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 89,
+        "ingles": "Panamanian",
+        "portugues": "Panamenho",
+        "fraseIngles": "Panamanian canal connects two oceans.",
+        "frasePortugues": "Canal panamenho conecta dois oceanos.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 90,
+        "ingles": "Salvadoran",
+        "portugues": "Salvadorenho",
+        "fraseIngles": "Salvadoran pupusas are traditional comfort food.",
+        "frasePortugues": "Pupusas salvadorenhas são comida caseira tradicional.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 91,
+        "ingles": "Belizean",
+        "portugues": "Belizenho",
+        "fraseIngles": "Belizean barrier reef protects marine life.",
+        "frasePortugues": "Recife de barreira belizenho protege vida marinha.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 92,
+        "ingles": "New Zealander",
+        "portugues": "Neozelandês",
+        "fraseIngles": "New Zealand landscapes inspire filmmakers.",
+        "frasePortugues": "Paisagens neozelandesas inspiram cineastas.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 93,
+        "ingles": "Fijian",
+        "portugues": "Fijiano",
+        "fraseIngles": "Fijian hospitality welcomes island visitors.",
+        "frasePortugues": "Hospitalidade fijiana acolhe visitantes das ilhas.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 94,
+        "ingles": "Samoan",
+        "portugues": "Samoano",
+        "fraseIngles": "Samoan culture honors family traditions.",
+        "frasePortugues": "Cultura samoana honra tradições familiares.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 95,
+        "ingles": "Tongan",
+        "portugues": "Tonganês",
+        "fraseIngles": "Tongan handicrafts preserve island heritage.",
+        "frasePortugues": "Artesanato tonganês preserva herança das ilhas.",
+        "subtopico": "Pátrios",
+        "topico": "Outros assuntos"
+    }
+]

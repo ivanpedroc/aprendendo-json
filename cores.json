@@ -1,1234 +1,1406 @@
 [
     {
-        "id": "1",
-        "topico": "cores",
-        "ingles": "Importance of colors",
-        "portugues": "Importância das cores",
-        "frase_ingles": "The importance of learning colors in English is a fundamental step for any beginner.",
-        "frase_portugues": "A importância de aprender as cores em inglês é um passo fundamental para qualquer iniciante."
-    },
-    {
-        "id": "2",
-        "topico": "cores",
-        "ingles": "Vocabulary",
-        "portugues": "Vocabulário",
-        "frase_ingles": "Colors are part of our daily vocabulary and are used to describe objects, feelings, and even abstract ideas.",
-        "frase_portugues": "As cores fazem parte do nosso vocabulário diário e são usadas para descrever objetos, sentimentos e até mesmo ideias abstratas."
-    },
-    {
-        "id": "3",
-        "topico": "cores",
-        "ingles": "Names of colors",
-        "portugues": "Nomes das cores",
-        "frase_ingles": "Knowing the names of colors allows you to describe the world around you with more precision.",
-        "frase_portugues": "Saber os nomes das cores permite que você descreva o mundo ao seu redor com mais precisão."
-    },
-    {
-        "id": "4",
-        "topico": "cores",
-        "ingles": "Essencial",
-        "portugues": "Essencial",
-        "frase_ingles": "This is essential in practical situations, such as shopping, giving directions, or just having casual conversations.",
-        "frase_portugues": "Isso é essencial em situações práticas, como compras, direções ou simplesmente conversas casuais."
-    },
-    {
-        "id": "5",
-        "topico": "cores",
-        "ingles": "Feeling blue - to feel sad",
-        "portugues": "Sentir-se triste.",
-        "frase_ingles": "Furthermore, many English idioms use colors to convey meaning, such as feeling blue to feel sad.",
-        "frase_portugues": "Além disso, muitas expressões idiomáticas em inglês usam cores para transmitir um significado, como feeling blue sentir-se triste."
-    },
-    {
-        "id": "6",
-        "topico": "cores",
-        "ingles": "Basic",
-        "portugues": "Básico",
-        "frase_ingles": "Mastering this basic vocabulary helps you build a solid foundation for more advanced learning.",
-        "frase_portugues": "Dominar esse vocabulário básico te ajuda a construir uma base sólida para um aprendizado mais avançado."
-    },
-    {
-        "id": "7",
-        "topico": "cores",
-        "ingles": "Colorful",
-        "portugues": "Colorido",
-        "frase_ingles": "The market is very colorful.",
-        "frase_portugues": "O mercado é muito colorido."
-    },
-    {
-        "id": "8",
-        "topico": "cores",
-        "ingles": "Colorless",
-        "portugues": "Sem cor",
-        "frase_ingles": "The water is colorless.",
-        "frase_portugues": "A água é sem cor."
-    },
-    {
-        "id": "9",
-        "topico": "cores",
-        "ingles": "What color is this?",
-        "portugues": "Que cor é essa?",
-        "frase_ingles": "What color is this shirt?",
-        "frase_portugues": "Que cor é essa camisa?"
-    },
-    {
-        "id": "10",
-        "topico": "cores",
-        "ingles": "Do you like green?",
-        "portugues": "Você gosta de verde?",
-        "frase_ingles": "Do you like green or blue?",
-        "frase_portugues": "Você gosta de verde ou de azul?"
-    },
-    {
-        "id": "11",
-        "topico": "cores",
-        "ingles": "Color",
-        "portugues": "Cor",
-        "frase_ingles": "What is your favorite color?",
-        "frase_portugues": "Qual é a sua cor favorita?"
-    },
-    {
-        "id": "12",
-        "topico": "cores",
-        "ingles": "Colors",
-        "portugues": "Cores",
-        "frase_ingles": "She used many different colors in her painting.",
-        "frase_portugues": "Ela usou muitas cores diferentes em sua pintura."
-    },
-    {
-        "id": "13",
-        "topico": "cores",
-        "ingles": "Colored",
-        "portugues": "Colorido",
-        "frase_ingles": "The children's book was full of brightly colored drawings.",
-        "frase_portugues": "O livro infantil estava cheio de desenhos intensamente coloridos."
-    },
-    {
-        "id": "14",
-        "topico": "cores",
-        "ingles": "Colorful",
-        "portugues": "Colorido / Vibrante",
-        "frase_ingles": "The market was a colorful place, with many fruits and vegetables.",
-        "frase_portugues": "O mercado era um lugar colorido, com muitas frutas e vegetais."
-    },
-    {
-        "id": "15",
-        "topico": "cores",
-        "ingles": "Coloring",
-        "portugues": "Colorindo / Coloração",
-        "frase_ingles": "The kids are in the living room coloring pictures.",
-        "frase_portugues": "As crianças estão na sala colorindo desenhos."
-    },
-    {
-        "id": "16",
-        "topico": "cores",
-        "ingles": "Discolor",
-        "portugues": "Descolorir",
-        "frase_ingles": "The sun can discolor the fabric over time.",
-        "frase_portugues": "O sol pode descolorir o tecido com o tempo."
-    },
-    {
-        "id": "17",
-        "topico": "cores",
-        "ingles": "Colorless",
-        "portugues": "Incolor",
-        "frase_ingles": "Water is a clear, colorless liquid.",
-        "frase_portugues": "A água é um líquido claro e incolor."
-    },
-    {
-        "id": "18",
-        "topico": "cores",
+        "id": 1,
         "ingles": "Red",
         "portugues": "Vermelho",
-        "frase_ingles": "The car is a bright red.",
-        "frase_portugues": "O carro é de um vermelho brilhante."
+        "fraseIngles": "The red rose smells beautiful.",
+        "frasePortugues": "A rosa vermelha cheira lindamente.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "19",
-        "topico": "cores",
+        "id": 2,
         "ingles": "Blue",
         "portugues": "Azul",
-        "frase_ingles": "The sea is a beautiful blue.",
-        "frase_portugues": "O mar é um belo azul."
+        "fraseIngles": "The sky is bright blue today.",
+        "frasePortugues": "O céu está azul vivo hoje.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "20",
-        "topico": "cores",
+        "id": 3,
         "ingles": "Green",
         "portugues": "Verde",
-        "frase_ingles": "The grass is a soft green.",
-        "frase_portugues": "A grama é de um verde suave."
+        "fraseIngles": "Fresh grass is bright green.",
+        "frasePortugues": "Grama fresca é verde vivo.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "21",
-        "topico": "cores",
+        "id": 4,
         "ingles": "Yellow",
         "portugues": "Amarelo",
-        "frase_ingles": "The school bus is yellow.",
-        "frase_portugues": "O ônibus escolar é amarelo."
+        "fraseIngles": "The sun looks yellow in the sky.",
+        "frasePortugues": "O sol parece amarelo no céu.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "22",
-        "topico": "cores",
+        "id": 5,
         "ingles": "Orange",
         "portugues": "Laranja",
-        "frase_ingles": "I love to eat orange juice in the morning.",
-        "frase_portugues": "Eu amo tomar suco de laranja de manhã."
+        "fraseIngles": "The pumpkin is bright orange.",
+        "frasePortugues": "A abóbora é laranja vivo.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "23",
-        "topico": "cores",
+        "id": 6,
         "ingles": "Purple",
         "portugues": "Roxo",
-        "frase_ingles": "She wore a purple jacket.",
-        "frase_portugues": "Ela usava uma jaqueta roxa."
+        "fraseIngles": "Grapes can be purple or green.",
+        "frasePortugues": "Uvas podem ser roxas ou verdes.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "24",
-        "topico": "cores",
+        "id": 7,
         "ingles": "Pink",
         "portugues": "Rosa",
-        "frase_ingles": "The little girl wants a pink bicycle.",
-        "frase_portugues": "A menininha quer uma bicicleta rosa."
+        "fraseIngles": "Cherry blossoms are soft pink.",
+        "frasePortugues": "Flores de cerejeira são rosa suave.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "25",
-        "topico": "cores",
+        "id": 8,
+        "ingles": "Brown",
+        "portugues": "Marrom",
+        "fraseIngles": "Tree bark is usually brown.",
+        "frasePortugues": "Casca de árvore geralmente é marrom.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 9,
         "ingles": "Black",
         "portugues": "Preto",
-        "frase_ingles": "My favorite sweater is black.",
-        "frase_portugues": "Meu suéter favorito é preto."
+        "fraseIngles": "The cat has shiny black fur.",
+        "frasePortugues": "O gato tem pelo preto brilhante.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "26",
-        "topico": "cores",
+        "id": 10,
         "ingles": "White",
         "portugues": "Branco",
-        "frase_ingles": "The clouds are white and fluffy.",
-        "frase_portugues": "As nuvens são brancas e fofas."
+        "fraseIngles": "Fresh snow is pure white.",
+        "frasePortugues": "Neve fresca é branca pura.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "27",
-        "topico": "cores",
-        "ingles": "Brown",
-        "portugues": "Marrom",
-        "frase_ingles": "The dog has big brown eyes.",
-        "frase_portugues": "O cachorro tem grandes olhos marrons."
-    },
-    {
-        "id": "28",
-        "topico": "cores",
+        "id": 11,
         "ingles": "Gray",
         "portugues": "Cinza",
-        "frase_ingles": "The cat has a soft gray fur.",
-        "frase_portugues": "O gato tem um pelo cinza macio."
+        "fraseIngles": "Storm clouds are dark gray.",
+        "frasePortugues": "Nuvens de tempestade são cinza escuro.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "29",
-        "topico": "cores",
-        "ingles": "Red",
-        "portugues": "Vermelho",
-        "frase_ingles": "The apple is a bright red.",
-        "frase_portugues": "A maçã é de um vermelho brilhante."
+        "id": 12,
+        "ingles": "Grey",
+        "portugues": "Cinza (grafia britânica)",
+        "fraseIngles": "British spelling uses grey with an 'e'.",
+        "frasePortugues": "Grafia britânica usa grey com 'e'.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "30",
-        "topico": "cores",
-        "ingles": "Blue",
-        "portugues": "Azul",
-        "frase_ingles": "The sky is a clear blue today.",
-        "frase_portugues": "O céu está de um azul claro hoje."
-    },
-    {
-        "id": "31",
-        "topico": "cores",
-        "ingles": "Yellow",
-        "portugues": "Amarelo",
-        "frase_ingles": "A bright yellow sun shone down on the field of flowers.",
-        "frase_portugues": "Um sol amarelo brilhante iluminava o campo de flores."
-    },
-    {
-        "id": "32",
-        "topico": "cores",
-        "ingles": "Green",
-        "portugues": "Verde",
-        "frase_ingles": "The leaves on the trees are a vibrant green in the spring.",
-        "frase_portugues": "As folhas nas árvores são de um verde vibrante na primavera."
-    },
-    {
-        "id": "33",
-        "topico": "cores",
-        "ingles": "Orange",
-        "portugues": "Laranja",
-        "frase_ingles": "He wore a bright orange shirt to the party.",
-        "frase_portugues": "Ele usou uma camisa laranja brilhante na festa."
-    },
-    {
-        "id": "34",
-        "topico": "cores",
-        "ingles": "Purple",
-        "portugues": "Roxo",
-        "frase_ingles": "She painted her room a light shade of purple.",
-        "frase_portugues": "Ela pintou o quarto dela com um tom claro de roxo."
-    },
-    {
-        "id": "35",
-        "topico": "cores",
-        "ingles": "Pink",
-        "portugues": "Rosa",
-        "frase_ingles": "The little girl loves her pink dress.",
-        "frase_portugues": "A menininha ama o seu vestido rosa."
-    },
-    {
-        "id": "36",
-        "topico": "cores",
-        "ingles": "Brown",
-        "portugues": "Marrom",
-        "frase_ingles": "The wooden table was a deep brown.",
-        "frase_portugues": "A mesa de madeira era de um marrom profundo."
-    },
-    {
-        "id": "37",
-        "topico": "cores",
-        "ingles": "Gray",
-        "portugues": "Cinza",
-        "frase_ingles": "The sky turned a dull gray before the rain started.",
-        "frase_portugues": "O céu ficou de um cinza sem graça antes de a chuva começar."
-    },
-    {
-        "id": "38",
-        "topico": "cores",
-        "ingles": "Silver",
-        "portugues": "Prata",
-        "frase_ingles": "She wore a beautiful silver necklace.",
-        "frase_portugues": "Ela usava um lindo colar de prata."
-    },
-    {
-        "id": "39",
-        "topico": "cores",
-        "ingles": "Gold",
-        "portugues": "Ouro",
-        "frase_ingles": "The treasure chest was filled with shiny gold coins.",
-        "frase_portugues": "O baú do tesouro estava cheio de moedas de ouro brilhantes."
-    },
-    {
-        "id": "40",
-        "topico": "cores",
-        "ingles": "Turquoise",
-        "portugues": "Turquesa",
-        "frase_ingles": "The ocean was a beautiful shade of turquoise.",
-        "frase_portugues": "O oceano estava em um lindo tom de turquesa."
-    },
-    {
-        "id": "41",
-        "topico": "cores",
-        "ingles": "Navy Blue",
-        "portugues": "Azul Marinho",
-        "frase_ingles": "He wore a navy blue suit to the wedding.",
-        "frase_portugues": "Ele usou um terno azul marinho no casamento."
-    },
-    {
-        "id": "42",
-        "topico": "cores",
-        "ingles": "Olive Green",
-        "portugues": "Verde Oliva",
-        "frase_ingles": "The military jacket was an olive green color.",
-        "frase_portugues": "O casaco militar era de cor verde oliva."
-    },
-    {
-        "id": "43",
-        "topico": "cores",
+        "id": 13,
         "ingles": "Crimson",
         "portugues": "Carmesim",
-        "frase_ingles": "Her cheeks turned crimson with embarrassment.",
-        "frase_portugues": "As bochechas dela ficaram carmesim de vergonha."
+        "fraseIngles": "The flag has a crimson stripe.",
+        "frasePortugues": "A bandeira tem uma faixa carmesim.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "44",
-        "topico": "cores",
-        "ingles": "Beige",
-        "portugues": "Bege",
-        "frase_ingles": "She wore a simple beige dress to the meeting.",
-        "frase_portugues": "Ela usou um vestido bege simples para a reunião."
+        "id": 14,
+        "ingles": "Scarlet",
+        "portugues": "Escarlate",
+        "fraseIngles": "The bird has scarlet feathers.",
+        "frasePortugues": "O pássaro tem penas escarlates.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "45",
-        "topico": "cores",
-        "ingles": "Teal",
-        "portugues": "Azul-petróleo",
-        "frase_ingles": "The walls of the cafe were painted a beautiful teal color.",
-        "frase_portugues": "As paredes do café foram pintadas em uma linda cor azul-petróleo."
-    },
-    {
-        "id": "46",
-        "topico": "cores",
-        "ingles": "Magenta",
-        "portugues": "Magenta",
-        "frase_ingles": "The flowers in the vase were a vibrant magenta.",
-        "frase_portugues": "As flores no vaso eram de um magenta vibrante."
-    },
-    {
-        "id": "47",
-        "topico": "cores",
-        "ingles": "Cyan",
-        "portugues": "Ciano",
-        "frase_ingles": "The printer was running low on cyan ink.",
-        "frase_portugues": "A impressora estava com pouca tinta ciano."
-    },
-    {
-        "id": "48",
-        "topico": "cores",
+        "id": 15,
         "ingles": "Maroon",
         "portugues": "Bordô",
-        "frase_ingles": "He had a maroon tie to match his dark suit.",
-        "frase_portugues": "Ele tinha uma gravata bordô para combinar com seu terno escuro."
+        "fraseIngles": "The wine is deep maroon color.",
+        "frasePortugues": "O vinho é cor bordô profunda.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "49",
-        "topico": "cores",
-        "ingles": "Lavender",
-        "portugues": "Lavanda",
-        "frase_ingles": "The field of lavender flowers filled the air with a sweet scent.",
-        "frase_portugues": "O campo de flores de lavanda encheu o ar com um aroma doce."
+        "id": 16,
+        "ingles": "Burgundy",
+        "portugues": "Borgonha",
+        "fraseIngles": "Her dress is elegant burgundy.",
+        "frasePortugues": "Seu vestido é borgonha elegante.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "50",
-        "topico": "cores",
-        "ingles": "Bronze",
-        "portugues": "Bronze",
-        "frase_ingles": "The trophy was made of shiny bronze.",
-        "frase_portugues": "O troféu era feito de bronze brilhante."
+        "id": 17,
+        "ingles": "Cherry red",
+        "portugues": "Vermelho cereja",
+        "fraseIngles": "The lipstick is cherry red.",
+        "frasePortugues": "O batom é vermelho cereja.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "51",
-        "topico": "cores",
-        "ingles": "Ivory",
-        "portugues": "Marfim",
-        "frase_ingles": "The old piano keys were a pale ivory color.",
-        "frase_portugues": "As antigas teclas do piano eram de uma cor marfim pálido."
+        "id": 18,
+        "ingles": "Fire red",
+        "portugues": "Vermelho fogo",
+        "fraseIngles": "The sports car is fire red.",
+        "frasePortugues": "O carro esportivo é vermelho fogo.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "52",
-        "topico": "cores",
-        "ingles": "Coral",
-        "portugues": "Coral",
-        "frase_ingles": "She decorated the room with coral-colored pillows.",
-        "frase_portugues": "Ela decorou o quarto com almofadas cor de coral."
+        "id": 19,
+        "ingles": "Blood red",
+        "portugues": "Vermelho sangue",
+        "fraseIngles": "The sunset sky was blood red.",
+        "frasePortugues": "O céu do pôr do sol estava vermelho sangue.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "53",
-        "topico": "cores",
-        "ingles": "Lime Green",
-        "portugues": "Verde-limão",
-        "frase_ingles": "His bicycle was a shocking lime green.",
-        "frase_portugues": "A bicicleta dele era de um verde-limão chocante."
+        "id": 20,
+        "ingles": "Rose red",
+        "portugues": "Vermelho rosa",
+        "fraseIngles": "The valentine card is rose red.",
+        "frasePortugues": "O cartão de dia dos namorados é vermelho rosa.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "54",
-        "topico": "cores",
-        "ingles": "Jade Green",
-        "portugues": "Verde jade",
-        "frase_ingles": "The ring had a beautiful jade green stone.",
-        "frase_portugues": "O anel tinha uma linda pedra verde jade."
+        "id": 21,
+        "ingles": "Brick red",
+        "portugues": "Vermelho tijolo",
+        "fraseIngles": "The old building is brick red.",
+        "frasePortugues": "O prédio antigo é vermelho tijolo.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "55",
-        "topico": "cores",
-        "ingles": "Royal Blue",
-        "portugues": "Azul-royal",
-        "frase_ingles": "She chose a stunning royal blue dress for the gala.",
-        "frase_portugues": "Ela escolheu um deslumbrante vestido azul-royal para a gala."
+        "id": 22,
+        "ingles": "Ruby red",
+        "portugues": "Vermelho rubi",
+        "fraseIngles": "The gemstone is ruby red.",
+        "frasePortugues": "A pedra preciosa é vermelho rubi.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "56",
-        "topico": "cores",
-        "ingles": "Scarlet",
-        "portugues": "Escarlate",
-        "frase_ingles": "His scarlet jacket was easy to spot in the crowd.",
-        "frase_portugues": "A jaqueta escarlate dele era fácil de ser vista na multidão."
+        "id": 23,
+        "ingles": "Navy blue",
+        "portugues": "Azul marinho",
+        "fraseIngles": "His uniform is navy blue.",
+        "frasePortugues": "Seu uniforme é azul marinho.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "57",
-        "topico": "cores",
-        "ingles": "Indigo",
-        "portugues": "Anil",
-        "frase_ingles": "The late afternoon sky was a deep indigo.",
-        "frase_portugues": "O céu no final da tarde estava em um anil profundo."
+        "id": 24,
+        "ingles": "Sky blue",
+        "portugues": "Azul céu",
+        "fraseIngles": "The baby's room is sky blue.",
+        "frasePortugues": "O quarto do bebê é azul céu.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "58",
-        "topico": "cores",
-        "ingles": "Aqua",
-        "portugues": "Água",
-        "frase_ingles": "The swimming pool water was a brilliant aqua.",
-        "frase_portugues": "A água da piscina estava em um brilhante tom de água."
+        "id": 25,
+        "ingles": "Royal blue",
+        "portugues": "Azul real",
+        "fraseIngles": "The flag has royal blue sections.",
+        "frasePortugues": "A bandeira tem seções azul real.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "59",
-        "topico": "cores",
-        "ingles": "Fuchsia",
-        "portugues": "Fúcsia",
-        "frase_ingles": "The flowers were a bright fuchsia, almost glowing.",
-        "frase_portugues": "As flores eram de um fúcsia brilhante, quase reluzentes."
+        "id": 26,
+        "ingles": "Electric blue",
+        "portugues": "Azul elétrico",
+        "fraseIngles": "The neon sign glows electric blue.",
+        "frasePortugues": "O letreiro neon brilha azul elétrico.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "60",
-        "topico": "cores",
-        "ingles": "Bronze",
-        "portugues": "Bronze",
-        "frase_ingles": "He won the bronze medal in the competition.",
-        "frase_portugues": "Ele ganhou a medalha de bronze na competição."
+        "id": 27,
+        "ingles": "Powder blue",
+        "portugues": "Azul bebê",
+        "fraseIngles": "The nursery walls are powder blue.",
+        "frasePortugues": "As paredes do berçário são azul bebê.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "61",
-        "topico": "cores",
-        "ingles": "Crimson",
-        "portugues": "Carmesim",
-        "frase_ingles": "The sunset painted the clouds in shades of crimson and gold.",
-        "frase_portugues": "O pôr do sol pintou as nuvens em tons de carmesim e ouro."
-    },
-    {
-        "id": "62",
-        "topico": "cores",
-        "ingles": "Charcoal",
-        "portugues": "Carvão",
-        "frase_ingles": "He wore a charcoal gray suit to the interview.",
-        "frase_portugues": "Ele usou um terno cinza carvão para a entrevista."
-    },
-    {
-        "id": "63",
-        "topico": "cores",
-        "ingles": "Emerald",
-        "portugues": "Esmeralda",
-        "frase_ingles": "Her eyes sparkled with an emerald green color.",
-        "frase_portugues": "Os olhos dela brilhavam com uma cor verde esmeralda."
-    },
-    {
-        "id": "64",
-        "topico": "cores",
-        "ingles": "Scarlet",
-        "portugues": "Escarlate",
-        "frase_ingles": "The cardinal's feathers were a brilliant scarlet.",
-        "frase_portugues": "As penas do cardeal eram de um escarlate brilhante."
-    },
-    {
-        "id": "65",
-        "topico": "cores",
-        "ingles": "Indigo",
-        "portugues": "Anil",
-        "frase_ingles": "She dyed her jeans a deep indigo blue.",
-        "frase_portugues": "Ela tingiu a calça jeans com um anil profundo."
-    },
-    {
-        "id": "66",
-        "topico": "cores",
-        "ingles": "Aqua",
-        "portugues": "Água-marinha",
-        "frase_ingles": "The water in the lagoon was a perfect aqua.",
-        "frase_portugues": "A água da lagoa era de um perfeito água-marinha."
-    },
-    {
-        "id": "67",
-        "topico": "cores",
+        "id": 28,
         "ingles": "Turquoise",
         "portugues": "Turquesa",
-        "frase_ingles": "She wore a delicate turquoise stone on her necklace.",
-        "frase_portugues": "Ela usava uma delicada pedra turquesa em seu colar."
+        "fraseIngles": "The tropical water is turquoise.",
+        "frasePortugues": "A água tropical é turquesa.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "68",
-        "topico": "cores",
-        "ingles": "Lavender",
-        "portugues": "Lavanda",
-        "frase_ingles": "The sunset filled the sky with shades of lavender and rose.",
-        "frase_portugues": "O pôr do sol encheu o céu com tons de lavanda e rosa."
-    },
-    {
-        "id": "69",
-        "topico": "cores",
-        "ingles": "Coral",
-        "portugues": "Coral",
-        "frase_ingles": "The lipstick she chose was a vibrant coral color.",
-        "frase_portugues": "O batom que ela escolheu era de uma cor coral vibrante."
-    },
-    {
-        "id": "70",
-        "topico": "cores",
-        "ingles": "Lime",
-        "portugues": "Verde-limão",
-        "frase_ingles": "He added a slice of lime to his drink.",
-        "frase_portugues": "Ele adicionou uma fatia de verde-limão à sua bebida."
-    },
-    {
-        "id": "71",
-        "topico": "cores",
+        "id": 29,
         "ingles": "Teal",
         "portugues": "Verde-azulado",
-        "frase_ingles": "The sofa in the living room was a stylish teal.",
-        "frase_portugues": "O sofá da sala de estar era de um elegante verde-azulado."
+        "fraseIngles": "The peacock's feathers are teal.",
+        "frasePortugues": "As penas do pavão são verde-azuladas.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "72",
-        "topico": "cores",
+        "id": 30,
+        "ingles": "Aqua",
+        "portugues": "Água-marinha",
+        "fraseIngles": "The swimming pool is aqua blue.",
+        "frasePortugues": "A piscina é azul água-marinha.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 31,
+        "ingles": "Cyan",
+        "portugues": "Ciano",
+        "fraseIngles": "The printer uses cyan ink.",
+        "frasePortugues": "A impressora usa tinta ciano.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 32,
+        "ingles": "Cobalt blue",
+        "portugues": "Azul cobalto",
+        "fraseIngles": "The artist mixed cobalt blue paint.",
+        "frasePortugues": "O artista misturou tinta azul cobalto.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 33,
+        "ingles": "Indigo",
+        "portugues": "Índigo",
+        "fraseIngles": "Indigo is between blue and purple.",
+        "frasePortugues": "Índigo fica entre azul e roxo.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 34,
+        "ingles": "Forest green",
+        "portugues": "Verde floresta",
+        "fraseIngles": "The pine trees are forest green.",
+        "frasePortugues": "Os pinheiros são verde floresta.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 35,
+        "ingles": "Lime green",
+        "portugues": "Verde limão",
+        "fraseIngles": "The highlighter is lime green.",
+        "frasePortugues": "O marca-texto é verde limão.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 36,
+        "ingles": "Emerald green",
+        "portugues": "Verde esmeralda",
+        "fraseIngles": "Her ring has an emerald green stone.",
+        "frasePortugues": "Seu anel tem uma pedra verde esmeralda.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 37,
+        "ingles": "Mint green",
+        "portugues": "Verde menta",
+        "fraseIngles": "The bathroom tiles are mint green.",
+        "frasePortugues": "Os azulejos do banheiro são verde menta.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 38,
+        "ingles": "Olive green",
+        "portugues": "Verde oliva",
+        "fraseIngles": "Military uniforms are olive green.",
+        "frasePortugues": "Uniformes militares são verde oliva.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 39,
+        "ingles": "Sage green",
+        "portugues": "Verde sálvia",
+        "fraseIngles": "The kitchen cabinets are sage green.",
+        "frasePortugues": "Os armários da cozinha são verde sálvia.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 40,
+        "ingles": "Sea green",
+        "portugues": "Verde mar",
+        "fraseIngles": "The ocean looks sea green today.",
+        "frasePortugues": "O oceano parece verde mar hoje.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 41,
+        "ingles": "Kelly green",
+        "portugues": "Verde irlandês",
+        "fraseIngles": "The shamrock is kelly green.",
+        "frasePortugues": "O trevo é verde irlandês.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 42,
+        "ingles": "Jade green",
+        "portugues": "Verde jade",
+        "fraseIngles": "The bracelet is jade green.",
+        "frasePortugues": "A pulseira é verde jade.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 43,
+        "ingles": "Neon green",
+        "portugues": "Verde neon",
+        "fraseIngles": "The safety vest is neon green.",
+        "frasePortugues": "O colete de segurança é verde neon.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 44,
+        "ingles": "Golden yellow",
+        "portugues": "Amarelo dourado",
+        "fraseIngles": "The wheat field is golden yellow.",
+        "frasePortugues": "O campo de trigo é amarelo dourado.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 45,
+        "ingles": "Lemon yellow",
+        "portugues": "Amarelo limão",
+        "fraseIngles": "The kitchen walls are lemon yellow.",
+        "frasePortugues": "As paredes da cozinha são amarelo limão.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 46,
+        "ingles": "Canary yellow",
+        "portugues": "Amarelo canário",
+        "fraseIngles": "The bird is bright canary yellow.",
+        "frasePortugues": "O pássaro é amarelo canário vivo.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 47,
+        "ingles": "Sunshine yellow",
+        "portugues": "Amarelo sol",
+        "fraseIngles": "The daffodils are sunshine yellow.",
+        "frasePortugues": "Os narcisos são amarelo sol.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 48,
+        "ingles": "Butter yellow",
+        "portugues": "Amarelo manteiga",
+        "fraseIngles": "The baby's blanket is butter yellow.",
+        "frasePortugues": "A manta do bebê é amarelo manteiga.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 49,
+        "ingles": "Amber yellow",
+        "portugues": "Amarelo âmbar",
+        "fraseIngles": "The honey is amber yellow.",
+        "frasePortugues": "O mel é amarelo âmbar.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 50,
+        "ingles": "Mustard yellow",
+        "portugues": "Amarelo mostarda",
+        "fraseIngles": "The vintage car is mustard yellow.",
+        "frasePortugues": "O carro vintage é amarelo mostarda.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 51,
+        "ingles": "Cream",
+        "portugues": "Creme",
+        "fraseIngles": "The wedding dress is cream colored.",
+        "frasePortugues": "O vestido de noiva é cor de creme.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 52,
+        "ingles": "Ivory",
+        "portugues": "Marfim",
+        "fraseIngles": "The piano keys are ivory white.",
+        "frasePortugues": "As teclas do piano são branco marfim.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 53,
+        "ingles": "Peach",
+        "portugues": "Pêssego",
+        "fraseIngles": "The nursery is painted soft peach.",
+        "frasePortugues": "O berçário é pintado de pêssego suave.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 54,
+        "ingles": "Coral",
+        "portugues": "Coral",
+        "fraseIngles": "The tropical fish is bright coral.",
+        "frasePortugues": "O peixe tropical é coral vivo.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 55,
+        "ingles": "Tangerine",
+        "portugues": "Tangerina",
+        "fraseIngles": "The sunset is tangerine orange.",
+        "frasePortugues": "O pôr do sol é laranja tangerina.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 56,
+        "ingles": "Rust",
+        "portugues": "Ferrugem",
+        "fraseIngles": "The old gate is rust colored.",
+        "frasePortugues": "O portão velho é cor de ferrugem.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 57,
+        "ingles": "Copper",
+        "portugues": "Cobre",
+        "fraseIngles": "The pot has a copper finish.",
+        "frasePortugues": "A panela tem acabamento cobre.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 58,
+        "ingles": "Bronze",
+        "portugues": "Bronze",
+        "fraseIngles": "The statue is bronze colored.",
+        "frasePortugues": "A estátua é cor de bronze.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 59,
+        "ingles": "Lavender",
+        "portugues": "Lavanda",
+        "fraseIngles": "The flowers are soft lavender.",
+        "frasePortugues": "As flores são lavanda suave.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 60,
+        "ingles": "Violet",
+        "portugues": "Violeta",
+        "fraseIngles": "The evening sky turns violet.",
+        "frasePortugues": "O céu da tarde fica violeta.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 61,
+        "ingles": "Plum",
+        "portugues": "Ameixa",
+        "fraseIngles": "Her lipstick is dark plum.",
+        "frasePortugues": "Seu batom é ameixa escuro.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 62,
+        "ingles": "Grape",
+        "portugues": "Uva",
+        "fraseIngles": "The curtains are grape purple.",
+        "frasePortugues": "As cortinas são roxo uva.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 63,
+        "ingles": "Magenta",
+        "portugues": "Magenta",
+        "fraseIngles": "The printer uses magenta ink.",
+        "frasePortugues": "A impressora usa tinta magenta.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 64,
+        "ingles": "Fuchsia",
+        "portugues": "Fúcsia",
+        "fraseIngles": "The tropical flower is bright fuchsia.",
+        "frasePortugues": "A flor tropical é fúcsia vivo.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 65,
+        "ingles": "Lilac",
+        "portugues": "Lilás",
+        "fraseIngles": "The spring flowers are pale lilac.",
+        "frasePortugues": "As flores da primavera são lilás pálido.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 66,
+        "ingles": "Orchid",
+        "portugues": "Orquídea",
+        "fraseIngles": "The elegant flower is orchid purple.",
+        "frasePortugues": "A flor elegante é roxo orquídea.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 67,
+        "ingles": "Mauve",
+        "portugues": "Malva",
+        "fraseIngles": "The vintage wallpaper is mauve.",
+        "frasePortugues": "O papel de parede vintage é malva.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 68,
+        "ingles": "Periwinkle",
+        "portugues": "Pervinca",
+        "fraseIngles": "The small flowers are periwinkle blue.",
+        "frasePortugues": "As pequenas flores são azul pervinca.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 69,
+        "ingles": "Hot pink",
+        "portugues": "Rosa choque",
+        "fraseIngles": "The neon sign is hot pink.",
+        "frasePortugues": "O letreiro neon é rosa choque.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 70,
+        "ingles": "Bubblegum pink",
+        "portugues": "Rosa chiclete",
+        "fraseIngles": "The little girl's dress is bubblegum pink.",
+        "frasePortugues": "O vestido da garotinha é rosa chiclete.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 71,
+        "ingles": "Baby pink",
+        "portugues": "Rosa bebê",
+        "fraseIngles": "The nursery is decorated in baby pink.",
+        "frasePortugues": "O berçário é decorado em rosa bebê.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 72,
+        "ingles": "Rose pink",
+        "portugues": "Rosa",
+        "fraseIngles": "The valentine flowers are rose pink.",
+        "frasePortugues": "As flores do dia dos namorados são rosa.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 73,
+        "ingles": "Salmon pink",
+        "portugues": "Rosa salmão",
+        "fraseIngles": "The sunset clouds are salmon pink.",
+        "frasePortugues": "As nuvens do pôr do sol são rosa salmão.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 74,
+        "ingles": "Dusty rose",
+        "portugues": "Rosa empoeirado",
+        "fraseIngles": "The vintage chair is dusty rose.",
+        "frasePortugues": "A cadeira vintage é rosa empoeirado.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 75,
+        "ingles": "Chocolate brown",
+        "portugues": "Marrom chocolate",
+        "fraseIngles": "The leather sofa is chocolate brown.",
+        "frasePortugues": "O sofá de couro é marrom chocolate.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 76,
+        "ingles": "Coffee brown",
+        "portugues": "Marrom café",
+        "fraseIngles": "His eyes are warm coffee brown.",
+        "frasePortugues": "Seus olhos são marrom café caloroso.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 77,
+        "ingles": "Chestnut brown",
+        "portugues": "Marrom castanha",
+        "fraseIngles": "Her hair is rich chestnut brown.",
+        "frasePortugues": "Seu cabelo é marrom castanha rico.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 78,
+        "ingles": "Mahogany",
+        "portugues": "Mogno",
+        "fraseIngles": "The dining table is mahogany wood.",
+        "frasePortugues": "A mesa de jantar é madeira mogno.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 79,
+        "ingles": "Walnut brown",
+        "portugues": "Marrom nogueira",
+        "fraseIngles": "The cabinet is walnut brown.",
+        "frasePortugues": "O armário é marrom nogueira.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 80,
+        "ingles": "Tan",
+        "portugues": "Bronzeado",
+        "fraseIngles": "The leather jacket is tan colored.",
+        "frasePortugues": "A jaqueta de couro é cor bronzeada.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 81,
         "ingles": "Beige",
         "portugues": "Bege",
-        "frase_ingles": "The walls of the hospital were a dull beige.",
-        "frase_portugues": "As paredes do hospital eram de um bege sem graça."
+        "fraseIngles": "The living room walls are beige.",
+        "frasePortugues": "As paredes da sala são bege.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "73",
-        "topico": "cores",
-        "ingles": "Crimson",
-        "portugues": "Carmesim",
-        "frase_ingles": "A single crimson rose lay on the table.",
-        "frase_portugues": "Uma única rosa carmesim estava sobre a mesa."
+        "id": 82,
+        "ingles": "Taupe",
+        "portugues": "Cinza-amarronzado",
+        "fraseIngles": "The carpet is neutral taupe.",
+        "frasePortugues": "O tapete é cinza-amarronzado neutro.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "74",
-        "topico": "cores",
-        "ingles": "Light Blue",
-        "portugues": "Azul claro",
-        "frase_ingles": "The girl wore a dress that was a lovely light blue.",
-        "frase_portugues": "A garota usava um vestido que era de um adorável azul claro."
+        "id": 83,
+        "ingles": "Sand",
+        "portugues": "Areia",
+        "fraseIngles": "The beach house is sand colored.",
+        "frasePortugues": "A casa de praia é cor de areia.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "75",
-        "topico": "cores",
-        "ingles": "Dark Blue",
-        "portugues": "Azul escuro",
-        "frase_ingles": "He painted the walls of his room a deep dark blue.",
-        "frase_portugues": "Ele pintou as paredes do seu quarto de um profundo azul escuro."
+        "id": 84,
+        "ingles": "Khaki",
+        "portugues": "Cáqui",
+        "fraseIngles": "Military pants are khaki colored.",
+        "frasePortugues": "Calças militares são cor cáqui.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "76",
-        "topico": "cores",
-        "ingles": "Light Green",
-        "portugues": "Verde claro",
-        "frase_ingles": "The new leaves on the tree were a vibrant light green.",
-        "frase_portugues": "As folhas novas na árvore eram de um vibrante verde claro."
+        "id": 85,
+        "ingles": "Camel",
+        "portugues": "Caramelo",
+        "fraseIngles": "The coat is elegant camel color.",
+        "frasePortugues": "O casaco é cor caramelo elegante.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "77",
-        "topico": "cores",
-        "ingles": "Dark Green",
-        "portugues": "Verde escuro",
-        "frase_ingles": "The forest was filled with tall trees of a rich dark green.",
-        "frase_portugues": "A floresta estava cheia de árvores altas de um rico verde escuro."
-    },
-    {
-        "id": "78",
-        "topico": "cores",
-        "ingles": "Light Gray",
-        "portugues": "Cinza claro",
-        "frase_ingles": "The cat had a soft, light gray fur.",
-        "frase_portugues": "O gato tinha um pelo macio de um cinza claro."
-    },
-    {
-        "id": "79",
-        "topico": "cores",
-        "ingles": "Dark Gray",
-        "portugues": "Cinza escuro",
-        "frase_ingles": "The sky turned a threatening dark gray before the storm.",
-        "frase_portugues": "O céu ficou de um ameaçador cinza escuro antes da tempestade."
-    },
-    {
-        "id": "80",
-        "topico": "cores",
-        "ingles": "Light Red",
-        "portugues": "Vermelho claro",
-        "frase_ingles": "Her hair had a few strands of a soft light red.",
-        "frase_portugues": "O cabelo dela tinha algumas mechas de um suave vermelho claro."
-    },
-    {
-        "id": "81",
-        "topico": "cores",
-        "ingles": "Dark Red",
-        "portugues": "Vermelho escuro",
-        "frase_ingles": "The wine was a full-bodied, dark red.",
-        "frase_portugues": "O vinho era encorpado, de um vermelho escuro."
-    },
-    {
-        "id": "82",
-        "topico": "cores",
-        "ingles": "Light Brown",
-        "portugues": "Marrom claro",
-        "frase_ingles": "The puppy's fur was a fluffy light brown.",
-        "frase_portugues": "O pelo do filhote era de um fofo marrom claro."
-    },
-    {
-        "id": "83",
-        "topico": "cores",
-        "ingles": "Dark Brown",
-        "portugues": "Marrom escuro",
-        "frase_ingles": "The old chair was made of a smooth, dark brown wood.",
-        "frase_portugues": "A velha cadeira era feita de uma madeira lisa e de um marrom escuro."
-    },
-    {
-        "id": "84",
-        "topico": "cores",
-        "ingles": "Light Pink",
-        "portugues": "Rosa claro",
-        "frase_ingles": "The bakery sold cupcakes with delicate light pink frosting.",
-        "frase_portugues": "A padaria vendia cupcakes com uma delicada cobertura rosa claro."
-    },
-    {
-        "id": "85",
-        "topico": "cores",
-        "ingles": "Dark Pink",
-        "portugues": "Rosa escuro",
-        "frase_ingles": "The flowers were a bold and beautiful dark pink.",
-        "frase_portugues": "As flores eram de um rosa escuro ousado e bonito."
-    },
-    {
-        "id": "86",
-        "topico": "cores",
-        "ingles": "Light Yellow",
-        "portugues": "Amarelo claro",
-        "frase_ingles": "The little chicks had a fluffy light yellow down.",
-        "frase_portugues": "Os pintinhos tinham uma penugem fofa de um amarelo claro."
-    },
-    {
-        "id": "87",
-        "topico": "cores",
-        "ingles": "Dark Yellow",
-        "portugues": "Amarelo escuro",
-        "frase_ingles": "The leaves turned a rich dark yellow in the autumn.",
-        "frase_portugues": "As folhas ficaram de um rico amarelo escuro no outono."
-    },
-    {
-        "id": "88",
-        "topico": "cores",
-        "ingles": "Light Purple",
-        "portugues": "Roxo claro",
-        "frase_ingles": "The flowers were a soft light purple, almost white.",
-        "frase_portugues": "As flores eram de um suave roxo claro, quase brancas."
-    },
-    {
-        "id": "89",
-        "topico": "cores",
-        "ingles": "Dark Purple",
-        "portugues": "Roxo escuro",
-        "frase_ingles": "She chose a deep dark purple for the velvet curtains.",
-        "frase_portugues": "Ela escolheu um profundo roxo escuro para as cortinas de veludo."
-    },
-    {
-        "id": "90",
-        "topico": "cores",
-        "ingles": "Light Orange",
-        "portugues": "Laranja claro",
-        "frase_ingles": "The morning sky was a beautiful light orange as the sun rose.",
-        "frase_portugues": "O céu da manhã estava de um lindo laranja claro enquanto o sol nascia."
-    },
-    {
-        "id": "91",
-        "topico": "cores",
-        "ingles": "Dark Orange",
-        "portugues": "Laranja escuro",
-        "frase_ingles": "The sunset was a brilliant mix of dark orange and red.",
-        "frase_portugues": "O pôr do sol era uma mistura brilhante de laranja escuro e vermelho."
-    },
-    {
-        "id": "92",
-        "topico": "cores",
-        "ingles": "Light Gray",
-        "portugues": "Cinza claro",
-        "frase_ingles": "The mist created a soft, light gray blanket over the city.",
-        "frase_portugues": "A névoa criou uma suave cobertura de um cinza claro sobre a cidade."
-    },
-    {
-        "id": "93",
-        "topico": "cores",
-        "ingles": "Dark Gray",
-        "portugues": "Cinza escuro",
-        "frase_ingles": "The storm clouds gathered, a menacing dark gray against the horizon.",
-        "frase_portugues": "As nuvens de tempestade se juntaram, um ameaçador cinza escuro contra o horizonte."
-    },
-    {
-        "id": "94",
-        "topico": "cores",
-        "ingles": "Light Gold",
-        "portugues": "Ouro claro",
-        "frase_ingles": "Her hair had a shimmer of light gold in the sun.",
-        "frase_portugues": "O cabelo dela tinha um brilho de ouro claro no sol."
-    },
-    {
-        "id": "95",
-        "topico": "cores",
-        "ingles": "Dark Gold",
-        "portugues": "Ouro escuro",
-        "frase_ingles": "The ancient ring was a tarnished dark gold.",
-        "frase_portugues": "O anel antigo era de um ouro escuro e embaçado."
-    },
-    {
-        "id": "96",
-        "topico": "cores",
-        "ingles": "Pale Blue",
-        "portugues": "Azul pálido",
-        "frase_ingles": "The dress was a beautiful pale blue, like a clear morning sky.",
-        "frase_portugues": "O vestido era de um lindo azul pálido, como um céu matinal claro."
-    },
-    {
-        "id": "97",
-        "topico": "cores",
-        "ingles": "Deep Red",
-        "portugues": "Vermelho profundo",
-        "frase_ingles": "The car's paint was a glossy, deep red.",
-        "frase_portugues": "A pintura do carro era de um vermelho profundo e brilhante."
-    },
-    {
-        "id": "98",
-        "topico": "cores",
-        "ingles": "Light Orange",
-        "portugues": "Laranja claro",
-        "frase_ingles": "A light orange glow filled the room at sunrise.",
-        "frase_portugues": "Um brilho laranja claro preencheu o quarto ao nascer do sol."
-    },
-    {
-        "id": "99",
-        "topico": "cores",
-        "ingles": "Deep Purple",
-        "portugues": "Roxo profundo",
-        "frase_ingles": "The grapes had a skin of a rich, deep purple.",
-        "frase_portugues": "As uvas tinham uma casca de um rico roxo profundo."
-    },
-    {
-        "id": "100",
-        "topico": "cores",
-        "ingles": "Vivid Green",
-        "portugues": "Verde vívido",
-        "frase_ingles": "The fields were a vivid green after the rain.",
-        "frase_portugues": "Os campos estavam de um verde vívido depois da chuva."
-    },
-    {
-        "id": "101",
-        "topico": "cores",
-        "ingles": "Bright Yellow",
-        "portugues": "Amarelo brilhante",
-        "frase_ingles": "The bright yellow sun warmed my face.",
-        "frase_portugues": "O sol de um amarelo brilhante aqueceu o meu rosto."
-    },
-    {
-        "id": "102",
-        "topico": "cores",
-        "ingles": "Soft Pink",
-        "portugues": "Rosa suave",
-        "frase_ingles": "The baby's blanket was a soft pink.",
-        "frase_portugues": "O cobertor do bebê era de um rosa suave."
-    },
-    {
-        "id": "103",
-        "topico": "cores",
-        "ingles": "Jet Black",
+        "id": 86,
+        "ingles": "Jet black",
         "portugues": "Preto azeviche",
-        "frase_ingles": "His hair was a shiny jet black.",
-        "frase_portugues": "O cabelo dele era de um preto azeviche brilhante."
+        "fraseIngles": "The limousine is jet black.",
+        "frasePortugues": "A limusine é preto azeviche.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "104",
-        "topico": "cores",
-        "ingles": "Dull Gray",
-        "portugues": "Cinza opaco",
-        "frase_ingles": "The old fence was a dull gray from the weather.",
-        "frase_portugues": "A velha cerca era de um cinza opaco devido ao clima."
+        "id": 87,
+        "ingles": "Coal black",
+        "portugues": "Preto carvão",
+        "fraseIngles": "The night sky is coal black.",
+        "frasePortugues": "O céu noturno é preto carvão.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "105",
-        "topico": "cores",
-        "ingles": "Rich Brown",
-        "portugues": "Marrom rico",
-        "frase_ingles": "The furniture was made of a rich brown wood.",
-        "frase_portugues": "Os móveis eram feitos de uma madeira de um marrom rico."
+        "id": 88,
+        "ingles": "Ebony",
+        "portugues": "Ébano",
+        "fraseIngles": "The piano is polished ebony.",
+        "frasePortugues": "O piano é ébano polido.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "106",
-        "topico": "cores",
-        "ingles": "Light blue",
-        "portugues": "Azul claro",
-        "frase_ingles": "The sky is light blue today.",
-        "frase_portugues": "O céu está azul claro hoje."
+        "id": 89,
+        "ingles": "Charcoal",
+        "portugues": "Carvão",
+        "fraseIngles": "The business suit is charcoal gray.",
+        "frasePortugues": "O terno executivo é cinza carvão.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "107",
-        "topico": "cores",
-        "ingles": "Dark green",
-        "portugues": "Verde escuro",
-        "frase_ingles": "The forest is full of dark green trees.",
-        "frase_portugues": "A floresta está cheia de árvores verde-escuras."
+        "id": 90,
+        "ingles": "Onyx",
+        "portugues": "Ônix",
+        "fraseIngles": "The stone is deep onyx black.",
+        "frasePortugues": "A pedra é preto ônix profundo.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "108",
-        "topico": "cores",
-        "ingles": "Bright red",
-        "portugues": "Vermelho vivo",
-        "frase_ingles": "She bought a bright red dress.",
-        "frase_portugues": "Ela comprou um vestido vermelho vivo."
+        "id": 91,
+        "ingles": "Snow white",
+        "portugues": "Branco neve",
+        "fraseIngles": "The winter landscape is snow white.",
+        "frasePortugues": "A paisagem de inverno é branco neve.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "109",
-        "topico": "cores",
-        "ingles": "Purple",
-        "portugues": "Roxo",
-        "frase_ingles": "I like the purple flowers in the garden.",
-        "frase_portugues": "Eu gosto das flores roxas no jardim."
+        "id": 92,
+        "ingles": "Pearl white",
+        "portugues": "Branco pérola",
+        "fraseIngles": "The wedding car is pearl white.",
+        "frasePortugues": "O carro de casamento é branco pérola.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "110",
-        "topico": "cores",
-        "ingles": "Brown",
-        "portugues": "Marrom",
-        "frase_ingles": "The table is brown.",
-        "frase_portugues": "A mesa é marrom."
+        "id": 93,
+        "ingles": "Cream white",
+        "portugues": "Branco creme",
+        "fraseIngles": "The kitchen cabinets are cream white.",
+        "frasePortugues": "Os armários da cozinha são branco creme.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "111",
-        "topico": "cores",
-        "ingles": "Pink",
-        "portugues": "Rosa",
-        "frase_ingles": "Her favorite color is pink.",
-        "frase_portugues": "A cor favorita dela é rosa."
+        "id": 94,
+        "ingles": "Off-white",
+        "portugues": "Branco gelo",
+        "fraseIngles": "The walls are painted off-white.",
+        "frasePortugues": "As paredes são pintadas de branco gelo.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "112",
-        "topico": "cores",
-        "ingles": "Gray",
-        "portugues": "Cinza",
-        "frase_ingles": "The clouds are gray.",
-        "frase_portugues": "As nuvens estão cinzentas."
+        "id": 95,
+        "ingles": "Eggshell white",
+        "portugues": "Branco casca de ovo",
+        "fraseIngles": "The ceiling is eggshell white.",
+        "frasePortugues": "O teto é branco casca de ovo.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "113",
-        "topico": "cores",
-        "ingles": "Feeling blue",
-        "portugues": "Sentir-se triste",
-        "frase_ingles": "She was feeling blue after the exam.",
-        "frase_portugues": "Ela estava triste depois da prova."
+        "id": 96,
+        "ingles": "Silver",
+        "portugues": "Prata",
+        "fraseIngles": "The car has a silver finish.",
+        "frasePortugues": "O carro tem acabamento prata.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "114",
-        "topico": "cores",
-        "ingles": "To see red",
-        "portugues": "Ficar com muita raiva",
-        "frase_ingles": "He started to see red when he heard the news.",
-        "frase_portugues": "Ele ficou com muita raiva quando ouviu a notícia."
+        "id": 97,
+        "ingles": "Platinum",
+        "portugues": "Platina",
+        "fraseIngles": "The jewelry is platinum colored.",
+        "frasePortugues": "A joia é cor de platina.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "115",
-        "topico": "cores",
-        "ingles": "Once in a blue moon",
-        "portugues": "Raramente",
-        "frase_ingles": "We go to the cinema once in a blue moon.",
-        "frase_portugues": "Nós vamos ao cinema raramente."
+        "id": 98,
+        "ingles": "Steel gray",
+        "portugues": "Cinza aço",
+        "fraseIngles": "The building is steel gray.",
+        "frasePortugues": "O prédio é cinza aço.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "116",
-        "topico": "cores",
-        "ingles": "Green with envy",
-        "portugues": "Muito invejoso",
-        "frase_ingles": "He was green with envy when he saw her new phone.",
-        "frase_portugues": "Ele ficou muito invejoso quando viu o novo celular dela."
+        "id": 99,
+        "ingles": "Ash gray",
+        "portugues": "Cinza cinza",
+        "fraseIngles": "The cat's fur is ash gray.",
+        "frasePortugues": "O pelo do gato é cinza cinza.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "117",
-        "topico": "cores",
-        "ingles": "Black and white",
-        "portugues": "Algo claro e óbvio",
-        "frase_ingles": "The instructions are written in black and white.",
-        "frase_portugues": "As instruções estão escritas de forma clara e óbvia."
+        "id": 100,
+        "ingles": "Slate gray",
+        "portugues": "Cinza ardósia",
+        "fraseIngles": "The roof tiles are slate gray.",
+        "frasePortugues": "As telhas do telhado são cinza ardósia.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "118",
-        "topico": "cores",
-        "ingles": "White lie",
-        "portugues": "Mentira leve, inofensiva",
-        "frase_ingles": "She told a white lie to make her friend happy.",
-        "frase_portugues": "Ela contou uma mentirinha para deixar a amiga feliz."
+        "id": 101,
+        "ingles": "Smoke gray",
+        "portugues": "Cinza fumaça",
+        "fraseIngles": "The morning mist is smoke gray.",
+        "frasePortugues": "A névoa matinal é cinza fumaça.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "119",
-        "topico": "cores",
-        "ingles": "Golden opportunity",
-        "portugues": "Oportunidade de ouro",
-        "frase_ingles": "This is a golden opportunity to study abroad.",
-        "frase_portugues": "Essa é uma oportunidade de ouro para estudar no exterior."
+        "id": 102,
+        "ingles": "Bright",
+        "portugues": "Vivo/brilhante",
+        "fraseIngles": "The flowers are bright yellow.",
+        "frasePortugues": "As flores são amarelo vivo.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "120",
-        "topico": "cores",
-        "ingles": "Out of the blue",
-        "portugues": "De repente, inesperadamente",
-        "frase_ingles": "He appeared out of the blue after many years.",
-        "frase_portugues": "Ele apareceu de repente depois de muitos anos."
+        "id": 103,
+        "ingles": "Dark",
+        "portugues": "Escuro",
+        "fraseIngles": "The room has dark blue walls.",
+        "frasePortugues": "O quarto tem paredes azul escuro.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "121",
-        "topico": "cores",
-        "ingles": "Red carpet treatment",
-        "portugues": "Tratamento especial",
-        "frase_ingles": "The guests received the red carpet treatment.",
-        "frase_portugues": "Os convidados receberam tratamento especial."
+        "id": 104,
+        "ingles": "Light",
+        "portugues": "Claro",
+        "fraseIngles": "She prefers light green colors.",
+        "frasePortugues": "Ela prefere cores verde claro.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "122",
-        "topico": "cores",
-        "ingles": "Black sheep",
-        "portugues": "Ovelha negra",
-        "frase_ingles": "She is the black sheep of the family.",
-        "frase_portugues": "Ela é a ovelha negra da família."
+        "id": 105,
+        "ingles": "Pale",
+        "portugues": "Pálido",
+        "fraseIngles": "The morning sky is pale pink.",
+        "frasePortugues": "O céu matinal é rosa pálido.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "123",
-        "topico": "cores",
-        "ingles": "Green light",
-        "portugues": "Autorização, luz verde",
-        "frase_ingles": "The manager gave us the green light to continue.",
-        "frase_portugues": "O gerente nos deu luz verde para continuar."
+        "id": 106,
+        "ingles": "Deep",
+        "portugues": "Profundo",
+        "fraseIngles": "The ocean is deep blue.",
+        "frasePortugues": "O oceano é azul profundo.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "124",
-        "topico": "cores",
-        "ingles": "Gray area",
-        "portugues": "Zona cinzenta, indefinição",
-        "frase_ingles": "The law is a gray area in this case.",
-        "frase_portugues": "A lei é uma zona cinzenta neste caso."
+        "id": 107,
+        "ingles": "Rich",
+        "portugues": "Rico",
+        "fraseIngles": "The velvet curtains are rich purple.",
+        "frasePortugues": "As cortinas de veludo são roxo rico.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "125",
-        "topico": "cores",
-        "ingles": "Born with a silver spoon in one's mouth",
-        "portugues": "Nascer em berço de ouro",
-        "frase_ingles": "He was born with a silver spoon in his mouth.",
-        "frase_portugues": "Ele nasceu em berço de ouro."
+        "id": 108,
+        "ingles": "Vivid",
+        "portugues": "Vívido",
+        "fraseIngles": "The sunset has vivid orange colors.",
+        "frasePortugues": "O pôr do sol tem cores laranja vívidas.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "126",
-        "topico": "cores",
-        "ingles": "Blackout",
-        "portugues": "Apagão, perda de energia",
-        "frase_ingles": "The city had a blackout last night.",
-        "frase_portugues": "A cidade teve um apagão ontem à noite."
+        "id": 109,
+        "ingles": "Muted",
+        "portugues": "Apagado",
+        "fraseIngles": "The painting uses muted earth tones.",
+        "frasePortugues": "A pintura usa tons terrosos apagados.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "127",
-        "topico": "cores",
-        "ingles": "White as a sheet",
-        "portugues": "Pálido de medo ou choque",
-        "frase_ingles": "He turned white as a sheet when he saw the accident.",
-        "frase_portugues": "Ele ficou pálido de medo quando viu o acidente."
+        "id": 110,
+        "ingles": "Pastel",
+        "portugues": "Pastel",
+        "fraseIngles": "The nursery is decorated in pastel colors.",
+        "frasePortugues": "O berçário é decorado em cores pastéis.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "128",
-        "topico": "cores",
-        "ingles": "Golden rule",
-        "portugues": "Regra de ouro",
-        "frase_ingles": "The golden rule is to treat others with respect.",
-        "frase_portugues": "A regra de ouro é tratar os outros com respeito."
+        "id": 111,
+        "ingles": "Neon",
+        "portugues": "Neon",
+        "fraseIngles": "The safety sign is neon orange.",
+        "frasePortugues": "A placa de segurança é laranja neon.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "129",
-        "topico": "cores",
-        "ingles": "Black market",
-        "portugues": "Mercado ilegal",
-        "frase_ingles": "He bought the tickets on the black market.",
-        "frase_portugues": "Ele comprou os ingressos no mercado negro."
+        "id": 112,
+        "ingles": "Fluorescent",
+        "portugues": "Fluorescente",
+        "fraseIngles": "The highlighter is fluorescent green.",
+        "frasePortugues": "O marca-texto é verde fluorescente.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "130",
-        "topico": "cores",
-        "ingles": "Red tape",
-        "portugues": "Burocracia excessiva",
-        "frase_ingles": "The project was delayed because of red tape.",
-        "frase_portugues": "O projeto foi atrasado por causa da burocracia."
+        "id": 113,
+        "ingles": "Metallic",
+        "portugues": "Metálico",
+        "fraseIngles": "The car has metallic paint.",
+        "frasePortugues": "O carro tem tinta metálica.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "131",
-        "topico": "cores",
-        "ingles": "In the black",
-        "portugues": "Com saldo positivo finanças",
-        "frase_ingles": "The company is finally in the black.",
-        "frase_portugues": "A empresa finalmente está no azul com saldo positivo."
+        "id": 114,
+        "ingles": "Matte",
+        "portugues": "Fosco",
+        "fraseIngles": "The wall paint has a matte finish.",
+        "frasePortugues": "A tinta da parede tem acabamento fosco.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "132",
-        "topico": "cores",
-        "ingles": "In the red",
-        "portugues": "Endividado",
-        "frase_ingles": "The store has been in the red for months.",
-        "frase_portugues": "A loja está endividada há meses."
+        "id": 115,
+        "ingles": "Glossy",
+        "portugues": "Brilhante",
+        "fraseIngles": "The table has a glossy surface.",
+        "frasePortugues": "A mesa tem superfície brilhante.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "133",
-        "topico": "cores",
-        "ingles": "True colors",
-        "portugues": "Verdadeira personalidade",
-        "frase_ingles": "He showed his true colors during the crisis.",
-        "frase_portugues": "Ele mostrou sua verdadeira personalidade durante a crise."
+        "id": 116,
+        "ingles": "Shiny",
+        "portugues": "Reluzente",
+        "fraseIngles": "The new car is shiny red.",
+        "frasePortugues": "O carro novo é vermelho reluzente.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "134",
-        "topico": "cores",
-        "ingles": "Black out",
-        "portugues": "Desmaiar / perder a consciência",
-        "frase_ingles": "She blacked out during the heat.",
-        "frase_portugues": "Ela desmaiou durante o calor."
+        "id": 117,
+        "ingles": "Dull",
+        "portugues": "Opaco",
+        "fraseIngles": "The old paint looks dull.",
+        "frasePortugues": "A tinta velha parece opaca.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "135",
-        "topico": "cores",
-        "ingles": "Catch someone red-handed",
-        "portugues": "Pegar alguém em flagrante",
-        "frase_ingles": "The police caught the thief red-handed.",
-        "frase_portugues": "A polícia pegou o ladrão em flagrante."
+        "id": 118,
+        "ingles": "Faded",
+        "portugues": "Desbotado",
+        "fraseIngles": "The old photograph is faded.",
+        "frasePortugues": "A fotografia antiga está desbotada.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "136",
-        "topico": "cores",
-        "ingles": "With flying colors",
-        "portugues": "Com muito sucesso",
-        "frase_ingles": "She passed the test with flying colors.",
-        "frase_portugues": "Ela passou no teste com muito sucesso."
+        "id": 119,
+        "ingles": "Washed out",
+        "portugues": "Desbotado",
+        "fraseIngles": "The fabric looks washed out.",
+        "frasePortugues": "O tecido parece desbotado.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "137",
-        "topico": "cores",
-        "ingles": "Gray matter",
-        "portugues": "Massa cinzenta, inteligência",
-        "frase_ingles": "Use your gray matter to solve the problem.",
-        "frase_portugues": "Use sua inteligência para resolver o problema."
+        "id": 120,
+        "ingles": "Saturated",
+        "portugues": "Saturado",
+        "fraseIngles": "The image has saturated colors.",
+        "frasePortugues": "A imagem tem cores saturadas.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "138",
-        "topico": "cores",
-        "ingles": "Roll out the red carpet",
-        "portugues": "Dar boas-vindas especiais",
-        "frase_ingles": "They rolled out the red carpet for the visitors.",
-        "frase_portugues": "Eles deram boas-vindas especiais aos visitantes."
+        "id": 121,
+        "ingles": "Vibrant",
+        "portugues": "Vibrante",
+        "fraseIngles": "The tropical birds have vibrant feathers.",
+        "frasePortugues": "Os pássaros tropicais têm penas vibrantes.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "139",
-        "topico": "cores",
-        "ingles": "Black humor",
-        "portugues": "Humor negro",
-        "frase_ingles": "The movie is full of black humor.",
-        "frase_portugues": "O filme é cheio de humor negro."
+        "id": 122,
+        "ingles": "Bold",
+        "portugues": "Forte",
+        "fraseIngles": "She chose bold red lipstick.",
+        "frasePortugues": "Ela escolheu batom vermelho forte.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "140",
-        "topico": "cores",
-        "ingles": "White knight",
-        "portugues": "Salvador, protetor",
-        "frase_ingles": "He acted as a white knight for the small company.",
-        "frase_portugues": "Ele agiu como um salvador para a pequena empresa."
+        "id": 123,
+        "ingles": "Subtle",
+        "portugues": "Sutil",
+        "fraseIngles": "The room has subtle color changes.",
+        "frasePortugues": "O quarto tem mudanças sutis de cor.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "141",
-        "topico": "cores",
-        "ingles": "Green thumb",
-        "portugues": "Talento para jardinagem",
-        "frase_ingles": "She has a green thumb and grows beautiful plants.",
-        "frase_portugues": "Ela tem talento para jardinagem e cultiva plantas lindas."
+        "id": 124,
+        "ingles": "Neutral",
+        "portugues": "Neutro",
+        "fraseIngles": "Beige is a neutral color.",
+        "frasePortugues": "Bege é uma cor neutra.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "142",
-        "topico": "cores",
-        "ingles": "Silver lining",
-        "portugues": "Lado positivo de uma situação difícil",
-        "frase_ingles": "Every cloud has a silver lining.",
-        "frase_portugues": "Toda nuvem tem um lado positivo."
+        "id": 125,
+        "ingles": "Warm",
+        "portugues": "Quente",
+        "fraseIngles": "Red and orange are warm colors.",
+        "frasePortugues": "Vermelho e laranja são cores quentes.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "143",
-        "topico": "cores",
-        "ingles": "To see red",
-        "portugues": "Ficar com muita raiva",
-        "frase_ingles": "He started to see red when he heard the bad news.",
-        "frase_portugues": "Ele ficou com muita raiva quando ouviu a má notícia."
+        "id": 126,
+        "ingles": "Cool",
+        "portugues": "Fria",
+        "fraseIngles": "Blue and green are cool colors.",
+        "frasePortugues": "Azul e verde são cores frias.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "144",
-        "topico": "cores",
-        "ingles": "Once in a blue moon",
-        "portugues": "Raramente",
-        "frase_ingles": "We go to the beach once in a blue moon.",
-        "frase_portugues": "Nós vamos à praia raramente."
+        "id": 127,
+        "ingles": "Primary",
+        "portugues": "Primária",
+        "fraseIngles": "Red, blue, and yellow are primary colors.",
+        "frasePortugues": "Vermelho, azul e amarelo são cores primárias.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "145",
-        "topico": "cores",
-        "ingles": "Green with envy",
-        "portugues": "Muito invejoso",
-        "frase_ingles": "She was green with envy of her friend's new car.",
-        "frase_portugues": "Ela ficou muito invejosa do carro novo da amiga."
+        "id": 128,
+        "ingles": "Secondary",
+        "portugues": "Secundária",
+        "fraseIngles": "Orange, green, and purple are secondary colors.",
+        "frasePortugues": "Laranja, verde e roxo são cores secundárias.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "146",
-        "topico": "cores",
-        "ingles": "Black and white",
-        "portugues": "Algo claro e óbvio",
-        "frase_ingles": "The rules are written in black and white.",
-        "frase_portugues": "As regras estão escritas de forma clara e óbvia."
+        "id": 129,
+        "ingles": "Complementary",
+        "portugues": "Complementar",
+        "fraseIngles": "Red and green are complementary colors.",
+        "frasePortugues": "Vermelho e verde são cores complementares.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "147",
-        "topico": "cores",
-        "ingles": "White lie",
-        "portugues": "Mentira leve/inofensiva",
-        "frase_ingles": "She told a white lie to avoid hurting his feelings.",
-        "frase_portugues": "Ela contou uma mentirinha para não magoar os sentimentos dele."
+        "id": 130,
+        "ingles": "Analogous",
+        "portugues": "Análogas",
+        "fraseIngles": "Blue and green are analogous colors.",
+        "frasePortugues": "Azul e verde são cores análogas.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "148",
-        "topico": "cores",
-        "ingles": "Golden opportunity",
-        "portugues": "Oportunidade de ouro",
-        "frase_ingles": "This job offer is a golden opportunity for her.",
-        "frase_portugues": "Essa oferta de emprego é uma oportunidade de ouro para ela."
+        "id": 131,
+        "ingles": "Monochromatic",
+        "portugues": "Monocromático",
+        "fraseIngles": "The room uses a monochromatic color scheme.",
+        "frasePortugues": "O quarto usa esquema de cores monocromático.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "149",
-        "topico": "cores",
-        "ingles": "Out of the blue",
-        "portugues": "De repente, inesperadamente",
-        "frase_ingles": "He called me out of the blue after many years.",
-        "frase_portugues": "Ele me ligou de repente depois de muitos anos."
+        "id": 132,
+        "ingles": "Rainbow",
+        "portugues": "Arco-íris",
+        "fraseIngles": "The rainbow shows all colors.",
+        "frasePortugues": "O arco-íris mostra todas as cores.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "150",
-        "topico": "cores",
-        "ingles": "Red carpet treatment",
-        "portugues": "Tratamento especial, de destaque",
-        "frase_ingles": "The celebrity received the red carpet treatment at the event.",
-        "frase_portugues": "A celebridade recebeu tratamento especial no evento."
+        "id": 133,
+        "ingles": "Spectrum",
+        "portugues": "Espectro",
+        "fraseIngles": "Light creates a color spectrum.",
+        "frasePortugues": "Luz cria um espectro de cores.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "151",
-        "topico": "cores",
-        "ingles": "Black sheep",
-        "portugues": "Ovelha negra da família ou grupo",
-        "frase_ingles": "He is the black sheep of the family.",
-        "frase_portugues": "Ele é a ovelha negra da família."
+        "id": 134,
+        "ingles": "Hue",
+        "portugues": "Matiz",
+        "fraseIngles": "The hue changes from red to orange.",
+        "frasePortugues": "O matiz muda de vermelho para laranja.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "152",
-        "topico": "cores",
-        "ingles": "Green light",
-        "portugues": "Luz verde, autorização para fazer algo",
-        "frase_ingles": "The boss gave us the green light to start the project.",
-        "frase_portugues": "O chefe nos deu luz verde para iniciar o projeto."
+        "id": 135,
+        "ingles": "Shade",
+        "portugues": "Tom",
+        "fraseIngles": "This shade of blue is darker.",
+        "frasePortugues": "Este tom de azul é mais escuro.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "153",
-        "topico": "cores",
-        "ingles": "Gray area",
-        "portugues": "Zona cinzenta, algo incerto ou indefinido",
-        "frase_ingles": "The law on this issue is a gray area.",
-        "frase_portugues": "A lei sobre esse assunto é uma zona cinzenta."
+        "id": 136,
+        "ingles": "Tint",
+        "portugues": "Nuance",
+        "fraseIngles": "Add white to create a lighter tint.",
+        "frasePortugues": "Adicione branco para criar uma nuance mais clara.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     },
     {
-        "id": "154",
-        "topico": "cores",
-        "ingles": "Born with a silver spoon in one's mouth",
-        "portugues": "Nascer em berço de ouro",
-        "frase_ingles": "She was born with a silver spoon in her mouth.",
-        "frase_portugues": "Ela nasceu em berço de ouro."
+        "id": 137,
+        "ingles": "Tone",
+        "portugues": "Tonalidade",
+        "fraseIngles": "The painting has a warm tone.",
+        "frasePortugues": "A pintura tem uma tonalidade quente.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 138,
+        "ingles": "Pigment",
+        "portugues": "Pigmento",
+        "fraseIngles": "Artists mix pigments to create colors.",
+        "frasePortugues": "Artistas misturam pigmentos para criar cores.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 139,
+        "ingles": "Dye",
+        "portugues": "Tintura",
+        "fraseIngles": "The fabric is colored with natural dye.",
+        "frasePortugues": "O tecido é colorido com tintura natural.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 140,
+        "ingles": "Paint",
+        "portugues": "Tinta",
+        "fraseIngles": "Mix different paints to get new colors.",
+        "frasePortugues": "Misture tintas diferentes para obter cores novas.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 141,
+        "ingles": "Ink",
+        "portugues": "Tinta (líquida)",
+        "fraseIngles": "The printer ran out of blue ink.",
+        "frasePortugues": "A impressora ficou sem tinta azul.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 142,
+        "ingles": "Colored",
+        "portugues": "Colorido",
+        "fraseIngles": "The children drew with colored pencils.",
+        "frasePortugues": "As crianças desenharam com lápis coloridos.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 143,
+        "ingles": "Colorful",
+        "portugues": "Colorido/vistoso",
+        "fraseIngles": "The garden is colorful in spring.",
+        "frasePortugues": "O jardim é colorido na primavera.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 144,
+        "ingles": "Colorless",
+        "portugues": "Incolor",
+        "fraseIngles": "Water is colorless and transparent.",
+        "frasePortugues": "Água é incolor e transparente.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 145,
+        "ingles": "Multicolored",
+        "portugues": "Multicolorido",
+        "fraseIngles": "The quilt is beautiful and multicolored.",
+        "frasePortugues": "A colcha é linda e multicolorida.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 146,
+        "ingles": "Two-toned",
+        "portugues": "Bicolor",
+        "fraseIngles": "The car has a two-toned paint job.",
+        "frasePortugues": "O carro tem pintura bicolor.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 147,
+        "ingles": "Striped",
+        "portugues": "Listrado",
+        "fraseIngles": "The shirt has blue and white stripes.",
+        "frasePortugues": "A camisa tem listras azuis e brancas.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 148,
+        "ingles": "Spotted",
+        "portugues": "Pintalgado",
+        "fraseIngles": "The dog has a spotted coat.",
+        "frasePortugues": "O cão tem pelagem pintalgada.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 149,
+        "ingles": "Solid",
+        "portugues": "Liso/sólido",
+        "fraseIngles": "She prefers solid colors over patterns.",
+        "frasePortugues": "Ela prefere cores lisas a estampas.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 150,
+        "ingles": "Mixed",
+        "portugues": "Misturado",
+        "fraseIngles": "The artist used mixed colors.",
+        "frasePortugues": "O artista usou cores misturadas.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 151,
+        "ingles": "Blended",
+        "portugues": "Misturado suavemente",
+        "fraseIngles": "The sunset colors are beautifully blended.",
+        "frasePortugues": "As cores do pôr do sol estão lindamente misturadas.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 152,
+        "ingles": "Contrasting",
+        "portugues": "Contrastante",
+        "fraseIngles": "Black and white are contrasting colors.",
+        "frasePortugues": "Preto e branco são cores contrastantes.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 153,
+        "ingles": "Matching",
+        "portugues": "Combinando",
+        "fraseIngles": "Her shoes and bag are matching colors.",
+        "frasePortugues": "Seus sapatos e bolsa são cores combinando.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 154,
+        "ingles": "Clashing",
+        "portugues": "Conflitante",
+        "fraseIngles": "Those colors are clashing together.",
+        "frasePortugues": "Essas cores estão conflitantes juntas.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 155,
+        "ingles": "Harmonious",
+        "portugues": "Harmoniosas",
+        "fraseIngles": "The room's colors are harmonious.",
+        "frasePortugues": "As cores do quarto são harmoniosas.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 156,
+        "ingles": "Balanced",
+        "portugues": "Equilibradas",
+        "fraseIngles": "The painting has balanced colors.",
+        "frasePortugues": "A pintura tem cores equilibradas.",
+        "subtopico": "Cores",
+        "topico": "Outros assuntos"
     }
 ]

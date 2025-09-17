@@ -1,0 +1,1586 @@
+[
+    {
+        "id": 1,
+        "ingles": "Head",
+        "portugues": "Cabeça",
+        "fraseIngles": "Turn your head to the right.",
+        "frasePortugues": "Vire sua cabeça para a direita.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 2,
+        "ingles": "Face",
+        "portugues": "Rosto",
+        "fraseIngles": "She has a beautiful face.",
+        "frasePortugues": "Ela tem um rosto lindo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 3,
+        "ingles": "Hair",
+        "portugues": "Cabelo",
+        "fraseIngles": "My hair is getting long.",
+        "frasePortugues": "Meu cabelo está ficando comprido.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 4,
+        "ingles": "Forehead",
+        "portugues": "Testa",
+        "fraseIngles": "She has a high forehead.",
+        "frasePortugues": "Ela tem a testa alta.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 5,
+        "ingles": "Eye",
+        "portugues": "Olho",
+        "fraseIngles": "Close your left eye.",
+        "frasePortugues": "Feche seu olho esquerdo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 6,
+        "ingles": "Eyes",
+        "portugues": "Olhos",
+        "fraseIngles": "His eyes are bright blue.",
+        "frasePortugues": "Seus olhos são azul vivo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 7,
+        "ingles": "Eyebrow",
+        "portugues": "Sobrancelha",
+        "fraseIngles": "She plucks her eyebrows regularly.",
+        "frasePortugues": "Ela tira os pelos da sobrancelha regularmente.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 8,
+        "ingles": "Eyebrows",
+        "portugues": "Sobrancelhas",
+        "fraseIngles": "Thick eyebrows are fashionable now.",
+        "frasePortugues": "Sobrancelhas grossas estão na moda agora.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 9,
+        "ingles": "Eyelash",
+        "portugues": "Cílio",
+        "fraseIngles": "One eyelash fell into my eye.",
+        "frasePortugues": "Um cílio caiu no meu olho.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 10,
+        "ingles": "Eyelashes",
+        "portugues": "Cílios",
+        "fraseIngles": "She has naturally long eyelashes.",
+        "frasePortugues": "Ela tem cílios naturalmente longos.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 11,
+        "ingles": "Eyelid",
+        "portugues": "Pálpebra",
+        "fraseIngles": "Her eyelid is swollen from crying.",
+        "frasePortugues": "Sua pálpebra está inchada de chorar.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 12,
+        "ingles": "Eyelids",
+        "portugues": "Pálpebras",
+        "fraseIngles": "Close your eyelids and relax.",
+        "frasePortugues": "Feche suas pálpebras e relaxe.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 13,
+        "ingles": "Pupil",
+        "portugues": "Pupila",
+        "fraseIngles": "The pupil dilates in darkness.",
+        "frasePortugues": "A pupila dilata no escuro.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 14,
+        "ingles": "Iris",
+        "portugues": "Íris",
+        "fraseIngles": "The iris controls light entering the eye.",
+        "frasePortugues": "A íris controla a luz que entra no olho.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 15,
+        "ingles": "Nose",
+        "portugues": "Nariz",
+        "fraseIngles": "I can smell flowers with my nose.",
+        "frasePortugues": "Posso sentir cheiro de flores com meu nariz.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 16,
+        "ingles": "Nostril",
+        "portugues": "Narina",
+        "fraseIngles": "One nostril is blocked.",
+        "frasePortugues": "Uma narina está entupida.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 17,
+        "ingles": "Nostrils",
+        "portugues": "Narinas",
+        "fraseIngles": "Both nostrils are clear now.",
+        "frasePortugues": "Ambas as narinas estão desentupidas agora.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 18,
+        "ingles": "Bridge of nose",
+        "portugues": "Ponte do nariz",
+        "fraseIngles": "His glasses rest on the bridge of his nose.",
+        "frasePortugues": "Seus óculos descansam na ponte do nariz.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 19,
+        "ingles": "Mouth",
+        "portugues": "Boca",
+        "fraseIngles": "Open your mouth wide.",
+        "frasePortugues": "Abra bem a boca.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 20,
+        "ingles": "Lip",
+        "portugues": "Lábio",
+        "fraseIngles": "I bit my lower lip.",
+        "frasePortugues": "Mordi meu lábio inferior.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 21,
+        "ingles": "Lips",
+        "portugues": "Lábios",
+        "fraseIngles": "Her lips are naturally pink.",
+        "frasePortugues": "Seus lábios são naturalmente rosados.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 22,
+        "ingles": "Upper lip",
+        "portugues": "Lábio superior",
+        "fraseIngles": "He has a mustache on his upper lip.",
+        "frasePortugues": "Ele tem bigode no lábio superior.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 23,
+        "ingles": "Lower lip",
+        "portugues": "Lábio inferior",
+        "fraseIngles": "The lower lip is fuller than the upper.",
+        "frasePortugues": "O lábio inferior é mais cheio que o superior.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 24,
+        "ingles": "Tooth",
+        "portugues": "Dente",
+        "fraseIngles": "I lost a tooth when I was six.",
+        "frasePortugues": "Perdi um dente quando tinha seis anos.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 25,
+        "ingles": "Teeth",
+        "portugues": "Dentes",
+        "fraseIngles": "Brush your teeth twice daily.",
+        "frasePortugues": "Escove os dentes duas vezes por dia.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 26,
+        "ingles": "Front teeth",
+        "portugues": "Dentes da frente",
+        "fraseIngles": "My front teeth are straight.",
+        "frasePortugues": "Meus dentes da frente são retos.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 27,
+        "ingles": "Back teeth",
+        "portugues": "Dentes de trás",
+        "fraseIngles": "The back teeth are used for chewing.",
+        "frasePortugues": "Os dentes de trás são usados para mastigar.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 28,
+        "ingles": "Wisdom tooth",
+        "portugues": "Dente do siso",
+        "fraseIngles": "My wisdom tooth is growing in.",
+        "frasePortugues": "Meu dente do siso está nascendo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 29,
+        "ingles": "Gum",
+        "portugues": "Gengiva",
+        "fraseIngles": "My gums are bleeding.",
+        "frasePortugues": "Minhas gengivas estão sangrando.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 30,
+        "ingles": "Gums",
+        "portugues": "Gengivas",
+        "fraseIngles": "Healthy gums are pink and firm.",
+        "frasePortugues": "Gengivas saudáveis são rosas e firmes.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 31,
+        "ingles": "Tongue",
+        "portugues": "Língua",
+        "fraseIngles": "Stick out your tongue.",
+        "frasePortugues": "Mostre a língua.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 32,
+        "ingles": "Jaw",
+        "portugues": "Maxilar",
+        "fraseIngles": "My jaw hurts from chewing gum.",
+        "frasePortugues": "Meu maxilar dói de mascar chiclete.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 33,
+        "ingles": "Chin",
+        "portugues": "Queixo",
+        "fraseIngles": "He has a cleft in his chin.",
+        "frasePortugues": "Ele tem uma fenda no queixo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 34,
+        "ingles": "Cheek",
+        "portugues": "Bochecha",
+        "fraseIngles": "The baby has chubby cheeks.",
+        "frasePortugues": "O bebê tem bochechas gordinhas.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 35,
+        "ingles": "Cheeks",
+        "portugues": "Bochechas",
+        "fraseIngles": "Her cheeks turned red from embarrassment.",
+        "frasePortugues": "Suas bochechas ficaram vermelhas de vergonha.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 36,
+        "ingles": "Ear",
+        "portugues": "Orelha",
+        "fraseIngles": "I can't hear well in my left ear.",
+        "frasePortugues": "Não consigo ouvir bem na orelha esquerda.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 37,
+        "ingles": "Ears",
+        "portugues": "Orelhas",
+        "fraseIngles": "Cover your ears from the loud noise.",
+        "frasePortugues": "Cubra suas orelhas do barulho alto.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 38,
+        "ingles": "Earlobe",
+        "portugues": "Lóbulo da orelha",
+        "fraseIngles": "She wears earrings in her earlobes.",
+        "frasePortugues": "Ela usa brincos nos lóbulos das orelhas.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 39,
+        "ingles": "Temple",
+        "portugues": "Têmpora",
+        "fraseIngles": "I have a headache in my temples.",
+        "frasePortugues": "Tenho dor de cabeça nas têmporas.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 40,
+        "ingles": "Temples",
+        "portugues": "Têmporas",
+        "fraseIngles": "Gray hair first appears at the temples.",
+        "frasePortugues": "Cabelos grisalhos primeiro aparecem nas têmporas.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 41,
+        "ingles": "Scalp",
+        "portugues": "Couro cabeludo",
+        "fraseIngles": "My scalp is dry and itchy.",
+        "frasePortugues": "Meu couro cabeludo está seco e coçando.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 42,
+        "ingles": "Neck",
+        "portugues": "Pescoço",
+        "fraseIngles": "Turn your neck slowly to avoid injury.",
+        "frasePortugues": "Vire seu pescoço devagar para evitar lesão.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 43,
+        "ingles": "Throat",
+        "portugues": "Garganta",
+        "fraseIngles": "My throat is sore from singing.",
+        "frasePortugues": "Minha garganta está dolorida de cantar.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 44,
+        "ingles": "Adam's apple",
+        "portugues": "Pomo de adão",
+        "fraseIngles": "Men have a prominent Adam's apple.",
+        "frasePortugues": "Homens têm pomo de adão proeminente.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 45,
+        "ingles": "Shoulder",
+        "portugues": "Ombro",
+        "fraseIngles": "Carry the bag on your shoulder.",
+        "frasePortugues": "Carregue a bolsa no ombro.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 46,
+        "ingles": "Shoulders",
+        "portugues": "Ombros",
+        "fraseIngles": "Shrug your shoulders if you don't know.",
+        "frasePortugues": "Encolha os ombros se não souber.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 47,
+        "ingles": "Arm",
+        "portugues": "Braço",
+        "fraseIngles": "Raise your right arm above your head.",
+        "frasePortugues": "Levante seu braço direito acima da cabeça.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 48,
+        "ingles": "Arms",
+        "portugues": "Braços",
+        "fraseIngles": "Cross your arms over your chest.",
+        "frasePortugues": "Cruze seus braços sobre o peito.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 49,
+        "ingles": "Upper arm",
+        "portugues": "Braço (parte superior)",
+        "fraseIngles": "The upper arm is called the humerus.",
+        "frasePortugues": "A parte superior do braço se chama úmero.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 50,
+        "ingles": "Forearm",
+        "portugues": "Antebraço",
+        "fraseIngles": "The forearm connects elbow to wrist.",
+        "frasePortugues": "O antebraço conecta cotovelo ao pulso.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 51,
+        "ingles": "Elbow",
+        "portugues": "Cotovelo",
+        "fraseIngles": "I bumped my elbow on the table.",
+        "frasePortugues": "Bati meu cotovelo na mesa.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 52,
+        "ingles": "Elbows",
+        "portugues": "Cotovelos",
+        "fraseIngles": "Keep your elbows off the dinner table.",
+        "frasePortugues": "Mantenha seus cotovelos fora da mesa de jantar.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 53,
+        "ingles": "Wrist",
+        "portugues": "Pulso",
+        "fraseIngles": "Wear the watch on your wrist.",
+        "frasePortugues": "Use o relógio no pulso.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 54,
+        "ingles": "Hand",
+        "portugues": "Mão",
+        "fraseIngles": "Shake hands with everyone you meet.",
+        "frasePortugues": "Aperte a mão de todos que conhecer.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 55,
+        "ingles": "Hands",
+        "portugues": "Mãos",
+        "fraseIngles": "Wash your hands before eating.",
+        "frasePortugues": "Lave suas mãos antes de comer.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 56,
+        "ingles": "Palm",
+        "portugues": "Palma da mão",
+        "fraseIngles": "Read the lines on your palm.",
+        "frasePortugues": "Leia as linhas na palma da sua mão.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 57,
+        "ingles": "Back of hand",
+        "portugues": "Dorso da mão",
+        "fraseIngles": "The back of my hand is sunburned.",
+        "frasePortugues": "O dorso da minha mão está queimado de sol.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 58,
+        "ingles": "Finger",
+        "portugues": "Dedo",
+        "fraseIngles": "Point with your index finger.",
+        "frasePortugues": "Aponte com seu dedo indicador.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 59,
+        "ingles": "Fingers",
+        "portugues": "Dedos",
+        "fraseIngles": "Count on your fingers.",
+        "frasePortugues": "Conte nos seus dedos.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 60,
+        "ingles": "Thumb",
+        "portugues": "Polegar",
+        "fraseIngles": "The thumb is not technically a finger.",
+        "frasePortugues": "O polegar tecnicamente não é um dedo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 61,
+        "ingles": "Index finger",
+        "portugues": "Dedo indicador",
+        "fraseIngles": "Use your index finger to point.",
+        "frasePortugues": "Use seu dedo indicador para apontar.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 62,
+        "ingles": "Middle finger",
+        "portugues": "Dedo médio",
+        "fraseIngles": "The middle finger is the longest.",
+        "frasePortugues": "O dedo médio é o mais longo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 63,
+        "ingles": "Ring finger",
+        "portugues": "Dedo anelar",
+        "fraseIngles": "Wedding rings go on the ring finger.",
+        "frasePortugues": "Alianças vão no dedo anelar.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 64,
+        "ingles": "Pinky finger",
+        "portugues": "Dedo mínimo",
+        "fraseIngles": "The pinky finger is the smallest.",
+        "frasePortugues": "O dedo mínimo é o menor.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 65,
+        "ingles": "Little finger",
+        "portugues": "Dedo mindinho",
+        "fraseIngles": "Hold up your little finger.",
+        "frasePortugues": "Levante seu dedo mindinho.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 66,
+        "ingles": "Knuckle",
+        "portugues": "Articulação do dedo",
+        "fraseIngles": "I scraped my knuckles on the wall.",
+        "frasePortugues": "Arranhei minhas articulações dos dedos na parede.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 67,
+        "ingles": "Knuckles",
+        "portugues": "Articulações dos dedos",
+        "fraseIngles": "Crack your knuckles if you want.",
+        "frasePortugues": "Estalem suas articulações dos dedos se quiser.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 68,
+        "ingles": "Fingernail",
+        "portugues": "Unha",
+        "fraseIngles": "Cut your fingernails regularly.",
+        "frasePortugues": "Corte suas unhas regularmente.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 69,
+        "ingles": "Fingernails",
+        "portugues": "Unhas",
+        "fraseIngles": "Her fingernails are painted red.",
+        "frasePortugues": "Suas unhas estão pintadas de vermelho.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 70,
+        "ingles": "Chest",
+        "portugues": "Peito",
+        "fraseIngles": "Take a deep breath and expand your chest.",
+        "frasePortugues": "Respire fundo e expanda seu peito.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 71,
+        "ingles": "Breast",
+        "portugues": "Seio",
+        "fraseIngles": "The baby feeds at the mother's breast.",
+        "frasePortugues": "O bebê mama no seio da mãe.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 72,
+        "ingles": "Breasts",
+        "portugues": "Seios",
+        "fraseIngles": "Women's breasts produce milk.",
+        "frasePortugues": "Seios femininos produzem leite.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 73,
+        "ingles": "Nipple",
+        "portugues": "Mamilo",
+        "fraseIngles": "The nipple is sensitive to touch.",
+        "frasePortugues": "O mamilo é sensível ao toque.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 74,
+        "ingles": "Ribcage",
+        "portugues": "Caixa torácica",
+        "fraseIngles": "Protect your ribcage during sports.",
+        "frasePortugues": "Proteja sua caixa torácica durante esportes.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 75,
+        "ingles": "Ribs",
+        "portugues": "Costelas",
+        "fraseIngles": "He broke two ribs in the accident.",
+        "frasePortugues": "Ele quebrou duas costelas no acidente.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 76,
+        "ingles": "Back",
+        "portugues": "Costas",
+        "fraseIngles": "My back hurts from sitting too long.",
+        "frasePortugues": "Minhas costas doem de ficar sentado muito tempo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 77,
+        "ingles": "Spine",
+        "portugues": "Coluna",
+        "fraseIngles": "Keep your spine straight when sitting.",
+        "frasePortugues": "Mantenha sua coluna reta ao sentar.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 78,
+        "ingles": "Shoulder blade",
+        "portugues": "Omoplata",
+        "fraseIngles": "Massage between the shoulder blades.",
+        "frasePortugues": "Massageie entre as omoplatas.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 79,
+        "ingles": "Lower back",
+        "portugues": "Parte inferior das costas",
+        "fraseIngles": "I have pain in my lower back.",
+        "frasePortugues": "Tenho dor na parte inferior das costas.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 80,
+        "ingles": "Waist",
+        "portugues": "Cintura",
+        "fraseIngles": "Measure around your waist.",
+        "frasePortugues": "Meça ao redor da sua cintura.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 81,
+        "ingles": "Hip",
+        "portugues": "Quadril",
+        "fraseIngles": "She broke her hip in a fall.",
+        "frasePortugues": "Ela quebrou o quadril numa queda.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 82,
+        "ingles": "Hips",
+        "portugues": "Quadris",
+        "fraseIngles": "Dancers move their hips gracefully.",
+        "frasePortugues": "Dançarinos movem seus quadris graciosamente.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 83,
+        "ingles": "Stomach",
+        "portugues": "Estômago",
+        "fraseIngles": "My stomach hurts after eating.",
+        "frasePortugues": "Meu estômago dói depois de comer.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 84,
+        "ingles": "Belly",
+        "portugues": "Barriga",
+        "fraseIngles": "The baby has a round belly.",
+        "frasePortugues": "O bebê tem barriga redonda.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 85,
+        "ingles": "Abdomen",
+        "portugues": "Abdômen",
+        "fraseIngles": "The doctor examined my abdomen.",
+        "frasePortugues": "O médico examinou meu abdômen.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 86,
+        "ingles": "Navel",
+        "portugues": "Umbigo",
+        "fraseIngles": "The navel is also called belly button.",
+        "frasePortugues": "O umbigo também é chamado de umbigo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 87,
+        "ingles": "Belly button",
+        "portugues": "Umbigo",
+        "fraseIngles": "Clean your belly button regularly.",
+        "frasePortugues": "Limpe seu umbigo regularmente.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 88,
+        "ingles": "Buttocks",
+        "portugues": "Nádegas",
+        "fraseIngles": "Sit on your buttocks properly.",
+        "frasePortugues": "Sente-se nas nádegas adequadamente.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 89,
+        "ingles": "Bottom",
+        "portugues": "Traseiro",
+        "fraseIngles": "The baby fell on his bottom.",
+        "frasePortugues": "O bebê caiu no traseiro.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 90,
+        "ingles": "Leg",
+        "portugues": "Perna",
+        "fraseIngles": "I broke my leg skiing.",
+        "frasePortugues": "Quebrei minha perna esquiando.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 91,
+        "ingles": "Legs",
+        "portugues": "Pernas",
+        "fraseIngles": "Cross your legs when sitting.",
+        "frasePortugues": "Cruze suas pernas ao sentar.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 92,
+        "ingles": "Thigh",
+        "portugues": "Coxa",
+        "fraseIngles": "The thigh muscle is very strong.",
+        "frasePortugues": "O músculo da coxa é muito forte.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 93,
+        "ingles": "Knee",
+        "portugues": "Joelho",
+        "fraseIngles": "I scraped my knee falling down.",
+        "frasePortugues": "Arranhei meu joelho ao cair.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 94,
+        "ingles": "Knees",
+        "portugues": "Joelhos",
+        "fraseIngles": "Get down on your knees to pray.",
+        "frasePortugues": "Ajoelhe-se para rezar.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 95,
+        "ingles": "Kneecap",
+        "portugues": "Rótula",
+        "fraseIngles": "The kneecap protects the knee joint.",
+        "frasePortugues": "A rótula protege a articulação do joelho.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 96,
+        "ingles": "Shin",
+        "portugues": "Canela",
+        "fraseIngles": "I hit my shin on the coffee table.",
+        "frasePortugues": "Bati minha canela na mesa de centro.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 97,
+        "ingles": "Calf",
+        "portugues": "Panturrilha",
+        "fraseIngles": "The calf muscle cramps when dehydrated.",
+        "frasePortugues": "O músculo da panturrilha cãibra quando desidratado.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 98,
+        "ingles": "Ankle",
+        "portugues": "Tornozelo",
+        "fraseIngles": "I twisted my ankle playing soccer.",
+        "frasePortugues": "Torci meu tornozelo jogando futebol.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 99,
+        "ingles": "Foot",
+        "portugues": "Pé",
+        "fraseIngles": "Put your best foot forward.",
+        "frasePortugues": "Coloque seu melhor pé à frente.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 100,
+        "ingles": "Feet",
+        "portugues": "Pés",
+        "fraseIngles": "Soak your feet in warm water.",
+        "frasePortugues": "Mergulhe seus pés em água morna.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 101,
+        "ingles": "Heel",
+        "portugues": "Calcanhar",
+        "fraseIngles": "The heel of my foot is sore.",
+        "frasePortugues": "O calcanhar do meu pé está dolorido.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 102,
+        "ingles": "Toe",
+        "portugues": "Dedo do pé",
+        "fraseIngles": "I stubbed my big toe.",
+        "frasePortugues": "Bati meu dedão do pé.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 103,
+        "ingles": "Toes",
+        "portugues": "Dedos dos pés",
+        "fraseIngles": "Wiggle your toes in the sand.",
+        "frasePortugues": "Mexa seus dedos dos pés na areia.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 104,
+        "ingles": "Big toe",
+        "portugues": "Dedão do pé",
+        "fraseIngles": "The big toe is the largest toe.",
+        "frasePortugues": "O dedão do pé é o maior dedo do pé.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 105,
+        "ingles": "Little toe",
+        "portugues": "Dedo mínimo do pé",
+        "fraseIngles": "The little toe is often ignored.",
+        "frasePortugues": "O dedo mínimo do pé é frequentemente ignorado.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 106,
+        "ingles": "Toenail",
+        "portugues": "Unha do pé",
+        "fraseIngles": "Trim your toenails regularly.",
+        "frasePortugues": "Corte suas unhas dos pés regularmente.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 107,
+        "ingles": "Sole",
+        "portugues": "Sola do pé",
+        "fraseIngles": "The sole of my foot is ticklish.",
+        "frasePortugues": "A sola do meu pé faz cócegas.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 108,
+        "ingles": "Arch",
+        "portugues": "Arco do pé",
+        "fraseIngles": "High arches need special shoe support.",
+        "frasePortugues": "Arcos altos precisam de apoio especial no sapato.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 109,
+        "ingles": "Heart",
+        "portugues": "Coração",
+        "fraseIngles": "The heart pumps blood through the body.",
+        "frasePortugues": "O coração bombeia sangue pelo corpo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 110,
+        "ingles": "Lungs",
+        "portugues": "Pulmões",
+        "fraseIngles": "Take deep breaths to fill your lungs.",
+        "frasePortugues": "Respire fundo para encher seus pulmões.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 111,
+        "ingles": "Liver",
+        "portugues": "Fígado",
+        "fraseIngles": "The liver processes toxins from the body.",
+        "frasePortugues": "O fígado processa toxinas do corpo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 112,
+        "ingles": "Kidneys",
+        "portugues": "Rins",
+        "fraseIngles": "The kidneys filter waste from blood.",
+        "frasePortugues": "Os rins filtram resíduos do sangue.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 113,
+        "ingles": "Brain",
+        "portugues": "Cérebro",
+        "fraseIngles": "The brain controls all body functions.",
+        "frasePortugues": "O cérebro controla todas as funções do corpo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 114,
+        "ingles": "Blood",
+        "portugues": "Sangue",
+        "fraseIngles": "Blood carries oxygen to all organs.",
+        "frasePortugues": "O sangue leva oxigênio para todos os órgãos.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 115,
+        "ingles": "Bone",
+        "portugues": "Osso",
+        "fraseIngles": "The bone healed after six weeks.",
+        "frasePortugues": "O osso sarou depois de seis semanas.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 116,
+        "ingles": "Bones",
+        "portugues": "Ossos",
+        "fraseIngles": "Adults have 206 bones in their body.",
+        "frasePortugues": "Adultos têm 206 ossos no corpo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 117,
+        "ingles": "Muscle",
+        "portugues": "Músculo",
+        "fraseIngles": "Exercise strengthens muscle tissue.",
+        "frasePortugues": "Exercício fortalece o tecido muscular.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 118,
+        "ingles": "Muscles",
+        "portugues": "Músculos",
+        "fraseIngles": "Athletes develop strong muscles.",
+        "frasePortugues": "Atletas desenvolvem músculos fortes.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 119,
+        "ingles": "Skin",
+        "portugues": "Pele",
+        "fraseIngles": "Protect your skin from sun damage.",
+        "frasePortugues": "Proteja sua pele dos danos do sol.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 120,
+        "ingles": "Nerve",
+        "portugues": "Nervo",
+        "fraseIngles": "The nerve sends signals to the brain.",
+        "frasePortugues": "O nervo envia sinais para o cérebro.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 121,
+        "ingles": "Nerves",
+        "portugues": "Nervos",
+        "fraseIngles": "Damaged nerves can cause numbness.",
+        "frasePortugues": "Nervos danificados podem causar dormência.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 122,
+        "ingles": "Vein",
+        "portugues": "Veia",
+        "fraseIngles": "The nurse found a vein for the injection.",
+        "frasePortugues": "A enfermeira encontrou uma veia para a injeção.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 123,
+        "ingles": "Veins",
+        "portugues": "Veias",
+        "fraseIngles": "Blue veins show through pale skin.",
+        "frasePortugues": "Veias azuis aparecem através da pele pálida.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 124,
+        "ingles": "Artery",
+        "portugues": "Artéria",
+        "fraseIngles": "Arteries carry blood away from the heart.",
+        "frasePortugues": "Artérias levam sangue para longe do coração.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 125,
+        "ingles": "Pulse",
+        "portugues": "Pulso",
+        "fraseIngles": "Check your pulse at the wrist.",
+        "frasePortugues": "Verifique seu pulso no pulso.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 126,
+        "ingles": "Joint",
+        "portugues": "Articulação",
+        "fraseIngles": "The knee is a complex joint.",
+        "frasePortugues": "O joelho é uma articulação complexa.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 127,
+        "ingles": "Joints",
+        "portugues": "Articulações",
+        "fraseIngles": "Arthritis affects the joints.",
+        "frasePortugues": "Artrite afeta as articulações.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 128,
+        "ingles": "Tendon",
+        "portugues": "Tendão",
+        "fraseIngles": "The Achilles tendon connects calf to heel.",
+        "frasePortugues": "O tendão de Aquiles conecta panturrilha ao calcanhar.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 129,
+        "ingles": "Ligament",
+        "portugues": "Ligamento",
+        "fraseIngles": "Ligaments connect bone to bone.",
+        "frasePortugues": "Ligamentos conectam osso a osso.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 130,
+        "ingles": "Cartilage",
+        "portugues": "Cartilagem",
+        "fraseIngles": "Cartilage cushions the joints.",
+        "frasePortugues": "Cartilagem amortece as articulações.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 131,
+        "ingles": "Tissue",
+        "portugues": "Tecido",
+        "fraseIngles": "Healthy tissue heals quickly.",
+        "frasePortugues": "Tecido saudável sara rapidamente.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 132,
+        "ingles": "Cell",
+        "portugues": "Célula",
+        "fraseIngles": "Every cell contains genetic information.",
+        "frasePortugues": "Toda célula contém informação genética.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 133,
+        "ingles": "Organ",
+        "portugues": "Órgão",
+        "fraseIngles": "Each organ has a specific function.",
+        "frasePortugues": "Cada órgão tem uma função específica.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 134,
+        "ingles": "System",
+        "portugues": "Sistema",
+        "fraseIngles": "The circulatory system includes heart and blood vessels.",
+        "frasePortugues": "O sistema circulatório inclui coração e vasos sanguíneos.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 135,
+        "ingles": "Body",
+        "portugues": "Corpo",
+        "fraseIngles": "Exercise keeps the whole body healthy.",
+        "frasePortugues": "Exercício mantém todo o corpo saudável.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 136,
+        "ingles": "Torso",
+        "portugues": "Tronco",
+        "fraseIngles": "The torso includes chest and abdomen.",
+        "frasePortugues": "O tronco inclui peito e abdômen.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 137,
+        "ingles": "Limb",
+        "portugues": "Membro",
+        "fraseIngles": "Arms and legs are called limbs.",
+        "frasePortugues": "Braços e pernas são chamados membros.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 138,
+        "ingles": "Extremity",
+        "portugues": "Extremidade",
+        "fraseIngles": "Hands and feet are extremities.",
+        "frasePortugues": "Mãos e pés são extremidades.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 139,
+        "ingles": "Anatomy",
+        "portugues": "Anatomia",
+        "fraseIngles": "Study anatomy to understand the body.",
+        "frasePortugues": "Estude anatomia para entender o corpo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 140,
+        "ingles": "Physiology",
+        "portugues": "Fisiologia",
+        "fraseIngles": "Physiology explains how organs work.",
+        "frasePortugues": "Fisiologia explica como órgãos funcionam.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 141,
+        "ingles": "Posture",
+        "portugues": "Postura",
+        "fraseIngles": "Good posture prevents back pain.",
+        "frasePortugues": "Boa postura previne dor nas costas.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 142,
+        "ingles": "Gait",
+        "portugues": "Modo de andar",
+        "fraseIngles": "The doctor observed his gait.",
+        "frasePortugues": "O médico observou seu modo de andar.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 143,
+        "ingles": "Complexion",
+        "portugues": "Tez",
+        "fraseIngles": "She has a fair complexion.",
+        "frasePortugues": "Ela tem tez clara.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 144,
+        "ingles": "Freckle",
+        "portugues": "Sarda",
+        "fraseIngles": "The child has freckles on his nose.",
+        "frasePortugues": "A criança tem sardas no nariz.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 145,
+        "ingles": "Freckles",
+        "portugues": "Sardas",
+        "fraseIngles": "Freckles appear more in summer sun.",
+        "frasePortugues": "Sardas aparecem mais no sol de verão.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 146,
+        "ingles": "Mole",
+        "portugues": "Pinta",
+        "fraseIngles": "Check moles for changes in size.",
+        "frasePortugues": "Verifique pintas por mudanças de tamanho.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 147,
+        "ingles": "Scar",
+        "portugues": "Cicatriz",
+        "fraseIngles": "The scar faded over time.",
+        "frasePortugues": "A cicatriz desbotou com o tempo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 148,
+        "ingles": "Wrinkle",
+        "portugues": "Ruga",
+        "fraseIngles": "Smile lines are happy wrinkles.",
+        "frasePortugues": "Linhas de sorriso são rugas felizes.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 149,
+        "ingles": "Wrinkles",
+        "portugues": "Rugas",
+        "fraseIngles": "Wrinkles develop with age.",
+        "frasePortugues": "Rugas se desenvolvem com a idade.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 150,
+        "ingles": "Dimple",
+        "portugues": "Covinha",
+        "fraseIngles": "She has a cute dimple in her chin.",
+        "frasePortugues": "Ela tem uma covinha fofa no queixo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 151,
+        "ingles": "Cleft",
+        "portugues": "Fenda",
+        "fraseIngles": "He was born with a cleft lip.",
+        "frasePortugues": "Ele nasceu com fenda labial.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 152,
+        "ingles": "Beauty mark",
+        "portugues": "Sinal de beleza",
+        "fraseIngles": "The actress has a beauty mark on her cheek.",
+        "frasePortugues": "A atriz tem um sinal de beleza na bochecha.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 153,
+        "ingles": "Birthmark",
+        "portugues": "Marca de nascença",
+        "fraseIngles": "The birthmark is shaped like a heart.",
+        "frasePortugues": "A marca de nascença tem formato de coração.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 154,
+        "ingles": "Tattoo",
+        "portugues": "Tatuagem",
+        "fraseIngles": "His tattoo covers his entire arm.",
+        "frasePortugues": "Sua tatuagem cobre todo o braço.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 155,
+        "ingles": "Piercing",
+        "portugues": "Piercing",
+        "fraseIngles": "She got a new piercing in her ear.",
+        "frasePortugues": "Ela fez um novo piercing na orelha.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 156,
+        "ingles": "Goosebumps",
+        "portugues": "Arrepio",
+        "fraseIngles": "The cold gave me goosebumps.",
+        "frasePortugues": "O frio me deu arrepio.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 157,
+        "ingles": "Goose pimples",
+        "portugues": "Pele de galinha",
+        "fraseIngles": "Scary movies give her goose pimples.",
+        "frasePortugues": "Filmes de terror dão pele de galinha nela.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 158,
+        "ingles": "Blush",
+        "portugues": "Rubor",
+        "fraseIngles": "A blush spread across her cheeks.",
+        "frasePortugues": "Um rubor se espalhou pelas bochechas dela.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 159,
+        "ingles": "Tan",
+        "portugues": "Bronzeado",
+        "fraseIngles": "He got a tan at the beach.",
+        "frasePortugues": "Ele ficou bronzeado na praia.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 160,
+        "ingles": "Sunburn",
+        "portugues": "Queimadura de sol",
+        "fraseIngles": "Apply aloe vera to the sunburn.",
+        "frasePortugues": "Aplique babosa na queimadura de sol.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 161,
+        "ingles": "Callus",
+        "portugues": "Calo",
+        "fraseIngles": "Guitarists develop calluses on fingertips.",
+        "frasePortugues": "Guitarristas desenvolvem calos nas pontas dos dedos.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 162,
+        "ingles": "Blister",
+        "portugues": "Bolha",
+        "fraseIngles": "New shoes gave me a blister.",
+        "frasePortugues": "Sapatos novos me deram uma bolha.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 163,
+        "ingles": "Bruise",
+        "portugues": "Hematoma",
+        "fraseIngles": "The bruise turned purple and yellow.",
+        "frasePortugues": "O hematoma ficou roxo e amarelo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 164,
+        "ingles": "Cut",
+        "portugues": "Corte",
+        "fraseIngles": "Clean the cut with antiseptic.",
+        "frasePortugues": "Limpe o corte com antisséptico.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 165,
+        "ingles": "Scrape",
+        "portugues": "Arranhão",
+        "fraseIngles": "I got a scrape on my knee.",
+        "frasePortugues": "Tenho um arranhão no joelho.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 166,
+        "ingles": "Scratch",
+        "portugues": "Riscar",
+        "fraseIngles": "Don't scratch the mosquito bite.",
+        "frasePortugues": "Não coce a picada de mosquito.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 167,
+        "ingles": "Wound",
+        "portugues": "Ferida",
+        "fraseIngles": "Keep the wound clean and dry.",
+        "frasePortugues": "Mantenha a ferida limpa e seca.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 168,
+        "ingles": "Injury",
+        "portugues": "Lesão",
+        "fraseIngles": "Ice reduces swelling from injury.",
+        "frasePortugues": "Gelo reduz inchaço da lesão.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 169,
+        "ingles": "Swelling",
+        "portugues": "Inchaço",
+        "fraseIngles": "The swelling went down overnight.",
+        "frasePortugues": "O inchaço diminuiu durante a noite.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 170,
+        "ingles": "Inflammation",
+        "portugues": "Inflamação",
+        "fraseIngles": "Ice helps reduce inflammation.",
+        "frasePortugues": "Gelo ajuda a reduzir inflamação.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 171,
+        "ingles": "Pain",
+        "portugues": "Dor",
+        "fraseIngles": "The pain medication helped.",
+        "frasePortugues": "O analgésico ajudou.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 172,
+        "ingles": "Ache",
+        "portugues": "Dores",
+        "fraseIngles": "I have aches all over my body.",
+        "frasePortugues": "Tenho dores por todo o corpo.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 173,
+        "ingles": "Soreness",
+        "portugues": "Dor muscular",
+        "fraseIngles": "Soreness is normal after exercise.",
+        "frasePortugues": "Dor muscular é normal após exercício.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 174,
+        "ingles": "Stiffness",
+        "portugues": "Rigidez",
+        "fraseIngles": "Morning stiffness affects many people.",
+        "frasePortugues": "Rigidez matinal afeta muitas pessoas.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 175,
+        "ingles": "Numbness",
+        "portugues": "Dormência",
+        "fraseIngles": "Sitting wrong causes leg numbness.",
+        "frasePortugues": "Sentar errado causa dormência na perna.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 176,
+        "ingles": "Tingling",
+        "portugues": "Formigamento",
+        "fraseIngles": "My foot is tingling from poor circulation.",
+        "frasePortugues": "Meu pé está formigando por má circulação.",
+        "subtopico": "Partes do corpo",
+        "topico": "Outros assuntos"
+    }
+]

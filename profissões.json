@@ -1,0 +1,1811 @@
+[
+    {
+        "id": 1,
+        "ingles": "Teacher",
+        "portugues": "Professor",
+        "fraseIngles": "The teacher explains the lesson clearly.",
+        "frasePortugues": "O professor explica a lição claramente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 2,
+        "ingles": "Student",
+        "portugues": "Estudante",
+        "fraseIngles": "The student studies hard for exams.",
+        "frasePortugues": "O estudante estuda muito para os exames.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 3,
+        "ingles": "Doctor",
+        "portugues": "Médico",
+        "fraseIngles": "The doctor examines patients carefully.",
+        "frasePortugues": "O médico examina pacientes cuidadosamente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 4,
+        "ingles": "Nurse",
+        "portugues": "Enfermeiro",
+        "fraseIngles": "The nurse takes care of sick people.",
+        "frasePortugues": "O enfermeiro cuida de pessoas doentes.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 5,
+        "ingles": "Lawyer",
+        "portugues": "Advogado",
+        "fraseIngles": "The lawyer defends clients in court.",
+        "frasePortugues": "O advogado defende clientes no tribunal.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 6,
+        "ingles": "Engineer",
+        "portugues": "Engenheiro",
+        "fraseIngles": "The engineer designs new buildings.",
+        "frasePortugues": "O engenheiro projeta novos prédios.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 7,
+        "ingles": "Architect",
+        "portugues": "Arquiteto",
+        "fraseIngles": "The architect creates beautiful house plans.",
+        "frasePortugues": "O arquiteto cria plantas bonitas de casas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 8,
+        "ingles": "Police officer",
+        "portugues": "Policial",
+        "fraseIngles": "The police officer keeps the city safe.",
+        "frasePortugues": "O policial mantém a cidade segura.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 9,
+        "ingles": "Firefighter",
+        "portugues": "Bombeiro",
+        "fraseIngles": "The firefighter rescues people from fires.",
+        "frasePortugues": "O bombeiro resgata pessoas de incêndios.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 10,
+        "ingles": "Chef",
+        "portugues": "Chef",
+        "fraseIngles": "The chef cooks delicious meals.",
+        "frasePortugues": "O chef cozinha refeições deliciosas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 11,
+        "ingles": "Cook",
+        "portugues": "Cozinheiro",
+        "fraseIngles": "The cook prepares food in the kitchen.",
+        "frasePortugues": "O cozinheiro prepara comida na cozinha.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 12,
+        "ingles": "Waiter",
+        "portugues": "Garçom",
+        "fraseIngles": "The waiter serves customers at tables.",
+        "frasePortugues": "O garçom serve clientes nas mesas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 13,
+        "ingles": "Waitress",
+        "portugues": "Garçonete",
+        "fraseIngles": "The waitress takes orders politely.",
+        "frasePortugues": "A garçonete anota pedidos educadamente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 14,
+        "ingles": "Cashier",
+        "portugues": "Caixa",
+        "fraseIngles": "The cashier counts money accurately.",
+        "frasePortugues": "O caixa conta dinheiro com precisão.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 15,
+        "ingles": "Salesperson",
+        "portugues": "Vendedor",
+        "fraseIngles": "The salesperson helps customers find products.",
+        "frasePortugues": "O vendedor ajuda clientes a encontrar produtos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 16,
+        "ingles": "Manager",
+        "portugues": "Gerente",
+        "fraseIngles": "The manager oversees daily operations.",
+        "frasePortugues": "O gerente supervisiona operações diárias.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 17,
+        "ingles": "Secretary",
+        "portugues": "Secretário",
+        "fraseIngles": "The secretary schedules appointments.",
+        "frasePortugues": "O secretário agenda compromissos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 18,
+        "ingles": "Accountant",
+        "portugues": "Contador",
+        "fraseIngles": "The accountant manages financial records.",
+        "frasePortugues": "O contador gerencia registros financeiros.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 19,
+        "ingles": "Dentist",
+        "portugues": "Dentista",
+        "fraseIngles": "The dentist cleans and fixes teeth.",
+        "frasePortugues": "O dentista limpa e conserta dentes.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 20,
+        "ingles": "Veterinarian",
+        "portugues": "Veterinário",
+        "fraseIngles": "The veterinarian treats sick animals.",
+        "frasePortugues": "O veterinário trata animais doentes.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 21,
+        "ingles": "Pharmacist",
+        "portugues": "Farmacêutico",
+        "fraseIngles": "The pharmacist prepares medications.",
+        "frasePortugues": "O farmacêutico prepara medicamentos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 22,
+        "ingles": "Pilot",
+        "portugues": "Piloto",
+        "fraseIngles": "The pilot flies planes safely.",
+        "frasePortugues": "O piloto voa aviões com segurança.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 23,
+        "ingles": "Flight attendant",
+        "portugues": "Comissário de bordo",
+        "fraseIngles": "The flight attendant assists passengers.",
+        "frasePortugues": "O comissário de bordo ajuda passageiros.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 24,
+        "ingles": "Driver",
+        "portugues": "Motorista",
+        "fraseIngles": "The driver delivers packages on time.",
+        "frasePortugues": "O motorista entrega pacotes no prazo.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 25,
+        "ingles": "Bus driver",
+        "portugues": "Motorista de ônibus",
+        "fraseIngles": "The bus driver transports people safely.",
+        "frasePortugues": "O motorista de ônibus transporta pessoas com segurança.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 26,
+        "ingles": "Taxi driver",
+        "portugues": "Taxista",
+        "fraseIngles": "The taxi driver knows all city streets.",
+        "frasePortugues": "O taxista conhece todas as ruas da cidade.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 27,
+        "ingles": "Mechanic",
+        "portugues": "Mecânico",
+        "fraseIngles": "The mechanic repairs broken cars.",
+        "frasePortugues": "O mecânico conserta carros quebrados.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 28,
+        "ingles": "Electrician",
+        "portugues": "Eletricista",
+        "fraseIngles": "The electrician installs electrical systems.",
+        "frasePortugues": "O eletricista instala sistemas elétricos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 29,
+        "ingles": "Plumber",
+        "portugues": "Encanador",
+        "fraseIngles": "The plumber fixes leaking pipes.",
+        "frasePortugues": "O encanador conserta canos vazando.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 30,
+        "ingles": "Carpenter",
+        "portugues": "Carpinteiro",
+        "fraseIngles": "The carpenter builds wooden furniture.",
+        "frasePortugues": "O carpinteiro constrói móveis de madeira.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 31,
+        "ingles": "Painter",
+        "portugues": "Pintor",
+        "fraseIngles": "The painter decorates walls with colors.",
+        "frasePortugues": "O pintor decora paredes com cores.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 32,
+        "ingles": "Construction worker",
+        "portugues": "Operário da construção",
+        "fraseIngles": "The construction worker builds houses.",
+        "frasePortugues": "O operário da construção constrói casas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 33,
+        "ingles": "Farmer",
+        "portugues": "Fazendeiro",
+        "fraseIngles": "The farmer grows crops and raises animals.",
+        "frasePortugues": "O fazendeiro cultiva plantas e cria animais.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 34,
+        "ingles": "Gardener",
+        "portugues": "Jardineiro",
+        "fraseIngles": "The gardener plants flowers and trees.",
+        "frasePortugues": "O jardineiro planta flores e árvores.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 35,
+        "ingles": "Fisherman",
+        "portugues": "Pescador",
+        "fraseIngles": "The fisherman catches fish in the ocean.",
+        "frasePortugues": "O pescador pesca peixes no oceano.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 36,
+        "ingles": "Baker",
+        "portugues": "Padeiro",
+        "fraseIngles": "The baker makes fresh bread daily.",
+        "frasePortugues": "O padeiro faz pão fresco diariamente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 37,
+        "ingles": "Butcher",
+        "portugues": "Açougueiro",
+        "fraseIngles": "The butcher cuts and sells meat.",
+        "frasePortugues": "O açougueiro corta e vende carne.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 38,
+        "ingles": "Barber",
+        "portugues": "Barbeiro",
+        "fraseIngles": "The barber cuts men's hair stylishly.",
+        "frasePortugues": "O barbeiro corta cabelo masculino com estilo.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 39,
+        "ingles": "Hairdresser",
+        "portugues": "Cabeleireiro",
+        "fraseIngles": "The hairdresser styles women's hair beautifully.",
+        "frasePortugues": "O cabeleireiro penteia cabelo feminino lindamente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 40,
+        "ingles": "Artist",
+        "portugues": "Artista",
+        "fraseIngles": "The artist creates beautiful paintings.",
+        "frasePortugues": "O artista cria pinturas bonitas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 41,
+        "ingles": "Musician",
+        "portugues": "Músico",
+        "fraseIngles": "The musician plays instruments skillfully.",
+        "frasePortugues": "O músico toca instrumentos habilmente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 42,
+        "ingles": "Singer",
+        "portugues": "Cantor",
+        "fraseIngles": "The singer performs songs on stage.",
+        "frasePortugues": "O cantor apresenta músicas no palco.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 43,
+        "ingles": "Actor",
+        "portugues": "Ator",
+        "fraseIngles": "The actor performs in movies and plays.",
+        "frasePortugues": "O ator atua em filmes e peças.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 44,
+        "ingles": "Actress",
+        "portugues": "Atriz",
+        "fraseIngles": "The actress stars in popular films.",
+        "frasePortugues": "A atriz estrela filmes populares.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 45,
+        "ingles": "Dancer",
+        "portugues": "Dançarino",
+        "fraseIngles": "The dancer moves gracefully to music.",
+        "frasePortugues": "O dançarino se move graciosamente com a música.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 46,
+        "ingles": "Writer",
+        "portugues": "Escritor",
+        "fraseIngles": "The writer creates interesting stories.",
+        "frasePortugues": "O escritor cria histórias interessantes.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 47,
+        "ingles": "Journalist",
+        "portugues": "Jornalista",
+        "fraseIngles": "The journalist reports current news events.",
+        "frasePortugues": "O jornalista reporta eventos noticiosos atuais.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 48,
+        "ingles": "Photographer",
+        "portugues": "Fotógrafo",
+        "fraseIngles": "The photographer captures beautiful moments.",
+        "frasePortugues": "O fotógrafo captura momentos bonitos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 49,
+        "ingles": "Designer",
+        "portugues": "Designer",
+        "fraseIngles": "The designer creates attractive graphics.",
+        "frasePortugues": "O designer cria gráficos atraentes.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 50,
+        "ingles": "Programmer",
+        "portugues": "Programador",
+        "fraseIngles": "The programmer writes computer code.",
+        "frasePortugues": "O programador escreve código de computador.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 51,
+        "ingles": "Scientist",
+        "portugues": "Cientista",
+        "fraseIngles": "The scientist conducts important research.",
+        "frasePortugues": "O cientista conduz pesquisa importante.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 52,
+        "ingles": "Researcher",
+        "portugues": "Pesquisador",
+        "fraseIngles": "The researcher studies new discoveries.",
+        "frasePortugues": "O pesquisador estuda novas descobertas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 53,
+        "ingles": "Librarian",
+        "portugues": "Bibliotecário",
+        "fraseIngles": "The librarian helps people find books.",
+        "frasePortugues": "O bibliotecário ajuda pessoas a encontrar livros.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 54,
+        "ingles": "Translator",
+        "portugues": "Tradutor",
+        "fraseIngles": "The translator converts languages accurately.",
+        "frasePortugues": "O tradutor converte idiomas com precisão.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 55,
+        "ingles": "Interpreter",
+        "portugues": "Intérprete",
+        "fraseIngles": "The interpreter translates spoken language.",
+        "frasePortugues": "O intérprete traduz linguagem falada.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 56,
+        "ingles": "Judge",
+        "portugues": "Juiz",
+        "fraseIngles": "The judge makes legal decisions fairly.",
+        "frasePortugues": "O juiz toma decisões legais justamente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 57,
+        "ingles": "Prosecutor",
+        "portugues": "Promotor",
+        "fraseIngles": "The prosecutor presents cases in court.",
+        "frasePortugues": "O promotor apresenta casos no tribunal.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 58,
+        "ingles": "Detective",
+        "portugues": "Detetive",
+        "fraseIngles": "The detective solves mysterious crimes.",
+        "frasePortugues": "O detetive resolve crimes misteriosos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 59,
+        "ingles": "Security guard",
+        "portugues": "Segurança",
+        "fraseIngles": "The security guard protects buildings.",
+        "frasePortugues": "O segurança protege prédios.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 60,
+        "ingles": "Soldier",
+        "portugues": "Soldado",
+        "fraseIngles": "The soldier defends the country bravely.",
+        "frasePortugues": "O soldado defende o país corajosamente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 61,
+        "ingles": "Sailor",
+        "portugues": "Marinheiro",
+        "fraseIngles": "The sailor works on ships at sea.",
+        "frasePortugues": "O marinheiro trabalha em navios no mar.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 62,
+        "ingles": "Postman",
+        "portugues": "Carteiro",
+        "fraseIngles": "The postman delivers mail to houses.",
+        "frasePortugues": "O carteiro entrega correspondência nas casas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 63,
+        "ingles": "Delivery person",
+        "portugues": "Entregador",
+        "fraseIngles": "The delivery person brings packages quickly.",
+        "frasePortugues": "O entregador traz pacotes rapidamente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 64,
+        "ingles": "Cleaner",
+        "portugues": "Faxineiro",
+        "fraseIngles": "The cleaner keeps buildings spotless.",
+        "frasePortugues": "O faxineiro mantém prédios impecáveis.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 65,
+        "ingles": "Janitor",
+        "portugues": "Zelador",
+        "fraseIngles": "The janitor maintains building facilities.",
+        "frasePortugues": "O zelador mantém as instalações do prédio.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 66,
+        "ingles": "Receptionist",
+        "portugues": "Recepcionista",
+        "fraseIngles": "The receptionist greets visitors politely.",
+        "frasePortugues": "O recepcionista cumprimenta visitantes educadamente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 67,
+        "ingles": "Operator",
+        "portugues": "Operador",
+        "fraseIngles": "The operator handles phone calls.",
+        "frasePortugues": "O operador atende chamadas telefônicas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 68,
+        "ingles": "Technician",
+        "portugues": "Técnico",
+        "fraseIngles": "The technician repairs electronic equipment.",
+        "frasePortugues": "O técnico conserta equipamentos eletrônicos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 69,
+        "ingles": "Supervisor",
+        "portugues": "Supervisor",
+        "fraseIngles": "The supervisor monitors work quality.",
+        "frasePortugues": "O supervisor monitora a qualidade do trabalho.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 70,
+        "ingles": "Inspector",
+        "portugues": "Inspetor",
+        "fraseIngles": "The inspector checks safety standards.",
+        "frasePortugues": "O inspetor verifica padrões de segurança.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 71,
+        "ingles": "Consultant",
+        "portugues": "Consultor",
+        "fraseIngles": "The consultant gives professional advice.",
+        "frasePortugues": "O consultor dá conselhos profissionais.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 72,
+        "ingles": "Advisor",
+        "portugues": "Consultor",
+        "fraseIngles": "The advisor helps make important decisions.",
+        "frasePortugues": "O consultor ajuda a tomar decisões importantes.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 73,
+        "ingles": "Trainer",
+        "portugues": "Treinador",
+        "fraseIngles": "The trainer teaches new skills.",
+        "frasePortugues": "O treinador ensina novas habilidades.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 74,
+        "ingles": "Coach",
+        "portugues": "Técnico",
+        "fraseIngles": "The coach leads the team to victory.",
+        "frasePortugues": "O técnico leva o time à vitória.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 75,
+        "ingles": "Athlete",
+        "portugues": "Atleta",
+        "fraseIngles": "The athlete trains hard for competitions.",
+        "frasePortugues": "O atleta treina muito para competições.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 76,
+        "ingles": "Referee",
+        "portugues": "Árbitro",
+        "fraseIngles": "The referee enforces game rules fairly.",
+        "frasePortugues": "O árbitro aplica regras do jogo justamente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 77,
+        "ingles": "Lifeguard",
+        "portugues": "Salva-vidas",
+        "fraseIngles": "The lifeguard watches swimmers at beach.",
+        "frasePortugues": "O salva-vidas observa nadadores na praia.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 78,
+        "ingles": "Travel agent",
+        "portugues": "Agente de viagem",
+        "fraseIngles": "The travel agent plans vacation trips.",
+        "frasePortugues": "O agente de viagem planeja viagens de férias.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 79,
+        "ingles": "Real estate agent",
+        "portugues": "Corretor de imóveis",
+        "fraseIngles": "The real estate agent sells houses.",
+        "frasePortugues": "O corretor de imóveis vende casas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 80,
+        "ingles": "Insurance agent",
+        "portugues": "Corretor de seguros",
+        "fraseIngles": "The insurance agent sells protection policies.",
+        "frasePortugues": "O corretor de seguros vende apólices de proteção.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 81,
+        "ingles": "Banker",
+        "portugues": "Bancário",
+        "fraseIngles": "The banker handles money transactions.",
+        "frasePortugues": "O bancário lida com transações financeiras.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 82,
+        "ingles": "Broker",
+        "portugues": "Corretor",
+        "fraseIngles": "The broker trades stocks for clients.",
+        "frasePortugues": "O corretor negocia ações para clientes.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 83,
+        "ingles": "Economist",
+        "portugues": "Economista",
+        "fraseIngles": "The economist analyzes financial trends.",
+        "frasePortugues": "O economista analisa tendências financeiras.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 84,
+        "ingles": "Psychologist",
+        "portugues": "Psicólogo",
+        "fraseIngles": "The psychologist helps with mental health.",
+        "frasePortugues": "O psicólogo ajuda com saúde mental.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 85,
+        "ingles": "Therapist",
+        "portugues": "Terapeuta",
+        "fraseIngles": "The therapist provides emotional support.",
+        "frasePortugues": "O terapeuta oferece apoio emocional.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 86,
+        "ingles": "Social worker",
+        "portugues": "Assistente social",
+        "fraseIngles": "The social worker helps families in need.",
+        "frasePortugues": "O assistente social ajuda famílias necessitadas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 87,
+        "ingles": "Minister",
+        "portugues": "Pastor",
+        "fraseIngles": "The minister leads religious services.",
+        "frasePortugues": "O pastor conduz serviços religiosos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 88,
+        "ingles": "Priest",
+        "portugues": "Padre",
+        "fraseIngles": "The priest performs church ceremonies.",
+        "frasePortugues": "O padre realiza cerimônias da igreja.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 89,
+        "ingles": "Rabbi",
+        "portugues": "Rabino",
+        "fraseIngles": "The rabbi teaches Jewish traditions.",
+        "frasePortugues": "O rabino ensina tradições judaicas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 90,
+        "ingles": "Mayor",
+        "portugues": "Prefeito",
+        "fraseIngles": "The mayor governs the city effectively.",
+        "frasePortugues": "O prefeito governa a cidade efetivamente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 91,
+        "ingles": "Governor",
+        "portugues": "Governador",
+        "fraseIngles": "The governor leads the state government.",
+        "frasePortugues": "O governador lidera o governo estadual.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 92,
+        "ingles": "President",
+        "portugues": "Presidente",
+        "fraseIngles": "The president makes important national decisions.",
+        "frasePortugues": "O presidente toma decisões nacionais importantes.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 93,
+        "ingles": "Ambassador",
+        "portugues": "Embaixador",
+        "fraseIngles": "The ambassador represents the country abroad.",
+        "frasePortugues": "O embaixador representa o país no exterior.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 94,
+        "ingles": "Diplomat",
+        "portugues": "Diplomata",
+        "fraseIngles": "The diplomat negotiates international agreements.",
+        "frasePortugues": "O diplomata negocia acordos internacionais.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 95,
+        "ingles": "Spy",
+        "portugues": "Espião",
+        "fraseIngles": "The spy gathers secret information.",
+        "frasePortugues": "O espião coleta informações secretas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 96,
+        "ingles": "Editor",
+        "portugues": "Editor",
+        "fraseIngles": "The editor reviews and improves texts.",
+        "frasePortugues": "O editor revisa e melhora textos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 97,
+        "ingles": "Publisher",
+        "portugues": "Editor",
+        "fraseIngles": "The publisher produces books and magazines.",
+        "frasePortugues": "O editor produz livros e revistas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 98,
+        "ingles": "Producer",
+        "portugues": "Produtor",
+        "fraseIngles": "The producer creates television shows.",
+        "frasePortugues": "O produtor cria programas de televisão.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 99,
+        "ingles": "Director",
+        "portugues": "Diretor",
+        "fraseIngles": "The director guides movie productions.",
+        "frasePortugues": "O diretor orienta produções cinematográficas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 100,
+        "ingles": "Cameraman",
+        "portugues": "Cinegrafista",
+        "fraseIngles": "The cameraman films important events.",
+        "frasePortugues": "O cinegrafista filma eventos importantes.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 101,
+        "ingles": "Sound engineer",
+        "portugues": "Engenheiro de som",
+        "fraseIngles": "The sound engineer records audio perfectly.",
+        "frasePortugues": "O engenheiro de som grava áudio perfeitamente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 102,
+        "ingles": "Radio host",
+        "portugues": "Apresentador de rádio",
+        "fraseIngles": "The radio host entertains listeners daily.",
+        "frasePortugues": "O apresentador de rádio entretém ouvintes diariamente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 103,
+        "ingles": "TV anchor",
+        "portugues": "Âncora de TV",
+        "fraseIngles": "The TV anchor reports news professionally.",
+        "frasePortugues": "O âncora de TV reporta notícias profissionalmente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 104,
+        "ingles": "Weather forecaster",
+        "portugues": "Meteorologista",
+        "fraseIngles": "The weather forecaster predicts tomorrow's weather.",
+        "frasePortugues": "O meteorologista prevê o tempo de amanhã.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 105,
+        "ingles": "Sports commentator",
+        "portugues": "Comentarista esportivo",
+        "fraseIngles": "The sports commentator describes game action.",
+        "frasePortugues": "O comentarista esportivo descreve a ação do jogo.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 106,
+        "ingles": "Game show host",
+        "portugues": "Apresentador de programa",
+        "fraseIngles": "The game show host entertains contestants.",
+        "frasePortugues": "O apresentador de programa entretém concorrentes.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 107,
+        "ingles": "Comedian",
+        "portugues": "Comediante",
+        "fraseIngles": "The comedian makes audiences laugh.",
+        "frasePortugues": "O comediante faz o público rir.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 108,
+        "ingles": "Magician",
+        "portugues": "Mágico",
+        "fraseIngles": "The magician performs amazing tricks.",
+        "frasePortugues": "O mágico realiza truques incríveis.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 109,
+        "ingles": "Clown",
+        "portugues": "Palhaço",
+        "fraseIngles": "The clown entertains children at parties.",
+        "frasePortugues": "O palhaço entretém crianças em festas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 110,
+        "ingles": "Acrobat",
+        "portugues": "Acrobata",
+        "fraseIngles": "The acrobat performs dangerous stunts.",
+        "frasePortugues": "O acrobata realiza acrobacias perigosas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 111,
+        "ingles": "Circus performer",
+        "portugues": "Artista de circo",
+        "fraseIngles": "The circus performer amazes audiences.",
+        "frasePortugues": "O artista de circo impressiona o público.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 112,
+        "ingles": "Model",
+        "portugues": "Modelo",
+        "fraseIngles": "The model poses for fashion photographs.",
+        "frasePortugues": "O modelo posa para fotografias de moda.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 113,
+        "ingles": "Fashion designer",
+        "portugues": "Estilista",
+        "fraseIngles": "The fashion designer creates trendy clothing.",
+        "frasePortugues": "O estilista cria roupas da moda.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 114,
+        "ingles": "Jeweler",
+        "portugues": "Joalheiro",
+        "fraseIngles": "The jeweler crafts beautiful rings.",
+        "frasePortugues": "O joalheiro cria anéis bonitos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 115,
+        "ingles": "Watchmaker",
+        "portugues": "Relojoeiro",
+        "fraseIngles": "The watchmaker repairs timepieces expertly.",
+        "frasePortugues": "O relojoeiro conserta relógios com perícia.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 116,
+        "ingles": "Tailor",
+        "portugues": "Alfaiate",
+        "fraseIngles": "The tailor makes custom suits.",
+        "frasePortugues": "O alfaiate faz ternos sob medida.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 117,
+        "ingles": "Seamstress",
+        "portugues": "Costureira",
+        "fraseIngles": "The seamstress sews dresses beautifully.",
+        "frasePortugues": "A costureira costura vestidos lindamente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 118,
+        "ingles": "Shoemaker",
+        "portugues": "Sapateiro",
+        "fraseIngles": "The shoemaker crafts leather boots.",
+        "frasePortugues": "O sapateiro cria botas de couro.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 119,
+        "ingles": "Florist",
+        "portugues": "Florista",
+        "fraseIngles": "The florist arranges wedding bouquets.",
+        "frasePortugues": "O florista arranja buquês de casamento.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 120,
+        "ingles": "Event planner",
+        "portugues": "Organizador de eventos",
+        "fraseIngles": "The event planner coordinates perfect parties.",
+        "frasePortugues": "O organizador de eventos coordena festas perfeitas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 121,
+        "ingles": "Wedding planner",
+        "portugues": "Organizador de casamentos",
+        "fraseIngles": "The wedding planner creates dream ceremonies.",
+        "frasePortugues": "O organizador de casamentos cria cerimônias dos sonhos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 122,
+        "ingles": "Interior designer",
+        "portugues": "Designer de interiores",
+        "fraseIngles": "The interior designer decorates homes beautifully.",
+        "frasePortugues": "O designer de interiores decora casas lindamente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 123,
+        "ingles": "Landscaper",
+        "portugues": "Paisagista",
+        "fraseIngles": "The landscaper designs outdoor spaces.",
+        "frasePortugues": "O paisagista projeta espaços ao ar livre.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 124,
+        "ingles": "Tree surgeon",
+        "portugues": "Cirurgião de árvores",
+        "fraseIngles": "The tree surgeon trims dangerous branches.",
+        "frasePortugues": "O cirurgião de árvores poda galhos perigosos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 125,
+        "ingles": "Pet groomer",
+        "portugues": "Tosador de animais",
+        "fraseIngles": "The pet groomer makes dogs look beautiful.",
+        "frasePortugues": "O tosador de animais deixa cães bonitos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 126,
+        "ingles": "Animal trainer",
+        "portugues": "Treinador de animais",
+        "fraseIngles": "The animal trainer teaches tricks to pets.",
+        "frasePortugues": "O treinador de animais ensina truques aos animais.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 127,
+        "ingles": "Zookeeper",
+        "portugues": "Tratador de zoológico",
+        "fraseIngles": "The zookeeper feeds wild animals.",
+        "frasePortugues": "O tratador de zoológico alimenta animais selvagens.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 128,
+        "ingles": "Marine biologist",
+        "portugues": "Biólogo marinho",
+        "fraseIngles": "The marine biologist studies ocean life.",
+        "frasePortugues": "O biólogo marinho estuda vida oceânica.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 129,
+        "ingles": "Archaeologist",
+        "portugues": "Arqueólogo",
+        "fraseIngles": "The archaeologist discovers ancient artifacts.",
+        "frasePortugues": "O arqueólogo descobre artefatos antigos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 130,
+        "ingles": "Geologist",
+        "portugues": "Geólogo",
+        "fraseIngles": "The geologist studies rocks and minerals.",
+        "frasePortugues": "O geólogo estuda rochas e minerais.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 131,
+        "ingles": "Meteorologist",
+        "portugues": "Meteorologista",
+        "fraseIngles": "The meteorologist studies weather patterns.",
+        "frasePortugues": "O meteorologista estuda padrões climáticos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 132,
+        "ingles": "Astronomer",
+        "portugues": "Astrônomo",
+        "fraseIngles": "The astronomer observes stars and planets.",
+        "frasePortugues": "O astrônomo observa estrelas e planetas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 133,
+        "ingles": "Astronaut",
+        "portugues": "Astronauta",
+        "fraseIngles": "The astronaut travels to space stations.",
+        "frasePortugues": "O astronauta viaja para estações espaciais.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 134,
+        "ingles": "Chemist",
+        "portugues": "Químico",
+        "fraseIngles": "The chemist mixes compounds safely.",
+        "frasePortugues": "O químico mistura compostos com segurança.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 135,
+        "ingles": "Physicist",
+        "portugues": "Físico",
+        "fraseIngles": "The physicist studies natural laws.",
+        "frasePortugues": "O físico estuda leis naturais.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 136,
+        "ingles": "Biologist",
+        "portugues": "Biólogo",
+        "fraseIngles": "The biologist researches living organisms.",
+        "frasePortugues": "O biólogo pesquisa organismos vivos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 137,
+        "ingles": "Botanist",
+        "portugues": "Botânico",
+        "fraseIngles": "The botanist studies plant species.",
+        "frasePortugues": "O botânico estuda espécies de plantas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 138,
+        "ingles": "Zoologist",
+        "portugues": "Zoólogo",
+        "fraseIngles": "The zoologist observes animal behavior.",
+        "frasePortugues": "O zoólogo observa comportamento animal.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 139,
+        "ingles": "Anthropologist",
+        "portugues": "Antropólogo",
+        "fraseIngles": "The anthropologist studies human cultures.",
+        "frasePortugues": "O antropólogo estuda culturas humanas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 140,
+        "ingles": "Historian",
+        "portugues": "Historiador",
+        "fraseIngles": "The historian researches past events.",
+        "frasePortugues": "O historiador pesquisa eventos passados.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 141,
+        "ingles": "Philosophy professor",
+        "portugues": "Professor de filosofia",
+        "fraseIngles": "The philosophy professor discusses life's meaning.",
+        "frasePortugues": "O professor de filosofia discute o significado da vida.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 142,
+        "ingles": "Math teacher",
+        "portugues": "Professor de matemática",
+        "fraseIngles": "The math teacher explains complex equations.",
+        "frasePortugues": "O professor de matemática explica equações complexas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 143,
+        "ingles": "English teacher",
+        "portugues": "Professor de inglês",
+        "fraseIngles": "The English teacher improves language skills.",
+        "frasePortugues": "O professor de inglês melhora habilidades linguísticas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 144,
+        "ingles": "Art teacher",
+        "portugues": "Professor de arte",
+        "fraseIngles": "The art teacher inspires creative expression.",
+        "frasePortugues": "O professor de arte inspira expressão criativa.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 145,
+        "ingles": "Music teacher",
+        "portugues": "Professor de música",
+        "fraseIngles": "The music teacher teaches instrument playing.",
+        "frasePortugues": "O professor de música ensina tocar instrumentos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 146,
+        "ingles": "Physical education teacher",
+        "portugues": "Professor de educação física",
+        "fraseIngles": "The physical education teacher promotes fitness.",
+        "frasePortugues": "O professor de educação física promove condicionamento físico.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 147,
+        "ingles": "Principal",
+        "portugues": "Diretor",
+        "fraseIngles": "The principal manages school operations.",
+        "frasePortugues": "O diretor gerencia operações escolares.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 148,
+        "ingles": "Superintendent",
+        "portugues": "Superintendente",
+        "fraseIngles": "The superintendent oversees multiple schools.",
+        "frasePortugues": "O superintendente supervisiona múltiplas escolas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 149,
+        "ingles": "Guidance counselor",
+        "portugues": "Conselheiro escolar",
+        "fraseIngles": "The guidance counselor helps students choose careers.",
+        "frasePortugues": "O conselheiro escolar ajuda estudantes a escolher carreiras.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 150,
+        "ingles": "School nurse",
+        "portugues": "Enfermeira escolar",
+        "fraseIngles": "The school nurse treats student injuries.",
+        "frasePortugues": "A enfermeira escolar trata ferimentos de estudantes.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 151,
+        "ingles": "Custodian",
+        "portugues": "Zelador",
+        "fraseIngles": "The custodian maintains clean facilities.",
+        "frasePortugues": "O zelador mantém instalações limpas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 152,
+        "ingles": "Bus monitor",
+        "portugues": "Monitor de ônibus",
+        "fraseIngles": "The bus monitor supervises student behavior.",
+        "frasePortugues": "O monitor de ônibus supervisiona comportamento estudantil.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 153,
+        "ingles": "Crossing guard",
+        "portugues": "Guarda de trânsito escolar",
+        "fraseIngles": "The crossing guard helps children cross streets.",
+        "frasePortugues": "O guarda de trânsito escolar ajuda crianças a atravessar ruas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 154,
+        "ingles": "Tutor",
+        "portugues": "Tutor",
+        "fraseIngles": "The tutor provides individual instruction.",
+        "frasePortugues": "O tutor oferece instrução individual.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 155,
+        "ingles": "Nanny",
+        "portugues": "Babá",
+        "fraseIngles": "The nanny cares for young children.",
+        "frasePortugues": "A babá cuida de crianças pequenas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 156,
+        "ingles": "Babysitter",
+        "portugues": "Babá",
+        "fraseIngles": "The babysitter watches kids while parents work.",
+        "frasePortugues": "A babá cuida de crianças enquanto os pais trabalham.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 157,
+        "ingles": "Day care worker",
+        "portugues": "Funcionário de creche",
+        "fraseIngles": "The day care worker supervises toddlers.",
+        "frasePortugues": "O funcionário de creche supervisiona crianças pequenas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 158,
+        "ingles": "Camp counselor",
+        "portugues": "Monitor de acampamento",
+        "fraseIngles": "The camp counselor organizes fun activities.",
+        "frasePortugues": "O monitor de acampamento organiza atividades divertidas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 159,
+        "ingles": "Lifeguard",
+        "portugues": "Salva-vidas",
+        "fraseIngles": "The lifeguard ensures swimmer safety.",
+        "frasePortugues": "O salva-vidas garante segurança dos nadadores.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 160,
+        "ingles": "Personal trainer",
+        "portugues": "Personal trainer",
+        "fraseIngles": "The personal trainer designs exercise programs.",
+        "frasePortugues": "O personal trainer cria programas de exercícios.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 161,
+        "ingles": "Yoga instructor",
+        "portugues": "Instrutor de yoga",
+        "fraseIngles": "The yoga instructor teaches relaxation techniques.",
+        "frasePortugues": "O instrutor de yoga ensina técnicas de relaxamento.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 162,
+        "ingles": "Dance instructor",
+        "portugues": "Instrutor de dança",
+        "fraseIngles": "The dance instructor teaches rhythm and movement.",
+        "frasePortugues": "O instrutor de dança ensina ritmo e movimento.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 163,
+        "ingles": "Driving instructor",
+        "portugues": "Instrutor de direção",
+        "fraseIngles": "The driving instructor teaches safe driving.",
+        "frasePortugues": "O instrutor de direção ensina direção segura.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 164,
+        "ingles": "Flight instructor",
+        "portugues": "Instrutor de voo",
+        "fraseIngles": "The flight instructor trains new pilots.",
+        "frasePortugues": "O instrutor de voo treina novos pilotos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 165,
+        "ingles": "Ski instructor",
+        "portugues": "Instrutor de esqui",
+        "fraseIngles": "The ski instructor teaches slope techniques.",
+        "frasePortugues": "O instrutor de esqui ensina técnicas de pista.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 166,
+        "ingles": "Swimming instructor",
+        "portugues": "Instrutor de natação",
+        "fraseIngles": "The swimming instructor teaches water safety.",
+        "frasePortugues": "O instrutor de natação ensina segurança aquática.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 167,
+        "ingles": "Martial arts instructor",
+        "portugues": "Instrutor de artes marciais",
+        "fraseIngles": "The martial arts instructor teaches self-defense.",
+        "frasePortugues": "O instrutor de artes marciais ensina autodefesa.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 168,
+        "ingles": "Language teacher",
+        "portugues": "Professor de idiomas",
+        "fraseIngles": "The language teacher develops communication skills.",
+        "frasePortugues": "O professor de idiomas desenvolve habilidades de comunicação.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 169,
+        "ingles": "ESL teacher",
+        "portugues": "Professor de inglês como segunda língua",
+        "fraseIngles": "The ESL teacher helps non-native speakers.",
+        "frasePortugues": "O professor de inglês como segunda língua ajuda falantes não nativos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 170,
+        "ingles": "Special education teacher",
+        "portugues": "Professor de educação especial",
+        "fraseIngles": "The special education teacher helps students with disabilities.",
+        "frasePortugues": "O professor de educação especial ajuda estudantes com deficiências.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 171,
+        "ingles": "Substitute teacher",
+        "portugues": "Professor substituto",
+        "fraseIngles": "The substitute teacher fills in temporarily.",
+        "frasePortugues": "O professor substituto substitui temporariamente.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 172,
+        "ingles": "Professor",
+        "portugues": "Professor universitário",
+        "fraseIngles": "The professor conducts advanced research.",
+        "frasePortugues": "O professor universitário conduz pesquisa avançada.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 173,
+        "ingles": "Dean",
+        "portugues": "Reitor",
+        "fraseIngles": "The dean administers university departments.",
+        "frasePortugues": "O reitor administra departamentos universitários.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 174,
+        "ingles": "Chancellor",
+        "portugues": "Chanceler",
+        "fraseIngles": "The chancellor leads the entire university.",
+        "frasePortugues": "O chanceler lidera toda a universidade.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 175,
+        "ingles": "Provost",
+        "portugues": "Vice-reitor",
+        "fraseIngles": "The provost oversees academic affairs.",
+        "frasePortugues": "O vice-reitor supervisiona assuntos acadêmicos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 176,
+        "ingles": "Registrar",
+        "portugues": "Registrador acadêmico",
+        "fraseIngles": "The registrar maintains student records.",
+        "frasePortugues": "O registrador acadêmico mantém registros estudantis.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 177,
+        "ingles": "Admissions officer",
+        "portugues": "Oficial de admissões",
+        "fraseIngles": "The admissions officer evaluates applications.",
+        "frasePortugues": "O oficial de admissões avalia candidaturas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 178,
+        "ingles": "Financial aid officer",
+        "portugues": "Oficial de auxílio financeiro",
+        "fraseIngles": "The financial aid officer helps students afford education.",
+        "frasePortugues": "O oficial de auxílio financeiro ajuda estudantes a custear educação.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 179,
+        "ingles": "Career counselor",
+        "portugues": "Conselheiro de carreira",
+        "fraseIngles": "The career counselor guides professional development.",
+        "frasePortugues": "O conselheiro de carreira orienta desenvolvimento profissional.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 180,
+        "ingles": "Academic advisor",
+        "portugues": "Conselheiro acadêmico",
+        "fraseIngles": "The academic advisor plans course schedules.",
+        "frasePortugues": "O conselheiro acadêmico planeja horários de cursos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 181,
+        "ingles": "Research assistant",
+        "portugues": "Assistente de pesquisa",
+        "fraseIngles": "The research assistant supports scientific studies.",
+        "frasePortugues": "O assistente de pesquisa apoia estudos científicos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 182,
+        "ingles": "Teaching assistant",
+        "portugues": "Assistente de ensino",
+        "fraseIngles": "The teaching assistant helps professors grade papers.",
+        "frasePortugues": "O assistente de ensino ajuda professores a corrigir provas.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 183,
+        "ingles": "Graduate student",
+        "portugues": "Estudante de pós-graduação",
+        "fraseIngles": "The graduate student pursues advanced degrees.",
+        "frasePortugues": "O estudante de pós-graduação busca diplomas avançados.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 184,
+        "ingles": "Intern",
+        "portugues": "Estagiário",
+        "fraseIngles": "The intern gains practical work experience.",
+        "frasePortugues": "O estagiário ganha experiência prática de trabalho.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 185,
+        "ingles": "Apprentice",
+        "portugues": "Aprendiz",
+        "fraseIngles": "The apprentice learns skilled trades.",
+        "frasePortugues": "O aprendiz aprende ofícios especializados.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 186,
+        "ingles": "Trainee",
+        "portugues": "Treinando",
+        "fraseIngles": "The trainee develops job-specific skills.",
+        "frasePortugues": "O treinando desenvolve habilidades específicas do trabalho.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 187,
+        "ingles": "Volunteer",
+        "portugues": "Voluntário",
+        "fraseIngles": "The volunteer helps others without pay.",
+        "frasePortugues": "O voluntário ajuda outros sem remuneração.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 188,
+        "ingles": "Freelancer",
+        "portugues": "Freelancer",
+        "fraseIngles": "The freelancer works independently on projects.",
+        "frasePortugues": "O freelancer trabalha independentemente em projetos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 189,
+        "ingles": "Contractor",
+        "portugues": "Empreiteiro",
+        "fraseIngles": "The contractor completes specific job assignments.",
+        "frasePortugues": "O empreiteiro completa tarefas específicas de trabalho.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 190,
+        "ingles": "Entrepreneur",
+        "portugues": "Empreendedor",
+        "fraseIngles": "The entrepreneur starts new business ventures.",
+        "frasePortugues": "O empreendedor inicia novos empreendimentos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 191,
+        "ingles": "Business owner",
+        "portugues": "Proprietário de negócio",
+        "fraseIngles": "The business owner manages company operations.",
+        "frasePortugues": "O proprietário de negócio gerencia operações da empresa.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 192,
+        "ingles": "CEO",
+        "portugues": "Diretor executivo",
+        "fraseIngles": "The CEO leads the entire corporation.",
+        "frasePortugues": "O diretor executivo lidera toda a corporação.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 193,
+        "ingles": "Executive",
+        "portugues": "Executivo",
+        "fraseIngles": "The executive makes high-level decisions.",
+        "frasePortugues": "O executivo toma decisões de alto nível.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 194,
+        "ingles": "Administrator",
+        "portugues": "Administrador",
+        "fraseIngles": "The administrator coordinates organizational activities.",
+        "frasePortugues": "O administrador coordena atividades organizacionais.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 195,
+        "ingles": "Coordinator",
+        "portugues": "Coordenador",
+        "fraseIngles": "The coordinator organizes team efforts.",
+        "frasePortugues": "O coordenador organiza esforços da equipe.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 196,
+        "ingles": "Specialist",
+        "portugues": "Especialista",
+        "fraseIngles": "The specialist has expert knowledge.",
+        "frasePortugues": "O especialista tem conhecimento especializado.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 197,
+        "ingles": "Professional",
+        "portugues": "Profissional",
+        "fraseIngles": "The professional maintains high standards.",
+        "frasePortugues": "O profissional mantém padrões altos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 198,
+        "ingles": "Expert",
+        "portugues": "Especialista",
+        "fraseIngles": "The expert provides authoritative advice.",
+        "frasePortugues": "O especialista fornece conselhos autoritativos.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 199,
+        "ingles": "Authority",
+        "portugues": "Autoridade",
+        "fraseIngles": "The authority makes final decisions.",
+        "frasePortugues": "A autoridade toma decisões finais.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 200,
+        "ingles": "Leader",
+        "portugues": "Líder",
+        "fraseIngles": "The leader guides team success.",
+        "frasePortugues": "O líder orienta o sucesso da equipe.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 201,
+        "ingles": "Worker",
+        "portugues": "Trabalhador",
+        "fraseIngles": "Every worker contributes to company goals.",
+        "frasePortugues": "Todo trabalhador contribui para objetivos da empresa.",
+        "subtopico": "Profissões",
+        "topico": "Outros assuntos"
+    }
+]

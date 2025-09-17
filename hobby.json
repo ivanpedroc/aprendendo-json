@@ -1,0 +1,1280 @@
+[
+    {
+        "id": 1,
+        "ingles": "Reading",
+        "portugues": "Leitura",
+        "fraseIngles": "I enjoy reading novels in my free time.",
+        "frasePortugues": "Eu gosto de ler romances no meu tempo livre.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 2,
+        "ingles": "Writing",
+        "portugues": "Escrita",
+        "fraseIngles": "Writing in my journal helps me relax.",
+        "frasePortugues": "Escrever no meu diário me ajuda a relaxar.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 3,
+        "ingles": "Painting",
+        "portugues": "Pintura",
+        "fraseIngles": "Painting landscapes is my favorite hobby.",
+        "frasePortugues": "Pintar paisagens é meu hobby favorito.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 4,
+        "ingles": "Drawing",
+        "portugues": "Desenho",
+        "fraseIngles": "Drawing portraits requires a lot of practice.",
+        "frasePortugues": "Desenhar retratos requer muita prática.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 5,
+        "ingles": "Photography",
+        "portugues": "Fotografia",
+        "fraseIngles": "Photography allows me to capture beautiful moments.",
+        "frasePortugues": "A fotografia me permite capturar momentos bonitos.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 6,
+        "ingles": "Singing",
+        "portugues": "Canto",
+        "fraseIngles": "Singing in the choir brings me joy.",
+        "frasePortugues": "Cantar no coral me traz alegria.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 7,
+        "ingles": "Dancing",
+        "portugues": "Dança",
+        "fraseIngles": "Dancing salsa is both fun and exercise.",
+        "frasePortugues": "Dançar salsa é divertido e exercício.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 8,
+        "ingles": "Playing guitar",
+        "portugues": "Tocar violão",
+        "fraseIngles": "Playing guitar helps me express my emotions.",
+        "frasePortugues": "Tocar violão me ajuda a expressar minhas emoções.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 9,
+        "ingles": "Playing piano",
+        "portugues": "Tocar piano",
+        "fraseIngles": "Playing piano requires finger coordination.",
+        "frasePortugues": "Tocar piano requer coordenação dos dedos.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 10,
+        "ingles": "Playing drums",
+        "portugues": "Tocar bateria",
+        "fraseIngles": "Playing drums is a great stress reliever.",
+        "frasePortugues": "Tocar bateria é um ótimo alívio para o estresse.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 11,
+        "ingles": "Cooking",
+        "portugues": "Cozinhar",
+        "fraseIngles": "Cooking new recipes is always exciting.",
+        "frasePortugues": "Cozinhar receitas novas é sempre emocionante.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 12,
+        "ingles": "Baking",
+        "portugues": "Assar",
+        "fraseIngles": "Baking cookies fills the house with sweetness.",
+        "frasePortugues": "Assar biscoitos enche a casa de doçura.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 13,
+        "ingles": "Gardening",
+        "portugues": "Jardinagem",
+        "fraseIngles": "Gardening connects me with nature.",
+        "frasePortugues": "A jardinagem me conecta com a natureza.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 14,
+        "ingles": "Hiking",
+        "portugues": "Caminhada",
+        "fraseIngles": "Hiking in the mountains is refreshing.",
+        "frasePortugues": "Caminhar nas montanhas é refrescante.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 15,
+        "ingles": "Running",
+        "portugues": "Corrida",
+        "fraseIngles": "Running every morning keeps me healthy.",
+        "frasePortugues": "Correr toda manhã me mantém saudável.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 16,
+        "ingles": "Swimming",
+        "portugues": "Natação",
+        "fraseIngles": "Swimming is excellent full-body exercise.",
+        "frasePortugues": "A natação é excelente exercício para todo o corpo.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 17,
+        "ingles": "Cycling",
+        "portugues": "Ciclismo",
+        "fraseIngles": "Cycling through the park is peaceful.",
+        "frasePortugues": "Andar de bicicleta pelo parque é tranquilo.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 18,
+        "ingles": "Fishing",
+        "portugues": "Pesca",
+        "fraseIngles": "Fishing requires patience and skill.",
+        "frasePortugues": "A pesca requer paciência e habilidade.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 19,
+        "ingles": "Hunting",
+        "portugues": "Caça",
+        "fraseIngles": "Hunting teaches respect for nature.",
+        "frasePortugues": "A caça ensina respeito pela natureza.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 20,
+        "ingles": "Camping",
+        "portugues": "Acampamento",
+        "fraseIngles": "Camping under stars creates lasting memories.",
+        "frasePortugues": "Acampar sob as estrelas cria memórias duradouras.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 21,
+        "ingles": "Traveling",
+        "portugues": "Viajar",
+        "fraseIngles": "Traveling opens my mind to new cultures.",
+        "frasePortugues": "Viajar abre minha mente para novas culturas.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 22,
+        "ingles": "Collecting stamps",
+        "portugues": "Colecionar selos",
+        "fraseIngles": "Collecting stamps teaches world geography.",
+        "frasePortugues": "Colecionar selos ensina geografia mundial.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 23,
+        "ingles": "Collecting coins",
+        "portugues": "Colecionar moedas",
+        "fraseIngles": "Collecting coins shows historical changes.",
+        "frasePortugues": "Colecionar moedas mostra mudanças históricas.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 24,
+        "ingles": "Collecting books",
+        "portugues": "Colecionar livros",
+        "fraseIngles": "Collecting rare books is my passion.",
+        "frasePortugues": "Colecionar livros raros é minha paixão.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 25,
+        "ingles": "Playing chess",
+        "portugues": "Jogar xadrez",
+        "fraseIngles": "Playing chess improves strategic thinking.",
+        "frasePortugues": "Jogar xadrez melhora o pensamento estratégico.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 26,
+        "ingles": "Playing cards",
+        "portugues": "Jogar cartas",
+        "fraseIngles": "Playing cards brings family together.",
+        "frasePortugues": "Jogar cartas une a família.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 27,
+        "ingles": "Playing board games",
+        "portugues": "Jogar jogos de tabuleiro",
+        "fraseIngles": "Playing board games creates fun evenings.",
+        "frasePortugues": "Jogar jogos de tabuleiro cria noites divertidas.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 28,
+        "ingles": "Video gaming",
+        "portugues": "Jogar videogame",
+        "fraseIngles": "Video gaming can improve reflexes.",
+        "frasePortugues": "Jogar videogame pode melhorar os reflexos.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 29,
+        "ingles": "Watching movies",
+        "portugues": "Assistir filmes",
+        "fraseIngles": "Watching movies is my weekend relaxation.",
+        "frasePortugues": "Assistir filmes é meu relaxamento de fim de semana.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 30,
+        "ingles": "Watching TV shows",
+        "portugues": "Assistir séries",
+        "fraseIngles": "Watching TV shows helps me unwind.",
+        "frasePortugues": "Assistir séries me ajuda a relaxar.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 31,
+        "ingles": "Listening to music",
+        "portugues": "Ouvir música",
+        "fraseIngles": "Listening to music brightens my mood.",
+        "frasePortugues": "Ouvir música melhora meu humor.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 32,
+        "ingles": "Podcasting",
+        "portugues": "Fazer podcast",
+        "fraseIngles": "Podcasting lets me share my thoughts.",
+        "frasePortugues": "Fazer podcast me permite compartilhar meus pensamentos.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 33,
+        "ingles": "Blogging",
+        "portugues": "Blogar",
+        "fraseIngles": "Blogging helps me connect with others.",
+        "frasePortugues": "Blogar me ajuda a me conectar com outros.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 34,
+        "ingles": "Knitting",
+        "portugues": "Tricô",
+        "fraseIngles": "Knitting scarves keeps my hands busy.",
+        "frasePortugues": "Fazer tricô de cachecóis mantém minhas mãos ocupadas.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 35,
+        "ingles": "Crocheting",
+        "portugues": "Crochê",
+        "fraseIngles": "Crocheting blankets is very satisfying.",
+        "frasePortugues": "Fazer crochê de cobertores é muito satisfatório.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 36,
+        "ingles": "Sewing",
+        "portugues": "Costura",
+        "fraseIngles": "Sewing my own clothes saves money.",
+        "frasePortugues": "Costurar minhas próprias roupas economiza dinheiro.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 37,
+        "ingles": "Embroidery",
+        "portugues": "Bordado",
+        "fraseIngles": "Embroidery requires precision and patience.",
+        "frasePortugues": "O bordado requer precisão e paciência.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 38,
+        "ingles": "Quilting",
+        "portugues": "Fazer colcha de retalhos",
+        "fraseIngles": "Quilting preserves family traditions.",
+        "frasePortugues": "Fazer colcha de retalhos preserva tradições familiares.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 39,
+        "ingles": "Woodworking",
+        "portugues": "Marcenaria",
+        "fraseIngles": "Woodworking creates useful furniture.",
+        "frasePortugues": "A marcenaria cria móveis úteis.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 40,
+        "ingles": "Pottery",
+        "portugues": "Cerâmica",
+        "fraseIngles": "Pottery connects me with ancient crafts.",
+        "frasePortugues": "A cerâmica me conecta com ofícios antigos.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 41,
+        "ingles": "Jewelry making",
+        "portugues": "Fazer joias",
+        "fraseIngles": "Jewelry making requires artistic vision.",
+        "frasePortugues": "Fazer joias requer visão artística.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 42,
+        "ingles": "Soap making",
+        "portugues": "Fazer sabão",
+        "fraseIngles": "Soap making combines chemistry and creativity.",
+        "frasePortugues": "Fazer sabão combina química e criatividade.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 43,
+        "ingles": "Candle making",
+        "portugues": "Fazer velas",
+        "fraseIngles": "Candle making fills rooms with fragrance.",
+        "frasePortugues": "Fazer velas enche quartos com fragrância.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 44,
+        "ingles": "Origami",
+        "portugues": "Origami",
+        "fraseIngles": "Origami teaches precision and patience.",
+        "frasePortugues": "O origami ensina precisão e paciência.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 45,
+        "ingles": "Scrapbooking",
+        "portugues": "Álbum de recortes",
+        "fraseIngles": "Scrapbooking preserves precious memories.",
+        "frasePortugues": "Fazer álbum de recortes preserva memórias preciosas.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 46,
+        "ingles": "Calligraphy",
+        "portugues": "Caligrafia",
+        "fraseIngles": "Calligraphy turns writing into art.",
+        "frasePortugues": "A caligrafia transforma escrita em arte.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 47,
+        "ingles": "Magic tricks",
+        "portugues": "Truques de mágica",
+        "fraseIngles": "Magic tricks entertain friends at parties.",
+        "frasePortugues": "Truques de mágica entretêm amigos em festas.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 48,
+        "ingles": "Juggling",
+        "portugues": "Malabarismo",
+        "fraseIngles": "Juggling improves hand-eye coordination.",
+        "frasePortugues": "O malabarismo melhora coordenação olho-mão.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 49,
+        "ingles": "Meditation",
+        "portugues": "Meditação",
+        "fraseIngles": "Meditation brings inner peace.",
+        "frasePortugues": "A meditação traz paz interior.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 50,
+        "ingles": "Yoga",
+        "portugues": "Yoga",
+        "fraseIngles": "Yoga combines flexibility and mindfulness.",
+        "frasePortugues": "O yoga combina flexibilidade e atenção plena.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 51,
+        "ingles": "Rock climbing",
+        "portugues": "Escalada",
+        "fraseIngles": "Rock climbing tests physical limits.",
+        "frasePortugues": "A escalada testa limites físicos.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 52,
+        "ingles": "Mountain biking",
+        "portugues": "Mountain bike",
+        "fraseIngles": "Mountain biking provides adrenaline rushes.",
+        "frasePortugues": "Andar de mountain bike proporciona descargas de adrenalina.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 53,
+        "ingles": "Skateboarding",
+        "portugues": "Skate",
+        "fraseIngles": "Skateboarding requires balance and courage.",
+        "frasePortugues": "Andar de skate requer equilíbrio e coragem.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 54,
+        "ingles": "Surfing",
+        "portugues": "Surfe",
+        "fraseIngles": "Surfing connects riders with ocean power.",
+        "frasePortugues": "O surfe conecta os praticantes com o poder do oceano.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 55,
+        "ingles": "Skiing",
+        "portugues": "Esqui",
+        "fraseIngles": "Skiing down slopes is thrilling.",
+        "frasePortugues": "Esquiar descendo pistas é emocionante.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 56,
+        "ingles": "Snowboarding",
+        "portugues": "Snowboard",
+        "fraseIngles": "Snowboarding combines style and skill.",
+        "frasePortugues": "Andar de snowboard combina estilo e habilidade.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 57,
+        "ingles": "Ice skating",
+        "portugues": "Patinação no gelo",
+        "fraseIngles": "Ice skating glides gracefully on frozen surfaces.",
+        "frasePortugues": "A patinação no gelo desliza graciosamente em superfícies congeladas.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 58,
+        "ingles": "Roller skating",
+        "portugues": "Patinação",
+        "fraseIngles": "Roller skating brings back childhood memories.",
+        "frasePortugues": "A patinação traz de volta memórias da infância.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 59,
+        "ingles": "Horseback riding",
+        "portugues": "Equitação",
+        "fraseIngles": "Horseback riding builds trust with animals.",
+        "frasePortugues": "A equitação constrói confiança com animais.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 60,
+        "ingles": "Archery",
+        "portugues": "Tiro com arco",
+        "fraseIngles": "Archery requires steady hands and focus.",
+        "frasePortugues": "O tiro com arco requer mãos firmes e foco.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 61,
+        "ingles": "Bowling",
+        "portugues": "Boliche",
+        "fraseIngles": "Bowling is perfect for group entertainment.",
+        "frasePortugues": "O boliche é perfeito para entretenimento em grupo.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 62,
+        "ingles": "Pool",
+        "portugues": "Sinuca",
+        "fraseIngles": "Pool games require precision and strategy.",
+        "frasePortugues": "Jogos de sinuca requerem precisão e estratégia.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 63,
+        "ingles": "Darts",
+        "portugues": "Dardos",
+        "fraseIngles": "Darts combines accuracy with friendly competition.",
+        "frasePortugues": "Os dardos combinam precisão com competição amigável.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 64,
+        "ingles": "Tennis",
+        "portugues": "Tênis",
+        "fraseIngles": "Tennis provides excellent cardiovascular exercise.",
+        "frasePortugues": "O tênis oferece excelente exercício cardiovascular.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 65,
+        "ingles": "Golf",
+        "portugues": "Golfe",
+        "fraseIngles": "Golf teaches patience and precision.",
+        "frasePortugues": "O golfe ensina paciência e precisão.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 66,
+        "ingles": "Basketball",
+        "portugues": "Basquete",
+        "fraseIngles": "Basketball builds teamwork and fitness.",
+        "frasePortugues": "O basquete desenvolve trabalho em equipe e condicionamento.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 67,
+        "ingles": "Soccer",
+        "portugues": "Futebol",
+        "fraseIngles": "Soccer is the world's most popular sport.",
+        "frasePortugues": "O futebol é o esporte mais popular do mundo.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 68,
+        "ingles": "Baseball",
+        "portugues": "Beisebol",
+        "fraseIngles": "Baseball requires strategic thinking.",
+        "frasePortugues": "O beisebol requer pensamento estratégico.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 69,
+        "ingles": "Volleyball",
+        "portugues": "Vôlei",
+        "fraseIngles": "Volleyball encourages team cooperation.",
+        "frasePortugues": "O vôlei incentiva cooperação em equipe.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 70,
+        "ingles": "Badminton",
+        "portugues": "Badminton",
+        "fraseIngles": "Badminton improves reflexes and agility.",
+        "frasePortugues": "O badminton melhora reflexos e agilidade.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 71,
+        "ingles": "Table tennis",
+        "portugues": "Tênis de mesa",
+        "fraseIngles": "Table tennis sharpens quick thinking.",
+        "frasePortugues": "O tênis de mesa aprimora pensamento rápido.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 72,
+        "ingles": "Martial arts",
+        "portugues": "Artes marciais",
+        "fraseIngles": "Martial arts teach discipline and respect.",
+        "frasePortugues": "As artes marciais ensinam disciplina e respeito.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 73,
+        "ingles": "Boxing",
+        "portugues": "Boxe",
+        "fraseIngles": "Boxing builds strength and confidence.",
+        "frasePortugues": "O boxe desenvolve força e confiança.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 74,
+        "ingles": "Wrestling",
+        "portugues": "Luta livre",
+        "fraseIngles": "Wrestling develops physical endurance.",
+        "frasePortugues": "A luta livre desenvolve resistência física.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 75,
+        "ingles": "Weight lifting",
+        "portugues": "Musculação",
+        "fraseIngles": "Weight lifting builds muscle strength.",
+        "frasePortugues": "A musculação desenvolve força muscular.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 76,
+        "ingles": "Bodybuilding",
+        "portugues": "Fisiculturismo",
+        "fraseIngles": "Bodybuilding sculpts the human physique.",
+        "frasePortugues": "O fisiculturismo esculpe o físico humano.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 77,
+        "ingles": "Aerobics",
+        "portugues": "Aeróbica",
+        "fraseIngles": "Aerobics improves cardiovascular health.",
+        "frasePortugues": "A aeróbica melhora a saúde cardiovascular.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 78,
+        "ingles": "Pilates",
+        "portugues": "Pilates",
+        "fraseIngles": "Pilates strengthens core muscles.",
+        "frasePortugues": "O pilates fortalece músculos do core.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 79,
+        "ingles": "Zumba",
+        "portugues": "Zumba",
+        "fraseIngles": "Zumba makes exercise fun and energetic.",
+        "frasePortugues": "A zumba torna o exercício divertido e energético.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 80,
+        "ingles": "Crossfit",
+        "portugues": "Crossfit",
+        "fraseIngles": "Crossfit combines multiple fitness elements.",
+        "frasePortugues": "O crossfit combina múltiplos elementos de condicionamento.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 81,
+        "ingles": "Astronomy",
+        "portugues": "Astronomia",
+        "fraseIngles": "Astronomy explores the mysteries of space.",
+        "frasePortugues": "A astronomia explora os mistérios do espaço.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 82,
+        "ingles": "Bird watching",
+        "portugues": "Observação de pássaros",
+        "fraseIngles": "Bird watching connects observers with nature.",
+        "frasePortugues": "A observação de pássaros conecta observadores com a natureza.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 83,
+        "ingles": "Butterfly collecting",
+        "portugues": "Colecionar borboletas",
+        "fraseIngles": "Butterfly collecting teaches species identification.",
+        "frasePortugues": "Colecionar borboletas ensina identificação de espécies.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 84,
+        "ingles": "Fossil hunting",
+        "portugues": "Caça a fósseis",
+        "fraseIngles": "Fossil hunting reveals prehistoric life.",
+        "frasePortugues": "A caça a fósseis revela vida pré-histórica.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 85,
+        "ingles": "Metal detecting",
+        "portugues": "Detecção de metais",
+        "fraseIngles": "Metal detecting uncovers hidden treasures.",
+        "frasePortugues": "A detecção de metais descobre tesouros escondidos.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 86,
+        "ingles": "Geocaching",
+        "portugues": "Geocaching",
+        "fraseIngles": "Geocaching combines technology with treasure hunting.",
+        "frasePortugues": "O geocaching combina tecnologia com caça ao tesouro.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 87,
+        "ingles": "Volunteering",
+        "portugues": "Voluntariado",
+        "fraseIngles": "Volunteering helps community development.",
+        "frasePortugues": "O voluntariado ajuda no desenvolvimento comunitário.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 88,
+        "ingles": "Mentoring",
+        "portugues": "Mentoria",
+        "fraseIngles": "Mentoring guides younger generations.",
+        "frasePortugues": "A mentoria orienta gerações mais jovens.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 89,
+        "ingles": "Teaching",
+        "portugues": "Ensinar",
+        "fraseIngles": "Teaching shares knowledge with others.",
+        "frasePortugues": "Ensinar compartilha conhecimento com outros.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 90,
+        "ingles": "Tutoring",
+        "portugues": "Dar aulas particulares",
+        "fraseIngles": "Tutoring provides personalized instruction.",
+        "frasePortugues": "Dar aulas particulares oferece instrução personalizada.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 91,
+        "ingles": "Language learning",
+        "portugues": "Aprender idiomas",
+        "fraseIngles": "Language learning opens cultural doors.",
+        "frasePortugues": "Aprender idiomas abre portas culturais.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 92,
+        "ingles": "Debating",
+        "portugues": "Debater",
+        "fraseIngles": "Debating sharpens argumentative skills.",
+        "frasePortugues": "Debater aprimora habilidades argumentativas.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 93,
+        "ingles": "Public speaking",
+        "portugues": "Falar em público",
+        "fraseIngles": "Public speaking builds confidence.",
+        "frasePortugues": "Falar em público desenvolve confiança.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 94,
+        "ingles": "Stand-up comedy",
+        "portugues": "Stand-up comedy",
+        "fraseIngles": "Stand-up comedy entertains through humor.",
+        "frasePortugues": "Stand-up comedy entretém através do humor.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 95,
+        "ingles": "Storytelling",
+        "portugues": "Contar histórias",
+        "fraseIngles": "Storytelling preserves cultural traditions.",
+        "frasePortugues": "Contar histórias preserva tradições culturais.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 96,
+        "ingles": "Improv theater",
+        "portugues": "Teatro de improviso",
+        "fraseIngles": "Improv theater develops quick thinking.",
+        "frasePortugues": "Teatro de improviso desenvolve pensamento rápido.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 97,
+        "ingles": "Community theater",
+        "portugues": "Teatro comunitário",
+        "fraseIngles": "Community theater brings neighbors together.",
+        "frasePortugues": "Teatro comunitário une vizinhos.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 98,
+        "ingles": "Choir singing",
+        "portugues": "Cantar no coral",
+        "fraseIngles": "Choir singing creates beautiful harmonies.",
+        "frasePortugues": "Cantar no coral cria belas harmonias.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 99,
+        "ingles": "Band playing",
+        "portugues": "Tocar em banda",
+        "fraseIngles": "Band playing teaches musical cooperation.",
+        "frasePortugues": "Tocar em banda ensina cooperação musical.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 100,
+        "ingles": "Orchestra participation",
+        "portugues": "Participar de orquestra",
+        "fraseIngles": "Orchestra participation requires disciplined practice.",
+        "frasePortugues": "Participar de orquestra requer prática disciplinada.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 101,
+        "ingles": "DJ mixing",
+        "portugues": "DJ",
+        "fraseIngles": "DJ mixing creates unique musical experiences.",
+        "frasePortugues": "Ser DJ cria experiências musicais únicas.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 102,
+        "ingles": "Karaoke",
+        "portugues": "Karaokê",
+        "fraseIngles": "Karaoke lets everyone be a star.",
+        "frasePortugues": "O karaokê permite que todos sejam estrelas.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 103,
+        "ingles": "Wine tasting",
+        "portugues": "Degustação de vinhos",
+        "fraseIngles": "Wine tasting develops sophisticated palates.",
+        "frasePortugues": "A degustação de vinhos desenvolve paladares sofisticados.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 104,
+        "ingles": "Beer brewing",
+        "portugues": "Fabricar cerveja",
+        "fraseIngles": "Beer brewing combines science and creativity.",
+        "frasePortugues": "Fabricar cerveja combina ciência e criatividade.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 105,
+        "ingles": "Coffee roasting",
+        "portugues": "Torrar café",
+        "fraseIngles": "Coffee roasting creates perfect morning beverages.",
+        "frasePortugues": "Torrar café cria bebidas matinais perfeitas.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 106,
+        "ingles": "Tea ceremony",
+        "portugues": "Cerimônia do chá",
+        "fraseIngles": "Tea ceremony promotes mindful drinking.",
+        "frasePortugues": "A cerimônia do chá promove beber consciente.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 107,
+        "ingles": "Mushroom foraging",
+        "portugues": "Coletar cogumelos",
+        "fraseIngles": "Mushroom foraging requires careful identification.",
+        "frasePortugues": "Coletar cogumelos requer identificação cuidadosa.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 108,
+        "ingles": "Beekeeping",
+        "portugues": "Apicultura",
+        "fraseIngles": "Beekeeping supports environmental health.",
+        "frasePortugues": "A apicultura apoia a saúde ambiental.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 109,
+        "ingles": "Aquarium keeping",
+        "portugues": "Manter aquário",
+        "fraseIngles": "Aquarium keeping creates underwater worlds.",
+        "frasePortugues": "Manter aquário cria mundos subaquáticos.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 110,
+        "ingles": "Pet training",
+        "portugues": "Treinar animais",
+        "fraseIngles": "Pet training builds human-animal bonds.",
+        "frasePortugues": "Treinar animais constrói vínculos humano-animal.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 111,
+        "ingles": "Dog showing",
+        "portugues": "Exposição de cães",
+        "fraseIngles": "Dog showing celebrates canine excellence.",
+        "frasePortugues": "Exposição de cães celebra excelência canina.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 112,
+        "ingles": "Cat breeding",
+        "portugues": "Criação de gatos",
+        "fraseIngles": "Cat breeding preserves feline genetics.",
+        "frasePortugues": "Criação de gatos preserva genética felina.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 113,
+        "ingles": "Model building",
+        "portugues": "Montar modelos",
+        "fraseIngles": "Model building requires patience and precision.",
+        "frasePortugues": "Montar modelos requer paciência e precisão.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 114,
+        "ingles": "Remote control flying",
+        "portugues": "Aeromodelismo",
+        "fraseIngles": "Remote control flying teaches piloting skills.",
+        "frasePortugues": "Aeromodelismo ensina habilidades de pilotagem.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 115,
+        "ingles": "Drone racing",
+        "portugues": "Corrida de drones",
+        "fraseIngles": "Drone racing combines technology with speed.",
+        "frasePortugues": "Corrida de drones combina tecnologia com velocidade.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 116,
+        "ingles": "Ham radio",
+        "portugues": "Radioamadorismo",
+        "fraseIngles": "Ham radio connects operators worldwide.",
+        "frasePortugues": "Radioamadorismo conecta operadores mundialmente.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 117,
+        "ingles": "Electronics repair",
+        "portugues": "Consertar eletrônicos",
+        "fraseIngles": "Electronics repair saves money and environment.",
+        "frasePortugues": "Consertar eletrônicos economiza dinheiro e meio ambiente.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 118,
+        "ingles": "Computer programming",
+        "portugues": "Programar computadores",
+        "fraseIngles": "Computer programming creates digital solutions.",
+        "frasePortugues": "Programar computadores cria soluções digitais.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 119,
+        "ingles": "Web design",
+        "portugues": "Design web",
+        "fraseIngles": "Web design combines art with technology.",
+        "frasePortugues": "Design web combina arte com tecnologia.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 120,
+        "ingles": "Graphic design",
+        "portugues": "Design gráfico",
+        "fraseIngles": "Graphic design communicates through visuals.",
+        "frasePortugues": "Design gráfico comunica através de visuais.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 121,
+        "ingles": "3D printing",
+        "portugues": "Impressão 3D",
+        "fraseIngles": "3D printing turns digital designs into objects.",
+        "frasePortugues": "Impressão 3D transforma designs digitais em objetos.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 122,
+        "ingles": "Robotics",
+        "portugues": "Robótica",
+        "fraseIngles": "Robotics builds mechanical helpers.",
+        "frasePortugues": "A robótica constrói ajudantes mecânicos.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 123,
+        "ingles": "Amateur radio",
+        "portugues": "Rádio amador",
+        "fraseIngles": "Amateur radio provides emergency communication.",
+        "frasePortugues": "Rádio amador fornece comunicação de emergência.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 124,
+        "ingles": "Shortwave listening",
+        "portugues": "Escuta de ondas curtas",
+        "fraseIngles": "Shortwave listening connects to distant broadcasts.",
+        "frasePortugues": "Escuta de ondas curtas conecta a transmissões distantes.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 125,
+        "ingles": "Genealogy research",
+        "portugues": "Pesquisa genealógica",
+        "fraseIngles": "Genealogy research traces family histories.",
+        "frasePortugues": "Pesquisa genealógica rastreia histórias familiares.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 126,
+        "ingles": "Historical reenactment",
+        "portugues": "Reconstituição histórica",
+        "fraseIngles": "Historical reenactment brings past events alive.",
+        "frasePortugues": "Reconstituição histórica traz eventos passados à vida.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 127,
+        "ingles": "Antique collecting",
+        "portugues": "Colecionar antiguidades",
+        "fraseIngles": "Antique collecting preserves historical artifacts.",
+        "frasePortugues": "Colecionar antiguidades preserva artefatos históricos.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 128,
+        "ingles": "Comic book collecting",
+        "portugues": "Colecionar histórias em quadrinhos",
+        "fraseIngles": "Comic book collecting celebrates graphic storytelling.",
+        "frasePortugues": "Colecionar histórias em quadrinhos celebra narrativa gráfica.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 129,
+        "ingles": "Action figure collecting",
+        "portugues": "Colecionar action figures",
+        "fraseIngles": "Action figure collecting preserves childhood memories.",
+        "frasePortugues": "Colecionar action figures preserva memórias da infância.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 130,
+        "ingles": "Vintage car restoration",
+        "portugues": "Restaurar carros antigos",
+        "fraseIngles": "Vintage car restoration revives automotive history.",
+        "frasePortugues": "Restaurar carros antigos revive história automotiva.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 131,
+        "ingles": "Motorcycle riding",
+        "portugues": "Andar de motocicleta",
+        "fraseIngles": "Motorcycle riding provides freedom and adventure.",
+        "frasePortugues": "Andar de motocicleta oferece liberdade e aventura.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 132,
+        "ingles": "Boat sailing",
+        "portugues": "Velejar",
+        "fraseIngles": "Boat sailing harnesses wind power.",
+        "frasePortugues": "Velejar aproveita o poder do vento.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 133,
+        "ingles": "Kayaking",
+        "portugues": "Caiaque",
+        "fraseIngles": "Kayaking explores waterways peacefully.",
+        "frasePortugues": "Andar de caiaque explora vias navegáveis pacificamente.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 134,
+        "ingles": "Canoeing",
+        "portugues": "Canoa",
+        "fraseIngles": "Canoeing provides quiet water transportation.",
+        "frasePortugues": "Andar de canoa oferece transporte aquático silencioso.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 135,
+        "ingles": "Snorkeling",
+        "portugues": "Mergulho com snorkel",
+        "fraseIngles": "Snorkeling reveals underwater beauty.",
+        "frasePortugues": "Mergulho com snorkel revela beleza subaquática.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 136,
+        "ingles": "Scuba diving",
+        "portugues": "Mergulho autônomo",
+        "fraseIngles": "Scuba diving explores ocean depths.",
+        "frasePortugues": "Mergulho autônomo explora profundidades oceânicas.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 137,
+        "ingles": "Water skiing",
+        "portugues": "Esqui aquático",
+        "fraseIngles": "Water skiing combines speed with balance.",
+        "frasePortugues": "Esqui aquático combina velocidade com equilíbrio.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 138,
+        "ingles": "Jet skiing",
+        "portugues": "Jet ski",
+        "fraseIngles": "Jet skiing provides high-speed water thrills.",
+        "frasePortugues": "Andar de jet ski oferece emoções aquáticas de alta velocidade.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 139,
+        "ingles": "Parasailing",
+        "portugues": "Parasailing",
+        "fraseIngles": "Parasailing offers aerial water views.",
+        "frasePortugues": "Parasailing oferece vistas aéreas da água.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 140,
+        "ingles": "Windsurfing",
+        "portugues": "Windsurf",
+        "fraseIngles": "Windsurfing combines sailing with surfing.",
+        "frasePortugues": "Windsurf combina vela com surfe.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 141,
+        "ingles": "Kite surfing",
+        "portugues": "Kitesurf",
+        "fraseIngles": "Kite surfing uses wind power for excitement.",
+        "frasePortugues": "Kitesurf usa poder do vento para emoção.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    },
+    {
+        "id": 142,
+        "ingles": "Stand-up paddleboarding",
+        "portugues": "Stand-up paddle",
+        "fraseIngles": "Stand-up paddleboarding provides core strengthening.",
+        "frasePortugues": "Stand-up paddle oferece fortalecimento do core.",
+        "subtopico": "Hobbies",
+        "topico": "Outros assuntos"
+    }
+]
