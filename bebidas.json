@@ -1,0 +1,1928 @@
+[
+    {
+        "id": 1,
+        "ingles": "Water",
+        "portugues": "Água",
+        "fraseIngles": "Drink eight glasses of water daily.",
+        "frasePortugues": "Beba oito copos de água diariamente.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 2,
+        "ingles": "Tap water",
+        "portugues": "Água da torneira",
+        "fraseIngles": "Tap water in this city is safe to drink.",
+        "frasePortugues": "Água da torneira nesta cidade é segura para beber.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 3,
+        "ingles": "Bottled water",
+        "portugues": "Água engarrafada",
+        "fraseIngles": "Buy bottled water for the hiking trip.",
+        "frasePortugues": "Compre água engarrafada para a trilha.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 4,
+        "ingles": "Sparkling water",
+        "portugues": "Água com gás",
+        "fraseIngles": "Sparkling water has bubbles and fizz.",
+        "frasePortugues": "Água com gás tem bolhas e espuma.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 5,
+        "ingles": "Still water",
+        "portugues": "Água sem gás",
+        "fraseIngles": "I prefer still water over sparkling water.",
+        "frasePortugues": "Eu prefiro água sem gás à água com gás.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 6,
+        "ingles": "Mineral water",
+        "portugues": "Água mineral",
+        "fraseIngles": "Natural mineral water contains healthy minerals.",
+        "frasePortugues": "Água mineral natural contém minerais saudáveis.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 7,
+        "ingles": "Spring water",
+        "portugues": "Água de fonte",
+        "fraseIngles": "Mountain spring water tastes pure and fresh.",
+        "frasePortugues": "Água de fonte da montanha tem gosto puro e fresco.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 8,
+        "ingles": "Distilled water",
+        "portugues": "Água destilada",
+        "fraseIngles": "Distilled water is purified through boiling.",
+        "frasePortugues": "Água destilada é purificada através de fervura.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 9,
+        "ingles": "Filtered water",
+        "portugues": "Água filtrada",
+        "fraseIngles": "Use filtered water to make better coffee.",
+        "frasePortugues": "Use água filtrada para fazer café melhor.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 10,
+        "ingles": "Ice water",
+        "portugues": "Água gelada",
+        "fraseIngles": "Ice water is refreshing on hot days.",
+        "frasePortugues": "Água gelada é refrescante em dias quentes.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 11,
+        "ingles": "Hot water",
+        "portugues": "Água quente",
+        "fraseIngles": "Hot water with lemon aids digestion.",
+        "frasePortugues": "Água quente com limão ajuda a digestão.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 12,
+        "ingles": "Lemon water",
+        "portugues": "Água com limão",
+        "fraseIngles": "Start your day with warm lemon water.",
+        "frasePortugues": "Comece seu dia com água morna com limão.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 13,
+        "ingles": "Cucumber water",
+        "portugues": "Água com pepino",
+        "fraseIngles": "Cucumber water is refreshing and hydrating.",
+        "frasePortugues": "Água com pepino é refrescante e hidratante.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 14,
+        "ingles": "Flavored water",
+        "portugues": "Água saborizada",
+        "fraseIngles": "Flavored water has fruit essence but no calories.",
+        "frasePortugues": "Água saborizada tem essência de fruta mas sem calorias.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 15,
+        "ingles": "Coconut water",
+        "portugues": "Água de coco",
+        "fraseIngles": "Fresh coconut water is naturally electrolyte-rich.",
+        "frasePortugues": "Água de coco fresca é naturalmente rica em eletrólitos.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 16,
+        "ingles": "Coffee",
+        "portugues": "Café",
+        "fraseIngles": "Fresh-ground coffee smells wonderful in the morning.",
+        "frasePortugues": "Café moído na hora tem cheiro maravilhoso de manhã.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 17,
+        "ingles": "Black coffee",
+        "portugues": "Café puro",
+        "fraseIngles": "I drink my coffee black without sugar.",
+        "frasePortugues": "Eu bebo meu café puro sem açúcar.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 18,
+        "ingles": "Coffee with cream",
+        "portugues": "Café com creme",
+        "fraseIngles": "Coffee with cream is smooth and rich.",
+        "frasePortugues": "Café com creme é suave e encorpado.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 19,
+        "ingles": "Coffee with milk",
+        "portugues": "Café com leite",
+        "fraseIngles": "Brazilian café com leite is half coffee, half milk.",
+        "frasePortugues": "Café com leite brasileiro é metade café, metade leite.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 20,
+        "ingles": "Espresso",
+        "portugues": "Expresso",
+        "fraseIngles": "Italian espresso is strong and concentrated.",
+        "frasePortugues": "Expresso italiano é forte e concentrado.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 21,
+        "ingles": "Cappuccino",
+        "portugues": "Cappuccino",
+        "fraseIngles": "Cappuccino has espresso topped with foamed milk.",
+        "frasePortugues": "Cappuccino tem expresso coberto com leite espumado.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 22,
+        "ingles": "Latte",
+        "portugues": "Latte",
+        "fraseIngles": "A latte has more milk than a cappuccino.",
+        "frasePortugues": "Um latte tem mais leite que um cappuccino.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 23,
+        "ingles": "Macchiato",
+        "portugues": "Macchiato",
+        "fraseIngles": "Macchiato is espresso marked with a dollop of foam.",
+        "frasePortugues": "Macchiato é expresso marcado com uma porção de espuma.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 24,
+        "ingles": "Americano",
+        "portugues": "Americano",
+        "fraseIngles": "An Americano is espresso diluted with hot water.",
+        "frasePortugues": "Um Americano é expresso diluído com água quente.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 25,
+        "ingles": "Mocha",
+        "portugues": "Mocha",
+        "fraseIngles": "Mocha combines coffee with chocolate flavor.",
+        "frasePortugues": "Mocha combina café com sabor de chocolate.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 26,
+        "ingles": "Frappuccino",
+        "portugues": "Frappuccino",
+        "fraseIngles": "Iced frappuccino is a blended coffee drink.",
+        "frasePortugues": "Frappuccino gelado é uma bebida de café batida.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 27,
+        "ingles": "Cold brew",
+        "portugues": "Café gelado",
+        "fraseIngles": "Cold brew coffee is smooth and less acidic.",
+        "frasePortugues": "Café gelado é suave e menos ácido.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 28,
+        "ingles": "Iced coffee",
+        "portugues": "Café com gelo",
+        "fraseIngles": "Iced coffee is regular coffee served over ice.",
+        "frasePortugues": "Café com gelo é café comum servido sobre gelo.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 29,
+        "ingles": "Instant coffee",
+        "portugues": "Café instantâneo",
+        "fraseIngles": "Instant coffee dissolves quickly in hot water.",
+        "frasePortugues": "Café instantâneo se dissolve rapidamente em água quente.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 30,
+        "ingles": "Decaf coffee",
+        "portugues": "Café descafeinado",
+        "fraseIngles": "Decaf coffee has most caffeine removed.",
+        "frasePortugues": "Café descafeinado tem a maior parte da cafeína removida.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 31,
+        "ingles": "Turkish coffee",
+        "portugues": "Café turco",
+        "fraseIngles": "Turkish coffee is thick and served in small cups.",
+        "frasePortugues": "Café turco é grosso e servido em xícaras pequenas.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 32,
+        "ingles": "French press",
+        "portugues": "Café de prensa francesa",
+        "fraseIngles": "French press coffee steeps for four minutes.",
+        "frasePortugues": "Café de prensa francesa fica em infusão por quatro minutos.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 33,
+        "ingles": "Tea",
+        "portugues": "Chá",
+        "fraseIngles": "Green tea is rich in antioxidants.",
+        "frasePortugues": "Chá verde é rico em antioxidantes.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 34,
+        "ingles": "Green tea",
+        "portugues": "Chá verde",
+        "fraseIngles": "Japanese green tea has a delicate flavor.",
+        "frasePortugues": "Chá verde japonês tem sabor delicado.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 35,
+        "ingles": "Black tea",
+        "portugues": "Chá preto",
+        "fraseIngles": "English breakfast is a blend of black teas.",
+        "frasePortugues": "English breakfast é uma mistura de chás pretos.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 36,
+        "ingles": "White tea",
+        "portugues": "Chá branco",
+        "fraseIngles": "White tea is the most delicate tea variety.",
+        "frasePortugues": "Chá branco é a variedade de chá mais delicada.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 37,
+        "ingles": "Oolong tea",
+        "portugues": "Chá oolong",
+        "fraseIngles": "Oolong tea is partially fermented.",
+        "frasePortugues": "Chá oolong é parcialmente fermentado.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 38,
+        "ingles": "Herbal tea",
+        "portugues": "Chá de ervas",
+        "fraseIngles": "Chamomile herbal tea helps you relax.",
+        "frasePortugues": "Chá de ervas de camomila ajuda a relaxar.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 39,
+        "ingles": "Chamomile tea",
+        "portugues": "Chá de camomila",
+        "fraseIngles": "Chamomile tea is caffeine-free and soothing.",
+        "frasePortugues": "Chá de camomila é sem cafeína e calmante.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 40,
+        "ingles": "Peppermint tea",
+        "portugues": "Chá de hortelã",
+        "fraseIngles": "Peppermint tea aids digestion after meals.",
+        "frasePortugues": "Chá de hortelã ajuda a digestão após as refeições.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 41,
+        "ingles": "Earl Grey",
+        "portugues": "Earl Grey",
+        "fraseIngles": "Earl Grey tea is flavored with bergamot oil.",
+        "frasePortugues": "Chá Earl Grey é aromatizado com óleo de bergamota.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 42,
+        "ingles": "English breakfast",
+        "portugues": "English breakfast",
+        "fraseIngles": "English breakfast tea is strong and malty.",
+        "frasePortugues": "Chá English breakfast é forte e maltado.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 43,
+        "ingles": "Ceylon tea",
+        "portugues": "Chá do Ceilão",
+        "fraseIngles": "Ceylon tea comes from Sri Lanka.",
+        "frasePortugues": "Chá do Ceilão vem do Sri Lanka.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 44,
+        "ingles": "Darjeeling tea",
+        "portugues": "Chá Darjeeling",
+        "fraseIngles": "Darjeeling tea has a muscatel flavor.",
+        "frasePortugues": "Chá Darjeeling tem sabor moscatel.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 45,
+        "ingles": "Jasmine tea",
+        "portugues": "Chá de jasmim",
+        "fraseIngles": "Jasmine tea is scented with jasmine flowers.",
+        "frasePortugues": "Chá de jasmim é perfumado com flores de jasmim.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 46,
+        "ingles": "Matcha",
+        "portugues": "Matcha",
+        "fraseIngles": "Matcha is powdered green tea from Japan.",
+        "frasePortugues": "Matcha é chá verde em pó do Japão.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 47,
+        "ingles": "Chai",
+        "portugues": "Chai",
+        "fraseIngles": "Indian chai is spiced tea with milk.",
+        "frasePortugues": "Chai indiano é chá com especiarias e leite.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 48,
+        "ingles": "Bubble tea",
+        "portugues": "Chá com bolinhas",
+        "fraseIngles": "Taiwanese bubble tea has chewy tapioca pearls.",
+        "frasePortugues": "Chá com bolinhas taiwanês tem pérolas de tapioca mastigáveis.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 49,
+        "ingles": "Iced tea",
+        "portugues": "Chá gelado",
+        "fraseIngles": "Sweet iced tea is popular in the American South.",
+        "frasePortugues": "Chá gelado doce é popular no sul americano.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 50,
+        "ingles": "Hot tea",
+        "portugues": "Chá quente",
+        "fraseIngles": "Hot tea warms you up on cold days.",
+        "frasePortugues": "Chá quente aquece você em dias frios.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 51,
+        "ingles": "Tea with honey",
+        "portugues": "Chá com mel",
+        "fraseIngles": "Tea with honey soothes a sore throat.",
+        "frasePortugues": "Chá com mel acalma dor de garganta.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 52,
+        "ingles": "Tea with lemon",
+        "portugues": "Chá com limão",
+        "fraseIngles": "Tea with lemon provides vitamin C.",
+        "frasePortugues": "Chá com limão fornece vitamina C.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 53,
+        "ingles": "Milk",
+        "portugues": "Leite",
+        "fraseIngles": "Cold milk is perfect with cookies.",
+        "frasePortugues": "Leite gelado é perfeito com biscoitos.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 54,
+        "ingles": "Whole milk",
+        "portugues": "Leite integral",
+        "fraseIngles": "Whole milk contains 3.25% fat.",
+        "frasePortugues": "Leite integral contém 3,25% de gordura.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 55,
+        "ingles": "Skim milk",
+        "portugues": "Leite desnatado",
+        "fraseIngles": "Skim milk has no fat content.",
+        "frasePortugues": "Leite desnatado não tem gordura.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 56,
+        "ingles": "Low-fat milk",
+        "portugues": "Leite semidesnatado",
+        "fraseIngles": "Low-fat milk has reduced fat content.",
+        "frasePortugues": "Leite semidesnatado tem teor de gordura reduzido.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 57,
+        "ingles": "Chocolate milk",
+        "portugues": "Leite com chocolate",
+        "fraseIngles": "Kids love cold chocolate milk.",
+        "frasePortugues": "Crianças adoram leite com chocolate gelado.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 58,
+        "ingles": "Strawberry milk",
+        "portugues": "Leite com morango",
+        "fraseIngles": "Pink strawberry milk is sweet and creamy.",
+        "frasePortugues": "Leite com morango rosa é doce e cremoso.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 59,
+        "ingles": "Almond milk",
+        "portugues": "Leite de amêndoa",
+        "fraseIngles": "Almond milk is a dairy-free alternative.",
+        "frasePortugues": "Leite de amêndoa é uma alternativa sem laticínios.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 60,
+        "ingles": "Soy milk",
+        "portugues": "Leite de soja",
+        "fraseIngles": "Soy milk is made from soybeans.",
+        "frasePortugues": "Leite de soja é feito de grãos de soja.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 61,
+        "ingles": "Oat milk",
+        "portugues": "Leite de aveia",
+        "fraseIngles": "Oat milk has a creamy texture.",
+        "frasePortugues": "Leite de aveia tem textura cremosa.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 62,
+        "ingles": "Rice milk",
+        "portugues": "Leite de arroz",
+        "fraseIngles": "Rice milk is thin and naturally sweet.",
+        "frasePortugues": "Leite de arroz é fino e naturalmente doce.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 63,
+        "ingles": "Coconut milk",
+        "portugues": "Leite de coco",
+        "fraseIngles": "Coconut milk is rich and tropical.",
+        "frasePortugues": "Leite de coco é encorpado e tropical.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 64,
+        "ingles": "Buttermilk",
+        "portugues": "Leitelho",
+        "fraseIngles": "Buttermilk is tangy and used in baking.",
+        "frasePortugues": "Leitelho é azedinho e usado na confeitaria.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 65,
+        "ingles": "Condensed milk",
+        "portugues": "Leite condensado",
+        "fraseIngles": "Sweetened condensed milk is thick and sweet.",
+        "frasePortugues": "Leite condensado é grosso e doce.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 66,
+        "ingles": "Evaporated milk",
+        "portugues": "Leite evaporado",
+        "fraseIngles": "Evaporated milk has water removed.",
+        "frasePortugues": "Leite evaporado tem a água removida.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 67,
+        "ingles": "Powdered milk",
+        "portugues": "Leite em pó",
+        "fraseIngles": "Powdered milk is convenient for travel.",
+        "frasePortugues": "Leite em pó é conveniente para viagem.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 68,
+        "ingles": "Juice",
+        "portugues": "Suco",
+        "fraseIngles": "Fresh orange juice is full of vitamin C.",
+        "frasePortugues": "Suco de laranja fresco é cheio de vitamina C.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 69,
+        "ingles": "Orange juice",
+        "portugues": "Suco de laranja",
+        "fraseIngles": "Pulp-free orange juice is smooth.",
+        "frasePortugues": "Suco de laranja sem polpa é liso.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 70,
+        "ingles": "Apple juice",
+        "portugues": "Suco de maçã",
+        "fraseIngles": "Apple juice is sweet and mild.",
+        "frasePortugues": "Suco de maçã é doce e suave.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 71,
+        "ingles": "Grape juice",
+        "portugues": "Suco de uva",
+        "fraseIngles": "Purple grape juice is rich and sweet.",
+        "frasePortugues": "Suco de uva roxa é encorpado e doce.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 72,
+        "ingles": "Cranberry juice",
+        "portugues": "Suco de cranberry",
+        "fraseIngles": "Cranberry juice is tart and healthy.",
+        "frasePortugues": "Suco de cranberry é azedo e saudável.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 73,
+        "ingles": "Grapefruit juice",
+        "portugues": "Suco de toranja",
+        "fraseIngles": "Fresh grapefruit juice is tangy and refreshing.",
+        "frasePortugues": "Suco de toranja fresco é azedinho e refrescante.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 74,
+        "ingles": "Tomato juice",
+        "portugues": "Suco de tomate",
+        "fraseIngles": "Tomato juice is savory, not sweet.",
+        "frasePortugues": "Suco de tomate é salgado, não doce.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 75,
+        "ingles": "Carrot juice",
+        "portugues": "Suco de cenoura",
+        "fraseIngles": "Fresh carrot juice is orange and nutritious.",
+        "frasePortugues": "Suco de cenoura fresco é laranja e nutritivo.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 76,
+        "ingles": "Beet juice",
+        "portugues": "Suco de beterraba",
+        "fraseIngles": "Beet juice is deep red and earthy.",
+        "frasePortugues": "Suco de beterraba é vermelho profundo e terroso.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 77,
+        "ingles": "Celery juice",
+        "portugues": "Suco de aipo",
+        "fraseIngles": "Green celery juice is trendy for health.",
+        "frasePortugues": "Suco de aipo verde está na moda para saúde.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 78,
+        "ingles": "Pineapple juice",
+        "portugues": "Suco de abacaxi",
+        "fraseIngles": "Tropical pineapple juice is sweet and tangy.",
+        "frasePortugues": "Suco de abacaxi tropical é doce e azedinho.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 79,
+        "ingles": "Mango juice",
+        "portugues": "Suco de manga",
+        "fraseIngles": "Thick mango juice tastes like liquid sunshine.",
+        "frasePortugues": "Suco grosso de manga tem gosto de sol líquido.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 80,
+        "ingles": "Lemon juice",
+        "portugues": "Suco de limão",
+        "fraseIngles": "Fresh lemon juice is very sour.",
+        "frasePortugues": "Suco de limão fresco é muito azedo.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 81,
+        "ingles": "Lime juice",
+        "portugues": "Suco de lima",
+        "fraseIngles": "Lime juice adds tartness to drinks.",
+        "frasePortugues": "Suco de lima adiciona acidez às bebidas.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 82,
+        "ingles": "Lemonade",
+        "portugues": "Limonada",
+        "fraseIngles": "Pink lemonade is sweet and refreshing.",
+        "frasePortugues": "Limonada rosa é doce e refrescante.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 83,
+        "ingles": "Limeade",
+        "portugues": "Limonada de lima",
+        "fraseIngles": "Fresh limeade is tart and tropical.",
+        "frasePortugues": "Limonada de lima fresca é azeda e tropical.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 84,
+        "ingles": "Fruit punch",
+        "portugues": "Ponche de frutas",
+        "fraseIngles": "Party fruit punch mixes several fruit juices.",
+        "frasePortugues": "Ponche de frutas de festa mistura vários sucos de frutas.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 85,
+        "ingles": "Smoothie",
+        "portugues": "Vitamina",
+        "fraseIngles": "Strawberry banana smoothie is thick and creamy.",
+        "frasePortugues": "Vitamina de morango com banana é grossa e cremosa.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 86,
+        "ingles": "Green smoothie",
+        "portugues": "Vitamina verde",
+        "fraseIngles": "Green smoothies contain vegetables and fruits.",
+        "frasePortugues": "Vitaminas verdes contêm vegetais e frutas.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 87,
+        "ingles": "Protein shake",
+        "portugues": "Shake de proteína",
+        "fraseIngles": "Post-workout protein shakes build muscle.",
+        "frasePortugues": "Shakes de proteína pós-treino constroem músculos.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 88,
+        "ingles": "Milkshake",
+        "portugues": "Milkshake",
+        "fraseIngles": "Vanilla milkshake is made with ice cream.",
+        "frasePortugues": "Milkshake de baunilha é feito com sorvete.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 89,
+        "ingles": "Soda",
+        "portugues": "Refrigerante",
+        "fraseIngles": "Cola soda is dark and fizzy.",
+        "frasePortugues": "Refrigerante de cola é escuro e com gás.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 90,
+        "ingles": "Coke",
+        "portugues": "Coca-cola",
+        "fraseIngles": "Classic Coke is the world's most popular soda.",
+        "frasePortugues": "Coca-cola clássica é o refrigerante mais popular do mundo.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 91,
+        "ingles": "Pepsi",
+        "portugues": "Pepsi",
+        "fraseIngles": "Pepsi is a cola competitor to Coke.",
+        "frasePortugues": "Pepsi é um concorrente de cola da Coca-cola.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 92,
+        "ingles": "Sprite",
+        "portugues": "Sprite",
+        "fraseIngles": "Lemon-lime Sprite is clear and citrusy.",
+        "frasePortugues": "Sprite de limão-lima é transparente e cítrico.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 93,
+        "ingles": "Ginger ale",
+        "portugues": "Ginger ale",
+        "fraseIngles": "Ginger ale soothes upset stomachs.",
+        "frasePortugues": "Ginger ale acalma estômagos enjoados.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 94,
+        "ingles": "Root beer",
+        "portugues": "Root beer",
+        "fraseIngles": "American root beer has a unique flavor.",
+        "frasePortugues": "Root beer americano tem sabor único.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 95,
+        "ingles": "Orange soda",
+        "portugues": "Refrigerante de laranja",
+        "fraseIngles": "Orange soda is bright orange and sweet.",
+        "frasePortugues": "Refrigerante de laranja é laranja vivo e doce.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 96,
+        "ingles": "Diet soda",
+        "portugues": "Refrigerante diet",
+        "fraseIngles": "Diet soda has artificial sweeteners.",
+        "frasePortugues": "Refrigerante diet tem adoçantes artificiais.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 97,
+        "ingles": "Club soda",
+        "portugues": "Água tônica sem sabor",
+        "fraseIngles": "Club soda is plain carbonated water.",
+        "frasePortugues": "Água tônica sem sabor é água gaseificada simples.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 98,
+        "ingles": "Tonic water",
+        "portugues": "Água tônica",
+        "fraseIngles": "Tonic water has a bitter quinine flavor.",
+        "frasePortugues": "Água tônica tem sabor amargo de quinina.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 99,
+        "ingles": "Energy drink",
+        "portugues": "Energético",
+        "fraseIngles": "Energy drinks contain caffeine and vitamins.",
+        "frasePortugues": "Energéticos contêm cafeína e vitaminas.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 100,
+        "ingles": "Sports drink",
+        "portugues": "Bebida isotônica",
+        "fraseIngles": "Sports drinks replace electrolytes after exercise.",
+        "frasePortugues": "Bebidas isotônicas repõem eletrólitos após exercícios.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 101,
+        "ingles": "Vitamin water",
+        "portugues": "Água vitaminada",
+        "fraseIngles": "Vitamin water has added nutrients.",
+        "frasePortugues": "Água vitaminada tem nutrientes adicionados.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 102,
+        "ingles": "Beer",
+        "portugues": "Cerveja",
+        "fraseIngles": "Cold beer is perfect on hot summer days.",
+        "frasePortugues": "Cerveja gelada é perfeita em dias quentes de verão.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 103,
+        "ingles": "Light beer",
+        "portugues": "Cerveja light",
+        "fraseIngles": "Light beer has fewer calories.",
+        "frasePortugues": "Cerveja light tem menos calorias.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 104,
+        "ingles": "Draft beer",
+        "portugues": "Chopp",
+        "fraseIngles": "Fresh draft beer is served from a tap.",
+        "frasePortugues": "Chopp fresco é servido da torneira.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 105,
+        "ingles": "Craft beer",
+        "portugues": "Cerveja artesanal",
+        "fraseIngles": "Local craft beer supports small breweries.",
+        "frasePortugues": "Cerveja artesanal local apoia pequenas cervejarias.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 106,
+        "ingles": "Lager",
+        "portugues": "Lager",
+        "fraseIngles": "German lager is crisp and clean-tasting.",
+        "frasePortugues": "Lager alemã é fresca e de sabor limpo.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 107,
+        "ingles": "Ale",
+        "portugues": "Ale",
+        "fraseIngles": "English ale is darker than lager.",
+        "frasePortugues": "Ale inglesa é mais escura que lager.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 108,
+        "ingles": "IPA",
+        "portugues": "IPA",
+        "fraseIngles": "India Pale Ale is hoppy and bitter.",
+        "frasePortugues": "India Pale Ale é lupulada e amarga.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 109,
+        "ingles": "Stout",
+        "portugues": "Stout",
+        "fraseIngles": "Irish stout is dark and creamy.",
+        "frasePortugues": "Stout irlandesa é escura e cremosa.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 110,
+        "ingles": "Wheat beer",
+        "portugues": "Cerveja de trigo",
+        "fraseIngles": "Wheat beer is smooth and often cloudy.",
+        "frasePortugues": "Cerveja de trigo é suave e frequentemente turva.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 111,
+        "ingles": "Pilsner",
+        "portugues": "Pilsner",
+        "fraseIngles": "Czech pilsner is golden and refreshing.",
+        "frasePortugues": "Pilsner tcheca é dourada e refrescante.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 112,
+        "ingles": "Wine",
+        "portugues": "Vinho",
+        "fraseIngles": "Red wine pairs well with steak.",
+        "frasePortugues": "Vinho tinto combina bem com bife.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 113,
+        "ingles": "Red wine",
+        "portugues": "Vinho tinto",
+        "fraseIngles": "Red wine is made from dark grapes.",
+        "frasePortugues": "Vinho tinto é feito de uvas escuras.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 114,
+        "ingles": "White wine",
+        "portugues": "Vinho branco",
+        "fraseIngles": "Chilled white wine goes with fish.",
+        "frasePortugues": "Vinho branco gelado combina com peixe.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 115,
+        "ingles": "Rosé wine",
+        "portugues": "Vinho rosé",
+        "fraseIngles": "Pink rosé wine is perfect for summer.",
+        "frasePortugues": "Vinho rosé rosa é perfeito para o verão.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 116,
+        "ingles": "Sparkling wine",
+        "portugues": "Vinho espumante",
+        "fraseIngles": "Sparkling wine celebrates special occasions.",
+        "frasePortugues": "Vinho espumante celebra ocasiões especiais.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 117,
+        "ingles": "Champagne",
+        "portugues": "Champanhe",
+        "fraseIngles": "French champagne is the finest sparkling wine.",
+        "frasePortugues": "Champanhe francês é o melhor vinho espumante.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 118,
+        "ingles": "Prosecco",
+        "portugues": "Prosecco",
+        "fraseIngles": "Italian prosecco is lighter than champagne.",
+        "frasePortugues": "Prosecco italiano é mais leve que champanhe.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 119,
+        "ingles": "Dessert wine",
+        "portugues": "Vinho de sobremesa",
+        "fraseIngles": "Sweet dessert wine complements chocolate.",
+        "frasePortugues": "Vinho doce de sobremesa complementa chocolate.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 120,
+        "ingles": "Port wine",
+        "portugues": "Vinho do Porto",
+        "fraseIngles": "Portuguese port wine is rich and sweet.",
+        "frasePortugues": "Vinho do Porto português é encorpado e doce.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 121,
+        "ingles": "Sherry",
+        "portugues": "Xerez",
+        "fraseIngles": "Spanish sherry is fortified wine.",
+        "frasePortugues": "Xerez espanhol é vinho fortificado.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 122,
+        "ingles": "Liquor",
+        "portugues": "Destilado",
+        "fraseIngles": "Premium liquor is aged in oak barrels.",
+        "frasePortugues": "Destilado premium é envelhecido em barris de carvalho.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 123,
+        "ingles": "Whiskey",
+        "portugues": "Uísque",
+        "fraseIngles": "Irish whiskey is smooth and mellow.",
+        "frasePortugues": "Uísque irlandês é suave e amadeirado.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 124,
+        "ingles": "Bourbon",
+        "portugues": "Bourbon",
+        "fraseIngles": "Kentucky bourbon has a corn base.",
+        "frasePortugues": "Bourbon de Kentucky tem base de milho.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 125,
+        "ingles": "Scotch",
+        "portugues": "Scotch",
+        "fraseIngles": "Single malt scotch is distilled in Scotland.",
+        "frasePortugues": "Scotch single malt é destilado na Escócia.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 126,
+        "ingles": "Rum",
+        "portugues": "Rum",
+        "fraseIngles": "Caribbean rum is made from sugarcane.",
+        "frasePortugues": "Rum caribenho é feito de cana-de-açúcar.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 127,
+        "ingles": "Vodka",
+        "portugues": "Vodca",
+        "fraseIngles": "Russian vodka is clear and strong.",
+        "frasePortugues": "Vodca russa é transparente e forte.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 128,
+        "ingles": "Gin",
+        "portugues": "Gin",
+        "fraseIngles": "London gin is flavored with juniper berries.",
+        "frasePortugues": "Gin londrino é aromatizado com bagas de zimbro.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 129,
+        "ingles": "Tequila",
+        "portugues": "Tequila",
+        "fraseIngles": "Mexican tequila is made from agave plants.",
+        "frasePortugues": "Tequila mexicana é feita de plantas de agave.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 130,
+        "ingles": "Brandy",
+        "portugues": "Conhaque",
+        "fraseIngles": "French brandy is distilled from wine.",
+        "frasePortugues": "Conhaque francês é destilado do vinho.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 131,
+        "ingles": "Cognac",
+        "portugues": "Cognac",
+        "fraseIngles": "Cognac is premium French brandy.",
+        "frasePortugues": "Cognac é conhaque francês premium.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 132,
+        "ingles": "Cocktail",
+        "portugues": "Coquetel",
+        "fraseIngles": "A martini cocktail contains gin and vermouth.",
+        "frasePortugues": "Um coquetel martini contém gin e vermute.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 133,
+        "ingles": "Martini",
+        "portugues": "Martini",
+        "fraseIngles": "A classic martini is gin with dry vermouth.",
+        "frasePortugues": "Um martini clássico é gin com vermute seco.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 134,
+        "ingles": "Manhattan",
+        "portugues": "Manhattan",
+        "fraseIngles": "Manhattan cocktail has whiskey and sweet vermouth.",
+        "frasePortugues": "Coquetel Manhattan tem uísque e vermute doce.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 135,
+        "ingles": "Old Fashioned",
+        "portugues": "Old Fashioned",
+        "fraseIngles": "Old Fashioned is whiskey with sugar and bitters.",
+        "frasePortugues": "Old Fashioned é uísque com açúcar e bitter.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 136,
+        "ingles": "Margarita",
+        "portugues": "Margarita",
+        "fraseIngles": "A margarita has tequila, lime, and triple sec.",
+        "frasePortugues": "Uma margarita tem tequila, lima e triple sec.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 137,
+        "ingles": "Daiquiri",
+        "portugues": "Daiquiri",
+        "fraseIngles": "A daiquiri contains rum, lime juice, and sugar.",
+        "frasePortugues": "Um daiquiri contém rum, suco de lima e açúcar.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 138,
+        "ingles": "Piña Colada",
+        "portugues": "Piña Colada",
+        "fraseIngles": "Piña colada is rum with coconut and pineapple.",
+        "frasePortugues": "Piña colada é rum com coco e abacaxi.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 139,
+        "ingles": "Mojito",
+        "portugues": "Mojito",
+        "fraseIngles": "A mojito has rum, mint, lime, and soda water.",
+        "frasePortugues": "Um mojito tem rum, hortelã, lima e água com gás.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 140,
+        "ingles": "Bloody Mary",
+        "portugues": "Bloody Mary",
+        "fraseIngles": "A Bloody Mary contains vodka and tomato juice.",
+        "frasePortugues": "Um Bloody Mary contém vodca e suco de tomate.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 141,
+        "ingles": "Cosmopolitan",
+        "portugues": "Cosmopolitan",
+        "fraseIngles": "A cosmo has vodka, cranberry, and lime juice.",
+        "frasePortugues": "Um cosmo tem vodca, cranberry e suco de lima.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 142,
+        "ingles": "Long Island Iced Tea",
+        "portugues": "Long Island Iced Tea",
+        "fraseIngles": "Long Island Iced Tea contains multiple liquors.",
+        "frasePortugues": "Long Island Iced Tea contém várias bebidas destiladas.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 143,
+        "ingles": "Sangria",
+        "portugues": "Sangria",
+        "fraseIngles": "Spanish sangria mixes wine with fruit.",
+        "frasePortugues": "Sangria espanhola mistura vinho com frutas.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 144,
+        "ingles": "Punch",
+        "portugues": "Ponche",
+        "fraseIngles": "Party punch combines fruit juices and alcohol.",
+        "frasePortugues": "Ponche de festa combina sucos de frutas e álcool.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 145,
+        "ingles": "Eggnog",
+        "portugues": "Ponche de ovos",
+        "fraseIngles": "Holiday eggnog is creamy and spiced.",
+        "frasePortugues": "Ponche de ovos de feriado é cremoso e temperado.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 146,
+        "ingles": "Mulled wine",
+        "portugues": "Vinho quente",
+        "fraseIngles": "Mulled wine is warmed with spices.",
+        "frasePortugues": "Vinho quente é aquecido com especiarias.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 147,
+        "ingles": "Hot toddy",
+        "portugues": "Hot toddy",
+        "fraseIngles": "A hot toddy warms you up in winter.",
+        "frasePortugues": "Um hot toddy aquece você no inverno.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 148,
+        "ingles": "Irish coffee",
+        "portugues": "Café irlandês",
+        "fraseIngles": "Irish coffee has coffee, whiskey, and cream.",
+        "frasePortugues": "Café irlandês tem café, uísque e creme.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 149,
+        "ingles": "Cappuccino",
+        "portugues": "Cappuccino",
+        "fraseIngles": "A cappuccino has equal parts espresso, milk, and foam.",
+        "frasePortugues": "Um cappuccino tem partes iguais de expresso, leite e espuma.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 150,
+        "ingles": "Hot chocolate",
+        "portugues": "Chocolate quente",
+        "fraseIngles": "Rich hot chocolate warms cold winter nights.",
+        "frasePortugues": "Chocolate quente encorpado aquece noites frias de inverno.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 151,
+        "ingles": "Hot cocoa",
+        "portugues": "Cacau quente",
+        "fraseIngles": "Hot cocoa is made with cocoa powder.",
+        "frasePortugues": "Cacau quente é feito com cacau em pó.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 152,
+        "ingles": "Chai latte",
+        "portugues": "Chai latte",
+        "fraseIngles": "Spiced chai latte combines tea with steamed milk.",
+        "frasePortugues": "Chai latte temperado combina chá com leite vaporizado.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 153,
+        "ingles": "Kombucha",
+        "portugues": "Kombucha",
+        "fraseIngles": "Fermented kombucha is fizzy and probiotic.",
+        "frasePortugues": "Kombucha fermentado é gasoso e probiótico.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 154,
+        "ingles": "Kefir",
+        "portugues": "Kefir",
+        "fraseIngles": "Kefir is a fermented milk drink.",
+        "frasePortugues": "Kefir é uma bebida de leite fermentado.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 155,
+        "ingles": "Bone broth",
+        "portugues": "Caldo de ossos",
+        "fraseIngles": "Nutritious bone broth simmers for hours.",
+        "frasePortugues": "Caldo nutritivo de ossos cozinha por horas.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 156,
+        "ingles": "Vegetable broth",
+        "portugues": "Caldo de vegetais",
+        "fraseIngles": "Clear vegetable broth is light and healthy.",
+        "frasePortugues": "Caldo claro de vegetais é leve e saudável.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 157,
+        "ingles": "Protein drink",
+        "portugues": "Bebida proteica",
+        "fraseIngles": "Post-workout protein drinks aid recovery.",
+        "frasePortugues": "Bebidas proteicas pós-treino ajudam na recuperação.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 158,
+        "ingles": "Meal replacement shake",
+        "portugues": "Shake substituto de refeição",
+        "fraseIngles": "Busy people drink meal replacement shakes.",
+        "frasePortugues": "Pessoas ocupadas bebem shakes substitutos de refeição.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 159,
+        "ingles": "Electrolyte drink",
+        "portugues": "Bebida de eletrólitos",
+        "fraseIngles": "Athletes need electrolyte drinks during training.",
+        "frasePortugues": "Atletas precisam de bebidas de eletrólitos durante treinos.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 160,
+        "ingles": "Recovery drink",
+        "portugues": "Bebida de recuperação",
+        "fraseIngles": "Recovery drinks help muscles heal after exercise.",
+        "frasePortugues": "Bebidas de recuperação ajudam músculos a se curar após exercícios.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 161,
+        "ingles": "Hangover cure",
+        "portugues": "Cura para ressaca",
+        "fraseIngles": "Some people swear by special hangover cure drinks.",
+        "frasePortugues": "Algumas pessoas juram por bebidas especiais para cura de ressaca.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 162,
+        "ingles": "Mocktail",
+        "portugues": "Coquetel sem álcool",
+        "fraseIngles": "Virgin mojito is a popular mocktail.",
+        "frasePortugues": "Mojito virgem é um coquetel sem álcool popular.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 163,
+        "ingles": "Virgin drink",
+        "portugues": "Bebida virgem",
+        "fraseIngles": "A virgin piña colada has no rum.",
+        "frasePortugues": "Uma piña colada virgem não tem rum.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 164,
+        "ingles": "Non-alcoholic beer",
+        "portugues": "Cerveja sem álcool",
+        "fraseIngles": "Non-alcoholic beer tastes like regular beer.",
+        "frasePortugues": "Cerveja sem álcool tem gosto de cerveja comum.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 165,
+        "ingles": "Alcohol-free wine",
+        "portugues": "Vinho sem álcool",
+        "fraseIngles": "Alcohol-free wine keeps the grape flavor.",
+        "frasePortugues": "Vinho sem álcool mantém o sabor da uva.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 166,
+        "ingles": "Soft drink",
+        "portugues": "Refrigerante",
+        "fraseIngles": "Soft drinks are non-alcoholic carbonated beverages.",
+        "frasePortugues": "Refrigerantes são bebidas gaseificadas sem álcool.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 167,
+        "ingles": "Hard seltzer",
+        "portugues": "Seltzer com álcool",
+        "fraseIngles": "Hard seltzer is alcoholic sparkling water.",
+        "frasePortugues": "Seltzer com álcool é água com gás alcoólica.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 168,
+        "ingles": "Cider",
+        "portugues": "Sidra",
+        "fraseIngles": "Apple cider can be alcoholic or non-alcoholic.",
+        "frasePortugues": "Sidra de maçã pode ser alcoólica ou não-alcoólica.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 169,
+        "ingles": "Mead",
+        "portugues": "Hidromel",
+        "fraseIngles": "Mead is an ancient honey wine.",
+        "frasePortugues": "Hidromel é um vinho de mel antigo.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 170,
+        "ingles": "Sake",
+        "portugues": "Saquê",
+        "fraseIngles": "Japanese sake is rice wine.",
+        "frasePortugues": "Saquê japonês é vinho de arroz.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 171,
+        "ingles": "Soju",
+        "portugues": "Soju",
+        "fraseIngles": "Korean soju is a clear distilled spirit.",
+        "frasePortugues": "Soju coreano é um destilado claro.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 172,
+        "ingles": "Absinthe",
+        "portugues": "Absinto",
+        "fraseIngles": "Green absinthe is a strong herbal liquor.",
+        "frasePortugues": "Absinto verde é um licor de ervas forte.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 173,
+        "ingles": "Amaretto",
+        "portugues": "Amaretto",
+        "fraseIngles": "Italian amaretto tastes like sweet almonds.",
+        "frasePortugues": "Amaretto italiano tem gosto de amêndoas doces.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 174,
+        "ingles": "Bailey's",
+        "portugues": "Bailey's",
+        "fraseIngles": "Irish Bailey's is creamy coffee liqueur.",
+        "frasePortugues": "Bailey's irlandês é licor cremoso de café.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 175,
+        "ingles": "Kahlua",
+        "portugues": "Kahlua",
+        "fraseIngles": "Mexican Kahlua is coffee-flavored liqueur.",
+        "frasePortugues": "Kahlua mexicano é licor com sabor de café.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 176,
+        "ingles": "Grand Marnier",
+        "portugues": "Grand Marnier",
+        "fraseIngles": "French Grand Marnier is orange-flavored cognac.",
+        "frasePortugues": "Grand Marnier francês é conhaque com sabor de laranja.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 177,
+        "ingles": "Cointreau",
+        "portugues": "Cointreau",
+        "fraseIngles": "Cointreau is clear orange liqueur.",
+        "frasePortugues": "Cointreau é licor de laranja transparente.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 178,
+        "ingles": "Limoncello",
+        "portugues": "Limoncello",
+        "fraseIngles": "Italian limoncello is sweet lemon liqueur.",
+        "frasePortugues": "Limoncello italiano é licor doce de limão.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 179,
+        "ingles": "Ice",
+        "portugues": "Gelo",
+        "fraseIngles": "Add ice to make drinks cold.",
+        "frasePortugues": "Adicione gelo para gelar bebidas.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 180,
+        "ingles": "Ice cubes",
+        "portugues": "Cubos de gelo",
+        "fraseIngles": "Ice cubes chill drinks without diluting them quickly.",
+        "frasePortugues": "Cubos de gelo gelam bebidas sem diluí-las rapidamente.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 181,
+        "ingles": "Crushed ice",
+        "portugues": "Gelo picado",
+        "fraseIngles": "Crushed ice melts faster than ice cubes.",
+        "frasePortugues": "Gelo picado derrete mais rápido que cubos de gelo.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 182,
+        "ingles": "Garnish",
+        "portugues": "Enfeite",
+        "fraseIngles": "Lemon slice makes a nice garnish for water.",
+        "frasePortugues": "Fatia de limão faz um bom enfeite para água.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 183,
+        "ingles": "Straw",
+        "portugues": "Canudo",
+        "fraseIngles": "Use a paper straw to protect the environment.",
+        "frasePortugues": "Use um canudo de papel para proteger o meio ambiente.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 184,
+        "ingles": "Coaster",
+        "portugues": "Porta-copos",
+        "fraseIngles": "Put drinks on coasters to protect furniture.",
+        "frasePortugues": "Coloque bebidas em porta-copos para proteger móveis.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 185,
+        "ingles": "Bottle opener",
+        "portugues": "Abridor de garrafa",
+        "fraseIngles": "You need a bottle opener for glass bottles.",
+        "frasePortugues": "Você precisa de um abridor de garrafa para garrafas de vidro.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 186,
+        "ingles": "Corkscrew",
+        "portugues": "Saca-rolhas",
+        "fraseIngles": "Open wine bottles with a corkscrew.",
+        "frasePortugues": "Abra garrafas de vinho com um saca-rolhas.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 187,
+        "ingles": "Cocktail shaker",
+        "portugues": "Coqueteleira",
+        "fraseIngles": "Mix drinks in a cocktail shaker with ice.",
+        "frasePortugues": "Misture bebidas numa coqueteleira com gelo.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 188,
+        "ingles": "Jigger",
+        "portugues": "Dosador",
+        "fraseIngles": "A jigger measures liquor for cocktails.",
+        "frasePortugues": "Um dosador mede destilados para coquetéis.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 189,
+        "ingles": "Strainer",
+        "portugues": "Coador",
+        "fraseIngles": "Strain cocktails through a fine mesh strainer.",
+        "frasePortugues": "Coe coquetéis através de um coador de malha fina.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 190,
+        "ingles": "Muddler",
+        "portugues": "Muddler",
+        "fraseIngles": "Use a muddler to crush mint in mojitos.",
+        "frasePortugues": "Use um muddler para esmagar hortelã em mojitos.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 191,
+        "ingles": "Bar spoon",
+        "portugues": "Colher de bar",
+        "fraseIngles": "Stir drinks gently with a long bar spoon.",
+        "frasePortugues": "Mexa bebidas delicadamente com uma colher longa de bar.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 192,
+        "ingles": "Wine glass",
+        "portugues": "Taça de vinho",
+        "fraseIngles": "Red wine tastes better in proper wine glasses.",
+        "frasePortugues": "Vinho tinto tem melhor sabor em taças adequadas.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 193,
+        "ingles": "Beer mug",
+        "portugues": "Caneca de cerveja",
+        "fraseIngles": "Cold beer tastes great in a frosted mug.",
+        "frasePortugues": "Cerveja gelada tem ótimo sabor numa caneca gelada.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 194,
+        "ingles": "Shot glass",
+        "portugues": "Copo de dose",
+        "fraseIngles": "Tequila shots are served in small shot glasses.",
+        "frasePortugues": "Doses de tequila são servidas em pequenos copos de dose.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 195,
+        "ingles": "Highball glass",
+        "portugues": "Copo highball",
+        "fraseIngles": "Tall highball glasses are perfect for mixed drinks.",
+        "frasePortugues": "Copos altos highball são perfeitos para drinks mistos.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 196,
+        "ingles": "Rocks glass",
+        "portugues": "Copo baixo",
+        "fraseIngles": "Whiskey on the rocks is served in a short glass.",
+        "frasePortugues": "Uísque on the rocks é servido num copo baixo.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 197,
+        "ingles": "Martini glass",
+        "portugues": "Taça de martini",
+        "fraseIngles": "The triangular martini glass is iconic.",
+        "frasePortugues": "A taça triangular de martini é icônica.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 198,
+        "ingles": "Champagne flute",
+        "portugues": "Taça de champanhe",
+        "fraseIngles": "Bubbles last longer in tall champagne flutes.",
+        "frasePortugues": "Bolhas duram mais em taças altas de champanhe.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 199,
+        "ingles": "Coffee mug",
+        "portugues": "Caneca de café",
+        "fraseIngles": "Drink hot coffee from a ceramic coffee mug.",
+        "frasePortugues": "Beba café quente numa caneca de cerâmica.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 200,
+        "ingles": "Tea cup",
+        "portugues": "Xícara de chá",
+        "fraseIngles": "Delicate tea cups are used for afternoon tea.",
+        "frasePortugues": "Xícaras delicadas são usadas para chá da tarde.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 201,
+        "ingles": "Travel mug",
+        "portugues": "Caneca de viagem",
+        "fraseIngles": "Take coffee to work in a travel mug.",
+        "frasePortugues": "Leve café para o trabalho numa caneca de viagem.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 202,
+        "ingles": "Water bottle",
+        "portugues": "Garrafa de água",
+        "fraseIngles": "Reusable water bottles reduce plastic waste.",
+        "frasePortugues": "Garrafas de água reutilizáveis reduzem desperdício de plástico.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 203,
+        "ingles": "Thermos",
+        "portugues": "Garrafa térmica",
+        "fraseIngles": "A thermos keeps drinks hot or cold.",
+        "frasePortugues": "Uma garrafa térmica mantém bebidas quentes ou frias.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 204,
+        "ingles": "Flask",
+        "portugues": "Cantil",
+        "fraseIngles": "Hip flasks hold small amounts of liquor.",
+        "frasePortugues": "Cantis de quadril comportam pequenas quantidades de destilados.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 205,
+        "ingles": "Pitcher",
+        "portugues": "Jarra",
+        "fraseIngles": "Serve lemonade from a glass pitcher.",
+        "frasePortugues": "Sirva limonada de uma jarra de vidro.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 206,
+        "ingles": "Carafe",
+        "portugues": "Garrafa",
+        "fraseIngles": "Wine carafes let wine breathe before serving.",
+        "frasePortugues": "Garrafas de vinho deixam o vinho respirar antes de servir.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 207,
+        "ingles": "Decanter",
+        "portugues": "Decanter",
+        "fraseIngles": "Crystal decanters display whiskey beautifully.",
+        "frasePortugues": "Decanters de cristal exibem uísque lindamente.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 208,
+        "ingles": "Ice bucket",
+        "portugues": "Balde de gelo",
+        "fraseIngles": "Keep champagne cold in an ice bucket.",
+        "frasePortugues": "Mantenha champanhe gelado num balde de gelo.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 209,
+        "ingles": "Cooler",
+        "portugues": "Cooler",
+        "fraseIngles": "Pack drinks in a cooler for the beach.",
+        "frasePortugues": "Embale bebidas num cooler para a praia.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 210,
+        "ingles": "Beverage dispenser",
+        "portugues": "Dispensador de bebidas",
+        "fraseIngles": "Large parties need beverage dispensers.",
+        "frasePortugues": "Festas grandes precisam de dispensadores de bebidas.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 211,
+        "ingles": "Keg",
+        "portugues": "Barril",
+        "fraseIngles": "Draft beer comes from kegs.",
+        "frasePortugues": "Chopp vem de barris.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 212,
+        "ingles": "Wine rack",
+        "portugues": "Adega",
+        "fraseIngles": "Store wine bottles properly in a wine rack.",
+        "frasePortugues": "Guarde garrafas de vinho adequadamente numa adega.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 213,
+        "ingles": "Mini fridge",
+        "portugues": "Frigobar",
+        "fraseIngles": "Hotel rooms have mini fridges for drinks.",
+        "frasePortugues": "Quartos de hotel têm frigobares para bebidas.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 214,
+        "ingles": "Blender",
+        "portugues": "Liquidificador",
+        "fraseIngles": "Make smoothies in a high-powered blender.",
+        "frasePortugues": "Faça vitaminas num liquidificador potente.",
+        "subtopico": "Bebidas",
+        "topico": "Alimentos"
+    }
+]

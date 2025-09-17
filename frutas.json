@@ -1,0 +1,1640 @@
+[
+    {
+        "id": 1,
+        "ingles": "Apple",
+        "portugues": "Maçã",
+        "fraseIngles": "I eat a red apple for breakfast every day.",
+        "frasePortugues": "Eu como uma maçã vermelha no café da manhã todos os dias.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 2,
+        "ingles": "Green apple",
+        "portugues": "Maçã verde",
+        "fraseIngles": "Green apples are more tart than red ones.",
+        "frasePortugues": "Maçãs verdes são mais azedas que as vermelhas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 3,
+        "ingles": "Red apple",
+        "portugues": "Maçã vermelha",
+        "fraseIngles": "Red apples are sweet and juicy.",
+        "frasePortugues": "Maçãs vermelhas são doces e suculentas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 4,
+        "ingles": "Granny Smith apple",
+        "portugues": "Maçã Granny Smith",
+        "fraseIngles": "Granny Smith apples are perfect for baking.",
+        "frasePortugues": "Maçãs Granny Smith são perfeitas para assar.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 5,
+        "ingles": "Golden Delicious apple",
+        "portugues": "Maçã Golden Delicious",
+        "fraseIngles": "Golden Delicious apples have a mild flavor.",
+        "frasePortugues": "Maçãs Golden Delicious têm sabor suave.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 6,
+        "ingles": "Fuji apple",
+        "portugues": "Maçã Fuji",
+        "fraseIngles": "Fuji apples are crisp and sweet.",
+        "frasePortugues": "Maçãs Fuji são crocantes e doces.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 7,
+        "ingles": "Gala apple",
+        "portugues": "Maçã Gala",
+        "fraseIngles": "Gala apples are small and colorful.",
+        "frasePortugues": "Maçãs Gala são pequenas e coloridas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 8,
+        "ingles": "Banana",
+        "portugues": "Banana",
+        "fraseIngles": "Monkeys love to eat ripe bananas.",
+        "frasePortugues": "Macacos adoram comer bananas maduras.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 9,
+        "ingles": "Ripe banana",
+        "portugues": "Banana madura",
+        "fraseIngles": "A ripe banana has brown spots on the peel.",
+        "frasePortugues": "Uma banana madura tem manchas marrons na casca.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 10,
+        "ingles": "Green banana",
+        "portugues": "Banana verde",
+        "fraseIngles": "Green bananas are not ready to eat yet.",
+        "frasePortugues": "Bananas verdes ainda não estão prontas para comer.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 11,
+        "ingles": "Plantain",
+        "portugues": "Banana-da-terra",
+        "fraseIngles": "Plantains are larger than regular bananas.",
+        "frasePortugues": "Bananas-da-terra são maiores que bananas comuns.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 12,
+        "ingles": "Baby banana",
+        "portugues": "Banana-nanica",
+        "fraseIngles": "Baby bananas are sweeter than regular ones.",
+        "frasePortugues": "Bananas-nanicas são mais doces que as comuns.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 13,
+        "ingles": "Orange",
+        "portugues": "Laranja",
+        "fraseIngles": "Fresh orange juice is rich in vitamin C.",
+        "frasePortugues": "Suco de laranja fresco é rico em vitamina C.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 14,
+        "ingles": "Naval orange",
+        "portugues": "Laranja umbigo",
+        "fraseIngles": "Naval oranges are easy to peel and seedless.",
+        "frasePortugues": "Laranjas umbigo são fáceis de descascar e sem sementes.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 15,
+        "ingles": "Blood orange",
+        "portugues": "Laranja sanguínea",
+        "fraseIngles": "Blood oranges have red flesh inside.",
+        "frasePortugues": "Laranjas sanguíneas têm polpa vermelha por dentro.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 16,
+        "ingles": "Mandarin orange",
+        "portugues": "Tangerina",
+        "fraseIngles": "Mandarin oranges are small and sweet.",
+        "frasePortugues": "Tangerinas são pequenas e doces.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 17,
+        "ingles": "Clementine",
+        "portugues": "Clementina",
+        "fraseIngles": "Clementines are a type of small orange.",
+        "frasePortugues": "Clementinas são um tipo de laranja pequena.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 18,
+        "ingles": "Tangerine",
+        "portugues": "Tangerina",
+        "fraseIngles": "Tangerines are easy to peel with your hands.",
+        "frasePortugues": "Tangerinas são fáceis de descascar com as mãos.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 19,
+        "ingles": "Grape",
+        "portugues": "Uva",
+        "fraseIngles": "Purple grapes are used to make wine.",
+        "frasePortugues": "Uvas roxas são usadas para fazer vinho.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 20,
+        "ingles": "Green grape",
+        "portugues": "Uva verde",
+        "fraseIngles": "Green grapes are sweet and refreshing.",
+        "frasePortugues": "Uvas verdes são doces e refrescantes.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 21,
+        "ingles": "Red grape",
+        "portugues": "Uva vermelha",
+        "fraseIngles": "Red grapes have a rich, sweet flavor.",
+        "frasePortugues": "Uvas vermelhas têm sabor rico e doce.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 22,
+        "ingles": "Purple grape",
+        "portugues": "Uva roxa",
+        "fraseIngles": "Purple grapes are perfect for snacking.",
+        "frasePortugues": "Uvas roxas são perfeitas para petiscar.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 23,
+        "ingles": "Seedless grape",
+        "portugues": "Uva sem caroço",
+        "fraseIngles": "Seedless grapes are convenient to eat.",
+        "frasePortugues": "Uvas sem caroço são convenientes para comer.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 24,
+        "ingles": "Raisin",
+        "portugues": "Uva-passa",
+        "fraseIngles": "Raisins are dried grapes.",
+        "frasePortugues": "Uvas-passas são uvas secas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 25,
+        "ingles": "Strawberry",
+        "portugues": "Morango",
+        "fraseIngles": "Strawberries are red and heart-shaped.",
+        "frasePortugues": "Morangos são vermelhos e em forma de coração.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 26,
+        "ingles": "Wild strawberry",
+        "portugues": "Morango silvestre",
+        "fraseIngles": "Wild strawberries are smaller but more flavorful.",
+        "frasePortugues": "Morangos silvestres são menores mas mais saborosos.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 27,
+        "ingles": "Blueberry",
+        "portugues": "Mirtilo",
+        "fraseIngles": "Blueberries are packed with antioxidants.",
+        "frasePortugues": "Mirtilos são ricos em antioxidantes.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 28,
+        "ingles": "Blackberry",
+        "portugues": "Amora-preta",
+        "fraseIngles": "Blackberries grow on thorny bushes.",
+        "frasePortugues": "Amoras-pretas crescem em arbustos espinhosos.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 29,
+        "ingles": "Raspberry",
+        "portugues": "Framboesa",
+        "fraseIngles": "Raspberries are delicate and tart.",
+        "frasePortugues": "Framboesas são delicadas e azedas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 30,
+        "ingles": "Cranberry",
+        "portugues": "Oxicoco",
+        "fraseIngles": "Cranberries are often used in sauce.",
+        "frasePortugues": "Oxicocos são frequentemente usados em molho.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 31,
+        "ingles": "Gooseberry",
+        "portugues": "Groselha",
+        "fraseIngles": "Gooseberries can be green or red.",
+        "frasePortugues": "Groselhas podem ser verdes ou vermelhas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 32,
+        "ingles": "Elderberry",
+        "portugues": "Sabugueiro",
+        "fraseIngles": "Elderberries are used to make syrup.",
+        "frasePortugues": "Sabugueiros são usados para fazer xarope.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 33,
+        "ingles": "Boysenberry",
+        "portugues": "Boysenberry",
+        "fraseIngles": "Boysenberries are a cross between raspberries and blackberries.",
+        "frasePortugues": "Boysenberries são um cruzamento entre framboesas e amoras-pretas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 34,
+        "ingles": "Peach",
+        "portugues": "Pêssego",
+        "fraseIngles": "Peaches have soft, fuzzy skin.",
+        "frasePortugues": "Pêssegos têm pele macia e aveludada.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 35,
+        "ingles": "Nectarine",
+        "portugues": "Nectarina",
+        "fraseIngles": "Nectarines are like peaches but with smooth skin.",
+        "frasePortugues": "Nectarinas são como pêssegos mas com pele lisa.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 36,
+        "ingles": "Plum",
+        "portugues": "Ameixa",
+        "fraseIngles": "Purple plums are juicy and sweet.",
+        "frasePortugues": "Ameixas roxas são suculentas e doces.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 37,
+        "ingles": "Apricot",
+        "portugues": "Damasco",
+        "fraseIngles": "Apricots are small orange fruits.",
+        "frasePortugues": "Damascos são pequenas frutas alaranjadas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 38,
+        "ingles": "Cherry",
+        "portugues": "Cereja",
+        "fraseIngles": "Sweet cherries are perfect for desserts.",
+        "frasePortugues": "Cerejas doces são perfeitas para sobremesas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 39,
+        "ingles": "Sour cherry",
+        "portugues": "Cereja azeda",
+        "fraseIngles": "Sour cherries are used for baking pies.",
+        "frasePortugues": "Cerejas azedas são usadas para fazer tortas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 40,
+        "ingles": "Sweet cherry",
+        "portugues": "Cereja doce",
+        "fraseIngles": "Sweet cherries are delicious eaten fresh.",
+        "frasePortugues": "Cerejas doces são deliciosas comidas frescas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 41,
+        "ingles": "Pear",
+        "portugues": "Pera",
+        "fraseIngles": "Pears have a soft, sweet texture.",
+        "frasePortugues": "Peras têm textura macia e doce.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 42,
+        "ingles": "Bartlett pear",
+        "portugues": "Pera Bartlett",
+        "fraseIngles": "Bartlett pears are the most common variety.",
+        "frasePortugues": "Peras Bartlett são a variedade mais comum.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 43,
+        "ingles": "Asian pear",
+        "portugues": "Pera asiática",
+        "fraseIngles": "Asian pears are crisp like apples.",
+        "frasePortugues": "Peras asiáticas são crocantes como maçãs.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 44,
+        "ingles": "Pineapple",
+        "portugues": "Abacaxi",
+        "fraseIngles": "Fresh pineapple is sweet and tropical.",
+        "frasePortugues": "Abacaxi fresco é doce e tropical.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 45,
+        "ingles": "Mango",
+        "portugues": "Manga",
+        "fraseIngles": "Ripe mangoes are incredibly sweet.",
+        "frasePortugues": "Mangas maduras são incrivelmente doces.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 46,
+        "ingles": "Papaya",
+        "portugues": "Mamão",
+        "fraseIngles": "Papaya has orange flesh with black seeds.",
+        "frasePortugues": "Mamão tem polpa alaranjada com sementes pretas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 47,
+        "ingles": "Avocado",
+        "portugues": "Abacate",
+        "fraseIngles": "Avocados are creamy and nutritious.",
+        "frasePortugues": "Abacates são cremosos e nutritivos.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 48,
+        "ingles": "Kiwi",
+        "portugues": "Kiwi",
+        "fraseIngles": "Kiwi fruit has green flesh with tiny black seeds.",
+        "frasePortugues": "Kiwi tem polpa verde com pequenas sementes pretas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 49,
+        "ingles": "Passion fruit",
+        "portugues": "Maracujá",
+        "fraseIngles": "Passion fruit has a strong, sweet aroma.",
+        "frasePortugues": "Maracujá tem aroma forte e doce.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 50,
+        "ingles": "Dragon fruit",
+        "portugues": "Pitaia",
+        "fraseIngles": "Dragon fruit has white flesh with black seeds.",
+        "frasePortugues": "Pitaia tem polpa branca com sementes pretas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 51,
+        "ingles": "Star fruit",
+        "portugues": "Carambola",
+        "fraseIngles": "Star fruit is shaped like a star when sliced.",
+        "frasePortugues": "Carambola tem forma de estrela quando fatiada.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 52,
+        "ingles": "Coconut",
+        "portugues": "Coco",
+        "fraseIngles": "Coconuts contain refreshing coconut water.",
+        "frasePortugues": "Cocos contêm água de coco refrescante.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 53,
+        "ingles": "Watermelon",
+        "portugues": "Melancia",
+        "fraseIngles": "Watermelons are mostly water and very refreshing.",
+        "frasePortugues": "Melancias são principalmente água e muito refrescantes.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 54,
+        "ingles": "Cantaloupe",
+        "portugues": "Melão cantaloupe",
+        "fraseIngles": "Cantaloupe has orange flesh and sweet taste.",
+        "frasePortugues": "Melão cantaloupe tem polpa alaranjada e sabor doce.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 55,
+        "ingles": "Honeydew melon",
+        "portugues": "Melão honeydew",
+        "fraseIngles": "Honeydew melon has pale green flesh.",
+        "frasePortugues": "Melão honeydew tem polpa verde pálida.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 56,
+        "ingles": "Casaba melon",
+        "portugues": "Melão casaba",
+        "fraseIngles": "Casaba melons have yellow skin and white flesh.",
+        "frasePortugues": "Melões casaba têm casca amarela e polpa branca.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 57,
+        "ingles": "Lemon",
+        "portugues": "Limão",
+        "fraseIngles": "Lemons are very sour and acidic.",
+        "frasePortugues": "Limões são muito azedos e ácidos.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 58,
+        "ingles": "Lime",
+        "portugues": "Lima",
+        "fraseIngles": "Limes are small green citrus fruits.",
+        "frasePortugues": "Limas são pequenas frutas cítricas verdes.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 59,
+        "ingles": "Grapefruit",
+        "portugues": "Toranja",
+        "fraseIngles": "Grapefruit can be pink or white inside.",
+        "frasePortugues": "Toranja pode ser rosa ou branca por dentro.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 60,
+        "ingles": "Pink grapefruit",
+        "portugues": "Toranja rosa",
+        "fraseIngles": "Pink grapefruit is sweeter than white grapefruit.",
+        "frasePortugues": "Toranja rosa é mais doce que toranja branca.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 61,
+        "ingles": "Pomelo",
+        "portugues": "Pomelo",
+        "fraseIngles": "Pomelos are the largest citrus fruits.",
+        "frasePortugues": "Pomelos são as maiores frutas cítricas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 62,
+        "ingles": "Citron",
+        "portugues": "Cidra",
+        "fraseIngles": "Citrons have very thick, bumpy skin.",
+        "frasePortugues": "Cidras têm casca muito grossa e irregular.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 63,
+        "ingles": "Fig",
+        "portugues": "Figo",
+        "fraseIngles": "Fresh figs have sweet, soft flesh.",
+        "frasePortugues": "Figos frescos têm polpa doce e macia.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 64,
+        "ingles": "Date",
+        "portugues": "Tâmara",
+        "fraseIngles": "Dates are naturally very sweet.",
+        "frasePortugues": "Tâmaras são naturalmente muito doces.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 65,
+        "ingles": "Prune",
+        "portugues": "Ameixa seca",
+        "fraseIngles": "Prunes are dried plums.",
+        "frasePortugues": "Ameixas secas são ameixas desidratadas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 66,
+        "ingles": "Dried fruit",
+        "portugues": "Fruta seca",
+        "fraseIngles": "Dried fruit is concentrated in sweetness.",
+        "frasePortugues": "Fruta seca é concentrada em doçura.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 67,
+        "ingles": "Pomegranate",
+        "portugues": "Romã",
+        "fraseIngles": "Pomegranates have hundreds of ruby-red seeds.",
+        "frasePortugues": "Romãs têm centenas de sementes vermelho-rubi.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 68,
+        "ingles": "Persimmon",
+        "portugues": "Caqui",
+        "fraseIngles": "Persimmons are orange and very sweet when ripe.",
+        "frasePortugues": "Caquis são alaranjados e muito doces quando maduros.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 69,
+        "ingles": "Quince",
+        "portugues": "Marmelo",
+        "fraseIngles": "Quinces are hard and need to be cooked.",
+        "frasePortugues": "Marmelos são duros e precisam ser cozidos.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 70,
+        "ingles": "Guava",
+        "portugues": "Goiaba",
+        "fraseIngles": "Guavas have pink flesh and many seeds.",
+        "frasePortugues": "Goiabas têm polpa rosa e muitas sementes.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 71,
+        "ingles": "Lychee",
+        "portugues": "Lichia",
+        "fraseIngles": "Lychees have white, sweet flesh.",
+        "frasePortugues": "Lichias têm polpa branca e doce.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 72,
+        "ingles": "Rambutan",
+        "portugues": "Rambutan",
+        "fraseIngles": "Rambutans look like hairy lychees.",
+        "frasePortugues": "Rambutans parecem lichias peludas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 73,
+        "ingles": "Longan",
+        "portugues": "Longan",
+        "fraseIngles": "Longans are similar to lychees but smaller.",
+        "frasePortugues": "Longans são similares a lichias mas menores.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 74,
+        "ingles": "Jackfruit",
+        "portugues": "Jaca",
+        "fraseIngles": "Jackfruit is the largest tree fruit.",
+        "frasePortugues": "Jaca é a maior fruta de árvore.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 75,
+        "ingles": "Breadfruit",
+        "portugues": "Fruta-pão",
+        "fraseIngles": "Breadfruit is starchy like potatoes.",
+        "frasePortugues": "Fruta-pão é rica em amido como batatas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 76,
+        "ingles": "Durian",
+        "portugues": "Durian",
+        "fraseIngles": "Durian has a strong smell but creamy taste.",
+        "frasePortugues": "Durian tem cheiro forte mas sabor cremoso.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 77,
+        "ingles": "Custard apple",
+        "portugues": "Pinha",
+        "fraseIngles": "Custard apples have creamy, sweet flesh.",
+        "frasePortugues": "Pinhas têm polpa cremosa e doce.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 78,
+        "ingles": "Soursop",
+        "portugues": "Graviola",
+        "fraseIngles": "Soursop has white flesh with black seeds.",
+        "frasePortugues": "Graviola tem polpa branca com sementes pretas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 79,
+        "ingles": "Cherimoya",
+        "portugues": "Cherimóia",
+        "fraseIngles": "Cherimoya tastes like a mix of banana and pineapple.",
+        "frasePortugues": "Cherimóia tem gosto de mistura de banana com abacaxi.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 80,
+        "ingles": "Ackee",
+        "portugues": "Ackee",
+        "fraseIngles": "Ackee is the national fruit of Jamaica.",
+        "frasePortugues": "Ackee é a fruta nacional da Jamaica.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 81,
+        "ingles": "Plantain",
+        "portugues": "Banana-da-terra",
+        "fraseIngles": "Plantains are cooked before eating.",
+        "frasePortugues": "Bananas-da-terra são cozidas antes de comer.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 82,
+        "ingles": "Cactus fruit",
+        "portugues": "Fruto do cacto",
+        "fraseIngles": "Cactus fruit has a sweet, mild flavor.",
+        "frasePortugues": "Fruto do cacto tem sabor doce e suave.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 83,
+        "ingles": "Prickly pear",
+        "portugues": "Figo-da-índia",
+        "fraseIngles": "Prickly pears grow on cactus plants.",
+        "frasePortugues": "Figos-da-índia crescem em plantas de cacto.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 84,
+        "ingles": "Mulberry",
+        "portugues": "Amora-branca",
+        "fraseIngles": "Mulberries can be white, red, or black.",
+        "frasePortugues": "Amoras-brancas podem ser brancas, vermelhas ou pretas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 85,
+        "ingles": "Blackcurrant",
+        "portugues": "Groselha-preta",
+        "fraseIngles": "Blackcurrants are very tart and rich in vitamin C.",
+        "frasePortugues": "Groselhas-pretas são muito azedas e ricas em vitamina C.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 86,
+        "ingles": "Redcurrant",
+        "portugues": "Groselha-vermelha",
+        "fraseIngles": "Redcurrants are small, bright red berries.",
+        "frasePortugues": "Groselhas-vermelhas são pequenas bagas vermelhas brilhantes.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 87,
+        "ingles": "White currant",
+        "portugues": "Groselha-branca",
+        "fraseIngles": "White currants are the sweetest variety.",
+        "frasePortugues": "Groselhas-brancas são a variedade mais doce.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 88,
+        "ingles": "Cloudberry",
+        "portugues": "Cloudberry",
+        "fraseIngles": "Cloudberries grow in cold northern regions.",
+        "frasePortugues": "Cloudberries crescem em regiões frias do norte.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 89,
+        "ingles": "Lingonberry",
+        "portugues": "Lingonberry",
+        "fraseIngles": "Lingonberries are popular in Scandinavian cuisine.",
+        "frasePortugues": "Lingonberries são populares na culinária escandinava.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 90,
+        "ingles": "Huckleberry",
+        "portugues": "Huckleberry",
+        "fraseIngles": "Huckleberries are similar to blueberries.",
+        "frasePortugues": "Huckleberries são similares a mirtilos.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 91,
+        "ingles": "Dewberry",
+        "portugues": "Dewberry",
+        "fraseIngles": "Dewberries are like blackberries but grow on vines.",
+        "frasePortugues": "Dewberries são como amoras-pretas mas crescem em videiras.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 92,
+        "ingles": "Serviceberry",
+        "portugues": "Serviceberry",
+        "fraseIngles": "Serviceberries are also called Juneberries.",
+        "frasePortugues": "Serviceberries também são chamadas de Juneberries.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 93,
+        "ingles": "Acai berry",
+        "portugues": "Açaí",
+        "fraseIngles": "Acai berries are superfood with antioxidants.",
+        "frasePortugues": "Bagas de açaí são superalimento com antioxidantes.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 94,
+        "ingles": "Goji berry",
+        "portugues": "Goji berry",
+        "fraseIngles": "Goji berries are considered very healthy.",
+        "frasePortugues": "Goji berries são consideradas muito saudáveis.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 95,
+        "ingles": "Sea buckthorn",
+        "portugues": "Espinheiro-marítimo",
+        "fraseIngles": "Sea buckthorn berries are very sour.",
+        "frasePortugues": "Bagas de espinheiro-marítimo são muito azedas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 96,
+        "ingles": "Physalis",
+        "portugues": "Physalis",
+        "fraseIngles": "Physalis fruits are wrapped in papery husks.",
+        "frasePortugues": "Frutas physalis são envolvidas em cascas de papel.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 97,
+        "ingles": "Ground cherry",
+        "portugues": "Cereja-do-chão",
+        "fraseIngles": "Ground cherries are also called physalis.",
+        "frasePortugues": "Cerejas-do-chão também são chamadas de physalis.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 98,
+        "ingles": "Cape gooseberry",
+        "portugues": "Groselha-do-cabo",
+        "fraseIngles": "Cape gooseberries have a sweet-tart flavor.",
+        "frasePortugues": "Groselhas-do-cabo têm sabor doce-azedo.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 99,
+        "ingles": "Tamarind",
+        "portugues": "Tamarindo",
+        "fraseIngles": "Tamarind pods contain sweet-sour pulp.",
+        "frasePortugues": "Vagens de tamarindo contêm polpa doce-azeda.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 100,
+        "ingles": "Baobab fruit",
+        "portugues": "Fruto do baobá",
+        "fraseIngles": "Baobab fruit has a powdery, tangy pulp.",
+        "frasePortugues": "Fruto do baobá tem polpa em pó e ácida.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 101,
+        "ingles": "Horned melon",
+        "portugues": "Melão-com-chifres",
+        "fraseIngles": "Horned melons have spiky yellow skin.",
+        "frasePortugues": "Melões-com-chifres têm casca amarela espinhosa.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 102,
+        "ingles": "Finger lime",
+        "portugues": "Lima-dedo",
+        "fraseIngles": "Finger limes contain caviar-like pearls.",
+        "frasePortugues": "Limas-dedo contêm pérolas semelhantes ao caviar.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 103,
+        "ingles": "Buddha's hand",
+        "portugues": "Mão-de-buda",
+        "fraseIngles": "Buddha's hand is all peel with no flesh.",
+        "frasePortugues": "Mão-de-buda é toda casca sem polpa.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 104,
+        "ingles": "Yuzu",
+        "portugues": "Yuzu",
+        "fraseIngles": "Yuzu is a Japanese citrus with unique flavor.",
+        "frasePortugues": "Yuzu é um cítrico japonês com sabor único.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 105,
+        "ingles": "Kumquat",
+        "portugues": "Kumquat",
+        "fraseIngles": "Kumquats are eaten whole, skin and all.",
+        "frasePortugues": "Kumquats são comidos inteiros, casca e tudo.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 106,
+        "ingles": "Meyer lemon",
+        "portugues": "Limão Meyer",
+        "fraseIngles": "Meyer lemons are sweeter than regular lemons.",
+        "frasePortugues": "Limões Meyer são mais doces que limões comuns.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 107,
+        "ingles": "Key lime",
+        "portugues": "Lima-da-pérsia",
+        "fraseIngles": "Key limes are small and very tart.",
+        "frasePortugues": "Limas-da-pérsia são pequenas e muito azedas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 108,
+        "ingles": "Bergamot",
+        "portugues": "Bergamota",
+        "fraseIngles": "Bergamot is used to flavor Earl Grey tea.",
+        "frasePortugues": "Bergamota é usada para aromatizar chá Earl Grey.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 109,
+        "ingles": "Ugli fruit",
+        "portugues": "Fruta ugli",
+        "fraseIngles": "Ugli fruit is a cross between grapefruit and orange.",
+        "frasePortugues": "Fruta ugli é um cruzamento entre toranja e laranja.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 110,
+        "ingles": "Tangelo",
+        "portugues": "Tangelo",
+        "fraseIngles": "Tangelos are a cross between tangerine and grapefruit.",
+        "frasePortugues": "Tangelos são um cruzamento entre tangerina e toranja.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 111,
+        "ingles": "Minneola",
+        "portugues": "Minneola",
+        "fraseIngles": "Minneolas have a distinctive neck shape.",
+        "frasePortugues": "Minneolas têm formato de pescoço distintivo.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 112,
+        "ingles": "Fruit salad",
+        "portugues": "Salada de frutas",
+        "fraseIngles": "Fruit salad combines many different fruits.",
+        "frasePortugues": "Salada de frutas combina muitas frutas diferentes.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 113,
+        "ingles": "Mixed berries",
+        "portugues": "Frutas vermelhas mistas",
+        "fraseIngles": "Mixed berries include various berry types.",
+        "frasePortugues": "Frutas vermelhas mistas incluem vários tipos de frutas vermelhas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 114,
+        "ingles": "Tropical fruit",
+        "portugues": "Fruta tropical",
+        "fraseIngles": "Tropical fruits grow in warm climates.",
+        "frasePortugues": "Frutas tropicais crescem em climas quentes.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 115,
+        "ingles": "Citrus fruit",
+        "portugues": "Fruta cítrica",
+        "fraseIngles": "Citrus fruits are high in vitamin C.",
+        "frasePortugues": "Frutas cítricas são ricas em vitamina C.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 116,
+        "ingles": "Stone fruit",
+        "portugues": "Fruta de caroço",
+        "fraseIngles": "Stone fruits have large pits in the center.",
+        "frasePortugues": "Frutas de caroço têm caroços grandes no centro.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 117,
+        "ingles": "Berry",
+        "portugues": "Fruta vermelha",
+        "fraseIngles": "Berries are small, juicy fruits.",
+        "frasePortugues": "Frutas vermelhas são pequenas frutas suculentas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 118,
+        "ingles": "Exotic fruit",
+        "portugues": "Fruta exótica",
+        "fraseIngles": "Exotic fruits are not common in most places.",
+        "frasePortugues": "Frutas exóticas não são comuns na maioria dos lugares.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 119,
+        "ingles": "Seasonal fruit",
+        "portugues": "Fruta da época",
+        "fraseIngles": "Seasonal fruits taste best when in season.",
+        "frasePortugues": "Frutas da época têm melhor sabor quando estão na época.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 120,
+        "ingles": "Fresh fruit",
+        "portugues": "Fruta fresca",
+        "fraseIngles": "Fresh fruit is better than canned fruit.",
+        "frasePortugues": "Fruta fresca é melhor que fruta enlatada.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 121,
+        "ingles": "Ripe fruit",
+        "portugues": "Fruta madura",
+        "fraseIngles": "Ripe fruit is sweet and ready to eat.",
+        "frasePortugues": "Fruta madura é doce e pronta para comer.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 122,
+        "ingles": "Unripe fruit",
+        "portugues": "Fruta verde",
+        "fraseIngles": "Unripe fruit is hard and not sweet yet.",
+        "frasePortugues": "Fruta verde é dura e ainda não está doce.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 123,
+        "ingles": "Overripe fruit",
+        "portugues": "Fruta muito madura",
+        "fraseIngles": "Overripe fruit becomes mushy and brown.",
+        "frasePortugues": "Fruta muito madura fica mole e marrom.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 124,
+        "ingles": "Organic fruit",
+        "portugues": "Fruta orgânica",
+        "fraseIngles": "Organic fruit is grown without pesticides.",
+        "frasePortugues": "Fruta orgânica é cultivada sem pesticidas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 125,
+        "ingles": "Wild fruit",
+        "portugues": "Fruta selvagem",
+        "fraseIngles": "Wild fruit grows naturally in forests.",
+        "frasePortugues": "Fruta selvagem cresce naturalmente nas florestas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 126,
+        "ingles": "Cultivated fruit",
+        "portugues": "Fruta cultivada",
+        "fraseIngles": "Cultivated fruit is grown on farms.",
+        "frasePortugues": "Fruta cultivada é plantada em fazendas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 127,
+        "ingles": "Hybrid fruit",
+        "portugues": "Fruta híbrida",
+        "fraseIngles": "Hybrid fruits are crosses between different varieties.",
+        "frasePortugues": "Frutas híbridas são cruzamentos entre variedades diferentes.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 128,
+        "ingles": "Heirloom fruit",
+        "portugues": "Fruta ancestral",
+        "fraseIngles": "Heirloom fruits are old varieties preserved over time.",
+        "frasePortugues": "Frutas ancestrais são variedades antigas preservadas ao longo do tempo.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 129,
+        "ingles": "Seedless fruit",
+        "portugues": "Fruta sem sementes",
+        "fraseIngles": "Seedless fruits are easier to eat.",
+        "frasePortugues": "Frutas sem sementes são mais fáceis de comer.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 130,
+        "ingles": "Juicy fruit",
+        "portugues": "Fruta suculenta",
+        "fraseIngles": "Juicy fruits contain lots of liquid.",
+        "frasePortugues": "Frutas suculentas contêm muito líquido.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 131,
+        "ingles": "Sweet fruit",
+        "portugues": "Fruta doce",
+        "fraseIngles": "Sweet fruits have high sugar content.",
+        "frasePortugues": "Frutas doces têm alto teor de açúcar.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 132,
+        "ingles": "Tart fruit",
+        "portugues": "Fruta azeda",
+        "fraseIngles": "Tart fruits have acidic flavor.",
+        "frasePortugues": "Frutas azedas têm sabor ácido.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 133,
+        "ingles": "Sour fruit",
+        "portugues": "Fruta azeda",
+        "fraseIngles": "Sour fruits make your mouth pucker.",
+        "frasePortugues": "Frutas azedas fazem a boca franzir.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 134,
+        "ingles": "Bitter fruit",
+        "portugues": "Fruta amarga",
+        "fraseIngles": "Bitter fruits have an unpleasant taste.",
+        "frasePortugues": "Frutas amargas têm gosto desagradável.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 135,
+        "ingles": "Crunchy fruit",
+        "portugues": "Fruta crocante",
+        "fraseIngles": "Crunchy fruits make noise when you bite them.",
+        "frasePortugues": "Frutas crocantes fazem barulho quando você as morde.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 136,
+        "ingles": "Soft fruit",
+        "portugues": "Fruta macia",
+        "fraseIngles": "Soft fruits are easy to bite and chew.",
+        "frasePortugues": "Frutas macias são fáceis de morder e mastigar.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 137,
+        "ingles": "Firm fruit",
+        "portugues": "Fruta firme",
+        "fraseIngles": "Firm fruits hold their shape well.",
+        "frasePortugues": "Frutas firmes mantêm bem sua forma.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 138,
+        "ingles": "Fragrant fruit",
+        "portugues": "Fruta perfumada",
+        "fraseIngles": "Fragrant fruits have strong, pleasant smells.",
+        "frasePortugues": "Frutas perfumadas têm cheiros fortes e agradáveis.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 139,
+        "ingles": "Colorful fruit",
+        "portugues": "Fruta colorida",
+        "fraseIngles": "Colorful fruits are visually appealing.",
+        "frasePortugues": "Frutas coloridas são visualmente atraentes.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 140,
+        "ingles": "Large fruit",
+        "portugues": "Fruta grande",
+        "fraseIngles": "Large fruits can feed many people.",
+        "frasePortugues": "Frutas grandes podem alimentar muitas pessoas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 141,
+        "ingles": "Small fruit",
+        "portugues": "Fruta pequena",
+        "fraseIngles": "Small fruits are perfect for snacking.",
+        "frasePortugues": "Frutas pequenas são perfeitas para petiscar.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 142,
+        "ingles": "Round fruit",
+        "portugues": "Fruta redonda",
+        "fraseIngles": "Round fruits roll easily.",
+        "frasePortugues": "Frutas redondas rolam facilmente.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 143,
+        "ingles": "Oval fruit",
+        "portugues": "Fruta oval",
+        "fraseIngles": "Oval fruits have an egg-like shape.",
+        "frasePortugues": "Frutas ovais têm formato parecido com ovo.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 144,
+        "ingles": "Heart-shaped fruit",
+        "portugues": "Fruta em forma de coração",
+        "fraseIngles": "Heart-shaped fruits look romantic.",
+        "frasePortugues": "Frutas em forma de coração parecem românticas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 145,
+        "ingles": "Spiky fruit",
+        "portugues": "Fruta espinhosa",
+        "fraseIngles": "Spiky fruits have thorns or spines.",
+        "frasePortugues": "Frutas espinhosas têm espinhos ou cravos.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 146,
+        "ingles": "Smooth fruit",
+        "portugues": "Fruta lisa",
+        "fraseIngles": "Smooth fruits have even skin texture.",
+        "frasePortugues": "Frutas lisas têm textura de pele uniforme.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 147,
+        "ingles": "Fuzzy fruit",
+        "portugues": "Fruta aveludada",
+        "fraseIngles": "Fuzzy fruits have soft hair on the skin.",
+        "frasePortugues": "Frutas aveludadas têm pelos macios na casca.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 148,
+        "ingles": "Thick-skinned fruit",
+        "portugues": "Fruta de casca grossa",
+        "fraseIngles": "Thick-skinned fruits are protected from damage.",
+        "frasePortugues": "Frutas de casca grossa são protegidas contra danos.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 149,
+        "ingles": "Thin-skinned fruit",
+        "portugues": "Fruta de casca fina",
+        "fraseIngles": "Thin-skinned fruits bruise easily.",
+        "frasePortugues": "Frutas de casca fina se machucam facilmente.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 150,
+        "ingles": "Edible skin",
+        "portugues": "Casca comestível",
+        "fraseIngles": "Some fruits have edible skin that's nutritious.",
+        "frasePortugues": "Algumas frutas têm casca comestível que é nutritiva.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 151,
+        "ingles": "Inedible skin",
+        "portugues": "Casca não comestível",
+        "fraseIngles": "Some fruits have tough, inedible skin.",
+        "frasePortugues": "Algumas frutas têm casca dura e não comestível.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 152,
+        "ingles": "Fruit peel",
+        "portugues": "Casca de fruta",
+        "fraseIngles": "Fruit peels often contain vitamins.",
+        "frasePortugues": "Cascas de frutas frequentemente contêm vitaminas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 153,
+        "ingles": "Fruit flesh",
+        "portugues": "Polpa da fruta",
+        "fraseIngles": "The fruit flesh is the part we usually eat.",
+        "frasePortugues": "A polpa da fruta é a parte que geralmente comemos.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 154,
+        "ingles": "Fruit juice",
+        "portugues": "Suco de fruta",
+        "fraseIngles": "Fresh fruit juice is healthier than artificial drinks.",
+        "frasePortugues": "Suco de fruta fresco é mais saudável que bebidas artificiais.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 155,
+        "ingles": "Fruit pulp",
+        "portugues": "Polpa de fruta",
+        "fraseIngles": "Fruit pulp is the soft, fleshy part.",
+        "frasePortugues": "Polpa de fruta é a parte macia e carnuda.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 156,
+        "ingles": "Fruit seeds",
+        "portugues": "Sementes de fruta",
+        "fraseIngles": "Fruit seeds can grow into new plants.",
+        "frasePortugues": "Sementes de fruta podem crescer e virar novas plantas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 157,
+        "ingles": "Fruit pit",
+        "portugues": "Caroço de fruta",
+        "fraseIngles": "The fruit pit is the hard seed inside.",
+        "frasePortugues": "O caroço da fruta é a semente dura por dentro.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 158,
+        "ingles": "Fruit core",
+        "portugues": "Miolo da fruta",
+        "fraseIngles": "Apple cores contain the seeds.",
+        "frasePortugues": "Miolos de maçã contêm as sementes.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 159,
+        "ingles": "Fruit stem",
+        "portugues": "Cabo da fruta",
+        "fraseIngles": "Remove the fruit stem before eating.",
+        "frasePortugues": "Remova o cabo da fruta antes de comer.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 160,
+        "ingles": "Fruit tree",
+        "portugues": "Árvore frutífera",
+        "fraseIngles": "Fruit trees provide shade and food.",
+        "frasePortugues": "Árvores frutíferas fornecem sombra e comida.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 161,
+        "ingles": "Fruit picking",
+        "portugues": "Colheita de frutas",
+        "fraseIngles": "Fruit picking is fun during harvest season.",
+        "frasePortugues": "Colheita de frutas é divertida durante a época de colheita.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 162,
+        "ingles": "Fruit harvest",
+        "portugues": "Colheita de frutas",
+        "fraseIngles": "The fruit harvest happens in autumn.",
+        "frasePortugues": "A colheita de frutas acontece no outono.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 163,
+        "ingles": "Fruit orchard",
+        "portugues": "Pomar",
+        "fraseIngles": "The fruit orchard has hundreds of trees.",
+        "frasePortugues": "O pomar tem centenas de árvores.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 164,
+        "ingles": "Fruit vendor",
+        "portugues": "Vendedor de frutas",
+        "fraseIngles": "The fruit vendor sells fresh produce daily.",
+        "frasePortugues": "O vendedor de frutas vende produtos frescos diariamente.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 165,
+        "ingles": "Fruit market",
+        "portugues": "Feira de frutas",
+        "fraseIngles": "The fruit market has the best selection.",
+        "frasePortugues": "A feira de frutas tem a melhor seleção.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 166,
+        "ingles": "Fruit basket",
+        "portugues": "Cesta de frutas",
+        "fraseIngles": "A fruit basket makes a nice gift.",
+        "frasePortugues": "Uma cesta de frutas é um presente bonito.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 167,
+        "ingles": "Fruit bowl",
+        "portugues": "Fruteira",
+        "fraseIngles": "Keep fresh fruit in the fruit bowl.",
+        "frasePortugues": "Mantenha frutas frescas na fruteira.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 168,
+        "ingles": "Fruit smoothie",
+        "portugues": "Vitamina de frutas",
+        "fraseIngles": "A fruit smoothie is a healthy breakfast.",
+        "frasePortugues": "Uma vitamina de frutas é um café da manhã saudável.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 169,
+        "ingles": "Fruit preserve",
+        "portugues": "Conserva de frutas",
+        "fraseIngles": "Fruit preserves last longer than fresh fruit.",
+        "frasePortugues": "Conservas de frutas duram mais que frutas frescas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 170,
+        "ingles": "Fruit jam",
+        "portugues": "Geleia de frutas",
+        "fraseIngles": "Spread fruit jam on toast for breakfast.",
+        "frasePortugues": "Passe geleia de frutas na torrada no café da manhã.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 171,
+        "ingles": "Fruit jelly",
+        "portugues": "Geleia de frutas",
+        "fraseIngles": "Fruit jelly is clear and smooth.",
+        "frasePortugues": "Geleia de frutas é transparente e lisa.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 172,
+        "ingles": "Fruit compote",
+        "portugues": "Compota de frutas",
+        "fraseIngles": "Fruit compote is gently cooked fruit.",
+        "frasePortugues": "Compota de frutas é fruta cozida delicadamente.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 173,
+        "ingles": "Fruit salad",
+        "portugues": "Salada de frutas",
+        "fraseIngles": "Mix different fruits to make fruit salad.",
+        "frasePortugues": "Misture frutas diferentes para fazer salada de frutas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 174,
+        "ingles": "Fruit cocktail",
+        "portugues": "Coquetel de frutas",
+        "fraseIngles": "Canned fruit cocktail contains mixed fruits.",
+        "frasePortugues": "Coquetel de frutas enlatado contém frutas mistas.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 175,
+        "ingles": "Fruit leather",
+        "portugues": "Couro de fruta",
+        "fraseIngles": "Fruit leather is dried fruit puree.",
+        "frasePortugues": "Couro de fruta é purê de fruta seco.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 176,
+        "ingles": "Fruit roll-up",
+        "portugues": "Rolinho de fruta",
+        "fraseIngles": "Kids love fruit roll-ups as snacks.",
+        "frasePortugues": "Crianças adoram rolinhos de fruta como lanche.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 177,
+        "ingles": "Candied fruit",
+        "portugues": "Fruta cristalizada",
+        "fraseIngles": "Candied fruit is preserved in sugar syrup.",
+        "frasePortugues": "Fruta cristalizada é preservada em calda de açúcar.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 178,
+        "ingles": "Glazed fruit",
+        "portugues": "Fruta glaceada",
+        "fraseIngles": "Glazed fruit has a shiny sugar coating.",
+        "frasePortugues": "Fruta glaceada tem cobertura brilhante de açúcar.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 179,
+        "ingles": "Frozen fruit",
+        "portugues": "Fruta congelada",
+        "fraseIngles": "Frozen fruit retains most nutrients.",
+        "frasePortugues": "Fruta congelada mantém a maioria dos nutrientes.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 180,
+        "ingles": "Canned fruit",
+        "portugues": "Fruta enlatada",
+        "fraseIngles": "Canned fruit is convenient but less nutritious.",
+        "frasePortugues": "Fruta enlatada é conveniente mas menos nutritiva.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 181,
+        "ingles": "Dehydrated fruit",
+        "portugues": "Fruta desidratada",
+        "fraseIngles": "Dehydrated fruit has concentrated flavors.",
+        "frasePortugues": "Fruta desidratada tem sabores concentrados.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 182,
+        "ingles": "Freeze-dried fruit",
+        "portugues": "Fruta liofilizada",
+        "fraseIngles": "Freeze-dried fruit is light and crunchy.",
+        "frasePortugues": "Fruta liofilizada é leve e crocante.",
+        "subtopico": "Frutas",
+        "topico": "Alimentos"
+    }
+]

@@ -1,0 +1,1244 @@
+[
+    {
+        "id": 1,
+        "ingles": "Milk",
+        "portugues": "Leite",
+        "fraseIngles": "Fresh milk should be kept refrigerated.",
+        "frasePortugues": "Leite fresco deve ser mantido refrigerado.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 2,
+        "ingles": "Whole milk",
+        "portugues": "Leite integral",
+        "fraseIngles": "Whole milk contains 3.25% fat content.",
+        "frasePortugues": "Leite integral contém 3,25% de teor de gordura.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 3,
+        "ingles": "Skim milk",
+        "portugues": "Leite desnatado",
+        "fraseIngles": "Skim milk has all the fat removed.",
+        "frasePortugues": "Leite desnatado tem toda a gordura removida.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 4,
+        "ingles": "Low-fat milk",
+        "portugues": "Leite semidesnatado",
+        "fraseIngles": "Low-fat milk contains 1% or 2% fat.",
+        "frasePortugues": "Leite semidesnatado contém 1% ou 2% de gordura.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 5,
+        "ingles": "2% milk",
+        "portugues": "Leite com 2% de gordura",
+        "fraseIngles": "2% milk is the most popular variety.",
+        "frasePortugues": "Leite com 2% de gordura é a variedade mais popular.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 6,
+        "ingles": "1% milk",
+        "portugues": "Leite com 1% de gordura",
+        "fraseIngles": "1% milk is lighter than 2% milk.",
+        "frasePortugues": "Leite com 1% de gordura é mais leve que leite com 2%.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 7,
+        "ingles": "Fat-free milk",
+        "portugues": "Leite sem gordura",
+        "fraseIngles": "Fat-free milk is the same as skim milk.",
+        "frasePortugues": "Leite sem gordura é o mesmo que leite desnatado.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 8,
+        "ingles": "Organic milk",
+        "portugues": "Leite orgânico",
+        "fraseIngles": "Organic milk comes from grass-fed cows.",
+        "frasePortugues": "Leite orgânico vem de vacas alimentadas com pasto.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 9,
+        "ingles": "Raw milk",
+        "portugues": "Leite cru",
+        "fraseIngles": "Raw milk is not pasteurized or homogenized.",
+        "frasePortugues": "Leite cru não é pasteurizado nem homogeneizado.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 10,
+        "ingles": "Pasteurized milk",
+        "portugues": "Leite pasteurizado",
+        "fraseIngles": "Pasteurized milk is heated to kill bacteria.",
+        "frasePortugues": "Leite pasteurizado é aquecido para matar bactérias.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 11,
+        "ingles": "Ultra-pasteurized milk",
+        "portugues": "Leite UHT",
+        "fraseIngles": "Ultra-pasteurized milk lasts longer on shelves.",
+        "frasePortugues": "Leite UHT dura mais tempo nas prateleiras.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 12,
+        "ingles": "Lactose-free milk",
+        "portugues": "Leite sem lactose",
+        "fraseIngles": "Lactose-free milk is easier to digest.",
+        "frasePortugues": "Leite sem lactose é mais fácil de digerir.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 13,
+        "ingles": "Chocolate milk",
+        "portugues": "Leite com chocolate",
+        "fraseIngles": "Kids love cold chocolate milk with cookies.",
+        "frasePortugues": "Crianças adoram leite com chocolate gelado com biscoitos.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 14,
+        "ingles": "Strawberry milk",
+        "portugues": "Leite com morango",
+        "fraseIngles": "Pink strawberry milk is sweet and creamy.",
+        "frasePortugues": "Leite com morango rosa é doce e cremoso.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 15,
+        "ingles": "Vanilla milk",
+        "portugues": "Leite com baunilha",
+        "fraseIngles": "Vanilla milk has subtle flavor.",
+        "frasePortugues": "Leite com baunilha tem sabor sutil.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 16,
+        "ingles": "Buttermilk",
+        "portugues": "Leitelho",
+        "fraseIngles": "Buttermilk is tangy and used in baking.",
+        "frasePortugues": "Leitelho é azedinho e usado na confeitaria.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 17,
+        "ingles": "Evaporated milk",
+        "portugues": "Leite evaporado",
+        "fraseIngles": "Evaporated milk is concentrated by removing water.",
+        "frasePortugues": "Leite evaporado é concentrado removendo água.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 18,
+        "ingles": "Condensed milk",
+        "portugues": "Leite condensado",
+        "fraseIngles": "Sweetened condensed milk is thick and sweet.",
+        "frasePortugues": "Leite condensado é grosso e doce.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 19,
+        "ingles": "Powdered milk",
+        "portugues": "Leite em pó",
+        "fraseIngles": "Powdered milk is convenient for storage.",
+        "frasePortugues": "Leite em pó é conveniente para armazenamento.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 20,
+        "ingles": "Goat milk",
+        "portugues": "Leite de cabra",
+        "fraseIngles": "Goat milk is easier to digest than cow milk.",
+        "frasePortugues": "Leite de cabra é mais fácil de digerir que leite de vaca.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 21,
+        "ingles": "Sheep milk",
+        "portugues": "Leite de ovelha",
+        "fraseIngles": "Sheep milk is rich and creamy.",
+        "frasePortugues": "Leite de ovelha é rico e cremoso.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 22,
+        "ingles": "Buffalo milk",
+        "portugues": "Leite de búfala",
+        "fraseIngles": "Buffalo milk is used to make mozzarella.",
+        "frasePortugues": "Leite de búfala é usado para fazer muçarela.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 23,
+        "ingles": "Heavy cream",
+        "portugues": "Creme de leite pesado",
+        "fraseIngles": "Heavy cream whips into stiff peaks.",
+        "frasePortugues": "Creme de leite pesado bate em picos firmes.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 24,
+        "ingles": "Light cream",
+        "portugues": "Creme de leite leve",
+        "fraseIngles": "Light cream has less fat than heavy cream.",
+        "frasePortugues": "Creme de leite leve tem menos gordura que o pesado.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 25,
+        "ingles": "Half and half",
+        "portugues": "Meio a meio",
+        "fraseIngles": "Half and half is half milk, half cream.",
+        "frasePortugues": "Meio a meio é metade leite, metade creme.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 26,
+        "ingles": "Whipping cream",
+        "portugues": "Chantilly líquido",
+        "fraseIngles": "Whipping cream becomes fluffy when beaten.",
+        "frasePortugues": "Chantilly líquido fica fofo quando batido.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 27,
+        "ingles": "Whipped cream",
+        "portugues": "Chantilly",
+        "fraseIngles": "Fresh whipped cream tops desserts perfectly.",
+        "frasePortugues": "Chantilly fresco cobre sobremesas perfeitamente.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 28,
+        "ingles": "Sour cream",
+        "portugues": "Creme azedo",
+        "fraseIngles": "Sour cream is tangy and thick.",
+        "frasePortugues": "Creme azedo é ácido e grosso.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 29,
+        "ingles": "Crème fraîche",
+        "portugues": "Crème fraîche",
+        "fraseIngles": "French crème fraîche is richer than sour cream.",
+        "frasePortugues": "Crème fraîche francês é mais rico que creme azedo.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 30,
+        "ingles": "Double cream",
+        "portugues": "Creme duplo",
+        "fraseIngles": "British double cream is very rich.",
+        "frasePortugues": "Creme duplo britânico é muito rico.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 31,
+        "ingles": "Clotted cream",
+        "portugues": "Creme coagulado",
+        "fraseIngles": "Clotted cream is served with scones.",
+        "frasePortugues": "Creme coagulado é servido com scones.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 32,
+        "ingles": "Ice cream",
+        "portugues": "Sorvete",
+        "fraseIngles": "Vanilla ice cream is the most popular flavor.",
+        "frasePortugues": "Sorvete de baunilha é o sabor mais popular.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 33,
+        "ingles": "Gelato",
+        "portugues": "Gelato",
+        "fraseIngles": "Italian gelato is denser than ice cream.",
+        "frasePortugues": "Gelato italiano é mais denso que sorvete.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 34,
+        "ingles": "Sorbet",
+        "portugues": "Sorbet",
+        "fraseIngles": "Fruit sorbet is lighter than ice cream.",
+        "frasePortugues": "Sorbet de frutas é mais leve que sorvete.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 35,
+        "ingles": "Sherbet",
+        "portugues": "Sherbet",
+        "fraseIngles": "Sherbet contains some dairy unlike sorbet.",
+        "frasePortugues": "Sherbet contém alguns laticínios diferente do sorbet.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 36,
+        "ingles": "Frozen yogurt",
+        "portugues": "Iogurte congelado",
+        "fraseIngles": "Frozen yogurt is healthier than ice cream.",
+        "frasePortugues": "Iogurte congelado é mais saudável que sorvete.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 37,
+        "ingles": "Cheese",
+        "portugues": "Queijo",
+        "fraseIngles": "Aged cheese has more complex flavors.",
+        "frasePortugues": "Queijo maturado tem sabores mais complexos.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 38,
+        "ingles": "Cheddar cheese",
+        "portugues": "Queijo cheddar",
+        "fraseIngles": "Sharp cheddar has been aged longer.",
+        "frasePortugues": "Cheddar forte foi maturado por mais tempo.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 39,
+        "ingles": "Mozzarella",
+        "portugues": "Muçarela",
+        "fraseIngles": "Fresh mozzarella is soft and milky.",
+        "frasePortugues": "Muçarela fresca é macia e leitosa.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 40,
+        "ingles": "Swiss cheese",
+        "portugues": "Queijo suíço",
+        "fraseIngles": "Swiss cheese has characteristic holes.",
+        "frasePortugues": "Queijo suíço tem furos característicos.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 41,
+        "ingles": "Gouda",
+        "portugues": "Gouda",
+        "fraseIngles": "Dutch Gouda becomes nuttier with age.",
+        "frasePortugues": "Gouda holandês fica mais amendoado com a idade.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 42,
+        "ingles": "Brie",
+        "portugues": "Brie",
+        "fraseIngles": "French Brie has a creamy white rind.",
+        "frasePortugues": "Brie francês tem casca branca cremosa.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 43,
+        "ingles": "Camembert",
+        "portugues": "Camembert",
+        "fraseIngles": "Camembert is similar to Brie but stronger.",
+        "frasePortugues": "Camembert é similar ao Brie mas mais forte.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 44,
+        "ingles": "Blue cheese",
+        "portugues": "Queijo azul",
+        "fraseIngles": "Blue cheese has veins of blue-green mold.",
+        "frasePortugues": "Queijo azul tem veias de mofo azul-esverdeado.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 45,
+        "ingles": "Roquefort",
+        "portugues": "Roquefort",
+        "fraseIngles": "Roquefort is French blue cheese made from sheep milk.",
+        "frasePortugues": "Roquefort é queijo azul francês feito de leite de ovelha.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 46,
+        "ingles": "Stilton",
+        "portugues": "Stilton",
+        "fraseIngles": "English Stilton is a creamy blue cheese.",
+        "frasePortugues": "Stilton inglês é um queijo azul cremoso.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 47,
+        "ingles": "Gorgonzola",
+        "portugues": "Gorgonzola",
+        "fraseIngles": "Italian Gorgonzola is milder than Roquefort.",
+        "frasePortugues": "Gorgonzola italiano é mais suave que Roquefort.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 48,
+        "ingles": "Parmesan",
+        "portugues": "Parmesão",
+        "fraseIngles": "Aged Parmesan is hard and nutty.",
+        "frasePortugues": "Parmesão maturado é duro e amendoado.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 49,
+        "ingles": "Romano",
+        "portugues": "Romano",
+        "fraseIngles": "Romano cheese is sharp and salty.",
+        "frasePortugues": "Queijo Romano é forte e salgado.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 50,
+        "ingles": "Asiago",
+        "portugues": "Asiago",
+        "fraseIngles": "Italian Asiago becomes harder with age.",
+        "frasePortugues": "Asiago italiano fica mais duro com a idade.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 51,
+        "ingles": "Pecorino",
+        "portugues": "Pecorino",
+        "fraseIngles": "Pecorino is made from sheep's milk.",
+        "frasePortugues": "Pecorino é feito de leite de ovelha.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 52,
+        "ingles": "Feta",
+        "portugues": "Feta",
+        "fraseIngles": "Greek feta is brined and crumbly.",
+        "frasePortugues": "Feta grego é em salmoura e esfarelento.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 53,
+        "ingles": "Goat cheese",
+        "portugues": "Queijo de cabra",
+        "fraseIngles": "Goat cheese is tangy and creamy.",
+        "frasePortugues": "Queijo de cabra é ácido e cremoso.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 54,
+        "ingles": "Ricotta",
+        "portugues": "Ricota",
+        "fraseIngles": "Fresh ricotta is mild and grainy.",
+        "frasePortugues": "Ricota fresca é suave e granulosa.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 55,
+        "ingles": "Mascarpone",
+        "portugues": "Mascarpone",
+        "fraseIngles": "Italian mascarpone is rich and spreadable.",
+        "frasePortugues": "Mascarpone italiano é rico e cremoso para passar.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 56,
+        "ingles": "Cottage cheese",
+        "portugues": "Queijo cottage",
+        "fraseIngles": "Cottage cheese has lumpy texture.",
+        "frasePortugues": "Queijo cottage tem textura grumosa.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 57,
+        "ingles": "Cream cheese",
+        "portugues": "Cream cheese",
+        "fraseIngles": "Cream cheese is smooth and spreadable.",
+        "frasePortugues": "Cream cheese é liso e cremoso para passar.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 58,
+        "ingles": "Neufchatel",
+        "portugues": "Neufchatel",
+        "fraseIngles": "Neufchatel is similar to cream cheese but lighter.",
+        "frasePortugues": "Neufchatel é similar ao cream cheese mas mais leve.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 59,
+        "ingles": "String cheese",
+        "portugues": "Queijo de cordinha",
+        "fraseIngles": "Kids love pulling apart string cheese.",
+        "frasePortugues": "Crianças adoram separar queijo de cordinha.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 60,
+        "ingles": "American cheese",
+        "portugues": "Queijo americano",
+        "fraseIngles": "Processed American cheese melts smoothly.",
+        "frasePortugues": "Queijo americano processado derrete suavemente.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 61,
+        "ingles": "Velveeta",
+        "portugues": "Velveeta",
+        "fraseIngles": "Velveeta is processed cheese product.",
+        "frasePortugues": "Velveeta é produto de queijo processado.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 62,
+        "ingles": "Cheese spread",
+        "portugues": "Pasta de queijo",
+        "fraseIngles": "Cheese spread comes in jars or tubes.",
+        "frasePortugues": "Pasta de queijo vem em potes ou tubos.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 63,
+        "ingles": "Cheese slice",
+        "portugues": "Fatia de queijo",
+        "fraseIngles": "Pre-sliced cheese is convenient for sandwiches.",
+        "frasePortugues": "Queijo pré-fatiado é conveniente para sanduíches.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 64,
+        "ingles": "Shredded cheese",
+        "portugues": "Queijo ralado",
+        "fraseIngles": "Shredded cheese melts quickly on pizza.",
+        "frasePortugues": "Queijo ralado derrete rapidamente na pizza.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 65,
+        "ingles": "Grated cheese",
+        "portugues": "Queijo ralado fino",
+        "fraseIngles": "Finely grated cheese distributes evenly.",
+        "frasePortugues": "Queijo ralado fino se distribui uniformemente.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 66,
+        "ingles": "Cheese block",
+        "portugues": "Bloco de queijo",
+        "fraseIngles": "Cheese blocks stay fresher longer.",
+        "frasePortugues": "Blocos de queijo ficam frescos por mais tempo.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 67,
+        "ingles": "Cheese wheel",
+        "portugues": "Roda de queijo",
+        "fraseIngles": "Traditional cheese wheels are aged in caves.",
+        "frasePortugues": "Rodas tradicionais de queijo são maturadas em cavernas.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 68,
+        "ingles": "Smoked cheese",
+        "portugues": "Queijo defumado",
+        "fraseIngles": "Smoked cheese has distinctive flavor.",
+        "frasePortugues": "Queijo defumado tem sabor distintivo.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 69,
+        "ingles": "Herbed cheese",
+        "portugues": "Queijo com ervas",
+        "fraseIngles": "Herbed cheese contains dried herbs.",
+        "frasePortugues": "Queijo com ervas contém ervas secas.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 70,
+        "ingles": "Pepper jack",
+        "portugues": "Queijo com pimenta",
+        "fraseIngles": "Pepper jack cheese has jalapeño pieces.",
+        "frasePortugues": "Queijo com pimenta tem pedaços de jalapeño.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 71,
+        "ingles": "Colby",
+        "portugues": "Colby",
+        "fraseIngles": "Colby cheese is mild and orange-colored.",
+        "frasePortugues": "Queijo Colby é suave e cor de laranja.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 72,
+        "ingles": "Monterey Jack",
+        "portugues": "Monterey Jack",
+        "fraseIngles": "Monterey Jack is mild and buttery.",
+        "frasePortugues": "Monterey Jack é suave e amanteigado.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 73,
+        "ingles": "Provolone",
+        "portugues": "Provolone",
+        "fraseIngles": "Italian provolone can be mild or sharp.",
+        "frasePortugues": "Provolone italiano pode ser suave ou forte.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 74,
+        "ingles": "Munster",
+        "portugues": "Munster",
+        "fraseIngles": "Munster cheese has orange rind.",
+        "frasePortugues": "Queijo Munster tem casca laranja.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 75,
+        "ingles": "Limburger",
+        "portugues": "Limburger",
+        "fraseIngles": "Limburger cheese has very strong smell.",
+        "frasePortugues": "Queijo Limburger tem cheiro muito forte.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 76,
+        "ingles": "Yogurt",
+        "portugues": "Iogurte",
+        "fraseIngles": "Greek yogurt is thicker than regular yogurt.",
+        "frasePortugues": "Iogurte grego é mais grosso que iogurte comum.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 77,
+        "ingles": "Greek yogurt",
+        "portugues": "Iogurte grego",
+        "fraseIngles": "Greek yogurt is strained to remove whey.",
+        "frasePortugues": "Iogurte grego é coado para remover soro.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 78,
+        "ingles": "Plain yogurt",
+        "portugues": "Iogurte natural",
+        "fraseIngles": "Plain yogurt has no added flavors.",
+        "frasePortugues": "Iogurte natural não tem sabores adicionados.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 79,
+        "ingles": "Vanilla yogurt",
+        "portugues": "Iogurte de baunilha",
+        "fraseIngles": "Vanilla yogurt is mildly sweet.",
+        "frasePortugues": "Iogurte de baunilha é levemente doce.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 80,
+        "ingles": "Fruit yogurt",
+        "portugues": "Iogurte de frutas",
+        "fraseIngles": "Strawberry yogurt contains fruit pieces.",
+        "frasePortugues": "Iogurte de morango contém pedaços de fruta.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 81,
+        "ingles": "Low-fat yogurt",
+        "portugues": "Iogurte desnatado",
+        "fraseIngles": "Low-fat yogurt has reduced calories.",
+        "frasePortugues": "Iogurte desnatado tem calorias reduzidas.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 82,
+        "ingles": "Non-fat yogurt",
+        "portugues": "Iogurte sem gordura",
+        "fraseIngles": "Non-fat yogurt is the lightest option.",
+        "frasePortugues": "Iogurte sem gordura é a opção mais leve.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 83,
+        "ingles": "Organic yogurt",
+        "portugues": "Iogurte orgânico",
+        "fraseIngles": "Organic yogurt comes from organic milk.",
+        "frasePortugues": "Iogurte orgânico vem de leite orgânico.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 84,
+        "ingles": "Probiotic yogurt",
+        "portugues": "Iogurte probiótico",
+        "fraseIngles": "Probiotic yogurt contains beneficial bacteria.",
+        "frasePortugues": "Iogurte probiótico contém bactérias benéficas.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 85,
+        "ingles": "Kefir",
+        "portugues": "Kefir",
+        "fraseIngles": "Kefir is a fermented milk drink.",
+        "frasePortugues": "Kefir é uma bebida de leite fermentado.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 86,
+        "ingles": "Buttermilk",
+        "portugues": "Leitelho",
+        "fraseIngles": "Traditional buttermilk is tangy and thick.",
+        "frasePortugues": "Leitelho tradicional é ácido e grosso.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 87,
+        "ingles": "Sour milk",
+        "portugues": "Leite azedo",
+        "fraseIngles": "Sour milk is used in some baking recipes.",
+        "frasePortugues": "Leite azedo é usado em algumas receitas de confeitaria.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 88,
+        "ingles": "Cultured buttermilk",
+        "portugues": "Leitelho fermentado",
+        "fraseIngles": "Cultured buttermilk is made with added cultures.",
+        "frasePortugues": "Leitelho fermentado é feito com culturas adicionadas.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 89,
+        "ingles": "Skyr",
+        "portugues": "Skyr",
+        "fraseIngles": "Icelandic skyr is similar to Greek yogurt.",
+        "frasePortugues": "Skyr islandês é similar ao iogurte grego.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 90,
+        "ingles": "Quark",
+        "portugues": "Quark",
+        "fraseIngles": "German quark is between yogurt and cheese.",
+        "frasePortugues": "Quark alemão está entre iogurte e queijo.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 91,
+        "ingles": "Labneh",
+        "portugues": "Labneh",
+        "fraseIngles": "Middle Eastern labneh is strained yogurt.",
+        "frasePortugues": "Labneh do Oriente Médio é iogurte coado.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 92,
+        "ingles": "Butter",
+        "portugues": "Manteiga",
+        "fraseIngles": "Real butter is made from churned cream.",
+        "frasePortugues": "Manteiga real é feita de creme batido.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 93,
+        "ingles": "Salted butter",
+        "portugues": "Manteiga com sal",
+        "fraseIngles": "Salted butter has added salt for flavor.",
+        "frasePortugues": "Manteiga com sal tem sal adicionado para sabor.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 94,
+        "ingles": "Unsalted butter",
+        "portugues": "Manteiga sem sal",
+        "fraseIngles": "Unsalted butter is preferred for baking.",
+        "frasePortugues": "Manteiga sem sal é preferida para confeitaria.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 95,
+        "ingles": "Sweet cream butter",
+        "portugues": "Manteiga de creme doce",
+        "fraseIngles": "Sweet cream butter is made from fresh cream.",
+        "frasePortugues": "Manteiga de creme doce é feita de creme fresco.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 96,
+        "ingles": "European butter",
+        "portugues": "Manteiga europeia",
+        "fraseIngles": "European butter has higher fat content.",
+        "frasePortugues": "Manteiga europeia tem maior teor de gordura.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 97,
+        "ingles": "Organic butter",
+        "portugues": "Manteiga orgânica",
+        "fraseIngles": "Organic butter comes from organic cream.",
+        "frasePortugues": "Manteiga orgânica vem de creme orgânico.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 98,
+        "ingles": "Grass-fed butter",
+        "portugues": "Manteiga de vacas no pasto",
+        "fraseIngles": "Grass-fed butter is more nutritious.",
+        "frasePortugues": "Manteiga de vacas no pasto é mais nutritiva.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 99,
+        "ingles": "Clarified butter",
+        "portugues": "Manteiga clarificada",
+        "fraseIngles": "Clarified butter has milk solids removed.",
+        "frasePortugues": "Manteiga clarificada tem sólidos do leite removidos.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 100,
+        "ingles": "Ghee",
+        "portugues": "Ghee",
+        "fraseIngles": "Indian ghee is clarified butter.",
+        "frasePortugues": "Ghee indiano é manteiga clarificada.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 101,
+        "ingles": "Brown butter",
+        "portugues": "Manteiga dourada",
+        "fraseIngles": "Brown butter has nutty flavor from browning.",
+        "frasePortugues": "Manteiga dourada tem sabor amendoado do douramento.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 102,
+        "ingles": "Compound butter",
+        "portugues": "Manteiga composta",
+        "fraseIngles": "Compound butter has herbs or seasonings added.",
+        "frasePortugues": "Manteiga composta tem ervas ou temperos adicionados.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 103,
+        "ingles": "Cultured butter",
+        "portugues": "Manteiga fermentada",
+        "fraseIngles": "Cultured butter has tangy flavor.",
+        "frasePortugues": "Manteiga fermentada tem sabor ácido.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 104,
+        "ingles": "Whipped butter",
+        "portugues": "Manteiga batida",
+        "fraseIngles": "Whipped butter is lighter and spreads easily.",
+        "frasePortugues": "Manteiga batida é mais leve e espalha facilmente.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 105,
+        "ingles": "Margarine",
+        "portugues": "Margarina",
+        "fraseIngles": "Margarine is made from vegetable oils.",
+        "frasePortugues": "Margarina é feita de óleos vegetais.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 106,
+        "ingles": "Dairy spread",
+        "portugues": "Pasta láctea",
+        "fraseIngles": "Dairy spreads blend butter with oils.",
+        "frasePortugues": "Pastas lácteas misturam manteiga com óleos.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 107,
+        "ingles": "Buttermilk powder",
+        "portugues": "Leitelho em pó",
+        "fraseIngles": "Buttermilk powder is used in baking mixes.",
+        "frasePortugues": "Leitelho em pó é usado em misturas de confeitaria.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 108,
+        "ingles": "Milk powder",
+        "portugues": "Leite em pó",
+        "fraseIngles": "Whole milk powder retains fat content.",
+        "frasePortugues": "Leite em pó integral mantém teor de gordura.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 109,
+        "ingles": "Whey powder",
+        "portugues": "Soro em pó",
+        "fraseIngles": "Whey powder is a protein supplement.",
+        "frasePortugues": "Soro em pó é um suplemento proteico.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 110,
+        "ingles": "Casein",
+        "portugues": "Caseína",
+        "fraseIngles": "Casein is the main protein in milk.",
+        "frasePortugues": "Caseína é a principal proteína do leite.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 111,
+        "ingles": "Lactose",
+        "portugues": "Lactose",
+        "fraseIngles": "Lactose is the natural sugar in milk.",
+        "frasePortugues": "Lactose é o açúcar natural do leite.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 112,
+        "ingles": "Calcium",
+        "portugues": "Cálcio",
+        "fraseIngles": "Dairy products are rich in calcium.",
+        "frasePortugues": "Produtos lácteos são ricos em cálcio.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 113,
+        "ingles": "Vitamin D",
+        "portugues": "Vitamina D",
+        "fraseIngles": "Many dairy products are fortified with vitamin D.",
+        "frasePortugues": "Muitos produtos lácteos são fortificados com vitamina D.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 114,
+        "ingles": "Pasteurization",
+        "portugues": "Pasteurização",
+        "fraseIngles": "Pasteurization kills harmful bacteria in milk.",
+        "frasePortugues": "Pasteurização mata bactérias nocivas no leite.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 115,
+        "ingles": "Homogenization",
+        "portugues": "Homogeneização",
+        "fraseIngles": "Homogenization breaks up fat globules in milk.",
+        "frasePortugues": "Homogeneização quebra glóbulos de gordura no leite.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 116,
+        "ingles": "Ultra-high temperature",
+        "portugues": "Ultra-alta temperatura",
+        "fraseIngles": "UHT processing extends shelf life significantly.",
+        "frasePortugues": "Processamento UHT estende significativamente a vida útil.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 117,
+        "ingles": "Fermentation",
+        "portugues": "Fermentação",
+        "fraseIngles": "Fermentation creates yogurt and cheese.",
+        "frasePortugues": "Fermentação cria iogurte e queijo.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 118,
+        "ingles": "Aging",
+        "portugues": "Maturação",
+        "fraseIngles": "Aging develops complex flavors in cheese.",
+        "frasePortugues": "Maturação desenvolve sabores complexos no queijo.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 119,
+        "ingles": "Rennet",
+        "portugues": "Coalho",
+        "fraseIngles": "Rennet helps milk coagulate into cheese.",
+        "frasePortugues": "Coalho ajuda o leite a coagular em queijo.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 120,
+        "ingles": "Starter culture",
+        "portugues": "Cultura iniciadora",
+        "fraseIngles": "Starter cultures begin fermentation process.",
+        "frasePortugues": "Culturas iniciadoras começam o processo de fermentação.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 121,
+        "ingles": "Curd",
+        "portugues": "Coalhada",
+        "fraseIngles": "Cheese curds are the first stage of cheesemaking.",
+        "frasePortugues": "Coalhos de queijo são o primeiro estágio da fabricação de queijo.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 122,
+        "ingles": "Whey",
+        "portugues": "Soro",
+        "fraseIngles": "Whey is the liquid separated from curds.",
+        "frasePortugues": "Soro é o líquido separado da coalhada.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 123,
+        "ingles": "Cream separator",
+        "portugues": "Separador de creme",
+        "fraseIngles": "Cream separators divide milk into cream and skim milk.",
+        "frasePortugues": "Separadores de creme dividem leite em creme e leite desnatado.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 124,
+        "ingles": "Churning",
+        "portugues": "Bater",
+        "fraseIngles": "Churning cream makes butter.",
+        "frasePortugues": "Bater creme faz manteiga.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 125,
+        "ingles": "Milking",
+        "portugues": "Ordenhar",
+        "fraseIngles": "Modern farms use machines for milking cows.",
+        "frasePortugues": "Fazendas modernas usam máquinas para ordenhar vacas.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 126,
+        "ingles": "Dairy farm",
+        "portugues": "Fazenda leiteira",
+        "fraseIngles": "Dairy farms specialize in milk production.",
+        "frasePortugues": "Fazendas leiteiras se especializam na produção de leite.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 127,
+        "ingles": "Dairy cow",
+        "portugues": "Vaca leiteira",
+        "fraseIngles": "Holstein cows are common dairy cattle.",
+        "frasePortugues": "Vacas Holstein são gado leiteiro comum.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 128,
+        "ingles": "Milk tank",
+        "portugues": "Tanque de leite",
+        "fraseIngles": "Refrigerated milk tanks keep milk fresh.",
+        "frasePortugues": "Tanques refrigerados de leite mantêm o leite fresco.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 129,
+        "ingles": "Dairy products",
+        "portugues": "Produtos lácteos",
+        "fraseIngles": "Dairy products include milk, cheese, and yogurt.",
+        "frasePortugues": "Produtos lácteos incluem leite, queijo e iogurte.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 130,
+        "ingles": "Lactose intolerance",
+        "portugues": "Intolerância à lactose",
+        "fraseIngles": "Lactose intolerance affects many adults.",
+        "frasePortugues": "Intolerância à lactose afeta muitos adultos.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 131,
+        "ingles": "Dairy-free",
+        "portugues": "Sem laticínios",
+        "fraseIngles": "Dairy-free alternatives use plant milks.",
+        "frasePortugues": "Alternativas sem laticínios usam leites vegetais.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 132,
+        "ingles": "Vegan cheese",
+        "portugues": "Queijo vegano",
+        "fraseIngles": "Vegan cheese is made without animal products.",
+        "frasePortugues": "Queijo vegano é feito sem produtos animais.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 133,
+        "ingles": "Plant-based milk",
+        "portugues": "Leite vegetal",
+        "fraseIngles": "Plant-based milks include almond and soy.",
+        "frasePortugues": "Leites vegetais incluem amêndoa e soja.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 134,
+        "ingles": "Cheese board",
+        "portugues": "Tábua de queijos",
+        "fraseIngles": "A cheese board features various cheese types.",
+        "frasePortugues": "Uma tábua de queijos apresenta vários tipos de queijo.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 135,
+        "ingles": "Wine and cheese",
+        "portugues": "Vinho e queijo",
+        "fraseIngles": "Wine and cheese pairings complement each other.",
+        "frasePortugues": "Harmonizações de vinho e queijo se complementam.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 136,
+        "ingles": "Cheese knife",
+        "portugues": "Faca de queijo",
+        "fraseIngles": "Different cheese knives work for different textures.",
+        "frasePortugues": "Facas de queijo diferentes funcionam para texturas diferentes.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 137,
+        "ingles": "Cheese grater",
+        "portugues": "Ralador de queijo",
+        "fraseIngles": "Box graters have different sized holes.",
+        "frasePortugues": "Raladores de caixa têm furos de tamanhos diferentes.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 138,
+        "ingles": "Cheese slicer",
+        "portugues": "Fatiador de queijo",
+        "fraseIngles": "Norwegian cheese slicers make thin slices.",
+        "frasePortugues": "Fatiadores de queijo noruegueses fazem fatias finas.",
+        "subtopico": "Laticínios",
+        "topico": "Alimentos"
+    }
+]

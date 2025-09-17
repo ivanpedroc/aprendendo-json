@@ -1,0 +1,1271 @@
+[
+    {
+        "id": 1,
+        "ingles": "Rice",
+        "portugues": "Arroz",
+        "fraseIngles": "White rice is a staple food worldwide.",
+        "frasePortugues": "Arroz branco é alimento básico mundialmente.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 2,
+        "ingles": "White rice",
+        "portugues": "Arroz branco",
+        "fraseIngles": "White rice has the bran and germ removed.",
+        "frasePortugues": "Arroz branco tem o farelo e germe removidos.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 3,
+        "ingles": "Brown rice",
+        "portugues": "Arroz integral",
+        "fraseIngles": "Brown rice is more nutritious than white rice.",
+        "frasePortugues": "Arroz integral é mais nutritivo que arroz branco.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 4,
+        "ingles": "Wild rice",
+        "portugues": "Arroz selvagem",
+        "fraseIngles": "Wild rice is actually a grass, not rice.",
+        "frasePortugues": "Arroz selvagem é na verdade uma gramínea, não arroz.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 5,
+        "ingles": "Jasmine rice",
+        "portugues": "Arroz jasmim",
+        "fraseIngles": "Thai jasmine rice is fragrant and sticky.",
+        "frasePortugues": "Arroz jasmim tailandês é perfumado e pegajoso.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 6,
+        "ingles": "Basmati rice",
+        "portugues": "Arroz basmati",
+        "fraseIngles": "Indian basmati rice has long grains.",
+        "frasePortugues": "Arroz basmati indiano tem grãos longos.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 7,
+        "ingles": "Arborio rice",
+        "portugues": "Arroz arborio",
+        "fraseIngles": "Italian arborio rice is used for risotto.",
+        "frasePortugues": "Arroz arborio italiano é usado para risotto.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 8,
+        "ingles": "Sushi rice",
+        "portugues": "Arroz para sushi",
+        "fraseIngles": "Short-grain sushi rice is sticky when cooked.",
+        "frasePortugues": "Arroz de grão curto para sushi fica pegajoso quando cozido.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 9,
+        "ingles": "Black rice",
+        "portugues": "Arroz preto",
+        "fraseIngles": "Black rice is also called forbidden rice.",
+        "frasePortugues": "Arroz preto também é chamado de arroz proibido.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 10,
+        "ingles": "Red rice",
+        "portugues": "Arroz vermelho",
+        "fraseIngles": "Red rice has a nutty flavor and chewy texture.",
+        "frasePortugues": "Arroz vermelho tem sabor amendoado e textura mastigável.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 11,
+        "ingles": "Sticky rice",
+        "portugues": "Arroz glutinoso",
+        "fraseIngles": "Sticky rice is used in Asian desserts.",
+        "frasePortugues": "Arroz glutinoso é usado em sobremesas asiáticas.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 12,
+        "ingles": "Instant rice",
+        "portugues": "Arroz instantâneo",
+        "fraseIngles": "Instant rice cooks in just five minutes.",
+        "frasePortugues": "Arroz instantâneo cozinha em apenas cinco minutos.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 13,
+        "ingles": "Parboiled rice",
+        "portugues": "Arroz parbolizado",
+        "fraseIngles": "Parboiled rice is partially cooked before milling.",
+        "frasePortugues": "Arroz parbolizado é parcialmente cozido antes de ser beneficiado.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 14,
+        "ingles": "Rice flour",
+        "portugues": "Farinha de arroz",
+        "fraseIngles": "Rice flour is gluten-free and used in baking.",
+        "frasePortugues": "Farinha de arroz é sem glúten e usada na confeitaria.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 15,
+        "ingles": "Rice bran",
+        "portugues": "Farelo de arroz",
+        "fraseIngles": "Rice bran is rich in fiber and nutrients.",
+        "frasePortugues": "Farelo de arroz é rico em fibras e nutrientes.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 16,
+        "ingles": "Wheat",
+        "portugues": "Trigo",
+        "fraseIngles": "Wheat is ground into flour for bread.",
+        "frasePortugues": "Trigo é moído em farinha para pão.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 17,
+        "ingles": "Whole wheat",
+        "portugues": "Trigo integral",
+        "fraseIngles": "Whole wheat contains all parts of the grain.",
+        "frasePortugues": "Trigo integral contém todas as partes do grão.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 18,
+        "ingles": "White wheat",
+        "portugues": "Trigo branco",
+        "fraseIngles": "White wheat has a milder flavor than red wheat.",
+        "frasePortugues": "Trigo branco tem sabor mais suave que trigo vermelho.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 19,
+        "ingles": "Hard wheat",
+        "portugues": "Trigo duro",
+        "fraseIngles": "Hard wheat is high in protein and gluten.",
+        "frasePortugues": "Trigo duro é rico em proteína e glúten.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 20,
+        "ingles": "Soft wheat",
+        "portugues": "Trigo mole",
+        "fraseIngles": "Soft wheat is used for pastries and cakes.",
+        "frasePortugues": "Trigo mole é usado para doces e bolos.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 21,
+        "ingles": "Winter wheat",
+        "portugues": "Trigo de inverno",
+        "fraseIngles": "Winter wheat is planted in fall.",
+        "frasePortugues": "Trigo de inverno é plantado no outono.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 22,
+        "ingles": "Spring wheat",
+        "portugues": "Trigo de primavera",
+        "fraseIngles": "Spring wheat is planted in spring.",
+        "frasePortugues": "Trigo de primavera é plantado na primavera.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 23,
+        "ingles": "Durum wheat",
+        "portugues": "Trigo durum",
+        "fraseIngles": "Durum wheat is used to make pasta.",
+        "frasePortugues": "Trigo durum é usado para fazer massas.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 24,
+        "ingles": "Wheat berries",
+        "portugues": "Grãos de trigo",
+        "fraseIngles": "Wheat berries are whole wheat kernels.",
+        "frasePortugues": "Grãos de trigo são grãos inteiros de trigo.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 25,
+        "ingles": "Wheat germ",
+        "portugues": "Germe de trigo",
+        "fraseIngles": "Wheat germ is the embryo of the wheat kernel.",
+        "frasePortugues": "Germe de trigo é o embrião do grão de trigo.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 26,
+        "ingles": "Wheat bran",
+        "portugues": "Farelo de trigo",
+        "fraseIngles": "Wheat bran adds fiber to cereals.",
+        "frasePortugues": "Farelo de trigo adiciona fibra aos cereais.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 27,
+        "ingles": "Flour",
+        "portugues": "Farinha",
+        "fraseIngles": "All-purpose flour is used for most baking.",
+        "frasePortugues": "Farinha comum é usada para a maioria das receitas.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 28,
+        "ingles": "All-purpose flour",
+        "portugues": "Farinha comum",
+        "fraseIngles": "All-purpose flour is versatile for cooking.",
+        "frasePortugues": "Farinha comum é versátil para cozinhar.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 29,
+        "ingles": "Bread flour",
+        "portugues": "Farinha de trigo para pão",
+        "fraseIngles": "Bread flour has high gluten content.",
+        "frasePortugues": "Farinha de trigo para pão tem alto teor de glúten.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 30,
+        "ingles": "Cake flour",
+        "portugues": "Farinha de trigo para bolo",
+        "fraseIngles": "Cake flour is finely milled and soft.",
+        "frasePortugues": "Farinha de trigo para bolo é finamente moída e macia.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 31,
+        "ingles": "Pastry flour",
+        "portugues": "Farinha de trigo para massa",
+        "fraseIngles": "Pastry flour is between all-purpose and cake flour.",
+        "frasePortugues": "Farinha de trigo para massa fica entre comum e para bolo.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 32,
+        "ingles": "Self-rising flour",
+        "portugues": "Farinha com fermento",
+        "fraseIngles": "Self-rising flour has baking powder added.",
+        "frasePortugues": "Farinha com fermento tem fermento químico adicionado.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 33,
+        "ingles": "Whole wheat flour",
+        "portugues": "Farinha de trigo integral",
+        "fraseIngles": "Whole wheat flour includes bran and germ.",
+        "frasePortugues": "Farinha de trigo integral inclui farelo e germe.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 34,
+        "ingles": "White flour",
+        "portugues": "Farinha branca",
+        "fraseIngles": "White flour has bran and germ removed.",
+        "frasePortugues": "Farinha branca tem farelo e germe removidos.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 35,
+        "ingles": "Unbleached flour",
+        "portugues": "Farinha não branqueada",
+        "fraseIngles": "Unbleached flour ages naturally.",
+        "frasePortugues": "Farinha não branqueada envelhece naturalmente.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 36,
+        "ingles": "Bleached flour",
+        "portugues": "Farinha branqueada",
+        "fraseIngles": "Bleached flour is chemically whitened.",
+        "frasePortugues": "Farinha branqueada é quimicamente branqueada.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 37,
+        "ingles": "Semolina",
+        "portugues": "Semolina",
+        "fraseIngles": "Semolina is coarse durum wheat flour.",
+        "frasePortugues": "Semolina é farinha grossa de trigo durum.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 38,
+        "ingles": "Corn",
+        "portugues": "Milho",
+        "fraseIngles": "Fresh corn on the cob is summer's delight.",
+        "frasePortugues": "Milho fresco na espiga é delícia do verão.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 39,
+        "ingles": "Sweet corn",
+        "portugues": "Milho doce",
+        "fraseIngles": "Sweet corn is eaten as a vegetable.",
+        "frasePortugues": "Milho doce é consumido como vegetal.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 40,
+        "ingles": "Field corn",
+        "portugues": "Milho de campo",
+        "fraseIngles": "Field corn is used for animal feed.",
+        "frasePortugues": "Milho de campo é usado para ração animal.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 41,
+        "ingles": "Dent corn",
+        "portugues": "Milho dentado",
+        "fraseIngles": "Dent corn is the most common type.",
+        "frasePortugues": "Milho dentado é o tipo mais comum.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 42,
+        "ingles": "Flint corn",
+        "portugues": "Milho flint",
+        "fraseIngles": "Flint corn has hard kernels.",
+        "frasePortugues": "Milho flint tem grãos duros.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 43,
+        "ingles": "Popcorn",
+        "portugues": "Milho de pipoca",
+        "fraseIngles": "Popcorn kernels pop when heated.",
+        "frasePortugues": "Grãos de milho de pipoca estouram quando aquecidos.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 44,
+        "ingles": "Baby corn",
+        "portugues": "Mini milho",
+        "fraseIngles": "Baby corn is harvested when very small.",
+        "frasePortugues": "Mini milho é colhido quando muito pequeno.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 45,
+        "ingles": "Cornmeal",
+        "portugues": "Fubá",
+        "fraseIngles": "Yellow cornmeal is used for polenta.",
+        "frasePortugues": "Fubá amarelo é usado para polenta.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 46,
+        "ingles": "Corn flour",
+        "portugues": "Farinha de milho",
+        "fraseIngles": "Corn flour is finely ground cornmeal.",
+        "frasePortugues": "Farinha de milho é fubá finamente moído.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 47,
+        "ingles": "Corn starch",
+        "portugues": "Amido de milho",
+        "fraseIngles": "Corn starch thickens sauces and soups.",
+        "frasePortugues": "Amido de milho engrossa molhos e sopas.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 48,
+        "ingles": "Hominy",
+        "portugues": "Canjica",
+        "fraseIngles": "Hominy is corn treated with alkali.",
+        "frasePortugues": "Canjica é milho tratado com álcali.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 49,
+        "ingles": "Grits",
+        "portugues": "Grits",
+        "fraseIngles": "Southern grits are made from ground corn.",
+        "frasePortugues": "Grits sulistas são feitos de milho moído.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 50,
+        "ingles": "Polenta",
+        "portugues": "Polenta",
+        "fraseIngles": "Italian polenta is creamy cornmeal porridge.",
+        "frasePortugues": "Polenta italiana é mingau cremoso de fubá.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 51,
+        "ingles": "Oats",
+        "portugues": "Aveia",
+        "fraseIngles": "Steel-cut oats have more texture than rolled oats.",
+        "frasePortugues": "Aveia cortada tem mais textura que aveia laminada.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 52,
+        "ingles": "Rolled oats",
+        "portugues": "Aveia em flocos",
+        "fraseIngles": "Rolled oats are steamed and flattened.",
+        "frasePortugues": "Aveia em flocos é vaporizada e achatada.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 53,
+        "ingles": "Quick oats",
+        "portugues": "Aveia rápida",
+        "fraseIngles": "Quick oats are cut smaller for faster cooking.",
+        "frasePortugues": "Aveia rápida é cortada menor para cozimento mais rápido.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 54,
+        "ingles": "Instant oats",
+        "portugues": "Aveia instantânea",
+        "fraseIngles": "Instant oats are precooked and dried.",
+        "frasePortugues": "Aveia instantânea é pré-cozida e seca.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 55,
+        "ingles": "Steel-cut oats",
+        "portugues": "Aveia cortada",
+        "fraseIngles": "Steel-cut oats are chopped with steel blades.",
+        "frasePortugues": "Aveia cortada é picada com lâminas de aço.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 56,
+        "ingles": "Oat bran",
+        "portugues": "Farelo de aveia",
+        "fraseIngles": "Oat bran is rich in soluble fiber.",
+        "frasePortugues": "Farelo de aveia é rico em fibra solúvel.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 57,
+        "ingles": "Oat flour",
+        "portugues": "Farinha de aveia",
+        "fraseIngles": "Oat flour adds nutrition to baked goods.",
+        "frasePortugues": "Farinha de aveia adiciona nutrição aos produtos assados.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 58,
+        "ingles": "Oatmeal",
+        "portugues": "Mingau de aveia",
+        "fraseIngles": "Hot oatmeal is a healthy breakfast choice.",
+        "frasePortugues": "Mingau de aveia quente é uma escolha saudável para café da manhã.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 59,
+        "ingles": "Granola",
+        "portugues": "Granola",
+        "fraseIngles": "Homemade granola contains oats and nuts.",
+        "frasePortugues": "Granola caseira contém aveia e nozes.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 60,
+        "ingles": "Muesli",
+        "portugues": "Muesli",
+        "fraseIngles": "Swiss muesli is uncooked oat mixture.",
+        "frasePortugues": "Muesli suíço é mistura de aveia crua.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 61,
+        "ingles": "Barley",
+        "portugues": "Cevada",
+        "fraseIngles": "Pearl barley is hulled and polished.",
+        "frasePortugues": "Cevada pérola é descascada e polida.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 62,
+        "ingles": "Pearl barley",
+        "portugues": "Cevada pérola",
+        "fraseIngles": "Pearl barley cooks faster than hulled barley.",
+        "frasePortugues": "Cevada pérola cozinha mais rápido que cevada descascada.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 63,
+        "ingles": "Hulled barley",
+        "portugues": "Cevada integral",
+        "fraseIngles": "Hulled barley retains the bran layer.",
+        "frasePortugues": "Cevada integral mantém a camada de farelo.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 64,
+        "ingles": "Barley flour",
+        "portugues": "Farinha de cevada",
+        "fraseIngles": "Barley flour adds nutty flavor to bread.",
+        "frasePortugues": "Farinha de cevada adiciona sabor amendoado ao pão.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 65,
+        "ingles": "Malted barley",
+        "portugues": "Cevada maltada",
+        "fraseIngles": "Malted barley is used to make beer.",
+        "frasePortugues": "Cevada maltada é usada para fazer cerveja.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 66,
+        "ingles": "Quinoa",
+        "portugues": "Quinoa",
+        "fraseIngles": "Quinoa is a complete protein grain.",
+        "frasePortugues": "Quinoa é um grão com proteína completa.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 67,
+        "ingles": "Red quinoa",
+        "portugues": "Quinoa vermelha",
+        "fraseIngles": "Red quinoa has a nuttier flavor.",
+        "frasePortugues": "Quinoa vermelha tem sabor mais amendoado.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 68,
+        "ingles": "Black quinoa",
+        "portugues": "Quinoa preta",
+        "fraseIngles": "Black quinoa takes longer to cook.",
+        "frasePortugues": "Quinoa preta demora mais para cozinhar.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 69,
+        "ingles": "White quinoa",
+        "portugues": "Quinoa branca",
+        "fraseIngles": "White quinoa is the mildest variety.",
+        "frasePortugues": "Quinoa branca é a variedade mais suave.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 70,
+        "ingles": "Quinoa flour",
+        "portugues": "Farinha de quinoa",
+        "fraseIngles": "Quinoa flour is gluten-free and protein-rich.",
+        "frasePortugues": "Farinha de quinoa é sem glúten e rica em proteínas.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 71,
+        "ingles": "Buckwheat",
+        "portugues": "Trigo sarraceno",
+        "fraseIngles": "Buckwheat is not related to wheat.",
+        "frasePortugues": "Trigo sarraceno não é relacionado ao trigo.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 72,
+        "ingles": "Buckwheat flour",
+        "portugues": "Farinha de trigo sarraceno",
+        "fraseIngles": "Buckwheat flour makes dark pancakes.",
+        "frasePortugues": "Farinha de trigo sarraceno faz panquecas escuras.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 73,
+        "ingles": "Buckwheat groats",
+        "portugues": "Grãos de trigo sarraceno",
+        "fraseIngles": "Buckwheat groats are hulled buckwheat seeds.",
+        "frasePortugues": "Grãos de trigo sarraceno são sementes descascadas.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 74,
+        "ingles": "Kasha",
+        "portugues": "Kasha",
+        "fraseIngles": "Kasha is toasted buckwheat groats.",
+        "frasePortugues": "Kasha são grãos de trigo sarraceno torrados.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 75,
+        "ingles": "Millet",
+        "portugues": "Milheto",
+        "fraseIngles": "Millet is a small, round grain.",
+        "frasePortugues": "Milheto é um grão pequeno e redondo.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 76,
+        "ingles": "Millet flour",
+        "portugues": "Farinha de milheto",
+        "fraseIngles": "Millet flour is naturally gluten-free.",
+        "frasePortugues": "Farinha de milheto é naturalmente sem glúten.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 77,
+        "ingles": "Amaranth",
+        "portugues": "Amaranto",
+        "fraseIngles": "Amaranth was sacred to the Aztecs.",
+        "frasePortugues": "Amaranto era sagrado para os astecas.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 78,
+        "ingles": "Amaranth flour",
+        "portugues": "Farinha de amaranto",
+        "fraseIngles": "Amaranth flour is high in protein.",
+        "frasePortugues": "Farinha de amaranto é rica em proteínas.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 79,
+        "ingles": "Teff",
+        "portugues": "Teff",
+        "fraseIngles": "Ethiopian teff is the world's smallest grain.",
+        "frasePortugues": "Teff etíope é o menor grão do mundo.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 80,
+        "ingles": "Teff flour",
+        "portugues": "Farinha de teff",
+        "fraseIngles": "Teff flour is used to make injera bread.",
+        "frasePortugues": "Farinha de teff é usada para fazer pão injera.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 81,
+        "ingles": "Sorghum",
+        "portugues": "Sorgo",
+        "fraseIngles": "Sorghum is drought-resistant grain.",
+        "frasePortugues": "Sorgo é grão resistente à seca.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 82,
+        "ingles": "Sorghum flour",
+        "portugues": "Farinha de sorgo",
+        "fraseIngles": "Sorghum flour is sweet and mild.",
+        "frasePortugues": "Farinha de sorgo é doce e suave.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 83,
+        "ingles": "Rye",
+        "portugues": "Centeio",
+        "fraseIngles": "Dark rye bread has a strong flavor.",
+        "frasePortugues": "Pão de centeio escuro tem sabor forte.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 84,
+        "ingles": "Rye flour",
+        "portugues": "Farinha de centeio",
+        "fraseIngles": "Rye flour makes dense, flavorful bread.",
+        "frasePortugues": "Farinha de centeio faz pão denso e saboroso.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 85,
+        "ingles": "Rye berries",
+        "portugues": "Grãos de centeio",
+        "fraseIngles": "Rye berries are whole rye kernels.",
+        "frasePortugues": "Grãos de centeio são grãos inteiros de centeio.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 86,
+        "ingles": "Pumpernickel",
+        "portugues": "Pumpernickel",
+        "fraseIngles": "Pumpernickel is dark rye bread.",
+        "frasePortugues": "Pumpernickel é pão de centeio escuro.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 87,
+        "ingles": "Spelt",
+        "portugues": "Espelta",
+        "fraseIngles": "Ancient spelt has nutty flavor.",
+        "frasePortugues": "Espelta antiga tem sabor amendoado.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 88,
+        "ingles": "Spelt flour",
+        "portugues": "Farinha de espelta",
+        "fraseIngles": "Spelt flour is easier to digest than wheat.",
+        "frasePortugues": "Farinha de espelta é mais fácil de digerir que trigo.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 89,
+        "ingles": "Kamut",
+        "portugues": "Kamut",
+        "fraseIngles": "Kamut is an ancient wheat variety.",
+        "frasePortugues": "Kamut é uma variedade antiga de trigo.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 90,
+        "ingles": "Farro",
+        "portugues": "Farro",
+        "fraseIngles": "Italian farro has chewy texture.",
+        "frasePortugues": "Farro italiano tem textura mastigável.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 91,
+        "ingles": "Emmer",
+        "portugues": "Emmer",
+        "fraseIngles": "Emmer is an ancient wheat ancestor.",
+        "frasePortugues": "Emmer é um ancestral antigo do trigo.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 92,
+        "ingles": "Einkorn",
+        "portugues": "Einkorn",
+        "fraseIngles": "Einkorn is the oldest wheat variety.",
+        "frasePortugues": "Einkorn é a variedade mais antiga de trigo.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 93,
+        "ingles": "Bulgur",
+        "portugues": "Bulgur",
+        "fraseIngles": "Middle Eastern bulgur is cracked wheat.",
+        "frasePortugues": "Bulgur do Oriente Médio é trigo rachado.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 94,
+        "ingles": "Cracked wheat",
+        "portugues": "Trigo rachado",
+        "fraseIngles": "Cracked wheat cooks faster than whole berries.",
+        "frasePortugues": "Trigo rachado cozinha mais rápido que grãos inteiros.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 95,
+        "ingles": "Wheat berries",
+        "portugues": "Grãos de trigo inteiros",
+        "fraseIngles": "Whole wheat berries take long to cook.",
+        "frasePortugues": "Grãos de trigo inteiros demoram para cozinhar.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 96,
+        "ingles": "Couscous",
+        "portugues": "Cuscuz",
+        "fraseIngles": "North African couscous is made from semolina.",
+        "frasePortugues": "Cuscuz norte-africano é feito de semolina.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 97,
+        "ingles": "Israeli couscous",
+        "portugues": "Cuscuz israelense",
+        "fraseIngles": "Israeli couscous has larger pearls.",
+        "frasePortugues": "Cuscuz israelense tem pérolas maiores.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 98,
+        "ingles": "Moroccan couscous",
+        "portugues": "Cuscuz marroquino",
+        "fraseIngles": "Traditional Moroccan couscous is hand-rolled.",
+        "frasePortugues": "Cuscuz marroquino tradicional é enrolado à mão.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 99,
+        "ingles": "Freekeh",
+        "portugues": "Freekeh",
+        "fraseIngles": "Freekeh is young green wheat.",
+        "frasePortugues": "Freekeh é trigo verde jovem.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 100,
+        "ingles": "Cereal",
+        "portugues": "Cereal",
+        "fraseIngles": "Cold cereal is quick breakfast option.",
+        "frasePortugues": "Cereal frio é opção rápida de café da manhã.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 101,
+        "ingles": "Corn flakes",
+        "portugues": "Sucrilhos",
+        "fraseIngles": "Corn flakes are crispy and golden.",
+        "frasePortugues": "Sucrilhos são crocantes e dourados.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 102,
+        "ingles": "Rice cereal",
+        "portugues": "Cereal de arroz",
+        "fraseIngles": "Puffed rice cereal is light and airy.",
+        "frasePortugues": "Cereal de arroz tufado é leve e arejado.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 103,
+        "ingles": "Wheat cereal",
+        "portugues": "Cereal de trigo",
+        "fraseIngles": "Shredded wheat has no added sugar.",
+        "frasePortugues": "Trigo desfiado não tem açúcar adicionado.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 104,
+        "ingles": "Bran cereal",
+        "portugues": "Cereal de farelo",
+        "fraseIngles": "Bran cereal is high in fiber.",
+        "frasePortugues": "Cereal de farelo é rico em fibras.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 105,
+        "ingles": "Muesli",
+        "portugues": "Muesli",
+        "fraseIngles": "European muesli contains dried fruits.",
+        "frasePortugues": "Muesli europeu contém frutas secas.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 106,
+        "ingles": "Granola",
+        "portugues": "Granola",
+        "fraseIngles": "Crunchy granola has honey and nuts.",
+        "frasePortugues": "Granola crocante tem mel e nozes.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 107,
+        "ingles": "Porridge",
+        "portugues": "Mingau",
+        "fraseIngles": "Warm porridge is comforting breakfast.",
+        "frasePortugues": "Mingau quente é café da manhã reconfortante.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 108,
+        "ingles": "Cream of wheat",
+        "portugues": "Mingau de trigo",
+        "fraseIngles": "Cream of wheat is smooth and mild.",
+        "frasePortugues": "Mingau de trigo é liso e suave.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 109,
+        "ingles": "Gruel",
+        "portugues": "Mingau ralo",
+        "fraseIngles": "Thin gruel is easily digestible.",
+        "frasePortugues": "Mingau ralo é facilmente digerível.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 110,
+        "ingles": "Pasta",
+        "portugues": "Massa",
+        "fraseIngles": "Italian pasta comes in many shapes.",
+        "frasePortugues": "Massa italiana vem em muitas formas.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 111,
+        "ingles": "Spaghetti",
+        "portugues": "Espaguete",
+        "fraseIngles": "Long spaghetti is perfect with tomato sauce.",
+        "frasePortugues": "Espaguete longo é perfeito com molho de tomate.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 112,
+        "ingles": "Penne",
+        "portugues": "Penne",
+        "fraseIngles": "Tube-shaped penne holds sauce well.",
+        "frasePortugues": "Penne em forma de tubo segura bem o molho.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 113,
+        "ingles": "Fusilli",
+        "portugues": "Fusilli",
+        "fraseIngles": "Spiral fusilli catches chunky sauces.",
+        "frasePortugues": "Fusilli espiral pega molhos com pedaços.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 114,
+        "ingles": "Linguine",
+        "portugues": "Linguine",
+        "fraseIngles": "Flat linguine pairs well with seafood.",
+        "frasePortugues": "Linguine achatado combina bem com frutos do mar.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 115,
+        "ingles": "Fettuccine",
+        "portugues": "Fettuccine",
+        "fraseIngles": "Wide fettuccine is perfect for Alfredo sauce.",
+        "frasePortugues": "Fettuccine largo é perfeito para molho Alfredo.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 116,
+        "ingles": "Angel hair",
+        "portugues": "Cabelo de anjo",
+        "fraseIngles": "Thin angel hair cooks very quickly.",
+        "frasePortugues": "Cabelo de anjo fino cozinha muito rapidamente.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 117,
+        "ingles": "Rigatoni",
+        "portugues": "Rigatoni",
+        "fraseIngles": "Ridged rigatoni holds thick sauces.",
+        "frasePortugues": "Rigatoni com sulcos segura molhos grossos.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 118,
+        "ingles": "Rotini",
+        "portugues": "Rotini",
+        "fraseIngles": "Corkscrew rotini is great for salads.",
+        "frasePortugues": "Rotini saca-rolhas é ótimo para saladas.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 119,
+        "ingles": "Farfalle",
+        "portugues": "Farfalle",
+        "fraseIngles": "Bow-tie farfalle is also called butterfly pasta.",
+        "frasePortugues": "Farfalle gravata-borboleta também é chamado massa borboleta.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 120,
+        "ingles": "Orzo",
+        "portugues": "Orzo",
+        "fraseIngles": "Rice-shaped orzo is actually pasta.",
+        "frasePortugues": "Orzo em forma de arroz é na verdade massa.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 121,
+        "ingles": "Couscous",
+        "portugues": "Cuscuz",
+        "fraseIngles": "Pearl couscous is larger than regular couscous.",
+        "frasePortugues": "Cuscuz pérola é maior que cuscuz comum.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 122,
+        "ingles": "Whole grain",
+        "portugues": "Grão integral",
+        "fraseIngles": "Whole grain products contain all grain parts.",
+        "frasePortugues": "Produtos de grão integral contêm todas as partes do grão.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 123,
+        "ingles": "Refined grain",
+        "portugues": "Grão refinado",
+        "fraseIngles": "Refined grains have bran and germ removed.",
+        "frasePortugues": "Grãos refinados têm farelo e germe removidos.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 124,
+        "ingles": "Enriched grain",
+        "portugues": "Grão enriquecido",
+        "fraseIngles": "Enriched grains have nutrients added back.",
+        "frasePortugues": "Grãos enriquecidos têm nutrientes adicionados de volta.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 125,
+        "ingles": "Fortified grain",
+        "portugues": "Grão fortificado",
+        "fraseIngles": "Fortified grains have extra vitamins added.",
+        "frasePortugues": "Grãos fortificados têm vitaminas extras adicionadas.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 126,
+        "ingles": "Gluten-free grain",
+        "portugues": "Grão sem glúten",
+        "fraseIngles": "Rice and corn are naturally gluten-free grains.",
+        "frasePortugues": "Arroz e milho são grãos naturalmente sem glúten.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 127,
+        "ingles": "Ancient grains",
+        "portugues": "Grãos antigos",
+        "fraseIngles": "Ancient grains haven't been modified over time.",
+        "frasePortugues": "Grãos antigos não foram modificados ao longo do tempo.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 128,
+        "ingles": "Heirloom grains",
+        "portugues": "Grãos ancestrais",
+        "fraseIngles": "Heirloom grains preserve traditional varieties.",
+        "frasePortugues": "Grãos ancestrais preservam variedades tradicionais.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 129,
+        "ingles": "Organic grains",
+        "portugues": "Grãos orgânicos",
+        "fraseIngles": "Organic grains are grown without pesticides.",
+        "frasePortugues": "Grãos orgânicos são cultivados sem pesticidas.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 130,
+        "ingles": "Stone-ground",
+        "portugues": "Moído em pedra",
+        "fraseIngles": "Stone-ground grains retain more nutrients.",
+        "frasePortugues": "Grãos moídos em pedra mantêm mais nutrientes.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 131,
+        "ingles": "Steel-cut",
+        "portugues": "Cortado em aço",
+        "fraseIngles": "Steel-cut grains are chopped with metal blades.",
+        "frasePortugues": "Grãos cortados em aço são picados com lâminas metálicas.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 132,
+        "ingles": "Rolled",
+        "portugues": "Laminado",
+        "fraseIngles": "Rolled grains are flattened between rollers.",
+        "frasePortugues": "Grãos laminados são achatados entre rolos.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 133,
+        "ingles": "Puffed",
+        "portugues": "Tufado",
+        "fraseIngles": "Puffed grains are expanded with heat.",
+        "frasePortugues": "Grãos tufados são expandidos com calor.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 134,
+        "ingles": "Flaked",
+        "portugues": "Em flocos",
+        "fraseIngles": "Flaked grains are steamed and rolled thin.",
+        "frasePortugues": "Grãos em flocos são vaporizados e laminados finos.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 135,
+        "ingles": "Cracked",
+        "portugues": "Rachado",
+        "fraseIngles": "Cracked grains cook faster than whole grains.",
+        "frasePortugues": "Grãos rachados cozinham mais rápido que grãos inteiros.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 136,
+        "ingles": "Ground",
+        "portugues": "Moído",
+        "fraseIngles": "Ground grains are processed into flour.",
+        "frasePortugues": "Grãos moídos são processados em farinha.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 137,
+        "ingles": "Sprouted",
+        "portugues": "Germinado",
+        "fraseIngles": "Sprouted grains have begun to grow.",
+        "frasePortugues": "Grãos germinados começaram a crescer.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 138,
+        "ingles": "Malted",
+        "portugues": "Maltado",
+        "fraseIngles": "Malted grains are used for brewing.",
+        "frasePortugues": "Grãos maltados são usados para fermentação.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 139,
+        "ingles": "Pearled",
+        "portugues": "Pérola",
+        "fraseIngles": "Pearled grains have outer layers removed.",
+        "frasePortugues": "Grãos pérola têm camadas externas removidas.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 140,
+        "ingles": "Hulled",
+        "portugues": "Descascado",
+        "fraseIngles": "Hulled grains have tough outer hull removed.",
+        "frasePortugues": "Grãos descascados têm casca externa dura removida.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 141,
+        "ingles": "Polished",
+        "portugues": "Polido",
+        "fraseIngles": "Polished grains are smooth and refined.",
+        "frasePortugues": "Grãos polidos são lisos e refinados.",
+        "subtopico": "Cereais",
+        "topico": "Alimentos"
+    }
+]

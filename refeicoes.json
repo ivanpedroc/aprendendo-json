@@ -1,0 +1,1739 @@
+[
+    {
+        "id": 1,
+        "ingles": "Breakfast",
+        "portugues": "Café da manhã",
+        "fraseIngles": "I eat breakfast at seven every morning.",
+        "frasePortugues": "Eu tomo café da manhã às sete toda manhã.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 2,
+        "ingles": "Brunch",
+        "portugues": "Brunch",
+        "fraseIngles": "Sunday brunch combines breakfast and lunch.",
+        "frasePortugues": "O brunch de domingo combina café da manhã e almoço.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 3,
+        "ingles": "Lunch",
+        "portugues": "Almoço",
+        "fraseIngles": "We have lunch at noon every day.",
+        "frasePortugues": "Nós almoçamos ao meio-dia todos os dias.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 4,
+        "ingles": "Dinner",
+        "portugues": "Jantar",
+        "fraseIngles": "Family dinner brings everyone together.",
+        "frasePortugues": "O jantar em família une todos.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 5,
+        "ingles": "Supper",
+        "portugues": "Ceia",
+        "fraseIngles": "Supper is a light evening meal.",
+        "frasePortugues": "A ceia é uma refeição leve da noite.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 6,
+        "ingles": "Snack",
+        "portugues": "Lanche",
+        "fraseIngles": "I need a healthy snack between meals.",
+        "frasePortugues": "Eu preciso de um lanche saudável entre as refeições.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 7,
+        "ingles": "Appetizer",
+        "portugues": "Aperitivo",
+        "fraseIngles": "The appetizer prepares your palate for the meal.",
+        "frasePortugues": "O aperitivo prepara seu paladar para a refeição.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 8,
+        "ingles": "Starter",
+        "portugues": "Entrada",
+        "fraseIngles": "Choose a light starter before the main course.",
+        "frasePortugues": "Escolha uma entrada leve antes do prato principal.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 9,
+        "ingles": "Main course",
+        "portugues": "Prato principal",
+        "fraseIngles": "The main course is the centerpiece of the meal.",
+        "frasePortugues": "O prato principal é a peça central da refeição.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 10,
+        "ingles": "Entree",
+        "portugues": "Prato principal (americano)",
+        "fraseIngles": "What entree would you like to order?",
+        "frasePortugues": "Que prato principal você gostaria de pedir?",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 11,
+        "ingles": "Side dish",
+        "portugues": "Acompanhamento",
+        "fraseIngles": "Vegetables make a perfect side dish.",
+        "frasePortugues": "Vegetais fazem um acompanhamento perfeito.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 12,
+        "ingles": "Dessert",
+        "portugues": "Sobremesa",
+        "fraseIngles": "Chocolate cake is my favorite dessert.",
+        "frasePortugues": "Bolo de chocolate é minha sobremesa favorita.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 13,
+        "ingles": "Continental breakfast",
+        "portugues": "Café da manhã continental",
+        "fraseIngles": "The hotel serves continental breakfast until 10 AM.",
+        "frasePortugues": "O hotel serve café da manhã continental até às 10h.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 14,
+        "ingles": "Full breakfast",
+        "portugues": "Café da manhã completo",
+        "fraseIngles": "A full English breakfast includes eggs and bacon.",
+        "frasePortugues": "Um café da manhã inglês completo inclui ovos e bacon.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 15,
+        "ingles": "Light breakfast",
+        "portugues": "Café da manhã leve",
+        "fraseIngles": "I prefer a light breakfast with just fruit.",
+        "frasePortugues": "Eu prefiro um café da manhã leve só com frutas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 16,
+        "ingles": "Hearty breakfast",
+        "portugues": "Café da manhã farto",
+        "fraseIngles": "A hearty breakfast gives you energy all morning.",
+        "frasePortugues": "Um café da manhã farto dá energia toda a manhã.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 17,
+        "ingles": "Pancakes",
+        "portugues": "Panquecas",
+        "fraseIngles": "Fluffy pancakes with syrup are delicious.",
+        "frasePortugues": "Panquecas fofinhas com xarope são deliciosas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 18,
+        "ingles": "Waffles",
+        "portugues": "Waffles",
+        "fraseIngles": "Belgian waffles have deep squares for syrup.",
+        "frasePortugues": "Waffles belgas têm quadrados profundos para xarope.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 19,
+        "ingles": "French toast",
+        "portugues": "Rabanada",
+        "fraseIngles": "French toast is bread soaked in egg mixture.",
+        "frasePortugues": "Rabanada é pão molhado em mistura de ovos.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 20,
+        "ingles": "Cereal",
+        "portugues": "Cereal",
+        "fraseIngles": "Cold cereal with milk is quick and easy.",
+        "frasePortugues": "Cereal frio com leite é rápido e fácil.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 21,
+        "ingles": "Oatmeal",
+        "portugues": "Aveia",
+        "fraseIngles": "Hot oatmeal warms you up on cold mornings.",
+        "frasePortugues": "Aveia quente aquece você em manhãs frias.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 22,
+        "ingles": "Porridge",
+        "portugues": "Mingau",
+        "fraseIngles": "Porridge is a creamy breakfast dish.",
+        "frasePortugues": "Mingau é um prato cremoso de café da manhã.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 23,
+        "ingles": "Granola",
+        "portugues": "Granola",
+        "fraseIngles": "Crunchy granola is perfect with yogurt.",
+        "frasePortugues": "Granola crocante é perfeita com iogurte.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 24,
+        "ingles": "Muesli",
+        "portugues": "Muesli",
+        "fraseIngles": "Swiss muesli contains oats, nuts, and dried fruit.",
+        "frasePortugues": "Muesli suíço contém aveia, nozes e frutas secas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 25,
+        "ingles": "Scrambled eggs",
+        "portugues": "Ovos mexidos",
+        "fraseIngles": "Fluffy scrambled eggs are cooked gently.",
+        "frasePortugues": "Ovos mexidos fofinhos são cozidos delicadamente.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 26,
+        "ingles": "Fried eggs",
+        "portugues": "Ovos fritos",
+        "fraseIngles": "I like my fried eggs sunny-side up.",
+        "frasePortugues": "Eu gosto dos meus ovos fritos com gema mole.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 27,
+        "ingles": "Poached eggs",
+        "portugues": "Ovos pochê",
+        "fraseIngles": "Poached eggs are cooked in simmering water.",
+        "frasePortugues": "Ovos pochê são cozidos em água fervente.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 28,
+        "ingles": "Boiled eggs",
+        "portugues": "Ovos cozidos",
+        "fraseIngles": "Hard-boiled eggs are perfect for breakfast.",
+        "frasePortugues": "Ovos cozidos duros são perfeitos para o café da manhã.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 29,
+        "ingles": "Omelet",
+        "portugues": "Omelete",
+        "fraseIngles": "A cheese omelet is simple but delicious.",
+        "frasePortugues": "Uma omelete de queijo é simples mas deliciosa.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 30,
+        "ingles": "Benedict eggs",
+        "portugues": "Ovos Benedict",
+        "fraseIngles": "Eggs Benedict is served on English muffins.",
+        "frasePortugues": "Ovos Benedict são servidos em muffins ingleses.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 31,
+        "ingles": "Bacon",
+        "portugues": "Bacon",
+        "fraseIngles": "Crispy bacon is a breakfast favorite.",
+        "frasePortugues": "Bacon crocante é favorito do café da manhã.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 32,
+        "ingles": "Sausage",
+        "portugues": "Linguiça",
+        "fraseIngles": "Breakfast sausage is seasoned with herbs.",
+        "frasePortugues": "Linguiça de café da manhã é temperada com ervas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 33,
+        "ingles": "Ham",
+        "portugues": "Presunto",
+        "fraseIngles": "Sliced ham goes well with eggs.",
+        "frasePortugues": "Presunto fatiado combina bem com ovos.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 34,
+        "ingles": "Toast",
+        "portugues": "Torrada",
+        "fraseIngles": "Buttered toast is simple and satisfying.",
+        "frasePortugues": "Torrada com manteiga é simples e satisfatória.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 35,
+        "ingles": "Bagel",
+        "portugues": "Bagel",
+        "fraseIngles": "A fresh bagel with cream cheese is perfect.",
+        "frasePortugues": "Um bagel fresco com cream cheese é perfeito.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 36,
+        "ingles": "Croissant",
+        "portugues": "Croissant",
+        "fraseIngles": "Flaky croissants are buttery and delicious.",
+        "frasePortugues": "Croissants folhados são amanteigados e deliciosos.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 37,
+        "ingles": "Muffin",
+        "portugues": "Muffin",
+        "fraseIngles": "Blueberry muffins are sweet breakfast treats.",
+        "frasePortugues": "Muffins de mirtilo são doces guloseimas de café da manhã.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 38,
+        "ingles": "Danish pastry",
+        "portugues": "Danish",
+        "fraseIngles": "A cheese danish is a sweet breakfast pastry.",
+        "frasePortugues": "Um danish de queijo é uma massa doce de café da manhã.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 39,
+        "ingles": "Scone",
+        "portugues": "Scone",
+        "fraseIngles": "British scones are served with jam and cream.",
+        "frasePortugues": "Scones britânicos são servidos com geleia e creme.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 40,
+        "ingles": "Smoothie",
+        "portugues": "Vitamina",
+        "fraseIngles": "A fruit smoothie is a healthy breakfast drink.",
+        "frasePortugues": "Uma vitamina de frutas é uma bebida saudável de café da manhã.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 41,
+        "ingles": "Yogurt",
+        "portugues": "Iogurte",
+        "fraseIngles": "Greek yogurt is thick and protein-rich.",
+        "frasePortugues": "Iogurte grego é grosso e rico em proteínas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 42,
+        "ingles": "Fruit salad",
+        "portugues": "Salada de frutas",
+        "fraseIngles": "Fresh fruit salad is light and refreshing.",
+        "frasePortugues": "Salada de frutas fresca é leve e refrescante.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 43,
+        "ingles": "Sandwich",
+        "portugues": "Sanduíche",
+        "fraseIngles": "A turkey sandwich makes a good lunch.",
+        "frasePortugues": "Um sanduíche de peru é um bom almoço.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 44,
+        "ingles": "Burger",
+        "portugues": "Hambúrguer",
+        "fraseIngles": "A classic burger has beef, lettuce, and tomato.",
+        "frasePortugues": "Um hambúrguer clássico tem carne, alface e tomate.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 45,
+        "ingles": "Cheeseburger",
+        "portugues": "Hambúrguer com queijo",
+        "fraseIngles": "A cheeseburger is topped with melted cheese.",
+        "frasePortugues": "Um hambúrguer com queijo é coberto com queijo derretido.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 46,
+        "ingles": "Hot dog",
+        "portugues": "Cachorro-quente",
+        "fraseIngles": "Hot dogs are popular at baseball games.",
+        "frasePortugues": "Cachorros-quentes são populares em jogos de baseball.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 47,
+        "ingles": "Pizza",
+        "portugues": "Pizza",
+        "fraseIngles": "Italian pizza has thin crust and fresh toppings.",
+        "frasePortugues": "Pizza italiana tem massa fina e coberturas frescas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 48,
+        "ingles": "Pasta",
+        "portugues": "Macarrão",
+        "fraseIngles": "Fresh pasta is better than dried pasta.",
+        "frasePortugues": "Macarrão fresco é melhor que macarrão seco.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 49,
+        "ingles": "Spaghetti",
+        "portugues": "Espaguete",
+        "fraseIngles": "Spaghetti with meatballs is a classic dish.",
+        "frasePortugues": "Espaguete com almôndegas é um prato clássico.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 50,
+        "ingles": "Lasagna",
+        "portugues": "Lasanha",
+        "fraseIngles": "Homemade lasagna takes hours to prepare.",
+        "frasePortugues": "Lasanha caseira leva horas para preparar.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 51,
+        "ingles": "Ravioli",
+        "portugues": "Ravioli",
+        "fraseIngles": "Cheese ravioli are stuffed pasta pillows.",
+        "frasePortugues": "Ravioli de queijo são travesseiros de massa recheados.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 52,
+        "ingles": "Risotto",
+        "portugues": "Risotto",
+        "fraseIngles": "Creamy risotto requires constant stirring.",
+        "frasePortugues": "Risotto cremoso requer mexer constantemente.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 53,
+        "ingles": "Salad",
+        "portugues": "Salada",
+        "fraseIngles": "A fresh green salad is healthy and light.",
+        "frasePortugues": "Uma salada verde fresca é saudável e leve.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 54,
+        "ingles": "Caesar salad",
+        "portugues": "Salada Caesar",
+        "fraseIngles": "Caesar salad has romaine lettuce and parmesan.",
+        "frasePortugues": "Salada Caesar tem alface romana e parmesão.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 55,
+        "ingles": "Garden salad",
+        "portugues": "Salada mista",
+        "fraseIngles": "A garden salad contains mixed vegetables.",
+        "frasePortugues": "Uma salada mista contém vegetais variados.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 56,
+        "ingles": "Greek salad",
+        "portugues": "Salada grega",
+        "fraseIngles": "Greek salad includes olives and feta cheese.",
+        "frasePortugues": "Salada grega inclui azeitonas e queijo feta.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 57,
+        "ingles": "Chicken salad",
+        "portugues": "Salada de frango",
+        "fraseIngles": "Chicken salad can be served on bread.",
+        "frasePortugues": "Salada de frango pode ser servida no pão.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 58,
+        "ingles": "Tuna salad",
+        "portugues": "Salada de atum",
+        "fraseIngles": "Tuna salad is mixed with mayonnaise.",
+        "frasePortugues": "Salada de atum é misturada com maionese.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 59,
+        "ingles": "Potato salad",
+        "portugues": "Salada de batata",
+        "fraseIngles": "Potato salad is popular at picnics.",
+        "frasePortugues": "Salada de batata é popular em piqueniques.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 60,
+        "ingles": "Coleslaw",
+        "portugues": "Salada de repolho",
+        "fraseIngles": "Coleslaw is made with shredded cabbage.",
+        "frasePortugues": "Salada de repolho é feita com repolho ralado.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 61,
+        "ingles": "Soup",
+        "portugues": "Sopa",
+        "fraseIngles": "Hot soup warms you on cold days.",
+        "frasePortugues": "Sopa quente aquece você em dias frios.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 62,
+        "ingles": "Chicken soup",
+        "portugues": "Canja",
+        "fraseIngles": "Chicken soup helps when you're sick.",
+        "frasePortugues": "Canja ajuda quando você está doente.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 63,
+        "ingles": "Tomato soup",
+        "portugues": "Sopa de tomate",
+        "fraseIngles": "Creamy tomato soup goes well with grilled cheese.",
+        "frasePortugues": "Sopa cremosa de tomate combina bem com queijo grelhado.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 64,
+        "ingles": "Vegetable soup",
+        "portugues": "Sopa de vegetais",
+        "fraseIngles": "Vegetable soup is healthy and filling.",
+        "frasePortugues": "Sopa de vegetais é saudável e saciante.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 65,
+        "ingles": "Minestrone",
+        "portugues": "Minestrone",
+        "fraseIngles": "Italian minestrone has beans and pasta.",
+        "frasePortugues": "Minestrone italiano tem feijão e macarrão.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 66,
+        "ingles": "French onion soup",
+        "portugues": "Sopa francesa de cebola",
+        "fraseIngles": "French onion soup is topped with cheese.",
+        "frasePortugues": "Sopa francesa de cebola é coberta com queijo.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 67,
+        "ingles": "Clam chowder",
+        "portugues": "Sopa de mariscos",
+        "fraseIngles": "New England clam chowder is creamy and thick.",
+        "frasePortugues": "Sopa de mariscos da Nova Inglaterra é cremosa e grossa.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 68,
+        "ingles": "Bisque",
+        "portugues": "Bisque",
+        "fraseIngles": "Lobster bisque is a rich, creamy soup.",
+        "frasePortugues": "Bisque de lagosta é uma sopa rica e cremosa.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 69,
+        "ingles": "Broth",
+        "portugues": "Caldo",
+        "fraseIngles": "Clear chicken broth is light and nourishing.",
+        "frasePortugues": "Caldo claro de galinha é leve e nutritivo.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 70,
+        "ingles": "Stew",
+        "portugues": "Ensopado",
+        "fraseIngles": "Beef stew simmers slowly for hours.",
+        "frasePortugues": "Ensopado de carne cozinha lentamente por horas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 71,
+        "ingles": "Chili",
+        "portugues": "Chili",
+        "fraseIngles": "Spicy chili con carne warms you up.",
+        "frasePortugues": "Chili con carne picante aquece você.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 72,
+        "ingles": "Casserole",
+        "portugues": "Caçarola",
+        "fraseIngles": "Tuna casserole is a comfort food.",
+        "frasePortugues": "Caçarola de atum é uma comida reconfortante.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 73,
+        "ingles": "Roast",
+        "portugues": "Assado",
+        "fraseIngles": "Sunday roast is a traditional family meal.",
+        "frasePortugues": "Assado de domingo é uma refeição tradicional em família.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 74,
+        "ingles": "Roast beef",
+        "portugues": "Carne assada",
+        "fraseIngles": "Roast beef is served with gravy.",
+        "frasePortugues": "Carne assada é servida com molho.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 75,
+        "ingles": "Roast chicken",
+        "portugues": "Frango assado",
+        "fraseIngles": "Herb-roasted chicken is juicy and flavorful.",
+        "frasePortugues": "Frango assado com ervas é suculento e saboroso.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 76,
+        "ingles": "Turkey",
+        "portugues": "Peru",
+        "fraseIngles": "Roast turkey is traditional at Thanksgiving.",
+        "frasePortugues": "Peru assado é tradicional no Dia de Ação de Graças.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 77,
+        "ingles": "Ham",
+        "portugues": "Presunto",
+        "fraseIngles": "Glazed ham is popular during holidays.",
+        "frasePortugues": "Presunto glaceado é popular durante os feriados.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 78,
+        "ingles": "Pork chops",
+        "portugues": "Costeletas de porco",
+        "fraseIngles": "Grilled pork chops are tender and juicy.",
+        "frasePortugues": "Costeletas de porco grelhadas são tenras e suculentas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 79,
+        "ingles": "Lamb",
+        "portugues": "Carneiro",
+        "fraseIngles": "Roast lamb is served with mint sauce.",
+        "frasePortugues": "Carneiro assado é servido com molho de menta.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 80,
+        "ingles": "Fish",
+        "portugues": "Peixe",
+        "fraseIngles": "Grilled fish is healthy and delicious.",
+        "frasePortugues": "Peixe grelhado é saudável e delicioso.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 81,
+        "ingles": "Salmon",
+        "portugues": "Salmão",
+        "fraseIngles": "Baked salmon is rich in omega-3 oils.",
+        "frasePortugues": "Salmão assado é rico em óleos ômega-3.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 82,
+        "ingles": "Tuna",
+        "portugues": "Atum",
+        "fraseIngles": "Fresh tuna steaks are meaty and flavorful.",
+        "frasePortugues": "Bifes de atum fresco são carnudos e saborosos.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 83,
+        "ingles": "Cod",
+        "portugues": "Bacalhau",
+        "fraseIngles": "Pan-fried cod is flaky and mild.",
+        "frasePortugues": "Bacalhau na frigideira é escamoso e suave.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 84,
+        "ingles": "Shrimp",
+        "portugues": "Camarão",
+        "fraseIngles": "Grilled shrimp cooks quickly and tastes sweet.",
+        "frasePortugues": "Camarão grelhado cozinha rapidamente e tem gosto doce.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 85,
+        "ingles": "Lobster",
+        "portugues": "Lagosta",
+        "fraseIngles": "Fresh lobster is a luxury seafood.",
+        "frasePortugues": "Lagosta fresca é um fruto do mar de luxo.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 86,
+        "ingles": "Crab",
+        "portugues": "Caranguejo",
+        "fraseIngles": "Steamed crab legs are sweet and tender.",
+        "frasePortugues": "Pernas de caranguejo no vapor são doces e tenras.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 87,
+        "ingles": "Mussels",
+        "portugues": "Mexilhões",
+        "fraseIngles": "Steamed mussels are served in wine sauce.",
+        "frasePortugues": "Mexilhões no vapor são servidos com molho de vinho.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 88,
+        "ingles": "Oysters",
+        "portugues": "Ostras",
+        "fraseIngles": "Raw oysters are served on the half shell.",
+        "frasePortugues": "Ostras cruas são servidas na meia concha.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 89,
+        "ingles": "Rice",
+        "portugues": "Arroz",
+        "fraseIngles": "Steamed rice is a staple food worldwide.",
+        "frasePortugues": "Arroz no vapor é alimento básico mundialmente.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 90,
+        "ingles": "Fried rice",
+        "portugues": "Arroz frito",
+        "fraseIngles": "Chinese fried rice contains eggs and vegetables.",
+        "frasePortugues": "Arroz frito chinês contém ovos e vegetais.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 91,
+        "ingles": "Pilaf",
+        "portugues": "Pilaf",
+        "fraseIngles": "Rice pilaf is cooked with broth and spices.",
+        "frasePortugues": "Pilaf de arroz é cozido com caldo e especiarias.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 92,
+        "ingles": "Beans",
+        "portugues": "Feijão",
+        "fraseIngles": "Red beans and rice is a Louisiana specialty.",
+        "frasePortugues": "Feijão vermelho com arroz é especialidade da Louisiana.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 93,
+        "ingles": "Lentils",
+        "portugues": "Lentilhas",
+        "fraseIngles": "Lentil curry is protein-rich and flavorful.",
+        "frasePortugues": "Curry de lentilhas é rico em proteína e saboroso.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 94,
+        "ingles": "Quinoa",
+        "portugues": "Quinoa",
+        "fraseIngles": "Quinoa is a complete protein grain.",
+        "frasePortugues": "Quinoa é um grão com proteína completa.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 95,
+        "ingles": "Couscous",
+        "portugues": "Cuscuz",
+        "fraseIngles": "Moroccan couscous is made from wheat.",
+        "frasePortugues": "Cuscuz marroquino é feito de trigo.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 96,
+        "ingles": "Polenta",
+        "portugues": "Polenta",
+        "fraseIngles": "Creamy polenta is made from cornmeal.",
+        "frasePortugues": "Polenta cremosa é feita de fubá.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 97,
+        "ingles": "Mashed potatoes",
+        "portugues": "Purê de batatas",
+        "fraseIngles": "Creamy mashed potatoes go with everything.",
+        "frasePortugues": "Purê cremoso de batatas combina com tudo.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 98,
+        "ingles": "Baked potato",
+        "portugues": "Batata assada",
+        "fraseIngles": "A baked potato with butter is simple comfort food.",
+        "frasePortugues": "Uma batata assada com manteiga é comida reconfortante simples.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 99,
+        "ingles": "French fries",
+        "portugues": "Batatas fritas",
+        "fraseIngles": "Crispy french fries are the perfect side dish.",
+        "frasePortugues": "Batatas fritas crocantes são o acompanhamento perfeito.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 100,
+        "ingles": "Onion rings",
+        "portugues": "Anéis de cebola",
+        "fraseIngles": "Beer-battered onion rings are crispy and sweet.",
+        "frasePortugues": "Anéis de cebola empanados na cerveja são crocantes e doces.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 101,
+        "ingles": "Bread",
+        "portugues": "Pão",
+        "fraseIngles": "Fresh-baked bread smells wonderful.",
+        "frasePortugues": "Pão recém-assado tem cheiro maravilhoso.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 102,
+        "ingles": "Rolls",
+        "portugues": "Pãezinhos",
+        "fraseIngles": "Dinner rolls are served warm with butter.",
+        "frasePortugues": "Pãezinhos de jantar são servidos quentes com manteiga.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 103,
+        "ingles": "Garlic bread",
+        "portugues": "Pão de alho",
+        "fraseIngles": "Garlic bread pairs perfectly with pasta.",
+        "frasePortugues": "Pão de alho combina perfeitamente com macarrão.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 104,
+        "ingles": "Breadsticks",
+        "portugues": "Palitos de pão",
+        "fraseIngles": "Crispy breadsticks are great for dipping.",
+        "frasePortugues": "Palitos de pão crocantes são ótimos para molhar.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 105,
+        "ingles": "Stuffing",
+        "portugues": "Farofa",
+        "fraseIngles": "Thanksgiving stuffing contains herbs and celery.",
+        "frasePortugues": "Farofa do Dia de Ação de Graças contém ervas e aipo.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 106,
+        "ingles": "Gravy",
+        "portugues": "Molho",
+        "fraseIngles": "Rich gravy is made from meat drippings.",
+        "frasePortugues": "Molho rico é feito dos pingos da carne.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 107,
+        "ingles": "Sauce",
+        "portugues": "Molho",
+        "fraseIngles": "Tomato sauce goes on pasta and pizza.",
+        "frasePortugues": "Molho de tomate vai no macarrão e pizza.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 108,
+        "ingles": "Marinade",
+        "portugues": "Marinada",
+        "fraseIngles": "Meat marinates in sauce to add flavor.",
+        "frasePortugues": "Carne marina no molho para adicionar sabor.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 109,
+        "ingles": "Dressing",
+        "portugues": "Molho para salada",
+        "fraseIngles": "Ranch dressing is popular on salads.",
+        "frasePortugues": "Molho ranch é popular em saladas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 110,
+        "ingles": "Vinaigrette",
+        "portugues": "Vinagrete",
+        "fraseIngles": "Oil and vinegar make a simple vinaigrette.",
+        "frasePortugues": "Óleo e vinagre fazem um vinagrete simples.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 111,
+        "ingles": "Barbecue",
+        "portugues": "Churrasco",
+        "fraseIngles": "Summer barbecue brings families together.",
+        "frasePortugues": "Churrasco de verão une as famílias.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 112,
+        "ingles": "Grilled food",
+        "portugues": "Comida grelhada",
+        "fraseIngles": "Grilled food has a smoky flavor.",
+        "frasePortugues": "Comida grelhada tem sabor defumado.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 113,
+        "ingles": "Steak",
+        "portugues": "Bife",
+        "fraseIngles": "A perfect steak is seared and juicy.",
+        "frasePortugues": "Um bife perfeito é selado e suculento.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 114,
+        "ingles": "Ribs",
+        "portugues": "Costelas",
+        "fraseIngles": "Baby back ribs are tender and saucy.",
+        "frasePortugues": "Costelas de porco são tenras e com molho.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 115,
+        "ingles": "Brisket",
+        "portugues": "Peito bovino",
+        "fraseIngles": "Smoked brisket takes hours to cook properly.",
+        "frasePortugues": "Peito bovino defumado leva horas para cozinhar adequadamente.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 116,
+        "ingles": "Pulled pork",
+        "portugues": "Carne de porco desfiada",
+        "fraseIngles": "Slow-cooked pulled pork is tender and flavorful.",
+        "frasePortugues": "Carne de porco desfiada cozida lentamente é tenra e saborosa.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 117,
+        "ingles": "Wings",
+        "portugues": "Asinhas",
+        "fraseIngles": "Buffalo wings are spicy and tangy.",
+        "frasePortugues": "Asinhas Buffalo são picantes e ácidas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 118,
+        "ingles": "Drumsticks",
+        "portugues": "Coxinhas",
+        "fraseIngles": "Chicken drumsticks are juicy dark meat.",
+        "frasePortugues": "Coxinhas de frango são carne escura suculenta.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 119,
+        "ingles": "Kebab",
+        "portugues": "Espetinho",
+        "fraseIngles": "Vegetable kebabs are colorful and healthy.",
+        "frasePortugues": "Espetinhos de vegetais são coloridos e saudáveis.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 120,
+        "ingles": "Taco",
+        "portugues": "Taco",
+        "fraseIngles": "Mexican tacos are filled with meat and vegetables.",
+        "frasePortugues": "Tacos mexicanos são recheados com carne e vegetais.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 121,
+        "ingles": "Burrito",
+        "portugues": "Burrito",
+        "fraseIngles": "A breakfast burrito contains eggs and cheese.",
+        "frasePortugues": "Um burrito de café da manhã contém ovos e queijo.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 122,
+        "ingles": "Quesadilla",
+        "portugues": "Quesadilla",
+        "fraseIngles": "Cheese quesadillas are crispy and melty.",
+        "frasePortugues": "Quesadillas de queijo são crocantes e cremosas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 123,
+        "ingles": "Enchilada",
+        "portugues": "Enchilada",
+        "fraseIngles": "Chicken enchiladas are covered in sauce.",
+        "frasePortugues": "Enchiladas de frango são cobertas com molho.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 124,
+        "ingles": "Fajitas",
+        "portugues": "Fajitas",
+        "fraseIngles": "Sizzling fajitas are served on hot plates.",
+        "frasePortugues": "Fajitas chiando são servidas em pratos quentes.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 125,
+        "ingles": "Nachos",
+        "portugues": "Nachos",
+        "fraseIngles": "Loaded nachos have cheese, meat, and peppers.",
+        "frasePortugues": "Nachos carregados têm queijo, carne e pimentões.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 126,
+        "ingles": "Sushi",
+        "portugues": "Sushi",
+        "fraseIngles": "Fresh sushi is made with raw fish.",
+        "frasePortugues": "Sushi fresco é feito com peixe cru.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 127,
+        "ingles": "Sashimi",
+        "portugues": "Sashimi",
+        "fraseIngles": "Sashimi is sliced raw fish without rice.",
+        "frasePortugues": "Sashimi é peixe cru fatiado sem arroz.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 128,
+        "ingles": "Tempura",
+        "portugues": "Tempura",
+        "fraseIngles": "Vegetable tempura is lightly battered and fried.",
+        "frasePortugues": "Tempura de vegetais é levemente empanado e frito.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 129,
+        "ingles": "Stir-fry",
+        "portugues": "Refogado",
+        "fraseIngles": "Chicken stir-fry cooks quickly in a wok.",
+        "frasePortugues": "Refogado de frango cozinha rapidamente no wok.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 130,
+        "ingles": "Curry",
+        "portugues": "Curry",
+        "fraseIngles": "Indian curry is spicy and aromatic.",
+        "frasePortugues": "Curry indiano é picante e aromático.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 131,
+        "ingles": "Pad Thai",
+        "portugues": "Pad Thai",
+        "fraseIngles": "Pad Thai is a popular Thai noodle dish.",
+        "frasePortugues": "Pad Thai é um prato tailandês popular de macarrão.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 132,
+        "ingles": "Pho",
+        "portugues": "Pho",
+        "fraseIngles": "Vietnamese pho is a fragrant noodle soup.",
+        "frasePortugues": "Pho vietnamita é uma sopa aromática de macarrão.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 133,
+        "ingles": "Ramen",
+        "portugues": "Ramen",
+        "fraseIngles": "Japanese ramen has rich broth and noodles.",
+        "frasePortugues": "Ramen japonês tem caldo rico e macarrão.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 134,
+        "ingles": "Dim sum",
+        "portugues": "Dim sum",
+        "fraseIngles": "Chinese dim sum are small steamed dumplings.",
+        "frasePortugues": "Dim sum chinês são pequenos bolinhos no vapor.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 135,
+        "ingles": "Dumplings",
+        "portugues": "Bolinhos",
+        "fraseIngles": "Pork dumplings are steamed or fried.",
+        "frasePortugues": "Bolinhos de porco são cozidos no vapor ou fritos.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 136,
+        "ingles": "Spring rolls",
+        "portugues": "Rolinhos primavera",
+        "fraseIngles": "Fresh spring rolls are wrapped in rice paper.",
+        "frasePortugues": "Rolinhos primavera frescos são embrulhados em papel de arroz.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 137,
+        "ingles": "Egg rolls",
+        "portugues": "Rolinhos de ovo",
+        "fraseIngles": "Crispy egg rolls are deep-fried appetizers.",
+        "frasePortugues": "Rolinhos de ovo crocantes são aperitivos fritos.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 138,
+        "ingles": "Won ton",
+        "portugues": "Won ton",
+        "fraseIngles": "Won ton soup has delicate dumpling wrappers.",
+        "frasePortugues": "Sopa won ton tem envoltórios delicados de bolinhos.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 139,
+        "ingles": "Lo mein",
+        "portugues": "Lo mein",
+        "fraseIngles": "Lo mein noodles are soft and savory.",
+        "frasePortugues": "Macarrão lo mein é macio e salgado.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 140,
+        "ingles": "Chow mein",
+        "portugues": "Chow mein",
+        "fraseIngles": "Chow mein noodles are crispy and crunchy.",
+        "frasePortugues": "Macarrão chow mein é crocante e crocante.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 141,
+        "ingles": "General Tso's chicken",
+        "portugues": "Frango General Tso",
+        "fraseIngles": "General Tso's chicken is sweet and spicy.",
+        "frasePortugues": "Frango General Tso é doce e picante.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 142,
+        "ingles": "Sweet and sour pork",
+        "portugues": "Porco agridoce",
+        "fraseIngles": "Sweet and sour pork balances flavors perfectly.",
+        "frasePortugues": "Porco agridoce equilibra sabores perfeitamente.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 143,
+        "ingles": "Kung Pao chicken",
+        "portugues": "Frango Kung Pao",
+        "fraseIngles": "Kung Pao chicken contains peanuts and peppers.",
+        "frasePortugues": "Frango Kung Pao contém amendoim e pimentões.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 144,
+        "ingles": "Beef and broccoli",
+        "portugues": "Carne com brócolis",
+        "fraseIngles": "Beef and broccoli is a classic Chinese dish.",
+        "frasePortugues": "Carne com brócolis é um prato chinês clássico.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 145,
+        "ingles": "Fried chicken",
+        "portugues": "Frango frito",
+        "fraseIngles": "Southern fried chicken has crispy coating.",
+        "frasePortugues": "Frango frito sulista tem cobertura crocante.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 146,
+        "ingles": "Chicken parmesan",
+        "portugues": "Frango parmegiana",
+        "fraseIngles": "Chicken parmesan is breaded and topped with cheese.",
+        "frasePortugues": "Frango parmegiana é empanado e coberto com queijo.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 147,
+        "ingles": "Fish and chips",
+        "portugues": "Peixe com batatas fritas",
+        "fraseIngles": "British fish and chips are served with vinegar.",
+        "frasePortugues": "Peixe com batatas fritas britânico é servido com vinagre.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 148,
+        "ingles": "Shepherd's pie",
+        "portugues": "Torta do pastor",
+        "fraseIngles": "Shepherd's pie has meat topped with mashed potatoes.",
+        "frasePortugues": "Torta do pastor tem carne coberta com purê de batatas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 149,
+        "ingles": "Pot pie",
+        "portugues": "Torta de panela",
+        "fraseIngles": "Chicken pot pie has flaky pastry crust.",
+        "frasePortugues": "Torta de panela de frango tem crosta folhada.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 150,
+        "ingles": "Quiche",
+        "portugues": "Quiche",
+        "fraseIngles": "Spinach quiche is perfect for brunch.",
+        "frasePortugues": "Quiche de espinafre é perfeito para brunch.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 151,
+        "ingles": "Frittata",
+        "portugues": "Frittata",
+        "fraseIngles": "Vegetable frittata is like a thick omelet.",
+        "frasePortugues": "Frittata de vegetais é como uma omelete grossa.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 152,
+        "ingles": "Pancetta",
+        "portugues": "Pancetta",
+        "fraseIngles": "Italian pancetta is cured pork belly.",
+        "frasePortugues": "Pancetta italiana é barriga de porco curada.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 153,
+        "ingles": "Prosciutto",
+        "portugues": "Prosciutto",
+        "fraseIngles": "Thin slices of prosciutto are salty and delicate.",
+        "frasePortugues": "Fatias finas de prosciutto são salgadas e delicadas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 154,
+        "ingles": "Pastrami",
+        "portugues": "Pastrami",
+        "fraseIngles": "Pastrami on rye is a classic deli sandwich.",
+        "frasePortugues": "Pastrami no pão de centeio é um sanduíche clássico de delicatessen.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 155,
+        "ingles": "Corned beef",
+        "portugues": "Carne salgada",
+        "fraseIngles": "Corned beef and cabbage is an Irish dish.",
+        "frasePortugues": "Carne salgada com repolho é um prato irlandês.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 156,
+        "ingles": "Meatloaf",
+        "portugues": "Bolo de carne",
+        "fraseIngles": "Homestyle meatloaf is comfort food.",
+        "frasePortugues": "Bolo de carne caseiro é comida reconfortante.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 157,
+        "ingles": "Meatballs",
+        "portugues": "Almôndegas",
+        "fraseIngles": "Swedish meatballs are served with cream sauce.",
+        "frasePortugues": "Almôndegas suecas são servidas com molho de creme.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 158,
+        "ingles": "Sausage",
+        "portugues": "Linguiça",
+        "fraseIngles": "Italian sausage adds flavor to pasta sauce.",
+        "frasePortugues": "Linguiça italiana adiciona sabor ao molho de macarrão.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 159,
+        "ingles": "Bratwurst",
+        "portugues": "Bratwurst",
+        "fraseIngles": "German bratwurst is grilled and served with mustard.",
+        "frasePortugues": "Bratwurst alemão é grelhado e servido com mostarda.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 160,
+        "ingles": "Hot pot",
+        "portugues": "Fondue chinês",
+        "fraseIngles": "Chinese hot pot is cooked at the table.",
+        "frasePortugues": "Fondue chinês é cozido na mesa.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 161,
+        "ingles": "Fondue",
+        "portugues": "Fondue",
+        "fraseIngles": "Cheese fondue is melted cheese for dipping.",
+        "frasePortugues": "Fondue de queijo é queijo derretido para molhar.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 162,
+        "ingles": "Buffet",
+        "portugues": "Buffet",
+        "fraseIngles": "The buffet offers many different dishes.",
+        "frasePortugues": "O buffet oferece muitos pratos diferentes.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 163,
+        "ingles": "Prix fixe",
+        "portugues": "Menu fixo",
+        "fraseIngles": "The prix fixe menu includes three courses.",
+        "frasePortugues": "O menu fixo inclui três pratos.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 164,
+        "ingles": "À la carte",
+        "portugues": "À la carte",
+        "fraseIngles": "Order à la carte to choose individual dishes.",
+        "frasePortugues": "Peça à la carte para escolher pratos individuais.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 165,
+        "ingles": "Family style",
+        "portugues": "Estilo família",
+        "fraseIngles": "Family style meals are served in large portions to share.",
+        "frasePortugues": "Refeições estilo família são servidas em porções grandes para compartilhar.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 166,
+        "ingles": "Potluck",
+        "portugues": "Comida comunitária",
+        "fraseIngles": "Everyone brings a dish to the potluck dinner.",
+        "frasePortugues": "Todo mundo traz um prato para o jantar comunitário.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 167,
+        "ingles": "Picnic",
+        "portugues": "Piquenique",
+        "fraseIngles": "Pack sandwiches for the outdoor picnic.",
+        "frasePortugues": "Embale sanduíches para o piquenique ao ar livre.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 168,
+        "ingles": "Barbecue party",
+        "portugues": "Festa de churrasco",
+        "fraseIngles": "Summer barbecue parties are fun and relaxed.",
+        "frasePortugues": "Festas de churrasco de verão são divertidas e relaxadas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 169,
+        "ingles": "Dinner party",
+        "portugues": "Festa de jantar",
+        "fraseIngles": "Host an elegant dinner party for friends.",
+        "frasePortugues": "Organize uma festa de jantar elegante para amigos.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 170,
+        "ingles": "Holiday meal",
+        "portugues": "Refeição de feriado",
+        "fraseIngles": "Holiday meals bring families together.",
+        "frasePortugues": "Refeições de feriado unem as famílias.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 171,
+        "ingles": "Birthday dinner",
+        "portugues": "Jantar de aniversário",
+        "fraseIngles": "Celebrate with a special birthday dinner.",
+        "frasePortugues": "Comemore com um jantar especial de aniversário.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 172,
+        "ingles": "Anniversary dinner",
+        "portugues": "Jantar de aniversário",
+        "fraseIngles": "An anniversary dinner should be romantic.",
+        "frasePortugues": "Um jantar de aniversário deve ser romântico.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 173,
+        "ingles": "Business lunch",
+        "portugues": "Almoço de negócios",
+        "fraseIngles": "Discuss deals over a business lunch.",
+        "frasePortugues": "Discuta negócios durante um almoço de negócios.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 174,
+        "ingles": "Power breakfast",
+        "portugues": "Café da manhã de negócios",
+        "fraseIngles": "Start the day with an early power breakfast.",
+        "frasePortugues": "Comece o dia com um café da manhã de negócios cedo.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 175,
+        "ingles": "Working lunch",
+        "portugues": "Almoço de trabalho",
+        "fraseIngles": "Have a working lunch to save time.",
+        "frasePortugues": "Faça um almoço de trabalho para economizar tempo.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 176,
+        "ingles": "Take-out",
+        "portugues": "Comida para viagem",
+        "fraseIngles": "Order Chinese take-out for a quick dinner.",
+        "frasePortugues": "Peça comida chinesa para viagem para um jantar rápido.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 177,
+        "ingles": "Delivery",
+        "portugues": "Entrega",
+        "fraseIngles": "Pizza delivery is convenient on busy nights.",
+        "frasePortugues": "Entrega de pizza é conveniente em noites ocupadas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 178,
+        "ingles": "Fast food",
+        "portugues": "Fast food",
+        "fraseIngles": "Fast food is quick but not very healthy.",
+        "frasePortugues": "Fast food é rápido mas não muito saudável.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 179,
+        "ingles": "Fine dining",
+        "portugues": "Jantar fino",
+        "fraseIngles": "Fine dining restaurants have excellent service.",
+        "frasePortugues": "Restaurantes de jantar fino têm excelente serviço.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 180,
+        "ingles": "Casual dining",
+        "portugues": "Jantar casual",
+        "fraseIngles": "Casual dining is relaxed and comfortable.",
+        "frasePortugues": "Jantar casual é relaxado e confortável.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 181,
+        "ingles": "Home cooking",
+        "portugues": "Comida caseira",
+        "fraseIngles": "Nothing beats the taste of home cooking.",
+        "frasePortugues": "Nada supera o sabor da comida caseira.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 182,
+        "ingles": "Comfort food",
+        "portugues": "Comida reconfortante",
+        "fraseIngles": "Mac and cheese is the ultimate comfort food.",
+        "frasePortugues": "Macarrão com queijo é a comida reconfortante definitiva.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 183,
+        "ingles": "Soul food",
+        "portugues": "Comida soul",
+        "fraseIngles": "Southern soul food is rich and flavorful.",
+        "frasePortugues": "Comida soul sulista é rica e saborosa.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 184,
+        "ingles": "Health food",
+        "portugues": "Comida saudável",
+        "fraseIngles": "Health food restaurants serve nutritious meals.",
+        "frasePortugues": "Restaurantes de comida saudável servem refeições nutritivas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 185,
+        "ingles": "Organic food",
+        "portugues": "Comida orgânica",
+        "fraseIngles": "Organic food is grown without pesticides.",
+        "frasePortugues": "Comida orgânica é cultivada sem pesticidas.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 186,
+        "ingles": "Farm-to-table",
+        "portugues": "Da fazenda à mesa",
+        "fraseIngles": "Farm-to-table restaurants use local ingredients.",
+        "frasePortugues": "Restaurantes da fazenda à mesa usam ingredientes locais.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 187,
+        "ingles": "Slow food",
+        "portugues": "Slow food",
+        "fraseIngles": "The slow food movement emphasizes quality over speed.",
+        "frasePortugues": "O movimento slow food enfatiza qualidade sobre velocidade.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 188,
+        "ingles": "Street food",
+        "portugues": "Comida de rua",
+        "fraseIngles": "Street food vendors offer authentic local flavors.",
+        "frasePortugues": "Vendedores de comida de rua oferecem sabores locais autênticos.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 189,
+        "ingles": "Food truck",
+        "portugues": "Food truck",
+        "fraseIngles": "The taco food truck serves lunch downtown.",
+        "frasePortugues": "O food truck de tacos serve almoço no centro da cidade.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 190,
+        "ingles": "Meal prep",
+        "portugues": "Preparo de refeições",
+        "fraseIngles": "Sunday meal prep saves time during the week.",
+        "frasePortugues": "Preparo de refeições no domingo economiza tempo durante a semana.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 191,
+        "ingles": "Leftovers",
+        "portugues": "Sobras",
+        "fraseIngles": "Heat up yesterday's leftovers for lunch.",
+        "frasePortugues": "Esquente as sobras de ontem para o almoço.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 192,
+        "ingles": "Doggy bag",
+        "portugues": "Marmita para levar",
+        "fraseIngles": "Take home a doggy bag from the restaurant.",
+        "frasePortugues": "Leve uma marmita para casa do restaurante.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 193,
+        "ingles": "All-you-can-eat",
+        "portugues": "À vontade",
+        "fraseIngles": "The all-you-can-eat buffet has unlimited food.",
+        "frasePortugues": "O buffet à vontade tem comida ilimitada.",
+        "subtopico": "Reifeições",
+        "topico": "Alimentos"
+    }
+]

@@ -1,0 +1,1550 @@
+[
+    {
+        "id": 1,
+        "ingles": "Cake",
+        "portugues": "Bolo",
+        "fraseIngles": "Birthday cake is decorated with frosting.",
+        "frasePortugues": "Bolo de aniversário é decorado com cobertura.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 2,
+        "ingles": "Chocolate cake",
+        "portugues": "Bolo de chocolate",
+        "fraseIngles": "Rich chocolate cake is everyone's favorite.",
+        "frasePortugues": "Bolo rico de chocolate é favorito de todos.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 3,
+        "ingles": "Vanilla cake",
+        "portugues": "Bolo de baunilha",
+        "fraseIngles": "Light vanilla cake pairs well with berries.",
+        "frasePortugues": "Bolo leve de baunilha combina bem com frutas vermelhas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 4,
+        "ingles": "Red velvet cake",
+        "portugues": "Bolo red velvet",
+        "fraseIngles": "Red velvet cake has cream cheese frosting.",
+        "frasePortugues": "Bolo red velvet tem cobertura de cream cheese.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 5,
+        "ingles": "Carrot cake",
+        "portugues": "Bolo de cenoura",
+        "fraseIngles": "Moist carrot cake contains nuts and spices.",
+        "frasePortugues": "Bolo úmido de cenoura contém nozes e especiarias.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 6,
+        "ingles": "Pound cake",
+        "portugues": "Pound cake",
+        "fraseIngles": "Dense pound cake is perfect with tea.",
+        "frasePortugues": "Pound cake denso é perfeito com chá.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 7,
+        "ingles": "Angel food cake",
+        "portugues": "Bolo angel food",
+        "fraseIngles": "Angel food cake is light and airy.",
+        "frasePortugues": "Bolo angel food é leve e arejado.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 8,
+        "ingles": "Devil's food cake",
+        "portugues": "Bolo devil's food",
+        "fraseIngles": "Devil's food cake is very chocolatey.",
+        "frasePortugues": "Bolo devil's food é muito chocolateado.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 9,
+        "ingles": "Bundt cake",
+        "portugues": "Bolo bundt",
+        "fraseIngles": "Bundt cakes are baked in special pans.",
+        "frasePortugues": "Bolos bundt são assados em formas especiais.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 10,
+        "ingles": "Layer cake",
+        "portugues": "Bolo de camadas",
+        "fraseIngles": "Layer cakes have frosting between layers.",
+        "frasePortugues": "Bolos de camadas têm cobertura entre as camadas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 11,
+        "ingles": "Sheet cake",
+        "portugues": "Bolo de forma",
+        "fraseIngles": "Sheet cake serves many people.",
+        "frasePortugues": "Bolo de forma serve muitas pessoas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 12,
+        "ingles": "Cupcake",
+        "portugues": "Cupcake",
+        "fraseIngles": "Individual cupcakes are perfect for parties.",
+        "frasePortugues": "Cupcakes individuais são perfeitos para festas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 13,
+        "ingles": "Muffin",
+        "portugues": "Muffin",
+        "fraseIngles": "Blueberry muffins are breakfast treats.",
+        "frasePortugues": "Muffins de mirtilo são guloseimas de café da manhã.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 14,
+        "ingles": "Cheesecake",
+        "portugues": "Cheesecake",
+        "fraseIngles": "New York cheesecake is rich and creamy.",
+        "frasePortugues": "Cheesecake de Nova York é rico e cremoso.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 15,
+        "ingles": "Tiramisu",
+        "portugues": "Tiramisu",
+        "fraseIngles": "Italian tiramisu contains coffee and mascarpone.",
+        "frasePortugues": "Tiramisu italiano contém café e mascarpone.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 16,
+        "ingles": "Black forest cake",
+        "portugues": "Bolo floresta negra",
+        "fraseIngles": "Black forest cake has cherries and whipped cream.",
+        "frasePortugues": "Bolo floresta negra tem cerejas e chantilly.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 17,
+        "ingles": "Tres leches cake",
+        "portugues": "Bolo três leites",
+        "fraseIngles": "Tres leches cake is soaked in milk.",
+        "frasePortugues": "Bolo três leites é encharcado no leite.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 18,
+        "ingles": "Fruitcake",
+        "portugues": "Bolo de frutas",
+        "fraseIngles": "Traditional fruitcake contains dried fruits.",
+        "frasePortugues": "Bolo tradicional de frutas contém frutas secas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 19,
+        "ingles": "Coffee cake",
+        "portugues": "Bolo de café",
+        "fraseIngles": "Coffee cake has streusel topping.",
+        "frasePortugues": "Bolo de café tem cobertura farofa.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 20,
+        "ingles": "Sponge cake",
+        "portugues": "Pão-de-ló",
+        "fraseIngles": "Light sponge cake absorbs flavors well.",
+        "frasePortugues": "Pão-de-ló leve absorve bem os sabores.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 21,
+        "ingles": "Pie",
+        "portugues": "Torta",
+        "fraseIngles": "Apple pie is an American classic.",
+        "frasePortugues": "Torta de maçã é um clássico americano.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 22,
+        "ingles": "Apple pie",
+        "portugues": "Torta de maçã",
+        "fraseIngles": "Warm apple pie smells like home.",
+        "frasePortugues": "Torta de maçã quente cheira como casa.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 23,
+        "ingles": "Pumpkin pie",
+        "portugues": "Torta de abóbora",
+        "fraseIngles": "Pumpkin pie is traditional at Thanksgiving.",
+        "frasePortugues": "Torta de abóbora é tradicional no Dia de Ação de Graças.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 24,
+        "ingles": "Pecan pie",
+        "portugues": "Torta de pecã",
+        "fraseIngles": "Southern pecan pie is sweet and nutty.",
+        "frasePortugues": "Torta sulista de pecã é doce e amendoada.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 25,
+        "ingles": "Cherry pie",
+        "portugues": "Torta de cereja",
+        "fraseIngles": "Tart cherry pie needs lots of sugar.",
+        "frasePortugues": "Torta azeda de cereja precisa de muito açúcar.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 26,
+        "ingles": "Lemon meringue pie",
+        "portugues": "Torta de limão com merengue",
+        "fraseIngles": "Lemon meringue pie has fluffy topping.",
+        "frasePortugues": "Torta de limão com merengue tem cobertura fofa.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 27,
+        "ingles": "Key lime pie",
+        "portugues": "Torta de lima",
+        "fraseIngles": "Florida key lime pie is tart and refreshing.",
+        "frasePortugues": "Torta de lima da Flórida é azeda e refrescante.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 28,
+        "ingles": "Peach pie",
+        "portugues": "Torta de pêssego",
+        "fraseIngles": "Summer peach pie uses fresh fruit.",
+        "frasePortugues": "Torta de pêssego do verão usa frutas frescas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 29,
+        "ingles": "Blueberry pie",
+        "portugues": "Torta de mirtilo",
+        "fraseIngles": "Blueberry pie filling is sweet and juicy.",
+        "frasePortugues": "Recheio de torta de mirtilo é doce e suculento.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 30,
+        "ingles": "Strawberry pie",
+        "portugues": "Torta de morango",
+        "fraseIngles": "Fresh strawberry pie celebrates spring.",
+        "frasePortugues": "Torta fresca de morango celebra a primavera.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 31,
+        "ingles": "Cream pie",
+        "portugues": "Torta de creme",
+        "fraseIngles": "Banana cream pie has custard filling.",
+        "frasePortugues": "Torta de creme de banana tem recheio de pudim.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 32,
+        "ingles": "Custard pie",
+        "portugues": "Torta de pudim",
+        "fraseIngles": "Custard pie is smooth and rich.",
+        "frasePortugues": "Torta de pudim é lisa e rica.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 33,
+        "ingles": "Coconut cream pie",
+        "portugues": "Torta de creme de coco",
+        "fraseIngles": "Coconut cream pie is topped with whipped cream.",
+        "frasePortugues": "Torta de creme de coco é coberta com chantilly.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 34,
+        "ingles": "Chocolate cream pie",
+        "portugues": "Torta de creme de chocolate",
+        "fraseIngles": "Chocolate cream pie is decadent dessert.",
+        "frasePortugues": "Torta de creme de chocolate é sobremesa decadente.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 35,
+        "ingles": "Mud pie",
+        "portugues": "Torta de lama",
+        "fraseIngles": "Mud pie looks messy but tastes amazing.",
+        "frasePortugues": "Torta de lama parece bagunçada mas tem gosto incrível.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 36,
+        "ingles": "Tart",
+        "portugues": "Torta pequena",
+        "fraseIngles": "Fruit tarts are elegant desserts.",
+        "frasePortugues": "Tortas pequenas de frutas são sobremesas elegantes.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 37,
+        "ingles": "Fruit tart",
+        "portugues": "Tortinha de frutas",
+        "fraseIngles": "Colorful fruit tarts are beautiful.",
+        "frasePortugues": "Tortinhas coloridas de frutas são lindas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 38,
+        "ingles": "Lemon tart",
+        "portugues": "Tortinha de limão",
+        "fraseIngles": "French lemon tart is perfectly tart.",
+        "frasePortugues": "Tortinha francesa de limão é perfeitamente azeda.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 39,
+        "ingles": "Chocolate tart",
+        "portugues": "Tortinha de chocolate",
+        "fraseIngles": "Rich chocolate tart needs small portions.",
+        "frasePortugues": "Tortinha rica de chocolate precisa de porções pequenas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 40,
+        "ingles": "Treacle tart",
+        "portugues": "Tortinha de melado",
+        "fraseIngles": "British treacle tart is very sweet.",
+        "frasePortugues": "Tortinha britânica de melado é muito doce.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 41,
+        "ingles": "Cookies",
+        "portugues": "Biscoitos",
+        "fraseIngles": "Chocolate chip cookies are classic treats.",
+        "frasePortugues": "Biscoitos de gotas de chocolate são guloseimas clássicas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 42,
+        "ingles": "Chocolate chip cookies",
+        "portugues": "Biscoitos de gotas de chocolate",
+        "fraseIngles": "Warm chocolate chip cookies are irresistible.",
+        "frasePortugues": "Biscoitos quentes de gotas de chocolate são irresistíveis.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 43,
+        "ingles": "Sugar cookies",
+        "portugues": "Biscoitos de açúcar",
+        "fraseIngles": "Sugar cookies are perfect for decorating.",
+        "frasePortugues": "Biscoitos de açúcar são perfeitos para decorar.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 44,
+        "ingles": "Oatmeal cookies",
+        "portugues": "Biscoitos de aveia",
+        "fraseIngles": "Chewy oatmeal cookies contain raisins.",
+        "frasePortugues": "Biscoitos mastigáveis de aveia contêm uvas-passas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 45,
+        "ingles": "Peanut butter cookies",
+        "portugues": "Biscoitos de pasta de amendoim",
+        "fraseIngles": "Peanut butter cookies have crosshatch marks.",
+        "frasePortugues": "Biscoitos de pasta de amendoim têm marcas cruzadas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 46,
+        "ingles": "Snickerdoodles",
+        "portugues": "Snickerdoodles",
+        "fraseIngles": "Snickerdoodles are rolled in cinnamon sugar.",
+        "frasePortugues": "Snickerdoodles são enrolados em açúcar com canela.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 47,
+        "ingles": "Gingersnaps",
+        "portugues": "Biscoitos de gengibre",
+        "fraseIngles": "Crispy gingersnaps are spicy and sweet.",
+        "frasePortugues": "Biscoitos crocantes de gengibre são picantes e doces.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 48,
+        "ingles": "Shortbread",
+        "portugues": "Shortbread",
+        "fraseIngles": "Scottish shortbread is buttery and crumbly.",
+        "frasePortugues": "Shortbread escocês é amanteigado e esfarelento.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 49,
+        "ingles": "Macaroons",
+        "portugues": "Macaroons",
+        "fraseIngles": "Coconut macaroons are chewy and sweet.",
+        "frasePortugues": "Macaroons de coco são mastigáveis e doces.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 50,
+        "ingles": "Macarons",
+        "portugues": "Macarons",
+        "fraseIngles": "French macarons are delicate sandwich cookies.",
+        "frasePortugues": "Macarons franceses são biscoitos delicados tipo sanduíche.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 51,
+        "ingles": "Biscotti",
+        "portugues": "Biscotti",
+        "fraseIngles": "Italian biscotti are twice-baked and crunchy.",
+        "frasePortugues": "Biscotti italiano são assados duas vezes e crocantes.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 52,
+        "ingles": "Ladyfingers",
+        "portugues": "Biscoitos champagne",
+        "fraseIngles": "Ladyfingers are used in tiramisu.",
+        "frasePortugues": "Biscoitos champagne são usados no tiramisu.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 53,
+        "ingles": "Wafers",
+        "portugues": "Wafers",
+        "fraseIngles": "Vanilla wafers are light and crispy.",
+        "frasePortugues": "Wafers de baunilha são leves e crocantes.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 54,
+        "ingles": "Graham crackers",
+        "portugues": "Biscoitos graham",
+        "fraseIngles": "Graham crackers make s'mores.",
+        "frasePortugues": "Biscoitos graham fazem s'mores.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 55,
+        "ingles": "Oreos",
+        "portugues": "Oreos",
+        "fraseIngles": "Oreos are America's favorite cookie.",
+        "frasePortugues": "Oreos são o biscoito favorito da América.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 56,
+        "ingles": "Brownies",
+        "portugues": "Brownies",
+        "fraseIngles": "Fudgy brownies are rich and dense.",
+        "frasePortugues": "Brownies cremosos são ricos e densos.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 57,
+        "ingles": "Blondies",
+        "portugues": "Blondies",
+        "fraseIngles": "Blondies are like brownies but with vanilla.",
+        "frasePortugues": "Blondies são como brownies mas com baunilha.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 58,
+        "ingles": "Fudge",
+        "portugues": "Fudge",
+        "fraseIngles": "Chocolate fudge is smooth and rich.",
+        "frasePortugues": "Fudge de chocolate é liso e rico.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 59,
+        "ingles": "Caramel",
+        "portugues": "Caramelo",
+        "fraseIngles": "Soft caramel melts in your mouth.",
+        "frasePortugues": "Caramelo macio derrete na boca.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 60,
+        "ingles": "Toffee",
+        "portugues": "Toffee",
+        "fraseIngles": "English toffee is hard and buttery.",
+        "frasePortugues": "Toffee inglês é duro e amanteigado.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 61,
+        "ingles": "Taffy",
+        "portugues": "Puxa-puxa",
+        "fraseIngles": "Salt water taffy comes in many flavors.",
+        "frasePortugues": "Puxa-puxa de água salgada vem em muitos sabores.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 62,
+        "ingles": "Nougat",
+        "portugues": "Nougat",
+        "fraseIngles": "French nougat contains nuts and honey.",
+        "frasePortugues": "Nougat francês contém nozes e mel.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 63,
+        "ingles": "Pralines",
+        "portugues": "Pralines",
+        "fraseIngles": "Southern pralines are made with pecans.",
+        "frasePortugues": "Pralines sulistas são feitos com pecãs.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 64,
+        "ingles": "Truffles",
+        "portugues": "Trufas",
+        "fraseIngles": "Chocolate truffles are luxurious treats.",
+        "frasePortugues": "Trufas de chocolate são guloseimas luxuosas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 65,
+        "ingles": "Bonbons",
+        "portugues": "Bombons",
+        "fraseIngles": "Fancy bonbons have various fillings.",
+        "frasePortugues": "Bombons chiques têm vários recheios.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 66,
+        "ingles": "Chocolate bar",
+        "portugues": "Barra de chocolate",
+        "fraseIngles": "Dark chocolate bars are healthier.",
+        "frasePortugues": "Barras de chocolate amargo são mais saudáveis.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 67,
+        "ingles": "Milk chocolate",
+        "portugues": "Chocolate ao leite",
+        "fraseIngles": "Milk chocolate is creamy and sweet.",
+        "frasePortugues": "Chocolate ao leite é cremoso e doce.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 68,
+        "ingles": "Dark chocolate",
+        "portugues": "Chocolate amargo",
+        "fraseIngles": "Dark chocolate has health benefits.",
+        "frasePortugues": "Chocolate amargo tem benefícios para a saúde.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 69,
+        "ingles": "White chocolate",
+        "portugues": "Chocolate branco",
+        "fraseIngles": "White chocolate isn't technically chocolate.",
+        "frasePortugues": "Chocolate branco tecnicamente não é chocolate.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 70,
+        "ingles": "Hot chocolate",
+        "portugues": "Chocolate quente",
+        "fraseIngles": "Rich hot chocolate warms winter nights.",
+        "frasePortugues": "Chocolate quente rico aquece noites de inverno.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 71,
+        "ingles": "Chocolate mousse",
+        "portugues": "Mousse de chocolate",
+        "fraseIngles": "Light chocolate mousse melts on your tongue.",
+        "frasePortugues": "Mousse leve de chocolate derrete na língua.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 72,
+        "ingles": "Ice cream",
+        "portugues": "Sorvete",
+        "fraseIngles": "Vanilla ice cream is the most popular flavor.",
+        "frasePortugues": "Sorvete de baunilha é o sabor mais popular.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 73,
+        "ingles": "Vanilla ice cream",
+        "portugues": "Sorvete de baunilha",
+        "fraseIngles": "Vanilla goes with everything.",
+        "frasePortugues": "Baunilha combina com tudo.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 74,
+        "ingles": "Chocolate ice cream",
+        "portugues": "Sorvete de chocolate",
+        "fraseIngles": "Rich chocolate ice cream satisfies cravings.",
+        "frasePortugues": "Sorvete rico de chocolate satisfaz desejos.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 75,
+        "ingles": "Strawberry ice cream",
+        "portugues": "Sorvete de morango",
+        "fraseIngles": "Pink strawberry ice cream is fruity.",
+        "frasePortugues": "Sorvete rosa de morango é frutado.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 76,
+        "ingles": "Neapolitan ice cream",
+        "portugues": "Sorvete napolitano",
+        "fraseIngles": "Neapolitan has three flavors in one.",
+        "frasePortugues": "Napolitano tem três sabores em um.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 77,
+        "ingles": "Rocky road",
+        "portugues": "Sorvete rocky road",
+        "fraseIngles": "Rocky road contains marshmallows and nuts.",
+        "frasePortugues": "Sorvete rocky road contém marshmallows e nozes.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 78,
+        "ingles": "Mint chocolate chip",
+        "portugues": "Sorvete de hortelã com chocolate",
+        "fraseIngles": "Green mint ice cream has chocolate chips.",
+        "frasePortugues": "Sorvete verde de hortelã tem lascas de chocolate.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 79,
+        "ingles": "Cookies and cream",
+        "portugues": "Sorvete cookies and cream",
+        "fraseIngles": "Cookies and cream has cookie pieces.",
+        "frasePortugues": "Sorvete cookies and cream tem pedaços de biscoito.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 80,
+        "ingles": "Butter pecan",
+        "portugues": "Sorvete butter pecan",
+        "fraseIngles": "Butter pecan has candied pecans.",
+        "frasePortugues": "Sorvete butter pecan tem pecãs cristalizadas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 81,
+        "ingles": "Pistachio ice cream",
+        "portugues": "Sorvete de pistache",
+        "fraseIngles": "Pistachio ice cream is pale green.",
+        "frasePortugues": "Sorvete de pistache é verde pálido.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 82,
+        "ingles": "Gelato",
+        "portugues": "Gelato",
+        "fraseIngles": "Italian gelato is denser than ice cream.",
+        "frasePortugues": "Gelato italiano é mais denso que sorvete.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 83,
+        "ingles": "Sorbet",
+        "portugues": "Sorbet",
+        "fraseIngles": "Fruit sorbet is dairy-free and refreshing.",
+        "frasePortugues": "Sorbet de frutas é sem laticínios e refrescante.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 84,
+        "ingles": "Sherbet",
+        "portugues": "Sherbet",
+        "fraseIngles": "Orange sherbet contains some dairy.",
+        "frasePortugues": "Sherbet de laranja contém alguns laticínios.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 85,
+        "ingles": "Frozen yogurt",
+        "portugues": "Iogurte congelado",
+        "fraseIngles": "Frozen yogurt is healthier than ice cream.",
+        "frasePortugues": "Iogurte congelado é mais saudável que sorvete.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 86,
+        "ingles": "Popsicle",
+        "portugues": "Picolé",
+        "fraseIngles": "Fruit popsicles are perfect for summer.",
+        "frasePortugues": "Picolés de frutas são perfeitos para o verão.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 87,
+        "ingles": "Ice cream sandwich",
+        "portugues": "Sanduíche de sorvete",
+        "fraseIngles": "Ice cream sandwiches have cookie outsides.",
+        "frasePortugues": "Sanduíches de sorvete têm biscoitos do lado de fora.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 88,
+        "ingles": "Sundae",
+        "portugues": "Sundae",
+        "fraseIngles": "Hot fudge sundaes are classic treats.",
+        "frasePortugues": "Sundaes de calda quente são guloseimas clássicas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 89,
+        "ingles": "Banana split",
+        "portugues": "Banana split",
+        "fraseIngles": "Banana splits have three scoops of ice cream.",
+        "frasePortugues": "Banana splits têm três bolas de sorvete.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 90,
+        "ingles": "Float",
+        "portugues": "Float",
+        "fraseIngles": "Root beer floats combine soda and ice cream.",
+        "frasePortugues": "Floats de root beer combinam refrigerante e sorvete.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 91,
+        "ingles": "Milkshake",
+        "portugues": "Milkshake",
+        "fraseIngles": "Thick milkshakes are made with ice cream.",
+        "frasePortugues": "Milkshakes grossos são feitos com sorvete.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 92,
+        "ingles": "Malt",
+        "portugues": "Malte",
+        "fraseIngles": "Chocolate malts have malted milk powder.",
+        "frasePortugues": "Maltes de chocolate têm leite maltado em pó.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 93,
+        "ingles": "Pudding",
+        "portugues": "Pudim",
+        "fraseIngles": "Chocolate pudding is smooth and creamy.",
+        "frasePortugues": "Pudim de chocolate é liso e cremoso.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 94,
+        "ingles": "Custard",
+        "portugues": "Pudim inglês",
+        "fraseIngles": "Vanilla custard is made with eggs.",
+        "frasePortugues": "Pudim inglês de baunilha é feito com ovos.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 95,
+        "ingles": "Flan",
+        "portugues": "Flan",
+        "fraseIngles": "Spanish flan has caramel topping.",
+        "frasePortugues": "Flan espanhol tem cobertura de caramelo.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 96,
+        "ingles": "Crème brûlée",
+        "portugues": "Crème brûlée",
+        "fraseIngles": "French crème brûlée has caramelized sugar top.",
+        "frasePortugues": "Crème brûlée francês tem topo de açúcar caramelizado.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 97,
+        "ingles": "Panna cotta",
+        "portugues": "Panna cotta",
+        "fraseIngles": "Italian panna cotta is silky smooth.",
+        "frasePortugues": "Panna cotta italiana é sedosa e lisa.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 98,
+        "ingles": "Mousse",
+        "portugues": "Mousse",
+        "fraseIngles": "Light mousse is airy and delicate.",
+        "frasePortugues": "Mousse leve é arejado e delicado.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 99,
+        "ingles": "Soufflé",
+        "portugues": "Suflê",
+        "fraseIngles": "Chocolate soufflé must be served immediately.",
+        "frasePortugues": "Suflê de chocolate deve ser servido imediatamente.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 100,
+        "ingles": "Parfait",
+        "portugues": "Parfait",
+        "fraseIngles": "Fruit parfaits layer yogurt and berries.",
+        "frasePortugues": "Parfaits de frutas intercalam iogurte e frutas vermelhas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 101,
+        "ingles": "Trifle",
+        "portugues": "Trifle",
+        "fraseIngles": "English trifle has layers of cake and cream.",
+        "frasePortugues": "Trifle inglês tem camadas de bolo e creme.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 102,
+        "ingles": "Cobbler",
+        "portugues": "Cobbler",
+        "fraseIngles": "Peach cobbler has biscuit topping.",
+        "frasePortugues": "Cobbler de pêssego tem cobertura de biscoito.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 103,
+        "ingles": "Crisp",
+        "portugues": "Crisp",
+        "fraseIngles": "Apple crisp has oat topping.",
+        "frasePortugues": "Crisp de maçã tem cobertura de aveia.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 104,
+        "ingles": "Crumble",
+        "portugues": "Crumble",
+        "fraseIngles": "Berry crumble has streusel topping.",
+        "frasePortugues": "Crumble de frutas vermelhas tem cobertura farofa.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 105,
+        "ingles": "Betty",
+        "portugues": "Betty",
+        "fraseIngles": "Apple betty has breadcrumb topping.",
+        "frasePortugues": "Betty de maçã tem cobertura de farinha de rosca.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 106,
+        "ingles": "Buckle",
+        "portugues": "Buckle",
+        "fraseIngles": "Blueberry buckle is like coffee cake.",
+        "frasePortugues": "Buckle de mirtilo é como bolo de café.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 107,
+        "ingles": "Clafoutis",
+        "portugues": "Clafoutis",
+        "fraseIngles": "French clafoutis is like a fruit pancake.",
+        "frasePortugues": "Clafoutis francês é como uma panqueca de frutas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 108,
+        "ingles": "Bread pudding",
+        "portugues": "Pudim de pão",
+        "fraseIngles": "Bread pudding uses stale bread.",
+        "frasePortugues": "Pudim de pão usa pão velho.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 109,
+        "ingles": "Rice pudding",
+        "portugues": "Arroz doce",
+        "fraseIngles": "Creamy rice pudding is comfort food.",
+        "frasePortugues": "Arroz doce cremoso é comida reconfortante.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 110,
+        "ingles": "Tapioca pudding",
+        "portugues": "Pudim de tapioca",
+        "fraseIngles": "Tapioca pudding has chewy pearls.",
+        "frasePortugues": "Pudim de tapioca tem pérolas mastigáveis.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 111,
+        "ingles": "Jell-O",
+        "portugues": "Gelatina",
+        "fraseIngles": "Colorful Jell-O jiggles when you shake it.",
+        "frasePortugues": "Gelatina colorida balança quando você a mexe.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 112,
+        "ingles": "Gelatin",
+        "portugues": "Gelatina",
+        "fraseIngles": "Plain gelatin is used in many desserts.",
+        "frasePortugues": "Gelatina sem sabor é usada em muitas sobremesas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 113,
+        "ingles": "Marshmallow",
+        "portugues": "Marshmallow",
+        "fraseIngles": "Roasted marshmallows are gooey inside.",
+        "frasePortugues": "Marshmallows assados são pegajosos por dentro.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 114,
+        "ingles": "S'mores",
+        "portugues": "S'mores",
+        "fraseIngles": "S'mores combine marshmallows, chocolate, and crackers.",
+        "frasePortugues": "S'mores combinam marshmallows, chocolate e biscoitos.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 115,
+        "ingles": "Cotton candy",
+        "portugues": "Algodão doce",
+        "fraseIngles": "Pink cotton candy melts on your tongue.",
+        "frasePortugues": "Algodão doce rosa derrete na língua.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 116,
+        "ingles": "Candy cane",
+        "portugues": "Bengala de doce",
+        "fraseIngles": "Peppermint candy canes are Christmas treats.",
+        "frasePortugues": "Bengalas de doce de hortelã são guloseimas de Natal.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 117,
+        "ingles": "Lollipop",
+        "portugues": "Pirulito",
+        "fraseIngles": "Round lollipops come on sticks.",
+        "frasePortugues": "Pirulitos redondos vêm em palitos.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 118,
+        "ingles": "Hard candy",
+        "portugues": "Bala dura",
+        "fraseIngles": "Hard candy dissolves slowly.",
+        "frasePortugues": "Bala dura se dissolve lentamente.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 119,
+        "ingles": "Gummy bears",
+        "portugues": "Ursinhos de goma",
+        "fraseIngles": "Chewy gummy bears are fruity.",
+        "frasePortugues": "Ursinhos de goma mastigáveis são frutados.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 120,
+        "ingles": "Jelly beans",
+        "portugues": "Jujubas",
+        "fraseIngles": "Colorful jelly beans have different flavors.",
+        "frasePortugues": "Jujubas coloridas têm sabores diferentes.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 121,
+        "ingles": "Licorice",
+        "portugues": "Alcaçuz",
+        "fraseIngles": "Black licorice has distinctive flavor.",
+        "frasePortugues": "Alcaçuz preto tem sabor distintivo.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 122,
+        "ingles": "Peppermint",
+        "portugues": "Bala de hortelã",
+        "fraseIngles": "Peppermint candies are refreshing.",
+        "frasePortugues": "Balas de hortelã são refrescantes.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 123,
+        "ingles": "Caramel apple",
+        "portugues": "Maçã caramelada",
+        "fraseIngles": "Caramel apples are fair favorites.",
+        "frasePortugues": "Maçãs carameladas são favoritas de feiras.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 124,
+        "ingles": "Candy apple",
+        "portugues": "Maçã do amor",
+        "fraseIngles": "Red candy apples have hard coating.",
+        "frasePortugues": "Maçãs do amor vermelhas têm cobertura dura.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 125,
+        "ingles": "Funnel cake",
+        "portugues": "Bolo de funil",
+        "fraseIngles": "Funnel cake is fried dough with powder sugar.",
+        "frasePortugues": "Bolo de funil é massa frita com açúcar de confeiteiro.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 126,
+        "ingles": "Donut",
+        "portugues": "Rosquinha",
+        "fraseIngles": "Glazed donuts are sweet and sticky.",
+        "frasePortugues": "Rosquinhas glaceadas são doces e pegajosas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 127,
+        "ingles": "Doughnut",
+        "portugues": "Rosquinha (grafia alternativa)",
+        "fraseIngles": "Fresh doughnuts are best when warm.",
+        "frasePortugues": "Rosquinhas frescas são melhores quando mornas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 128,
+        "ingles": "Cruller",
+        "portugues": "Cruller",
+        "fraseIngles": "Twisted crullers are light and airy.",
+        "frasePortugues": "Crullers torcidos são leves e arejados.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 129,
+        "ingles": "Éclair",
+        "portugues": "Éclair",
+        "fraseIngles": "Chocolate éclairs are filled with cream.",
+        "frasePortugues": "Éclairs de chocolate são recheados com creme.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 130,
+        "ingles": "Cream puff",
+        "portugues": "Bomba de creme",
+        "fraseIngles": "Cream puffs are made with choux pastry.",
+        "frasePortugues": "Bombas de creme são feitas com massa choux.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 131,
+        "ingles": "Profiterole",
+        "portugues": "Profiterole",
+        "fraseIngles": "Profiteroles are small cream puffs.",
+        "frasePortugues": "Profiteroles são pequenas bombas de creme.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 132,
+        "ingles": "Churro",
+        "portugues": "Churro",
+        "fraseIngles": "Spanish churros are rolled in cinnamon sugar.",
+        "frasePortugues": "Churros espanhóis são enrolados em açúcar com canela.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 133,
+        "ingles": "Beignet",
+        "portugues": "Beignet",
+        "fraseIngles": "New Orleans beignets are covered in powdered sugar.",
+        "frasePortugues": "Beignets de Nova Orleans são cobertos com açúcar de confeiteiro.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 134,
+        "ingles": "Danish pastry",
+        "portugues": "Danish",
+        "fraseIngles": "Fruit danish are flaky breakfast pastries.",
+        "frasePortugues": "Danish de frutas são massas folhadas de café da manhã.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 135,
+        "ingles": "Croissant",
+        "portugues": "Croissant",
+        "fraseIngles": "Buttery croissants are French pastries.",
+        "frasePortugues": "Croissants amanteigados são massas francesas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 136,
+        "ingles": "Strudel",
+        "portugues": "Strudel",
+        "fraseIngles": "Apple strudel has paper-thin pastry.",
+        "frasePortugues": "Strudel de maçã tem massa finíssima.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 137,
+        "ingles": "Baklava",
+        "portugues": "Baklava",
+        "fraseIngles": "Greek baklava has phyllo and honey.",
+        "frasePortugues": "Baklava grego tem massa filo e mel.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 138,
+        "ingles": "Cannoli",
+        "portugues": "Cannoli",
+        "fraseIngles": "Sicilian cannoli have ricotta filling.",
+        "frasePortugues": "Cannoli sicilianos têm recheio de ricota.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 139,
+        "ingles": "Napoleon",
+        "portugues": "Napoleão",
+        "fraseIngles": "Napoleon cake has many layers.",
+        "frasePortugues": "Bolo Napoleão tem muitas camadas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 140,
+        "ingles": "Mille-feuille",
+        "portugues": "Mil-folhas",
+        "fraseIngles": "French mille-feuille means thousand leaves.",
+        "frasePortugues": "Mil-folhas francês significa mil folhas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 141,
+        "ingles": "Palmier",
+        "portugues": "Palmier",
+        "fraseIngles": "Palmiers are shaped like palm leaves.",
+        "frasePortugues": "Palmiers têm formato de folhas de palmeira.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 142,
+        "ingles": "Cinnamon roll",
+        "portugues": "Pão doce de canela",
+        "fraseIngles": "Warm cinnamon rolls have gooey centers.",
+        "frasePortugues": "Pães doces de canela quentes têm centros pegajosos.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 143,
+        "ingles": "Sticky bun",
+        "portugues": "Pão doce pegajoso",
+        "fraseIngles": "Sticky buns are topped with caramel.",
+        "frasePortugues": "Pães doces pegajosos são cobertos com caramelo.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 144,
+        "ingles": "Sweet roll",
+        "portugues": "Pão doce",
+        "fraseIngles": "Sweet rolls are perfect for breakfast.",
+        "frasePortugues": "Pães doces são perfeitos para café da manhã.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 145,
+        "ingles": "Fritter",
+        "portugues": "Fritter",
+        "fraseIngles": "Apple fritters are fried and sweet.",
+        "frasePortugues": "Fritters de maçã são fritos e doces.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 146,
+        "ingles": "Scone",
+        "portugues": "Scone",
+        "fraseIngles": "British scones are served with jam.",
+        "frasePortugues": "Scones britânicos são servidos com geleia.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 147,
+        "ingles": "Madeleine",
+        "portugues": "Madeleine",
+        "fraseIngles": "French madeleines are small sponge cakes.",
+        "frasePortugues": "Madeleines franceses são pequenos pães-de-ló.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 148,
+        "ingles": "Petit four",
+        "portugues": "Petit four",
+        "fraseIngles": "Petit fours are tiny decorated cakes.",
+        "frasePortugues": "Petit fours são pequenos bolos decorados.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 149,
+        "ingles": "Truffle",
+        "portugues": "Trufa",
+        "fraseIngles": "Chocolate truffles are rolled in cocoa.",
+        "frasePortugues": "Trufas de chocolate são enroladas em cacau.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 150,
+        "ingles": "Ganache",
+        "portugues": "Ganache",
+        "fraseIngles": "Rich ganache is made with cream and chocolate.",
+        "frasePortugues": "Ganache rica é feita com creme e chocolate.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 151,
+        "ingles": "Frosting",
+        "portugues": "Cobertura",
+        "fraseIngles": "Buttercream frosting is smooth and sweet.",
+        "frasePortugues": "Cobertura de buttercream é lisa e doce.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 152,
+        "ingles": "Icing",
+        "portugues": "Glacê",
+        "fraseIngles": "Royal icing hardens when it dries.",
+        "frasePortugues": "Glacê real endurece quando seca.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 153,
+        "ingles": "Glaze",
+        "portugues": "Glaceado",
+        "fraseIngles": "Donut glaze is thin and shiny.",
+        "frasePortugues": "Glaceado de rosquinha é fino e brilhante.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 154,
+        "ingles": "Fondant",
+        "portugues": "Fondant",
+        "fraseIngles": "Rolled fondant covers wedding cakes.",
+        "frasePortugues": "Fondant laminado cobre bolos de casamento.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 155,
+        "ingles": "Marzipan",
+        "portugues": "Marzipã",
+        "fraseIngles": "Almond marzipan is shaped into fruits.",
+        "frasePortugues": "Marzipã de amêndoas é modelado em frutas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 156,
+        "ingles": "Meringue",
+        "portugues": "Merengue",
+        "fraseIngles": "Light meringue is made with egg whites.",
+        "frasePortugues": "Merengue leve é feito com claras de ovo.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 157,
+        "ingles": "Whipped cream",
+        "portugues": "Chantilly",
+        "fraseIngles": "Fresh whipped cream tops desserts.",
+        "frasePortugues": "Chantilly fresco cobre sobremesas.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 158,
+        "ingles": "Buttercream",
+        "portugues": "Buttercream",
+        "fraseIngles": "Vanilla buttercream is perfect for decorating.",
+        "frasePortugues": "Buttercream de baunilha é perfeito para decorar.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 159,
+        "ingles": "Cream cheese frosting",
+        "portugues": "Cobertura de cream cheese",
+        "fraseIngles": "Carrot cake needs cream cheese frosting.",
+        "frasePortugues": "Bolo de cenoura precisa de cobertura de cream cheese.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 160,
+        "ingles": "Caramel sauce",
+        "portugues": "Calda de caramelo",
+        "fraseIngles": "Warm caramel sauce goes on ice cream.",
+        "frasePortugues": "Calda morna de caramelo vai no sorvete.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 161,
+        "ingles": "Chocolate sauce",
+        "portugues": "Calda de chocolate",
+        "fraseIngles": "Hot chocolate sauce makes everything better.",
+        "frasePortugues": "Calda quente de chocolate melhora tudo.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 162,
+        "ingles": "Fruit sauce",
+        "portugues": "Calda de frutas",
+        "fraseIngles": "Berry sauce is tart and colorful.",
+        "frasePortugues": "Calda de frutas vermelhas é azeda e colorida.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 163,
+        "ingles": "Custard sauce",
+        "portugues": "Calda de pudim",
+        "fraseIngles": "English custard sauce is called crème anglaise.",
+        "frasePortugues": "Calda inglesa de pudim é chamada crème anglaise.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 164,
+        "ingles": "Dulce de leche",
+        "portugues": "Doce de leite",
+        "fraseIngles": "Argentine dulce de leche is thick and sweet.",
+        "frasePortugues": "Doce de leite argentino é grosso e doce.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 165,
+        "ingles": "Jam",
+        "portugues": "Geleia",
+        "fraseIngles": "Strawberry jam is perfect on toast.",
+        "frasePortugues": "Geleia de morango é perfeita na torrada.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 166,
+        "ingles": "Jelly",
+        "portugues": "Geleia lisa",
+        "fraseIngles": "Grape jelly is smooth without fruit pieces.",
+        "frasePortugues": "Geleia lisa de uva é lisa sem pedaços de fruta.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 167,
+        "ingles": "Preserves",
+        "portugues": "Conserva",
+        "fraseIngles": "Preserves contain whole fruit pieces.",
+        "frasePortugues": "Conservas contêm pedaços inteiros de fruta.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 168,
+        "ingles": "Marmalade",
+        "portugues": "Marmelada",
+        "fraseIngles": "Orange marmalade has bitter peel.",
+        "frasePortugues": "Marmelada de laranja tem casca amarga.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 169,
+        "ingles": "Honey",
+        "portugues": "Mel",
+        "fraseIngles": "Local honey may help with allergies.",
+        "frasePortugues": "Mel local pode ajudar com alergias.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 170,
+        "ingles": "Maple syrup",
+        "portugues": "Xarope de bordo",
+        "fraseIngles": "Pure maple syrup is liquid gold.",
+        "frasePortugues": "Xarope puro de bordo é ouro líquido.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 171,
+        "ingles": "Molasses",
+        "portugues": "Melaço",
+        "fraseIngles": "Dark molasses has strong flavor.",
+        "frasePortugues": "Melaço escuro tem sabor forte.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 172,
+        "ingles": "Corn syrup",
+        "portugues": "Xarope de milho",
+        "fraseIngles": "Light corn syrup is clear and mild.",
+        "frasePortugues": "Xarope de milho claro é transparente e suave.",
+        "subtopico": "Doces",
+        "topico": "Alimentos"
+    }
+]

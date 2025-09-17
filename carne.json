@@ -1,0 +1,1658 @@
+[
+    {
+        "id": 1,
+        "ingles": "Beef",
+        "portugues": "Carne bovina",
+        "fraseIngles": "Prime beef is aged for tenderness and flavor.",
+        "frasePortugues": "Carne bovina premium é maturada para maciez e sabor.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 2,
+        "ingles": "Steak",
+        "portugues": "Bife",
+        "fraseIngles": "A perfectly grilled steak is juicy and tender.",
+        "frasePortugues": "Um bife perfeitamente grelhado é suculento e macio.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 3,
+        "ingles": "Ribeye",
+        "portugues": "Contrafilé",
+        "fraseIngles": "Ribeye steak has marbling that adds flavor.",
+        "frasePortugues": "Bife de contrafilé tem marmorização que adiciona sabor.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 4,
+        "ingles": "Sirloin",
+        "portugues": "Alcatra",
+        "fraseIngles": "Sirloin steak is lean and flavorful.",
+        "frasePortugues": "Bife de alcatra é magro e saboroso.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 5,
+        "ingles": "Filet mignon",
+        "portugues": "Filé mignon",
+        "fraseIngles": "Filet mignon is the most tender cut of beef.",
+        "frasePortugues": "Filé mignon é o corte mais macio da carne bovina.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 6,
+        "ingles": "T-bone",
+        "portugues": "Bife T-bone",
+        "fraseIngles": "T-bone steak includes both tenderloin and strip.",
+        "frasePortugues": "Bife T-bone inclui tanto filé quanto contrafilé.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 7,
+        "ingles": "Porterhouse",
+        "portugues": "Porterhouse",
+        "fraseIngles": "Porterhouse is a large T-bone steak.",
+        "frasePortugues": "Porterhouse é um bife T-bone grande.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 8,
+        "ingles": "New York strip",
+        "portugues": "Contrafilé nova-iorquino",
+        "fraseIngles": "New York strip is well-marbled and flavorful.",
+        "frasePortugues": "Contrafilé nova-iorquino é bem marmorizado e saboroso.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 9,
+        "ingles": "Flank steak",
+        "portugues": "Fraldinha",
+        "fraseIngles": "Flank steak is best when sliced against the grain.",
+        "frasePortugues": "Fraldinha fica melhor cortada contra as fibras.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 10,
+        "ingles": "Skirt steak",
+        "portugues": "Aranha",
+        "fraseIngles": "Skirt steak is perfect for fajitas.",
+        "frasePortugues": "Aranha é perfeita para fajitas.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 11,
+        "ingles": "Chuck roast",
+        "portugues": "Acém",
+        "fraseIngles": "Chuck roast becomes tender when braised slowly.",
+        "frasePortugues": "Acém fica macio quando refogado lentamente.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 12,
+        "ingles": "Brisket",
+        "portugues": "Peito bovino",
+        "fraseIngles": "Smoked brisket is a barbecue favorite.",
+        "frasePortugues": "Peito bovino defumado é favorito do churrasco.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 13,
+        "ingles": "Short ribs",
+        "portugues": "Costela de boi",
+        "fraseIngles": "Braised short ribs fall off the bone.",
+        "frasePortugues": "Costela de boi refogada desmancha do osso.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 14,
+        "ingles": "Prime rib",
+        "portugues": "Costela nobre",
+        "fraseIngles": "Prime rib roast is perfect for special occasions.",
+        "frasePortugues": "Assado de costela nobre é perfeito para ocasiões especiais.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 15,
+        "ingles": "Round roast",
+        "portugues": "Coxão mole",
+        "fraseIngles": "Round roast is lean and good for slow cooking.",
+        "frasePortugues": "Coxão mole é magro e bom para cozimento lento.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 16,
+        "ingles": "Ground beef",
+        "portugues": "Carne moída",
+        "fraseIngles": "Fresh ground beef is used for hamburgers.",
+        "frasePortugues": "Carne moída fresca é usada para hambúrgueres.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 17,
+        "ingles": "Lean ground beef",
+        "portugues": "Carne moída magra",
+        "fraseIngles": "Lean ground beef has less fat content.",
+        "frasePortugues": "Carne moída magra tem menos teor de gordura.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 18,
+        "ingles": "Beef tenderloin",
+        "portugues": "Filé de boi",
+        "fraseIngles": "Whole beef tenderloin is expensive but tender.",
+        "frasePortugues": "Filé de boi inteiro é caro mas macio.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 19,
+        "ingles": "Beef liver",
+        "portugues": "Fígado bovino",
+        "fraseIngles": "Beef liver is rich in iron and vitamins.",
+        "frasePortugues": "Fígado bovino é rico em ferro e vitaminas.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 20,
+        "ingles": "Beef tongue",
+        "portugues": "Língua bovina",
+        "fraseIngles": "Beef tongue is considered a delicacy.",
+        "frasePortugues": "Língua bovina é considerada uma iguaria.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 21,
+        "ingles": "Veal",
+        "portugues": "Vitela",
+        "fraseIngles": "Veal comes from young calves.",
+        "frasePortugues": "Vitela vem de bezerros jovens.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 22,
+        "ingles": "Veal cutlet",
+        "portugues": "Escalope de vitela",
+        "fraseIngles": "Veal cutlets are thin and cook quickly.",
+        "frasePortugues": "Escalopes de vitela são finos e cozinham rapidamente.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 23,
+        "ingles": "Pork",
+        "portugues": "Carne suína",
+        "fraseIngles": "Fresh pork should be cooked to proper temperature.",
+        "frasePortugues": "Carne suína fresca deve ser cozida à temperatura adequada.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 24,
+        "ingles": "Pork chop",
+        "portugues": "Costeleta de porco",
+        "fraseIngles": "Thick pork chops stay juicy when grilled.",
+        "frasePortugues": "Costeletas grossas de porco ficam suculentas quando grelhadas.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 25,
+        "ingles": "Pork tenderloin",
+        "portugues": "Lombo de porco",
+        "fraseIngles": "Pork tenderloin is lean and cooks quickly.",
+        "frasePortugues": "Lombo de porco é magro e cozinha rapidamente.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 26,
+        "ingles": "Pork shoulder",
+        "portugues": "Paleta de porco",
+        "fraseIngles": "Pork shoulder is perfect for slow cooking.",
+        "frasePortugues": "Paleta de porco é perfeita para cozimento lento.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 27,
+        "ingles": "Pork butt",
+        "portugues": "Pernil",
+        "fraseIngles": "Pork butt is used for pulled pork.",
+        "frasePortugues": "Pernil é usado para carne de porco desfiada.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 28,
+        "ingles": "Pork belly",
+        "portugues": "Barriga de porco",
+        "fraseIngles": "Crispy pork belly has layers of fat and meat.",
+        "frasePortugues": "Barriga de porco crocante tem camadas de gordura e carne.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 29,
+        "ingles": "Spare ribs",
+        "portugues": "Costela suína",
+        "fraseIngles": "Barbecued spare ribs are smoky and tender.",
+        "frasePortugues": "Costela suína no churrasco é defumada e macia.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 30,
+        "ingles": "Baby back ribs",
+        "portugues": "Costela de porco",
+        "fraseIngles": "Baby back ribs are more tender than spare ribs.",
+        "frasePortugues": "Costela de porco é mais macia que costela comum.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 31,
+        "ingles": "Ham",
+        "portugues": "Presunto",
+        "fraseIngles": "Glazed ham is traditional at Easter.",
+        "frasePortugues": "Presunto glaceado é tradicional na Páscoa.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 32,
+        "ingles": "Bacon",
+        "portugues": "Bacon",
+        "fraseIngles": "Crispy bacon is perfect with eggs.",
+        "frasePortugues": "Bacon crocante é perfeito com ovos.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 33,
+        "ingles": "Canadian bacon",
+        "portugues": "Bacon canadense",
+        "fraseIngles": "Canadian bacon is leaner than regular bacon.",
+        "frasePortugues": "Bacon canadense é mais magro que bacon comum.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 34,
+        "ingles": "Pancetta",
+        "portugues": "Pancetta",
+        "fraseIngles": "Italian pancetta is cured pork belly.",
+        "frasePortugues": "Pancetta italiana é barriga de porco curada.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 35,
+        "ingles": "Prosciutto",
+        "portugues": "Presunto Parma",
+        "fraseIngles": "Thinly sliced prosciutto melts in your mouth.",
+        "frasePortugues": "Presunto Parma finamente fatiado derrete na boca.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 36,
+        "ingles": "Sausage",
+        "portugues": "Linguiça",
+        "fraseIngles": "Italian sausage adds flavor to pasta sauce.",
+        "frasePortugues": "Linguiça italiana adiciona sabor ao molho de macarrão.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 37,
+        "ingles": "Bratwurst",
+        "portugues": "Linguiça alemã",
+        "fraseIngles": "German bratwurst is grilled until golden.",
+        "frasePortugues": "Linguiça alemã é grelhada até dourar.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 38,
+        "ingles": "Chorizo",
+        "portugues": "Chouriço",
+        "fraseIngles": "Spanish chorizo is spicy and smoky.",
+        "frasePortugues": "Chouriço espanhol é picante e defumado.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 39,
+        "ingles": "Kielbasa",
+        "portugues": "Linguiça polonesa",
+        "fraseIngles": "Polish kielbasa is garlicky and satisfying.",
+        "frasePortugues": "Linguiça polonesa é com alho e satisfatória.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 40,
+        "ingles": "Salami",
+        "portugues": "Salame",
+        "fraseIngles": "Dry salami is perfect for sandwiches.",
+        "frasePortugues": "Salame seco é perfeito para sanduíches.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 41,
+        "ingles": "Pepperoni",
+        "portugues": "Pepperoni",
+        "fraseIngles": "Pepperoni is a popular pizza topping.",
+        "frasePortugues": "Pepperoni é uma cobertura popular de pizza.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 42,
+        "ingles": "Hot dog",
+        "portugues": "Salsicha",
+        "fraseIngles": "Grilled hot dogs are summer favorites.",
+        "frasePortugues": "Salsichas grelhadas são favoritas do verão.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 43,
+        "ingles": "Vienna sausage",
+        "portugues": "Salsicha viena",
+        "fraseIngles": "Vienna sausages come in cans.",
+        "frasePortugues": "Salsichas viena vêm em latas.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 44,
+        "ingles": "Lamb",
+        "portugues": "Carneiro",
+        "fraseIngles": "Spring lamb is tender and mild.",
+        "frasePortugues": "Carneiro da primavera é macio e suave.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 45,
+        "ingles": "Lamb chop",
+        "portugues": "Costeleta de carneiro",
+        "fraseIngles": "Grilled lamb chops are elegant and flavorful.",
+        "frasePortugues": "Costeletas de carneiro grelhadas são elegantes e saborosas.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 46,
+        "ingles": "Leg of lamb",
+        "portugues": "Perna de carneiro",
+        "fraseIngles": "Roasted leg of lamb is perfect for holidays.",
+        "frasePortugues": "Perna de carneiro assada é perfeita para feriados.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 47,
+        "ingles": "Lamb shank",
+        "portugues": "Pernil de carneiro",
+        "fraseIngles": "Braised lamb shanks are rich and tender.",
+        "frasePortugues": "Pernis de carneiro refogados são ricos e macios.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 48,
+        "ingles": "Ground lamb",
+        "portugues": "Carneiro moído",
+        "fraseIngles": "Ground lamb is used in Mediterranean dishes.",
+        "frasePortugues": "Carneiro moído é usado em pratos mediterrâneos.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 49,
+        "ingles": "Mutton",
+        "portugues": "Carneiro adulto",
+        "fraseIngles": "Mutton has stronger flavor than lamb.",
+        "frasePortugues": "Carneiro adulto tem sabor mais forte que cordeiro.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 50,
+        "ingles": "Goat",
+        "portugues": "Cabra",
+        "fraseIngles": "Goat meat is lean and popular worldwide.",
+        "frasePortugues": "Carne de cabra é magra e popular mundialmente.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 51,
+        "ingles": "Venison",
+        "portugues": "Carne de veado",
+        "fraseIngles": "Wild venison is lean and gamey.",
+        "frasePortugues": "Carne de veado selvagem é magra e com sabor de caça.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 52,
+        "ingles": "Rabbit",
+        "portugues": "Coelho",
+        "fraseIngles": "Rabbit is white meat similar to chicken.",
+        "frasePortugues": "Coelho é carne branca similar ao frango.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 53,
+        "ingles": "Duck",
+        "portugues": "Pato",
+        "fraseIngles": "Roasted duck has crispy skin and rich meat.",
+        "frasePortugues": "Pato assado tem pele crocante e carne rica.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 54,
+        "ingles": "Goose",
+        "portugues": "Ganso",
+        "fraseIngles": "Christmas goose is traditional in some countries.",
+        "frasePortugues": "Ganso de Natal é tradicional em alguns países.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 55,
+        "ingles": "Chicken",
+        "portugues": "Frango",
+        "fraseIngles": "Free-range chicken has better flavor.",
+        "frasePortugues": "Frango caipira tem melhor sabor.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 56,
+        "ingles": "Whole chicken",
+        "portugues": "Frango inteiro",
+        "fraseIngles": "Roast a whole chicken for Sunday dinner.",
+        "frasePortugues": "Asse um frango inteiro para o jantar de domingo.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 57,
+        "ingles": "Chicken breast",
+        "portugues": "Peito de frango",
+        "fraseIngles": "Boneless chicken breast cooks quickly.",
+        "frasePortugues": "Peito de frango sem osso cozinha rapidamente.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 58,
+        "ingles": "Chicken thigh",
+        "portugues": "Coxa de frango",
+        "fraseIngles": "Chicken thighs are more flavorful than breasts.",
+        "frasePortugues": "Coxas de frango são mais saborosas que peitos.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 59,
+        "ingles": "Chicken drumstick",
+        "portugues": "Coxinha de frango",
+        "fraseIngles": "Kids love chicken drumsticks.",
+        "frasePortugues": "Crianças adoram coxinhas de frango.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 60,
+        "ingles": "Chicken wing",
+        "portugues": "Asa de frango",
+        "fraseIngles": "Buffalo chicken wings are spicy and tangy.",
+        "frasePortugues": "Asas de frango Buffalo são picantes e ácidas.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 61,
+        "ingles": "Chicken tender",
+        "portugues": "Filezinho de frango",
+        "fraseIngles": "Chicken tenders are perfect for kids.",
+        "frasePortugues": "Filezinhos de frango são perfeitos para crianças.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 62,
+        "ingles": "Ground chicken",
+        "portugues": "Frango moído",
+        "fraseIngles": "Ground chicken is leaner than ground beef.",
+        "frasePortugues": "Frango moído é mais magro que carne moída.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 63,
+        "ingles": "Chicken liver",
+        "portugues": "Fígado de frango",
+        "fraseIngles": "Chicken liver is rich in nutrients.",
+        "frasePortugues": "Fígado de frango é rico em nutrientes.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 64,
+        "ingles": "Turkey",
+        "portugues": "Peru",
+        "fraseIngles": "Roasted turkey is traditional at Thanksgiving.",
+        "frasePortugues": "Peru assado é tradicional no Dia de Ação de Graças.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 65,
+        "ingles": "Turkey breast",
+        "portugues": "Peito de peru",
+        "fraseIngles": "Sliced turkey breast is lean deli meat.",
+        "frasePortugues": "Peito de peru fatiado é carne magra de delicatessen.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 66,
+        "ingles": "Ground turkey",
+        "portugues": "Peru moído",
+        "fraseIngles": "Ground turkey is a healthy alternative to beef.",
+        "frasePortugues": "Peru moído é uma alternativa saudável à carne bovina.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 67,
+        "ingles": "Turkey leg",
+        "portugues": "Perna de peru",
+        "fraseIngles": "Smoked turkey legs are popular at fairs.",
+        "frasePortugues": "Pernas de peru defumadas são populares em feiras.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 68,
+        "ingles": "Cornish hen",
+        "portugues": "Galinha d'angola",
+        "fraseIngles": "Cornish hens are small individual chickens.",
+        "frasePortugues": "Galinhas d'angola são frangos pequenos individuais.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 69,
+        "ingles": "Quail",
+        "portugues": "Codorna",
+        "fraseIngles": "Quail is a small game bird.",
+        "frasePortugues": "Codorna é uma pequena ave de caça.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 70,
+        "ingles": "Pheasant",
+        "portugues": "Faisão",
+        "fraseIngles": "Wild pheasant has a delicate flavor.",
+        "frasePortugues": "Faisão selvagem tem sabor delicado.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 71,
+        "ingles": "Fish",
+        "portugues": "Peixe",
+        "fraseIngles": "Fresh fish should smell like the ocean.",
+        "frasePortugues": "Peixe fresco deve cheirar como o oceano.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 72,
+        "ingles": "Salmon",
+        "portugues": "Salmão",
+        "fraseIngles": "Atlantic salmon is rich in omega-3 oils.",
+        "frasePortugues": "Salmão do Atlântico é rico em óleos ômega-3.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 73,
+        "ingles": "Tuna",
+        "portugues": "Atum",
+        "fraseIngles": "Fresh tuna steaks are meaty and flavorful.",
+        "frasePortugues": "Bifes de atum fresco são carnudos e saborosos.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 74,
+        "ingles": "Cod",
+        "portugues": "Bacalhau",
+        "fraseIngles": "Cod is a mild white fish.",
+        "frasePortugues": "Bacalhau é um peixe branco suave.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 75,
+        "ingles": "Halibut",
+        "portugues": "Halibute",
+        "fraseIngles": "Pacific halibut is a large flatfish.",
+        "frasePortugues": "Halibute do Pacífico é um peixe chato grande.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 76,
+        "ingles": "Mahi mahi",
+        "portugues": "Mahi mahi",
+        "fraseIngles": "Mahi mahi has firm white flesh.",
+        "frasePortugues": "Mahi mahi tem carne branca firme.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 77,
+        "ingles": "Snapper",
+        "portugues": "Pargo",
+        "fraseIngles": "Red snapper is sweet and delicate.",
+        "frasePortugues": "Pargo vermelho é doce e delicado.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 78,
+        "ingles": "Grouper",
+        "portugues": "Garoupa",
+        "fraseIngles": "Grouper is a popular Gulf fish.",
+        "frasePortugues": "Garoupa é um peixe popular do Golfo.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 79,
+        "ingles": "Bass",
+        "portugues": "Robalo",
+        "fraseIngles": "Sea bass has flaky white meat.",
+        "frasePortugues": "Robalo tem carne branca escamosa.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 80,
+        "ingles": "Trout",
+        "portugues": "Truta",
+        "fraseIngles": "Rainbow trout is perfect for grilling.",
+        "frasePortugues": "Truta arco-íris é perfeita para grelhar.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 81,
+        "ingles": "Catfish",
+        "portugues": "Bagre",
+        "fraseIngles": "Southern fried catfish is crispy and mild.",
+        "frasePortugues": "Bagre frito sulista é crocante e suave.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 82,
+        "ingles": "Flounder",
+        "portugues": "Linguado",
+        "fraseIngles": "Flounder is a delicate flatfish.",
+        "frasePortugues": "Linguado é um peixe chato delicado.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 83,
+        "ingles": "Sole",
+        "portugues": "Linguado-legítimo",
+        "fraseIngles": "Dover sole is prized by chefs.",
+        "frasePortugues": "Linguado-legítimo Dover é valorizado por chefs.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 84,
+        "ingles": "Mackerel",
+        "portugues": "Cavala",
+        "fraseIngles": "Mackerel is an oily fish rich in nutrients.",
+        "frasePortugues": "Cavala é um peixe oleoso rico em nutrientes.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 85,
+        "ingles": "Sardines",
+        "portugues": "Sardinhas",
+        "fraseIngles": "Canned sardines are convenient protein.",
+        "frasePortugues": "Sardinhas enlatadas são proteína conveniente.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 86,
+        "ingles": "Anchovies",
+        "portugues": "Anchovas",
+        "fraseIngles": "Anchovies add umami flavor to dishes.",
+        "frasePortugues": "Anchovas adicionam sabor umami aos pratos.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 87,
+        "ingles": "Tilapia",
+        "portugues": "Tilápia",
+        "fraseIngles": "Farm-raised tilapia is mild and affordable.",
+        "frasePortugues": "Tilápia de criação é suave e acessível.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 88,
+        "ingles": "Swordfish",
+        "portugues": "Espadarte",
+        "fraseIngles": "Grilled swordfish steaks are meaty.",
+        "frasePortugues": "Bifes de espadarte grelhados são carnudos.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 89,
+        "ingles": "Shellfish",
+        "portugues": "Frutos do mar",
+        "fraseIngles": "Fresh shellfish should be cooked the same day.",
+        "frasePortugues": "Frutos do mar frescos devem ser cozidos no mesmo dia.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 90,
+        "ingles": "Shrimp",
+        "portugues": "Camarão",
+        "fraseIngles": "Gulf shrimp are sweet and succulent.",
+        "frasePortugues": "Camarões do Golfo são doces e suculentos.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 91,
+        "ingles": "Prawns",
+        "portugues": "Camarão grande",
+        "fraseIngles": "Large prawns are perfect for grilling.",
+        "frasePortugues": "Camarões grandes são perfeitos para grelhar.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 92,
+        "ingles": "Lobster",
+        "portugues": "Lagosta",
+        "fraseIngles": "Maine lobster is a luxury seafood.",
+        "frasePortugues": "Lagosta do Maine é um fruto do mar de luxo.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 93,
+        "ingles": "Crab",
+        "portugues": "Caranguejo",
+        "fraseIngles": "Fresh crab meat is sweet and delicate.",
+        "frasePortugues": "Carne de caranguejo fresca é doce e delicada.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 94,
+        "ingles": "Crab legs",
+        "portugues": "Patas de caranguejo",
+        "fraseIngles": "Alaskan king crab legs are enormous.",
+        "frasePortugues": "Patas de caranguejo-rei do Alasca são enormes.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 95,
+        "ingles": "Scallops",
+        "portugues": "Vieiras",
+        "fraseIngles": "Pan-seared scallops are sweet and tender.",
+        "frasePortugues": "Vieiras seladas na frigideira são doces e macias.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 96,
+        "ingles": "Mussels",
+        "portugues": "Mexilhões",
+        "fraseIngles": "Steamed mussels are served in wine broth.",
+        "frasePortugues": "Mexilhões no vapor são servidos em caldo de vinho.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 97,
+        "ingles": "Clams",
+        "portugues": "Amêijoas",
+        "fraseIngles": "Fresh clams are used in chowder.",
+        "frasePortugues": "Amêijoas frescas são usadas em sopa cremosa.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 98,
+        "ingles": "Oysters",
+        "portugues": "Ostras",
+        "fraseIngles": "Raw oysters are served on the half shell.",
+        "frasePortugues": "Ostras cruas são servidas na meia concha.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 99,
+        "ingles": "Squid",
+        "portugues": "Lula",
+        "fraseIngles": "Fried squid rings are crispy and tender.",
+        "frasePortugues": "Anéis de lula fritos são crocantes e macios.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 100,
+        "ingles": "Octopus",
+        "portugues": "Polvo",
+        "fraseIngles": "Grilled octopus is tender when cooked properly.",
+        "frasePortugues": "Polvo grelhado fica macio quando cozido adequadamente.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 101,
+        "ingles": "Eggs",
+        "portugues": "Ovos",
+        "fraseIngles": "Farm-fresh eggs have bright orange yolks.",
+        "frasePortugues": "Ovos frescos da fazenda têm gemas laranja vivas.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 102,
+        "ingles": "Chicken eggs",
+        "portugues": "Ovos de galinha",
+        "fraseIngles": "Chicken eggs are the most common variety.",
+        "frasePortugues": "Ovos de galinha são a variedade mais comum.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 103,
+        "ingles": "Duck eggs",
+        "portugues": "Ovos de pata",
+        "fraseIngles": "Duck eggs are richer than chicken eggs.",
+        "frasePortugues": "Ovos de pata são mais ricos que ovos de galinha.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 104,
+        "ingles": "Quail eggs",
+        "portugues": "Ovos de codorna",
+        "fraseIngles": "Quail eggs are tiny and considered gourmet.",
+        "frasePortugues": "Ovos de codorna são minúsculos e considerados gourmet.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 105,
+        "ingles": "Egg whites",
+        "portugues": "Claras",
+        "fraseIngles": "Egg whites are pure protein with no fat.",
+        "frasePortugues": "Claras são proteína pura sem gordura.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 106,
+        "ingles": "Egg yolks",
+        "portugues": "Gemas",
+        "fraseIngles": "Egg yolks contain fat and cholesterol.",
+        "frasePortugues": "Gemas contêm gordura e colesterol.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 107,
+        "ingles": "Free-range eggs",
+        "portugues": "Ovos caipiras",
+        "fraseIngles": "Free-range eggs come from pastured hens.",
+        "frasePortugues": "Ovos caipiras vêm de galinhas criadas no pasto.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 108,
+        "ingles": "Organic eggs",
+        "portugues": "Ovos orgânicos",
+        "fraseIngles": "Organic eggs come from hens fed organic feed.",
+        "frasePortugues": "Ovos orgânicos vêm de galinhas alimentadas com ração orgânica.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 109,
+        "ingles": "Brown eggs",
+        "portugues": "Ovos marrons",
+        "fraseIngles": "Brown eggs have the same nutrition as white eggs.",
+        "frasePortugues": "Ovos marrons têm a mesma nutrição que ovos brancos.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 110,
+        "ingles": "White eggs",
+        "portugues": "Ovos brancos",
+        "fraseIngles": "White eggs come from white-feathered hens.",
+        "frasePortugues": "Ovos brancos vêm de galinhas de penas brancas.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 111,
+        "ingles": "Beans",
+        "portugues": "Feijão",
+        "fraseIngles": "Dried beans are an excellent protein source.",
+        "frasePortugues": "Feijão seco é uma excelente fonte de proteína.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 112,
+        "ingles": "Black beans",
+        "portugues": "Feijão preto",
+        "fraseIngles": "Black beans are popular in Latin cuisine.",
+        "frasePortugues": "Feijão preto é popular na culinária latina.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 113,
+        "ingles": "Kidney beans",
+        "portugues": "Feijão rajado",
+        "fraseIngles": "Red kidney beans are used in chili.",
+        "frasePortugues": "Feijão rajado vermelho é usado no chili.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 114,
+        "ingles": "Navy beans",
+        "portugues": "Feijão branco pequeno",
+        "fraseIngles": "Navy beans are small white beans.",
+        "frasePortugues": "Feijão branco pequeno são feijões brancos pequenos.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 115,
+        "ingles": "Pinto beans",
+        "portugues": "Feijão carioca",
+        "fraseIngles": "Pinto beans are speckled brown and white.",
+        "frasePortugues": "Feijão carioca é manchado marrom e branco.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 116,
+        "ingles": "Lima beans",
+        "portugues": "Feijão-lima",
+        "fraseIngles": "Large lima beans have a buttery texture.",
+        "frasePortugues": "Feijões-lima grandes têm textura amanteigada.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 117,
+        "ingles": "Garbanzo beans",
+        "portugues": "Grão-de-bico",
+        "fraseIngles": "Garbanzo beans are also called chickpeas.",
+        "frasePortugues": "Grão-de-bico também são chamados de chickpeas.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 118,
+        "ingles": "Lentils",
+        "portugues": "Lentilhas",
+        "fraseIngles": "Red lentils cook faster than green lentils.",
+        "frasePortugues": "Lentilhas vermelhas cozinham mais rápido que verdes.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 119,
+        "ingles": "Split peas",
+        "portugues": "Ervilha partida",
+        "fraseIngles": "Yellow split peas make hearty soup.",
+        "frasePortugues": "Ervilhas partidas amarelas fazem sopa substanciosa.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 120,
+        "ingles": "Soybeans",
+        "portugues": "Grão de soja",
+        "fraseIngles": "Soybeans are processed into many products.",
+        "frasePortugues": "Grãos de soja são processados em muitos produtos.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 121,
+        "ingles": "Tofu",
+        "portugues": "Tofu",
+        "fraseIngles": "Firm tofu holds its shape when cooked.",
+        "frasePortugues": "Tofu firme mantém sua forma quando cozido.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 122,
+        "ingles": "Tempeh",
+        "portugues": "Tempeh",
+        "fraseIngles": "Indonesian tempeh is fermented soybeans.",
+        "frasePortugues": "Tempeh indonésio é grão de soja fermentado.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 123,
+        "ingles": "Seitan",
+        "portugues": "Seitan",
+        "fraseIngles": "Seitan is wheat protein that mimics meat.",
+        "frasePortugues": "Seitan é proteína de trigo que imita carne.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 124,
+        "ingles": "Quinoa",
+        "portugues": "Quinoa",
+        "fraseIngles": "Quinoa is a complete protein grain.",
+        "frasePortugues": "Quinoa é um grão com proteína completa.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 125,
+        "ingles": "Nuts",
+        "portugues": "Nozes",
+        "fraseIngles": "Mixed nuts are a portable protein snack.",
+        "frasePortugues": "Nozes mistas são um lanche portátil de proteína.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 126,
+        "ingles": "Almonds",
+        "portugues": "Amêndoas",
+        "fraseIngles": "Raw almonds are crunchy and nutritious.",
+        "frasePortugues": "Amêndoas cruas são crocantes e nutritivas.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 127,
+        "ingles": "Walnuts",
+        "portugues": "Nozes",
+        "fraseIngles": "Walnuts are rich in healthy omega-3 fats.",
+        "frasePortugues": "Nozes são ricas em gorduras ômega-3 saudáveis.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 128,
+        "ingles": "Peanuts",
+        "portugues": "Amendoim",
+        "fraseIngles": "Peanuts are actually legumes, not nuts.",
+        "frasePortugues": "Amendoins são na verdade leguminosas, não nozes.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 129,
+        "ingles": "Cashews",
+        "portugues": "Castanha de caju",
+        "fraseIngles": "Creamy cashews are used in vegan cooking.",
+        "frasePortugues": "Castanhas de caju cremosas são usadas na culinária vegana.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 130,
+        "ingles": "Pistachios",
+        "portugues": "Pistache",
+        "fraseIngles": "Salted pistachios are addictive snacks.",
+        "frasePortugues": "Pistaches salgados são lanches viciantes.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 131,
+        "ingles": "Pecans",
+        "portugues": "Pecãs",
+        "fraseIngles": "Southern pecan pie is rich and sweet.",
+        "frasePortugues": "Torta de pecã sulista é rica e doce.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 132,
+        "ingles": "Brazil nuts",
+        "portugues": "Castanha-do-pará",
+        "fraseIngles": "Brazil nuts are large and selenium-rich.",
+        "frasePortugues": "Castanhas-do-pará são grandes e ricas em selênio.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 133,
+        "ingles": "Hazelnuts",
+        "portugues": "Avelãs",
+        "fraseIngles": "Roasted hazelnuts have intense flavor.",
+        "frasePortugues": "Avelãs torradas têm sabor intenso.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 134,
+        "ingles": "Macadamia nuts",
+        "portugues": "Macadâmia",
+        "fraseIngles": "Hawaiian macadamia nuts are buttery.",
+        "frasePortugues": "Macadâmias havaianas são amanteigadas.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 135,
+        "ingles": "Pine nuts",
+        "portugues": "Pinhões",
+        "fraseIngles": "Pine nuts are expensive but flavorful.",
+        "frasePortugues": "Pinhões são caros mas saborosos.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 136,
+        "ingles": "Sunflower seeds",
+        "portugues": "Sementes de girassol",
+        "fraseIngles": "Roasted sunflower seeds are crunchy snacks.",
+        "frasePortugues": "Sementes de girassol torradas são lanches crocantes.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 137,
+        "ingles": "Pumpkin seeds",
+        "portugues": "Sementes de abóbora",
+        "fraseIngles": "Toasted pumpkin seeds are nutritious.",
+        "frasePortugues": "Sementes de abóbora torradas são nutritivas.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 138,
+        "ingles": "Chia seeds",
+        "portugues": "Sementes de chia",
+        "fraseIngles": "Chia seeds are tiny nutritional powerhouses.",
+        "frasePortugues": "Sementes de chia são pequenas potências nutricionais.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 139,
+        "ingles": "Hemp seeds",
+        "portugues": "Sementes de cânhamo",
+        "fraseIngles": "Hemp seeds are complete proteins.",
+        "frasePortugues": "Sementes de cânhamo são proteínas completas.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 140,
+        "ingles": "Protein powder",
+        "portugues": "Proteína em pó",
+        "fraseIngles": "Whey protein powder builds muscle.",
+        "frasePortugues": "Proteína em pó de soro constrói músculos.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 141,
+        "ingles": "Whey protein",
+        "portugues": "Proteína do soro",
+        "fraseIngles": "Whey protein is quickly absorbed.",
+        "frasePortugues": "Proteína do soro é rapidamente absorvida.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 142,
+        "ingles": "Casein protein",
+        "portugues": "Proteína caseína",
+        "fraseIngles": "Casein protein digests slowly overnight.",
+        "frasePortugues": "Proteína caseína é digerida lentamente durante a noite.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 143,
+        "ingles": "Plant protein",
+        "portugues": "Proteína vegetal",
+        "fraseIngles": "Plant protein powders are dairy-free.",
+        "frasePortugues": "Proteínas vegetais em pó são livres de laticínios.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 144,
+        "ingles": "Pea protein",
+        "portugues": "Proteína de ervilha",
+        "fraseIngles": "Pea protein is hypoallergenic and complete.",
+        "frasePortugues": "Proteína de ervilha é hipoalergênica e completa.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 145,
+        "ingles": "Lean meat",
+        "portugues": "Carne magra",
+        "fraseIngles": "Lean meats have less than 10% fat.",
+        "frasePortugues": "Carnes magras têm menos de 10% de gordura.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 146,
+        "ingles": "Fatty meat",
+        "portugues": "Carne gorda",
+        "fraseIngles": "Fatty meats have marbling throughout.",
+        "frasePortugues": "Carnes gordas têm marmorização por toda parte.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 147,
+        "ingles": "Grass-fed beef",
+        "portugues": "Carne bovina a pasto",
+        "fraseIngles": "Grass-fed beef is leaner and more nutritious.",
+        "frasePortugues": "Carne bovina a pasto é mais magra e nutritiva.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 148,
+        "ingles": "Grain-fed beef",
+        "portugues": "Carne bovina confinada",
+        "fraseIngles": "Grain-fed beef is more marbled.",
+        "frasePortugues": "Carne bovina confinada é mais marmorizada.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 149,
+        "ingles": "Organic meat",
+        "portugues": "Carne orgânica",
+        "fraseIngles": "Organic meat comes from animals fed organic feed.",
+        "frasePortugues": "Carne orgânica vem de animais alimentados com ração orgânica.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 150,
+        "ingles": "Free-range chicken",
+        "portugues": "Frango caipira",
+        "fraseIngles": "Free-range chickens roam outdoors.",
+        "frasePortugues": "Frangos caipiras vagam ao ar livre.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 151,
+        "ingles": "Wild-caught fish",
+        "portugues": "Peixe selvagem",
+        "fraseIngles": "Wild-caught fish is considered more sustainable.",
+        "frasePortugues": "Peixe selvagem é considerado mais sustentável.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 152,
+        "ingles": "Farm-raised fish",
+        "portugues": "Peixe de criação",
+        "fraseIngles": "Farm-raised fish is more affordable.",
+        "frasePortugues": "Peixe de criação é mais acessível.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 153,
+        "ingles": "Fresh meat",
+        "portugues": "Carne fresca",
+        "fraseIngles": "Fresh meat should be used within days.",
+        "frasePortugues": "Carne fresca deve ser usada dentro de dias.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 154,
+        "ingles": "Frozen meat",
+        "portugues": "Carne congelada",
+        "fraseIngles": "Frozen meat lasts months in the freezer.",
+        "frasePortugues": "Carne congelada dura meses no congelador.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 155,
+        "ingles": "Cured meat",
+        "portugues": "Carne curada",
+        "fraseIngles": "Cured meats are preserved with salt.",
+        "frasePortugues": "Carnes curadas são preservadas com sal.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 156,
+        "ingles": "Smoked meat",
+        "portugues": "Carne defumada",
+        "fraseIngles": "Smoked meats have distinctive flavor.",
+        "frasePortugues": "Carnes defumadas têm sabor distintivo.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 157,
+        "ingles": "Processed meat",
+        "portugues": "Carne processada",
+        "fraseIngles": "Processed meats contain additives.",
+        "frasePortugues": "Carnes processadas contêm aditivos.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 158,
+        "ingles": "Deli meat",
+        "portugues": "Carne de delicatessen",
+        "fraseIngles": "Sliced deli meats are convenient for sandwiches.",
+        "frasePortugues": "Carnes fatiadas de delicatessen são convenientes para sanduíches.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 159,
+        "ingles": "Cold cuts",
+        "portugues": "Frios",
+        "fraseIngles": "Cold cuts include ham, turkey, and salami.",
+        "frasePortugues": "Frios incluem presunto, peru e salame.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 160,
+        "ingles": "Jerky",
+        "portugues": "Carne seca",
+        "fraseIngles": "Beef jerky is a portable protein snack.",
+        "frasePortugues": "Carne seca é um lanche portátil de proteína.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 161,
+        "ingles": "Paté",
+        "portugues": "Patê",
+        "fraseIngles": "Liver paté is a rich spread.",
+        "frasePortugues": "Patê de fígado é uma pasta rica.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 162,
+        "ingles": "Sausage links",
+        "portugues": "Linguiças",
+        "fraseIngles": "Breakfast sausage links are small and mild.",
+        "frasePortugues": "Linguiças de café da manhã são pequenas e suaves.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 163,
+        "ingles": "Ground sausage",
+        "portugues": "Linguiça moída",
+        "fraseIngles": "Ground sausage is used in stuffing.",
+        "frasePortugues": "Linguiça moída é usada em farofa.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 164,
+        "ingles": "Blood sausage",
+        "portugues": "Morcela",
+        "fraseIngles": "Blood sausage is made with pig's blood.",
+        "frasePortugues": "Morcela é feita com sangue de porco.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 165,
+        "ingles": "Liverwurst",
+        "portugues": "Patê de fígado alemão",
+        "fraseIngles": "German liverwurst is spreadable sausage.",
+        "frasePortugues": "Patê de fígado alemão é linguiça para passar.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 166,
+        "ingles": "Mortadella",
+        "portugues": "Mortadela",
+        "fraseIngles": "Italian mortadella has pistachios inside.",
+        "frasePortugues": "Mortadela italiana tem pistaches dentro.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 167,
+        "ingles": "Bologna",
+        "portugues": "Mortadela americana",
+        "fraseIngles": "American bologna is processed lunch meat.",
+        "frasePortugues": "Mortadela americana é carne processada para lanche.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 168,
+        "ingles": "Head cheese",
+        "portugues": "Queijo de cabeça",
+        "fraseIngles": "Head cheese is actually a terrine, not cheese.",
+        "frasePortugues": "Queijo de cabeça é na verdade uma terrine, não queijo.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 169,
+        "ingles": "Offal",
+        "portugues": "Miúdos",
+        "fraseIngles": "Offal includes organ meats like liver.",
+        "frasePortugues": "Miúdos incluem carnes de órgãos como fígado.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 170,
+        "ingles": "Sweetbreads",
+        "portugues": "Miolos",
+        "fraseIngles": "Sweetbreads are thymus or pancreas glands.",
+        "frasePortugues": "Miolos são glândulas do timo ou pâncreas.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 171,
+        "ingles": "Tripe",
+        "portugues": "Dobradinha",
+        "fraseIngles": "Tripe is cow stomach lining.",
+        "frasePortugues": "Dobradinha é revestimento do estômago bovino.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 172,
+        "ingles": "Bone marrow",
+        "portugues": "Tutano",
+        "fraseIngles": "Roasted bone marrow is rich and buttery.",
+        "frasePortugues": "Tutano assado é rico e amanteigado.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 173,
+        "ingles": "Protein bar",
+        "portugues": "Barra de proteína",
+        "fraseIngles": "Protein bars are convenient post-workout snacks.",
+        "frasePortugues": "Barras de proteína são lanches convenientes pós-treino.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 174,
+        "ingles": "Energy bar",
+        "portugues": "Barra energética",
+        "fraseIngles": "Energy bars provide quick carbohydrates.",
+        "frasePortugues": "Barras energéticas fornecem carboidratos rápidos.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 175,
+        "ingles": "Meal replacement",
+        "portugues": "Substituto de refeição",
+        "fraseIngles": "Meal replacement shakes save time.",
+        "frasePortugues": "Shakes substitutos de refeição economizam tempo.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 176,
+        "ingles": "Amino acids",
+        "portugues": "Aminoácidos",
+        "fraseIngles": "Complete proteins contain all essential amino acids.",
+        "frasePortugues": "Proteínas completas contêm todos aminoácidos essenciais.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 177,
+        "ingles": "Essential amino acids",
+        "portugues": "Aminoácidos essenciais",
+        "fraseIngles": "The body cannot make essential amino acids.",
+        "frasePortugues": "O corpo não pode produzir aminoácidos essenciais.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 178,
+        "ingles": "BCAA",
+        "portugues": "Aminoácidos de cadeia ramificada",
+        "fraseIngles": "BCAA supplements aid muscle recovery.",
+        "frasePortugues": "Suplementos BCAA ajudam na recuperação muscular.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 179,
+        "ingles": "Creatine",
+        "portugues": "Creatina",
+        "fraseIngles": "Creatine supplements increase muscle strength.",
+        "frasePortugues": "Suplementos de creatina aumentam força muscular.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 180,
+        "ingles": "Collagen",
+        "portugues": "Colágeno",
+        "fraseIngles": "Collagen protein supports skin and joints.",
+        "frasePortugues": "Proteína de colágeno apoia pele e articulações.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 181,
+        "ingles": "Gelatin",
+        "portugues": "Gelatina",
+        "fraseIngles": "Gelatin is derived from animal collagen.",
+        "frasePortugues": "Gelatina é derivada do colágeno animal.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 182,
+        "ingles": "Nutritional yeast",
+        "portugues": "Levedura nutricional",
+        "fraseIngles": "Nutritional yeast has a cheesy flavor.",
+        "frasePortugues": "Levedura nutricional tem sabor de queijo.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 183,
+        "ingles": "Spirulina",
+        "portugues": "Espirulina",
+        "fraseIngles": "Spirulina algae is extremely protein-rich.",
+        "frasePortugues": "Alga espirulina é extremamente rica em proteínas.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 184,
+        "ingles": "Chlorella",
+        "portugues": "Chlorella",
+        "fraseIngles": "Chlorella is a green algae superfood.",
+        "frasePortugues": "Chlorella é uma super alga verde.",
+        "subtopico": "Carnes",
+        "topico": "Alimentos"
+    }
+]

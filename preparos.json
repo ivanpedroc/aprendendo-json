@@ -1,0 +1,1433 @@
+[
+    {
+        "id": 1,
+        "ingles": "Bake",
+        "portugues": "Assar",
+        "fraseIngles": "Bake the cake in a preheated oven.",
+        "frasePortugues": "Asse o bolo em um forno pré-aquecido.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 2,
+        "ingles": "Baking",
+        "portugues": "Assando",
+        "fraseIngles": "Baking requires precise temperature control.",
+        "frasePortugues": "Assar requer controle preciso de temperatura.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 3,
+        "ingles": "Roast",
+        "portugues": "Assar (carnes)",
+        "fraseIngles": "Roast the chicken until golden brown.",
+        "frasePortugues": "Asse o frango até ficar dourado.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 4,
+        "ingles": "Roasting",
+        "portugues": "Assando carnes",
+        "fraseIngles": "Roasting develops rich flavors in meat.",
+        "frasePortugues": "Assar carnes desenvolve sabores ricos.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 5,
+        "ingles": "Broil",
+        "portugues": "Grelhar no forno",
+        "fraseIngles": "Broil the fish for five minutes.",
+        "frasePortugues": "Grelhe o peixe por cinco minutos no forno.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 6,
+        "ingles": "Broiling",
+        "portugues": "Grelhando no forno",
+        "fraseIngles": "Broiling cooks food with direct heat from above.",
+        "frasePortugues": "Grelhar no forno cozinha alimentos com calor direto de cima.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 7,
+        "ingles": "Grill",
+        "portugues": "Grelhar",
+        "fraseIngles": "Grill the steak over high heat.",
+        "frasePortugues": "Grelhe o bife em fogo alto.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 8,
+        "ingles": "Grilling",
+        "portugues": "Grelhando",
+        "fraseIngles": "Grilling adds smoky flavor to food.",
+        "frasePortugues": "Grelhar adiciona sabor defumado à comida.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 9,
+        "ingles": "Barbecue",
+        "portugues": "Churrasquear",
+        "fraseIngles": "Barbecue the ribs slowly over low heat.",
+        "frasePortugues": "Churrasqueie as costelas lentamente em fogo baixo.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 10,
+        "ingles": "Fry",
+        "portugues": "Fritar",
+        "fraseIngles": "Fry the eggs in butter until set.",
+        "frasePortugues": "Frite os ovos na manteiga até ficarem firmes.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 11,
+        "ingles": "Frying",
+        "portugues": "Fritando",
+        "fraseIngles": "Deep frying requires oil at 350°F.",
+        "frasePortugues": "Fritar em imersão requer óleo a 175°C.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 12,
+        "ingles": "Deep fry",
+        "portugues": "Fritar em imersão",
+        "fraseIngles": "Deep fry the chicken pieces until crispy.",
+        "frasePortugues": "Frite os pedaços de frango em imersão até ficarem crocantes.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 13,
+        "ingles": "Pan fry",
+        "portugues": "Fritar na frigideira",
+        "fraseIngles": "Pan fry the fish with minimal oil.",
+        "frasePortugues": "Frite o peixe na frigideira com pouco óleo.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 14,
+        "ingles": "Shallow fry",
+        "portugues": "Fritar por imersão parcial",
+        "fraseIngles": "Shallow fry the vegetables in a skillet.",
+        "frasePortugues": "Frite os vegetais por imersão parcial numa frigideira.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 15,
+        "ingles": "Stir-fry",
+        "portugues": "Refogar",
+        "fraseIngles": "Stir-fry the vegetables quickly in a wok.",
+        "frasePortugues": "Refogue os vegetais rapidamente no wok.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 16,
+        "ingles": "Sauté",
+        "portugues": "Saltear",
+        "fraseIngles": "Sauté the onions until translucent.",
+        "frasePortugues": "Salteie as cebolas até ficarem translúcidas.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 17,
+        "ingles": "Sautéing",
+        "portugues": "Salteando",
+        "fraseIngles": "Sautéing keeps vegetables crisp and colorful.",
+        "frasePortugues": "Saltear mantém vegetais crocantes e coloridos.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 18,
+        "ingles": "Boil",
+        "portugues": "Ferver",
+        "fraseIngles": "Boil the pasta in salted water.",
+        "frasePortugues": "Ferva o macarrão em água com sal.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 19,
+        "ingles": "Boiling",
+        "portugues": "Fervendo",
+        "fraseIngles": "Boiling water reaches 212°F at sea level.",
+        "frasePortugues": "Água fervente atinge 100°C ao nível do mar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 20,
+        "ingles": "Simmer",
+        "portugues": "Cozinhar em fogo baixo",
+        "fraseIngles": "Simmer the soup for thirty minutes.",
+        "frasePortugues": "Cozinhe a sopa em fogo baixo por trinta minutos.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 21,
+        "ingles": "Simmering",
+        "portugues": "Cozinhando em fogo baixo",
+        "fraseIngles": "Simmering produces gentle bubbles around the edges.",
+        "frasePortugues": "Cozinhar em fogo baixo produz bolhas suaves nas bordas.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 22,
+        "ingles": "Steam",
+        "portugues": "Cozinhar no vapor",
+        "fraseIngles": "Steam the broccoli to retain nutrients.",
+        "frasePortugues": "Cozinhe o brócolis no vapor para manter nutrientes.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 23,
+        "ingles": "Steaming",
+        "portugues": "Cozinhando no vapor",
+        "fraseIngles": "Steaming is a healthy cooking method.",
+        "frasePortugues": "Cozinhar no vapor é um método saudável.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 24,
+        "ingles": "Poach",
+        "portugues": "Escalfar",
+        "fraseIngles": "Poach the eggs in simmering water.",
+        "frasePortugues": "Escalfe os ovos em água levemente fervente.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 25,
+        "ingles": "Poaching",
+        "portugues": "Escalfando",
+        "fraseIngles": "Poaching uses gentle heat in liquid.",
+        "frasePortugues": "Escalfar usa calor suave em líquido.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 26,
+        "ingles": "Braise",
+        "portugues": "Refogar e cozinhar",
+        "fraseIngles": "Braise the meat in wine and stock.",
+        "frasePortugues": "Refogue e cozinhe a carne em vinho e caldo.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 27,
+        "ingles": "Braising",
+        "portugues": "Refogando e cozinhando",
+        "fraseIngles": "Braising combines dry and moist heat.",
+        "frasePortugues": "Refogar e cozinhar combina calor seco e úmido.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 28,
+        "ingles": "Stew",
+        "portugues": "Ensopado/cozinhar em ensopado",
+        "fraseIngles": "Stew the vegetables in their own juices.",
+        "frasePortugues": "Cozinhe os vegetais em ensopado em seus próprios sucos.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 29,
+        "ingles": "Stewing",
+        "portugues": "Cozinhando em ensopado",
+        "fraseIngles": "Stewing breaks down tough fibers in meat.",
+        "frasePortugues": "Cozinhar em ensopado quebra fibras duras da carne.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 30,
+        "ingles": "Blanch",
+        "portugues": "Branquear",
+        "fraseIngles": "Blanch the vegetables before freezing.",
+        "frasePortugues": "Branqueie os vegetais antes de congelar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 31,
+        "ingles": "Blanching",
+        "portugues": "Branqueando",
+        "fraseIngles": "Blanching involves brief boiling followed by ice water.",
+        "frasePortugues": "Branquear envolve fervura breve seguida de água gelada.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 32,
+        "ingles": "Parboil",
+        "portugues": "Pré-cozinhar",
+        "fraseIngles": "Parboil the potatoes before roasting.",
+        "frasePortugues": "Pré-cozinhe as batatas antes de assar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 33,
+        "ingles": "Marinate",
+        "portugues": "Marinar",
+        "fraseIngles": "Marinate the chicken overnight for flavor.",
+        "frasePortugues": "Marine o frango durante a noite para dar sabor.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 34,
+        "ingles": "Marinating",
+        "portugues": "Marinando",
+        "fraseIngles": "Marinating tenderizes and flavors meat.",
+        "frasePortugues": "Marinar amacia e dá sabor à carne.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 35,
+        "ingles": "Season",
+        "portugues": "Temperar",
+        "fraseIngles": "Season the soup with salt and pepper.",
+        "frasePortugues": "Tempere a sopa com sal e pimenta.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 36,
+        "ingles": "Seasoning",
+        "portugues": "Temperando",
+        "fraseIngles": "Proper seasoning enhances natural flavors.",
+        "frasePortugues": "Tempero adequado realça sabores naturais.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 37,
+        "ingles": "Salt",
+        "portugues": "Salgar",
+        "fraseIngles": "Salt the pasta water generously.",
+        "frasePortugues": "Salgue a água do macarrão generosamente.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 38,
+        "ingles": "Pepper",
+        "portugues": "Apimentar",
+        "fraseIngles": "Pepper the steak before cooking.",
+        "frasePortugues": "Apimente o bife antes de cozinhar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 39,
+        "ingles": "Spice",
+        "portugues": "Temperar com especiarias",
+        "fraseIngles": "Spice the curry with garam masala.",
+        "frasePortugues": "Tempere o curry com garam masala.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 40,
+        "ingles": "Herb",
+        "portugues": "Adicionar ervas",
+        "fraseIngles": "Herb the sauce with fresh basil.",
+        "frasePortugues": "Adicione ervas frescas de manjericão ao molho.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 41,
+        "ingles": "Flour",
+        "portugues": "Enfarinhar",
+        "fraseIngles": "Flour the chicken before frying.",
+        "frasePortugues": "Enfarine o frango antes de fritar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 42,
+        "ingles": "Bread",
+        "portugues": "Empanar",
+        "fraseIngles": "Bread the cutlets with seasoned crumbs.",
+        "frasePortugues": "Empane as costeletas com farinha de rosca temperada.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 43,
+        "ingles": "Batter",
+        "portugues": "Fazer massa líquida",
+        "fraseIngles": "Batter the fish in beer batter.",
+        "frasePortugues": "Faça massa líquida no peixe com massa de cerveja.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 44,
+        "ingles": "Coat",
+        "portugues": "Cobrir",
+        "fraseIngles": "Coat the vegetables with olive oil.",
+        "frasePortugues": "Cubra os vegetais com azeite de oliva.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 45,
+        "ingles": "Dredge",
+        "portugues": "Passar na farinha",
+        "fraseIngles": "Dredge the meat in flour before browning.",
+        "frasePortugues": "Passe a carne na farinha antes de dourar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 46,
+        "ingles": "Dust",
+        "portugues": "Polvilhar",
+        "fraseIngles": "Dust the cake with powdered sugar.",
+        "frasePortugues": "Polvilhe o bolo com açúcar de confeiteiro.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 47,
+        "ingles": "Glaze",
+        "portugues": "Glasear",
+        "fraseIngles": "Glaze the ham with honey mixture.",
+        "frasePortugues": "Glaseie o presunto com mistura de mel.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 48,
+        "ingles": "Brush",
+        "portugues": "Pincelar",
+        "fraseIngles": "Brush the pastry with beaten egg.",
+        "frasePortugues": "Pincele a massa com ovo batido.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 49,
+        "ingles": "Rub",
+        "portugues": "Esfregar tempero",
+        "fraseIngles": "Rub the spices into the meat.",
+        "frasePortugues": "Esfregue os temperos na carne.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 50,
+        "ingles": "Cure",
+        "portugues": "Curar",
+        "fraseIngles": "Cure the salmon with salt and dill.",
+        "frasePortugues": "Cure o salmão com sal e endro.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 51,
+        "ingles": "Smoke",
+        "portugues": "Defumar",
+        "fraseIngles": "Smoke the brisket for twelve hours.",
+        "frasePortugues": "Defume o peito bovino por doze horas.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 52,
+        "ingles": "Smoking",
+        "portugues": "Defumando",
+        "fraseIngles": "Cold smoking preserves without cooking.",
+        "frasePortugues": "Defumar a frio preserva sem cozinhar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 53,
+        "ingles": "Pickle",
+        "portugues": "Conservar em vinagre",
+        "fraseIngles": "Pickle the cucumbers in brine.",
+        "frasePortugues": "Conserve os pepinos em salmoura.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 54,
+        "ingles": "Preserve",
+        "portugues": "Conservar",
+        "fraseIngles": "Preserve the fruit in sugar syrup.",
+        "frasePortugues": "Conserve as frutas em calda de açúcar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 55,
+        "ingles": "Can",
+        "portugues": "Enlatar",
+        "fraseIngles": "Can the tomatoes for winter storage.",
+        "frasePortugues": "Enlate os tomates para armazenamento de inverno.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 56,
+        "ingles": "Freeze",
+        "portugues": "Congelar",
+        "fraseIngles": "Freeze the soup in portion-sized containers.",
+        "frasePortugues": "Congele a sopa em recipientes de porção individual.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 57,
+        "ingles": "Dehydrate",
+        "portugues": "Desidratar",
+        "fraseIngles": "Dehydrate the herbs for long-term storage.",
+        "frasePortugues": "Desidrate as ervas para armazenamento de longo prazo.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 58,
+        "ingles": "Ferment",
+        "portugues": "Fermentar",
+        "fraseIngles": "Ferment the cabbage to make sauerkraut.",
+        "frasePortugues": "Fermente o repolho para fazer chucrute.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 59,
+        "ingles": "Mix",
+        "portugues": "Misturar",
+        "fraseIngles": "Mix the ingredients until well combined.",
+        "frasePortugues": "Misture os ingredientes até ficarem bem combinados.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 60,
+        "ingles": "Stir",
+        "portugues": "Mexer",
+        "fraseIngles": "Stir the sauce constantly to prevent burning.",
+        "frasePortugues": "Mexa o molho constantemente para evitar queimar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 61,
+        "ingles": "Whisk",
+        "portugues": "Bater com fouet",
+        "fraseIngles": "Whisk the eggs until light and fluffy.",
+        "frasePortugues": "Bata os ovos com fouet até ficarem leves e fofinhos.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 62,
+        "ingles": "Beat",
+        "portugues": "Bater",
+        "fraseIngles": "Beat the cream until stiff peaks form.",
+        "frasePortugues": "Bata o creme até formar picos firmes.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 63,
+        "ingles": "Whip",
+        "portugues": "Bater vigorosamente",
+        "fraseIngles": "Whip the egg whites to soft peaks.",
+        "frasePortugues": "Bata as claras vigorosamente até picos macios.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 64,
+        "ingles": "Fold",
+        "portugues": "Incorporar delicadamente",
+        "fraseIngles": "Fold the flour gently into the batter.",
+        "frasePortugues": "Incorpore a farinha delicadamente à massa.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 65,
+        "ingles": "Cream",
+        "portugues": "Bater até cremoso",
+        "fraseIngles": "Cream the butter and sugar together.",
+        "frasePortugues": "Bate a manteiga e açúcar até ficar cremoso.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 66,
+        "ingles": "Knead",
+        "portugues": "Sovar",
+        "fraseIngles": "Knead the dough until smooth and elastic.",
+        "frasePortugues": "Sove a massa até ficar lisa e elástica.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 67,
+        "ingles": "Roll",
+        "portugues": "Abrir massa",
+        "fraseIngles": "Roll the dough thin with a rolling pin.",
+        "frasePortugues": "Abra a massa finamente com um rolo.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 68,
+        "ingles": "Shape",
+        "portugues": "Modelar",
+        "fraseIngles": "Shape the cookies with your hands.",
+        "frasePortugues": "Modele os biscoitos com as mãos.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 69,
+        "ingles": "Form",
+        "portugues": "Formar",
+        "fraseIngles": "Form the meat mixture into patties.",
+        "frasePortugues": "Forme a mistura de carne em hambúrgueres.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 70,
+        "ingles": "Mold",
+        "portugues": "Moldar",
+        "fraseIngles": "Mold the chocolate in special forms.",
+        "frasePortugues": "Molde o chocolate em formas especiais.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 71,
+        "ingles": "Cut",
+        "portugues": "Cortar",
+        "fraseIngles": "Cut the vegetables into uniform pieces.",
+        "frasePortugues": "Corte os vegetais em pedaços uniformes.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 72,
+        "ingles": "Chop",
+        "portugues": "Picar",
+        "fraseIngles": "Chop the onions finely for the sauce.",
+        "frasePortugues": "Pique as cebolas finamente para o molho.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 73,
+        "ingles": "Dice",
+        "portugues": "Cortar em cubos",
+        "fraseIngles": "Dice the tomatoes into small cubes.",
+        "frasePortugues": "Corte os tomates em pequenos cubos.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 74,
+        "ingles": "Mince",
+        "portugues": "Picar bem fino",
+        "fraseIngles": "Mince the garlic for maximum flavor.",
+        "frasePortugues": "Pique o alho bem fino para máximo sabor.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 75,
+        "ingles": "Slice",
+        "portugues": "Fatiar",
+        "fraseIngles": "Slice the bread into even pieces.",
+        "frasePortugues": "Fatie o pão em pedaços uniformes.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 76,
+        "ingles": "Julienne",
+        "portugues": "Cortar em juliana",
+        "fraseIngles": "Julienne the carrots into thin strips.",
+        "frasePortugues": "Corte as cenouras em juliana em tiras finas.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 77,
+        "ingles": "Shred",
+        "portugues": "Ralar grosso",
+        "fraseIngles": "Shred the cheese for the tacos.",
+        "frasePortugues": "Rale o queijo grosso para os tacos.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 78,
+        "ingles": "Grate",
+        "portugues": "Ralar",
+        "fraseIngles": "Grate the lemon zest over the dish.",
+        "frasePortugues": "Rale a raspa de limão sobre o prato.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 79,
+        "ingles": "Peel",
+        "portugues": "Descascar",
+        "fraseIngles": "Peel the potatoes before cooking.",
+        "frasePortugues": "Descasque as batatas antes de cozinhar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 80,
+        "ingles": "Pare",
+        "portugues": "Aparar",
+        "fraseIngles": "Pare the apple skin in one long strip.",
+        "frasePortugues": "Apare a casca da maçã em uma tira longa.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 81,
+        "ingles": "Core",
+        "portugues": "Descaroçar",
+        "fraseIngles": "Core the apples before baking.",
+        "frasePortugues": "Descaroce as maçãs antes de assar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 82,
+        "ingles": "Pit",
+        "portugues": "Descaroçar frutas",
+        "fraseIngles": "Pit the cherries for the pie filling.",
+        "frasePortugues": "Descaroce as cerejas para o recheio da torta.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 83,
+        "ingles": "Seed",
+        "portugues": "Tirar sementes",
+        "fraseIngles": "Seed the peppers before chopping.",
+        "frasePortugues": "Tire as sementes dos pimentões antes de picar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 84,
+        "ingles": "Hull",
+        "portugues": "Tirar o cabo",
+        "fraseIngles": "Hull the strawberries before serving.",
+        "frasePortugues": "Tire o cabo dos morangos antes de servir.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 85,
+        "ingles": "Trim",
+        "portugues": "Aparar",
+        "fraseIngles": "Trim the fat from the meat.",
+        "frasePortugues": "Apare a gordura da carne.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 86,
+        "ingles": "Fillet",
+        "portugues": "Filetar",
+        "fraseIngles": "Fillet the fish with a sharp knife.",
+        "frasePortugues": "Filete o peixe com uma faca afiada.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 87,
+        "ingles": "Debone",
+        "portugues": "Desossar",
+        "fraseIngles": "Debone the chicken carefully.",
+        "frasePortugues": "Desosse o frango cuidadosamente.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 88,
+        "ingles": "Scale",
+        "portugues": "Escamar",
+        "fraseIngles": "Scale the fish before cooking.",
+        "frasePortugues": "Escame o peixe antes de cozinhar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 89,
+        "ingles": "Clean",
+        "portugues": "Limpar",
+        "fraseIngles": "Clean the shrimp by removing shells.",
+        "frasePortugues": "Limpe o camarão removendo as cascas.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 90,
+        "ingles": "Wash",
+        "portugues": "Lavar",
+        "fraseIngles": "Wash the vegetables thoroughly.",
+        "frasePortugues": "Lave os vegetais completamente.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 91,
+        "ingles": "Rinse",
+        "portugues": "Enxaguar",
+        "fraseIngles": "Rinse the rice until water runs clear.",
+        "frasePortugues": "Enxágue o arroz até a água sair clara.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 92,
+        "ingles": "Drain",
+        "portugues": "Escorrer",
+        "fraseIngles": "Drain the pasta in a colander.",
+        "frasePortugues": "Escorra o macarrão em um escorredor.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 93,
+        "ingles": "Strain",
+        "portugues": "Coar",
+        "fraseIngles": "Strain the soup to remove lumps.",
+        "frasePortugues": "Coe a sopa para remover grumos.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 94,
+        "ingles": "Filter",
+        "portugues": "Filtrar",
+        "fraseIngles": "Filter the oil through cheesecloth.",
+        "frasePortugues": "Filtre o óleo através de pano de queijo.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 95,
+        "ingles": "Sift",
+        "portugues": "Peneirar",
+        "fraseIngles": "Sift the flour to remove lumps.",
+        "frasePortugues": "Peneire a farinha para remover grumos.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 96,
+        "ingles": "Measure",
+        "portugues": "Medir",
+        "fraseIngles": "Measure the ingredients accurately.",
+        "frasePortugues": "Meça os ingredientes com precisão.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 97,
+        "ingles": "Weigh",
+        "portugues": "Pesar",
+        "fraseIngles": "Weigh the meat on a kitchen scale.",
+        "frasePortugues": "Pese a carne em uma balança de cozinha.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 98,
+        "ingles": "Level",
+        "portugues": "Nivelar",
+        "fraseIngles": "Level the flour in the measuring cup.",
+        "frasePortugues": "Nivele a farinha no copo de medida.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 99,
+        "ingles": "Tenderize",
+        "portugues": "Amaciar",
+        "fraseIngles": "Tenderize tough meat with a mallet.",
+        "frasePortugues": "Amacie carne dura com um martelo.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 100,
+        "ingles": "Pound",
+        "portugues": "Bater para amaciar",
+        "fraseIngles": "Pound the chicken breast to even thickness.",
+        "frasePortugues": "Bata o peito de frango para espessura uniforme.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 101,
+        "ingles": "Score",
+        "portugues": "Fazer cortes superficiais",
+        "fraseIngles": "Score the duck skin before roasting.",
+        "frasePortugues": "Faça cortes superficiais na pele do pato antes de assar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 102,
+        "ingles": "Stuff",
+        "portugues": "Rechear",
+        "fraseIngles": "Stuff the turkey with herb stuffing.",
+        "frasePortugues": "Recheie o peru com farofa de ervas.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 103,
+        "ingles": "Fill",
+        "portugues": "Encher",
+        "fraseIngles": "Fill the pasta shells with ricotta mixture.",
+        "frasePortugues": "Encha as conchas de massa com mistura de ricota.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 104,
+        "ingles": "Top",
+        "portugues": "Cobrir",
+        "fraseIngles": "Top the pizza with your favorite ingredients.",
+        "frasePortugues": "Cubra a pizza com seus ingredientes favoritos.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 105,
+        "ingles": "Garnish",
+        "portugues": "Enfeitar",
+        "fraseIngles": "Garnish the soup with fresh herbs.",
+        "frasePortugues": "Enfeite a sopa with ervas frescas.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 106,
+        "ingles": "Plate",
+        "portugues": "Empratar",
+        "fraseIngles": "Plate the dish attractively for serving.",
+        "frasePortugues": "Emprate o prato atraidentemente para servir.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 107,
+        "ingles": "Serve",
+        "portugues": "Servir",
+        "fraseIngles": "Serve the meal while it's still hot.",
+        "frasePortugues": "Sirva a refeição enquanto ainda está quente.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 108,
+        "ingles": "Portion",
+        "portugues": "Porcionar",
+        "fraseIngles": "Portion the casserole into equal servings.",
+        "frasePortugues": "Porcione a caçarola em porções iguais.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 109,
+        "ingles": "Carve",
+        "portugues": "Trinchar",
+        "fraseIngles": "Carve the roast at the dinner table.",
+        "frasePortugues": "Trinche o assado na mesa de jantar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 110,
+        "ingles": "Slice",
+        "portugues": "Fatiar para servir",
+        "fraseIngles": "Slice the cake into eight pieces.",
+        "frasePortugues": "Fatie o bolo em oito pedaços.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 111,
+        "ingles": "Warm",
+        "portugues": "Aquecer",
+        "fraseIngles": "Warm the bread in the oven.",
+        "frasePortugues": "Aqueça o pão no forno.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 112,
+        "ingles": "Heat",
+        "portugues": "Esquentar",
+        "fraseIngles": "Heat the soup on the stovetop.",
+        "frasePortugues": "Esquente a sopa no fogão.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 113,
+        "ingles": "Reheat",
+        "portugues": "Reaquecer",
+        "fraseIngles": "Reheat the leftovers in the microwave.",
+        "frasePortugues": "Reaqueça as sobras no micro-ondas.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 114,
+        "ingles": "Cool",
+        "portugues": "Esfriar",
+        "fraseIngles": "Cool the cake before frosting.",
+        "frasePortugues": "Esfrie o bolo antes de cobrir.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 115,
+        "ingles": "Chill",
+        "portugues": "Gelar",
+        "fraseIngles": "Chill the wine before serving.",
+        "frasePortugues": "Gele o vinho antes de servir.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 116,
+        "ingles": "Refrigerate",
+        "portugues": "Refrigerar",
+        "fraseIngles": "Refrigerate the dough overnight.",
+        "frasePortugues": "Refrigere a massa durante a noite.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 117,
+        "ingles": "Freeze",
+        "portugues": "Congelar para servir",
+        "fraseIngles": "Freeze the ice cream until solid.",
+        "frasePortugues": "Congele o sorvete até ficar sólido.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 118,
+        "ingles": "Thaw",
+        "portugues": "Descongelar",
+        "fraseIngles": "Thaw the frozen vegetables completely.",
+        "frasePortugues": "Descongele os vegetais congelados completamente.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 119,
+        "ingles": "Defrost",
+        "portugues": "Descongelar",
+        "fraseIngles": "Defrost the meat in the refrigerator.",
+        "frasePortugues": "Descongele a carne na geladeira.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 120,
+        "ingles": "Dissolve",
+        "portugues": "Dissolver",
+        "fraseIngles": "Dissolve the sugar in hot water.",
+        "frasePortugues": "Dissolva o açúcar em água quente.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 121,
+        "ingles": "Melt",
+        "portugues": "Derreter",
+        "fraseIngles": "Melt the butter in a small saucepan.",
+        "frasePortugues": "Derreta a manteiga em uma panela pequena.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 122,
+        "ingles": "Reduce",
+        "portugues": "Reduzir",
+        "fraseIngles": "Reduce the sauce by simmering uncovered.",
+        "frasePortugues": "Reduza o molho cozinhando destampado.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 123,
+        "ingles": "Concentrate",
+        "portugues": "Concentrar",
+        "fraseIngles": "Concentrate the flavors by reducing liquid.",
+        "frasePortugues": "Concentre os sabores reduzindo o líquido.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 124,
+        "ingles": "Thicken",
+        "portugues": "Engrossar",
+        "fraseIngles": "Thicken the gravy with cornstarch slurry.",
+        "frasePortugues": "Engrosse o molho com mistura de amido de milho.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 125,
+        "ingles": "Thin",
+        "portugues": "Afincar",
+        "fraseIngles": "Thin the sauce with additional broth.",
+        "frasePortugues": "Afine o molho com caldo adicional.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 126,
+        "ingles": "Emulsify",
+        "portugues": "Emulsificar",
+        "fraseIngles": "Emulsify the oil and vinegar for dressing.",
+        "frasePortugues": "Emulsifique o óleo e vinagre para o molho.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 127,
+        "ingles": "Bind",
+        "portugues": "Ligar",
+        "fraseIngles": "Bind the meatloaf with beaten eggs.",
+        "frasePortugues": "Ligue o bolo de carne com ovos batidos.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 128,
+        "ingles": "Set",
+        "portugues": "Firmar",
+        "fraseIngles": "Let the gelatin set in the refrigerator.",
+        "frasePortugues": "Deixe a gelatina firmar na geladeira.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 129,
+        "ingles": "Gel",
+        "portugues": "Formar gel",
+        "fraseIngles": "The mixture will gel as it cools.",
+        "frasePortugues": "A mistura formará gel conforme esfria.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 130,
+        "ingles": "Curdle",
+        "portugues": "Talhar",
+        "fraseIngles": "Don't let the milk curdle in the sauce.",
+        "frasePortugues": "Não deixe o leite talhar no molho.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 131,
+        "ingles": "Separate",
+        "portugues": "Separar",
+        "fraseIngles": "The sauce will separate if overheated.",
+        "frasePortugues": "O molho separará se superaquecido.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 132,
+        "ingles": "Clarify",
+        "portugues": "Clarificar",
+        "fraseIngles": "Clarify the butter by removing milk solids.",
+        "frasePortugues": "Clarifique a manteiga removendo sólidos do leite.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 133,
+        "ingles": "Skim",
+        "portugues": "Tirar a nata",
+        "fraseIngles": "Skim the foam from the soup surface.",
+        "frasePortugues": "Tire a espuma da superfície da sopa.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 134,
+        "ingles": "Deglaze",
+        "portugues": "Deglacear",
+        "fraseIngles": "Deglaze the pan with white wine.",
+        "frasePortugues": "Deglacie a panela com vinho branco.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 135,
+        "ingles": "Flambé",
+        "portugues": "Flambar",
+        "fraseIngles": "Flambé the dessert with brandy.",
+        "frasePortugues": "Flambe a sobremesa com conhaque.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 136,
+        "ingles": "Caramelize",
+        "portugues": "Caramelizar",
+        "fraseIngles": "Caramelize the onions slowly over low heat.",
+        "frasePortugues": "Caramelize as cebolas lentamente em fogo baixo.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 137,
+        "ingles": "Brown",
+        "portugues": "Dourar",
+        "fraseIngles": "Brown the meat before adding liquid.",
+        "frasePortugues": "Doure a carne antes de adicionar líquido.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 138,
+        "ingles": "Sear",
+        "portugues": "Selar",
+        "fraseIngles": "Sear the steak to lock in juices.",
+        "frasePortugues": "Sele o bife para prender os sucos.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 139,
+        "ingles": "Char",
+        "portugues": "Carbonizar levemente",
+        "fraseIngles": "Char the peppers over an open flame.",
+        "frasePortugues": "Carbonize levemente os pimentões sobre chama aberta.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 140,
+        "ingles": "Blacken",
+        "portugues": "Enegrecer",
+        "fraseIngles": "Blacken the fish with Cajun spices.",
+        "frasePortugues": "Enegreça o peixe com temperos cajun.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 141,
+        "ingles": "Crisp",
+        "portugues": "Deixar crocante",
+        "fraseIngles": "Crisp the bacon in a hot skillet.",
+        "frasePortugues": "Deixe o bacon crocante numa frigideira quente.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 142,
+        "ingles": "Toast",
+        "portugues": "Torrar",
+        "fraseIngles": "Toast the bread until golden brown.",
+        "frasePortugues": "Torre o pão até ficar dourado.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 143,
+        "ingles": "Proof",
+        "portugues": "Crescer (fermento)",
+        "fraseIngles": "Proof the yeast in warm water.",
+        "frasePortugues": "Deixe o fermento crescer em água morna.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 144,
+        "ingles": "Rise",
+        "portugues": "Crescer (massa)",
+        "fraseIngles": "Let the bread dough rise for an hour.",
+        "frasePortugues": "Deixe a massa de pão crescer por uma hora.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 145,
+        "ingles": "Rest",
+        "portugues": "Descansar",
+        "fraseIngles": "Let the meat rest before carving.",
+        "frasePortugues": "Deixe a carne descansar antes de trinchar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 146,
+        "ingles": "Temper",
+        "portugues": "Temperar temperatura",
+        "fraseIngles": "Temper the chocolate for smooth coating.",
+        "frasePortugues": "Tempere o chocolate para cobertura lisa.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 147,
+        "ingles": "Blind bake",
+        "portugues": "Pré-assar",
+        "fraseIngles": "Blind bake the pie crust before adding filling.",
+        "frasePortugues": "Pré-asse a massa da torta antes de adicionar recheio.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 148,
+        "ingles": "Par-bake",
+        "portugues": "Assar parcialmente",
+        "fraseIngles": "Par-bake the pizza crust before topping.",
+        "frasePortugues": "Asse parcialmente a massa da pizza antes de cobrir.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 149,
+        "ingles": "Finish",
+        "portugues": "Finalizar",
+        "fraseIngles": "Finish the dish with a drizzle of oil.",
+        "frasePortugues": "Finalize o prato com um fio de óleo.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 150,
+        "ingles": "Adjust",
+        "portugues": "Ajustar",
+        "fraseIngles": "Adjust the seasoning to taste.",
+        "frasePortugues": "Ajuste o tempero a gosto.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 151,
+        "ingles": "Correct",
+        "portugues": "Corrigir",
+        "fraseIngles": "Correct the sauce consistency if needed.",
+        "frasePortugues": "Corrija a consistência do molho se necessário.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 152,
+        "ingles": "Taste",
+        "portugues": "Provar",
+        "fraseIngles": "Taste the soup and add salt if needed.",
+        "frasePortugues": "Prove a sopa e adicione sal se necessário.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 153,
+        "ingles": "Test",
+        "portugues": "Testar",
+        "fraseIngles": "Test the cake doneness with a toothpick.",
+        "frasePortugues": "Teste se o bolo está pronto com um palito.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 154,
+        "ingles": "Check",
+        "portugues": "Verificar",
+        "fraseIngles": "Check the internal temperature of the meat.",
+        "frasePortugues": "Verifique a temperatura interna da carne.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 155,
+        "ingles": "Monitor",
+        "portugues": "Monitorar",
+        "fraseIngles": "Monitor the cooking process carefully.",
+        "frasePortugues": "Monitore o processo de cozimento cuidadosamente.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 156,
+        "ingles": "Time",
+        "portugues": "Cronometrar",
+        "fraseIngles": "Time the cooking for perfect results.",
+        "frasePortugues": "Cronometer o cozimento para resultados perfeitos.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 157,
+        "ingles": "Control",
+        "portugues": "Controlar",
+        "fraseIngles": "Control the heat to prevent burning.",
+        "frasePortugues": "Controle o calor para evitar queimar.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 158,
+        "ingles": "Regulate",
+        "portugues": "Regular",
+        "fraseIngles": "Regulate the oven temperature precisely.",
+        "frasePortugues": "Regule a temperatura do forno precisamente.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 159,
+        "ingles": "Maintain",
+        "portugues": "Manter",
+        "fraseIngles": "Maintain steady heat throughout cooking.",
+        "frasePortugues": "Mantenha calor constante durante o cozimento.",
+        "subtopico": "Preparos",
+        "topico": "Alimentos"
+    }
+]

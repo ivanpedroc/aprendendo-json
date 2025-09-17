@@ -1,0 +1,1604 @@
+[
+    {
+        "id": 1,
+        "ingles": "Salt",
+        "portugues": "Sal",
+        "fraseIngles": "Add a pinch of salt to enhance flavors.",
+        "frasePortugues": "Adicione uma pitada de sal para realçar sabores.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 2,
+        "ingles": "Table salt",
+        "portugues": "Sal de mesa",
+        "fraseIngles": "Table salt is fine and dissolves quickly.",
+        "frasePortugues": "Sal de mesa é fino e se dissolve rapidamente.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 3,
+        "ingles": "Sea salt",
+        "portugues": "Sal marinho",
+        "fraseIngles": "Sea salt has a more complex flavor.",
+        "frasePortugues": "Sal marinho tem sabor mais complexo.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 4,
+        "ingles": "Rock salt",
+        "portugues": "Sal grosso",
+        "fraseIngles": "Rock salt has larger crystals.",
+        "frasePortugues": "Sal grosso tem cristais maiores.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 5,
+        "ingles": "Kosher salt",
+        "portugues": "Sal kosher",
+        "fraseIngles": "Kosher salt has no additives.",
+        "frasePortugues": "Sal kosher não tem aditivos.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 6,
+        "ingles": "Himalayan pink salt",
+        "portugues": "Sal rosa do Himalaia",
+        "fraseIngles": "Pink salt gets its color from minerals.",
+        "frasePortugues": "Sal rosa tem sua cor dos minerais.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 7,
+        "ingles": "Flaky salt",
+        "portugues": "Sal em flocos",
+        "fraseIngles": "Flaky salt is perfect for finishing dishes.",
+        "frasePortugues": "Sal em flocos é perfeito para finalizar pratos.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 8,
+        "ingles": "Smoked salt",
+        "portugues": "Sal defumado",
+        "fraseIngles": "Smoked salt adds depth to grilled foods.",
+        "frasePortugues": "Sal defumado adiciona profundidade a alimentos grelhados.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 9,
+        "ingles": "Garlic salt",
+        "portugues": "Sal de alho",
+        "fraseIngles": "Garlic salt combines salt with garlic powder.",
+        "frasePortugues": "Sal de alho combina sal com alho em pó.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 10,
+        "ingles": "Celery salt",
+        "portugues": "Sal de aipo",
+        "fraseIngles": "Celery salt is essential for Bloody Marys.",
+        "frasePortugues": "Sal de aipo é essencial para Bloody Marys.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 11,
+        "ingles": "Pepper",
+        "portugues": "Pimenta",
+        "fraseIngles": "Freshly ground pepper has the best flavor.",
+        "frasePortugues": "Pimenta moída na hora tem o melhor sabor.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 12,
+        "ingles": "Black pepper",
+        "portugues": "Pimenta-do-reino preta",
+        "fraseIngles": "Black pepper is the most common spice.",
+        "frasePortugues": "Pimenta-do-reino preta é o tempero mais comum.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 13,
+        "ingles": "White pepper",
+        "portugues": "Pimenta-do-reino branca",
+        "fraseIngles": "White pepper is milder than black pepper.",
+        "frasePortugues": "Pimenta-do-reino branca é mais suave que a preta.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 14,
+        "ingles": "Green pepper",
+        "portugues": "Pimenta-do-reino verde",
+        "fraseIngles": "Green peppercorns are picked unripe.",
+        "frasePortugues": "Grãos de pimenta-do-reino verde são colhidos verdes.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 15,
+        "ingles": "Pink pepper",
+        "portugues": "Pimenta rosa",
+        "fraseIngles": "Pink peppercorns are not true pepper.",
+        "frasePortugues": "Pimenta rosa não é pimenta verdadeira.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 16,
+        "ingles": "Peppercorns",
+        "portugues": "Grãos de pimenta",
+        "fraseIngles": "Whole peppercorns stay fresh longer.",
+        "frasePortugues": "Grãos inteiros de pimenta ficam frescos por mais tempo.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 17,
+        "ingles": "Cracked pepper",
+        "portugues": "Pimenta rachada",
+        "fraseIngles": "Cracked pepper adds texture to dishes.",
+        "frasePortugues": "Pimenta rachada adiciona textura aos pratos.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 18,
+        "ingles": "Ground pepper",
+        "portugues": "Pimenta moída",
+        "fraseIngles": "Ground pepper loses flavor over time.",
+        "frasePortugues": "Pimenta moída perde sabor com o tempo.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 19,
+        "ingles": "Paprika",
+        "portugues": "Páprica",
+        "fraseIngles": "Hungarian paprika ranges from sweet to hot.",
+        "frasePortugues": "Páprica húngara varia de doce a picante.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 20,
+        "ingles": "Sweet paprika",
+        "portugues": "Páprica doce",
+        "fraseIngles": "Sweet paprika adds color without heat.",
+        "frasePortugues": "Páprica doce adiciona cor sem ardência.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 21,
+        "ingles": "Hot paprika",
+        "portugues": "Páprica picante",
+        "fraseIngles": "Hot paprika brings heat and flavor.",
+        "frasePortugues": "Páprica picante traz ardência e sabor.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 22,
+        "ingles": "Smoked paprika",
+        "portugues": "Páprica defumada",
+        "fraseIngles": "Spanish smoked paprika has distinctive taste.",
+        "frasePortugues": "Páprica defumada espanhola tem sabor distintivo.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 23,
+        "ingles": "Cayenne pepper",
+        "portugues": "Pimenta caiena",
+        "fraseIngles": "Cayenne pepper is very hot and spicy.",
+        "frasePortugues": "Pimenta caiena é muito quente e picante.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 24,
+        "ingles": "Chili powder",
+        "portugues": "Pimenta em pó",
+        "fraseIngles": "Chili powder is a blend of spices.",
+        "frasePortugues": "Pimenta em pó é uma mistura de temperos.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 25,
+        "ingles": "Cumin",
+        "portugues": "Cominho",
+        "fraseIngles": "Ground cumin is essential in Mexican cooking.",
+        "frasePortugues": "Cominho moído é essencial na culinária mexicana.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 26,
+        "ingles": "Coriander",
+        "portugues": "Coentro em grão",
+        "fraseIngles": "Coriander seeds have citrusy flavor.",
+        "frasePortugues": "Sementes de coentro têm sabor cítrico.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 27,
+        "ingles": "Turmeric",
+        "portugues": "Açafrão-da-terra",
+        "fraseIngles": "Turmeric gives curry its yellow color.",
+        "frasePortugues": "Açafrão-da-terra dá cor amarela ao curry.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 28,
+        "ingles": "Ginger",
+        "portugues": "Gengibre",
+        "fraseIngles": "Fresh ginger is more pungent than dried.",
+        "frasePortugues": "Gengibre fresco é mais picante que seco.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 29,
+        "ingles": "Ground ginger",
+        "portugues": "Gengibre em pó",
+        "fraseIngles": "Ground ginger is used in baking.",
+        "frasePortugues": "Gengibre em pó é usado na confeitaria.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 30,
+        "ingles": "Fresh ginger",
+        "portugues": "Gengibre fresco",
+        "fraseIngles": "Peel fresh ginger before using.",
+        "frasePortugues": "Descasque gengibre fresco antes de usar.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 31,
+        "ingles": "Garlic",
+        "portugues": "Alho",
+        "fraseIngles": "Fresh garlic is more flavorful than powder.",
+        "frasePortugues": "Alho fresco é mais saboroso que em pó.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 32,
+        "ingles": "Garlic powder",
+        "portugues": "Alho em pó",
+        "fraseIngles": "Garlic powder is convenient for seasoning.",
+        "frasePortugues": "Alho em pó é conveniente para temperar.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 33,
+        "ingles": "Garlic granules",
+        "portugues": "Alho granulado",
+        "fraseIngles": "Garlic granules are coarser than powder.",
+        "frasePortugues": "Alho granulado é mais grosso que em pó.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 34,
+        "ingles": "Onion powder",
+        "portugues": "Cebola em pó",
+        "fraseIngles": "Onion powder adds flavor without texture.",
+        "frasePortugues": "Cebola em pó adiciona sabor sem textura.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 35,
+        "ingles": "Onion flakes",
+        "portugues": "Cebola desidratada",
+        "fraseIngles": "Dried onion flakes rehydrate when cooked.",
+        "frasePortugues": "Cebola desidratada reidrata quando cozida.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 36,
+        "ingles": "Cinnamon",
+        "portugues": "Canela",
+        "fraseIngles": "Ground cinnamon sweetens desserts naturally.",
+        "frasePortugues": "Canela moída adoça sobremesas naturalmente.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 37,
+        "ingles": "Cinnamon sticks",
+        "portugues": "Canela em pau",
+        "fraseIngles": "Whole cinnamon sticks infuse drinks with flavor.",
+        "frasePortugues": "Canela em pau inteira aromatiza bebidas.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 38,
+        "ingles": "Ground cinnamon",
+        "portugues": "Canela moída",
+        "fraseIngles": "Ground cinnamon is perfect for baking.",
+        "frasePortugues": "Canela moída é perfeita para confeitaria.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 39,
+        "ingles": "Nutmeg",
+        "portugues": "Noz-moscada",
+        "fraseIngles": "Freshly grated nutmeg is more aromatic.",
+        "frasePortugues": "Noz-moscada ralada na hora é mais aromática.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 40,
+        "ingles": "Ground nutmeg",
+        "portugues": "Noz-moscada moída",
+        "fraseIngles": "Ground nutmeg is convenient for baking.",
+        "frasePortugues": "Noz-moscada moída é conveniente para confeitaria.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 41,
+        "ingles": "Cloves",
+        "portugues": "Cravo-da-índia",
+        "fraseIngles": "Whole cloves are used in mulled wine.",
+        "frasePortugues": "Cravo-da-índia inteiro é usado em vinho quente.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 42,
+        "ingles": "Ground cloves",
+        "portugues": "Cravo moído",
+        "fraseIngles": "Ground cloves are potent, use sparingly.",
+        "frasePortugues": "Cravo moído é potente, use com parcimônia.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 43,
+        "ingles": "Allspice",
+        "portugues": "Pimenta-da-jamaica",
+        "fraseIngles": "Allspice combines flavors of several spices.",
+        "frasePortugues": "Pimenta-da-jamaica combina sabores de vários temperos.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 44,
+        "ingles": "Cardamom",
+        "portugues": "Cardamomo",
+        "fraseIngles": "Green cardamom pods are aromatic and sweet.",
+        "frasePortugues": "Vagens de cardamomo verde são aromáticas e doces.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 45,
+        "ingles": "Star anise",
+        "portugues": "Anis-estrelado",
+        "fraseIngles": "Star anise has licorice flavor.",
+        "frasePortugues": "Anis-estrelado tem sabor de alcaçuz.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 46,
+        "ingles": "Fennel seeds",
+        "portugues": "Sementes de funcho",
+        "fraseIngles": "Fennel seeds taste like mild licorice.",
+        "frasePortugues": "Sementes de funcho têm gosto de alcaçuz suave.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 47,
+        "ingles": "Mustard seeds",
+        "portugues": "Sementes de mostarda",
+        "fraseIngles": "Yellow mustard seeds are mild.",
+        "frasePortugues": "Sementes de mostarda amarela são suaves.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 48,
+        "ingles": "Sesame seeds",
+        "portugues": "Sementes de gergelim",
+        "fraseIngles": "Toasted sesame seeds add nutty flavor.",
+        "frasePortugues": "Sementes de gergelim torradas adicionam sabor amendoado.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 49,
+        "ingles": "Poppy seeds",
+        "portugues": "Sementes de papoula",
+        "fraseIngles": "Poppy seeds add crunch to baked goods.",
+        "frasePortugues": "Sementes de papoula adicionam crocância a produtos assados.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 50,
+        "ingles": "Vanilla",
+        "portugues": "Baunilha",
+        "fraseIngles": "Pure vanilla extract is expensive but worth it.",
+        "frasePortugues": "Extrato puro de baunilha é caro mas vale a pena.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 51,
+        "ingles": "Vanilla extract",
+        "portugues": "Extrato de baunilha",
+        "fraseIngles": "Vanilla extract enhances sweet flavors.",
+        "frasePortugues": "Extrato de baunilha realça sabores doces.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 52,
+        "ingles": "Vanilla beans",
+        "portugues": "Vagens de baunilha",
+        "fraseIngles": "Vanilla beans have tiny black seeds inside.",
+        "frasePortugues": "Vagens de baunilha têm pequenas sementes pretas dentro.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 53,
+        "ingles": "Bay leaves",
+        "portugues": "Folhas de louro",
+        "fraseIngles": "Bay leaves are removed before serving.",
+        "frasePortugues": "Folhas de louro são removidas antes de servir.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 54,
+        "ingles": "Dried bay leaves",
+        "portugues": "Louro seco",
+        "fraseIngles": "Dried bay leaves flavor soups and stews.",
+        "frasePortugues": "Louro seco aromatiza sopas e ensopados.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 55,
+        "ingles": "Oregano",
+        "portugues": "Orégano",
+        "fraseIngles": "Dried oregano is essential for pizza sauce.",
+        "frasePortugues": "Orégano seco é essencial para molho de pizza.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 56,
+        "ingles": "Fresh oregano",
+        "portugues": "Orégano fresco",
+        "fraseIngles": "Fresh oregano is more delicate than dried.",
+        "frasePortugues": "Orégano fresco é mais delicado que seco.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 57,
+        "ingles": "Basil",
+        "portugues": "Manjericão",
+        "fraseIngles": "Fresh basil is perfect with tomatoes.",
+        "frasePortugues": "Manjericão fresco é perfeito com tomates.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 58,
+        "ingles": "Dried basil",
+        "portugues": "Manjericão seco",
+        "fraseIngles": "Dried basil works well in cooked sauces.",
+        "frasePortugues": "Manjericão seco funciona bem em molhos cozidos.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 59,
+        "ingles": "Thyme",
+        "portugues": "Tomilho",
+        "fraseIngles": "Fresh thyme has tiny leaves and woody stems.",
+        "frasePortugues": "Tomilho fresco tem folhas minúsculas e caules lenhosos.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 60,
+        "ingles": "Dried thyme",
+        "portugues": "Tomilho seco",
+        "fraseIngles": "Dried thyme is convenient for seasoning.",
+        "frasePortugues": "Tomilho seco é conveniente para temperar.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 61,
+        "ingles": "Rosemary",
+        "portugues": "Alecrim",
+        "fraseIngles": "Fresh rosemary has needle-like leaves.",
+        "frasePortugues": "Alecrim fresco tem folhas como agulhas.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 62,
+        "ingles": "Sage",
+        "portugues": "Sálvia",
+        "fraseIngles": "Sage pairs well with pork and poultry.",
+        "frasePortugues": "Sálvia combina bem com porco e aves.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 63,
+        "ingles": "Parsley",
+        "portugues": "Salsa",
+        "fraseIngles": "Fresh parsley brightens any dish.",
+        "frasePortugues": "Salsa fresca ilumina qualquer prato.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 64,
+        "ingles": "Flat-leaf parsley",
+        "portugues": "Salsa lisa",
+        "fraseIngles": "Flat-leaf parsley has more flavor.",
+        "frasePortugues": "Salsa lisa tem mais sabor.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 65,
+        "ingles": "Curly parsley",
+        "portugues": "Salsa crespa",
+        "fraseIngles": "Curly parsley is often used as garnish.",
+        "frasePortugues": "Salsa crespa é frequentemente usada como enfeite.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 66,
+        "ingles": "Cilantro",
+        "portugues": "Coentro",
+        "fraseIngles": "Fresh cilantro is essential in Mexican cuisine.",
+        "frasePortugues": "Coentro fresco é essencial na culinária mexicana.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 67,
+        "ingles": "Dill",
+        "portugues": "Endro",
+        "fraseIngles": "Fresh dill goes perfectly with fish.",
+        "frasePortugues": "Endro fresco combina perfeitamente com peixe.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 68,
+        "ingles": "Chives",
+        "portugues": "Cebolinha",
+        "fraseIngles": "Chopped chives add mild onion flavor.",
+        "frasePortugues": "Cebolinha picada adiciona sabor suave de cebola.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 69,
+        "ingles": "Tarragon",
+        "portugues": "Estragão",
+        "fraseIngles": "French tarragon has anise-like flavor.",
+        "frasePortugues": "Estragão francês tem sabor parecido com anis.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 70,
+        "ingles": "Mint",
+        "portugues": "Hortelã",
+        "fraseIngles": "Fresh mint is refreshing in drinks.",
+        "frasePortugues": "Hortelã fresca é refrescante em bebidas.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 71,
+        "ingles": "Spearmint",
+        "portugues": "Hortelã-comum",
+        "fraseIngles": "Spearmint is the most common mint variety.",
+        "frasePortugues": "Hortelã-comum é a variedade mais comum de hortelã.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 72,
+        "ingles": "Peppermint",
+        "portugues": "Hortelã-pimenta",
+        "fraseIngles": "Peppermint is stronger than spearmint.",
+        "frasePortugues": "Hortelã-pimenta é mais forte que hortelã-comum.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 73,
+        "ingles": "Lavender",
+        "portugues": "Lavanda",
+        "fraseIngles": "Culinary lavender adds floral notes.",
+        "frasePortugues": "Lavanda culinária adiciona notas florais.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 74,
+        "ingles": "Lemon zest",
+        "portugues": "Raspa de limão",
+        "fraseIngles": "Fresh lemon zest brightens dishes.",
+        "frasePortugues": "Raspa fresca de limão ilumina pratos.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 75,
+        "ingles": "Orange zest",
+        "portugues": "Raspa de laranja",
+        "fraseIngles": "Orange zest adds citrus without juice.",
+        "frasePortugues": "Raspa de laranja adiciona cítrico sem suco.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 76,
+        "ingles": "Lime zest",
+        "portugues": "Raspa de lima",
+        "fraseIngles": "Lime zest provides intense citrus flavor.",
+        "frasePortugues": "Raspa de lima fornece sabor cítrico intenso.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 77,
+        "ingles": "Saffron",
+        "portugues": "Açafrão",
+        "fraseIngles": "Saffron is the world's most expensive spice.",
+        "frasePortugues": "Açafrão é o tempero mais caro do mundo.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 78,
+        "ingles": "Curry powder",
+        "portugues": "Curry em pó",
+        "fraseIngles": "Curry powder blends many Indian spices.",
+        "frasePortugues": "Curry em pó mistura muitos temperos indianos.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 79,
+        "ingles": "Garam masala",
+        "portugues": "Garam masala",
+        "fraseIngles": "Garam masala is a warming spice blend.",
+        "frasePortugues": "Garam masala é uma mistura de temperos que aquece.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 80,
+        "ingles": "Five-spice powder",
+        "portugues": "Tempero cinco especiarias",
+        "fraseIngles": "Chinese five-spice combines sweet and savory.",
+        "frasePortugues": "Cinco especiarias chinês combina doce e salgado.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 81,
+        "ingles": "Italian seasoning",
+        "portugues": "Tempero italiano",
+        "fraseIngles": "Italian seasoning blends Mediterranean herbs.",
+        "frasePortugues": "Tempero italiano mistura ervas mediterrâneas.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 82,
+        "ingles": "Herbs de Provence",
+        "portugues": "Ervas de Provence",
+        "fraseIngles": "French herb blend includes lavender.",
+        "frasePortugues": "Mistura de ervas francesas inclui lavanda.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 83,
+        "ingles": "Old Bay seasoning",
+        "portugues": "Tempero Old Bay",
+        "fraseIngles": "Old Bay is perfect for seafood.",
+        "frasePortugues": "Tempero Old Bay é perfeito para frutos do mar.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 84,
+        "ingles": "Cajun seasoning",
+        "portugues": "Tempero cajun",
+        "fraseIngles": "Cajun seasoning is spicy and complex.",
+        "frasePortugues": "Tempero cajun é picante e complexo.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 85,
+        "ingles": "Taco seasoning",
+        "portugues": "Tempero para taco",
+        "fraseIngles": "Taco seasoning makes Mexican food easy.",
+        "frasePortugues": "Tempero para taco facilita comida mexicana.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 86,
+        "ingles": "Ranch seasoning",
+        "portugues": "Tempero ranch",
+        "fraseIngles": "Ranch seasoning makes instant dressing.",
+        "frasePortugues": "Tempero ranch faz molho instantâneo.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 87,
+        "ingles": "Barbecue rub",
+        "portugues": "Tempero para churrasco",
+        "fraseIngles": "Dry rubs add flavor to grilled meats.",
+        "frasePortugues": "Temperos secos adicionam sabor a carnes grelhadas.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 88,
+        "ingles": "Lemon pepper",
+        "portugues": "Pimenta com limão",
+        "fraseIngles": "Lemon pepper combines citrus and spice.",
+        "frasePortugues": "Pimenta com limão combina cítrico e tempero.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 89,
+        "ingles": "Everything bagel seasoning",
+        "portugues": "Tempero everything bagel",
+        "fraseIngles": "This blend tops more than just bagels.",
+        "frasePortugues": "Esta mistura cobre mais que apenas bagels.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 90,
+        "ingles": "Za'atar",
+        "portugues": "Za'atar",
+        "fraseIngles": "Middle Eastern za'atar contains sumac.",
+        "frasePortugues": "Za'atar do Oriente Médio contém sumac.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 91,
+        "ingles": "Sumac",
+        "portugues": "Sumac",
+        "fraseIngles": "Sumac adds tartness without liquid.",
+        "frasePortugues": "Sumac adiciona acidez sem líquido.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 92,
+        "ingles": "Harissa",
+        "portugues": "Harissa",
+        "fraseIngles": "North African harissa is hot and smoky.",
+        "frasePortugues": "Harissa norte-africana é picante e defumada.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 93,
+        "ingles": "Ras el hanout",
+        "portugues": "Ras el hanout",
+        "fraseIngles": "Moroccan blend can contain 30 spices.",
+        "frasePortugues": "Mistura marroquina pode conter 30 temperos.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 94,
+        "ingles": "Dukkah",
+        "portugues": "Dukkah",
+        "fraseIngles": "Egyptian dukkah combines nuts and spices.",
+        "frasePortugues": "Dukkah egípcio combina nozes e temperos.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 95,
+        "ingles": "Berbere",
+        "portugues": "Berbere",
+        "fraseIngles": "Ethiopian berbere is complex and fiery.",
+        "frasePortugues": "Berbere etíope é complexo e ardente.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 96,
+        "ingles": "Jerk seasoning",
+        "portugues": "Tempero jerk",
+        "fraseIngles": "Jamaican jerk seasoning is hot and sweet.",
+        "frasePortugues": "Tempero jerk jamaicano é picante e doce.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 97,
+        "ingles": "Adobo",
+        "portugues": "Adobo",
+        "fraseIngles": "Filipino adobo seasoning is salty and garlicky.",
+        "frasePortugues": "Tempero adobo filipino é salgado e com alho.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 98,
+        "ingles": "Furikake",
+        "portugues": "Furikake",
+        "fraseIngles": "Japanese furikake contains seaweed and sesame.",
+        "frasePortugues": "Furikake japonês contém alga e gergelim.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 99,
+        "ingles": "Togarashi",
+        "portugues": "Togarashi",
+        "fraseIngles": "Japanese seven-spice blend is mildly hot.",
+        "frasePortugues": "Mistura japonesa de sete especiarias é levemente picante.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 100,
+        "ingles": "Wasabi",
+        "portugues": "Wasabi",
+        "fraseIngles": "Real wasabi is rare and expensive.",
+        "frasePortugues": "Wasabi verdadeiro é raro e caro.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 101,
+        "ingles": "Horseradish",
+        "portugues": "Raiz-forte",
+        "fraseIngles": "Fresh horseradish clears your sinuses.",
+        "frasePortugues": "Raiz-forte fresca limpa seus seios nasais.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 102,
+        "ingles": "Prepared horseradish",
+        "portugues": "Raiz-forte preparada",
+        "fraseIngles": "Prepared horseradish is mixed with vinegar.",
+        "frasePortugues": "Raiz-forte preparada é misturada com vinagre.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 103,
+        "ingles": "Mustard",
+        "portugues": "Mostarda",
+        "fraseIngles": "Dijon mustard is smooth and tangy.",
+        "frasePortugues": "Mostarda Dijon é lisa e ácida.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 104,
+        "ingles": "Dijon mustard",
+        "portugues": "Mostarda Dijon",
+        "fraseIngles": "Dijon mustard originated in France.",
+        "frasePortugues": "Mostarda Dijon se originou na França.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 105,
+        "ingles": "Yellow mustard",
+        "portugues": "Mostarda amarela",
+        "fraseIngles": "Yellow mustard is mild and sweet.",
+        "frasePortugues": "Mostarda amarela é suave e doce.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 106,
+        "ingles": "Whole grain mustard",
+        "portugues": "Mostarda em grãos",
+        "fraseIngles": "Whole grain mustard has visible seeds.",
+        "frasePortugues": "Mostarda em grãos tem sementes visíveis.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 107,
+        "ingles": "Honey mustard",
+        "portugues": "Mostarda com mel",
+        "fraseIngles": "Honey mustard balances sweet and tangy.",
+        "frasePortugues": "Mostarda com mel equilibra doce e ácido.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 108,
+        "ingles": "Stone ground mustard",
+        "portugues": "Mostarda moída na pedra",
+        "fraseIngles": "Stone ground mustard has coarse texture.",
+        "frasePortugues": "Mostarda moída na pedra tem textura grossa.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 109,
+        "ingles": "Ketchup",
+        "portugues": "Ketchup",
+        "fraseIngles": "Tomato ketchup is America's favorite condiment.",
+        "frasePortugues": "Ketchup de tomate é o condimento favorito da América.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 110,
+        "ingles": "Tomato sauce",
+        "portugues": "Molho de tomate",
+        "fraseIngles": "Plain tomato sauce is versatile.",
+        "frasePortugues": "Molho de tomate simples é versátil.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 111,
+        "ingles": "Marinara sauce",
+        "portugues": "Molho marinara",
+        "fraseIngles": "Marinara sauce is chunky with herbs.",
+        "frasePortugues": "Molho marinara é encorpado com ervas.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 112,
+        "ingles": "BBQ sauce",
+        "portugues": "Molho barbecue",
+        "fraseIngles": "Sweet BBQ sauce complements grilled meat.",
+        "frasePortugues": "Molho barbecue doce complementa carne grelhada.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 113,
+        "ingles": "Hot sauce",
+        "portugues": "Molho picante",
+        "fraseIngles": "Hot sauce adds heat to any dish.",
+        "frasePortugues": "Molho picante adiciona ardência a qualquer prato.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 114,
+        "ingles": "Tabasco",
+        "portugues": "Tabasco",
+        "fraseIngles": "Tabasco sauce is aged in oak barrels.",
+        "frasePortugues": "Molho Tabasco é envelhecido em barris de carvalho.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 115,
+        "ingles": "Sriracha",
+        "portugues": "Sriracha",
+        "fraseIngles": "Thai sriracha has garlic and chilies.",
+        "frasePortugues": "Sriracha tailandês tem alho e pimentas.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 116,
+        "ingles": "Worcestershire sauce",
+        "portugues": "Molho inglês",
+        "fraseIngles": "Worcestershire sauce is complex and umami-rich.",
+        "frasePortugues": "Molho inglês é complexo e rico em umami.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 117,
+        "ingles": "Soy sauce",
+        "portugues": "Molho de soja",
+        "fraseIngles": "Dark soy sauce is thicker than light.",
+        "frasePortugues": "Molho de soja escuro é mais grosso que claro.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 118,
+        "ingles": "Light soy sauce",
+        "portugues": "Molho de soja claro",
+        "fraseIngles": "Light soy sauce is saltier than dark.",
+        "frasePortugues": "Molho de soja claro é mais salgado que escuro.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 119,
+        "ingles": "Dark soy sauce",
+        "portugues": "Molho de soja escuro",
+        "fraseIngles": "Dark soy sauce adds color to dishes.",
+        "frasePortugues": "Molho de soja escuro adiciona cor aos pratos.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 120,
+        "ingles": "Fish sauce",
+        "portugues": "Molho de peixe",
+        "fraseIngles": "Vietnamese fish sauce is intensely flavored.",
+        "frasePortugues": "Molho de peixe vietnamita tem sabor intenso.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 121,
+        "ingles": "Oyster sauce",
+        "portugues": "Molho de ostra",
+        "fraseIngles": "Oyster sauce thickens stir-fries.",
+        "frasePortugues": "Molho de ostra engrossa refogados.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 122,
+        "ingles": "Teriyaki sauce",
+        "portugues": "Molho teriyaki",
+        "fraseIngles": "Sweet teriyaki sauce glazes grilled foods.",
+        "frasePortugues": "Molho teriyaki doce glaseia alimentos grelhados.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 123,
+        "ingles": "Ponzu sauce",
+        "portugues": "Molho ponzu",
+        "fraseIngles": "Japanese ponzu combines citrus and soy.",
+        "frasePortugues": "Ponzu japonês combina cítrico e soja.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 124,
+        "ingles": "Miso paste",
+        "portugues": "Pasta de missô",
+        "fraseIngles": "Fermented miso paste adds depth.",
+        "frasePortugues": "Pasta fermentada de missô adiciona profundidade.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 125,
+        "ingles": "Hoisin sauce",
+        "portugues": "Molho hoisin",
+        "fraseIngles": "Chinese hoisin sauce is sweet and thick.",
+        "frasePortugues": "Molho hoisin chinês é doce e grosso.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 126,
+        "ingles": "Plum sauce",
+        "portugues": "Molho de ameixa",
+        "fraseIngles": "Plum sauce is sweet and tangy.",
+        "frasePortugues": "Molho de ameixa é doce e ácido.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 127,
+        "ingles": "Duck sauce",
+        "portugues": "Molho de pato",
+        "fraseIngles": "Duck sauce is actually made from plums.",
+        "frasePortugues": "Molho de pato na verdade é feito de ameixas.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 128,
+        "ingles": "Sweet and sour sauce",
+        "portugues": "Molho agridoce",
+        "fraseIngles": "Sweet and sour sauce balances flavors.",
+        "frasePortugues": "Molho agridoce equilibra sabores.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 129,
+        "ingles": "Chili garlic sauce",
+        "portugues": "Molho de pimenta com alho",
+        "fraseIngles": "Chili garlic sauce is chunky and spicy.",
+        "frasePortugues": "Molho de pimenta com alho é encorpado e picante.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 130,
+        "ingles": "Sambal oelek",
+        "portugues": "Sambal oelek",
+        "fraseIngles": "Indonesian sambal is pure chili paste.",
+        "frasePortugues": "Sambal indonésio é pasta pura de pimenta.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 131,
+        "ingles": "Gochujang",
+        "portugues": "Gochujang",
+        "fraseIngles": "Korean gochujang is fermented chili paste.",
+        "frasePortugues": "Gochujang coreano é pasta fermentada de pimenta.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 132,
+        "ingles": "Chimichurri",
+        "portugues": "Chimichurri",
+        "fraseIngles": "Argentine chimichurri is fresh and herbaceous.",
+        "frasePortugues": "Chimichurri argentino é fresco e herbáceo.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 133,
+        "ingles": "Pesto",
+        "portugues": "Pesto",
+        "fraseIngles": "Traditional pesto contains basil and pine nuts.",
+        "frasePortugues": "Pesto tradicional contém manjericão e pinhões.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 134,
+        "ingles": "Tahini",
+        "portugues": "Tahine",
+        "fraseIngles": "Sesame tahini is creamy and nutty.",
+        "frasePortugues": "Tahine de gergelim é cremoso e amendoado.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 135,
+        "ingles": "Hummus",
+        "portugues": "Homus",
+        "fraseIngles": "Hummus is made from chickpeas and tahini.",
+        "frasePortugues": "Homus é feito de grão-de-bico e tahine.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 136,
+        "ingles": "Tzatziki",
+        "portugues": "Tzatziki",
+        "fraseIngles": "Greek tzatziki contains yogurt and cucumber.",
+        "frasePortugues": "Tzatziki grego contém iogurte e pepino.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 137,
+        "ingles": "Salsa",
+        "portugues": "Salsa",
+        "fraseIngles": "Fresh salsa combines tomatoes and peppers.",
+        "frasePortugues": "Salsa fresca combina tomates e pimentões.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 138,
+        "ingles": "Pico de gallo",
+        "portugues": "Pico de gallo",
+        "fraseIngles": "Pico de gallo is chunky fresh salsa.",
+        "frasePortugues": "Pico de gallo é salsa fresca encorpada.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 139,
+        "ingles": "Guacamole",
+        "portugues": "Guacamole",
+        "fraseIngles": "Ripe avocados make the best guacamole.",
+        "frasePortugues": "Abacates maduros fazem o melhor guacamole.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 140,
+        "ingles": "Aioli",
+        "portugues": "Aioli",
+        "fraseIngles": "Garlic aioli is Mediterranean mayonnaise.",
+        "frasePortugues": "Aioli de alho é maionese mediterrânea.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 141,
+        "ingles": "Mayonnaise",
+        "portugues": "Maionese",
+        "fraseIngles": "Real mayonnaise is made with egg yolks.",
+        "frasePortugues": "Maionese real é feita com gemas de ovo.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 142,
+        "ingles": "Miracle Whip",
+        "portugues": "Miracle Whip",
+        "fraseIngles": "Miracle Whip is sweeter than mayonnaise.",
+        "frasePortugues": "Miracle Whip é mais doce que maionese.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 143,
+        "ingles": "Ranch dressing",
+        "portugues": "Molho ranch",
+        "fraseIngles": "Ranch dressing is America's favorite.",
+        "frasePortugues": "Molho ranch é o favorito da América.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 144,
+        "ingles": "Blue cheese dressing",
+        "portugues": "Molho de queijo azul",
+        "fraseIngles": "Blue cheese dressing is chunky and tangy.",
+        "frasePortugues": "Molho de queijo azul é encorpado e ácido.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 145,
+        "ingles": "Thousand Island",
+        "portugues": "Molho Thousand Island",
+        "fraseIngles": "Thousand Island has pickle relish.",
+        "frasePortugues": "Molho Thousand Island tem conserva de picles.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 146,
+        "ingles": "Italian dressing",
+        "portugues": "Molho italiano",
+        "fraseIngles": "Italian dressing is oil and vinegar based.",
+        "frasePortugues": "Molho italiano é baseado em óleo e vinagre.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 147,
+        "ingles": "Caesar dressing",
+        "portugues": "Molho Caesar",
+        "fraseIngles": "Caesar dressing contains anchovies.",
+        "frasePortugues": "Molho Caesar contém anchovas.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 148,
+        "ingles": "Balsamic vinegar",
+        "portugues": "Vinagre balsâmico",
+        "fraseIngles": "Aged balsamic vinegar is complex and sweet.",
+        "frasePortugues": "Vinagre balsâmico envelhecido é complexo e doce.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 149,
+        "ingles": "Red wine vinegar",
+        "portugues": "Vinagre de vinho tinto",
+        "fraseIngles": "Red wine vinegar is sharp and acidic.",
+        "frasePortugues": "Vinagre de vinho tinto é forte e ácido.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 150,
+        "ingles": "White wine vinegar",
+        "portugues": "Vinagre de vinho branco",
+        "fraseIngles": "White wine vinegar is milder than red.",
+        "frasePortugues": "Vinagre de vinho branco é mais suave que tinto.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 151,
+        "ingles": "Apple cider vinegar",
+        "portugues": "Vinagre de maçã",
+        "fraseIngles": "Apple cider vinegar has health benefits.",
+        "frasePortugues": "Vinagre de maçã tem benefícios para a saúde.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 152,
+        "ingles": "Rice vinegar",
+        "portugues": "Vinagre de arroz",
+        "fraseIngles": "Rice vinegar is mild and slightly sweet.",
+        "frasePortugues": "Vinagre de arroz é suave e levemente doce.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 153,
+        "ingles": "Coconut vinegar",
+        "portugues": "Vinagre de coco",
+        "fraseIngles": "Filipino coconut vinegar is cloudy.",
+        "frasePortugues": "Vinagre de coco filipino é turvo.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 154,
+        "ingles": "Sherry vinegar",
+        "portugues": "Vinagre de xerez",
+        "fraseIngles": "Spanish sherry vinegar is aged in barrels.",
+        "frasePortugues": "Vinagre de xerez espanhol é envelhecido em barris.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 155,
+        "ingles": "Malt vinegar",
+        "portugues": "Vinagre de malte",
+        "fraseIngles": "British malt vinegar goes with fish and chips.",
+        "frasePortugues": "Vinagre de malte britânico acompanha peixe com batatas fritas.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 156,
+        "ingles": "Olive oil",
+        "portugues": "Azeite de oliva",
+        "fraseIngles": "Extra virgin olive oil is cold-pressed.",
+        "frasePortugues": "Azeite de oliva extra virgem é prensado a frio.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 157,
+        "ingles": "Extra virgin olive oil",
+        "portugues": "Azeite extravirgem",
+        "fraseIngles": "Extra virgin is the highest grade.",
+        "frasePortugues": "Extravirgem é a classificação mais alta.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 158,
+        "ingles": "Virgin olive oil",
+        "portugues": "Azeite virgem",
+        "fraseIngles": "Virgin olive oil is less refined.",
+        "frasePortugues": "Azeite virgem é menos refinado.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 159,
+        "ingles": "Light olive oil",
+        "portugues": "Azeite light",
+        "fraseIngles": "Light olive oil has neutral flavor.",
+        "frasePortugues": "Azeite light tem sabor neutro.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 160,
+        "ingles": "Vegetable oil",
+        "portugues": "Óleo vegetal",
+        "fraseIngles": "Neutral vegetable oil is good for frying.",
+        "frasePortugues": "Óleo vegetal neutro é bom para fritar.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 161,
+        "ingles": "Canola oil",
+        "portugues": "Óleo de canola",
+        "fraseIngles": "Canola oil has a high smoke point.",
+        "frasePortugues": "Óleo de canola tem ponto de fumaça alto.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 162,
+        "ingles": "Coconut oil",
+        "portugues": "Óleo de coco",
+        "fraseIngles": "Virgin coconut oil solidifies when cool.",
+        "frasePortugues": "Óleo de coco virgem solidifica quando esfria.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 163,
+        "ingles": "Sesame oil",
+        "portugues": "Óleo de gergelim",
+        "fraseIngles": "Toasted sesame oil is very aromatic.",
+        "frasePortugues": "Óleo de gergelim torrado é muito aromático.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 164,
+        "ingles": "Peanut oil",
+        "portugues": "Óleo de amendoim",
+        "fraseIngles": "Peanut oil is perfect for Asian stir-frying.",
+        "frasePortugues": "Óleo de amendoim é perfeito para refogados asiáticos.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 165,
+        "ingles": "Avocado oil",
+        "portugues": "Óleo de abacate",
+        "fraseIngles": "Avocado oil has a very high smoke point.",
+        "frasePortugues": "Óleo de abacate tem ponto de fumaça muito alto.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 166,
+        "ingles": "Sunflower oil",
+        "portugues": "Óleo de girassol",
+        "fraseIngles": "Sunflower oil is light and neutral.",
+        "frasePortugues": "Óleo de girassol é leve e neutro.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 167,
+        "ingles": "Corn oil",
+        "portugues": "Óleo de milho",
+        "fraseIngles": "Corn oil is good for deep frying.",
+        "frasePortugues": "Óleo de milho é bom para fritura profunda.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 168,
+        "ingles": "Sugar",
+        "portugues": "Açúcar",
+        "fraseIngles": "White sugar is refined and pure.",
+        "frasePortugues": "Açúcar branco é refinado e puro.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 169,
+        "ingles": "Brown sugar",
+        "portugues": "Açúcar mascavo",
+        "fraseIngles": "Brown sugar contains molasses.",
+        "frasePortugues": "Açúcar mascavo contém melaço.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 170,
+        "ingles": "Raw sugar",
+        "portugues": "Açúcar bruto",
+        "fraseIngles": "Raw sugar is less processed.",
+        "frasePortugues": "Açúcar bruto é menos processado.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 171,
+        "ingles": "Powdered sugar",
+        "portugues": "Açúcar de confeiteiro",
+        "fraseIngles": "Powdered sugar dissolves instantly.",
+        "frasePortugues": "Açúcar de confeiteiro se dissolve instantaneamente.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 172,
+        "ingles": "Honey",
+        "portugues": "Mel",
+        "fraseIngles": "Raw honey has more nutrients.",
+        "frasePortugues": "Mel cru tem mais nutrientes.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 173,
+        "ingles": "Maple syrup",
+        "portugues": "Xarope de bordo",
+        "fraseIngles": "Pure maple syrup is expensive but worth it.",
+        "frasePortugues": "Xarope puro de bordo é caro mas vale a pena.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 174,
+        "ingles": "Agave nectar",
+        "portugues": "Néctar de agave",
+        "fraseIngles": "Agave nectar is sweeter than sugar.",
+        "frasePortugues": "Néctar de agave é mais doce que açúcar.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 175,
+        "ingles": "Molasses",
+        "portugues": "Melaço",
+        "fraseIngles": "Blackstrap molasses is rich in minerals.",
+        "frasePortugues": "Melaço blackstrap é rico em minerais.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 176,
+        "ingles": "Corn syrup",
+        "portugues": "Xarope de milho",
+        "fraseIngles": "Corn syrup prevents sugar from crystallizing.",
+        "frasePortugues": "Xarope de milho previne cristalização do açúcar.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 177,
+        "ingles": "Artificial sweetener",
+        "portugues": "Adoçante artificial",
+        "fraseIngles": "Artificial sweeteners have no calories.",
+        "frasePortugues": "Adoçantes artificiais não têm calorias.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 178,
+        "ingles": "Stevia",
+        "portugues": "Stevia",
+        "fraseIngles": "Stevia is a natural zero-calorie sweetener.",
+        "frasePortugues": "Stevia é um adoçante natural sem calorias.",
+        "subtopico": "Temperos",
+        "topico": "Alimentos"
+    }
+]

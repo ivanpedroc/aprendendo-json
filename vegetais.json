@@ -1,0 +1,1757 @@
+[
+    {
+        "id": 1,
+        "ingles": "Carrot",
+        "portugues": "Cenoura",
+        "fraseIngles": "Carrots are orange and good for your eyes.",
+        "frasePortugues": "Cenouras são laranjas e boas para os olhos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 2,
+        "ingles": "Baby carrot",
+        "portugues": "Cenoura baby",
+        "fraseIngles": "Baby carrots are perfect for snacking.",
+        "frasePortugues": "Cenouras baby são perfeitas para petiscar.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 3,
+        "ingles": "Purple carrot",
+        "portugues": "Cenoura roxa",
+        "fraseIngles": "Purple carrots are an heirloom variety.",
+        "frasePortugues": "Cenouras roxas são uma variedade ancestral.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 4,
+        "ingles": "White carrot",
+        "portugues": "Cenoura branca",
+        "fraseIngles": "White carrots have a milder flavor.",
+        "frasePortugues": "Cenouras brancas têm sabor mais suave.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 5,
+        "ingles": "Potato",
+        "portugues": "Batata",
+        "fraseIngles": "Potatoes can be baked, fried, or mashed.",
+        "frasePortugues": "Batatas podem ser assadas, fritas ou amassadas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 6,
+        "ingles": "Sweet potato",
+        "portugues": "Batata-doce",
+        "fraseIngles": "Sweet potatoes are orange and naturally sweet.",
+        "frasePortugues": "Batatas-doces são laranjas e naturalmente doces.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 7,
+        "ingles": "Red potato",
+        "portugues": "Batata vermelha",
+        "fraseIngles": "Red potatoes have thin, edible skin.",
+        "frasePortugues": "Batatas vermelhas têm casca fina e comestível.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 8,
+        "ingles": "Russet potato",
+        "portugues": "Batata russet",
+        "fraseIngles": "Russet potatoes are perfect for french fries.",
+        "frasePortugues": "Batatas russet são perfeitas para batatas fritas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 9,
+        "ingles": "Fingerling potato",
+        "portugues": "Batata fingerling",
+        "fraseIngles": "Fingerling potatoes are small and elongated.",
+        "frasePortugues": "Batatas fingerling são pequenas e alongadas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 10,
+        "ingles": "New potato",
+        "portugues": "Batata nova",
+        "fraseIngles": "New potatoes have tender, thin skin.",
+        "frasePortugues": "Batatas novas têm casca tenra e fina.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 11,
+        "ingles": "Onion",
+        "portugues": "Cebola",
+        "fraseIngles": "Onions make you cry when you cut them.",
+        "frasePortugues": "Cebolas fazem você chorar quando as corta.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 12,
+        "ingles": "Red onion",
+        "portugues": "Cebola roxa",
+        "fraseIngles": "Red onions are milder and good raw.",
+        "frasePortugues": "Cebolas roxas são mais suaves e boas cruas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 13,
+        "ingles": "White onion",
+        "portugues": "Cebola branca",
+        "fraseIngles": "White onions have a sharp, pungent flavor.",
+        "frasePortugues": "Cebolas brancas têm sabor forte e picante.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 14,
+        "ingles": "Yellow onion",
+        "portugues": "Cebola amarela",
+        "fraseIngles": "Yellow onions are the most common variety.",
+        "frasePortugues": "Cebolas amarelas são a variedade mais comum.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 15,
+        "ingles": "Green onion",
+        "portugues": "Cebolinha",
+        "fraseIngles": "Green onions are also called scallions.",
+        "frasePortugues": "Cebolinhas também são chamadas de ceboletas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 16,
+        "ingles": "Shallot",
+        "portugues": "Chalota",
+        "fraseIngles": "Shallots have a delicate, sweet flavor.",
+        "frasePortugues": "Chalotas têm sabor delicado e doce.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 17,
+        "ingles": "Leek",
+        "portugues": "Alho-poró",
+        "fraseIngles": "Leeks are like large, mild onions.",
+        "frasePortugues": "Alhos-porós são como cebolas grandes e suaves.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 18,
+        "ingles": "Garlic",
+        "portugues": "Alho",
+        "fraseIngles": "Garlic adds strong flavor to cooking.",
+        "frasePortugues": "Alho adiciona sabor forte ao cozinhado.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 19,
+        "ingles": "Garlic clove",
+        "portugues": "Dente de alho",
+        "fraseIngles": "Crush a garlic clove before cooking.",
+        "frasePortugues": "Esmague um dente de alho antes de cozinhar.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 20,
+        "ingles": "Elephant garlic",
+        "portugues": "Alho-elefante",
+        "fraseIngles": "Elephant garlic is much larger than regular garlic.",
+        "frasePortugues": "Alho-elefante é muito maior que alho comum.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 21,
+        "ingles": "Tomato",
+        "portugues": "Tomate",
+        "fraseIngles": "Tomatoes are technically fruits, not vegetables.",
+        "frasePortugues": "Tomates são tecnicamente frutas, não vegetais.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 22,
+        "ingles": "Cherry tomato",
+        "portugues": "Tomate cereja",
+        "fraseIngles": "Cherry tomatoes are small and sweet.",
+        "frasePortugues": "Tomates cereja são pequenos e doces.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 23,
+        "ingles": "Roma tomato",
+        "portugues": "Tomate italiano",
+        "fraseIngles": "Roma tomatoes are perfect for sauces.",
+        "frasePortugues": "Tomates italianos são perfeitos para molhos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 24,
+        "ingles": "Beefsteak tomato",
+        "portugues": "Tomate gigante",
+        "fraseIngles": "Beefsteak tomatoes are large and meaty.",
+        "frasePortugues": "Tomates gigantes são grandes e carnudos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 25,
+        "ingles": "Green tomato",
+        "portugues": "Tomate verde",
+        "fraseIngles": "Green tomatoes are unripe and tart.",
+        "frasePortugues": "Tomates verdes são não maduros e azedos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 26,
+        "ingles": "Heirloom tomato",
+        "portugues": "Tomate heirloom",
+        "fraseIngles": "Heirloom tomatoes come in many colors.",
+        "frasePortugues": "Tomates heirloom vêm em muitas cores.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 27,
+        "ingles": "Cucumber",
+        "portugues": "Pepino",
+        "fraseIngles": "Cucumbers are cool and refreshing.",
+        "frasePortugues": "Pepinos são frescos e refrescantes.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 28,
+        "ingles": "English cucumber",
+        "portugues": "Pepino inglês",
+        "fraseIngles": "English cucumbers are longer and seedless.",
+        "frasePortugues": "Pepinos ingleses são mais longos e sem sementes.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 29,
+        "ingles": "Pickle cucumber",
+        "portugues": "Pepino para conserva",
+        "fraseIngles": "Small cucumbers are used for pickles.",
+        "frasePortugues": "Pepinos pequenos são usados para conservas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 30,
+        "ingles": "Persian cucumber",
+        "portugues": "Pepino persa",
+        "fraseIngles": "Persian cucumbers are small and crisp.",
+        "frasePortugues": "Pepinos persas são pequenos e crocantes.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 31,
+        "ingles": "Bell pepper",
+        "portugues": "Pimentão",
+        "fraseIngles": "Bell peppers come in red, yellow, and green.",
+        "frasePortugues": "Pimentões vêm em vermelho, amarelo e verde.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 32,
+        "ingles": "Red bell pepper",
+        "portugues": "Pimentão vermelho",
+        "fraseIngles": "Red bell peppers are the sweetest variety.",
+        "frasePortugues": "Pimentões vermelhos são a variedade mais doce.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 33,
+        "ingles": "Green bell pepper",
+        "portugues": "Pimentão verde",
+        "fraseIngles": "Green bell peppers are less ripe and more bitter.",
+        "frasePortugues": "Pimentões verdes são menos maduros e mais amargos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 34,
+        "ingles": "Yellow bell pepper",
+        "portugues": "Pimentão amarelo",
+        "fraseIngles": "Yellow bell peppers are sweet and crisp.",
+        "frasePortugues": "Pimentões amarelos são doces e crocantes.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 35,
+        "ingles": "Orange bell pepper",
+        "portugues": "Pimentão laranja",
+        "fraseIngles": "Orange bell peppers are between red and yellow.",
+        "frasePortugues": "Pimentões laranjas ficam entre vermelho e amarelo.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 36,
+        "ingles": "Purple bell pepper",
+        "portugues": "Pimentão roxo",
+        "fraseIngles": "Purple bell peppers are rare but beautiful.",
+        "frasePortugues": "Pimentões roxos são raros mas bonitos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 37,
+        "ingles": "Hot pepper",
+        "portugues": "Pimenta",
+        "fraseIngles": "Hot peppers add spice to dishes.",
+        "frasePortugues": "Pimentas adicionam tempero aos pratos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 38,
+        "ingles": "Jalapeño pepper",
+        "portugues": "Pimenta jalapeño",
+        "fraseIngles": "Jalapeño peppers are moderately hot.",
+        "frasePortugues": "Pimentas jalapeño são moderadamente picantes.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 39,
+        "ingles": "Habanero pepper",
+        "portugues": "Pimenta habanero",
+        "fraseIngles": "Habanero peppers are very hot.",
+        "frasePortugues": "Pimentas habanero são muito picantes.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 40,
+        "ingles": "Serrano pepper",
+        "portugues": "Pimenta serrano",
+        "fraseIngles": "Serrano peppers are small and fiery.",
+        "frasePortugues": "Pimentas serrano são pequenas e ardentes.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 41,
+        "ingles": "Cayenne pepper",
+        "portugues": "Pimenta caiena",
+        "fraseIngles": "Cayenne peppers are often dried and powdered.",
+        "frasePortugues": "Pimentas caiena são frequentemente secas e em pó.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 42,
+        "ingles": "Broccoli",
+        "portugues": "Brócolis",
+        "fraseIngles": "Broccoli looks like tiny green trees.",
+        "frasePortugues": "Brócolis parece pequenas árvores verdes.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 43,
+        "ingles": "Cauliflower",
+        "portugues": "Couve-flor",
+        "fraseIngles": "Cauliflower is white and has no leaves.",
+        "frasePortugues": "Couve-flor é branca e não tem folhas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 44,
+        "ingles": "Purple cauliflower",
+        "portugues": "Couve-flor roxa",
+        "fraseIngles": "Purple cauliflower is more nutritious.",
+        "frasePortugues": "Couve-flor roxa é mais nutritiva.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 45,
+        "ingles": "Orange cauliflower",
+        "portugues": "Couve-flor laranja",
+        "fraseIngles": "Orange cauliflower has more beta-carotene.",
+        "frasePortugues": "Couve-flor laranja tem mais betacaroteno.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 46,
+        "ingles": "Romanesco",
+        "portugues": "Romanesco",
+        "fraseIngles": "Romanesco has a fractal spiral pattern.",
+        "frasePortugues": "Romanesco tem padrão espiral fractal.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 47,
+        "ingles": "Brussels sprouts",
+        "portugues": "Couve-de-bruxelas",
+        "fraseIngles": "Brussels sprouts look like tiny cabbages.",
+        "frasePortugues": "Couves-de-bruxelas parecem pequenos repolhos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 48,
+        "ingles": "Cabbage",
+        "portugues": "Repolho",
+        "fraseIngles": "Cabbage can be green, red, or purple.",
+        "frasePortugues": "Repolho pode ser verde, vermelho ou roxo.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 49,
+        "ingles": "Green cabbage",
+        "portugues": "Repolho verde",
+        "fraseIngles": "Green cabbage is the most common type.",
+        "frasePortugues": "Repolho verde é o tipo mais comum.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 50,
+        "ingles": "Red cabbage",
+        "portugues": "Repolho roxo",
+        "fraseIngles": "Red cabbage turns blue when cooked.",
+        "frasePortugues": "Repolho roxo fica azul quando cozido.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 51,
+        "ingles": "Napa cabbage",
+        "portugues": "Repolho chinês",
+        "fraseIngles": "Napa cabbage is used in Asian cooking.",
+        "frasePortugues": "Repolho chinês é usado na culinária asiática.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 52,
+        "ingles": "Bok choy",
+        "portugues": "Pak choi",
+        "fraseIngles": "Bok choy has white stems and green leaves.",
+        "frasePortugues": "Pak choi tem talos brancos e folhas verdes.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 53,
+        "ingles": "Lettuce",
+        "portugues": "Alface",
+        "fraseIngles": "Lettuce is the base of most salads.",
+        "frasePortugues": "Alface é a base da maioria das saladas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 54,
+        "ingles": "Iceberg lettuce",
+        "portugues": "Alface americana",
+        "fraseIngles": "Iceberg lettuce is crispy but not nutritious.",
+        "frasePortugues": "Alface americana é crocante mas não nutritiva.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 55,
+        "ingles": "Romaine lettuce",
+        "portugues": "Alface romana",
+        "fraseIngles": "Romaine lettuce is used in Caesar salads.",
+        "frasePortugues": "Alface romana é usada em saladas Caesar.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 56,
+        "ingles": "Butter lettuce",
+        "portugues": "Alface mantega",
+        "fraseIngles": "Butter lettuce has soft, tender leaves.",
+        "frasePortugues": "Alface mantega tem folhas macias e tenras.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 57,
+        "ingles": "Arugula",
+        "portugues": "Rúcula",
+        "fraseIngles": "Arugula has a peppery, sharp taste.",
+        "frasePortugues": "Rúcula tem gosto apimentado e forte.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 58,
+        "ingles": "Spinach",
+        "portugues": "Espinafre",
+        "fraseIngles": "Spinach is rich in iron and vitamins.",
+        "frasePortugues": "Espinafre é rico em ferro e vitaminas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 59,
+        "ingles": "Baby spinach",
+        "portugues": "Espinafre baby",
+        "fraseIngles": "Baby spinach leaves are tender and mild.",
+        "frasePortugues": "Folhas de espinafre baby são tenras e suaves.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 60,
+        "ingles": "Kale",
+        "portugues": "Couve",
+        "fraseIngles": "Kale is a superfood packed with nutrients.",
+        "frasePortugues": "Couve é um superalimento cheio de nutrientes.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 61,
+        "ingles": "Curly kale",
+        "portugues": "Couve crespa",
+        "fraseIngles": "Curly kale has ruffled, textured leaves.",
+        "frasePortugues": "Couve crespa tem folhas franzidas e texturizadas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 62,
+        "ingles": "Dinosaur kale",
+        "portugues": "Couve dinossauro",
+        "fraseIngles": "Dinosaur kale has dark, bumpy leaves.",
+        "frasePortugues": "Couve dinossauro tem folhas escuras e rugosas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 63,
+        "ingles": "Swiss chard",
+        "portugues": "Acelga",
+        "fraseIngles": "Swiss chard has colorful stems.",
+        "frasePortugues": "Acelga tem talos coloridos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 64,
+        "ingles": "Collard greens",
+        "portugues": "Couve-manteiga",
+        "fraseIngles": "Collard greens are popular in Southern cooking.",
+        "frasePortugues": "Couve-manteiga é popular na culinária sulista.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 65,
+        "ingles": "Mustard greens",
+        "portugues": "Folhas de mostarda",
+        "fraseIngles": "Mustard greens have a spicy flavor.",
+        "frasePortugues": "Folhas de mostarda têm sabor picante.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 66,
+        "ingles": "Turnip greens",
+        "portugues": "Folhas de nabo",
+        "fraseIngles": "Turnip greens are the leaves of turnip plants.",
+        "frasePortugues": "Folhas de nabo são as folhas das plantas de nabo.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 67,
+        "ingles": "Watercress",
+        "portugues": "Agrião",
+        "fraseIngles": "Watercress grows in streams and has peppery taste.",
+        "frasePortugues": "Agrião cresce em riachos e tem gosto apimentado.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 68,
+        "ingles": "Celery",
+        "portugues": "Aipo",
+        "fraseIngles": "Celery is crunchy and mostly water.",
+        "frasePortugues": "Aipo é crocante e principalmente água.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 69,
+        "ingles": "Celery stalk",
+        "portugues": "Talo de aipo",
+        "fraseIngles": "Each celery stalk has a hollow center.",
+        "frasePortugues": "Cada talo de aipo tem centro oco.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 70,
+        "ingles": "Celeriac",
+        "portugues": "Aipo-rábano",
+        "fraseIngles": "Celeriac is the root of celery plants.",
+        "frasePortugues": "Aipo-rábano é a raiz das plantas de aipo.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 71,
+        "ingles": "Asparagus",
+        "portugues": "Aspargo",
+        "fraseIngles": "Asparagus spears are tender spring vegetables.",
+        "frasePortugues": "Lanças de aspargo são vegetais tenros da primavera.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 72,
+        "ingles": "Green asparagus",
+        "portugues": "Aspargo verde",
+        "fraseIngles": "Green asparagus is the most common variety.",
+        "frasePortugues": "Aspargo verde é a variedade mais comum.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 73,
+        "ingles": "White asparagus",
+        "portugues": "Aspargo branco",
+        "fraseIngles": "White asparagus is grown underground.",
+        "frasePortugues": "Aspargo branco é cultivado no subsolo.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 74,
+        "ingles": "Purple asparagus",
+        "portugues": "Aspargo roxo",
+        "fraseIngles": "Purple asparagus is sweeter than green.",
+        "frasePortugues": "Aspargo roxo é mais doce que o verde.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 75,
+        "ingles": "Artichoke",
+        "portugues": "Alcachofra",
+        "fraseIngles": "Artichokes are actually flower buds.",
+        "frasePortugues": "Alcachofras são na verdade botões de flores.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 76,
+        "ingles": "Baby artichoke",
+        "portugues": "Alcachofra baby",
+        "fraseIngles": "Baby artichokes are tender and can be eaten whole.",
+        "frasePortugues": "Alcachofras baby são tenras e podem ser comidas inteiras.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 77,
+        "ingles": "Jerusalem artichoke",
+        "portugues": "Alcachofra de Jerusalém",
+        "fraseIngles": "Jerusalem artichokes are actually tubers.",
+        "frasePortugues": "Alcachofras de Jerusalém são na verdade tubérculos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 78,
+        "ingles": "Eggplant",
+        "portugues": "Berinjela",
+        "fraseIngles": "Eggplants are purple and spongy inside.",
+        "frasePortugues": "Berinjelas são roxas e esponjosas por dentro.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 79,
+        "ingles": "Japanese eggplant",
+        "portugues": "Berinjela japonesa",
+        "fraseIngles": "Japanese eggplants are long and slender.",
+        "frasePortugues": "Berinjelas japonesas são longas e esguias.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 80,
+        "ingles": "White eggplant",
+        "portugues": "Berinjela branca",
+        "fraseIngles": "White eggplants are less bitter.",
+        "frasePortugues": "Berinjelas brancas são menos amargas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 81,
+        "ingles": "Baby eggplant",
+        "portugues": "Berinjela baby",
+        "fraseIngles": "Baby eggplants are perfect for individual servings.",
+        "frasePortugues": "Berinjelas baby são perfeitas para porções individuais.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 82,
+        "ingles": "Zucchini",
+        "portugues": "Abobrinha",
+        "fraseIngles": "Zucchini are green summer squash.",
+        "frasePortugues": "Abobrinhas são abóboras verdes de verão.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 83,
+        "ingles": "Yellow squash",
+        "portugues": "Abóbora amarela",
+        "fraseIngles": "Yellow squash is similar to zucchini.",
+        "frasePortugues": "Abóbora amarela é similar à abobrinha.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 84,
+        "ingles": "Pattypan squash",
+        "portugues": "Abóbora pattypan",
+        "fraseIngles": "Pattypan squash is round and scalloped.",
+        "frasePortugues": "Abóbora pattypan é redonda e ondulada.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 85,
+        "ingles": "Acorn squash",
+        "portugues": "Abóbora bolota",
+        "fraseIngles": "Acorn squash is shaped like an acorn.",
+        "frasePortugues": "Abóbora bolota tem formato de bolota.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 86,
+        "ingles": "Butternut squash",
+        "portugues": "Abóbora butternut",
+        "fraseIngles": "Butternut squash has orange flesh.",
+        "frasePortugues": "Abóbora butternut tem polpa alaranjada.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 87,
+        "ingles": "Delicata squash",
+        "portugues": "Abóbora delicata",
+        "fraseIngles": "Delicata squash has cream-colored skin with green stripes.",
+        "frasePortugues": "Abóbora delicata tem casca cor de creme com listras verdes.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 88,
+        "ingles": "Kabocha squash",
+        "portugues": "Abóbora kabocha",
+        "fraseIngles": "Kabocha squash is a Japanese pumpkin variety.",
+        "frasePortugues": "Abóbora kabocha é uma variedade japonesa de abóbora.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 89,
+        "ingles": "Pumpkin",
+        "portugues": "Abóbora",
+        "fraseIngles": "Pumpkins are used for pies and jack-o'-lanterns.",
+        "frasePortugues": "Abóboras são usadas para tortas e lanternas de Halloween.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 90,
+        "ingles": "Sugar pumpkin",
+        "portugues": "Abóbora de açúcar",
+        "fraseIngles": "Sugar pumpkins are best for cooking.",
+        "frasePortugues": "Abóboras de açúcar são melhores para cozinhar.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 91,
+        "ingles": "Pie pumpkin",
+        "portugues": "Abóbora para torta",
+        "fraseIngles": "Pie pumpkins are small and sweet.",
+        "frasePortugues": "Abóboras para torta são pequenas e doces.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 92,
+        "ingles": "Corn",
+        "portugues": "Milho",
+        "fraseIngles": "Corn on the cob is a summer favorite.",
+        "frasePortugues": "Milho na espiga é favorito do verão.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 93,
+        "ingles": "Sweet corn",
+        "portugues": "Milho doce",
+        "fraseIngles": "Sweet corn is eaten as a vegetable.",
+        "frasePortugues": "Milho doce é consumido como vegetal.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 94,
+        "ingles": "Baby corn",
+        "portugues": "Mini milho",
+        "fraseIngles": "Baby corn is harvested when very young.",
+        "frasePortugues": "Mini milho é colhido quando muito jovem.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 95,
+        "ingles": "Field corn",
+        "portugues": "Milho de campo",
+        "fraseIngles": "Field corn is used for animal feed.",
+        "frasePortugues": "Milho de campo é usado para ração animal.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 96,
+        "ingles": "Popcorn",
+        "portugues": "Milho de pipoca",
+        "fraseIngles": "Popcorn kernels pop when heated.",
+        "frasePortugues": "Grãos de milho de pipoca estalam quando aquecidos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 97,
+        "ingles": "Peas",
+        "portugues": "Ervilhas",
+        "fraseIngles": "Green peas grow in pods.",
+        "frasePortugues": "Ervilhas verdes crescem em vagens.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 98,
+        "ingles": "Green peas",
+        "portugues": "Ervilhas verdes",
+        "fraseIngles": "Green peas are sweet when fresh.",
+        "frasePortugues": "Ervilhas verdes são doces quando frescas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 99,
+        "ingles": "Snow peas",
+        "portugues": "Ervilha torta",
+        "fraseIngles": "Snow peas have edible pods.",
+        "frasePortugues": "Ervilhas tortas têm vagens comestíveis.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 100,
+        "ingles": "Sugar snap peas",
+        "portugues": "Ervilha-açúcar",
+        "fraseIngles": "Sugar snap peas are crispy and sweet.",
+        "frasePortugues": "Ervilhas-açúcar são crocantes e doces.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 101,
+        "ingles": "Split peas",
+        "portugues": "Ervilha partida",
+        "fraseIngles": "Split peas are dried and used in soup.",
+        "frasePortugues": "Ervilhas partidas são secas e usadas em sopa.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 102,
+        "ingles": "Black-eyed peas",
+        "portugues": "Feijão-fradinho",
+        "fraseIngles": "Black-eyed peas are actually beans.",
+        "frasePortugues": "Feijão-fradinho são na verdade feijões.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 103,
+        "ingles": "Green beans",
+        "portugues": "Vagem",
+        "fraseIngles": "Green beans are also called string beans.",
+        "frasePortugues": "Vagens também são chamadas de feijão-verde.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 104,
+        "ingles": "Wax beans",
+        "portugues": "Vagem amarela",
+        "fraseIngles": "Wax beans are yellow-colored green beans.",
+        "frasePortugues": "Vagens amarelas são vagens de cor amarela.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 105,
+        "ingles": "French beans",
+        "portugues": "Vagem francesa",
+        "fraseIngles": "French beans are thin and tender.",
+        "frasePortugues": "Vagens francesas são finas e tenras.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 106,
+        "ingles": "Lima beans",
+        "portugues": "Feijão-lima",
+        "fraseIngles": "Lima beans are large and flat.",
+        "frasePortugues": "Feijões-lima são grandes e chatos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 107,
+        "ingles": "Fava beans",
+        "portugues": "Favas",
+        "fraseIngles": "Fava beans are also called broad beans.",
+        "frasePortugues": "Favas também são chamadas de feijão-largo.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 108,
+        "ingles": "Runner beans",
+        "portugues": "Feijão-trepador",
+        "fraseIngles": "Runner beans grow on climbing vines.",
+        "frasePortugues": "Feijões-trepadores crescem em videiras trepadeiras.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 109,
+        "ingles": "Radish",
+        "portugues": "Rabanete",
+        "fraseIngles": "Radishes are small and peppery.",
+        "frasePortugues": "Rabanetes são pequenos e apimentados.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 110,
+        "ingles": "Red radish",
+        "portugues": "Rabanete vermelho",
+        "fraseIngles": "Red radishes are the most common variety.",
+        "frasePortugues": "Rabanetes vermelhos são a variedade mais comum.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 111,
+        "ingles": "White radish",
+        "portugues": "Rabanete branco",
+        "fraseIngles": "White radishes are milder than red ones.",
+        "frasePortugues": "Rabanetes brancos são mais suaves que os vermelhos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 112,
+        "ingles": "Daikon radish",
+        "portugues": "Rabanete daikon",
+        "fraseIngles": "Daikon radishes are large white Asian radishes.",
+        "frasePortugues": "Rabanetes daikon são grandes rabanetes asiáticos brancos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 113,
+        "ingles": "Black radish",
+        "portugues": "Rabanete preto",
+        "fraseIngles": "Black radishes have black skin and white flesh.",
+        "frasePortugues": "Rabanetes pretos têm casca preta e polpa branca.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 114,
+        "ingles": "Watermelon radish",
+        "portugues": "Rabanete melancia",
+        "fraseIngles": "Watermelon radishes are green outside, pink inside.",
+        "frasePortugues": "Rabanetes melancia são verdes por fora, rosas por dentro.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 115,
+        "ingles": "Beet",
+        "portugues": "Beterraba",
+        "fraseIngles": "Beets have deep red color and earthy taste.",
+        "frasePortugues": "Beterrabas têm cor vermelha profunda e gosto terroso.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 116,
+        "ingles": "Red beet",
+        "portugues": "Beterraba vermelha",
+        "fraseIngles": "Red beets can stain your hands.",
+        "frasePortugues": "Beterrabas vermelhas podem manchar suas mãos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 117,
+        "ingles": "Golden beet",
+        "portugues": "Beterraba dourada",
+        "fraseIngles": "Golden beets don't stain like red beets.",
+        "frasePortugues": "Beterrabas douradas não mancham como as vermelhas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 118,
+        "ingles": "Candy cane beet",
+        "portugues": "Beterraba listrada",
+        "fraseIngles": "Candy cane beets have red and white stripes.",
+        "frasePortugues": "Beterrabas listradas têm listras vermelhas e brancas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 119,
+        "ingles": "Turnip",
+        "portugues": "Nabo",
+        "fraseIngles": "Turnips are white root vegetables.",
+        "frasePortugues": "Nabos são vegetais de raiz brancos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 120,
+        "ingles": "Purple top turnip",
+        "portugues": "Nabo roxo",
+        "fraseIngles": "Purple top turnips have purple shoulders.",
+        "frasePortugues": "Nabos roxos têm ombros roxos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 121,
+        "ingles": "Baby turnip",
+        "portugues": "Nabo baby",
+        "fraseIngles": "Baby turnips are tender and mild.",
+        "frasePortugues": "Nabos baby são tenros e suaves.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 122,
+        "ingles": "Rutabaga",
+        "portugues": "Rutabaga",
+        "fraseIngles": "Rutabagas are larger than turnips.",
+        "frasePortugues": "Rutabagas são maiores que nabos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 123,
+        "ingles": "Parsnip",
+        "portugues": "Pastinaca",
+        "fraseIngles": "Parsnips look like white carrots.",
+        "frasePortugues": "Pastinacas parecem cenouras brancas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 124,
+        "ingles": "Fennel",
+        "portugues": "Funcho",
+        "fraseIngles": "Fennel has a licorice-like flavor.",
+        "frasePortugues": "Funcho tem sabor parecido com alcaçuz.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 125,
+        "ingles": "Fennel bulb",
+        "portugues": "Bulbo de funcho",
+        "fraseIngles": "Fennel bulbs are crisp and aromatic.",
+        "frasePortugues": "Bulbos de funcho são crocantes e aromáticos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 126,
+        "ingles": "Kohlrabi",
+        "portugues": "Couve-rábano",
+        "fraseIngles": "Kohlrabi looks like a space vegetable.",
+        "frasePortugues": "Couve-rábano parece um vegetal espacial.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 127,
+        "ingles": "Jicama",
+        "portugues": "Jicama",
+        "fraseIngles": "Jicama is crispy and slightly sweet.",
+        "frasePortugues": "Jicama é crocante e levemente doce.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 128,
+        "ingles": "Chayote",
+        "portugues": "Chuchu",
+        "fraseIngles": "Chayote is a mild-flavored squash.",
+        "frasePortugues": "Chuchu é uma abóbora de sabor suave.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 129,
+        "ingles": "Okra",
+        "portugues": "Quiabo",
+        "fraseIngles": "Okra becomes slimy when cooked.",
+        "frasePortugues": "Quiabo fica viscoso quando cozido.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 130,
+        "ingles": "Rhubarb",
+        "portugues": "Ruibarbo",
+        "fraseIngles": "Rhubarb stalks are tart and used in desserts.",
+        "frasePortugues": "Talos de ruibarbo são azedos e usados em sobremesas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 131,
+        "ingles": "Mushroom",
+        "portugues": "Cogumelo",
+        "fraseIngles": "Mushrooms are actually fungi, not vegetables.",
+        "frasePortugues": "Cogumelos são na verdade fungos, não vegetais.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 132,
+        "ingles": "Button mushroom",
+        "portugues": "Cogumelo comum",
+        "fraseIngles": "Button mushrooms are white and mild.",
+        "frasePortugues": "Cogumelos comuns são brancos e suaves.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 133,
+        "ingles": "Portobello mushroom",
+        "portugues": "Cogumelo portobello",
+        "fraseIngles": "Portobello mushrooms are large and meaty.",
+        "frasePortugues": "Cogumelos portobello são grandes e carnudos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 134,
+        "ingles": "Shiitake mushroom",
+        "portugues": "Cogumelo shiitake",
+        "fraseIngles": "Shiitake mushrooms have a rich, smoky flavor.",
+        "frasePortugues": "Cogumelos shiitake têm sabor rico e defumado.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 135,
+        "ingles": "Oyster mushroom",
+        "portugues": "Cogumelo ostra",
+        "fraseIngles": "Oyster mushrooms grow in clusters.",
+        "frasePortugues": "Cogumelos ostra crescem em cachos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 136,
+        "ingles": "Cremini mushroom",
+        "portugues": "Cogumelo cremini",
+        "fraseIngles": "Cremini mushrooms are baby portobellos.",
+        "frasePortugues": "Cogumelos cremini são portobellos bebês.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 137,
+        "ingles": "Chanterelle mushroom",
+        "portugues": "Cogumelo chanterelle",
+        "fraseIngles": "Chanterelle mushrooms are golden and trumpet-shaped.",
+        "frasePortugues": "Cogumelos chanterelle são dourados e em forma de trombeta.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 138,
+        "ingles": "Morel mushroom",
+        "portugues": "Cogumelo morel",
+        "fraseIngles": "Morel mushrooms have a honeycomb appearance.",
+        "frasePortugues": "Cogumelos morel têm aparência de favo de mel.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 139,
+        "ingles": "Leafy greens",
+        "portugues": "Verduras folhosas",
+        "fraseIngles": "Leafy greens are packed with vitamins.",
+        "frasePortugues": "Verduras folhosas são ricas em vitaminas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 140,
+        "ingles": "Root vegetables",
+        "portugues": "Vegetais de raiz",
+        "fraseIngles": "Root vegetables grow underground.",
+        "frasePortugues": "Vegetais de raiz crescem no subsolo.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 141,
+        "ingles": "Cruciferous vegetables",
+        "portugues": "Vegetais crucíferos",
+        "fraseIngles": "Cruciferous vegetables include broccoli and cauliflower.",
+        "frasePortugues": "Vegetais crucíferos incluem brócolis e couve-flor.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 142,
+        "ingles": "Nightshade vegetables",
+        "portugues": "Vegetais solanáceas",
+        "fraseIngles": "Nightshade vegetables include tomatoes and peppers.",
+        "frasePortugues": "Vegetais solanáceas incluem tomates e pimentões.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 143,
+        "ingles": "Allium vegetables",
+        "portugues": "Vegetais allium",
+        "fraseIngles": "Allium vegetables include onions and garlic.",
+        "frasePortugues": "Vegetais allium incluem cebolas e alho.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 144,
+        "ingles": "Squash family",
+        "portugues": "Família das abóboras",
+        "fraseIngles": "The squash family includes pumpkins and zucchini.",
+        "frasePortugues": "A família das abóboras inclui abóboras e abobrinhas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 145,
+        "ingles": "Fresh vegetables",
+        "portugues": "Vegetais frescos",
+        "fraseIngles": "Fresh vegetables taste better than frozen ones.",
+        "frasePortugues": "Vegetais frescos têm melhor sabor que os congelados.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 146,
+        "ingles": "Frozen vegetables",
+        "portugues": "Vegetais congelados",
+        "fraseIngles": "Frozen vegetables are convenient and nutritious.",
+        "frasePortugues": "Vegetais congelados são convenientes e nutritivos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 147,
+        "ingles": "Canned vegetables",
+        "portugues": "Vegetais enlatados",
+        "fraseIngles": "Canned vegetables have added sodium.",
+        "frasePortugues": "Vegetais enlatados têm sódio adicionado.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 148,
+        "ingles": "Organic vegetables",
+        "portugues": "Vegetais orgânicos",
+        "fraseIngles": "Organic vegetables are grown without pesticides.",
+        "frasePortugues": "Vegetais orgânicos são cultivados sem pesticidas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 149,
+        "ingles": "Local vegetables",
+        "portugues": "Vegetais locais",
+        "fraseIngles": "Local vegetables are fresher and support farmers.",
+        "frasePortugues": "Vegetais locais são mais frescos e apoiam agricultores.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 150,
+        "ingles": "Seasonal vegetables",
+        "portugues": "Vegetais da época",
+        "fraseIngles": "Seasonal vegetables taste best in their season.",
+        "frasePortugues": "Vegetais da época têm melhor sabor na sua época.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 151,
+        "ingles": "Raw vegetables",
+        "portugues": "Vegetais crus",
+        "fraseIngles": "Raw vegetables retain all their nutrients.",
+        "frasePortugues": "Vegetais crus mantêm todos os seus nutrientes.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 152,
+        "ingles": "Cooked vegetables",
+        "portugues": "Vegetais cozidos",
+        "fraseIngles": "Some vegetables are easier to digest when cooked.",
+        "frasePortugues": "Alguns vegetais são mais fáceis de digerir quando cozidos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 153,
+        "ingles": "Steamed vegetables",
+        "portugues": "Vegetais no vapor",
+        "fraseIngles": "Steamed vegetables keep their nutrients and color.",
+        "frasePortugues": "Vegetais no vapor mantêm seus nutrientes e cor.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 154,
+        "ingles": "Roasted vegetables",
+        "portugues": "Vegetais assados",
+        "fraseIngles": "Roasted vegetables develop caramelized flavors.",
+        "frasePortugues": "Vegetais assados desenvolvem sabores caramelizados.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 155,
+        "ingles": "Grilled vegetables",
+        "portugues": "Vegetais grelhados",
+        "fraseIngles": "Grilled vegetables have a smoky taste.",
+        "frasePortugues": "Vegetais grelhados têm gosto defumado.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 156,
+        "ingles": "Sautéed vegetables",
+        "portugues": "Vegetais refogados",
+        "fraseIngles": "Sautéed vegetables are quickly cooked in oil.",
+        "frasePortugues": "Vegetais refogados são rapidamente cozidos no óleo.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 157,
+        "ingles": "Pickled vegetables",
+        "portugues": "Vegetais em conserva",
+        "fraseIngles": "Pickled vegetables are preserved in vinegar.",
+        "frasePortugues": "Vegetais em conserva são preservados em vinagre.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 158,
+        "ingles": "Fermented vegetables",
+        "portugues": "Vegetais fermentados",
+        "fraseIngles": "Fermented vegetables are good for gut health.",
+        "frasePortugues": "Vegetais fermentados são bons para a saúde intestinal.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 159,
+        "ingles": "Baby vegetables",
+        "portugues": "Vegetais baby",
+        "fraseIngles": "Baby vegetables are harvested young and tender.",
+        "frasePortugues": "Vegetais baby são colhidos jovens e tenros.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 160,
+        "ingles": "Heirloom vegetables",
+        "portugues": "Vegetais heirloom",
+        "fraseIngles": "Heirloom vegetables are old varieties preserved over time.",
+        "frasePortugues": "Vegetais heirloom são variedades antigas preservadas ao longo do tempo.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 161,
+        "ingles": "Hybrid vegetables",
+        "portugues": "Vegetais híbridos",
+        "fraseIngles": "Hybrid vegetables are crossbreeds of different varieties.",
+        "frasePortugues": "Vegetais híbridos são cruzamentos de variedades diferentes.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 162,
+        "ingles": "Wild vegetables",
+        "portugues": "Vegetais selvagens",
+        "fraseIngles": "Wild vegetables grow naturally without cultivation.",
+        "frasePortugues": "Vegetais selvagens crescem naturalmente sem cultivo.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 163,
+        "ingles": "Exotic vegetables",
+        "portugues": "Vegetais exóticos",
+        "fraseIngles": "Exotic vegetables are unusual in most places.",
+        "frasePortugues": "Vegetais exóticos são incomuns na maioria dos lugares.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 164,
+        "ingles": "Colorful vegetables",
+        "portugues": "Vegetais coloridos",
+        "fraseIngles": "Colorful vegetables contain different nutrients.",
+        "frasePortugues": "Vegetais coloridos contêm nutrientes diferentes.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 165,
+        "ingles": "Bitter vegetables",
+        "portugues": "Vegetais amargos",
+        "fraseIngles": "Bitter vegetables like kale are very healthy.",
+        "frasePortugues": "Vegetais amargos como couve são muito saudáveis.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 166,
+        "ingles": "Sweet vegetables",
+        "portugues": "Vegetais doces",
+        "fraseIngles": "Sweet vegetables like corn contain natural sugars.",
+        "frasePortugues": "Vegetais doces como milho contêm açúcares naturais.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 167,
+        "ingles": "Spicy vegetables",
+        "portugues": "Vegetais picantes",
+        "fraseIngles": "Spicy vegetables like peppers add heat to dishes.",
+        "frasePortugues": "Vegetais picantes como pimentões adicionam ardor aos pratos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 168,
+        "ingles": "Crunchy vegetables",
+        "portugues": "Vegetais crocantes",
+        "fraseIngles": "Crunchy vegetables add texture to meals.",
+        "frasePortugues": "Vegetais crocantes adicionam textura às refeições.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 169,
+        "ingles": "Soft vegetables",
+        "portugues": "Vegetais macios",
+        "fraseIngles": "Soft vegetables are easy to chew and digest.",
+        "frasePortugues": "Vegetais macios são fáceis de mastigar e digerir.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 170,
+        "ingles": "Fibrous vegetables",
+        "portugues": "Vegetais fibrosos",
+        "fraseIngles": "Fibrous vegetables help with digestion.",
+        "frasePortugues": "Vegetais fibrosos ajudam na digestão.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 171,
+        "ingles": "Starchy vegetables",
+        "portugues": "Vegetais amiláceos",
+        "fraseIngles": "Starchy vegetables like potatoes provide energy.",
+        "frasePortugues": "Vegetais amiláceos como batatas fornecem energia.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 172,
+        "ingles": "Low-carb vegetables",
+        "portugues": "Vegetais com poucos carboidratos",
+        "fraseIngles": "Low-carb vegetables are good for dieting.",
+        "frasePortugues": "Vegetais com poucos carboidratos são bons para dieta.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 173,
+        "ingles": "High-fiber vegetables",
+        "portugues": "Vegetais ricos em fibras",
+        "fraseIngles": "High-fiber vegetables keep you full longer.",
+        "frasePortugues": "Vegetais ricos em fibras mantêm você satisfeito por mais tempo.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 174,
+        "ingles": "Antioxidant vegetables",
+        "portugues": "Vegetais antioxidantes",
+        "fraseIngles": "Antioxidant vegetables fight free radicals.",
+        "frasePortugues": "Vegetais antioxidantes combatem radicais livres.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 175,
+        "ingles": "Vitamin-rich vegetables",
+        "portugues": "Vegetais ricos em vitaminas",
+        "fraseIngles": "Vitamin-rich vegetables boost immune system.",
+        "frasePortugues": "Vegetais ricos em vitaminas fortalecem o sistema imunológico.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 176,
+        "ingles": "Iron-rich vegetables",
+        "portugues": "Vegetais ricos em ferro",
+        "fraseIngles": "Iron-rich vegetables prevent anemia.",
+        "frasePortugues": "Vegetais ricos em ferro previnem anemia.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 177,
+        "ingles": "Calcium-rich vegetables",
+        "portugues": "Vegetais ricos em cálcio",
+        "fraseIngles": "Calcium-rich vegetables strengthen bones.",
+        "frasePortugues": "Vegetais ricos em cálcio fortalecem os ossos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 178,
+        "ingles": "Vegetable garden",
+        "portugues": "Horta",
+        "fraseIngles": "A vegetable garden provides fresh produce.",
+        "frasePortugues": "Uma horta fornece produtos frescos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 179,
+        "ingles": "Vegetable patch",
+        "portugues": "Canteiro de vegetais",
+        "fraseIngles": "The vegetable patch needs daily watering.",
+        "frasePortugues": "O canteiro de vegetais precisa de rega diária.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 180,
+        "ingles": "Vegetable farm",
+        "portugues": "Fazenda de vegetais",
+        "fraseIngles": "The vegetable farm supplies the local market.",
+        "frasePortugues": "A fazenda de vegetais abastece o mercado local.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 181,
+        "ingles": "Vegetable market",
+        "portugues": "Feira de vegetais",
+        "fraseIngles": "The vegetable market has the freshest produce.",
+        "frasePortugues": "A feira de vegetais tem os produtos mais frescos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 182,
+        "ingles": "Vegetable vendor",
+        "portugues": "Vendedor de vegetais",
+        "fraseIngles": "The vegetable vendor knows which produce is best.",
+        "frasePortugues": "O vendedor de vegetais sabe quais produtos são melhores.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 183,
+        "ingles": "Vegetable soup",
+        "portugues": "Sopa de vegetais",
+        "fraseIngles": "Vegetable soup is healthy and warming.",
+        "frasePortugues": "Sopa de vegetais é saudável e esquenta.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 184,
+        "ingles": "Vegetable salad",
+        "portugues": "Salada de vegetais",
+        "fraseIngles": "A vegetable salad is full of nutrients.",
+        "frasePortugues": "Uma salada de vegetais é cheia de nutrientes.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 185,
+        "ingles": "Vegetable stir-fry",
+        "portugues": "Vegetais refogados",
+        "fraseIngles": "Vegetable stir-fry is quick and healthy.",
+        "frasePortugues": "Vegetais refogados são rápidos e saudáveis.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 186,
+        "ingles": "Vegetable curry",
+        "portugues": "Curry de vegetais",
+        "fraseIngles": "Vegetable curry is spicy and flavorful.",
+        "frasePortugues": "Curry de vegetais é picante e saboroso.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 187,
+        "ingles": "Vegetable juice",
+        "portugues": "Suco de vegetais",
+        "fraseIngles": "Fresh vegetable juice is very nutritious.",
+        "frasePortugues": "Suco de vegetais fresco é muito nutritivo.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 188,
+        "ingles": "Vegetable smoothie",
+        "portugues": "Vitamina de vegetais",
+        "fraseIngles": "A green vegetable smoothie is packed with nutrients.",
+        "frasePortugues": "Uma vitamina verde de vegetais é rica em nutrientes.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 189,
+        "ingles": "Vegetable broth",
+        "portugues": "Caldo de vegetais",
+        "fraseIngles": "Vegetable broth is the base for many soups.",
+        "frasePortugues": "Caldo de vegetais é a base para muitas sopas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 190,
+        "ingles": "Vegetable stock",
+        "portugues": "Caldo de vegetais concentrado",
+        "fraseIngles": "Vegetable stock adds flavor to dishes.",
+        "frasePortugues": "Caldo de vegetais concentrado adiciona sabor aos pratos.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 191,
+        "ingles": "Vegetable oil",
+        "portugues": "Óleo vegetal",
+        "fraseIngles": "Cook vegetables in a little vegetable oil.",
+        "frasePortugues": "Cozinhe vegetais com um pouco de óleo vegetal.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 192,
+        "ingles": "Vegetable peeler",
+        "portugues": "Descascador de vegetais",
+        "fraseIngles": "Use a vegetable peeler to remove skins.",
+        "frasePortugues": "Use um descascador de vegetais para remover cascas.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 193,
+        "ingles": "Vegetable knife",
+        "portugues": "Faca de vegetais",
+        "fraseIngles": "A sharp vegetable knife makes prep work easier.",
+        "frasePortugues": "Uma faca afiada de vegetais facilita o preparo.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 194,
+        "ingles": "Vegetable brush",
+        "portugues": "Escova de vegetais",
+        "fraseIngles": "Clean root vegetables with a vegetable brush.",
+        "frasePortugues": "Limpe vegetais de raiz com uma escova de vegetais.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    },
+    {
+        "id": 195,
+        "ingles": "Vegetable storage",
+        "portugues": "Armazenamento de vegetais",
+        "fraseIngles": "Proper vegetable storage keeps produce fresh longer.",
+        "frasePortugues": "Armazenamento adequado de vegetais mantém produtos frescos por mais tempo.",
+        "subtopico": "Vegetais",
+        "topico": "Alimentos"
+    }
+]
