@@ -1,0 +1,2027 @@
+[
+    {
+        "id": 1,
+        "ingles": "Water",
+        "portugues": "Água",
+        "fraseIngles": "Water is essential for all life.",
+        "frasePortugues": "A água é essencial para toda vida.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 2,
+        "ingles": "Fire",
+        "portugues": "Fogo",
+        "fraseIngles": "Fire provides warmth and light.",
+        "frasePortugues": "O fogo fornece calor e luz.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 3,
+        "ingles": "Earth",
+        "portugues": "Terra",
+        "fraseIngles": "Plants grow in rich earth.",
+        "frasePortugues": "Plantas crescem em terra rica.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 4,
+        "ingles": "Air",
+        "portugues": "Ar",
+        "fraseIngles": "Fresh air fills my lungs.",
+        "frasePortugues": "Ar fresco enche meus pulmões.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 5,
+        "ingles": "Wind",
+        "portugues": "Vento",
+        "fraseIngles": "Strong wind shook the trees.",
+        "frasePortugues": "Vento forte balançou as árvores.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 6,
+        "ingles": "Steam",
+        "portugues": "Vapor",
+        "fraseIngles": "Steam rises from hot water.",
+        "frasePortugues": "Vapor sobe da água quente.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 7,
+        "ingles": "Ice",
+        "portugues": "Gelo",
+        "fraseIngles": "Ice forms when water freezes.",
+        "frasePortugues": "Gelo se forma quando a água congela.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 8,
+        "ingles": "Smoke",
+        "portugues": "Fumaça",
+        "fraseIngles": "Smoke rises from the campfire.",
+        "frasePortugues": "Fumaça sobe da fogueira.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 9,
+        "ingles": "Ash",
+        "portugues": "Cinza",
+        "fraseIngles": "Wood ash fertilizes the garden.",
+        "frasePortugues": "Cinza de madeira fertiliza o jardim.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 10,
+        "ingles": "Dust",
+        "portugues": "Poeira",
+        "fraseIngles": "Dust settled on the furniture.",
+        "frasePortugues": "Poeira se depositou nos móveis.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 11,
+        "ingles": "Sand",
+        "portugues": "Areia",
+        "fraseIngles": "Children play in the sand.",
+        "frasePortugues": "Crianças brincam na areia.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 12,
+        "ingles": "Clay",
+        "portugues": "Argila",
+        "fraseIngles": "Artists shape clay into pottery.",
+        "frasePortugues": "Artistas modelam argila em cerâmica.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 13,
+        "ingles": "Mud",
+        "portugues": "Lama",
+        "fraseIngles": "Rain turned dirt into mud.",
+        "frasePortugues": "A chuva transformou terra em lama.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 14,
+        "ingles": "Stone",
+        "portugues": "Pedra",
+        "fraseIngles": "The old wall is made of stone.",
+        "frasePortugues": "A parede antiga é feita de pedra.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 15,
+        "ingles": "Rock",
+        "portugues": "Rocha",
+        "fraseIngles": "Climbers scale the steep rock.",
+        "frasePortugues": "Alpinistas escalam a rocha íngreme.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 16,
+        "ingles": "Pebble",
+        "portugues": "Seixo",
+        "fraseIngles": "Smooth pebbles line the shore.",
+        "frasePortugues": "Seixos lisos alinham a costa.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 17,
+        "ingles": "Boulder",
+        "portugues": "Pedregulho",
+        "fraseIngles": "A large boulder blocks the path.",
+        "frasePortugues": "Um grande pedregulho bloqueia o caminho.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 18,
+        "ingles": "Crystal",
+        "portugues": "Cristal",
+        "fraseIngles": "The cave sparkled with crystals.",
+        "frasePortugues": "A caverna brilhava com cristais.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 19,
+        "ingles": "Diamond",
+        "portugues": "Diamante",
+        "fraseIngles": "Diamonds form deep underground.",
+        "frasePortugues": "Diamantes se formam no subsolo profundo.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 20,
+        "ingles": "Emerald",
+        "portugues": "Esmeralda",
+        "fraseIngles": "The emerald gleamed green.",
+        "frasePortugues": "A esmeralda brilhava verde.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 21,
+        "ingles": "Ruby",
+        "portugues": "Rubi",
+        "fraseIngles": "The ruby glowed red.",
+        "frasePortugues": "O rubi brilhava vermelho.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 22,
+        "ingles": "Sapphire",
+        "portugues": "Safira",
+        "fraseIngles": "Blue sapphires are precious stones.",
+        "frasePortugues": "Safiras azuis são pedras preciosas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 23,
+        "ingles": "Quartz",
+        "portugues": "Quartzo",
+        "fraseIngles": "Clear quartz is common.",
+        "frasePortugues": "Quartzo claro é comum.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 24,
+        "ingles": "Granite",
+        "portugues": "Granito",
+        "fraseIngles": "Granite countertops are durable.",
+        "frasePortugues": "Bancadas de granito são duráveis.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 25,
+        "ingles": "Marble",
+        "portugues": "Mármore",
+        "fraseIngles": "White marble statues are beautiful.",
+        "frasePortugues": "Estátuas de mármore branco são belas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 26,
+        "ingles": "Limestone",
+        "portugues": "Calcário",
+        "fraseIngles": "Limestone caves are fascinating.",
+        "frasePortugues": "Cavernas de calcário são fascinantes.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 27,
+        "ingles": "Sandstone",
+        "portugues": "Arenito",
+        "fraseIngles": "Red sandstone forms cliffs.",
+        "frasePortugues": "Arenito vermelho forma penhascos.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 28,
+        "ingles": "Slate",
+        "portugues": "Ardósia",
+        "fraseIngles": "Slate roofs last for decades.",
+        "frasePortugues": "Telhados de ardósia duram décadas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 29,
+        "ingles": "Flint",
+        "portugues": "Sílex",
+        "fraseIngles": "Ancient people used flint tools.",
+        "frasePortugues": "Povos antigos usavam ferramentas de sílex.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 30,
+        "ingles": "Coal",
+        "portugues": "Carvão",
+        "fraseIngles": "Coal burns to produce energy.",
+        "frasePortugues": "Carvão queima para produzir energia.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 31,
+        "ingles": "Oil",
+        "portugues": "Petróleo",
+        "fraseIngles": "Oil forms from ancient organisms.",
+        "frasePortugues": "Petróleo se forma de organismos antigos.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 32,
+        "ingles": "Gas",
+        "portugues": "Gás",
+        "fraseIngles": "Natural gas heats many homes.",
+        "frasePortugues": "Gás natural aquece muitas casas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 33,
+        "ingles": "Salt",
+        "portugues": "Sal",
+        "fraseIngles": "Sea water contains salt.",
+        "frasePortugues": "Água do mar contém sal.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 34,
+        "ingles": "Gold",
+        "portugues": "Ouro",
+        "fraseIngles": "Gold never tarnishes or rusts.",
+        "frasePortugues": "Ouro nunca mancha ou enferruja.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 35,
+        "ingles": "Silver",
+        "portugues": "Prata",
+        "fraseIngles": "Silver jewelry is popular.",
+        "frasePortugues": "Joias de prata são populares.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 36,
+        "ingles": "Copper",
+        "portugues": "Cobre",
+        "fraseIngles": "Copper pipes conduct water well.",
+        "frasePortugues": "Tubos de cobre conduzem bem a água.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 37,
+        "ingles": "Iron",
+        "portugues": "Ferro",
+        "fraseIngles": "Iron is magnetic and strong.",
+        "frasePortugues": "Ferro é magnético e forte.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 38,
+        "ingles": "Lead",
+        "portugues": "Chumbo",
+        "fraseIngles": "Lead is a heavy metal.",
+        "frasePortugues": "Chumbo é um metal pesado.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 39,
+        "ingles": "Aluminum",
+        "portugues": "Alumínio",
+        "fraseIngles": "Aluminum cans are recyclable.",
+        "frasePortugues": "Latas de alumínio são recicláveis.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 40,
+        "ingles": "Tin",
+        "portugues": "Estanho",
+        "fraseIngles": "Tin cans preserve food.",
+        "frasePortugues": "Latas de estanho preservam comida.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 41,
+        "ingles": "Zinc",
+        "portugues": "Zinco",
+        "fraseIngles": "Zinc prevents metal corrosion.",
+        "frasePortugues": "Zinco previne corrosão de metal.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 42,
+        "ingles": "Mercury",
+        "portugues": "Mercúrio",
+        "fraseIngles": "Mercury is liquid at room temperature.",
+        "frasePortugues": "Mercúrio é líquido à temperatura ambiente.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 43,
+        "ingles": "Platinum",
+        "portugues": "Platina",
+        "fraseIngles": "Platinum is more valuable than gold.",
+        "frasePortugues": "Platina é mais valiosa que ouro.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 44,
+        "ingles": "Titanium",
+        "portugues": "Titânio",
+        "fraseIngles": "Titanium is lightweight and strong.",
+        "frasePortugues": "Titânio é leve e forte.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 45,
+        "ingles": "Uranium",
+        "portugues": "Urânio",
+        "fraseIngles": "Uranium is radioactive.",
+        "frasePortugues": "Urânio é radioativo.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 46,
+        "ingles": "Carbon",
+        "portugues": "Carbono",
+        "fraseIngles": "All living things contain carbon.",
+        "frasePortugues": "Todos os seres vivos contêm carbono.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 47,
+        "ingles": "Oxygen",
+        "portugues": "Oxigênio",
+        "fraseIngles": "We breathe oxygen to survive.",
+        "frasePortugues": "Respiramos oxigênio para sobreviver.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 48,
+        "ingles": "Hydrogen",
+        "portugues": "Hidrogênio",
+        "fraseIngles": "Water contains hydrogen atoms.",
+        "frasePortugues": "A água contém átomos de hidrogênio.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 49,
+        "ingles": "Nitrogen",
+        "portugues": "Nitrogênio",
+        "fraseIngles": "Air is mostly nitrogen.",
+        "frasePortugues": "O ar é principalmente nitrogênio.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 50,
+        "ingles": "Helium",
+        "portugues": "Hélio",
+        "fraseIngles": "Helium balloons float upward.",
+        "frasePortugues": "Balões de hélio flutuam para cima.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 51,
+        "ingles": "Neon",
+        "portugues": "Neônio",
+        "fraseIngles": "Neon signs glow brightly.",
+        "frasePortugues": "Letreiros de neônio brilham intensamente.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 52,
+        "ingles": "Argon",
+        "portugues": "Argônio",
+        "fraseIngles": "Argon is an inert gas.",
+        "frasePortugues": "Argônio é um gás inerte.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 53,
+        "ingles": "Chlorine",
+        "portugues": "Cloro",
+        "fraseIngles": "Chlorine disinfects swimming pools.",
+        "frasePortugues": "Cloro desinfeta piscinas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 54,
+        "ingles": "Sulfur",
+        "portugues": "Enxofre",
+        "fraseIngles": "Sulfur has a distinctive smell.",
+        "frasePortugues": "Enxofre tem um cheiro característico.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 55,
+        "ingles": "Phosphorus",
+        "portugues": "Fósforo",
+        "fraseIngles": "Phosphorus glows in the dark.",
+        "frasePortugues": "Fósforo brilha no escuro.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 56,
+        "ingles": "Silicon",
+        "portugues": "Silício",
+        "fraseIngles": "Computer chips contain silicon.",
+        "frasePortugues": "Chips de computador contêm silício.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 57,
+        "ingles": "Calcium",
+        "portugues": "Cálcio",
+        "fraseIngles": "Bones need calcium to stay strong.",
+        "frasePortugues": "Ossos precisam de cálcio para se manter fortes.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 58,
+        "ingles": "Magnesium",
+        "portugues": "Magnésio",
+        "fraseIngles": "Magnesium burns with white light.",
+        "frasePortugues": "Magnésio queima com luz branca.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 59,
+        "ingles": "Sodium",
+        "portugues": "Sódio",
+        "fraseIngles": "Table salt contains sodium.",
+        "frasePortugues": "Sal de cozinha contém sódio.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 60,
+        "ingles": "Potassium",
+        "portugues": "Potássio",
+        "fraseIngles": "Bananas are rich in potassium.",
+        "frasePortugues": "Bananas são ricas em potássio.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 61,
+        "ingles": "Iodine",
+        "portugues": "Iodo",
+        "fraseIngles": "Iodine prevents thyroid problems.",
+        "frasePortugues": "Iodo previne problemas da tireoide.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 62,
+        "ingles": "Fluorine",
+        "portugues": "Flúor",
+        "fraseIngles": "Toothpaste contains fluorine.",
+        "frasePortugues": "Pasta de dentes contém flúor.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 63,
+        "ingles": "Ocean",
+        "portugues": "Oceano",
+        "fraseIngles": "The vast ocean covers most Earth.",
+        "frasePortugues": "O vasto oceano cobre a maior parte da Terra.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 64,
+        "ingles": "Sea",
+        "portugues": "Mar",
+        "fraseIngles": "Ships sail across the sea.",
+        "frasePortugues": "Navios navegam pelo mar.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 65,
+        "ingles": "Lake",
+        "portugues": "Lago",
+        "fraseIngles": "The peaceful lake reflects mountains.",
+        "frasePortugues": "O lago tranquilo reflete as montanhas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 66,
+        "ingles": "River",
+        "portugues": "Rio",
+        "fraseIngles": "The river flows to the sea.",
+        "frasePortugues": "O rio flui para o mar.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 67,
+        "ingles": "Stream",
+        "portugues": "Riacho",
+        "fraseIngles": "A small stream trickles through woods.",
+        "frasePortugues": "Um pequeno riacho goteja pela floresta.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 68,
+        "ingles": "Creek",
+        "portugues": "Córrego",
+        "fraseIngles": "Children splash in the shallow creek.",
+        "frasePortugues": "Crianças brincam no córrego raso.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 69,
+        "ingles": "Brook",
+        "portugues": "Riacho",
+        "fraseIngles": "The babbling brook sounds peaceful.",
+        "frasePortugues": "O riacho murmurante soa tranquilo.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 70,
+        "ingles": "Spring",
+        "portugues": "Nascente",
+        "fraseIngles": "Fresh water bubbles from the spring.",
+        "frasePortugues": "Água fresca borbulha da nascente.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 71,
+        "ingles": "Well",
+        "portugues": "Poço",
+        "fraseIngles": "The old well provides clean water.",
+        "frasePortugues": "O poço antigo fornece água limpa.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 72,
+        "ingles": "Pond",
+        "portugues": "Lagoa",
+        "fraseIngles": "Ducks swim in the small pond.",
+        "frasePortugues": "Patos nadam na pequena lagoa.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 73,
+        "ingles": "Pool",
+        "portugues": "Piscina natural",
+        "fraseIngles": "The rock pool holds rainwater.",
+        "frasePortugues": "A piscina natural de rocha retém água da chuva.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 74,
+        "ingles": "Waterfall",
+        "portugues": "Cachoeira",
+        "fraseIngles": "The tall waterfall creates mist.",
+        "frasePortugues": "A cachoeira alta cria névoa.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 75,
+        "ingles": "Rapids",
+        "portugues": "Corredeiras",
+        "fraseIngles": "White water rapids thrill rafters.",
+        "frasePortugues": "Corredeiras de águas brancas emocionam rafters.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 76,
+        "ingles": "Current",
+        "portugues": "Corrente",
+        "fraseIngles": "The strong current swept logs downstream.",
+        "frasePortugues": "A corrente forte levou troncos rio abaixo.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 77,
+        "ingles": "Tide",
+        "portugues": "Maré",
+        "fraseIngles": "High tide covers the beach.",
+        "frasePortugues": "Maré alta cobre a praia.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 78,
+        "ingles": "Wave",
+        "portugues": "Onda",
+        "fraseIngles": "Large waves crash on rocks.",
+        "frasePortugues": "Ondas grandes se quebram nas rochas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 79,
+        "ingles": "Foam",
+        "portugues": "Espuma",
+        "fraseIngles": "White foam tops the waves.",
+        "frasePortugues": "Espuma branca cobre as ondas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 80,
+        "ingles": "Spray",
+        "portugues": "Borrifo",
+        "fraseIngles": "Ocean spray cooled our faces.",
+        "frasePortugues": "Borrifo do oceano refrescou nossos rostos.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 81,
+        "ingles": "Moisture",
+        "portugues": "Umidade",
+        "fraseIngles": "Morning moisture covers the grass.",
+        "frasePortugues": "Umidade matinal cobre a grama.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 82,
+        "ingles": "Dew",
+        "portugues": "Orvalho",
+        "fraseIngles": "Sparkling dew adorns flower petals.",
+        "frasePortugues": "Orvalho cintilante adorna pétalas de flores.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 83,
+        "ingles": "Rain",
+        "portugues": "Chuva",
+        "fraseIngles": "Gentle rain waters the garden.",
+        "frasePortugues": "Chuva suave rega o jardim.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 84,
+        "ingles": "Drizzle",
+        "portugues": "Garoa",
+        "fraseIngles": "Light drizzle dampens the air.",
+        "frasePortugues": "Garoa leve umedece o ar.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 85,
+        "ingles": "Downpour",
+        "portugues": "Aguaceiro",
+        "fraseIngles": "The sudden downpour soaked everyone.",
+        "frasePortugues": "O aguaceiro súbito encharcou todos.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 86,
+        "ingles": "Flood",
+        "portugues": "Inundação",
+        "fraseIngles": "The flood damaged many homes.",
+        "frasePortugues": "A inundação danificou muitas casas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 87,
+        "ingles": "Drought",
+        "portugues": "Seca",
+        "fraseIngles": "The long drought killed crops.",
+        "frasePortugues": "A seca longa matou as plantações.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 88,
+        "ingles": "Vapor",
+        "portugues": "Vapor",
+        "fraseIngles": "Water vapor rises from lakes.",
+        "frasePortugues": "Vapor de água sobe dos lagos.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 89,
+        "ingles": "Humidity",
+        "portugues": "Umidade",
+        "fraseIngles": "High humidity makes air sticky.",
+        "frasePortugues": "Alta umidade deixa o ar pegajoso.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 90,
+        "ingles": "Mountain",
+        "portugues": "Montanha",
+        "fraseIngles": "Snow caps the high mountain.",
+        "frasePortugues": "Neve coroa a montanha alta.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 91,
+        "ingles": "Hill",
+        "portugues": "Colina",
+        "fraseIngles": "We climbed the grassy hill.",
+        "frasePortugues": "Subimos a colina gramada.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 92,
+        "ingles": "Peak",
+        "portugues": "Pico",
+        "fraseIngles": "Eagles soar around the mountain peak.",
+        "frasePortugues": "Águias voam ao redor do pico da montanha.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 93,
+        "ingles": "Summit",
+        "portugues": "Cume",
+        "fraseIngles": "Climbers reached the snowy summit.",
+        "frasePortugues": "Alpinistas alcançaram o cume nevado.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 94,
+        "ingles": "Ridge",
+        "portugues": "Crista",
+        "fraseIngles": "The narrow ridge connects two peaks.",
+        "frasePortugues": "A crista estreita conecta dois picos.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 95,
+        "ingles": "Slope",
+        "portugues": "Encosta",
+        "fraseIngles": "Skiers descend the steep slope.",
+        "frasePortugues": "Esquiadores descem a encosta íngreme.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 96,
+        "ingles": "Valley",
+        "portugues": "Vale",
+        "fraseIngles": "The green valley spreads below.",
+        "frasePortugues": "O vale verde se estende abaixo.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 97,
+        "ingles": "Canyon",
+        "portugues": "Cânion",
+        "fraseIngles": "The deep canyon displays rock layers.",
+        "frasePortugues": "O cânion profundo exibe camadas de rocha.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 98,
+        "ingles": "Gorge",
+        "portugues": "Garganta",
+        "fraseIngles": "Water carved the narrow gorge.",
+        "frasePortugues": "A água esculpiu a garganta estreita.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 99,
+        "ingles": "Cliff",
+        "portugues": "Penhasco",
+        "fraseIngles": "Seabirds nest on the cliff face.",
+        "frasePortugues": "Aves marinhas fazem ninhos na face do penhasco.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 100,
+        "ingles": "Cave",
+        "portugues": "Caverna",
+        "fraseIngles": "Bats sleep in the dark cave.",
+        "frasePortugues": "Morcegos dormem na caverna escura.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 101,
+        "ingles": "Tunnel",
+        "portugues": "Túnel",
+        "fraseIngles": "The tunnel goes through the mountain.",
+        "frasePortugues": "O túnel passa pela montanha.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 102,
+        "ingles": "Crevice",
+        "portugues": "Fenda",
+        "fraseIngles": "A small crevice splits the rock.",
+        "frasePortugues": "Uma pequena fenda divide a rocha.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 103,
+        "ingles": "Crater",
+        "portugues": "Cratera",
+        "fraseIngles": "The volcano has a deep crater.",
+        "frasePortugues": "O vulcão tem uma cratera profunda.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 104,
+        "ingles": "Volcano",
+        "portugues": "Vulcão",
+        "fraseIngles": "The active volcano threatens nearby towns.",
+        "frasePortugues": "O vulcão ativo ameaça cidades próximas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 105,
+        "ingles": "Lava",
+        "portugues": "Lava",
+        "fraseIngles": "Hot lava flows down the mountainside.",
+        "frasePortugues": "Lava quente flui pela encosta.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 106,
+        "ingles": "Magma",
+        "portugues": "Magma",
+        "fraseIngles": "Magma moves beneath Earth's surface.",
+        "frasePortugues": "Magma se move sob a superfície da Terra.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 107,
+        "ingles": "Geyser",
+        "portugues": "Gêiser",
+        "fraseIngles": "The geyser shoots water skyward.",
+        "frasePortugues": "O gêiser dispara água para o céu.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 108,
+        "ingles": "Hot spring",
+        "portugues": "Fonte termal",
+        "fraseIngles": "Hot springs provide natural warmth.",
+        "frasePortugues": "Fontes termais fornecem calor natural.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 109,
+        "ingles": "Glacier",
+        "portugues": "Geleira",
+        "fraseIngles": "The ancient glacier moves slowly.",
+        "frasePortugues": "A geleira antiga se move lentamente.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 110,
+        "ingles": "Iceberg",
+        "portugues": "Iceberg",
+        "fraseIngles": "Most of the iceberg hides underwater.",
+        "frasePortugues": "A maior parte do iceberg fica submersa.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 111,
+        "ingles": "Desert",
+        "portugues": "Deserto",
+        "fraseIngles": "Cacti thrive in the hot desert.",
+        "frasePortugues": "Cactos prosperam no deserto quente.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 112,
+        "ingles": "Oasis",
+        "portugues": "Oásis",
+        "fraseIngles": "The oasis provides life in desert.",
+        "frasePortugues": "O oásis fornece vida no deserto.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 113,
+        "ingles": "Dune",
+        "portugues": "Duna",
+        "fraseIngles": "Wind shapes the sand dunes.",
+        "frasePortugues": "O vento molda as dunas de areia.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 114,
+        "ingles": "Plain",
+        "portugues": "Planície",
+        "fraseIngles": "Vast plains stretch to horizon.",
+        "frasePortugues": "Vastas planícies se estendem até o horizonte.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 115,
+        "ingles": "Prairie",
+        "portugues": "Pradaria",
+        "fraseIngles": "Buffalo once roamed the prairie.",
+        "frasePortugues": "Búfalos uma vez vagaram pela pradaria.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 116,
+        "ingles": "Grassland",
+        "portugues": "Campo",
+        "fraseIngles": "Grasslands support grazing animals.",
+        "frasePortugues": "Campos sustentam animais pastores.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 117,
+        "ingles": "Meadow",
+        "portugues": "Prado",
+        "fraseIngles": "Wildflowers bloom in the meadow.",
+        "frasePortugues": "Flores silvestres florescem no prado.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 118,
+        "ingles": "Field",
+        "portugues": "Campo",
+        "fraseIngles": "Farmers plant crops in fields.",
+        "frasePortugues": "Fazendeiros plantam safras nos campos.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 119,
+        "ingles": "Forest",
+        "portugues": "Floresta",
+        "fraseIngles": "Ancient trees fill the forest.",
+        "frasePortugues": "Árvores antigas enchem a floresta.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 120,
+        "ingles": "Woods",
+        "portugues": "Bosque",
+        "fraseIngles": "Children explore the dark woods.",
+        "frasePortugues": "Crianças exploram o bosque escuro.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 121,
+        "ingles": "Grove",
+        "portugues": "Bosquete",
+        "fraseIngles": "Orange trees grow in the grove.",
+        "frasePortugues": "Laranjeiras crescem no bosquete.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 122,
+        "ingles": "Jungle",
+        "portugues": "Selva",
+        "fraseIngles": "Exotic animals live in jungle.",
+        "frasePortugues": "Animais exóticos vivem na selva.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 123,
+        "ingles": "Rainforest",
+        "portugues": "Floresta tropical",
+        "fraseIngles": "Rainforests produce much oxygen.",
+        "frasePortugues": "Florestas tropicais produzem muito oxigênio.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 124,
+        "ingles": "Tundra",
+        "portugues": "Tundra",
+        "fraseIngles": "Frozen tundra covers Arctic regions.",
+        "frasePortugues": "Tundra congelada cobre regiões árticas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 125,
+        "ingles": "Swamp",
+        "portugues": "Pântano",
+        "fraseIngles": "Alligators lurk in the swamp.",
+        "frasePortugues": "Jacarés se escondem no pântano.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 126,
+        "ingles": "Marsh",
+        "portugues": "Brejo",
+        "fraseIngles": "Water birds nest in marshes.",
+        "frasePortugues": "Aves aquáticas fazem ninhos em brejos.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 127,
+        "ingles": "Wetland",
+        "portugues": "Zona úmida",
+        "fraseIngles": "Wetlands filter water naturally.",
+        "frasePortugues": "Zonas úmidas filtram água naturalmente.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 128,
+        "ingles": "Bog",
+        "portugues": "Turfeira",
+        "fraseIngles": "Cranberries grow in bogs.",
+        "frasePortugues": "Cranberries crescem em turfeiras.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 129,
+        "ingles": "Quicksand",
+        "portugues": "Areia movediça",
+        "fraseIngles": "Quicksand traps unwary travelers.",
+        "frasePortugues": "Areia movediça aprisiona viajantes desatentos.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 130,
+        "ingles": "Soil",
+        "portugues": "Solo",
+        "fraseIngles": "Rich soil grows healthy plants.",
+        "frasePortugues": "Solo rico cultiva plantas saudáveis.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 131,
+        "ingles": "Topsoil",
+        "portugues": "Solo superficial",
+        "fraseIngles": "Topsoil contains most nutrients.",
+        "frasePortugues": "Solo superficial contém a maioria dos nutrientes.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 132,
+        "ingles": "Subsoil",
+        "portugues": "Subsolo",
+        "fraseIngles": "Tree roots reach deep subsoil.",
+        "frasePortugues": "Raízes de árvores alcançam o subsolo profundo.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 133,
+        "ingles": "Bedrock",
+        "portugues": "Rocha-mãe",
+        "fraseIngles": "Bedrock lies beneath all soil.",
+        "frasePortugues": "Rocha-mãe fica sob todo solo.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 134,
+        "ingles": "Sediment",
+        "portugues": "Sedimento",
+        "fraseIngles": "Rivers deposit sediment downstream.",
+        "frasePortugues": "Rios depositam sedimento rio abaixo.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 135,
+        "ingles": "Erosion",
+        "portugues": "Erosão",
+        "fraseIngles": "Wind erosion shapes landscapes.",
+        "frasePortugues": "Erosão eólica molda paisagens.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 136,
+        "ingles": "Weathering",
+        "portugues": "Intemperismo",
+        "fraseIngles": "Weathering breaks down rocks.",
+        "frasePortugues": "Intemperismo desgasta rochas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 137,
+        "ingles": "Landslide",
+        "portugues": "Deslizamento de terra",
+        "fraseIngles": "Heavy rain triggered the landslide.",
+        "frasePortugues": "Chuva pesada provocou o deslizamento de terra.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 138,
+        "ingles": "Earthquake",
+        "portugues": "Terremoto",
+        "fraseIngles": "The earthquake shook buildings.",
+        "frasePortugues": "O terremoto balançou prédios.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 139,
+        "ingles": "Fault line",
+        "portugues": "Falha geológica",
+        "fraseIngles": "California sits on fault lines.",
+        "frasePortugues": "Califórnia fica sobre falhas geológicas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 140,
+        "ingles": "Plate tectonics",
+        "portugues": "Tectônica de placas",
+        "fraseIngles": "Plate tectonics explains continental drift.",
+        "frasePortugues": "Tectônica de placas explica deriva continental.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 141,
+        "ingles": "Crust",
+        "portugues": "Crosta",
+        "fraseIngles": "Earth's crust is relatively thin.",
+        "frasePortugues": "A crosta terrestre é relativamente fina.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 142,
+        "ingles": "Mantle",
+        "portugues": "Manto",
+        "fraseIngles": "Hot rock forms Earth's mantle.",
+        "frasePortugues": "Rocha quente forma o manto terrestre.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 143,
+        "ingles": "Core",
+        "portugues": "Núcleo",
+        "fraseIngles": "Earth's core contains iron.",
+        "frasePortugues": "O núcleo terrestre contém ferro.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 144,
+        "ingles": "Atmosphere",
+        "portugues": "Atmosfera",
+        "fraseIngles": "The atmosphere protects Earth.",
+        "frasePortugues": "A atmosfera protege a Terra.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 145,
+        "ingles": "Ozone",
+        "portugues": "Ozônio",
+        "fraseIngles": "Ozone blocks harmful radiation.",
+        "frasePortugues": "Ozônio bloqueia radiação prejudicial.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 146,
+        "ingles": "Gravity",
+        "portugues": "Gravidade",
+        "fraseIngles": "Gravity keeps us on Earth.",
+        "frasePortugues": "A gravidade nos mantém na Terra.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 147,
+        "ingles": "Magnetism",
+        "portugues": "Magnetismo",
+        "fraseIngles": "Earth's magnetism deflects solar wind.",
+        "frasePortugues": "O magnetismo terrestre desvia o vento solar.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 148,
+        "ingles": "Aurora",
+        "portugues": "Aurora",
+        "fraseIngles": "Colorful auroras dance in polar skies.",
+        "frasePortugues": "Auroras coloridas dançam em céus polares.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 149,
+        "ingles": "Comet",
+        "portugues": "Cometa",
+        "fraseIngles": "The bright comet has a long tail.",
+        "frasePortugues": "O cometa brilhante tem uma cauda longa.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 150,
+        "ingles": "Meteor",
+        "portugues": "Meteoro",
+        "fraseIngles": "A meteor streaked across the sky.",
+        "frasePortugues": "Um meteoro riscou o céu.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 151,
+        "ingles": "Asteroid",
+        "portugues": "Asteroide",
+        "fraseIngles": "Asteroids orbit between Mars and Jupiter.",
+        "frasePortugues": "Asteroides orbitam entre Marte e Júpiter.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 152,
+        "ingles": "Eclipse",
+        "portugues": "Eclipse",
+        "fraseIngles": "The solar eclipse darkened the day.",
+        "frasePortugues": "O eclipse solar escureceu o dia.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 153,
+        "ingles": "Tide pool",
+        "portugues": "Poça de maré",
+        "fraseIngles": "Sea creatures live in tide pools.",
+        "frasePortugues": "Criaturas marinhas vivem em poças de maré.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 154,
+        "ingles": "Coral reef",
+        "portugues": "Recife de coral",
+        "fraseIngles": "Colorful fish inhabit coral reefs.",
+        "frasePortugues": "Peixes coloridos habitam recifes de coral.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 155,
+        "ingles": "Kelp forest",
+        "portugues": "Floresta de algas",
+        "fraseIngles": "Giant kelp creates underwater forests.",
+        "frasePortugues": "Algas gigantes criam florestas submarinas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 156,
+        "ingles": "Thermal vent",
+        "portugues": "Fonte termal submarina",
+        "fraseIngles": "Life thrives near thermal vents.",
+        "frasePortugues": "Vida prospera perto de fontes termais submarinas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 157,
+        "ingles": "Continental shelf",
+        "portugues": "Plataforma continental",
+        "fraseIngles": "Fish spawn on continental shelves.",
+        "frasePortugues": "Peixes desovam em plataformas continentais.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 158,
+        "ingles": "Trench",
+        "portugues": "Fossa oceânica",
+        "fraseIngles": "Ocean trenches are Earth's deepest places.",
+        "frasePortugues": "Fossas oceânicas são os lugares mais profundos da Terra.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 159,
+        "ingles": "Archipelago",
+        "portugues": "Arquipélago",
+        "fraseIngles": "The archipelago contains many islands.",
+        "frasePortugues": "O arquipélago contém muitas ilhas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 160,
+        "ingles": "Peninsula",
+        "portugues": "Península",
+        "fraseIngles": "The peninsula juts into the sea.",
+        "frasePortugues": "A península se projeta no mar.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 161,
+        "ingles": "Island",
+        "portugues": "Ilha",
+        "fraseIngles": "Palm trees grow on tropical islands.",
+        "frasePortugues": "Palmeiras crescem em ilhas tropicais.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 162,
+        "ingles": "Atoll",
+        "portugues": "Atol",
+        "fraseIngles": "Coral atolls form circular reefs.",
+        "frasePortugues": "Atóis de coral formam recifes circulares.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 163,
+        "ingles": "Bay",
+        "portugues": "Baía",
+        "fraseIngles": "Ships anchor safely in the bay.",
+        "frasePortugues": "Navios ancoram com segurança na baía.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 164,
+        "ingles": "Gulf",
+        "portugues": "Golfo",
+        "fraseIngles": "The warm gulf supports marine life.",
+        "frasePortugues": "O golfo morno sustenta vida marinha.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 165,
+        "ingles": "Strait",
+        "portugues": "Estreito",
+        "fraseIngles": "Ships navigate through the narrow strait.",
+        "frasePortugues": "Navios navegam pelo estreito.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 166,
+        "ingles": "Channel",
+        "portugues": "Canal",
+        "fraseIngles": "The English Channel separates countries.",
+        "frasePortugues": "O Canal da Mancha separa países.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 167,
+        "ingles": "Sound",
+        "portugues": "Estreito",
+        "fraseIngles": "Whales migrate through the sound.",
+        "frasePortugues": "Baleias migram pelo estreito.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 168,
+        "ingles": "Fjord",
+        "portugues": "Fiorde",
+        "fraseIngles": "Steep cliffs border the deep fjord.",
+        "frasePortugues": "Penhascos íngremes margeiam o fiorde profundo.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 169,
+        "ingles": "Delta",
+        "portugues": "Delta",
+        "fraseIngles": "Rivers form deltas at their mouths.",
+        "frasePortugues": "Rios formam deltas em suas fozes.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 170,
+        "ingles": "Estuary",
+        "portugues": "Estuário",
+        "fraseIngles": "Fresh and salt water mix in estuaries.",
+        "frasePortugues": "Água doce e salgada se misturam em estuários.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 171,
+        "ingles": "Lighthouse",
+        "portugues": "Farol",
+        "fraseIngles": "The lighthouse guides ships safely.",
+        "frasePortugues": "O farol guia navios com segurança.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 172,
+        "ingles": "Horizon",
+        "portugues": "Horizonte",
+        "fraseIngles": "Ships disappear beyond the horizon.",
+        "frasePortugues": "Navios desaparecem além do horizonte.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 173,
+        "ingles": "Compass",
+        "portugues": "Bússola",
+        "fraseIngles": "A compass points to magnetic north.",
+        "frasePortugues": "Uma bússola aponta para o norte magnético.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 174,
+        "ingles": "North",
+        "portugues": "Norte",
+        "fraseIngles": "Migrating birds fly north in spring.",
+        "frasePortugues": "Aves migratórias voam para o norte na primavera.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 175,
+        "ingles": "South",
+        "portugues": "Sul",
+        "fraseIngles": "Penguins live in the frozen south.",
+        "frasePortugues": "Pinguins vivem no sul congelado.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 176,
+        "ingles": "East",
+        "portugues": "Leste",
+        "fraseIngles": "The sun rises in the east.",
+        "frasePortugues": "O sol nasce no leste.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 177,
+        "ingles": "West",
+        "portugues": "Oeste",
+        "fraseIngles": "Cowboys rode into the western sunset.",
+        "frasePortugues": "Cowboys cavalgaram para o pôr do sol do oeste.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 178,
+        "ingles": "Northeast",
+        "portugues": "Nordeste",
+        "fraseIngles": "Storm winds blow from the northeast.",
+        "frasePortugues": "Ventos de tempestade sopram do nordeste.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 179,
+        "ingles": "Southeast",
+        "portugues": "Sudeste",
+        "fraseIngles": "Hurricanes often form in the southeast.",
+        "frasePortugues": "Furacões frequentemente se formam no sudeste.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 180,
+        "ingles": "Northwest",
+        "portugues": "Noroeste",
+        "fraseIngles": "Salmon swim to northwest streams.",
+        "frasePortugues": "Salmões nadam para riachos do noroeste.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 181,
+        "ingles": "Southwest",
+        "portugues": "Sudoeste",
+        "fraseIngles": "Desert landscapes dominate the southwest.",
+        "frasePortugues": "Paisagens desérticas dominam o sudoeste.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 182,
+        "ingles": "Latitude",
+        "portugues": "Latitude",
+        "fraseIngles": "Latitude lines circle Earth horizontally.",
+        "frasePortugues": "Linhas de latitude circulam a Terra horizontalmente.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 183,
+        "ingles": "Longitude",
+        "portugues": "Longitude",
+        "fraseIngles": "Longitude lines run north to south.",
+        "frasePortugues": "Linhas de longitude vão de norte a sul.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 184,
+        "ingles": "Equator",
+        "portugues": "Equador",
+        "fraseIngles": "The equator divides Earth in half.",
+        "frasePortugues": "O equador divide a Terra ao meio.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 185,
+        "ingles": "Tropic of Cancer",
+        "portugues": "Trópico de Câncer",
+        "fraseIngles": "The Tropic of Cancer marks hot regions.",
+        "frasePortugues": "O Trópico de Câncer marca regiões quentes.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 186,
+        "ingles": "Tropic of Capricorn",
+        "portugues": "Trópico de Capricórnio",
+        "fraseIngles": "Summer comes south of Capricorn.",
+        "frasePortugues": "O verão vem ao sul de Capricórnio.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 187,
+        "ingles": "Prime meridian",
+        "portugues": "Meridiano principal",
+        "fraseIngles": "The prime meridian passes through Greenwich.",
+        "frasePortugues": "O meridiano principal passa por Greenwich.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 188,
+        "ingles": "Time zone",
+        "portugues": "Fuso horário",
+        "fraseIngles": "Each time zone differs by one hour.",
+        "frasePortugues": "Cada fuso horário difere por uma hora.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 189,
+        "ingles": "Hemisphere",
+        "portugues": "Hemisfério",
+        "fraseIngles": "Each hemisphere has opposite seasons.",
+        "frasePortugues": "Cada hemisfério tem estações opostas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 190,
+        "ingles": "Pole",
+        "portugues": "Polo",
+        "fraseIngles": "Both poles experience extreme cold.",
+        "frasePortugues": "Ambos os polos experimentam frio extremo.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 191,
+        "ingles": "Arctic Circle",
+        "portugues": "Círculo Ártico",
+        "fraseIngles": "The Arctic Circle marks polar regions.",
+        "frasePortugues": "O Círculo Ártico marca regiões polares.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 192,
+        "ingles": "Antarctic Circle",
+        "portugues": "Círculo Antártico",
+        "fraseIngles": "The Antarctic Circle surrounds Antarctica.",
+        "frasePortugues": "O Círculo Antártico circunda a Antártica.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 193,
+        "ingles": "Natural resource",
+        "portugues": "Recurso natural",
+        "fraseIngles": "Oil is a valuable natural resource.",
+        "frasePortugues": "Petróleo é um recurso natural valioso.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 194,
+        "ingles": "Renewable",
+        "portugues": "Renovável",
+        "fraseIngles": "Solar power is a renewable resource.",
+        "frasePortugues": "Energia solar é um recurso renovável.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 195,
+        "ingles": "Non-renewable",
+        "portugues": "Não renovável",
+        "fraseIngles": "Coal is a non-renewable resource.",
+        "frasePortugues": "Carvão é um recurso não renovável.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 196,
+        "ingles": "Conservation",
+        "portugues": "Conservação",
+        "fraseIngles": "Conservation protects natural resources.",
+        "frasePortugues": "Conservação protege recursos naturais.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 197,
+        "ingles": "Sustainability",
+        "portugues": "Sustentabilidade",
+        "fraseIngles": "Sustainability ensures future resources.",
+        "frasePortugues": "Sustentabilidade garante recursos futuros.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 198,
+        "ingles": "Recycling",
+        "portugues": "Reciclagem",
+        "fraseIngles": "Recycling reduces waste production.",
+        "frasePortugues": "Reciclagem reduz a produção de resíduos.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 199,
+        "ingles": "Pollution",
+        "portugues": "Poluição",
+        "fraseIngles": "Pollution damages natural environments.",
+        "frasePortugues": "Poluição danifica ambientes naturais.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 200,
+        "ingles": "Contamination",
+        "portugues": "Contaminação",
+        "fraseIngles": "Chemical contamination poisons water.",
+        "frasePortugues": "Contaminação química envenena água.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 201,
+        "ingles": "Purification",
+        "portugues": "Purificação",
+        "fraseIngles": "Water purification removes harmful substances.",
+        "frasePortugues": "Purificação de água remove substâncias prejudiciais.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 202,
+        "ingles": "Filter",
+        "portugues": "Filtrar",
+        "fraseIngles": "Charcoal filters clean drinking water.",
+        "frasePortugues": "Filtros de carvão limpam água potável.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 203,
+        "ingles": "Distillation",
+        "portugues": "Destilação",
+        "fraseIngles": "Distillation separates pure water.",
+        "frasePortugues": "Destilação separa água pura.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 204,
+        "ingles": "Evaporation",
+        "portugues": "Evaporação",
+        "fraseIngles": "Heat causes water evaporation.",
+        "frasePortugues": "Calor causa evaporação da água.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 205,
+        "ingles": "Condensation",
+        "portugues": "Condensação",
+        "fraseIngles": "Cooling causes water condensation.",
+        "frasePortugues": "Resfriamento causa condensação da água.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 206,
+        "ingles": "Precipitation",
+        "portugues": "Precipitação",
+        "fraseIngles": "Precipitation returns water to Earth.",
+        "frasePortugues": "Precipitação retorna água à Terra.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 207,
+        "ingles": "Cycle",
+        "portugues": "Ciclo",
+        "fraseIngles": "The water cycle recycles Earth's water.",
+        "frasePortugues": "O ciclo da água recicla a água da Terra.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 208,
+        "ingles": "Balance",
+        "portugues": "Equilíbrio",
+        "fraseIngles": "Nature maintains delicate balance.",
+        "frasePortugues": "A natureza mantém equilíbrio delicado.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 209,
+        "ingles": "Harmony",
+        "portugues": "Harmonia",
+        "fraseIngles": "All elements exist in natural harmony.",
+        "frasePortugues": "Todos os elementos existem em harmonia natural.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 210,
+        "ingles": "Ecosystem",
+        "portugues": "Ecossistema",
+        "fraseIngles": "Every ecosystem depends on natural elements.",
+        "frasePortugues": "Todo ecossistema depende de elementos naturais.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 211,
+        "ingles": "Environment",
+        "portugues": "Ambiente",
+        "fraseIngles": "Clean environments support healthy life.",
+        "frasePortugues": "Ambientes limpos sustentam vida saudável.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 212,
+        "ingles": "Habitat",
+        "portugues": "Habitat",
+        "fraseIngles": "Animals need suitable habitats.",
+        "frasePortugues": "Animais precisam de habitats adequados.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 213,
+        "ingles": "Biodiversity",
+        "portugues": "Biodiversidade",
+        "fraseIngles": "Biodiversity strengthens natural systems.",
+        "frasePortugues": "Biodiversidade fortalece sistemas naturais.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 214,
+        "ingles": "Evolution",
+        "portugues": "Evolução",
+        "fraseIngles": "Evolution adapts life to environments.",
+        "frasePortugues": "Evolução adapta vida aos ambientes.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 215,
+        "ingles": "Adaptation",
+        "portugues": "Adaptação",
+        "fraseIngles": "Adaptation helps species survive.",
+        "frasePortugues": "Adaptação ajuda espécies a sobreviver.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 216,
+        "ingles": "Extinction",
+        "portugues": "Extinção",
+        "fraseIngles": "Pollution causes species extinction.",
+        "frasePortugues": "Poluição causa extinção de espécies.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 217,
+        "ingles": "Preservation",
+        "portugues": "Preservação",
+        "fraseIngles": "Preservation saves natural wonders.",
+        "frasePortugues": "Preservação salva maravilhas naturais.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 218,
+        "ingles": "Wilderness",
+        "portugues": "Natureza selvagem",
+        "fraseIngles": "Wilderness areas remain untouched.",
+        "frasePortugues": "Áreas de natureza selvagem permanecem intocadas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 219,
+        "ingles": "Pristine",
+        "portugues": "Intocado",
+        "fraseIngles": "Pristine nature inspires wonder.",
+        "frasePortugues": "Natureza intocada inspira admiração.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 220,
+        "ingles": "Untamed",
+        "portugues": "Indomado",
+        "fraseIngles": "Untamed forces shape our planet.",
+        "frasePortugues": "Forças indomadas moldam nosso planeta.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 221,
+        "ingles": "Raw",
+        "portugues": "Bruto",
+        "fraseIngles": "Raw nature displays incredible power.",
+        "frasePortugues": "Natureza bruta exibe poder incrível.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 222,
+        "ingles": "Pure",
+        "portugues": "Puro",
+        "fraseIngles": "Pure mountain air refreshes lungs.",
+        "frasePortugues": "Ar puro da montanha refresca os pulmões.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 223,
+        "ingles": "Natural",
+        "portugues": "Natural",
+        "fraseIngles": "Natural processes create beautiful landscapes.",
+        "frasePortugues": "Processos naturais criam paisagens belas.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 224,
+        "ingles": "Organic",
+        "portugues": "Orgânico",
+        "fraseIngles": "Organic matter enriches soil.",
+        "frasePortugues": "Matéria orgânica enriquece o solo.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    },
+    {
+        "id": 225,
+        "ingles": "Elemental",
+        "portugues": "Elemental",
+        "fraseIngles": "Elemental forces shaped Earth's surface.",
+        "frasePortugues": "Forças elementais moldaram a superfície da Terra.",
+        "subtopico": "Elementos da natureza",
+        "topico": "Natureza"
+    }
+]

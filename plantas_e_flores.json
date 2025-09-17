@@ -1,0 +1,2414 @@
+[
+    {
+        "id": 1,
+        "ingles": "Rose",
+        "portugues": "Rosa",
+        "fraseIngles": "The red rose smells wonderful.",
+        "frasePortugues": "A rosa vermelha cheira maravilhosamente.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 2,
+        "ingles": "Sunflower",
+        "portugues": "Girassol",
+        "fraseIngles": "The sunflower follows the sun.",
+        "frasePortugues": "O girassol segue o sol.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 3,
+        "ingles": "Tulip",
+        "portugues": "Tulipa",
+        "fraseIngles": "Colorful tulips bloom in spring.",
+        "frasePortugues": "Tulipas coloridas florescem na primavera.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 4,
+        "ingles": "Daisy",
+        "portugues": "Margarida",
+        "fraseIngles": "The white daisy has yellow center.",
+        "frasePortugues": "A margarida branca tem centro amarelo.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 5,
+        "ingles": "Lily",
+        "portugues": "Lírio",
+        "fraseIngles": "The lily has large petals.",
+        "frasePortugues": "O lírio tem pétalas grandes.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 6,
+        "ingles": "Daffodil",
+        "portugues": "Narciso",
+        "fraseIngles": "Daffodils announce spring's arrival.",
+        "frasePortugues": "Os narcisos anunciam a chegada da primavera.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 7,
+        "ingles": "Carnation",
+        "portugues": "Cravo",
+        "fraseIngles": "The pink carnation is fragrant.",
+        "frasePortugues": "O cravo rosa é perfumado.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 8,
+        "ingles": "Orchid",
+        "portugues": "Orquídea",
+        "fraseIngles": "The orchid is an exotic flower.",
+        "frasePortugues": "A orquídea é uma flor exótica.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 9,
+        "ingles": "Iris",
+        "portugues": "Íris",
+        "fraseIngles": "The purple iris grows near water.",
+        "frasePortugues": "A íris roxa cresce perto da água.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 10,
+        "ingles": "Peony",
+        "portugues": "Peônia",
+        "fraseIngles": "The peony has full blooms.",
+        "frasePortugues": "A peônia tem flores abundantes.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 11,
+        "ingles": "Hibiscus",
+        "portugues": "Hibisco",
+        "fraseIngles": "The hibiscus blooms in tropical areas.",
+        "frasePortugues": "O hibisco floresce em áreas tropicais.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 12,
+        "ingles": "Jasmine",
+        "portugues": "Jasmim",
+        "fraseIngles": "Jasmine flowers smell sweet at night.",
+        "frasePortugues": "As flores de jasmim cheiram doce à noite.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 13,
+        "ingles": "Magnolia",
+        "portugues": "Magnólia",
+        "fraseIngles": "The magnolia tree has large flowers.",
+        "frasePortugues": "A árvore de magnólia tem flores grandes.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 14,
+        "ingles": "Azalea",
+        "portugues": "Azaleia",
+        "fraseIngles": "Azaleas bloom in many colors.",
+        "frasePortugues": "As azaleias florescem em muitas cores.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 15,
+        "ingles": "Rhododendron",
+        "portugues": "Rododendro",
+        "fraseIngles": "The rhododendron prefers acidic soil.",
+        "frasePortugues": "O rododendro prefere solo ácido.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 16,
+        "ingles": "Camellia",
+        "portugues": "Camélia",
+        "fraseIngles": "The camellia blooms in winter.",
+        "frasePortugues": "A camélia floresce no inverno.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 17,
+        "ingles": "Gardenia",
+        "portugues": "Gardênia",
+        "fraseIngles": "The gardenia has a strong fragrance.",
+        "frasePortugues": "A gardênia tem uma fragrância forte.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 18,
+        "ingles": "Chrysanthemum",
+        "portugues": "Crisântemo",
+        "fraseIngles": "Chrysanthemums bloom in autumn.",
+        "frasePortugues": "Os crisântemos florescem no outono.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 19,
+        "ingles": "Geranium",
+        "portugues": "Gerânio",
+        "fraseIngles": "Red geraniums decorate the balcony.",
+        "frasePortugues": "Gerânios vermelhos decoram a varanda.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 20,
+        "ingles": "Pansy",
+        "portugues": "Amor-perfeito",
+        "fraseIngles": "Pansies have face-like markings.",
+        "frasePortugues": "Os amores-perfeitos têm marcas como rostos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 21,
+        "ingles": "Violet",
+        "portugues": "Violeta",
+        "fraseIngles": "Small violets grow in shade.",
+        "frasePortugues": "Pequenas violetas crescem na sombra.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 22,
+        "ingles": "Marigold",
+        "portugues": "Calêndula",
+        "fraseIngles": "Orange marigolds repel insects.",
+        "frasePortugues": "Calêndulas laranja repelem insetos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 23,
+        "ingles": "Zinnia",
+        "portugues": "Zínia",
+        "fraseIngles": "Zinnias attract butterflies.",
+        "frasePortugues": "As zínias atraem borboletas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 24,
+        "ingles": "Petunia",
+        "portugues": "Petúnia",
+        "fraseIngles": "Petunias cascade from hanging baskets.",
+        "frasePortugues": "As petúnias caem de cestas suspensas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 25,
+        "ingles": "Begonia",
+        "portugues": "Begônia",
+        "fraseIngles": "Begonias thrive in partial shade.",
+        "frasePortugues": "As begônias prosperam na sombra parcial.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 26,
+        "ingles": "Impatiens",
+        "portugues": "Impaciência",
+        "fraseIngles": "Impatiens bloom all summer long.",
+        "frasePortugues": "As impaciências florescem todo o verão.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 27,
+        "ingles": "Snapdragon",
+        "portugues": "Boca-de-leão",
+        "fraseIngles": "Children squeeze snapdragon flowers.",
+        "frasePortugues": "As crianças apertam flores de boca-de-leão.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 28,
+        "ingles": "Hollyhock",
+        "portugues": "Malva-rosa",
+        "fraseIngles": "Tall hollyhocks line the fence.",
+        "frasePortugues": "Malvas-rosas altas alinham a cerca.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 29,
+        "ingles": "Foxglove",
+        "portugues": "Dedaleira",
+        "fraseIngles": "Foxgloves are beautiful but poisonous.",
+        "frasePortugues": "As dedaleiras são belas mas venenosas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 30,
+        "ingles": "Lavender",
+        "portugues": "Lavanda",
+        "fraseIngles": "Lavender has a calming scent.",
+        "frasePortugues": "A lavanda tem um aroma calmante.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 31,
+        "ingles": "Poppy",
+        "portugues": "Papoula",
+        "fraseIngles": "Red poppies grow in fields.",
+        "frasePortugues": "Papoulas vermelhas crescem em campos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 32,
+        "ingles": "Cosmos",
+        "portugues": "Cosmos",
+        "fraseIngles": "Pink cosmos sway in breeze.",
+        "frasePortugues": "Cosmos rosas balançam na brisa.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 33,
+        "ingles": "Sweet pea",
+        "portugues": "Ervilha-de-cheiro",
+        "fraseIngles": "Sweet peas climb garden trellises.",
+        "frasePortugues": "Ervilhas-de-cheiro sobem treliças de jardim.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 34,
+        "ingles": "Morning glory",
+        "portugues": "Glória-da-manhã",
+        "fraseIngles": "Morning glories open at sunrise.",
+        "frasePortugues": "As glórias-da-manhã abrem ao nascer do sol.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 35,
+        "ingles": "Nasturtium",
+        "portugues": "Capuchinha",
+        "fraseIngles": "Nasturtiums have edible flowers.",
+        "frasePortugues": "As capuchinhas têm flores comestíveis.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 36,
+        "ingles": "Bachelor button",
+        "portugues": "Centáurea",
+        "fraseIngles": "Blue bachelor buttons attract bees.",
+        "frasePortugues": "Centáureas azuis atraem abelhas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 37,
+        "ingles": "Black-eyed Susan",
+        "portugues": "Rudbéquia",
+        "fraseIngles": "Black-eyed Susans bloom in summer.",
+        "frasePortugues": "Rudbéquias florescem no verão.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 38,
+        "ingles": "Coneflower",
+        "portugues": "Equinácea",
+        "fraseIngles": "Purple coneflowers have medicinal uses.",
+        "frasePortugues": "Equináceas roxas têm usos medicinais.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 39,
+        "ingles": "Blanket flower",
+        "portugues": "Gailárdia",
+        "fraseIngles": "Blanket flowers bloom all season.",
+        "frasePortugues": "Gailárdias florescem toda a estação.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 40,
+        "ingles": "Bee balm",
+        "portugues": "Monarda",
+        "fraseIngles": "Bee balm attracts hummingbirds.",
+        "frasePortugues": "A monarda atrai beija-flores.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 41,
+        "ingles": "Salvia",
+        "portugues": "Sálvia",
+        "fraseIngles": "Red salvia spikes attract butterflies.",
+        "frasePortugues": "Espigas de sálvia vermelha atraem borboletas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 42,
+        "ingles": "Verbena",
+        "portugues": "Verbena",
+        "fraseIngles": "Purple verbena spreads quickly.",
+        "frasePortugues": "A verbena roxa se espalha rapidamente.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 43,
+        "ingles": "Aster",
+        "portugues": "Áster",
+        "fraseIngles": "Fall asters bloom in purple.",
+        "frasePortugues": "Ásteres de outono florescem em roxo.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 44,
+        "ingles": "Dahlia",
+        "portugues": "Dália",
+        "fraseIngles": "Dahlias have complex flower forms.",
+        "frasePortugues": "As dálias têm formas florais complexas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 45,
+        "ingles": "Gladiolus",
+        "portugues": "Gladíolo",
+        "fraseIngles": "Tall gladiolus spikes need staking.",
+        "frasePortugues": "Espigas altas de gladíolo precisam de estacas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 46,
+        "ingles": "Lily of the valley",
+        "portugues": "Lírio-do-vale",
+        "fraseIngles": "Lily of the valley is very fragrant.",
+        "frasePortugues": "O lírio-do-vale é muito perfumado.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 47,
+        "ingles": "Forget-me-not",
+        "portugues": "Miosótis",
+        "fraseIngles": "Blue forget-me-nots symbolize remembrance.",
+        "frasePortugues": "Miosótis azuis simbolizam lembrança.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 48,
+        "ingles": "Bleeding heart",
+        "portugues": "Coração-sangrento",
+        "fraseIngles": "Bleeding hearts have heart-shaped flowers.",
+        "frasePortugues": "Corações-sangrentos têm flores em forma de coração.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 49,
+        "ingles": "Columbine",
+        "portugues": "Aquilégia",
+        "fraseIngles": "Columbines have unique spurred petals.",
+        "frasePortugues": "As aquilégias têm pétalas únicas com esporas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 50,
+        "ingles": "Delphinium",
+        "portugues": "Esporinha",
+        "fraseIngles": "Blue delphiniums tower in gardens.",
+        "frasePortugues": "Esporinhas azuis se elevam nos jardins.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 51,
+        "ingles": "Larkspur",
+        "portugues": "Consolida",
+        "fraseIngles": "Annual larkspur self-seeds easily.",
+        "frasePortugues": "A consolida anual se ressemeia facilmente.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 52,
+        "ingles": "Lupine",
+        "portugues": "Tremoço",
+        "fraseIngles": "Lupines fix nitrogen in soil.",
+        "frasePortugues": "Os tremoços fixam nitrogênio no solo.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 53,
+        "ingles": "Wisteria",
+        "portugues": "Glicínia",
+        "fraseIngles": "Purple wisteria drapes over arbors.",
+        "frasePortugues": "A glicínia roxa se estende sobre caramanchões.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 54,
+        "ingles": "Apple",
+        "portugues": "Macieira",
+        "fraseIngles": "The apple tree blooms in spring.",
+        "frasePortugues": "A macieira floresce na primavera.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 55,
+        "ingles": "Orange",
+        "portugues": "Laranjeira",
+        "fraseIngles": "Orange trees grow in warm climates.",
+        "frasePortugues": "Laranjeiras crescem em climas quentes.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 56,
+        "ingles": "Lemon",
+        "portugues": "Limoeiro",
+        "fraseIngles": "The lemon tree has fragrant blossoms.",
+        "frasePortugues": "O limoeiro tem flores perfumadas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 57,
+        "ingles": "Cherry",
+        "portugues": "Cerejeira",
+        "fraseIngles": "Cherry trees have beautiful pink flowers.",
+        "frasePortugues": "Cerejeiras têm belas flores rosadas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 58,
+        "ingles": "Peach",
+        "portugues": "Pessegueiro",
+        "fraseIngles": "Peach blossoms appear before leaves.",
+        "frasePortugues": "As flores do pessegueiro aparecem antes das folhas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 59,
+        "ingles": "Pear",
+        "portugues": "Pereira",
+        "fraseIngles": "White pear blossoms cover the tree.",
+        "frasePortugues": "Flores brancas de pereira cobrem a árvore.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 60,
+        "ingles": "Plum",
+        "portugues": "Ameixeira",
+        "fraseIngles": "Plum trees bloom early in spring.",
+        "frasePortugues": "Ameixeiras florescem cedo na primavera.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 61,
+        "ingles": "Apricot",
+        "portugues": "Damasqueiro",
+        "fraseIngles": "Apricot flowers are pale pink.",
+        "frasePortugues": "As flores do damasqueiro são rosa pálido.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 62,
+        "ingles": "Fig",
+        "portugues": "Figueira",
+        "fraseIngles": "The fig tree has large leaves.",
+        "frasePortugues": "A figueira tem folhas grandes.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 63,
+        "ingles": "Grape",
+        "portugues": "Parreira",
+        "fraseIngles": "Grapevines produce clusters of fruit.",
+        "frasePortugues": "As parreiras produzem cachos de frutas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 64,
+        "ingles": "Strawberry",
+        "portugues": "Morangueiro",
+        "fraseIngles": "Strawberry plants have white flowers.",
+        "frasePortugues": "Os morangueiros têm flores brancas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 65,
+        "ingles": "Blueberry",
+        "portugues": "Mirtileiro",
+        "fraseIngles": "Blueberry bushes have small berries.",
+        "frasePortugues": "Os mirtileiros têm pequenos frutos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 66,
+        "ingles": "Raspberry",
+        "portugues": "Framboeseira",
+        "fraseIngles": "Raspberry canes need annual pruning.",
+        "frasePortugues": "Os galhos de framboeseira precisam de poda anual.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 67,
+        "ingles": "Blackberry",
+        "portugues": "Amoreira",
+        "fraseIngles": "Wild blackberries grow along roads.",
+        "frasePortugues": "Amoras selvagens crescem ao longo das estradas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 68,
+        "ingles": "Oak",
+        "portugues": "Carvalho",
+        "fraseIngles": "The oak tree lives for centuries.",
+        "frasePortugues": "O carvalho vive por séculos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 69,
+        "ingles": "Maple",
+        "portugues": "Bordo",
+        "fraseIngles": "Maple leaves turn red in fall.",
+        "frasePortugues": "As folhas do bordo ficam vermelhas no outono.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 70,
+        "ingles": "Pine",
+        "portugues": "Pinheiro",
+        "fraseIngles": "Pine trees stay green all year.",
+        "frasePortugues": "Os pinheiros ficam verdes o ano todo.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 71,
+        "ingles": "Birch",
+        "portugues": "Bétula",
+        "fraseIngles": "White birch bark peels in strips.",
+        "frasePortugues": "A casca branca da bétula descasca em tiras.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 72,
+        "ingles": "Willow",
+        "portugues": "Salgueiro",
+        "fraseIngles": "Weeping willows grow near water.",
+        "frasePortugues": "Salgueiros-chorões crescem perto da água.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 73,
+        "ingles": "Elm",
+        "portugues": "Olmo",
+        "fraseIngles": "Elm trees have distinctive leaves.",
+        "frasePortugues": "Os olmos têm folhas características.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 74,
+        "ingles": "Ash",
+        "portugues": "Freixo",
+        "fraseIngles": "Ash wood is strong and flexible.",
+        "frasePortugues": "A madeira do freixo é forte e flexível.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 75,
+        "ingles": "Poplar",
+        "portugues": "Choupo",
+        "fraseIngles": "Poplar trees grow very tall.",
+        "frasePortugues": "Os choupos crescem muito altos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 76,
+        "ingles": "Sycamore",
+        "portugues": "Sicômoro",
+        "fraseIngles": "Sycamores have mottled bark.",
+        "frasePortugues": "Os sicômoros têm casca mosqueada.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 77,
+        "ingles": "Hickory",
+        "portugues": "Nogueira",
+        "fraseIngles": "Hickory trees produce nuts.",
+        "frasePortugues": "As nogueiras produzem nozes.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 78,
+        "ingles": "Walnut",
+        "portugues": "Nogueira",
+        "fraseIngles": "Walnut wood is valuable.",
+        "frasePortugues": "A madeira da nogueira é valiosa.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 79,
+        "ingles": "Chestnut",
+        "portugues": "Castanheiro",
+        "fraseIngles": "Chestnut trees have spiky shells.",
+        "frasePortugues": "Os castanheiros têm cascas espinhosas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 80,
+        "ingles": "Beech",
+        "portugues": "Faia",
+        "fraseIngles": "Beech trees have smooth bark.",
+        "frasePortugues": "As faias têm casca lisa.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 81,
+        "ingles": "Cedar",
+        "portugues": "Cedro",
+        "fraseIngles": "Cedar wood resists insects.",
+        "frasePortugues": "A madeira do cedro resiste aos insetos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 82,
+        "ingles": "Fir",
+        "portugues": "Abeto",
+        "fraseIngles": "Fir trees are Christmas trees.",
+        "frasePortugues": "Os abetos são árvores de Natal.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 83,
+        "ingles": "Spruce",
+        "portugues": "Abeto-vermelho",
+        "fraseIngles": "Spruce trees have drooping cones.",
+        "frasePortugues": "Os abetos-vermelhos têm cones pendentes.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 84,
+        "ingles": "Hemlock",
+        "portugues": "Cicuta",
+        "fraseIngles": "Hemlock trees prefer cool climates.",
+        "frasePortugues": "As cicutas preferem climas frios.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 85,
+        "ingles": "Redwood",
+        "portugues": "Sequoia",
+        "fraseIngles": "Redwood trees are the tallest.",
+        "frasePortugues": "As sequoias são as árvores mais altas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 86,
+        "ingles": "Sequoia",
+        "portugues": "Sequoia-gigante",
+        "fraseIngles": "Giant sequoias live thousands of years.",
+        "frasePortugues": "Sequoias-gigantes vivem milhares de anos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 87,
+        "ingles": "Bamboo",
+        "portugues": "Bambu",
+        "fraseIngles": "Bamboo grows incredibly fast.",
+        "frasePortugues": "O bambu cresce incrivelmente rápido.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 88,
+        "ingles": "Palm",
+        "portugues": "Palmeira",
+        "fraseIngles": "Palm trees grow in tropical areas.",
+        "frasePortugues": "Palmeiras crescem em áreas tropicais.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 89,
+        "ingles": "Coconut palm",
+        "portugues": "Coqueiro",
+        "fraseIngles": "Coconut palms grow on beaches.",
+        "frasePortugues": "Coqueiros crescem nas praias.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 90,
+        "ingles": "Cypress",
+        "portugues": "Cipreste",
+        "fraseIngles": "Cypress trees grow in swamps.",
+        "frasePortugues": "Ciprestes crescem em pântanos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 91,
+        "ingles": "Magnolia",
+        "portugues": "Magnólia",
+        "fraseIngles": "Magnolia trees have large flowers.",
+        "frasePortugues": "As magnólias têm flores grandes.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 92,
+        "ingles": "Dogwood",
+        "portugues": "Corniso",
+        "fraseIngles": "Dogwood flowers are white or pink.",
+        "frasePortugues": "As flores do corniso são brancas ou rosadas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 93,
+        "ingles": "Redbud",
+        "portugues": "Cercis",
+        "fraseIngles": "Redbud trees bloom on bare branches.",
+        "frasePortugues": "As cercis florescem em galhos nus.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 94,
+        "ingles": "Crabapple",
+        "portugues": "Macieira-brava",
+        "fraseIngles": "Crabapple trees have small fruits.",
+        "frasePortugues": "Macieiras-bravas têm frutos pequenos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 95,
+        "ingles": "Catalpa",
+        "portugues": "Catalpa",
+        "fraseIngles": "Catalpa trees have heart-shaped leaves.",
+        "frasePortugues": "As catalpas têm folhas em formato de coração.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 96,
+        "ingles": "Tulip tree",
+        "portugues": "Árvore-tulipa",
+        "fraseIngles": "Tulip trees have tulip-shaped flowers.",
+        "frasePortugues": "Árvores-tulipa têm flores em formato de tulipa.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 97,
+        "ingles": "Sweet gum",
+        "portugues": "Liquidâmbar",
+        "fraseIngles": "Sweet gum trees have spiky seed balls.",
+        "frasePortugues": "Os liquidâmbares têm bolas de sementes espinhosas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 98,
+        "ingles": "Tomato",
+        "portugues": "Tomateiro",
+        "fraseIngles": "Tomato plants need warm weather.",
+        "frasePortugues": "Os tomateiros precisam de tempo quente.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 99,
+        "ingles": "Potato",
+        "portugues": "Batateira",
+        "fraseIngles": "Potato plants have white flowers.",
+        "frasePortugues": "As batateiras têm flores brancas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 100,
+        "ingles": "Carrot",
+        "portugues": "Cenoura",
+        "fraseIngles": "Carrot tops are feathery green.",
+        "frasePortugues": "As folhas da cenoura são verdes plumosas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 101,
+        "ingles": "Lettuce",
+        "portugues": "Alface",
+        "fraseIngles": "Lettuce grows in cool weather.",
+        "frasePortugues": "A alface cresce em tempo fresco.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 102,
+        "ingles": "Spinach",
+        "portugues": "Espinafre",
+        "fraseIngles": "Spinach is rich in iron.",
+        "frasePortugues": "O espinafre é rico em ferro.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 103,
+        "ingles": "Cabbage",
+        "portugues": "Repolho",
+        "fraseIngles": "Cabbage heads are compact.",
+        "frasePortugues": "As cabeças de repolho são compactas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 104,
+        "ingles": "Broccoli",
+        "portugues": "Brócolis",
+        "fraseIngles": "Broccoli is a healthy vegetable.",
+        "frasePortugues": "O brócolis é um vegetal saudável.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 105,
+        "ingles": "Cauliflower",
+        "portugues": "Couve-flor",
+        "fraseIngles": "White cauliflower grows in gardens.",
+        "frasePortugues": "A couve-flor branca cresce nos jardins.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 106,
+        "ingles": "Brussels sprouts",
+        "portugues": "Couve-de-bruxelas",
+        "fraseIngles": "Brussels sprouts grow on stalks.",
+        "frasePortugues": "A couve-de-bruxelas cresce em talos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 107,
+        "ingles": "Kale",
+        "portugues": "Couve-crespa",
+        "fraseIngles": "Kale survives winter frost.",
+        "frasePortugues": "A couve-crespa sobrevive à geada do inverno.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 108,
+        "ingles": "Collard greens",
+        "portugues": "Couve-galega",
+        "fraseIngles": "Collard greens are nutritious.",
+        "frasePortugues": "A couve-galega é nutritiva.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 109,
+        "ingles": "Swiss chard",
+        "portugues": "Acelga",
+        "fraseIngles": "Swiss chard has colorful stems.",
+        "frasePortugues": "A acelga tem talos coloridos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 110,
+        "ingles": "Beet",
+        "portugues": "Beterraba",
+        "fraseIngles": "Beets have edible roots and leaves.",
+        "frasePortugues": "As beterrabas têm raízes e folhas comestíveis.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 111,
+        "ingles": "Radish",
+        "portugues": "Rabanete",
+        "fraseIngles": "Radishes grow quickly from seed.",
+        "frasePortugues": "Os rabanetes crescem rapidamente da semente.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 112,
+        "ingles": "Turnip",
+        "portugues": "Nabo",
+        "fraseIngles": "Turnips are root vegetables.",
+        "frasePortugues": "Os nabos são vegetais de raiz.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 113,
+        "ingles": "Onion",
+        "portugues": "Cebola",
+        "fraseIngles": "Onions make people cry when cut.",
+        "frasePortugues": "As cebolas fazem as pessoas chorarem quando cortadas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 114,
+        "ingles": "Garlic",
+        "portugues": "Alho",
+        "fraseIngles": "Garlic bulbs have strong flavor.",
+        "frasePortugues": "Os bulbos de alho têm sabor forte.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 115,
+        "ingles": "Pepper",
+        "portugues": "Pimentão",
+        "fraseIngles": "Bell peppers come in many colors.",
+        "frasePortugues": "Os pimentões vêm em muitas cores.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 116,
+        "ingles": "Cucumber",
+        "portugues": "Pepino",
+        "fraseIngles": "Cucumbers are mostly water.",
+        "frasePortugues": "Os pepinos são principalmente água.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 117,
+        "ingles": "Zucchini",
+        "portugues": "Abobrinha",
+        "fraseIngles": "Zucchini plants produce abundantly.",
+        "frasePortugues": "As plantas de abobrinha produzem abundantemente.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 118,
+        "ingles": "Squash",
+        "portugues": "Abóbora",
+        "fraseIngles": "Winter squash stores well.",
+        "frasePortugues": "A abóbora de inverno se conserva bem.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 119,
+        "ingles": "Pumpkin",
+        "portugues": "Abóbora",
+        "fraseIngles": "Pumpkins are carved for Halloween.",
+        "frasePortugues": "As abóboras são esculpidas para o Halloween.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 120,
+        "ingles": "Corn",
+        "portugues": "Milho",
+        "fraseIngles": "Corn grows tall in summer.",
+        "frasePortugues": "O milho cresce alto no verão.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 121,
+        "ingles": "Bean",
+        "portugues": "Feijão",
+        "fraseIngles": "Bean plants climb support poles.",
+        "frasePortugues": "As plantas de feijão sobem em postes de apoio.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 122,
+        "ingles": "Pea",
+        "portugues": "Ervilha",
+        "fraseIngles": "Pea plants prefer cool weather.",
+        "frasePortugues": "As plantas de ervilha preferem tempo fresco.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 123,
+        "ingles": "Herb",
+        "portugues": "Erva",
+        "fraseIngles": "Fresh herbs flavor cooking.",
+        "frasePortugues": "Ervas frescas dão sabor à culinária.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 124,
+        "ingles": "Basil",
+        "portugues": "Manjericão",
+        "fraseIngles": "Basil smells sweet and spicy.",
+        "frasePortugues": "O manjericão cheira doce e picante.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 125,
+        "ingles": "Parsley",
+        "portugues": "Salsa",
+        "fraseIngles": "Parsley is rich in vitamins.",
+        "frasePortugues": "A salsa é rica em vitaminas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 126,
+        "ingles": "Cilantro",
+        "portugues": "Coentro",
+        "fraseIngles": "Cilantro adds fresh flavor.",
+        "frasePortugues": "O coentro adiciona sabor fresco.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 127,
+        "ingles": "Dill",
+        "portugues": "Endro",
+        "fraseIngles": "Dill complements fish dishes.",
+        "frasePortugues": "O endro complementa pratos de peixe.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 128,
+        "ingles": "Chives",
+        "portugues": "Cebolinha",
+        "fraseIngles": "Chives have a mild onion flavor.",
+        "frasePortugues": "A cebolinha tem um sabor suave de cebola.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 129,
+        "ingles": "Oregano",
+        "portugues": "Orégano",
+        "fraseIngles": "Oregano is essential for pizza.",
+        "frasePortugues": "O orégano é essencial para pizza.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 130,
+        "ingles": "Thyme",
+        "portugues": "Tomilho",
+        "fraseIngles": "Thyme has tiny fragrant leaves.",
+        "frasePortugues": "O tomilho tem folhas pequenas e perfumadas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 131,
+        "ingles": "Rosemary",
+        "portugues": "Alecrim",
+        "fraseIngles": "Rosemary has needle-like leaves.",
+        "frasePortugues": "O alecrim tem folhas como agulhas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 132,
+        "ingles": "Sage",
+        "portugues": "Sálvia",
+        "fraseIngles": "Sage has grayish-green leaves.",
+        "frasePortugues": "A sálvia tem folhas cinza-esverdeadas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 133,
+        "ingles": "Mint",
+        "portugues": "Hortelã",
+        "fraseIngles": "Mint spreads rapidly in gardens.",
+        "frasePortugues": "A hortelã se espalha rapidamente nos jardins.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 134,
+        "ingles": "Lemon balm",
+        "portugues": "Erva-cidreira",
+        "fraseIngles": "Lemon balm has a citrus scent.",
+        "frasePortugues": "A erva-cidreira tem aroma cítrico.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 135,
+        "ingles": "Chamomile",
+        "portugues": "Camomila",
+        "fraseIngles": "Chamomile makes soothing tea.",
+        "frasePortugues": "A camomila faz chá calmante.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 136,
+        "ingles": "Fennel",
+        "portugues": "Funcho",
+        "fraseIngles": "Fennel has feathery leaves.",
+        "frasePortugues": "O funcho tem folhas plumosas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 137,
+        "ingles": "Tarragon",
+        "portugues": "Estragão",
+        "fraseIngles": "Tarragon flavors vinegar well.",
+        "frasePortugues": "O estragão dá bom sabor ao vinagre.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 138,
+        "ingles": "Chervil",
+        "portugues": "Cerefólio",
+        "fraseIngles": "Chervil resembles parsley.",
+        "frasePortugues": "O cerefólio se parece com a salsa.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 139,
+        "ingles": "Marjoram",
+        "portugues": "Manjerona",
+        "fraseIngles": "Marjoram is milder than oregano.",
+        "frasePortugues": "A manjerona é mais suave que o orégano.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 140,
+        "ingles": "Bay leaf",
+        "portugues": "Folha de louro",
+        "fraseIngles": "Bay leaves flavor soups.",
+        "frasePortugues": "Folhas de louro dão sabor às sopas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 141,
+        "ingles": "Cactus",
+        "portugues": "Cacto",
+        "fraseIngles": "Cacti store water in stems.",
+        "frasePortugues": "Os cactos armazenam água nos caules.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 142,
+        "ingles": "Succulent",
+        "portugues": "Suculenta",
+        "fraseIngles": "Succulents need little water.",
+        "frasePortugues": "As suculentas precisam de pouca água.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 143,
+        "ingles": "Aloe vera",
+        "portugues": "Babosa",
+        "fraseIngles": "Aloe vera soothes burns.",
+        "frasePortugues": "A babosa alivia queimaduras.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 144,
+        "ingles": "Jade plant",
+        "portugues": "Planta-jade",
+        "fraseIngles": "Jade plants are easy houseplants.",
+        "frasePortugues": "Plantas-jade são plantas domésticas fáceis.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 145,
+        "ingles": "Spider plant",
+        "portugues": "Clorofito",
+        "fraseIngles": "Spider plants produce baby plants.",
+        "frasePortugues": "Os clorofitos produzem plantas filhotes.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 146,
+        "ingles": "Peace lily",
+        "portugues": "Lírio-da-paz",
+        "fraseIngles": "Peace lilies bloom indoors.",
+        "frasePortugues": "Lírios-da-paz florescem dentro de casa.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 147,
+        "ingles": "Pothos",
+        "portugues": "Pothos",
+        "fraseIngles": "Pothos vines trail beautifully.",
+        "frasePortugues": "As trepadeiras pothos ficam belas pendentes.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 148,
+        "ingles": "Philodendron",
+        "portugues": "Filodendro",
+        "fraseIngles": "Philodendrons are popular houseplants.",
+        "frasePortugues": "Os filodendros são plantas domésticas populares.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 149,
+        "ingles": "Rubber plant",
+        "portugues": "Ficus",
+        "fraseIngles": "Rubber plants have glossy leaves.",
+        "frasePortugues": "Ficus têm folhas brilhantes.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 150,
+        "ingles": "Snake plant",
+        "portugues": "Espada-de-são-jorge",
+        "fraseIngles": "Snake plants tolerate neglect.",
+        "frasePortugues": "Espadas-de-são-jorge toleram negligência.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 151,
+        "ingles": "ZZ plant",
+        "portugues": "Zamioculca",
+        "fraseIngles": "ZZ plants thrive in low light.",
+        "frasePortugues": "Zamioculcas prosperam em pouca luz.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 152,
+        "ingles": "Monstera",
+        "portugues": "Monstera",
+        "fraseIngles": "Monstera leaves develop holes.",
+        "frasePortugues": "As folhas da monstera desenvolvem buracos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 153,
+        "ingles": "Fiddle leaf fig",
+        "portugues": "Ficus-lira",
+        "fraseIngles": "Fiddle leaf figs need bright light.",
+        "frasePortugues": "Ficus-lira precisam de luz brilhante.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 154,
+        "ingles": "African violet",
+        "portugues": "Violeta-africana",
+        "fraseIngles": "African violets bloom year-round.",
+        "frasePortugues": "Violetas-africanas florescem o ano todo.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 155,
+        "ingles": "Christmas cactus",
+        "portugues": "Cacto-de-natal",
+        "fraseIngles": "Christmas cacti bloom in winter.",
+        "frasePortugues": "Cactos-de-natal florescem no inverno.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 156,
+        "ingles": "Poinsettia",
+        "portugues": "Poinsétia",
+        "fraseIngles": "Red poinsettias decorate at Christmas.",
+        "frasePortugues": "Poinsétias vermelhas decoram no Natal.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 157,
+        "ingles": "Amaryllis",
+        "portugues": "Amarílis",
+        "fraseIngles": "Amaryllis bulbs bloom spectacularly.",
+        "frasePortugues": "Bulbos de amarílis florescem espetacularmente.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 158,
+        "ingles": "Cyclamen",
+        "portugues": "Ciclame",
+        "fraseIngles": "Cyclamen flowers face downward.",
+        "frasePortugues": "As flores do ciclame ficam viradas para baixo.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 159,
+        "ingles": "Kalanchoe",
+        "portugues": "Kalanchoe",
+        "fraseIngles": "Kalanchoe has long-lasting blooms.",
+        "frasePortugues": "O kalanchoe tem flores duradouras.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 160,
+        "ingles": "Anthurium",
+        "portugues": "Antúrio",
+        "fraseIngles": "Red anthuriums have waxy flowers.",
+        "frasePortugues": "Antúrios vermelhos têm flores cerosas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 161,
+        "ingles": "Boston fern",
+        "portugues": "Samambaia-de-boston",
+        "fraseIngles": "Boston ferns need humid air.",
+        "frasePortugues": "Samambaias-de-boston precisam de ar úmido.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 162,
+        "ingles": "Maidenhair fern",
+        "portugues": "Avenca",
+        "fraseIngles": "Maidenhair ferns are delicate.",
+        "frasePortugues": "As avencas são delicadas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 163,
+        "ingles": "Staghorn fern",
+        "portugues": "Chifre-de-veado",
+        "fraseIngles": "Staghorn ferns grow on trees.",
+        "frasePortugues": "Chifres-de-veado crescem em árvores.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 164,
+        "ingles": "Bird of paradise",
+        "portugues": "Ave-do-paraíso",
+        "fraseIngles": "Bird of paradise has exotic flowers.",
+        "frasePortugues": "Ave-do-paraíso tem flores exóticas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 165,
+        "ingles": "Bromeliad",
+        "portugues": "Bromélia",
+        "fraseIngles": "Bromeliads have colorful centers.",
+        "frasePortugues": "As bromélias têm centros coloridos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 166,
+        "ingles": "Plant",
+        "portugues": "Planta",
+        "fraseIngles": "Every plant needs water and sunlight.",
+        "frasePortugues": "Toda planta precisa de água e luz solar.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 167,
+        "ingles": "Tree",
+        "portugues": "Árvore",
+        "fraseIngles": "The old tree provides shade.",
+        "frasePortugues": "A árvore velha oferece sombra.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 168,
+        "ingles": "Bush",
+        "portugues": "Arbusto",
+        "fraseIngles": "The flowering bush attracts bees.",
+        "frasePortugues": "O arbusto florido atrai abelhas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 169,
+        "ingles": "Shrub",
+        "portugues": "Arbusto",
+        "fraseIngles": "Shrubs form garden borders.",
+        "frasePortugues": "Arbustos formam bordas de jardim.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 170,
+        "ingles": "Vine",
+        "portugues": "Trepadeira",
+        "fraseIngles": "The vine climbs up the wall.",
+        "frasePortugues": "A trepadeira sobe pela parede.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 171,
+        "ingles": "Weed",
+        "portugues": "Erva daninha",
+        "fraseIngles": "Weeds grow where unwanted.",
+        "frasePortugues": "Ervas daninhas crescem onde não são desejadas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 172,
+        "ingles": "Grass",
+        "portugues": "Grama",
+        "fraseIngles": "Green grass covers the lawn.",
+        "frasePortugues": "A grama verde cobre o gramado.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 173,
+        "ingles": "Moss",
+        "portugues": "Musgo",
+        "fraseIngles": "Moss grows on damp stones.",
+        "frasePortugues": "O musgo cresce em pedras úmidas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 174,
+        "ingles": "Fern",
+        "portugues": "Samambaia",
+        "fraseIngles": "Ferns grow in shady places.",
+        "frasePortugues": "Samambaias crescem em lugares sombreados.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 175,
+        "ingles": "Mushroom",
+        "portugues": "Cogumelo",
+        "fraseIngles": "Mushrooms grow after rain.",
+        "frasePortugues": "Cogumelos crescem depois da chuva.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 176,
+        "ingles": "Root",
+        "portugues": "Raiz",
+        "fraseIngles": "Roots anchor plants in soil.",
+        "frasePortugues": "As raízes fixam as plantas no solo.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 177,
+        "ingles": "Stem",
+        "portugues": "Caule",
+        "fraseIngles": "The stem supports the flower.",
+        "frasePortugues": "O caule sustenta a flor.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 178,
+        "ingles": "Trunk",
+        "portugues": "Tronco",
+        "fraseIngles": "The tree trunk grows thicker yearly.",
+        "frasePortugues": "O tronco da árvore engrossa anualmente.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 179,
+        "ingles": "Branch",
+        "portugues": "Galho",
+        "fraseIngles": "Birds nest on tree branches.",
+        "frasePortugues": "Os pássaros fazem ninhos nos galhos das árvores.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 180,
+        "ingles": "Twig",
+        "portugues": "Galho pequeno",
+        "fraseIngles": "Small twigs break easily.",
+        "frasePortugues": "Galhos pequenos quebram facilmente.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 181,
+        "ingles": "Leaf",
+        "portugues": "Folha",
+        "fraseIngles": "The green leaf performs photosynthesis.",
+        "frasePortugues": "A folha verde realiza fotossíntese.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 182,
+        "ingles": "Petal",
+        "portugues": "Pétala",
+        "fraseIngles": "Rose petals are soft and fragrant.",
+        "frasePortugues": "Pétalas de rosa são macias e perfumadas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 183,
+        "ingles": "Flower",
+        "portugues": "Flor",
+        "fraseIngles": "The colorful flower attracts insects.",
+        "frasePortugues": "A flor colorida atrai insetos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 184,
+        "ingles": "Bud",
+        "portugues": "Botão",
+        "fraseIngles": "The flower bud will open soon.",
+        "frasePortugues": "O botão da flor vai abrir em breve.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 185,
+        "ingles": "Bloom",
+        "portugues": "Florescer",
+        "fraseIngles": "Flowers bloom in spring.",
+        "frasePortugues": "As flores florescem na primavera.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 186,
+        "ingles": "Blossom",
+        "portugues": "Flor",
+        "fraseIngles": "Apple blossoms are white and pink.",
+        "frasePortugues": "Flores de maçã são brancas e rosadas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 187,
+        "ingles": "Seed",
+        "portugues": "Semente",
+        "fraseIngles": "Seeds grow into new plants.",
+        "frasePortugues": "Sementes crescem em novas plantas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 188,
+        "ingles": "Fruit",
+        "portugues": "Fruto",
+        "fraseIngles": "Fruit contains the plant's seeds.",
+        "frasePortugues": "O fruto contém as sementes da planta.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 189,
+        "ingles": "Berry",
+        "portugues": "Baga",
+        "fraseIngles": "Berries are small juicy fruits.",
+        "frasePortugues": "Bagas são pequenos frutos suculentos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 190,
+        "ingles": "Nut",
+        "portugues": "Noz",
+        "fraseIngles": "Squirrels collect nuts for winter.",
+        "frasePortugues": "Esquilos coletam nozes para o inverno.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 191,
+        "ingles": "Bark",
+        "portugues": "Casca",
+        "fraseIngles": "Tree bark protects the trunk.",
+        "frasePortugues": "A casca da árvore protege o tronco.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 192,
+        "ingles": "Sap",
+        "portugues": "Seiva",
+        "fraseIngles": "Maple sap makes syrup.",
+        "frasePortugues": "A seiva do bordo faz xarope.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 193,
+        "ingles": "Thorn",
+        "portugues": "Espinho",
+        "fraseIngles": "Rose thorns protect the flower.",
+        "frasePortugues": "Espinhos de rosa protegem a flor.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 194,
+        "ingles": "Nectar",
+        "portugues": "Néctar",
+        "fraseIngles": "Bees collect nectar from flowers.",
+        "frasePortugues": "As abelhas coletam néctar das flores.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 195,
+        "ingles": "Pollen",
+        "portugues": "Pólen",
+        "fraseIngles": "Pollen fertilizes other flowers.",
+        "frasePortugues": "O pólen fertiliza outras flores.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 196,
+        "ingles": "Chlorophyll",
+        "portugues": "Clorofila",
+        "fraseIngles": "Chlorophyll makes leaves green.",
+        "frasePortugues": "A clorofila deixa as folhas verdes.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 197,
+        "ingles": "Photosynthesis",
+        "portugues": "Fotossíntese",
+        "fraseIngles": "Plants make food through photosynthesis.",
+        "frasePortugues": "As plantas produzem alimento através da fotossíntese.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 198,
+        "ingles": "Garden",
+        "portugues": "Jardim",
+        "fraseIngles": "The garden is full of flowers.",
+        "frasePortugues": "O jardim está cheio de flores.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 199,
+        "ingles": "Greenhouse",
+        "portugues": "Estufa",
+        "fraseIngles": "Plants grow year-round in greenhouses.",
+        "frasePortugues": "As plantas crescem o ano todo em estufas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 200,
+        "ingles": "Nursery",
+        "portugues": "Viveiro",
+        "fraseIngles": "Plant nurseries sell seedlings.",
+        "frasePortugues": "Viveiros de plantas vendem mudas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 201,
+        "ingles": "Orchard",
+        "portugues": "Pomar",
+        "fraseIngles": "Apple trees grow in orchards.",
+        "frasePortugues": "Macieiras crescem em pomares.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 202,
+        "ingles": "Forest",
+        "portugues": "Floresta",
+        "fraseIngles": "Many animals live in forests.",
+        "frasePortugues": "Muitos animais vivem em florestas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 203,
+        "ingles": "Jungle",
+        "portugues": "Selva",
+        "fraseIngles": "Tropical plants grow in jungles.",
+        "frasePortugues": "Plantas tropicais crescem nas selvas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 204,
+        "ingles": "Meadow",
+        "portugues": "Prado",
+        "fraseIngles": "Wildflowers bloom in meadows.",
+        "frasePortugues": "Flores silvestres florescem nos prados.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 205,
+        "ingles": "Field",
+        "portugues": "Campo",
+        "fraseIngles": "Corn grows in large fields.",
+        "frasePortugues": "O milho cresce em grandes campos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 206,
+        "ingles": "Lawn",
+        "portugues": "Gramado",
+        "fraseIngles": "The green lawn needs mowing.",
+        "frasePortugues": "O gramado verde precisa ser cortado.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 207,
+        "ingles": "Yard",
+        "portugues": "Quintal",
+        "fraseIngles": "Children play in the yard.",
+        "frasePortugues": "As crianças brincam no quintal.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 208,
+        "ingles": "Soil",
+        "portugues": "Solo",
+        "fraseIngles": "Rich soil helps plants grow.",
+        "frasePortugues": "Solo rico ajuda as plantas a crescer.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 209,
+        "ingles": "Dirt",
+        "portugues": "Terra",
+        "fraseIngles": "Seeds are planted in dirt.",
+        "frasePortugues": "Sementes são plantadas na terra.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 210,
+        "ingles": "Compost",
+        "portugues": "Composto",
+        "fraseIngles": "Compost enriches garden soil.",
+        "frasePortugues": "Composto enriquece o solo do jardim.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 211,
+        "ingles": "Fertilizer",
+        "portugues": "Fertilizante",
+        "fraseIngles": "Fertilizer provides plant nutrients.",
+        "frasePortugues": "Fertilizante fornece nutrientes às plantas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 212,
+        "ingles": "Mulch",
+        "portugues": "Cobertura morta",
+        "fraseIngles": "Mulch retains soil moisture.",
+        "frasePortugues": "A cobertura morta retém a umidade do solo.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 213,
+        "ingles": "Water",
+        "portugues": "Água",
+        "fraseIngles": "All plants need water to survive.",
+        "frasePortugues": "Todas as plantas precisam de água para sobreviver.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 214,
+        "ingles": "Sunlight",
+        "portugues": "Luz solar",
+        "fraseIngles": "Plants need sunlight for growth.",
+        "frasePortugues": "As plantas precisam de luz solar para crescer.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 215,
+        "ingles": "Shade",
+        "portugues": "Sombra",
+        "fraseIngles": "Some plants prefer shade.",
+        "frasePortugues": "Algumas plantas preferem sombra.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 216,
+        "ingles": "Climate",
+        "portugues": "Clima",
+        "fraseIngles": "Different plants need different climates.",
+        "frasePortugues": "Plantas diferentes precisam de climas diferentes.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 217,
+        "ingles": "Season",
+        "portugues": "Estação",
+        "fraseIngles": "Plants grow differently each season.",
+        "frasePortugues": "As plantas crescem diferentemente em cada estação.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 218,
+        "ingles": "Plant",
+        "portugues": "Plantar",
+        "fraseIngles": "Farmers plant seeds in spring.",
+        "frasePortugues": "Os fazendeiros plantam sementes na primavera.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 219,
+        "ingles": "Grow",
+        "portugues": "Crescer",
+        "fraseIngles": "Plants grow toward the light.",
+        "frasePortugues": "As plantas crescem em direção à luz.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 220,
+        "ingles": "Sprout",
+        "portugues": "Brotar",
+        "fraseIngles": "Seeds sprout in warm soil.",
+        "frasePortugues": "Sementes brotam em solo quente.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 221,
+        "ingles": "Germinate",
+        "portugues": "Germinar",
+        "fraseIngles": "Seeds germinate when conditions are right.",
+        "frasePortugues": "Sementes germinam quando as condições estão certas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 222,
+        "ingles": "Bud",
+        "portugues": "Formar botões",
+        "fraseIngles": "Trees bud in early spring.",
+        "frasePortugues": "As árvores formam botões no início da primavera.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 223,
+        "ingles": "Bloom",
+        "portugues": "Florescer",
+        "fraseIngles": "Roses bloom throughout summer.",
+        "frasePortugues": "As rosas florescem durante todo o verão.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 224,
+        "ingles": "Pollinate",
+        "portugues": "Polinizar",
+        "fraseIngles": "Bees pollinate many flowers.",
+        "frasePortugues": "As abelhas polinizam muitas flores.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 225,
+        "ingles": "Wilt",
+        "portugues": "Murchar",
+        "fraseIngles": "Plants wilt without enough water.",
+        "frasePortugues": "As plantas murcham sem água suficiente.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 226,
+        "ingles": "Wither",
+        "portugues": "Definhar",
+        "fraseIngles": "Leaves wither in autumn.",
+        "frasePortugues": "As folhas definham no outono.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 227,
+        "ingles": "Die",
+        "portugues": "Morrer",
+        "fraseIngles": "Annual plants die after one season.",
+        "frasePortugues": "Plantas anuais morrem depois de uma estação.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 228,
+        "ingles": "Prune",
+        "portugues": "Podar",
+        "fraseIngles": "Gardeners prune trees in winter.",
+        "frasePortugues": "Jardineiros podam árvores no inverno.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 229,
+        "ingles": "Trim",
+        "portugues": "Aparar",
+        "fraseIngles": "Trim hedges to keep them neat.",
+        "frasePortugues": "Apare sebes para mantê-las arrumadas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 230,
+        "ingles": "Water",
+        "portugues": "Regar",
+        "fraseIngles": "Water plants regularly in summer.",
+        "frasePortugues": "Regue as plantas regularmente no verão.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 231,
+        "ingles": "Fertilize",
+        "portugues": "Fertilizar",
+        "fraseIngles": "Fertilize plants for better growth.",
+        "frasePortugues": "Fertilize plantas para melhor crescimento.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 232,
+        "ingles": "Weed",
+        "portugues": "Capinar",
+        "fraseIngles": "Weed the garden weekly.",
+        "frasePortugues": "Capine o jardim semanalmente.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 233,
+        "ingles": "Harvest",
+        "portugues": "Colher",
+        "fraseIngles": "Farmers harvest crops in fall.",
+        "frasePortugues": "Os fazendeiros colhem as colheitas no outono.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 234,
+        "ingles": "Pick",
+        "portugues": "Colher",
+        "fraseIngles": "Pick ripe tomatoes carefully.",
+        "frasePortugues": "Colha tomates maduros com cuidado.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 235,
+        "ingles": "Gather",
+        "portugues": "Recolher",
+        "fraseIngles": "Gather fallen leaves in autumn.",
+        "frasePortugues": "Recolha folhas caídas no outono.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 236,
+        "ingles": "Cultivate",
+        "portugues": "Cultivar",
+        "fraseIngles": "Cultivate the soil before planting.",
+        "frasePortugues": "Cultive o solo antes de plantar.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 237,
+        "ingles": "Transplant",
+        "portugues": "Transplantar",
+        "fraseIngles": "Transplant seedlings when they're strong.",
+        "frasePortugues": "Transplante mudas quando estiverem fortes.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 238,
+        "ingles": "Graft",
+        "portugues": "Enxertar",
+        "fraseIngles": "Graft different varieties together.",
+        "frasePortugues": "Enxerte variedades diferentes juntas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 239,
+        "ingles": "Propagate",
+        "portugues": "Propagar",
+        "fraseIngles": "Propagate plants from cuttings.",
+        "frasePortugues": "Propague plantas a partir de estacas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 240,
+        "ingles": "Annual",
+        "portugues": "Anual",
+        "fraseIngles": "Annual plants complete life in one year.",
+        "frasePortugues": "Plantas anuais completam a vida em um ano.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 241,
+        "ingles": "Perennial",
+        "portugues": "Perene",
+        "fraseIngles": "Perennial plants return each year.",
+        "frasePortugues": "Plantas perenes retornam a cada ano.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 242,
+        "ingles": "Biennial",
+        "portugues": "Bienal",
+        "fraseIngles": "Biennial plants live for two years.",
+        "frasePortugues": "Plantas bienais vivem por dois anos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 243,
+        "ingles": "Native",
+        "portugues": "Nativa",
+        "fraseIngles": "Native plants adapt to local conditions.",
+        "frasePortugues": "Plantas nativas se adaptam às condições locais.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 244,
+        "ingles": "Exotic",
+        "portugues": "Exótica",
+        "fraseIngles": "Exotic plants come from other countries.",
+        "frasePortugues": "Plantas exóticas vêm de outros países.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 245,
+        "ingles": "Wild",
+        "portugues": "Selvagem",
+        "fraseIngles": "Wild plants grow without human care.",
+        "frasePortugues": "Plantas selvagens crescem sem cuidado humano.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 246,
+        "ingles": "Cultivated",
+        "portugues": "Cultivada",
+        "fraseIngles": "Cultivated plants are grown by people.",
+        "frasePortugues": "Plantas cultivadas são criadas por pessoas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 247,
+        "ingles": "Hybrid",
+        "portugues": "Híbrida",
+        "fraseIngles": "Hybrid plants combine different varieties.",
+        "frasePortugues": "Plantas híbridas combinam variedades diferentes.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 248,
+        "ingles": "Organic",
+        "portugues": "Orgânica",
+        "fraseIngles": "Organic plants are grown without chemicals.",
+        "frasePortugues": "Plantas orgânicas são cultivadas sem químicos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 249,
+        "ingles": "Poisonous",
+        "portugues": "Venenosa",
+        "fraseIngles": "Some plants are poisonous to eat.",
+        "frasePortugues": "Algumas plantas são venenosas para comer.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 250,
+        "ingles": "Edible",
+        "portugues": "Comestível",
+        "fraseIngles": "Many plants have edible parts.",
+        "frasePortugues": "Muitas plantas têm partes comestíveis.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 251,
+        "ingles": "Medicinal",
+        "portugues": "Medicinal",
+        "fraseIngles": "Medicinal plants heal illnesses.",
+        "frasePortugues": "Plantas medicinais curam doenças.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 252,
+        "ingles": "Aromatic",
+        "portugues": "Aromática",
+        "fraseIngles": "Aromatic plants have strong scents.",
+        "frasePortugues": "Plantas aromáticas têm aromas fortes.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 253,
+        "ingles": "Decorative",
+        "portugues": "Decorativa",
+        "fraseIngles": "Decorative plants beautify spaces.",
+        "frasePortugues": "Plantas decorativas embelezam espaços.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 254,
+        "ingles": "Rare",
+        "portugues": "Rara",
+        "fraseIngles": "Rare plants need special protection.",
+        "frasePortugues": "Plantas raras precisam de proteção especial.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 255,
+        "ingles": "Common",
+        "portugues": "Comum",
+        "fraseIngles": "Common plants grow easily everywhere.",
+        "frasePortugues": "Plantas comuns crescem facilmente em qualquer lugar.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 256,
+        "ingles": "Endangered",
+        "portugues": "Em perigo",
+        "fraseIngles": "Some plant species are endangered.",
+        "frasePortugues": "Algumas espécies de plantas estão em perigo.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 257,
+        "ingles": "Protected",
+        "portugues": "Protegida",
+        "fraseIngles": "Protected plants cannot be picked.",
+        "frasePortugues": "Plantas protegidas não podem ser colhidas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 258,
+        "ingles": "Conservation",
+        "portugues": "Conservação",
+        "fraseIngles": "Plant conservation saves species.",
+        "frasePortugues": "A conservação de plantas salva espécies.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 259,
+        "ingles": "Biodiversity",
+        "portugues": "Biodiversidade",
+        "fraseIngles": "Gardens increase local biodiversity.",
+        "frasePortugues": "Jardins aumentam a biodiversidade local.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 260,
+        "ingles": "Ecosystem",
+        "portugues": "Ecossistema",
+        "fraseIngles": "Plants form the base of ecosystems.",
+        "frasePortugues": "As plantas formam a base dos ecossistemas.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 261,
+        "ingles": "Environment",
+        "portugues": "Ambiente",
+        "fraseIngles": "Plants improve the environment.",
+        "frasePortugues": "As plantas melhoram o ambiente.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 262,
+        "ingles": "Oxygen",
+        "portugues": "Oxigênio",
+        "fraseIngles": "Plants produce oxygen for animals.",
+        "frasePortugues": "As plantas produzem oxigênio para os animais.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 263,
+        "ingles": "Carbon dioxide",
+        "portugues": "Dióxido de carbono",
+        "fraseIngles": "Plants absorb carbon dioxide.",
+        "frasePortugues": "As plantas absorvem dióxido de carbono.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 264,
+        "ingles": "Botanist",
+        "portugues": "Botânico",
+        "fraseIngles": "A botanist studies plants scientifically.",
+        "frasePortugues": "Um botânico estuda plantas cientificamente.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 265,
+        "ingles": "Gardener",
+        "portugues": "Jardineiro",
+        "fraseIngles": "The gardener tends the flowers.",
+        "frasePortugues": "O jardineiro cuida das flores.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 266,
+        "ingles": "Florist",
+        "portugues": "Florista",
+        "fraseIngles": "The florist arranges beautiful bouquets.",
+        "frasePortugues": "O florista arranja buquês bonitos.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 267,
+        "ingles": "Farmer",
+        "portugues": "Fazendeiro",
+        "fraseIngles": "The farmer grows crops for food.",
+        "frasePortugues": "O fazendeiro cultiva plantas para alimentação.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    },
+    {
+        "id": 268,
+        "ingles": "Landscaper",
+        "portugues": "Paisagista",
+        "fraseIngles": "The landscaper designs garden spaces.",
+        "frasePortugues": "O paisagista projeta espaços de jardim.",
+        "subtopico": "Plantas e flores",
+        "topico": "Natureza"
+    }
+]

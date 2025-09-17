@@ -1,0 +1,2612 @@
+[
+    {
+        "id": 1,
+        "ingles": "Dog",
+        "portugues": "Cachorro",
+        "fraseIngles": "My dog loves to play in the park.",
+        "frasePortugues": "Meu cachorro adora brincar no parque.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 2,
+        "ingles": "Cat",
+        "portugues": "Gato",
+        "fraseIngles": "The cat is sleeping on the sofa.",
+        "frasePortugues": "O gato está dormindo no sofá.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 3,
+        "ingles": "Bird",
+        "portugues": "Pássaro",
+        "fraseIngles": "A colorful bird is singing in the tree.",
+        "frasePortugues": "Um pássaro colorido está cantando na árvore.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 4,
+        "ingles": "Fish",
+        "portugues": "Peixe",
+        "fraseIngles": "I have three fish in my aquarium.",
+        "frasePortugues": "Tenho três peixes no meu aquário.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 5,
+        "ingles": "Rabbit",
+        "portugues": "Coelho",
+        "fraseIngles": "The white rabbit hops across the garden.",
+        "frasePortugues": "O coelho branco pula pelo jardim.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 6,
+        "ingles": "Hamster",
+        "portugues": "Hamster",
+        "fraseIngles": "My daughter's hamster runs on a wheel.",
+        "frasePortugues": "O hamster da minha filha corre na rodinha.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 7,
+        "ingles": "Guinea pig",
+        "portugues": "Porquinho-da-índia",
+        "fraseIngles": "The guinea pig eats carrots and lettuce.",
+        "frasePortugues": "O porquinho-da-índia come cenouras e alface.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 8,
+        "ingles": "Turtle",
+        "portugues": "Tartaruga",
+        "fraseIngles": "The turtle moves very slowly.",
+        "frasePortugues": "A tartaruga se move muito devagar.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 9,
+        "ingles": "Horse",
+        "portugues": "Cavalo",
+        "fraseIngles": "The brown horse gallops across the field.",
+        "frasePortugues": "O cavalo marrom galopa pelo campo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 10,
+        "ingles": "Cow",
+        "portugues": "Vaca",
+        "fraseIngles": "The cow gives milk every morning.",
+        "frasePortugues": "A vaca dá leite toda manhã.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 11,
+        "ingles": "Pig",
+        "portugues": "Porco",
+        "fraseIngles": "The pig rolls in the mud.",
+        "frasePortugues": "O porco se rola na lama.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 12,
+        "ingles": "Sheep",
+        "portugues": "Ovelha",
+        "fraseIngles": "The sheep have thick white wool.",
+        "frasePortugues": "As ovelhas têm lã branca espessa.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 13,
+        "ingles": "Goat",
+        "portugues": "Cabra",
+        "fraseIngles": "The goat climbs the rocky mountain.",
+        "frasePortugues": "A cabra sobe a montanha rochosa.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 14,
+        "ingles": "Chicken",
+        "portugues": "Galinha",
+        "fraseIngles": "The chicken lays eggs in the nest.",
+        "frasePortugues": "A galinha põe ovos no ninho.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 15,
+        "ingles": "Duck",
+        "portugues": "Pato",
+        "fraseIngles": "The duck swims in the pond.",
+        "frasePortugues": "O pato nada na lagoa.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 16,
+        "ingles": "Goose",
+        "portugues": "Ganso",
+        "fraseIngles": "The goose honks loudly in the yard.",
+        "frasePortugues": "O ganso grasna alto no quintal.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 17,
+        "ingles": "Turkey",
+        "portugues": "Peru",
+        "fraseIngles": "We eat turkey on Thanksgiving.",
+        "frasePortugues": "Nós comemos peru no Dia de Ação de Graças.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 18,
+        "ingles": "Rooster",
+        "portugues": "Galo",
+        "fraseIngles": "The rooster crows at sunrise.",
+        "frasePortugues": "O galo canta ao amanhecer.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 19,
+        "ingles": "Lion",
+        "portugues": "Leão",
+        "fraseIngles": "The lion is the king of the jungle.",
+        "frasePortugues": "O leão é o rei da selva.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 20,
+        "ingles": "Tiger",
+        "portugues": "Tigre",
+        "fraseIngles": "The orange tiger has black stripes.",
+        "frasePortugues": "O tigre laranja tem listras pretas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 21,
+        "ingles": "Elephant",
+        "portugues": "Elefante",
+        "fraseIngles": "The elephant has a long trunk.",
+        "frasePortugues": "O elefante tem uma tromba comprida.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 22,
+        "ingles": "Giraffe",
+        "portugues": "Girafa",
+        "fraseIngles": "The giraffe has a very long neck.",
+        "frasePortugues": "A girafa tem um pescoço muito comprido.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 23,
+        "ingles": "Zebra",
+        "portugues": "Zebra",
+        "fraseIngles": "The zebra has black and white stripes.",
+        "frasePortugues": "A zebra tem listras pretas e brancas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 24,
+        "ingles": "Monkey",
+        "portugues": "Macaco",
+        "fraseIngles": "The monkey swings from tree to tree.",
+        "frasePortugues": "O macaco se balança de árvore em árvore.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 25,
+        "ingles": "Gorilla",
+        "portugues": "Gorila",
+        "fraseIngles": "The gorilla beats its chest.",
+        "frasePortugues": "O gorila bate no peito.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 26,
+        "ingles": "Chimpanzee",
+        "portugues": "Chimpanzé",
+        "fraseIngles": "The chimpanzee is very intelligent.",
+        "frasePortugues": "O chimpanzé é muito inteligente.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 27,
+        "ingles": "Bear",
+        "portugues": "Urso",
+        "fraseIngles": "The brown bear catches fish in the river.",
+        "frasePortugues": "O urso marrom pesca no rio.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 28,
+        "ingles": "Wolf",
+        "portugues": "Lobo",
+        "fraseIngles": "The wolf howls at the moon.",
+        "frasePortugues": "O lobo uiva para a lua.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 29,
+        "ingles": "Fox",
+        "portugues": "Raposa",
+        "fraseIngles": "The red fox is very clever.",
+        "frasePortugues": "A raposa vermelha é muito esperta.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 30,
+        "ingles": "Deer",
+        "portugues": "Veado",
+        "fraseIngles": "The deer runs through the forest.",
+        "frasePortugues": "O veado corre pela floresta.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 31,
+        "ingles": "Rabbit",
+        "portugues": "Coelho",
+        "fraseIngles": "The rabbit has long ears.",
+        "frasePortugues": "O coelho tem orelhas compridas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 32,
+        "ingles": "Squirrel",
+        "portugues": "Esquilo",
+        "fraseIngles": "The squirrel collects nuts for winter.",
+        "frasePortugues": "O esquilo coleta nozes para o inverno.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 33,
+        "ingles": "Raccoon",
+        "portugues": "Guaxinim",
+        "fraseIngles": "The raccoon washes its food before eating.",
+        "frasePortugues": "O guaxinim lava sua comida antes de comer.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 34,
+        "ingles": "Skunk",
+        "portugues": "Gambá",
+        "fraseIngles": "The skunk has a bad smell.",
+        "frasePortugues": "O gambá tem um cheiro ruim.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 35,
+        "ingles": "Porcupine",
+        "portugues": "Porco-espinho",
+        "fraseIngles": "The porcupine has sharp quills.",
+        "frasePortugues": "O porco-espinho tem espinhos afiados.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 36,
+        "ingles": "Beaver",
+        "portugues": "Castor",
+        "fraseIngles": "The beaver builds dams in the river.",
+        "frasePortugues": "O castor constrói represas no rio.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 37,
+        "ingles": "Otter",
+        "portugues": "Lontra",
+        "fraseIngles": "The otter plays in the water.",
+        "frasePortugues": "A lontra brinca na água.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 38,
+        "ingles": "Seal",
+        "portugues": "Foca",
+        "fraseIngles": "The seal basks in the sun.",
+        "frasePortugues": "A foca se aquece no sol.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 39,
+        "ingles": "Walrus",
+        "portugues": "Morsa",
+        "fraseIngles": "The walrus has long tusks.",
+        "frasePortugues": "A morsa tem presas compridas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 40,
+        "ingles": "Whale",
+        "portugues": "Baleia",
+        "fraseIngles": "The blue whale is the largest animal.",
+        "frasePortugues": "A baleia azul é o maior animal.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 41,
+        "ingles": "Dolphin",
+        "portugues": "Golfinho",
+        "fraseIngles": "The dolphin jumps out of the water.",
+        "frasePortugues": "O golfinho pula fora da água.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 42,
+        "ingles": "Shark",
+        "portugues": "Tubarão",
+        "fraseIngles": "The shark has sharp teeth.",
+        "frasePortugues": "O tubarão tem dentes afiados.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 43,
+        "ingles": "Octopus",
+        "portugues": "Polvo",
+        "fraseIngles": "The octopus has eight arms.",
+        "frasePortugues": "O polvo tem oito braços.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 44,
+        "ingles": "Jellyfish",
+        "portugues": "Água-viva",
+        "fraseIngles": "The jellyfish floats in the ocean.",
+        "frasePortugues": "A água-viva flutua no oceano.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 45,
+        "ingles": "Starfish",
+        "portugues": "Estrela-do-mar",
+        "fraseIngles": "The starfish has five arms.",
+        "frasePortugues": "A estrela-do-mar tem cinco braços.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 46,
+        "ingles": "Crab",
+        "portugues": "Caranguejo",
+        "fraseIngles": "The crab walks sideways on the beach.",
+        "frasePortugues": "O caranguejo anda de lado na praia.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 47,
+        "ingles": "Lobster",
+        "portugues": "Lagosta",
+        "fraseIngles": "The lobster has large claws.",
+        "frasePortugues": "A lagosta tem garras grandes.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 48,
+        "ingles": "Shrimp",
+        "portugues": "Camarão",
+        "fraseIngles": "The shrimp is pink when cooked.",
+        "frasePortugues": "O camarão fica rosa quando cozido.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 49,
+        "ingles": "Seahorse",
+        "portugues": "Cavalo-marinho",
+        "fraseIngles": "The seahorse is a unique sea creature.",
+        "frasePortugues": "O cavalo-marinho é uma criatura marinha única.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 50,
+        "ingles": "Stingray",
+        "portugues": "Arraia",
+        "fraseIngles": "The stingray glides along the ocean floor.",
+        "frasePortugues": "A arraia desliza pelo fundo do oceano.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 51,
+        "ingles": "Penguin",
+        "portugues": "Pinguim",
+        "fraseIngles": "The penguin waddles on the ice.",
+        "frasePortugues": "O pinguim cambaleia no gelo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 52,
+        "ingles": "Eagle",
+        "portugues": "Águia",
+        "fraseIngles": "The eagle soars high in the sky.",
+        "frasePortugues": "A águia voa alto no céu.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 53,
+        "ingles": "Hawk",
+        "portugues": "Falcão",
+        "fraseIngles": "The hawk hunts small animals.",
+        "frasePortugues": "O falcão caça animais pequenos.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 54,
+        "ingles": "Owl",
+        "portugues": "Coruja",
+        "fraseIngles": "The owl hoots at night.",
+        "frasePortugues": "A coruja pia à noite.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 55,
+        "ingles": "Parrot",
+        "portugues": "Papagaio",
+        "fraseIngles": "The parrot can mimic human speech.",
+        "frasePortugues": "O papagaio pode imitar a fala humana.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 56,
+        "ingles": "Peacock",
+        "portugues": "Pavão",
+        "fraseIngles": "The peacock displays its colorful feathers.",
+        "frasePortugues": "O pavão exibe suas penas coloridas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 57,
+        "ingles": "Swan",
+        "portugues": "Cisne",
+        "fraseIngles": "The white swan glides on the lake.",
+        "frasePortugues": "O cisne branco desliza no lago.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 58,
+        "ingles": "Flamingo",
+        "portugues": "Flamingo",
+        "fraseIngles": "The pink flamingo stands on one leg.",
+        "frasePortugues": "O flamingo rosa fica em pé numa perna só.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 59,
+        "ingles": "Pelican",
+        "portugues": "Pelicano",
+        "fraseIngles": "The pelican has a large beak.",
+        "frasePortugues": "O pelicano tem um bico grande.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 60,
+        "ingles": "Seagull",
+        "portugues": "Gaivota",
+        "fraseIngles": "The seagull flies over the ocean.",
+        "frasePortugues": "A gaivota voa sobre o oceano.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 61,
+        "ingles": "Robin",
+        "portugues": "Pintarroxo",
+        "fraseIngles": "The robin has a red breast.",
+        "frasePortugues": "O pintarroxo tem o peito vermelho.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 62,
+        "ingles": "Cardinal",
+        "portugues": "Cardeal",
+        "fraseIngles": "The red cardinal sits on the branch.",
+        "frasePortugues": "O cardeal vermelho senta no galho.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 63,
+        "ingles": "Blue jay",
+        "portugues": "Gaio-azul",
+        "fraseIngles": "The blue jay is a noisy bird.",
+        "frasePortugues": "O gaio-azul é um pássaro barulhento.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 64,
+        "ingles": "Woodpecker",
+        "portugues": "Pica-pau",
+        "fraseIngles": "The woodpecker pecks holes in trees.",
+        "frasePortugues": "O pica-pau faz buracos nas árvores.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 65,
+        "ingles": "Hummingbird",
+        "portugues": "Beija-flor",
+        "fraseIngles": "The tiny hummingbird hovers near flowers.",
+        "frasePortugues": "O pequeno beija-flor paira perto das flores.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 66,
+        "ingles": "Crane",
+        "portugues": "Grou",
+        "fraseIngles": "The crane has long legs and neck.",
+        "frasePortugues": "O grou tem pernas e pescoço compridos.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 67,
+        "ingles": "Stork",
+        "portugues": "Cegonha",
+        "fraseIngles": "The stork delivers babies in stories.",
+        "frasePortugues": "A cegonha entrega bebês nas histórias.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 68,
+        "ingles": "Vulture",
+        "portugues": "Abutre",
+        "fraseIngles": "The vulture circles overhead.",
+        "frasePortugues": "O abutre voa em círculos no alto.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 69,
+        "ingles": "Ostrich",
+        "portugues": "Avestruz",
+        "fraseIngles": "The ostrich is the largest bird.",
+        "frasePortugues": "O avestruz é o maior pássaro.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 70,
+        "ingles": "Butterfly",
+        "portugues": "Borboleta",
+        "fraseIngles": "The colorful butterfly lands on the flower.",
+        "frasePortugues": "A borboleta colorida pousa na flor.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 71,
+        "ingles": "Bee",
+        "portugues": "Abelha",
+        "fraseIngles": "The bee collects nectar from flowers.",
+        "frasePortugues": "A abelha coleta néctar das flores.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 72,
+        "ingles": "Wasp",
+        "portugues": "Vespa",
+        "fraseIngles": "The wasp has a painful sting.",
+        "frasePortugues": "A vespa tem uma picada dolorosa.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 73,
+        "ingles": "Ant",
+        "portugues": "Formiga",
+        "fraseIngles": "The ant carries food to its nest.",
+        "frasePortugues": "A formiga carrega comida para seu ninho.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 74,
+        "ingles": "Spider",
+        "portugues": "Aranha",
+        "fraseIngles": "The spider spins a web.",
+        "frasePortugues": "A aranha tece uma teia.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 75,
+        "ingles": "Fly",
+        "portugues": "Mosca",
+        "fraseIngles": "The fly buzzes around the room.",
+        "frasePortugues": "A mosca zumbe pela sala.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 76,
+        "ingles": "Mosquito",
+        "portugues": "Mosquito",
+        "fraseIngles": "The mosquito bites and causes itching.",
+        "frasePortugues": "O mosquito pica e causa coceira.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 77,
+        "ingles": "Grasshopper",
+        "portugues": "Gafanhoto",
+        "fraseIngles": "The green grasshopper jumps in the grass.",
+        "frasePortugues": "O gafanhoto verde pula na grama.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 78,
+        "ingles": "Cricket",
+        "portugues": "Grilo",
+        "fraseIngles": "The cricket chirps at night.",
+        "frasePortugues": "O grilo faz ruído à noite.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 79,
+        "ingles": "Ladybug",
+        "portugues": "Joaninha",
+        "fraseIngles": "The red ladybug has black spots.",
+        "frasePortugues": "A joaninha vermelha tem pontos pretos.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 80,
+        "ingles": "Dragonfly",
+        "portugues": "Libélula",
+        "fraseIngles": "The dragonfly hovers over the pond.",
+        "frasePortugues": "A libélula paira sobre a lagoa.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 81,
+        "ingles": "Caterpillar",
+        "portugues": "Lagarta",
+        "fraseIngles": "The caterpillar will become a butterfly.",
+        "frasePortugues": "A lagarta se tornará uma borboleta.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 82,
+        "ingles": "Worm",
+        "portugues": "Minhoca",
+        "fraseIngles": "The worm lives in the soil.",
+        "frasePortugues": "A minhoca vive no solo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 83,
+        "ingles": "Snail",
+        "portugues": "Caracol",
+        "fraseIngles": "The snail carries its house.",
+        "frasePortugues": "O caracol carrega sua casa.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 84,
+        "ingles": "Beetle",
+        "portugues": "Besouro",
+        "fraseIngles": "The black beetle crawls on the ground.",
+        "frasePortugues": "O besouro preto rasteja no chão.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 85,
+        "ingles": "Cockroach",
+        "portugues": "Barata",
+        "fraseIngles": "The cockroach hides in dark places.",
+        "frasePortugues": "A barata se esconde em lugares escuros.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 86,
+        "ingles": "Termite",
+        "portugues": "Cupim",
+        "fraseIngles": "The termite eats wood.",
+        "frasePortugues": "O cupim come madeira.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 87,
+        "ingles": "Flea",
+        "portugues": "Pulga",
+        "fraseIngles": "The flea jumps on the dog.",
+        "frasePortugues": "A pulga pula no cachorro.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 88,
+        "ingles": "Tick",
+        "portugues": "Carrapato",
+        "fraseIngles": "The tick attaches to animals.",
+        "frasePortugues": "O carrapato se gruda nos animais.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 89,
+        "ingles": "Snake",
+        "portugues": "Cobra",
+        "fraseIngles": "The snake slithers through the grass.",
+        "frasePortugues": "A cobra desliza pela grama.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 90,
+        "ingles": "Lizard",
+        "portugues": "Lagarto",
+        "fraseIngles": "The green lizard basks on the rock.",
+        "frasePortugues": "O lagarto verde se aquece na pedra.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 91,
+        "ingles": "Iguana",
+        "portugues": "Iguana",
+        "fraseIngles": "The iguana sits motionless in the sun.",
+        "frasePortugues": "A iguana fica imóvel no sol.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 92,
+        "ingles": "Gecko",
+        "portugues": "Lagartixa",
+        "fraseIngles": "The gecko climbs walls easily.",
+        "frasePortugues": "A lagartixa sobe paredes facilmente.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 93,
+        "ingles": "Chameleon",
+        "portugues": "Camaleão",
+        "fraseIngles": "The chameleon changes colors.",
+        "frasePortugues": "O camaleão muda de cores.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 94,
+        "ingles": "Alligator",
+        "portugues": "Jacaré",
+        "fraseIngles": "The alligator lurks in the swamp.",
+        "frasePortugues": "O jacaré se esconde no pântano.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 95,
+        "ingles": "Crocodile",
+        "portugues": "Crocodilo",
+        "fraseIngles": "The crocodile has powerful jaws.",
+        "frasePortugues": "O crocodilo tem mandíbulas poderosas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 96,
+        "ingles": "Frog",
+        "portugues": "Sapo",
+        "fraseIngles": "The frog jumps from lily pad to lily pad.",
+        "frasePortugues": "O sapo pula de vitória-régia em vitória-régia.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 97,
+        "ingles": "Toad",
+        "portugues": "Sapo",
+        "fraseIngles": "The toad has bumpy skin.",
+        "frasePortugues": "O sapo tem pele rugosa.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 98,
+        "ingles": "Salamander",
+        "portugues": "Salamandra",
+        "fraseIngles": "The salamander lives in damp places.",
+        "frasePortugues": "A salamandra vive em lugares úmidos.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 99,
+        "ingles": "Newt",
+        "portugues": "Tritão",
+        "fraseIngles": "The newt swims in the pond.",
+        "frasePortugues": "O tritão nada na lagoa.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 100,
+        "ingles": "Bat",
+        "portugues": "Morcego",
+        "fraseIngles": "The bat hangs upside down.",
+        "frasePortugues": "O morcego fica de cabeça para baixo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 101,
+        "ingles": "Mouse",
+        "portugues": "Rato",
+        "fraseIngles": "The small mouse squeaks quietly.",
+        "frasePortugues": "O ratinho pequeno chia baixinho.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 102,
+        "ingles": "Rat",
+        "portugues": "Rato",
+        "fraseIngles": "The rat gnaws on everything.",
+        "frasePortugues": "O rato rói tudo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 103,
+        "ingles": "Mole",
+        "portugues": "Toupeira",
+        "fraseIngles": "The mole digs tunnels underground.",
+        "frasePortugues": "A toupeira cava túneis no subsolo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 104,
+        "ingles": "Hedgehog",
+        "portugues": "Ouriço",
+        "fraseIngles": "The hedgehog rolls into a ball.",
+        "frasePortugues": "O ouriço se enrola numa bola.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 105,
+        "ingles": "Ferret",
+        "portugues": "Furão",
+        "fraseIngles": "The ferret is playful and curious.",
+        "frasePortugues": "O furão é brincalhão e curioso.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 106,
+        "ingles": "Chinchilla",
+        "portugues": "Chinchila",
+        "fraseIngles": "The chinchilla has very soft fur.",
+        "frasePortugues": "A chinchila tem pelo muito macio.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 107,
+        "ingles": "Gerbil",
+        "portugues": "Gerbo",
+        "fraseIngles": "The gerbil stores food in its cheeks.",
+        "frasePortugues": "O gerbo guarda comida nas bochechas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 108,
+        "ingles": "Kangaroo",
+        "portugues": "Canguru",
+        "fraseIngles": "The kangaroo hops on strong legs.",
+        "frasePortugues": "O canguru pula com pernas fortes.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 109,
+        "ingles": "Koala",
+        "portugues": "Coala",
+        "fraseIngles": "The koala sleeps in eucalyptus trees.",
+        "frasePortugues": "O coala dorme em árvores de eucalipto.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 110,
+        "ingles": "Panda",
+        "portugues": "Panda",
+        "fraseIngles": "The panda eats bamboo all day.",
+        "frasePortugues": "O panda come bambu o dia todo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 111,
+        "ingles": "Sloth",
+        "portugues": "Bicho-preguiça",
+        "fraseIngles": "The sloth moves very slowly.",
+        "frasePortugues": "O bicho-preguiça se move muito devagar.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 112,
+        "ingles": "Armadillo",
+        "portugues": "Tatu",
+        "fraseIngles": "The armadillo has a hard shell.",
+        "frasePortugues": "O tatu tem um casco duro.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 113,
+        "ingles": "Anteater",
+        "portugues": "Tamanduá",
+        "fraseIngles": "The anteater has a long tongue.",
+        "frasePortugues": "O tamanduá tem uma língua comprida.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 114,
+        "ingles": "Hippo",
+        "portugues": "Hipopótamo",
+        "fraseIngles": "The hippo spends time in water.",
+        "frasePortugues": "O hipopótamo passa tempo na água.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 115,
+        "ingles": "Rhino",
+        "portugues": "Rinoceronte",
+        "fraseIngles": "The rhino has a horn on its nose.",
+        "frasePortugues": "O rinoceronte tem um chifre no nariz.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 116,
+        "ingles": "Camel",
+        "portugues": "Camelo",
+        "fraseIngles": "The camel stores water in its hump.",
+        "frasePortugues": "O camelo armazena água na corcova.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 117,
+        "ingles": "Llama",
+        "portugues": "Lhama",
+        "fraseIngles": "The llama has thick woolly fur.",
+        "frasePortugues": "A lhama tem pelo grosso e lanoso.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 118,
+        "ingles": "Alpaca",
+        "portugues": "Alpaca",
+        "fraseIngles": "The alpaca is smaller than a llama.",
+        "frasePortugues": "A alpaca é menor que uma lhama.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 119,
+        "ingles": "Donkey",
+        "portugues": "Burro",
+        "fraseIngles": "The donkey brays loudly.",
+        "frasePortugues": "O burro zurra alto.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 120,
+        "ingles": "Mule",
+        "portugues": "Mula",
+        "fraseIngles": "The mule is strong and stubborn.",
+        "frasePortugues": "A mula é forte e teimosa.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 121,
+        "ingles": "Yak",
+        "portugues": "Iaque",
+        "fraseIngles": "The yak lives in high mountains.",
+        "frasePortugues": "O iaque vive em montanhas altas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 122,
+        "ingles": "Buffalo",
+        "portugues": "Búfalo",
+        "fraseIngles": "The buffalo roams the plains.",
+        "frasePortugues": "O búfalo vagueia pelas planícies.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 123,
+        "ingles": "Bison",
+        "portugues": "Bisão",
+        "fraseIngles": "The bison has a shaggy coat.",
+        "frasePortugues": "O bisão tem pelo felpudo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 124,
+        "ingles": "Moose",
+        "portugues": "Alce",
+        "fraseIngles": "The moose has large antlers.",
+        "frasePortugues": "O alce tem chifres grandes.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 125,
+        "ingles": "Elk",
+        "portugues": "Cervo",
+        "fraseIngles": "The elk migrates in herds.",
+        "frasePortugues": "O cervo migra em rebanhos.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 126,
+        "ingles": "Antelope",
+        "portugues": "Antílope",
+        "fraseIngles": "The antelope runs very fast.",
+        "frasePortugues": "O antílope corre muito rápido.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 127,
+        "ingles": "Gazelle",
+        "portugues": "Gazela",
+        "fraseIngles": "The gazelle leaps gracefully.",
+        "frasePortugues": "A gazela pula graciosamente.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 128,
+        "ingles": "Cheetah",
+        "portugues": "Guepardo",
+        "fraseIngles": "The cheetah is the fastest land animal.",
+        "frasePortugues": "O guepardo é o animal terrestre mais rápido.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 129,
+        "ingles": "Leopard",
+        "portugues": "Leopardo",
+        "fraseIngles": "The leopard has spotted fur.",
+        "frasePortugues": "O leopardo tem pelo manchado.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 130,
+        "ingles": "Jaguar",
+        "portugues": "Onça",
+        "fraseIngles": "The jaguar is a powerful hunter.",
+        "frasePortugues": "A onça é uma caçadora poderosa.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 131,
+        "ingles": "Panther",
+        "portugues": "Pantera",
+        "fraseIngles": "The black panther moves silently.",
+        "frasePortugues": "A pantera negra se move silenciosamente.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 132,
+        "ingles": "Lynx",
+        "portugues": "Lince",
+        "fraseIngles": "The lynx has tufted ears.",
+        "frasePortugues": "O lince tem orelhas com tufos.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 133,
+        "ingles": "Bobcat",
+        "portugues": "Lince-vermelho",
+        "fraseIngles": "The bobcat hunts at night.",
+        "frasePortugues": "O lince-vermelho caça à noite.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 134,
+        "ingles": "Cougar",
+        "portugues": "Puma",
+        "fraseIngles": "The cougar is also called a mountain lion.",
+        "frasePortugues": "O puma também é chamado de leão-da-montanha.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 135,
+        "ingles": "Hyena",
+        "portugues": "Hiena",
+        "fraseIngles": "The hyena laughs in a scary way.",
+        "frasePortugues": "A hiena ri de forma assustadora.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 136,
+        "ingles": "Jackal",
+        "portugues": "Chacal",
+        "fraseIngles": "The jackal scavenges for food.",
+        "frasePortugues": "O chacal procura comida.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 137,
+        "ingles": "Coyote",
+        "portugues": "Coiote",
+        "fraseIngles": "The coyote howls in the desert.",
+        "frasePortugues": "O coiote uiva no deserto.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 138,
+        "ingles": "Dingo",
+        "portugues": "Dingo",
+        "fraseIngles": "The dingo is a wild dog.",
+        "frasePortugues": "O dingo é um cachorro selvagem.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 139,
+        "ingles": "Weasel",
+        "portugues": "Doninha",
+        "fraseIngles": "The weasel is small and quick.",
+        "frasePortugues": "A doninha é pequena e rápida.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 140,
+        "ingles": "Badger",
+        "portugues": "Texugo",
+        "fraseIngles": "The badger digs with strong claws.",
+        "frasePortugues": "O texugo cava com garras fortes.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 141,
+        "ingles": "Wolverine",
+        "portugues": "Carcaju",
+        "fraseIngles": "The wolverine is very fierce.",
+        "frasePortugues": "O carcaju é muito feroz.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 142,
+        "ingles": "Marten",
+        "portugues": "Marta",
+        "fraseIngles": "The marten climbs trees skillfully.",
+        "frasePortugues": "A marta sobe em árvores habilmente.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 143,
+        "ingles": "Stoat",
+        "portugues": "Arminho",
+        "fraseIngles": "The stoat changes color in winter.",
+        "frasePortugues": "O arminho muda de cor no inverno.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 144,
+        "ingles": "Ermine",
+        "portugues": "Arminho",
+        "fraseIngles": "The ermine has pure white fur.",
+        "frasePortugues": "O arminho tem pelo branco puro.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 145,
+        "ingles": "Mink",
+        "portugues": "Vison",
+        "fraseIngles": "The mink has valuable fur.",
+        "frasePortugues": "O vison tem pelo valioso.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 146,
+        "ingles": "Sable",
+        "portugues": "Zibelina",
+        "fraseIngles": "The sable lives in cold forests.",
+        "frasePortugues": "A zibelina vive em florestas frias.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 147,
+        "ingles": "Chinchilla",
+        "portugues": "Chinchila",
+        "fraseIngles": "The chinchilla takes dust baths.",
+        "frasePortugues": "A chinchila toma banhos de poeira.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 148,
+        "ingles": "Groundhog",
+        "portugues": "Marmota",
+        "fraseIngles": "The groundhog predicts spring weather.",
+        "frasePortugues": "A marmota prevê o clima da primavera.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 149,
+        "ingles": "Prairie dog",
+        "portugues": "Cão-da-pradaria",
+        "fraseIngles": "The prairie dog lives in burrows.",
+        "frasePortugues": "O cão-da-pradaria vive em tocas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 150,
+        "ingles": "Chipmunk",
+        "portugues": "Esquilo-listrado",
+        "fraseIngles": "The chipmunk has striped fur.",
+        "frasePortugues": "O esquilo-listrado tem pelo listrado.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 151,
+        "ingles": "Flying squirrel",
+        "portugues": "Esquilo-voador",
+        "fraseIngles": "The flying squirrel glides between trees.",
+        "frasePortugues": "O esquilo-voador planeia entre as árvores.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 152,
+        "ingles": "Porcupine",
+        "portugues": "Porco-espinho",
+        "fraseIngles": "The porcupine defends with quills.",
+        "frasePortugues": "O porco-espinho se defende com espinhos.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 153,
+        "ingles": "Opossum",
+        "portugues": "Gambá",
+        "fraseIngles": "The opossum plays dead when scared.",
+        "frasePortugues": "O gambá se finge de morto quando assustado.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 154,
+        "ingles": "Platypus",
+        "portugues": "Ornitorrinco",
+        "fraseIngles": "The platypus lays eggs like a bird.",
+        "frasePortugues": "O ornitorrinco põe ovos como um pássaro.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 155,
+        "ingles": "Echidna",
+        "portugues": "Equidna",
+        "fraseIngles": "The echidna has spines like a hedgehog.",
+        "frasePortugues": "A equidna tem espinhos como um ouriço.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 156,
+        "ingles": "Tasmanian devil",
+        "portugues": "Diabo-da-tasmânia",
+        "fraseIngles": "The Tasmanian devil has a fierce temper.",
+        "frasePortugues": "O diabo-da-tasmânia tem temperamento feroz.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 157,
+        "ingles": "Wombat",
+        "portugues": "Vombate",
+        "fraseIngles": "The wombat digs extensive burrows.",
+        "frasePortugues": "O vombate cava tocas extensas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 158,
+        "ingles": "Wallaby",
+        "portugues": "Wallaby",
+        "fraseIngles": "The wallaby is smaller than a kangaroo.",
+        "frasePortugues": "O wallaby é menor que um canguru.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 159,
+        "ingles": "Numbat",
+        "portugues": "Numbat",
+        "fraseIngles": "The numbat eats termites.",
+        "frasePortugues": "O numbat come cupins.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 160,
+        "ingles": "Quokka",
+        "portugues": "Quokka",
+        "fraseIngles": "The quokka appears to smile.",
+        "frasePortugues": "O quokka parece sorrir.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 161,
+        "ingles": "Animal",
+        "portugues": "Animal",
+        "fraseIngles": "Every animal has its own habitat.",
+        "frasePortugues": "Todo animal tem seu próprio habitat.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 162,
+        "ingles": "Mammal",
+        "portugues": "Mamífero",
+        "fraseIngles": "A mammal feeds milk to its babies.",
+        "frasePortugues": "Um mamífero alimenta seus filhotes com leite.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 163,
+        "ingles": "Reptile",
+        "portugues": "Réptil",
+        "fraseIngles": "A reptile has cold blood.",
+        "frasePortugues": "Um réptil tem sangue frio.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 164,
+        "ingles": "Amphibian",
+        "portugues": "Anfíbio",
+        "fraseIngles": "An amphibian lives on land and water.",
+        "frasePortugues": "Um anfíbio vive na terra e na água.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 165,
+        "ingles": "Insect",
+        "portugues": "Inseto",
+        "fraseIngles": "An insect has six legs.",
+        "frasePortugues": "Um inseto tem seis pernas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 166,
+        "ingles": "Predator",
+        "portugues": "Predador",
+        "fraseIngles": "A predator hunts other animals.",
+        "frasePortugues": "Um predador caça outros animais.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 167,
+        "ingles": "Prey",
+        "portugues": "Presa",
+        "fraseIngles": "The prey tries to escape the predator.",
+        "frasePortugues": "A presa tenta escapar do predador.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 168,
+        "ingles": "Carnivore",
+        "portugues": "Carnívoro",
+        "fraseIngles": "A carnivore eats only meat.",
+        "frasePortugues": "Um carnívoro come apenas carne.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 169,
+        "ingles": "Herbivore",
+        "portugues": "Herbívoro",
+        "fraseIngles": "A herbivore eats only plants.",
+        "frasePortugues": "Um herbívoro come apenas plantas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 170,
+        "ingles": "Omnivore",
+        "portugues": "Onívoro",
+        "fraseIngles": "An omnivore eats plants and meat.",
+        "frasePortugues": "Um onívoro come plantas e carne.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 171,
+        "ingles": "Wild",
+        "portugues": "Selvagem",
+        "fraseIngles": "Wild animals live in nature.",
+        "frasePortugues": "Animais selvagens vivem na natureza.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 172,
+        "ingles": "Domestic",
+        "portugues": "Doméstico",
+        "fraseIngles": "Domestic animals live with humans.",
+        "frasePortugues": "Animais domésticos vivem com humanos.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 173,
+        "ingles": "Pet",
+        "portugues": "Animal de estimação",
+        "fraseIngles": "A pet is a companion animal.",
+        "frasePortugues": "Um animal de estimação é um animal de companhia.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 174,
+        "ingles": "Herd",
+        "portugues": "Rebanho",
+        "fraseIngles": "The herd of cattle grazes together.",
+        "frasePortugues": "O rebanho de gado pasta junto.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 175,
+        "ingles": "Pack",
+        "portugues": "Matilha",
+        "fraseIngles": "Wolves hunt in a pack.",
+        "frasePortugues": "Os lobos caçam em matilha.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 176,
+        "ingles": "Flock",
+        "portugues": "Bando",
+        "fraseIngles": "A flock of birds flies south.",
+        "frasePortugues": "Um bando de pássaros voa para o sul.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 177,
+        "ingles": "School",
+        "portugues": "Cardume",
+        "fraseIngles": "A school of fish swims together.",
+        "frasePortugues": "Um cardume de peixes nada junto.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 178,
+        "ingles": "Colony",
+        "portugues": "Colônia",
+        "fraseIngles": "Bees live in a colony.",
+        "frasePortugues": "As abelhas vivem em colônia.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 179,
+        "ingles": "Nest",
+        "portugues": "Ninho",
+        "fraseIngles": "Birds build a nest for their eggs.",
+        "frasePortugues": "Os pássaros constroem um ninho para seus ovos.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 180,
+        "ingles": "Den",
+        "portugues": "Toca",
+        "fraseIngles": "The bear sleeps in its den.",
+        "frasePortugues": "O urso dorme em sua toca.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 181,
+        "ingles": "Burrow",
+        "portugues": "Toca",
+        "fraseIngles": "Rabbits dig a burrow underground.",
+        "frasePortugues": "Coelhos cavam uma toca no subsolo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 182,
+        "ingles": "Cave",
+        "portugues": "Caverna",
+        "fraseIngles": "Bats live in a dark cave.",
+        "frasePortugues": "Morcegos vivem numa caverna escura.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 183,
+        "ingles": "Habitat",
+        "portugues": "Habitat",
+        "fraseIngles": "Each animal needs its natural habitat.",
+        "frasePortugues": "Cada animal precisa de seu habitat natural.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 184,
+        "ingles": "Environment",
+        "portugues": "Ambiente",
+        "fraseIngles": "Animals adapt to their environment.",
+        "frasePortugues": "Animais se adaptam ao seu ambiente.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 185,
+        "ingles": "Ecosystem",
+        "portugues": "Ecossistema",
+        "fraseIngles": "Every ecosystem has many species.",
+        "frasePortugues": "Todo ecossistema tem muitas espécies.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 186,
+        "ingles": "Species",
+        "portugues": "Espécie",
+        "fraseIngles": "Each species has unique characteristics.",
+        "frasePortugues": "Cada espécie tem características únicas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 187,
+        "ingles": "Breed",
+        "portugues": "Raça",
+        "fraseIngles": "This dog is a mixed breed.",
+        "frasePortugues": "Este cachorro é de raça misturada.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 188,
+        "ingles": "Male",
+        "portugues": "Macho",
+        "fraseIngles": "The male lion has a mane.",
+        "frasePortugues": "O leão macho tem uma juba.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 189,
+        "ingles": "Female",
+        "portugues": "Fêmea",
+        "fraseIngles": "The female bird lays the eggs.",
+        "frasePortugues": "A ave fêmea põe os ovos.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 190,
+        "ingles": "Baby",
+        "portugues": "Filhote",
+        "fraseIngles": "The baby elephant stays close to mother.",
+        "frasePortugues": "O filhote de elefante fica perto da mãe.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 191,
+        "ingles": "Offspring",
+        "portugues": "Descendência",
+        "fraseIngles": "Animals protect their offspring.",
+        "frasePortugues": "Os animais protegem sua descendência.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 192,
+        "ingles": "Cub",
+        "portugues": "Filhote",
+        "fraseIngles": "The bear cub learns from its mother.",
+        "frasePortugues": "O filhote de urso aprende com sua mãe.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 193,
+        "ingles": "Puppy",
+        "portugues": "Filhote de cachorro",
+        "fraseIngles": "The puppy plays with a ball.",
+        "frasePortugues": "O filhote de cachorro brinca com uma bola.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 194,
+        "ingles": "Kitten",
+        "portugues": "Filhote de gato",
+        "fraseIngles": "The kitten drinks milk from mother.",
+        "frasePortugues": "O filhote de gato bebe leite da mãe.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 195,
+        "ingles": "Calf",
+        "portugues": "Bezerro",
+        "fraseIngles": "The calf follows the cow.",
+        "frasePortugues": "O bezerro segue a vaca.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 196,
+        "ingles": "Foal",
+        "portugues": "Potro",
+        "fraseIngles": "The foal learns to run.",
+        "frasePortugues": "O potro aprende a correr.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 197,
+        "ingles": "Lamb",
+        "portugues": "Cordeiro",
+        "fraseIngles": "The lamb has soft white wool.",
+        "frasePortugues": "O cordeiro tem lã branca macia.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 198,
+        "ingles": "Piglet",
+        "portugues": "Leitão",
+        "fraseIngles": "The piglet rolls in mud.",
+        "frasePortugues": "O leitão se rola na lama.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 199,
+        "ingles": "Chick",
+        "portugues": "Pintinho",
+        "fraseIngles": "The yellow chick hatches from egg.",
+        "frasePortugues": "O pintinho amarelo nasce do ovo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 200,
+        "ingles": "Duckling",
+        "portugues": "Patinho",
+        "fraseIngles": "The duckling follows its mother.",
+        "frasePortugues": "O patinho segue sua mãe.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 201,
+        "ingles": "Gosling",
+        "portugues": "Filhote de ganso",
+        "fraseIngles": "The gosling learns to swim.",
+        "frasePortugues": "O filhote de ganso aprende a nadar.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 202,
+        "ingles": "Tadpole",
+        "portugues": "Girino",
+        "fraseIngles": "The tadpole becomes a frog.",
+        "frasePortugues": "O girino se torna um sapo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 203,
+        "ingles": "Larva",
+        "portugues": "Larva",
+        "fraseIngles": "The larva transforms into adult.",
+        "frasePortugues": "A larva se transforma em adulto.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 204,
+        "ingles": "Egg",
+        "portugues": "Ovo",
+        "fraseIngles": "Birds lay eggs in spring.",
+        "frasePortugues": "Os pássaros põem ovos na primavera.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 205,
+        "ingles": "Shell",
+        "portugues": "Casca",
+        "fraseIngles": "The chick breaks out of shell.",
+        "frasePortugues": "O pintinho sai da casca.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 206,
+        "ingles": "Feather",
+        "portugues": "Pena",
+        "fraseIngles": "The bird preens its feathers.",
+        "frasePortugues": "O pássaro arruma suas penas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 207,
+        "ingles": "Wing",
+        "portugues": "Asa",
+        "fraseIngles": "The bird flaps its wings.",
+        "frasePortugues": "O pássaro bate as asas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 208,
+        "ingles": "Beak",
+        "portugues": "Bico",
+        "fraseIngles": "The bird uses its beak to eat.",
+        "frasePortugues": "O pássaro usa seu bico para comer.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 209,
+        "ingles": "Claw",
+        "portugues": "Garra",
+        "fraseIngles": "The eagle has sharp claws.",
+        "frasePortugues": "A águia tem garras afiadas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 210,
+        "ingles": "Talon",
+        "portugues": "Garra",
+        "fraseIngles": "The hawk grabs with its talons.",
+        "frasePortugues": "O falcão agarra com suas garras.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 211,
+        "ingles": "Fin",
+        "portugues": "Barbatana",
+        "fraseIngles": "Fish swim using their fins.",
+        "frasePortugues": "Os peixes nadam usando suas barbatanas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 212,
+        "ingles": "Scale",
+        "portugues": "Escama",
+        "fraseIngles": "Fish have scales on their skin.",
+        "frasePortugues": "Os peixes têm escamas na pele.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 213,
+        "ingles": "Gill",
+        "portugues": "Guelra",
+        "fraseIngles": "Fish breathe through gills.",
+        "frasePortugues": "Os peixes respiram através das guelras.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 214,
+        "ingles": "Fur",
+        "portugues": "Pelo",
+        "fraseIngles": "The cat has soft fur.",
+        "frasePortugues": "O gato tem pelo macio.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 215,
+        "ingles": "Hair",
+        "portugues": "Pelo",
+        "fraseIngles": "The dog's hair is thick.",
+        "frasePortugues": "O pelo do cachorro é grosso.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 216,
+        "ingles": "Hide",
+        "portugues": "Pele",
+        "fraseIngles": "The cow has thick hide.",
+        "frasePortugues": "A vaca tem pele grossa.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 217,
+        "ingles": "Skin",
+        "portugues": "Pele",
+        "fraseIngles": "The snake sheds its skin.",
+        "frasePortugues": "A cobra troca de pele.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 218,
+        "ingles": "Horn",
+        "portugues": "Chifre",
+        "fraseIngles": "The bull has two horns.",
+        "frasePortugues": "O touro tem dois chifres.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 219,
+        "ingles": "Antler",
+        "portugues": "Galhada",
+        "fraseIngles": "Deer grow new antlers yearly.",
+        "frasePortugues": "Os cervos crescem galhadas novas anualmente.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 220,
+        "ingles": "Tusk",
+        "portugues": "Presa",
+        "fraseIngles": "The elephant has ivory tusks.",
+        "frasePortugues": "O elefante tem presas de marfim.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 221,
+        "ingles": "Mane",
+        "portugues": "Juba",
+        "fraseIngles": "The lion's mane is majestic.",
+        "frasePortugues": "A juba do leão é majestosa.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 222,
+        "ingles": "Tail",
+        "portugues": "Cauda",
+        "fraseIngles": "The dog wags its tail.",
+        "frasePortugues": "O cachorro balança a cauda.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 223,
+        "ingles": "Paw",
+        "portugues": "Pata",
+        "fraseIngles": "The cat licks its paw.",
+        "frasePortugues": "O gato lambe sua pata.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 224,
+        "ingles": "Hoof",
+        "portugues": "Casco",
+        "fraseIngles": "The horse has four hooves.",
+        "frasePortugues": "O cavalo tem quatro cascos.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 225,
+        "ingles": "Snout",
+        "portugues": "Focinho",
+        "fraseIngles": "The pig has a pink snout.",
+        "frasePortugues": "O porco tem focinho rosa.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 226,
+        "ingles": "Trunk",
+        "portugues": "Tromba",
+        "fraseIngles": "The elephant uses its trunk.",
+        "frasePortugues": "O elefante usa sua tromba.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 227,
+        "ingles": "Whiskers",
+        "portugues": "Bigodes",
+        "fraseIngles": "The cat's whiskers are sensitive.",
+        "frasePortugues": "Os bigodes do gato são sensíveis.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 228,
+        "ingles": "Pouch",
+        "portugues": "Bolsa",
+        "fraseIngles": "The kangaroo carries baby in pouch.",
+        "frasePortugues": "O canguru carrega o filhote na bolsa.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 229,
+        "ingles": "Roar",
+        "portugues": "Rugir",
+        "fraseIngles": "The lion roars loudly.",
+        "frasePortugues": "O leão ruge alto.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 230,
+        "ingles": "Howl",
+        "portugues": "Uivar",
+        "fraseIngles": "Wolves howl at night.",
+        "frasePortugues": "Os lobos uivam à noite.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 231,
+        "ingles": "Bark",
+        "portugues": "Latir",
+        "fraseIngles": "Dogs bark to communicate.",
+        "frasePortugues": "Os cachorros latem para se comunicar.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 232,
+        "ingles": "Meow",
+        "portugues": "Miar",
+        "fraseIngles": "Cats meow when hungry.",
+        "frasePortugues": "Os gatos miam quando estão com fome.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 233,
+        "ingles": "Chirp",
+        "portugues": "Piar",
+        "fraseIngles": "Birds chirp in the morning.",
+        "frasePortugues": "Os pássaros piam de manhã.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 234,
+        "ingles": "Tweet",
+        "portugues": "Gorjear",
+        "fraseIngles": "The robin tweets sweetly.",
+        "frasePortugues": "O pintarroxo gorjeia docemente.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 235,
+        "ingles": "Squawk",
+        "portugues": "Grasnar",
+        "fraseIngles": "Parrots squawk loudly.",
+        "frasePortugues": "Os papagaios grasnam alto.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 236,
+        "ingles": "Hoot",
+        "portugues": "Piar",
+        "fraseIngles": "Owls hoot in the dark.",
+        "frasePortugues": "As corujas piam no escuro.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 237,
+        "ingles": "Buzz",
+        "portugues": "Zumbir",
+        "fraseIngles": "Bees buzz around flowers.",
+        "frasePortugues": "As abelhas zumbem em volta das flores.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 238,
+        "ingles": "Hiss",
+        "portugues": "Silvar",
+        "fraseIngles": "Snakes hiss when threatened.",
+        "frasePortugues": "As cobras silvam quando ameaçadas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 239,
+        "ingles": "Growl",
+        "portugues": "Rosnar",
+        "fraseIngles": "Dogs growl when angry.",
+        "frasePortugues": "Os cachorros rosnam quando bravos.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 240,
+        "ingles": "Purr",
+        "portugues": "Ronronar",
+        "fraseIngles": "Cats purr when content.",
+        "frasePortugues": "Os gatos ronronam quando satisfeitos.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 241,
+        "ingles": "Neigh",
+        "portugues": "Relinchar",
+        "fraseIngles": "Horses neigh to each other.",
+        "frasePortugues": "Os cavalos relinchám uns para os outros.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 242,
+        "ingles": "Moo",
+        "portugues": "Mugir",
+        "fraseIngles": "Cows moo in the pasture.",
+        "frasePortugues": "As vacas mugem no pasto.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 243,
+        "ingles": "Oink",
+        "portugues": "Grunhir",
+        "fraseIngles": "Pigs oink in the mud.",
+        "frasePortugues": "Os porcos grunhém na lama.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 244,
+        "ingles": "Bleat",
+        "portugues": "Balir",
+        "fraseIngles": "Sheep bleat in the field.",
+        "frasePortugues": "As ovelhas balem no campo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 245,
+        "ingles": "Cluck",
+        "portugues": "Cacarejar",
+        "fraseIngles": "Chickens cluck around the yard.",
+        "frasePortugues": "As galinhas cacarejam pelo quintal.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 246,
+        "ingles": "Quack",
+        "portugues": "Grasnar",
+        "fraseIngles": "Ducks quack by the pond.",
+        "frasePortugues": "Os patos grasnam perto da lagoa.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 247,
+        "ingles": "Honk",
+        "portugues": "Grasnar",
+        "fraseIngles": "Geese honk during migration.",
+        "frasePortugues": "Os gansos grasnam durante a migração.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 248,
+        "ingles": "Trumpet",
+        "portugues": "Barritar",
+        "fraseIngles": "Elephants trumpet when excited.",
+        "frasePortugues": "Os elefantes barritam quando empolgados.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 249,
+        "ingles": "Chatter",
+        "portugues": "Tagarelar",
+        "fraseIngles": "Monkeys chatter in trees.",
+        "frasePortugues": "Os macacos tagarelam nas árvores.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 250,
+        "ingles": "Screech",
+        "portugues": "Guinchar",
+        "fraseIngles": "Bats screech in flight.",
+        "frasePortugues": "Os morcegos guincham em voo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 251,
+        "ingles": "Squeak",
+        "portugues": "Guinchar",
+        "fraseIngles": "Mice squeak quietly.",
+        "frasePortugues": "Os ratos guincham baixinho.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 252,
+        "ingles": "Hunt",
+        "portugues": "Caçar",
+        "fraseIngles": "Lions hunt in groups.",
+        "frasePortugues": "Os leões caçam em grupos.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 253,
+        "ingles": "Migrate",
+        "portugues": "Migrar",
+        "fraseIngles": "Birds migrate south in winter.",
+        "frasePortugues": "Os pássaros migram para o sul no inverno.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 254,
+        "ingles": "Hibernate",
+        "portugues": "Hibernar",
+        "fraseIngles": "Bears hibernate through winter.",
+        "frasePortugues": "Os ursos hibernam durante o inverno.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 255,
+        "ingles": "Graze",
+        "portugues": "Pastar",
+        "fraseIngles": "Cows graze in the meadow.",
+        "frasePortugues": "As vacas pastam no prado.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 256,
+        "ingles": "Swim",
+        "portugues": "Nadar",
+        "fraseIngles": "Fish swim in the ocean.",
+        "frasePortugues": "Os peixes nadam no oceano.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 257,
+        "ingles": "Fly",
+        "portugues": "Voar",
+        "fraseIngles": "Birds fly in the sky.",
+        "frasePortugues": "Os pássaros voam no céu.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 258,
+        "ingles": "Crawl",
+        "portugues": "Rastejar",
+        "fraseIngles": "Snakes crawl on the ground.",
+        "frasePortugues": "As cobras rastejam no chão.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 259,
+        "ingles": "Hop",
+        "portugues": "Pular",
+        "fraseIngles": "Rabbits hop across the field.",
+        "frasePortugues": "Os coelhos pulam pelo campo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 260,
+        "ingles": "Gallop",
+        "portugues": "Galopar",
+        "fraseIngles": "Horses gallop across plains.",
+        "frasePortugues": "Os cavalos galopam pelas planícies.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 261,
+        "ingles": "Trot",
+        "portugues": "Trotar",
+        "fraseIngles": "The horse trots around track.",
+        "frasePortugues": "O cavalo trota pela pista.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 262,
+        "ingles": "Run",
+        "portugues": "Correr",
+        "fraseIngles": "Cheetahs run very fast.",
+        "frasePortugues": "Os guepardos correm muito rápido.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 263,
+        "ingles": "Walk",
+        "portugues": "Caminhar",
+        "fraseIngles": "Elephants walk slowly.",
+        "frasePortugues": "Os elefantes caminham devagar.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 264,
+        "ingles": "Climb",
+        "portugues": "Escalar",
+        "fraseIngles": "Monkeys climb trees easily.",
+        "frasePortugues": "Os macacos escalam árvores facilmente.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 265,
+        "ingles": "Jump",
+        "portugues": "Saltar",
+        "fraseIngles": "Frogs jump from rock to rock.",
+        "frasePortugues": "Os sapos saltam de pedra em pedra.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 266,
+        "ingles": "Leap",
+        "portugues": "Saltar",
+        "fraseIngles": "Gazelles leap gracefully.",
+        "frasePortugues": "As gazelas saltam graciosamente.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 267,
+        "ingles": "Dive",
+        "portugues": "Mergulhar",
+        "fraseIngles": "Dolphins dive deep underwater.",
+        "frasePortugues": "Os golfinhos mergulham fundo na água.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 268,
+        "ingles": "Soar",
+        "portugues": "Planar",
+        "fraseIngles": "Eagles soar on air currents.",
+        "frasePortugues": "As águias planam nas correntes de ar.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 269,
+        "ingles": "Glide",
+        "portugues": "Deslizar",
+        "fraseIngles": "Flying squirrels glide between trees.",
+        "frasePortugues": "Os esquilos-voadores deslizam entre árvores.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 270,
+        "ingles": "Slither",
+        "portugues": "Deslizar",
+        "fraseIngles": "Snakes slither through grass.",
+        "frasePortugues": "As cobras deslizam pela grama.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 271,
+        "ingles": "Waddle",
+        "portugues": "Bamboleár",
+        "fraseIngles": "Penguins waddle on ice.",
+        "frasePortugues": "Os pinguins bamboleiam no gelo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 272,
+        "ingles": "Prowl",
+        "portugues": "Espreitar",
+        "fraseIngles": "Tigers prowl through the jungle.",
+        "frasePortugues": "Os tigres espreitam pela selva.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 273,
+        "ingles": "Stalk",
+        "portugues": "Perseguir",
+        "fraseIngles": "Cats stalk their prey silently.",
+        "frasePortugues": "Os gatos perseguem sua presa silenciosamente.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 274,
+        "ingles": "Pounce",
+        "portugues": "Saltar sobre",
+        "fraseIngles": "The cat pounces on the mouse.",
+        "frasePortugues": "O gato salta sobre o rato.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 275,
+        "ingles": "Chase",
+        "portugues": "Perseguir",
+        "fraseIngles": "Dogs chase balls in the park.",
+        "frasePortugues": "Os cachorros perseguem bolas no parque.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 276,
+        "ingles": "Flee",
+        "portugues": "Fugir",
+        "fraseIngles": "Deer flee from predators.",
+        "frasePortugues": "Os cervos fogem dos predadores.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 277,
+        "ingles": "Hide",
+        "portugues": "Esconder",
+        "fraseIngles": "Rabbits hide in burrows.",
+        "frasePortugues": "Os coelhos se escondem em tocas.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 278,
+        "ingles": "Camouflage",
+        "portugues": "Camuflar",
+        "fraseIngles": "Chameleons camouflage themselves.",
+        "frasePortugues": "Os camaleões se camuflam.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 279,
+        "ingles": "Adapt",
+        "portugues": "Adaptar",
+        "fraseIngles": "Animals adapt to survive.",
+        "frasePortugues": "Os animais se adaptam para sobreviver.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 280,
+        "ingles": "Evolve",
+        "portugues": "Evoluir",
+        "fraseIngles": "Species evolve over time.",
+        "frasePortugues": "As espécies evoluem com o tempo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 281,
+        "ingles": "Extinct",
+        "portugues": "Extinto",
+        "fraseIngles": "Dinosaurs are extinct animals.",
+        "frasePortugues": "Os dinossauros são animais extintos.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 282,
+        "ingles": "Endangered",
+        "portugues": "Em perigo",
+        "fraseIngles": "Pandas are endangered species.",
+        "frasePortugues": "Os pandas são espécies em perigo.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 283,
+        "ingles": "Protected",
+        "portugues": "Protegido",
+        "fraseIngles": "Protected animals cannot be hunted.",
+        "frasePortugues": "Animais protegidos não podem ser caçados.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 284,
+        "ingles": "Conservation",
+        "portugues": "Conservação",
+        "fraseIngles": "Wildlife conservation is important.",
+        "frasePortugues": "A conservação da vida selvagem é importante.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 285,
+        "ingles": "Sanctuary",
+        "portugues": "Santuário",
+        "fraseIngles": "The animal sanctuary protects wildlife.",
+        "frasePortugues": "O santuário animal protege a vida selvagem.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 286,
+        "ingles": "Zoo",
+        "portugues": "Zoológico",
+        "fraseIngles": "Children love visiting the zoo.",
+        "frasePortugues": "As crianças adoram visitar o zoológico.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 287,
+        "ingles": "Safari",
+        "portugues": "Safari",
+        "fraseIngles": "We saw lions on safari.",
+        "frasePortugues": "Vimos leões no safari.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 288,
+        "ingles": "Veterinarian",
+        "portugues": "Veterinário",
+        "fraseIngles": "The veterinarian treats sick animals.",
+        "frasePortugues": "O veterinário trata animais doentes.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 289,
+        "ingles": "Zookeeper",
+        "portugues": "Tratador de zoológico",
+        "fraseIngles": "The zookeeper feeds the animals.",
+        "frasePortugues": "O tratador alimenta os animais.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    },
+    {
+        "id": 290,
+        "ingles": "Animal trainer",
+        "portugues": "Treinador de animais",
+        "fraseIngles": "The animal trainer works with dolphins.",
+        "frasePortugues": "O treinador de animais trabalha com golfinhos.",
+        "subtopico": "Animais",
+        "topico": "Natureza"
+    }
+]

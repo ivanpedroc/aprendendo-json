@@ -1,0 +1,1919 @@
+[
+    {
+        "id": 1,
+        "ingles": "Sunny",
+        "portugues": "Ensolarado",
+        "fraseIngles": "It's a beautiful sunny day.",
+        "frasePortugues": "É um lindo dia ensolarado.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 2,
+        "ingles": "Cloudy",
+        "portugues": "Nublado",
+        "fraseIngles": "The sky is cloudy today.",
+        "frasePortugues": "O céu está nublado hoje.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 3,
+        "ingles": "Rainy",
+        "portugues": "Chuvoso",
+        "fraseIngles": "It's been rainy all week.",
+        "frasePortugues": "Tem estado chuvoso a semana toda.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 4,
+        "ingles": "Windy",
+        "portugues": "Ventoso",
+        "fraseIngles": "The windy weather blew my hat off.",
+        "frasePortugues": "O tempo ventoso derrubou meu chapéu.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 5,
+        "ingles": "Stormy",
+        "portugues": "Tempestuoso",
+        "fraseIngles": "The stormy night kept us awake.",
+        "frasePortugues": "A noite tempestuosa nos manteve acordados.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 6,
+        "ingles": "Snowy",
+        "portugues": "Nevado",
+        "fraseIngles": "The snowy landscape is beautiful.",
+        "frasePortugues": "A paisagem nevada é linda.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 7,
+        "ingles": "Foggy",
+        "portugues": "Enevoado",
+        "fraseIngles": "The foggy morning made driving difficult.",
+        "frasePortugues": "A manhã enevoada tornou a direção difícil.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 8,
+        "ingles": "Misty",
+        "portugues": "Nebuloso",
+        "fraseIngles": "The mountains look misty this morning.",
+        "frasePortugues": "As montanhas parecem nebulosas esta manhã.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 9,
+        "ingles": "Humid",
+        "portugues": "Úmido",
+        "fraseIngles": "The humid weather makes me sweat.",
+        "frasePortugues": "O tempo úmido me faz suar.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 10,
+        "ingles": "Dry",
+        "portugues": "Seco",
+        "fraseIngles": "The dry climate requires irrigation.",
+        "frasePortugues": "O clima seco requer irrigação.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 11,
+        "ingles": "Hot",
+        "portugues": "Quente",
+        "fraseIngles": "It's too hot to work outside.",
+        "frasePortugues": "Está muito quente para trabalhar fora.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 12,
+        "ingles": "Cold",
+        "portugues": "Frio",
+        "fraseIngles": "The cold wind chills my bones.",
+        "frasePortugues": "O vento frio gela meus ossos.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 13,
+        "ingles": "Warm",
+        "portugues": "Morno",
+        "fraseIngles": "The warm sunshine feels nice.",
+        "frasePortugues": "O sol morno é agradável.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 14,
+        "ingles": "Cool",
+        "portugues": "Fresco",
+        "fraseIngles": "The cool evening air is refreshing.",
+        "frasePortugues": "O ar fresco da noite é refrescante.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 15,
+        "ingles": "Freezing",
+        "portugues": "Congelante",
+        "fraseIngles": "The freezing temperature froze the lake.",
+        "frasePortugues": "A temperatura congelante congelou o lago.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 16,
+        "ingles": "Boiling",
+        "portugues": "Escaldante",
+        "fraseIngles": "The boiling heat made everyone tired.",
+        "frasePortugues": "O calor escaldante deixou todos cansados.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 17,
+        "ingles": "Pleasant",
+        "portugues": "Agradável",
+        "fraseIngles": "The pleasant weather is perfect for picnics.",
+        "frasePortugues": "O tempo agradável é perfeito para piqueniques.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 18,
+        "ingles": "Mild",
+        "portugues": "Ameno",
+        "fraseIngles": "The mild temperature feels comfortable.",
+        "frasePortugues": "A temperatura amena é confortável.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 19,
+        "ingles": "Severe",
+        "portugues": "Severo",
+        "fraseIngles": "Severe weather warnings are in effect.",
+        "frasePortugues": "Avisos de tempo severo estão em vigor.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 20,
+        "ingles": "Extreme",
+        "portugues": "Extremo",
+        "fraseIngles": "Extreme temperatures are dangerous.",
+        "frasePortugues": "Temperaturas extremas são perigosas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 21,
+        "ingles": "Rain",
+        "portugues": "Chuva",
+        "fraseIngles": "The rain watered the garden.",
+        "frasePortugues": "A chuva regou o jardim.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 22,
+        "ingles": "Snow",
+        "portugues": "Neve",
+        "fraseIngles": "White snow covers the ground.",
+        "frasePortugues": "Neve branca cobre o chão.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 23,
+        "ingles": "Sleet",
+        "portugues": "Granizo fino",
+        "fraseIngles": "Sleet makes roads slippery.",
+        "frasePortugues": "Granizo fino torna as estradas escorregadias.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 24,
+        "ingles": "Hail",
+        "portugues": "Granizo",
+        "fraseIngles": "Large hail damaged car windows.",
+        "frasePortugues": "Granizo grande danificou vidros de carros.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 25,
+        "ingles": "Wind",
+        "portugues": "Vento",
+        "fraseIngles": "Strong wind knocked down trees.",
+        "frasePortugues": "Vento forte derrubou árvores.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 26,
+        "ingles": "Breeze",
+        "portugues": "Brisa",
+        "fraseIngles": "A gentle breeze cooled the air.",
+        "frasePortugues": "Uma brisa suave refrescou o ar.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 27,
+        "ingles": "Gust",
+        "portugues": "Rajada",
+        "fraseIngles": "A sudden gust blew papers away.",
+        "frasePortugues": "Uma rajada súbita levou os papéis.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 28,
+        "ingles": "Gale",
+        "portugues": "Vendaval",
+        "fraseIngles": "The gale force winds are dangerous.",
+        "frasePortugues": "Os ventos de vendaval são perigosos.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 29,
+        "ingles": "Storm",
+        "portugues": "Tempestade",
+        "fraseIngles": "The storm brought heavy rain.",
+        "frasePortugues": "A tempestade trouxe chuva pesada.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 30,
+        "ingles": "Thunderstorm",
+        "portugues": "Tempestade com trovões",
+        "fraseIngles": "The thunderstorm scared the children.",
+        "frasePortugues": "A tempestade com trovões assustou as crianças.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 31,
+        "ingles": "Lightning",
+        "portugues": "Raio",
+        "fraseIngles": "Bright lightning lit up the sky.",
+        "frasePortugues": "Raios brilhantes iluminaram o céu.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 32,
+        "ingles": "Thunder",
+        "portugues": "Trovão",
+        "fraseIngles": "Loud thunder followed the lightning.",
+        "frasePortugues": "Trovão alto seguiu o raio.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 33,
+        "ingles": "Hurricane",
+        "portugues": "Furacão",
+        "fraseIngles": "The hurricane caused major damage.",
+        "frasePortugues": "O furacão causou grandes danos.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 34,
+        "ingles": "Tornado",
+        "portugues": "Tornado",
+        "fraseIngles": "A tornado touched down nearby.",
+        "frasePortugues": "Um tornado tocou o chão nas proximidades.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 35,
+        "ingles": "Blizzard",
+        "portugues": "Nevasca",
+        "fraseIngles": "The blizzard closed all roads.",
+        "frasePortugues": "A nevasca fechou todas as estradas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 36,
+        "ingles": "Flood",
+        "portugues": "Inundação",
+        "fraseIngles": "Heavy rains caused severe flooding.",
+        "frasePortugues": "Chuvas pesadas causaram inundações severas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 37,
+        "ingles": "Drought",
+        "portugues": "Seca",
+        "fraseIngles": "The drought killed many crops.",
+        "frasePortugues": "A seca matou muitas plantações.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 38,
+        "ingles": "Fog",
+        "portugues": "Neblina",
+        "fraseIngles": "Dense fog reduced visibility.",
+        "frasePortugues": "Neblina densa reduziu a visibilidade.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 39,
+        "ingles": "Mist",
+        "portugues": "Névoa",
+        "fraseIngles": "Light mist covered the valley.",
+        "frasePortugues": "Névoa leve cobriu o vale.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 40,
+        "ingles": "Dew",
+        "portugues": "Orvalho",
+        "fraseIngles": "Morning dew sparkled on grass.",
+        "frasePortugues": "O orvalho da manhã brilhava na grama.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 41,
+        "ingles": "Frost",
+        "portugues": "Geada",
+        "fraseIngles": "Frost covered the car windows.",
+        "frasePortugues": "Geada cobriu os vidros do carro.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 42,
+        "ingles": "Ice",
+        "portugues": "Gelo",
+        "fraseIngles": "Thin ice formed on the pond.",
+        "frasePortugues": "Gelo fino se formou na lagoa.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 43,
+        "ingles": "Icicle",
+        "portugues": "Sincelo",
+        "fraseIngles": "Long icicles hang from the roof.",
+        "frasePortugues": "Sincelos longos pendem do telhado.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 44,
+        "ingles": "Cloud",
+        "portugues": "Nuvem",
+        "fraseIngles": "White clouds float across the sky.",
+        "frasePortugues": "Nuvens brancas flutuam pelo céu.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 45,
+        "ingles": "Sky",
+        "portugues": "Céu",
+        "fraseIngles": "The blue sky is beautiful today.",
+        "frasePortugues": "O céu azul está lindo hoje.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 46,
+        "ingles": "Sun",
+        "portugues": "Sol",
+        "fraseIngles": "The bright sun warmed the earth.",
+        "frasePortugues": "O sol brilhante aqueceu a terra.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 47,
+        "ingles": "Sunshine",
+        "portugues": "Luz solar",
+        "fraseIngles": "Warm sunshine filled the room.",
+        "frasePortugues": "Luz solar morna encheu o quarto.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 48,
+        "ingles": "Sunlight",
+        "portugues": "Luz do sol",
+        "fraseIngles": "Plants need sunlight to grow.",
+        "frasePortugues": "Plantas precisam de luz do sol para crescer.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 49,
+        "ingles": "Moon",
+        "portugues": "Lua",
+        "fraseIngles": "The full moon shines brightly.",
+        "frasePortugues": "A lua cheia brilha intensamente.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 50,
+        "ingles": "Star",
+        "portugues": "Estrela",
+        "fraseIngles": "Stars twinkle in the night sky.",
+        "frasePortugues": "Estrelas cintilam no céu noturno.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 51,
+        "ingles": "Rainbow",
+        "portugues": "Arco-íris",
+        "fraseIngles": "A colorful rainbow appeared after rain.",
+        "frasePortugues": "Um arco-íris colorido apareceu após a chuva.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 52,
+        "ingles": "Sunrise",
+        "portugues": "Nascer do sol",
+        "fraseIngles": "The beautiful sunrise painted the sky.",
+        "frasePortugues": "O belo nascer do sol pintou o céu.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 53,
+        "ingles": "Sunset",
+        "portugues": "Pôr do sol",
+        "fraseIngles": "We watched the sunset over water.",
+        "frasePortugues": "Assistimos o pôr do sol sobre a água.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 54,
+        "ingles": "Dawn",
+        "portugues": "Amanhecer",
+        "fraseIngles": "Birds sing at dawn.",
+        "frasePortugues": "Os pássaros cantam ao amanhecer.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 55,
+        "ingles": "Dusk",
+        "portugues": "Anoitecer",
+        "fraseIngles": "Streetlights come on at dusk.",
+        "frasePortugues": "As luzes da rua acendem ao anoitecer.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 56,
+        "ingles": "Weather",
+        "portugues": "Tempo",
+        "fraseIngles": "The weather forecast predicts rain.",
+        "frasePortugues": "A previsão do tempo prevê chuva.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 57,
+        "ingles": "Climate",
+        "portugues": "Clima",
+        "fraseIngles": "The tropical climate is always warm.",
+        "frasePortugues": "O clima tropical é sempre quente.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 58,
+        "ingles": "Temperature",
+        "portugues": "Temperatura",
+        "fraseIngles": "Check the temperature before going out.",
+        "frasePortugues": "Verifique a temperatura antes de sair.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 59,
+        "ingles": "Humidity",
+        "portugues": "Umidade",
+        "fraseIngles": "High humidity makes air feel thick.",
+        "frasePortugues": "Alta umidade faz o ar parecer pesado.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 60,
+        "ingles": "Pressure",
+        "portugues": "Pressão",
+        "fraseIngles": "Low pressure brings stormy weather.",
+        "frasePortugues": "Baixa pressão traz tempo tempestuoso.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 61,
+        "ingles": "Forecast",
+        "portugues": "Previsão",
+        "fraseIngles": "The weather forecast helps us plan.",
+        "frasePortugues": "A previsão do tempo nos ajuda a planejar.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 62,
+        "ingles": "Meteorology",
+        "portugues": "Meteorologia",
+        "fraseIngles": "Meteorology is the study of weather.",
+        "frasePortugues": "Meteorologia é o estudo do tempo.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 63,
+        "ingles": "Barometer",
+        "portugues": "Barômetro",
+        "fraseIngles": "A barometer measures air pressure.",
+        "frasePortugues": "Um barômetro mede a pressão do ar.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 64,
+        "ingles": "Thermometer",
+        "portugues": "Termômetro",
+        "fraseIngles": "The thermometer shows thirty degrees.",
+        "frasePortugues": "O termômetro marca trinta graus.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 65,
+        "ingles": "Hygrometer",
+        "portugues": "Higrômetro",
+        "fraseIngles": "A hygrometer measures humidity levels.",
+        "frasePortugues": "Um higrômetro mede os níveis de umidade.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 66,
+        "ingles": "Anemometer",
+        "portugues": "Anemômetro",
+        "fraseIngles": "An anemometer measures wind speed.",
+        "frasePortugues": "Um anemômetro mede a velocidade do vento.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 67,
+        "ingles": "Weather vane",
+        "portugues": "Cata-vento",
+        "fraseIngles": "The weather vane shows wind direction.",
+        "frasePortugues": "O cata-vento mostra a direção do vento.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 68,
+        "ingles": "Radar",
+        "portugues": "Radar",
+        "fraseIngles": "Weather radar tracks storm movements.",
+        "frasePortugues": "O radar meteorológico rastreia movimentos de tempestades.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 69,
+        "ingles": "Satellite",
+        "portugues": "Satélite",
+        "fraseIngles": "Weather satellites monitor global conditions.",
+        "frasePortugues": "Satélites meteorológicos monitoram condições globais.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 70,
+        "ingles": "Station",
+        "portugues": "Estação",
+        "fraseIngles": "The weather station collects data.",
+        "frasePortugues": "A estação meteorológica coleta dados.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 71,
+        "ingles": "Spring",
+        "portugues": "Primavera",
+        "fraseIngles": "Flowers bloom in spring.",
+        "frasePortugues": "Flores florescem na primavera.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 72,
+        "ingles": "Summer",
+        "portugues": "Verão",
+        "fraseIngles": "Summer brings hot weather.",
+        "frasePortugues": "O verão traz tempo quente.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 73,
+        "ingles": "Fall",
+        "portugues": "Outono",
+        "fraseIngles": "Leaves change color in fall.",
+        "frasePortugues": "As folhas mudam de cor no outono.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 74,
+        "ingles": "Autumn",
+        "portugues": "Outono",
+        "fraseIngles": "Autumn is harvest time.",
+        "frasePortugues": "O outono é época de colheita.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 75,
+        "ingles": "Winter",
+        "portugues": "Inverno",
+        "fraseIngles": "Snow falls in winter.",
+        "frasePortugues": "A neve cai no inverno.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 76,
+        "ingles": "Season",
+        "portugues": "Estação",
+        "fraseIngles": "Each season has different weather.",
+        "frasePortugues": "Cada estação tem tempo diferente.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 77,
+        "ingles": "Seasonal",
+        "portugues": "Sazonal",
+        "fraseIngles": "Seasonal changes affect plant growth.",
+        "frasePortugues": "Mudanças sazonais afetam o crescimento das plantas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 78,
+        "ingles": "Equinox",
+        "portugues": "Equinócio",
+        "fraseIngles": "Day and night are equal at equinox.",
+        "frasePortugues": "Dia e noite são iguais no equinócio.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 79,
+        "ingles": "Solstice",
+        "portugues": "Solstício",
+        "fraseIngles": "The summer solstice is longest day.",
+        "frasePortugues": "O solstício de verão é o dia mais longo.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 80,
+        "ingles": "Monsoon",
+        "portugues": "Monção",
+        "fraseIngles": "The monsoon brings heavy rains.",
+        "frasePortugues": "A monção traz chuvas pesadas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 81,
+        "ingles": "Typhoon",
+        "portugues": "Tufão",
+        "fraseIngles": "A typhoon hit the coastal area.",
+        "frasePortugues": "Um tufão atingiu a área costeira.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 82,
+        "ingles": "Cyclone",
+        "portugues": "Ciclone",
+        "fraseIngles": "The cyclone caused widespread damage.",
+        "frasePortugues": "O ciclone causou danos generalizados.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 83,
+        "ingles": "Whirlwind",
+        "portugues": "Redemoinho",
+        "fraseIngles": "A small whirlwind picked up leaves.",
+        "frasePortugues": "Um pequeno redemoinho levantou folhas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 84,
+        "ingles": "Dust storm",
+        "portugues": "Tempestade de areia",
+        "fraseIngles": "The dust storm reduced visibility.",
+        "frasePortugues": "A tempestade de areia reduziu a visibilidade.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 85,
+        "ingles": "Sandstorm",
+        "portugues": "Tempestade de areia",
+        "fraseIngles": "Sandstorms are common in deserts.",
+        "frasePortugues": "Tempestades de areia são comuns nos desertos.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 86,
+        "ingles": "Avalanche",
+        "portugues": "Avalanche",
+        "fraseIngles": "The avalanche buried the road.",
+        "frasePortugues": "A avalanche enterrou a estrada.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 87,
+        "ingles": "Mudslide",
+        "portugues": "Deslizamento de terra",
+        "fraseIngles": "Heavy rains triggered a mudslide.",
+        "frasePortugues": "Chuvas pesadas provocaram um deslizamento de terra.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 88,
+        "ingles": "Landslide",
+        "portugues": "Deslizamento",
+        "fraseIngles": "The landslide blocked the highway.",
+        "frasePortugues": "O deslizamento bloqueou a rodovia.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 89,
+        "ingles": "Earthquake",
+        "portugues": "Terremoto",
+        "fraseIngles": "The earthquake shook the buildings.",
+        "frasePortugues": "O terremoto balançou os prédios.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 90,
+        "ingles": "Tsunami",
+        "portugues": "Tsunami",
+        "fraseIngles": "The tsunami devastated coastal towns.",
+        "frasePortugues": "O tsunami devastou cidades costeiras.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 91,
+        "ingles": "Volcano",
+        "portugues": "Vulcão",
+        "fraseIngles": "The active volcano threatens nearby villages.",
+        "frasePortugues": "O vulcão ativo ameaça vilarejos próximos.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 92,
+        "ingles": "Wildfire",
+        "portugues": "Incêndio florestal",
+        "fraseIngles": "The wildfire spread quickly.",
+        "frasePortugues": "O incêndio florestal se espalhou rapidamente.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 93,
+        "ingles": "Flash flood",
+        "portugues": "Enchente repentina",
+        "fraseIngles": "Flash floods are very dangerous.",
+        "frasePortugues": "Enchentes repentinas são muito perigosas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 94,
+        "ingles": "Heat wave",
+        "portugues": "Onda de calor",
+        "fraseIngles": "The heat wave broke temperature records.",
+        "frasePortugues": "A onda de calor quebrou recordes de temperatura.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 95,
+        "ingles": "Cold snap",
+        "portugues": "Onda de frio",
+        "fraseIngles": "A sudden cold snap froze pipes.",
+        "frasePortugues": "Uma onda de frio súbita congelou os canos.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 96,
+        "ingles": "Arctic",
+        "portugues": "Ártico",
+        "fraseIngles": "Arctic winds bring freezing temperatures.",
+        "frasePortugues": "Ventos árticos trazem temperaturas congelantes.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 97,
+        "ingles": "Tropical",
+        "portugues": "Tropical",
+        "fraseIngles": "Tropical climates are warm year-round.",
+        "frasePortugues": "Climas tropicais são quentes o ano todo.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 98,
+        "ingles": "Temperate",
+        "portugues": "Temperado",
+        "fraseIngles": "Temperate zones have four seasons.",
+        "frasePortugues": "Zonas temperadas têm quatro estações.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 99,
+        "ingles": "Polar",
+        "portugues": "Polar",
+        "fraseIngles": "Polar regions are extremely cold.",
+        "frasePortugues": "Regiões polares são extremamente frias.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 100,
+        "ingles": "Arid",
+        "portugues": "Árido",
+        "fraseIngles": "Desert regions have arid climates.",
+        "frasePortugues": "Regiões desérticas têm climas áridos.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 101,
+        "ingles": "Mediterranean",
+        "portugues": "Mediterrâneo",
+        "fraseIngles": "Mediterranean climates are mild.",
+        "frasePortugues": "Climas mediterrâneos são amenos.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 102,
+        "ingles": "Continental",
+        "portugues": "Continental",
+        "fraseIngles": "Continental climates have extreme seasons.",
+        "frasePortugues": "Climas continentais têm estações extremas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 103,
+        "ingles": "Maritime",
+        "portugues": "Marítimo",
+        "fraseIngles": "Maritime climates are moderated by oceans.",
+        "frasePortugues": "Climas marítimos são moderados pelos oceanos.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 104,
+        "ingles": "High pressure",
+        "portugues": "Alta pressão",
+        "fraseIngles": "High pressure brings clear skies.",
+        "frasePortugues": "Alta pressão traz céus limpos.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 105,
+        "ingles": "Low pressure",
+        "portugues": "Baixa pressão",
+        "fraseIngles": "Low pressure systems bring storms.",
+        "frasePortugues": "Sistemas de baixa pressão trazem tempestades.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 106,
+        "ingles": "Front",
+        "portugues": "Frente",
+        "fraseIngles": "A cold front is approaching.",
+        "frasePortugues": "Uma frente fria está se aproximando.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 107,
+        "ingles": "Warm front",
+        "portugues": "Frente quente",
+        "fraseIngles": "The warm front brings gentle rain.",
+        "frasePortugues": "A frente quente traz chuva suave.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 108,
+        "ingles": "Cold front",
+        "portugues": "Frente fria",
+        "fraseIngles": "Cold fronts move quickly.",
+        "frasePortugues": "Frentes frias se movem rapidamente.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 109,
+        "ingles": "Air mass",
+        "portugues": "Massa de ar",
+        "fraseIngles": "Different air masses create weather changes.",
+        "frasePortugues": "Diferentes massas de ar criam mudanças no tempo.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 110,
+        "ingles": "Jet stream",
+        "portugues": "Corrente de jato",
+        "fraseIngles": "The jet stream affects weather patterns.",
+        "frasePortugues": "A corrente de jato afeta os padrões climáticos.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 111,
+        "ingles": "Trade winds",
+        "portugues": "Ventos alísios",
+        "fraseIngles": "Trade winds blow consistently near equator.",
+        "frasePortugues": "Ventos alísios sopram consistentemente perto do equador.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 112,
+        "ingles": "Westerlies",
+        "portugues": "Ventos de oeste",
+        "fraseIngles": "Westerlies dominate middle latitudes.",
+        "frasePortugues": "Ventos de oeste dominam latitudes médias.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 113,
+        "ingles": "Wind chill",
+        "portugues": "Sensação térmica",
+        "fraseIngles": "Wind chill makes it feel colder.",
+        "frasePortugues": "A sensação térmica faz parecer mais frio.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 114,
+        "ingles": "Heat index",
+        "portugues": "Índice de calor",
+        "fraseIngles": "High humidity increases heat index.",
+        "frasePortugues": "Alta umidade aumenta o índice de calor.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 115,
+        "ingles": "Visibility",
+        "portugues": "Visibilidade",
+        "fraseIngles": "Fog reduces visibility on roads.",
+        "frasePortugues": "Neblina reduz a visibilidade nas estradas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 116,
+        "ingles": "Ceiling",
+        "portugues": "Teto de nuvens",
+        "fraseIngles": "Low ceiling grounds aircraft.",
+        "frasePortugues": "Teto baixo de nuvens mantém aeronaves no solo.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 117,
+        "ingles": "Partly cloudy",
+        "portugues": "Parcialmente nublado",
+        "fraseIngles": "It's partly cloudy this afternoon.",
+        "frasePortugues": "Está parcialmente nublado esta tarde.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 118,
+        "ingles": "Mostly sunny",
+        "portugues": "Principalmente ensolarado",
+        "fraseIngles": "Tomorrow will be mostly sunny.",
+        "frasePortugues": "Amanhã estará principalmente ensolarado.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 119,
+        "ingles": "Overcast",
+        "portugues": "Encoberto",
+        "fraseIngles": "The overcast sky looks gray.",
+        "frasePortugues": "O céu encoberto parece cinza.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 120,
+        "ingles": "Clear",
+        "portugues": "Limpo",
+        "fraseIngles": "The clear night shows many stars.",
+        "frasePortugues": "A noite limpa mostra muitas estrelas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 121,
+        "ingles": "Fair",
+        "portugues": "Bom",
+        "fraseIngles": "Fair weather is perfect for hiking.",
+        "frasePortugues": "Tempo bom é perfeito para caminhadas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 122,
+        "ingles": "Unsettled",
+        "portugues": "Instável",
+        "fraseIngles": "Unsettled weather brings scattered showers.",
+        "frasePortugues": "Tempo instável traz chuvas esparsas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 123,
+        "ingles": "Changeable",
+        "portugues": "Variável",
+        "fraseIngles": "Spring weather is very changeable.",
+        "frasePortugues": "O tempo da primavera é muito variável.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 124,
+        "ingles": "Unpredictable",
+        "portugues": "Imprevisível",
+        "fraseIngles": "Mountain weather is unpredictable.",
+        "frasePortugues": "O tempo das montanhas é imprevisível.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 125,
+        "ingles": "Stable",
+        "portugues": "Estável",
+        "fraseIngles": "Stable weather patterns last for days.",
+        "frasePortugues": "Padrões climáticos estáveis duram por dias.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 126,
+        "ingles": "Drizzle",
+        "portugues": "Chuvisco",
+        "fraseIngles": "Light drizzle dampened the ground.",
+        "frasePortugues": "Chuvisco leve umedeceu o chão.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 127,
+        "ingles": "Downpour",
+        "portugues": "Pancada de chuva",
+        "fraseIngles": "The sudden downpour soaked everyone.",
+        "frasePortugues": "A pancada de chuva súbita encharcou todos.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 128,
+        "ingles": "Shower",
+        "portugues": "Chuva rápida",
+        "fraseIngles": "Brief showers cooled the air.",
+        "frasePortugues": "Chuvas rápidas refrescaram o ar.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 129,
+        "ingles": "Sprinkle",
+        "portugues": "Garoa",
+        "fraseIngles": "Just a light sprinkle this morning.",
+        "frasePortugues": "Apenas uma garoa leve esta manhã.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 130,
+        "ingles": "Precipitation",
+        "portugues": "Precipitação",
+        "fraseIngles": "No precipitation is expected today.",
+        "frasePortugues": "Nenhuma precipitação é esperada hoje.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 131,
+        "ingles": "Accumulation",
+        "portugues": "Acumulação",
+        "fraseIngles": "Snow accumulation reached six inches.",
+        "frasePortugues": "O acúmulo de neve chegou a seis polegadas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 132,
+        "ingles": "Intensity",
+        "portugues": "Intensidade",
+        "fraseIngles": "The storm's intensity is increasing.",
+        "frasePortugues": "A intensidade da tempestade está aumentando.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 133,
+        "ingles": "Duration",
+        "portugues": "Duração",
+        "fraseIngles": "The drought's duration was six months.",
+        "frasePortugues": "A duração da seca foi de seis meses.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 134,
+        "ingles": "Frequency",
+        "portugues": "Frequência",
+        "fraseIngles": "The frequency of storms is increasing.",
+        "frasePortugues": "A frequência de tempestades está aumentando.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 135,
+        "ingles": "Pattern",
+        "portugues": "Padrão",
+        "fraseIngles": "Weather patterns are changing globally.",
+        "frasePortugues": "Padrões climáticos estão mudando globalmente.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 136,
+        "ingles": "Cycle",
+        "portugues": "Ciclo",
+        "fraseIngles": "The water cycle affects weather.",
+        "frasePortugues": "O ciclo da água afeta o tempo.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 137,
+        "ingles": "Evaporation",
+        "portugues": "Evaporação",
+        "fraseIngles": "Heat causes water evaporation.",
+        "frasePortugues": "O calor causa evaporação da água.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 138,
+        "ingles": "Condensation",
+        "portugues": "Condensação",
+        "fraseIngles": "Condensation forms clouds.",
+        "frasePortugues": "A condensação forma nuvens.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 139,
+        "ingles": "Desert",
+        "portugues": "Deserto",
+        "fraseIngles": "Deserts receive very little rain.",
+        "frasePortugues": "Desertos recebem muito pouca chuva.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 140,
+        "ingles": "Oasis",
+        "portugues": "Oásis",
+        "fraseIngles": "An oasis provides water in desert.",
+        "frasePortugues": "Um oásis fornece água no deserto.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 141,
+        "ingles": "Mountain",
+        "portugues": "Montanha",
+        "fraseIngles": "Mountains create their own weather.",
+        "frasePortugues": "Montanhas criam seu próprio tempo.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 142,
+        "ingles": "Valley",
+        "portugues": "Vale",
+        "fraseIngles": "Valleys often have morning fog.",
+        "frasePortugues": "Vales frequentemente têm névoa matinal.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 143,
+        "ingles": "Coast",
+        "portugues": "Costa",
+        "fraseIngles": "Coastal areas have moderate temperatures.",
+        "frasePortugues": "Áreas costeiras têm temperaturas moderadas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 144,
+        "ingles": "Ocean",
+        "portugues": "Oceano",
+        "fraseIngles": "Oceans moderate global climate.",
+        "frasePortugues": "Oceanos moderam o clima global.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 145,
+        "ingles": "Lake",
+        "portugues": "Lago",
+        "fraseIngles": "Large lakes affect local weather.",
+        "frasePortugues": "Lagos grandes afetam o tempo local.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 146,
+        "ingles": "River",
+        "portugues": "Rio",
+        "fraseIngles": "Rivers create humid microclimates.",
+        "frasePortugues": "Rios criam microclimas úmidos.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 147,
+        "ingles": "Plain",
+        "portugues": "Planície",
+        "fraseIngles": "Plains experience extreme weather.",
+        "frasePortugues": "Planícies experimentam tempo extremo.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 148,
+        "ingles": "Prairie",
+        "portugues": "Pradaria",
+        "fraseIngles": "Prairies have continental climates.",
+        "frasePortugues": "Pradarias têm climas continentais.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 149,
+        "ingles": "Tundra",
+        "portugues": "Tundra",
+        "fraseIngles": "Tundra regions are extremely cold.",
+        "frasePortugues": "Regiões de tundra são extremamente frias.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 150,
+        "ingles": "Rainforest",
+        "portugues": "Floresta tropical",
+        "fraseIngles": "Rainforests are hot and humid.",
+        "frasePortugues": "Florestas tropicais são quentes e úmidas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 151,
+        "ingles": "Savanna",
+        "portugues": "Savana",
+        "fraseIngles": "Savannas have wet and dry seasons.",
+        "frasePortugues": "Savanas têm estações úmidas e secas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 152,
+        "ingles": "Grassland",
+        "portugues": "Pradaria",
+        "fraseIngles": "Grasslands receive moderate rainfall.",
+        "frasePortugues": "Pradarias recebem chuva moderada.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 153,
+        "ingles": "Wetland",
+        "portugues": "Pântano",
+        "fraseIngles": "Wetlands are always moist.",
+        "frasePortugues": "Pântanos são sempre úmidos.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 154,
+        "ingles": "Swamp",
+        "portugues": "Charco",
+        "fraseIngles": "Swamps are waterlogged areas.",
+        "frasePortugues": "Charcos são áreas alagadas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 155,
+        "ingles": "Marsh",
+        "portugues": "Brejo",
+        "fraseIngles": "Marshes flood seasonally.",
+        "frasePortugues": "Brejos inundam sazonalmente.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 156,
+        "ingles": "Elevation",
+        "portugues": "Elevação",
+        "fraseIngles": "High elevation affects temperature.",
+        "frasePortugues": "Alta elevação afeta a temperatura.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 157,
+        "ingles": "Altitude",
+        "portugues": "Altitude",
+        "fraseIngles": "Altitude influences air pressure.",
+        "frasePortugues": "Altitude influencia a pressão do ar.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 158,
+        "ingles": "Latitude",
+        "portugues": "Latitude",
+        "fraseIngles": "Latitude determines climate zones.",
+        "frasePortugues": "A latitude determina as zonas climáticas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 159,
+        "ingles": "Longitude",
+        "portugues": "Longitude",
+        "fraseIngles": "Longitude affects time zones.",
+        "frasePortugues": "A longitude afeta os fusos horários.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 160,
+        "ingles": "Hemisphere",
+        "portugues": "Hemisfério",
+        "fraseIngles": "Each hemisphere has opposite seasons.",
+        "frasePortugues": "Cada hemisfério tem estações opostas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 161,
+        "ingles": "Equator",
+        "portugues": "Equador",
+        "fraseIngles": "The equator receives direct sunlight.",
+        "frasePortugues": "O equador recebe luz solar direta.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 162,
+        "ingles": "Pole",
+        "portugues": "Polo",
+        "fraseIngles": "The poles are coldest regions.",
+        "frasePortugues": "Os polos são as regiões mais frias.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 163,
+        "ingles": "Tropics",
+        "portugues": "Trópicos",
+        "fraseIngles": "The tropics are always warm.",
+        "frasePortugues": "Os trópicos são sempre quentes.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 164,
+        "ingles": "Subtropics",
+        "portugues": "Subtrópicos",
+        "fraseIngles": "Subtropics have mild winters.",
+        "frasePortugues": "Os subtrópicos têm invernos amenos.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 165,
+        "ingles": "Temperate zone",
+        "portugues": "Zona temperada",
+        "fraseIngles": "Temperate zones have moderate climates.",
+        "frasePortugues": "Zonas temperadas têm climas moderados.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 166,
+        "ingles": "Frigid zone",
+        "portugues": "Zona frígida",
+        "fraseIngles": "Frigid zones are extremely cold.",
+        "frasePortugues": "Zonas frígidas são extremamente frias.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 167,
+        "ingles": "It's raining",
+        "portugues": "Está chovendo",
+        "fraseIngles": "It's raining cats and dogs.",
+        "frasePortugues": "Está chovendo muito forte.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 168,
+        "ingles": "It's snowing",
+        "portugues": "Está nevando",
+        "fraseIngles": "It's snowing heavily outside.",
+        "frasePortugues": "Está nevando muito lá fora.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 169,
+        "ingles": "It's windy",
+        "portugues": "Está ventando",
+        "fraseIngles": "It's too windy for umbrellas.",
+        "frasePortugues": "Está muito ventoso para guarda-chuvas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 170,
+        "ingles": "It's hot",
+        "portugues": "Está quente",
+        "fraseIngles": "It's hot enough to fry an egg.",
+        "frasePortugues": "Está quente o suficiente para fritar um ovo.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 171,
+        "ingles": "It's cold",
+        "portugues": "Está frio",
+        "fraseIngles": "It's cold as ice outside.",
+        "frasePortugues": "Está frio como gelo lá fora.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 172,
+        "ingles": "It's warm",
+        "portugues": "Está morno",
+        "fraseIngles": "It's warm and comfortable today.",
+        "frasePortugues": "Está morno e confortável hoje.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 173,
+        "ingles": "It's cool",
+        "portugues": "Está fresco",
+        "fraseIngles": "It's cool this evening.",
+        "frasePortugues": "Está fresco esta noite.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 174,
+        "ingles": "It's sunny",
+        "portugues": "Está ensolarado",
+        "fraseIngles": "It's sunny and bright outside.",
+        "frasePortugues": "Está ensolarado e brilhante lá fora.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 175,
+        "ingles": "It's cloudy",
+        "portugues": "Está nublado",
+        "fraseIngles": "It's cloudy but no rain yet.",
+        "frasePortugues": "Está nublado mas ainda sem chuva.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 176,
+        "ingles": "It's foggy",
+        "portugues": "Está enevoado",
+        "fraseIngles": "It's too foggy to drive safely.",
+        "frasePortugues": "Está muito enevoado para dirigir com segurança.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 177,
+        "ingles": "It's humid",
+        "portugues": "Está úmido",
+        "fraseIngles": "It's humid and sticky today.",
+        "frasePortugues": "Está úmido e abafado hoje.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 178,
+        "ingles": "It's dry",
+        "portugues": "Está seco",
+        "fraseIngles": "It's dry and dusty here.",
+        "frasePortugues": "Está seco e empoeirado aqui.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 179,
+        "ingles": "It's stormy",
+        "portugues": "Está tempestuoso",
+        "fraseIngles": "It's stormy with lightning.",
+        "frasePortugues": "Está tempestuoso com raios.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 180,
+        "ingles": "It's freezing",
+        "portugues": "Está congelando",
+        "fraseIngles": "It's freezing cold outside.",
+        "frasePortugues": "Está muito frio lá fora.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 181,
+        "ingles": "It's boiling",
+        "portugues": "Está escaldante",
+        "fraseIngles": "It's boiling hot in the sun.",
+        "frasePortugues": "Está escaldante no sol.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 182,
+        "ingles": "What's the weather like",
+        "portugues": "Como está o tempo",
+        "fraseIngles": "What's the weather like today?",
+        "frasePortugues": "Como está o tempo hoje?",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 183,
+        "ingles": "How's the weather",
+        "portugues": "Como está o tempo",
+        "fraseIngles": "How's the weather where you are?",
+        "frasePortugues": "Como está o tempo onde você está?",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 184,
+        "ingles": "Nice weather",
+        "portugues": "Tempo bom",
+        "fraseIngles": "We're having nice weather lately.",
+        "frasePortugues": "Temos tido tempo bom ultimamente.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 185,
+        "ingles": "Bad weather",
+        "portugues": "Tempo ruim",
+        "fraseIngles": "Bad weather cancelled our picnic.",
+        "frasePortugues": "Tempo ruim cancelou nosso piquenique.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 186,
+        "ingles": "Terrible weather",
+        "portugues": "Tempo terrível",
+        "fraseIngles": "This terrible weather won't stop.",
+        "frasePortugues": "Este tempo terrível não para.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 187,
+        "ingles": "Perfect weather",
+        "portugues": "Tempo perfeito",
+        "fraseIngles": "Perfect weather for a wedding.",
+        "frasePortugues": "Tempo perfeito para um casamento.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 188,
+        "ingles": "Awful weather",
+        "portugues": "Tempo horrível",
+        "fraseIngles": "The awful weather ruined our vacation.",
+        "frasePortugues": "O tempo horrível arruinou nossas férias.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 189,
+        "ingles": "Beautiful weather",
+        "portugues": "Tempo lindo",
+        "fraseIngles": "Beautiful weather brings everyone outside.",
+        "frasePortugues": "Tempo lindo traz todos para fora.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 190,
+        "ingles": "Lovely weather",
+        "portugues": "Tempo agradável",
+        "fraseIngles": "Such lovely weather for walking.",
+        "frasePortugues": "Que tempo agradável para caminhar.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 191,
+        "ingles": "Miserable weather",
+        "portugues": "Tempo miserável",
+        "fraseIngles": "This miserable weather depresses me.",
+        "frasePortugues": "Este tempo miserável me deprime.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 192,
+        "ingles": "Under the weather",
+        "portugues": "Indisposto",
+        "fraseIngles": "I'm feeling under the weather today.",
+        "frasePortugues": "Estou me sentindo indisposto hoje.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 193,
+        "ingles": "Weather permitting",
+        "portugues": "Se o tempo permitir",
+        "fraseIngles": "We'll have the party outside, weather permitting.",
+        "frasePortugues": "Faremos a festa do lado de fora, se o tempo permitir.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 194,
+        "ingles": "Come rain or shine",
+        "portugues": "Faça chuva ou faça sol",
+        "fraseIngles": "The event will happen come rain or shine.",
+        "frasePortugues": "O evento acontecerá faça chuva ou faça sol.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 195,
+        "ingles": "A storm is brewing",
+        "portugues": "Uma tempestade está se formando",
+        "fraseIngles": "I can feel a storm is brewing.",
+        "frasePortugues": "Posso sentir que uma tempestade está se formando.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 196,
+        "ingles": "The calm before the storm",
+        "portugues": "A calmaria antes da tempestade",
+        "fraseIngles": "This quiet feels like the calm before the storm.",
+        "frasePortugues": "Esta calmaria parece a calmaria antes da tempestade.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 197,
+        "ingles": "When it rains it pours",
+        "portugues": "Desgraça pouca é bobagem",
+        "fraseIngles": "When it rains it pours in my life.",
+        "frasePortugues": "Desgraça pouca é bobagem na minha vida.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 198,
+        "ingles": "Every cloud has a silver lining",
+        "portugues": "Depois da tempestade vem a bonança",
+        "fraseIngles": "Remember, every cloud has a silver lining.",
+        "frasePortugues": "Lembre-se, depois da tempestade vem a bonança.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 199,
+        "ingles": "Red sky at night",
+        "portugues": "Céu vermelho à noite",
+        "fraseIngles": "Red sky at night, sailor's delight.",
+        "frasePortugues": "Céu vermelho à noite, alegria do marinheiro.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 200,
+        "ingles": "Lightning never strikes twice",
+        "portugues": "Um raio nunca cai duas vezes",
+        "fraseIngles": "They say lightning never strikes twice.",
+        "frasePortugues": "Dizem que um raio nunca cai duas vezes.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 201,
+        "ingles": "Fair weather friend",
+        "portugues": "Amigo da onça",
+        "fraseIngles": "He's just a fair weather friend.",
+        "frasePortugues": "Ele é apenas um amigo da onça.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 202,
+        "ingles": "Climate change",
+        "portugues": "Mudança climática",
+        "fraseIngles": "Climate change affects global weather.",
+        "frasePortugues": "A mudança climática afeta o tempo global.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 203,
+        "ingles": "Global warming",
+        "portugues": "Aquecimento global",
+        "fraseIngles": "Global warming increases temperatures worldwide.",
+        "frasePortugues": "O aquecimento global aumenta temperaturas mundialmente.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 204,
+        "ingles": "Greenhouse effect",
+        "portugues": "Efeito estufa",
+        "fraseIngles": "The greenhouse effect traps heat.",
+        "frasePortugues": "O efeito estufa retém calor.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 205,
+        "ingles": "Ozone layer",
+        "portugues": "Camada de ozônio",
+        "fraseIngles": "The ozone layer protects from radiation.",
+        "frasePortugues": "A camada de ozônio protege da radiação.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 206,
+        "ingles": "Acid rain",
+        "portugues": "Chuva ácida",
+        "fraseIngles": "Acid rain damages forests.",
+        "frasePortugues": "A chuva ácida danifica florestas.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 207,
+        "ingles": "Air pollution",
+        "portugues": "Poluição do ar",
+        "fraseIngles": "Air pollution affects weather patterns.",
+        "frasePortugues": "A poluição do ar afeta padrões climáticos.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 208,
+        "ingles": "Meteorologist",
+        "portugues": "Meteorologista",
+        "fraseIngles": "The meteorologist predicts tomorrow's weather.",
+        "frasePortugues": "O meteorologista prevê o tempo de amanhã.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 209,
+        "ingles": "Weather man",
+        "portugues": "Homem do tempo",
+        "fraseIngles": "The weather man says it will rain.",
+        "frasePortugues": "O homem do tempo diz que vai chover.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 210,
+        "ingles": "Weather report",
+        "portugues": "Boletim meteorológico",
+        "fraseIngles": "I check the weather report daily.",
+        "frasePortugues": "Eu verifico o boletim meteorológico diariamente.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 211,
+        "ingles": "Weather advisory",
+        "portugues": "Alerta meteorológico",
+        "fraseIngles": "A weather advisory warns of storms.",
+        "frasePortugues": "Um alerta meteorológico avisa sobre tempestades.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 212,
+        "ingles": "Weather warning",
+        "portugues": "Aviso meteorológico",
+        "fraseIngles": "The weather warning advised staying indoors.",
+        "frasePortugues": "O aviso meteorológico aconselhou ficar em casa.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    },
+    {
+        "id": 213,
+        "ingles": "Emergency",
+        "portugues": "Emergência",
+        "fraseIngles": "Severe weather creates emergency situations.",
+        "frasePortugues": "Tempo severo cria situações de emergência.",
+        "subtopico": "Clima",
+        "topico": "Natureza"
+    }
+]
