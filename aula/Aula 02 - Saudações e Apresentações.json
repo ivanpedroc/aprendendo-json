@@ -1,63 +1,62 @@
 [
   {
-    "titulo": "Saudações Básicas",
+    "titulo": "SaudaÃ§Ãµes BÃ¡sicas",
     "conteudoIngles": "Hello! Hi! Good morning! Good afternoon! Good evening! Good night!",
-    "conteudoPortugues": "Olá! Oi! Bom dia! Boa tarde! Boa noite! Boa noite (ao se despedir)!",
-    "explicacao": "As saudações são a primeira forma de interação social. 'Good morning' é usado até meio-dia, 'Good afternoon' até às 18h, e 'Good evening' após as 18h. 'Good night' é usado apenas ao 
-se despedir para dormir.",
+    "conteudoPortugues": "OlÃ¡! Oi! Bom dia! Boa tarde! Boa noite! Boa noite (ao se despedir)!",
+    "explicacao": "As saudacoes sao a primeira forma de interacao social. Good morning e usado ate meio-dia, Good afternoon ate as 18h, e Good evening apos as 18h. Good night e usado apenas ao se despedir para dormir.",
     "exemplos": [
-      "Hello, how are you? - Olá, como você está?",
-      "Hi there! - Oi, você aí!",
+      "Hello, how are you? - OlÃ¡, como vocÃª estÃ¡?",
+      "Hi there! - Oi, vocÃª aÃ­!",
       "Good morning, Mr. Smith! - Bom dia, Sr. Smith!",
       "Good evening, everyone! - Boa noite pessoal!"
     ]
   },
   {
-    "titulo": "Apresentações Pessoais",
+    "titulo": "ApresentaÃ§Ãµes Pessoais",
     "conteudoIngles": "My name is... I'm... Nice to meet you! What's your name? Where are you from?",
-    "conteudoPortugues": "Meu nome é... Eu sou... Prazer em conhecê-lo! Qual é o seu nome? De onde você é?",
-    "explicacao": "Ao se apresentar, podemos usar 'My name is...' (mais formal) ou 'I'm...' (mais informal). 'Nice to meet you' é a resposta padrão quando conhecemos alguém.",
+    "conteudoPortugues": "Meu nome Ã©... Eu sou... Prazer em conhecÃª-lo! Qual Ã© o seu nome? De onde vocÃª Ã©?",
+    "explicacao": "Ao se apresentar, podemos usar My name is (mais formal) ou I am (mais informal). Nice to meet you e a resposta padrao quando conhecemos alguem.",
     "exemplos": [
-      "My name is John. Nice to meet you! - Meu nome é John. Prazer em conhecê-lo!",
-      "I'm Maria. What's your name? - Eu sou Maria. Qual é o seu nome?",
-      "Nice to meet you too! - Prazer em conhecê-lo também!",
-      "I'm from Brazil. Where are you from? - Eu sou do Brasil. De onde você é?"
+      "My name is John. Nice to meet you! - Meu nome Ã© John. Prazer em conhecÃª-lo!",
+      "I'm Maria. What's your name? - Eu sou Maria. Qual Ã© o seu nome?",
+      "Nice to meet you too! - Prazer em conhecÃª-lo tambÃ©m!",
+      "I'm from Brazil. Where are you from? - Eu sou do Brasil. De onde vocÃª Ã©?"
     ]
   },
   {
-    "titulo": "Perguntando Como Está",
+    "titulo": "Perguntando Como EstÃ¡",
     "conteudoIngles": "How are you? How are you doing? I'm fine, thank you. And you? I'm good. Not bad.",
-    "conteudoPortugues": "Como você está? Como você está indo? Estou bem, obrigado. E você? Estou bem. Nada mal.",
-    "explicacao": "'How are you?' é uma pergunta comum que geralmente não espera uma resposta detalhada. As respostas típicas são 'Fine', 'Good', 'Great', ou 'Not bad'.",
+    "conteudoPortugues": "Como vocÃª estÃ¡? Como vocÃª estÃ¡ indo? Estou bem, obrigado. E vocÃª? Estou bem. Nada mal.",
+    "explicacao": "How are you e uma pergunta comum que geralmente nao espera uma resposta detalhada. As respostas tipicas sao Fine, Good, Great, ou Not bad.",
     "exemplos": [
-      "How are you today? - I'm fine, thanks! - Como você está hoje? - Estou bem, obrigado!",
-      "How are you doing? - Not bad, and you? - Como você está indo? - Nada mal, e você?",
+      "How are you today? - I'm fine, thanks! - Como vocÃª estÃ¡ hoje? - Estou bem, obrigado!",
+      "How are you doing? - Not bad, and you? - Como vocÃª estÃ¡ indo? - Nada mal, e vocÃª?",
       "I'm good, thank you for asking! - Estou bem, obrigado por perguntar!",
-      "I'm great! How about you? - Estou ótimo! E você?"
+      "I'm great! How about you? - Estou Ã³timo! E vocÃª?"
     ]
   },
   {
     "titulo": "Despedidas",
     "conteudoIngles": "Goodbye! Bye! See you later! See you soon! Have a good day! Take care!",
     "conteudoPortugues": "Tchau! Tchau! Te vejo mais tarde! Te vejo em breve! Tenha um bom dia! Se cuide!",
-    "explicacao": "As despedidas variam em formalidade. 'Goodbye' é mais formal, 'Bye' é casual. 'See you later' implica que você verá a pessoa novamente em breve.",
+    "explicacao": "As despedidas variam em formalidade. Goodbye e mais formal, Bye e casual. See you later implica que voce vera a pessoa novamente em breve.",
     "exemplos": [
       "Goodbye, have a nice day! - Tchau, tenha um bom dia!",
-      "Bye! See you tomorrow! - Tchau! Te vejo amanhã!",
+      "Bye! See you tomorrow! - Tchau! Te vejo amanhÃ£!",
       "Take care! See you later! - Se cuide! Te vejo mais tarde!",
-      "It was nice meeting you! Goodbye! - Foi um prazer conhecê-lo! Tchau!"
+      "It was nice meeting you! Goodbye! - Foi um prazer conhecÃª-lo! Tchau!"
     ]
   },
   {
     "titulo": "Apresentando Outras Pessoas",
     "conteudoIngles": "This is my friend... Let me introduce you to... I'd like you to meet...",
-    "conteudoPortugues": "Este é meu amigo... Deixe-me apresentá-lo a... Eu gostaria que você conhecesse...",
-    "explicacao": "Quando apresentamos outras pessoas, usamos frases como 'This is...', 'Let me introduce...' ou 'I'd like you to meet...'. É importante fazer as apresentações de forma educada.",
+    "conteudoPortugues": "Este Ã© meu amigo... Deixe-me apresentÃ¡-lo a... Eu gostaria que vocÃª conhecesse...",
+    "explicacao": "Quando apresentamos outras pessoas, usamos frases como This is, Let me introduce ou I would like you to meet. E importante fazer as apresentacoes de forma educada.",
     "exemplos": [
-      "This is my friend Sarah. - Esta é minha amiga Sarah.",
-      "Let me introduce you to my colleague, Mike. - Deixe-me apresentá-lo ao meu colega, Mike.",
-      "I'd like you to meet my teacher, Mrs. Brown. - Gostaria que você conhecesse minha professora, Sra. Brown.",
-      "Sarah, this is John. John, this is Sarah. - Sarah, este é o John. John, esta é a Sarah."
+      "This is my friend Sarah. - Esta Ã© minha amiga Sarah.",
+      "Let me introduce you to my colleague, Mike. - Deixe-me apresentÃ¡-lo ao meu colega, Mike.",
+      "I'd like you to meet my teacher, Mrs. Brown. - Gostaria que vocÃª conhecesse minha professora, Sra. Brown.",
+      "Sarah, this is John. John, this is Sarah. - Sarah, este Ã© o John. John, esta Ã© a Sarah."
     ]
   }
 ]
