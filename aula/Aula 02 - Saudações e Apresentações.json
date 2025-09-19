@@ -1,216 +1,102 @@
-{
-  "lessonTitle": "Lesson 1: Greetings & Introductions",
-  "sections": [
-    {
-      "type": "text",
-      "contentEn": "Welcome to your first English lesson! Here, you will learn how to greet people and introduce yourself.",
-      "contentPt": "Bem-vindo à sua primeira aula de inglês! Aqui, você vai aprender a cumprimentar as pessoas e a se apresentar."
-    },
-    {
-      "type": "sectionTitle",
-      "contentEn": "Greetings",
-      "contentPt": "Saudações"
-    },
-    {
-      "type": "explanation",
-      "contentEn": "These are the most common ways to say hello in English.",
-      "contentPt": "Essas são as formas mais comuns de dizer oi em inglês."
-    },
-    {
-      "type": "phrase",
-      "contentEn": "Good morning!",
-      "contentPt": "Bom dia!"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "Good afternoon!",
-      "contentPt": "Boa tarde!"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "Good evening!",
-      "contentPt": "Boa noite! (usado para cumprimentar)"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "Hello!",
-      "contentPt": "Olá!"
-    },
-    {
-      "type": "sectionTitle",
-      "contentEn": "Informal Greetings",
-      "contentPt": "Saudações Informais"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "Hi!",
-      "contentPt": "Oi!"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "Hey!",
-      "contentPt": "E aí! / Olá!"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "What's up?",
-      "contentPt": "E aí? / O que está rolando?"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "How are you?",
-      "contentPt": "Como você está?"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "How's it going?",
-      "contentPt": "Como vão as coisas?"
-    },
-    {
-      "type": "sectionTitle",
-      "contentEn": "Responding to Greetings",
-      "contentPt": "Respondendo às Saudações"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "I'm fine, thanks. And you?",
-      "contentPt": "Estou bem, obrigado. E você?"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "I'm doing well, thanks. How about you?",
-      "contentPt": "Estou indo bem, obrigado. E você?"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "Great, thanks!",
-      "contentPt": "Ótimo, obrigado!"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "Not bad.",
-      "contentPt": "Nada mal."
-    },
-    {
-      "type": "sectionTitle",
-      "contentEn": "Introductions",
-      "contentPt": "Apresentações"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "My name is John.",
-      "contentPt": "Meu nome é John."
-    },
-    {
-      "type": "phrase",
-      "contentEn": "I'm Anna.",
-      "contentPt": "Eu sou a Anna."
-    },
-    {
-      "type": "phrase",
-      "contentEn": "I'm from Brazil.",
-      "contentPt": "Eu sou do Brasil."
-    },
-    {
-      "type": "phrase",
-      "contentEn": "I live in Rio de Janeiro.",
-      "contentPt": "Eu moro no Rio de Janeiro."
-    },
-    {
-      "type": "sectionTitle",
-      "contentEn": "Common Questions",
-      "contentPt": "Perguntas Comuns"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "What's your name?",
-      "contentPt": "Qual é o seu nome?"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "Where are you from?",
-      "contentPt": "De onde você é?"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "What do you do?",
-      "contentPt": "O que você faz? (qual a sua profissão?)"
-    },
-    {
-      "type": "phrase",
-      "contentEn": "Nice to meet you.",
-      "contentPt": "Prazer em te conhecer."
-    },
-    {
-      "type": "phrase",
-      "contentEn": "Pleasure to meet you.",
-      "contentPt": "Prazer em te conhecer. (um pouco mais formal)"
-    },
-    {
-      "type": "dialogue",
-      "title": "Dialogue 1",
-      "lines": [
-        {
-          "speaker": "David",
-          "contentEn": "Hello, I'm David.",
-          "contentPt": "Olá, eu sou o David."
-        },
-        {
-          "speaker": "Ana",
-          "contentEn": "Hi David, nice to meet you. My name is Ana.",
-          "contentPt": "Oi David, prazer em te conhecer. Meu nome é Ana."
-        },
-        {
-          "speaker": "David",
-          "contentEn": "Nice to meet you too, Ana. Where are you from?",
-          "contentPt": "Prazer em te conhecer também, Ana. De onde você é?"
-        },
-        {
-          "speaker": "Ana",
-          "contentEn": "I'm from Brazil. And you?",
-          "contentPt": "Eu sou do Brasil. E você?"
-        },
-        {
-          "speaker": "David",
-          "contentEn": "I'm from Canada.",
-          "contentPt": "Eu sou do Canadá."
-        }
-      ]
-    },
-    {
-      "type": "dialogue",
-      "title": "Dialogue 2",
-      "lines": [
-        {
-          "speaker": "Lucas",
-          "contentEn": "Hey, how's it going?",
-          "contentPt": "E aí, como vão as coisas?"
-        },
-        {
-          "speaker": "Maria",
-          "contentEn": "Not bad, thanks. What's up?",
-          "contentPt": "Nada mal, obrigado. E aí?"
-        },
-        {
-          "speaker": "Lucas",
-          "contentEn": "I'm fine. This is my friend, Alex.",
-          "contentPt": "Eu estou bem. Este é o meu amigo, Alex."
-        },
-        {
-          "speaker": "Maria",
-          "contentEn": "Hi Alex, nice to meet you.",
-          "contentPt": "Oi Alex, prazer em te conhecer."
-        },
-        {
-          "speaker": "Alex",
-          "contentEn": "Nice to meet you too.",
-          "contentPt": "Prazer em te conhecer também."
-        }
-      ]
-    },
-    {
-      "type": "activity",
-      "contentPt": "Agora, tente criar um diálogo curto usando as frases que você aprendeu. Você pode usar uma das saudações e se apresentar."
-    }
-  ]
-}
+[
+  {
+    "titulo": "Greetings & Introductions",
+    "conteudoIngles": "Welcome to your first English lesson! Here, you will learn to greet people and introduce yourself. Let's start with the basics.",
+    "conteudoPortugues": "Bem-vindo à sua primeira aula de inglês! Aqui, você vai aprender a cumprimentar as pessoas e a se apresentar. Vamos começar com o básico.",
+    "explicacao": "Esta é uma lição introdutória fundamental para qualquer aprendizado de inglês. As saudações e apresentações são a base da comunicação social em qualquer idioma.",
+    "exemplos": []
+  },
+  {
+    "titulo": "Greetings (Saudações)",
+    "conteudoIngles": "These are the most common ways to say 'hi' or 'hello'.",
+    "conteudoPortugues": "Essas são as formas mais comuns de dizer 'oi' ou 'olá'.",
+    "explicacao": "As saudações são divididas em formais e informais, dependendo do contexto e da relação com a pessoa.",
+    "exemplos": []
+  },
+  {
+    "titulo": "Formal Greetings",
+    "conteudoIngles": "Good morning!\nGood afternoon!\nGood evening!\nHello!",
+    "conteudoPortugues": "Bom dia!\nBoa tarde!\nBoa noite! (usado para cumprimentar)\nOlá!",
+    "explicacao": "Use essas saudações quando estiver falando com pessoas que você não conhece, com colegas de trabalho, em reuniões ou em situações mais sérias.",
+    "exemplos": [
+      "Good morning, Mr. Johnson. - Bom dia, Sr. Johnson.",
+      "Good afternoon, how may I help you? - Boa tarde, como posso ajudá-lo?",
+      "Hello, nice to see you. - Olá, é bom vê-lo."
+    ]
+  },
+  {
+    "titulo": "Informal Greetings",
+    "conteudoIngles": "Hi!\nHey!\nWhat's up?\nHow are you?\nHow's it going?",
+    "conteudoPortugues": "Oi!\nE aí! / Olá!\nE aí? / O que está rolando?\nComo você está?\nComo vão as coisas?",
+    "explicacao": "Use essas saudações com amigos, familiares ou pessoas da sua idade.",
+    "exemplos": [
+      "Hi! How are you doing? - Oi! Como você está?",
+      "Hey! What's up? - E aí! O que está rolando?",
+      "How's it going, buddy? - Como vão as coisas, amigo?"
+    ]
+  },
+  {
+    "titulo": "Responding to Greetings",
+    "conteudoIngles": "I'm fine, thanks. And you?\nI'm doing well, thanks. How about you?\nGreat, thanks!\nNot bad.",
+    "conteudoPortugues": "Estou bem, obrigado. E você?\nEstou indo bem, obrigado. E você?\nÓtimo, obrigado!\nNada mal.",
+    "explicacao": "Depois que alguém te cumprimenta, é educado responder. Essas são algumas opções comuns para responder às saudações.",
+    "exemplos": [
+      "A: How are you? B: I'm fine, thanks. And you? - A: Como você está? B: Estou bem, obrigado. E você?",
+      "A: What's up? B: Not bad, just working. - A: E aí? B: Nada mal, só trabalhando."
+    ]
+  },
+  {
+    "titulo": "Introducing Yourself",
+    "conteudoIngles": "My name is [your name].\nI'm [your name].\nI'm from Brazil.\nI live in Rio de Janeiro.",
+    "conteudoPortugues": "Meu nome é [seu nome].\nEu sou [seu nome].\nEu sou do Brasil.\nEu moro no Rio de Janeiro.",
+    "explicacao": "Para se apresentar, você pode usar essas frases básicas. É importante saber dizer seu nome e de onde você é.",
+    "exemplos": [
+      "My name is Carlos. I'm from São Paulo. - Meu nome é Carlos. Eu sou de São Paulo.",
+      "I'm Maria. I live in Brasília. - Eu sou a Maria. Eu moro em Brasília."
+    ]
+  },
+  {
+    "titulo": "Common Questions",
+    "conteudoIngles": "What's your name?\nWhere are you from?\nWhat do you do?\nNice to meet you.\nPleasure to meet you.",
+    "conteudoPortugues": "Qual é o seu nome?\nDe onde você é?\nO que você faz? (qual a sua profissão?)\nPrazer em te conhecer.\nPrazer em te conhecer. (um pouco mais formal)",
+    "explicacao": "Essas são perguntas que as pessoas fazem para se conhecer. 'Nice to meet you' é usado quando você encontra alguém pela primeira vez.",
+    "exemplos": [
+      "What's your name? My name is João. - Qual é o seu nome? Meu nome é João.",
+      "Where are you from? I'm from Brazil. - De onde você é? Eu sou do Brasil.",
+      "What do you do? I'm a teacher. - O que você faz? Eu sou professor."
+    ]
+  },
+  {
+    "titulo": "Dialogue 1",
+    "conteudoIngles": "David: Hello, I'm David.\nAna: Hi David, nice to meet you. My name is Ana.\nDavid: Nice to meet you too, Ana. Where are you from?\nAna: I'm from Brazil. And you?\nDavid: I'm from Canada.",
+    "conteudoPortugues": "David: Olá, eu sou o David.\nAna: Oi David, prazer em te conhecer. Meu nome é Ana.\nDavid: Prazer em te conhecer também, Ana. De onde você é?\nAna: Eu sou do Brasil. E você?\nDavid: Eu sou do Canadá.",
+    "explicacao": "Este diálogo mostra uma apresentação formal entre duas pessoas que se conhecem pela primeira vez.",
+    "exemplos": [
+      "Practice introducing yourself using your real name and city",
+      "Try changing the countries in the dialogue",
+      "Practice both roles - being the person who starts and responds"
+    ]
+  },
+  {
+    "titulo": "Dialogue 2",
+    "conteudoIngles": "Lucas: Hey, how's it going?\nMaria: Not bad, thanks. What's up?\nLucas: I'm fine. This is my friend, Alex.\nMaria: Hi Alex, nice to meet you.\nAlex: Nice to meet you too.",
+    "conteudoPortugues": "Lucas: E aí, como vão as coisas?\nMaria: Nada mal, obrigado. E aí?\nLucas: Eu estou bem. Este é o meu amigo, Alex.\nMaria: Oi Alex, prazer em te conhecer.\nAlex: Prazer em te conhecer também.",
+    "explicacao": "Este diálogo mostra uma situação mais informal e inclui como apresentar um amigo a outra pessoa.",
+    "exemplos": [
+      "This is my friend, [name] - Este é meu amigo, [nome]",
+      "Let me introduce you to [name] - Deixe-me apresentá-lo a [nome]",
+      "Have you met [name]? - Você conhece [nome]?"
+    ]
+  },
+  {
+    "titulo": "Practice Activity",
+    "conteudoIngles": "Now, try to create a short dialogue using the phrases you learned. You can use one of the greetings and introduce yourself.",
+    "conteudoPortugues": "Agora, tente criar um diálogo curto usando as frases que você aprendeu. Você pode usar uma das saudações e se apresentar.",
+    "explicacao": "A prática é essencial para fixar o aprendizado. Tente criar seus próprios diálogos combinando saudações formais e informais com apresentações.",
+    "exemplos": [
+      "Create a dialogue between you and a new classmate",
+      "Practice introducing a friend to your family",
+      "Imagine meeting someone at work for the first time"
+    ]
+  }
+]
