@@ -1,156 +1,37 @@
 [
   {
-    "titulo": "Saudacoes e Apresentacoes",
-    "conteudoIngles": "Greetings are the first way we communicate with people. We use different greetings depending on the time of day and how formal the situation is. Learning basic greetings and introductions is essential for daily conversations.",
-    "conteudoPortugues": "Saudacoes sao a primeira forma de nos comunicarmos com as pessoas. Usamos saudacoes diferentes dependendo da hora do dia e de quao formal e a situacao. Aprender saudacoes basicas e apresentacoes e essencial para conversas do dia a dia.",
-    "explicacao": "",
-    "exemplos": []
+    "titulo": "Saudações e Apresentações",
+    "conteudoIngles": "Hi, my name is Alex. It's nice to meet you.",
+    "conteudoPortugues": "Olá, meu nome é Alex. É um prazer te conhecer.",
+    "explicacao": "Esta é uma forma comum e educada de se apresentar a alguém. 'Hi' e 'Hello' são saudações básicas. 'My name is...' é usado para dizer seu nome. 'Nice to meet you' significa 'prazer em te conhecer'.",
+    "exemplos": [
+      "Hello, I'm Sarah. Nice to meet you too.",
+      "Good morning! My name is David. And you?",
+      "Hi! I'm Chris, what's your name?"
+    ]
   },
   {
-    "titulo": "Saudacoes Basicas",
-    "conteudoIngles": "Hi",
-    "conteudoPortugues": "Oi",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "Hello",
-    "conteudoPortugues": "Ola",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "Good morning",
-    "conteudoPortugues": "Bom dia",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "Good afternoon",
-    "conteudoPortugues": "Boa tarde",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "Good evening",
-    "conteudoPortugues": "Boa noite",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "Good night",
-    "conteudoPortugues": "Boa noite (despedida)",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "Apresentacoes",
-    "conteudoIngles": "My name is",
-    "conteudoPortugues": "Meu nome e",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "I am",
-    "conteudoPortugues": "Eu sou",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "What is your name?",
-    "conteudoPortugues": "Qual e o seu nome?",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "Nice to meet you",
-    "conteudoPortugues": "Prazer em conhece-lo",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "Where are you from?",
-    "conteudoPortugues": "De onde voce e?",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "Como Perguntar Como Esta",
-    "conteudoIngles": "How are you?",
-    "conteudoPortugues": "Como voce esta?",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "I am fine",
-    "conteudoPortugues": "Estou bem",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "I am good",
-    "conteudoPortugues": "Estou bem",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "Not bad",
-    "conteudoPortugues": "Nada mal",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "And you?",
-    "conteudoPortugues": "E voce?",
-    "explicacao": "",
-    "exemplos": []
+    "titulo": "Perguntando como alguém está",
+    "conteudoIngles": "How are you doing?",
+    "conteudoPortugues": "Como você está?",
+    "explicacao": "Existem várias maneiras de perguntar como alguém está. 'How are you?' é a mais conhecida, mas 'How are you doing?' também é muito utilizada e soa mais natural. 'What's up?' é informal e significa 'e aí?'",
+    "exemplos": [
+      "I'm fine, thanks for asking.",
+      "I'm doing great, thank you.",
+      "Not bad, and you?",
+      "What's up? Everything is good."
+    ]
   },
   {
     "titulo": "Despedidas",
-    "conteudoIngles": "Goodbye",
-    "conteudoPortugues": "Tchau",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "Bye",
-    "conteudoPortugues": "Tchau",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "See you later",
-    "conteudoPortugues": "Te vejo mais tarde",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "Have a good day",
-    "conteudoPortugues": "Tenha um bom dia",
-    "explicacao": "",
-    "exemplos": []
-  },
-  {
-    "titulo": "",
-    "conteudoIngles": "Take care",
-    "conteudoPortugues": "Se cuide",
-    "explicacao": "",
-    "exemplos": []
+    "conteudoIngles": "Goodbye! See you later.",
+    "conteudoPortugues": "Adeus! Até mais tarde.",
+    "explicacao": "Para se despedir, você pode usar 'Goodbye', 'Bye' ou 'See you later'. 'Have a good day!' é uma forma educada de desejar um bom dia a alguém. 'Take care' é um desejo de cuidado.",
+    "exemplos": [
+      "Bye! Have a good day!",
+      "See you tomorrow!",
+      "Take care, bye!",
+      "It was nice to meet you, see you around."
+    ]
   }
 ]
