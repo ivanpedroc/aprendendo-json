@@ -1,62 +1,156 @@
 [
   {
-    "titulo": "Saudações Básicas",
-    "conteudoIngles": "Hello! Hi! Good morning! Good afternoon! Good evening! Good night!",
-    "conteudoPortugues": "Olá! Oi! Bom dia! Boa tarde! Boa noite! Boa noite (ao se despedir)!",
-    "explicacao": "As saudacoes sao a primeira forma de interacao social. Good morning e usado ate meio-dia, Good afternoon ate as 18h, e Good evening apos as 18h. Good night e usado apenas ao se despedir para dormir.",
-    "exemplos": [
-      "Hello, how are you? - Olá, como você está?",
-      "Hi there! - Oi, você aí!",
-      "Good morning, Mr. Smith! - Bom dia, Sr. Smith!",
-      "Good evening, everyone! - Boa noite pessoal!"
-    ]
+    "titulo": "Saudacoes e Apresentacoes",
+    "conteudoIngles": "Greetings are the first way we communicate with people. We use different greetings depending on the time of day and how formal the situation is. Learning basic greetings and introductions is essential for daily conversations.",
+    "conteudoPortugues": "Saudacoes sao a primeira forma de nos comunicarmos com as pessoas. Usamos saudacoes diferentes dependendo da hora do dia e de quao formal e a situacao. Aprender saudacoes basicas e apresentacoes e essencial para conversas do dia a dia.",
+    "explicacao": "",
+    "exemplos": []
   },
   {
-    "titulo": "Apresentações Pessoais",
-    "conteudoIngles": "My name is... I'm... Nice to meet you! What's your name? Where are you from?",
-    "conteudoPortugues": "Meu nome é... Eu sou... Prazer em conhecê-lo! Qual é o seu nome? De onde você é?",
-    "explicacao": "Ao se apresentar, podemos usar My name is (mais formal) ou I am (mais informal). Nice to meet you e a resposta padrao quando conhecemos alguem.",
-    "exemplos": [
-      "My name is John. Nice to meet you! - Meu nome é John. Prazer em conhecê-lo!",
-      "I'm Maria. What's your name? - Eu sou Maria. Qual é o seu nome?",
-      "Nice to meet you too! - Prazer em conhecê-lo também!",
-      "I'm from Brazil. Where are you from? - Eu sou do Brasil. De onde você é?"
-    ]
+    "titulo": "Saudacoes Basicas",
+    "conteudoIngles": "Hi",
+    "conteudoPortugues": "Oi",
+    "explicacao": "",
+    "exemplos": []
   },
   {
-    "titulo": "Perguntando Como Está",
-    "conteudoIngles": "How are you? How are you doing? I'm fine, thank you. And you? I'm good. Not bad.",
-    "conteudoPortugues": "Como você está? Como você está indo? Estou bem, obrigado. E você? Estou bem. Nada mal.",
-    "explicacao": "How are you e uma pergunta comum que geralmente nao espera uma resposta detalhada. As respostas tipicas sao Fine, Good, Great, ou Not bad.",
-    "exemplos": [
-      "How are you today? - I'm fine, thanks! - Como você está hoje? - Estou bem, obrigado!",
-      "How are you doing? - Not bad, and you? - Como você está indo? - Nada mal, e você?",
-      "I'm good, thank you for asking! - Estou bem, obrigado por perguntar!",
-      "I'm great! How about you? - Estou ótimo! E você?"
-    ]
+    "titulo": "",
+    "conteudoIngles": "Hello",
+    "conteudoPortugues": "Ola",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "",
+    "conteudoIngles": "Good morning",
+    "conteudoPortugues": "Bom dia",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "",
+    "conteudoIngles": "Good afternoon",
+    "conteudoPortugues": "Boa tarde",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "",
+    "conteudoIngles": "Good evening",
+    "conteudoPortugues": "Boa noite",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "",
+    "conteudoIngles": "Good night",
+    "conteudoPortugues": "Boa noite (despedida)",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "Apresentacoes",
+    "conteudoIngles": "My name is",
+    "conteudoPortugues": "Meu nome e",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "",
+    "conteudoIngles": "I am",
+    "conteudoPortugues": "Eu sou",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "",
+    "conteudoIngles": "What is your name?",
+    "conteudoPortugues": "Qual e o seu nome?",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "",
+    "conteudoIngles": "Nice to meet you",
+    "conteudoPortugues": "Prazer em conhece-lo",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "",
+    "conteudoIngles": "Where are you from?",
+    "conteudoPortugues": "De onde voce e?",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "Como Perguntar Como Esta",
+    "conteudoIngles": "How are you?",
+    "conteudoPortugues": "Como voce esta?",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "",
+    "conteudoIngles": "I am fine",
+    "conteudoPortugues": "Estou bem",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "",
+    "conteudoIngles": "I am good",
+    "conteudoPortugues": "Estou bem",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "",
+    "conteudoIngles": "Not bad",
+    "conteudoPortugues": "Nada mal",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "",
+    "conteudoIngles": "And you?",
+    "conteudoPortugues": "E voce?",
+    "explicacao": "",
+    "exemplos": []
   },
   {
     "titulo": "Despedidas",
-    "conteudoIngles": "Goodbye! Bye! See you later! See you soon! Have a good day! Take care!",
-    "conteudoPortugues": "Tchau! Tchau! Te vejo mais tarde! Te vejo em breve! Tenha um bom dia! Se cuide!",
-    "explicacao": "As despedidas variam em formalidade. Goodbye e mais formal, Bye e casual. See you later implica que voce vera a pessoa novamente em breve.",
-    "exemplos": [
-      "Goodbye, have a nice day! - Tchau, tenha um bom dia!",
-      "Bye! See you tomorrow! - Tchau! Te vejo amanhã!",
-      "Take care! See you later! - Se cuide! Te vejo mais tarde!",
-      "It was nice meeting you! Goodbye! - Foi um prazer conhecê-lo! Tchau!"
-    ]
+    "conteudoIngles": "Goodbye",
+    "conteudoPortugues": "Tchau",
+    "explicacao": "",
+    "exemplos": []
   },
   {
-    "titulo": "Apresentando Outras Pessoas",
-    "conteudoIngles": "This is my friend... Let me introduce you to... I'd like you to meet...",
-    "conteudoPortugues": "Este é meu amigo... Deixe-me apresentá-lo a... Eu gostaria que você conhecesse...",
-    "explicacao": "Quando apresentamos outras pessoas, usamos frases como This is, Let me introduce ou I would like you to meet. E importante fazer as apresentacoes de forma educada.",
-    "exemplos": [
-      "This is my friend Sarah. - Esta é minha amiga Sarah.",
-      "Let me introduce you to my colleague, Mike. - Deixe-me apresentá-lo ao meu colega, Mike.",
-      "I'd like you to meet my teacher, Mrs. Brown. - Gostaria que você conhecesse minha professora, Sra. Brown.",
-      "Sarah, this is John. John, this is Sarah. - Sarah, este é o John. John, esta é a Sarah."
-    ]
+    "titulo": "",
+    "conteudoIngles": "Bye",
+    "conteudoPortugues": "Tchau",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "",
+    "conteudoIngles": "See you later",
+    "conteudoPortugues": "Te vejo mais tarde",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "",
+    "conteudoIngles": "Have a good day",
+    "conteudoPortugues": "Tenha um bom dia",
+    "explicacao": "",
+    "exemplos": []
+  },
+  {
+    "titulo": "",
+    "conteudoIngles": "Take care",
+    "conteudoPortugues": "Se cuide",
+    "explicacao": "",
+    "exemplos": []
   }
 ]
