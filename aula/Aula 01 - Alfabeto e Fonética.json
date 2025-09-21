@@ -1,0 +1,610 @@
+{
+  "titulo": "The English Alphabet & Phonetics",
+  "descricao": "Sua base fundamental! Aprenda o alfabeto inglês e os sons essenciais para uma pronúncia correta.",
+  "secoes": [
+    {
+      "id": "titulo_principal",
+      "titulo": "Welcome to English Fundamentals!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "This is the foundation of your English journey! The English alphabet has 26 letters, and each letter can have different sounds. Learning proper pronunciation from the beginning will help you speak English clearly and confidently.",
+        "texto_portugues": "",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "traducao_titulo",
+      "titulo": "Tradução",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "",
+        "texto_portugues": "Esta é a base da sua jornada no inglês! O alfabeto inglês tem 26 letras, e cada letra pode ter sons diferentes. Aprender a pronúncia correta desde o início vai te ajudar a falar inglês de forma clara e confiante.",
+        "tem_audio": false
+      }
+    },
+    {
+      "id": "alfabeto_completo_titulo",
+      "titulo": "The Complete English Alphabet",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let's learn each letter and its pronunciation. Listen carefully to each sound.",
+        "texto_portugues": "",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "alfabeto_completo_traducao",
+      "titulo": "Tradução",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "",
+        "texto_portugues": "Vamos aprender cada letra e sua pronúncia. Ouça com atenção cada som.",
+        "tem_audio": false
+      }
+    },
+    {
+      "id": "letras_a_e",
+      "titulo": "Letters A through E",
+      "tipo": "vocabulario",
+      "descricao": "Primeiras cinco letras do alfabeto",
+      "itens": [
+        {
+          "ingles": "A",
+          "portugues": "",
+          "fonetica": "/eɪ/",
+          "tem_audio": true,
+          "contexto": "First letter of the alphabet. Sounds like 'ay' in 'day'"
+        },
+        {
+          "ingles": "",
+          "portugues": "A - som como 'êi' em inglês",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Primeira letra do alfabeto. Som como 'êi'"
+        },
+        {
+          "ingles": "B",
+          "portugues": "",
+          "fonetica": "/biː/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'bee' the insect"
+        },
+        {
+          "ingles": "",
+          "portugues": "B - som como 'bii'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som como a abelha em inglês 'bee'"
+        },
+        {
+          "ingles": "C",
+          "portugues": "",
+          "fonetica": "/siː/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'see' with your eyes"
+        },
+        {
+          "ingles": "",
+          "portugues": "C - som como 'sii'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som como 'see' (ver) em inglês"
+        },
+        {
+          "ingles": "D",
+          "portugues": "",
+          "fonetica": "/diː/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'dee'"
+        },
+        {
+          "ingles": "",
+          "portugues": "D - som como 'dii'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som simples 'dii'"
+        },
+        {
+          "ingles": "E",
+          "portugues": "",
+          "fonetica": "/iː/",
+          "tem_audio": true,
+          "contexto": "Sounds like a long 'ee' sound"
+        },
+        {
+          "ingles": "",
+          "portugues": "E - som como 'ii' longo",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som 'ii' alongado"
+        }
+      ]
+    },
+    {
+      "id": "letras_f_j",
+      "titulo": "Letters F through J",
+      "tipo": "vocabulario",
+      "descricao": "Próximas cinco letras",
+      "itens": [
+        {
+          "ingles": "F",
+          "portugues": "",
+          "fonetica": "/ɛf/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'ef'"
+        },
+        {
+          "ingles": "",
+          "portugues": "F - som como 'éf'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som 'éf'"
+        },
+        {
+          "ingles": "G",
+          "portugues": "",
+          "fonetica": "/dʒiː/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'gee' or 'jee'"
+        },
+        {
+          "ingles": "",
+          "portugues": "G - som como 'djii'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som 'djii'"
+        },
+        {
+          "ingles": "H",
+          "portugues": "",
+          "fonetica": "/eɪtʃ/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'aitch'"
+        },
+        {
+          "ingles": "",
+          "portugues": "H - som como 'êitsh'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som 'êitsh'"
+        },
+        {
+          "ingles": "I",
+          "portugues": "",
+          "fonetica": "/aɪ/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'eye' (the body part)"
+        },
+        {
+          "ingles": "",
+          "portugues": "I - som como 'ái' (olho em inglês)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som como a palavra 'eye' (olho)"
+        },
+        {
+          "ingles": "J",
+          "portugues": "",
+          "fonetica": "/dʒeɪ/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'jay' (the bird)"
+        },
+        {
+          "ingles": "",
+          "portugues": "J - som como 'djêi'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som 'djêi'"
+        }
+      ]
+    },
+    {
+      "id": "letras_k_o",
+      "titulo": "Letters K through O",
+      "tipo": "vocabulario",
+      "descricao": "Letras K até O",
+      "itens": [
+        {
+          "ingles": "K",
+          "portugues": "",
+          "fonetica": "/keɪ/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'kay'"
+        },
+        {
+          "ingles": "",
+          "portugues": "K - som como 'kêi'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som 'kêi'"
+        },
+        {
+          "ingles": "L",
+          "portugues": "",
+          "fonetica": "/ɛl/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'el'"
+        },
+        {
+          "ingles": "",
+          "portugues": "L - som como 'él'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som 'él'"
+        },
+        {
+          "ingles": "M",
+          "portugues": "",
+          "fonetica": "/ɛm/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'em'"
+        },
+        {
+          "ingles": "",
+          "portugues": "M - som como 'ém'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som 'ém'"
+        },
+        {
+          "ingles": "N",
+          "portugues": "",
+          "fonetica": "/ɛn/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'en'"
+        },
+        {
+          "ingles": "",
+          "portugues": "N - som como 'én'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som 'én'"
+        },
+        {
+          "ingles": "O",
+          "portugues": "",
+          "fonetica": "/oʊ/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'oh'"
+        },
+        {
+          "ingles": "",
+          "portugues": "O - som como 'ôu'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som 'ôu'"
+        }
+      ]
+    },
+    {
+      "id": "letras_p_t",
+      "titulo": "Letters P through T",
+      "tipo": "vocabulario",
+      "descricao": "Letras P até T",
+      "itens": [
+        {
+          "ingles": "P",
+          "portugues": "",
+          "fonetica": "/piː/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'pee'"
+        },
+        {
+          "ingles": "",
+          "portugues": "P - som como 'pii'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som 'pii'"
+        },
+        {
+          "ingles": "Q",
+          "portugues": "",
+          "fonetica": "/kjuː/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'queue' or 'cue'"
+        },
+        {
+          "ingles": "",
+          "portugues": "Q - som como 'kiiú'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som 'kiiú'"
+        },
+        {
+          "ingles": "R",
+          "portugues": "",
+          "fonetica": "/ɑːr/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'are' (American) or 'ah' (British)"
+        },
+        {
+          "ingles": "",
+          "portugues": "R - som como 'árr' (americano) ou 'ah' (britânico)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som varia entre sotaques"
+        },
+        {
+          "ingles": "S",
+          "portugues": "",
+          "fonetica": "/ɛs/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'es'"
+        },
+        {
+          "ingles": "",
+          "portugues": "S - som como 'és'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som 'és'"
+        },
+        {
+          "ingles": "T",
+          "portugues": "",
+          "fonetica": "/tiː/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'tea' (the drink)"
+        },
+        {
+          "ingles": "",
+          "portugues": "T - som como 'tii' (chá em inglês)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som como a bebida 'tea'"
+        }
+      ]
+    },
+    {
+      "id": "letras_u_z",
+      "titulo": "Letters U through Z",
+      "tipo": "vocabulario",
+      "descricao": "Últimas letras do alfabeto",
+      "itens": [
+        {
+          "ingles": "U",
+          "portugues": "",
+          "fonetica": "/juː/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'you'"
+        },
+        {
+          "ingles": "",
+          "portugues": "U - som como 'iiú' (you)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som como a palavra 'you'"
+        },
+        {
+          "ingles": "V",
+          "portugues": "",
+          "fonetica": "/viː/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'vee'"
+        },
+        {
+          "ingles": "",
+          "portugues": "V - som como 'vii'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som 'vii'"
+        },
+        {
+          "ingles": "W",
+          "portugues": "",
+          "fonetica": "/ˈdʌbəl juː/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'double you' - unique letter!"
+        },
+        {
+          "ingles": "",
+          "portugues": "W - som como 'dâbou iiú' (duplo U)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Letra única - 'duplo U'"
+        },
+        {
+          "ingles": "X",
+          "portugues": "",
+          "fonetica": "/ɛks/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'ex'"
+        },
+        {
+          "ingles": "",
+          "portugues": "X - som como 'éks'",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som 'éks'"
+        },
+        {
+          "ingles": "Y",
+          "portugues": "",
+          "fonetica": "/waɪ/",
+          "tem_audio": true,
+          "contexto": "Sounds like 'why' (the question word)"
+        },
+        {
+          "ingles": "",
+          "portugues": "Y - som como 'uái' (why - por que)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som como a pergunta 'why'"
+        },
+        {
+          "ingles": "Z",
+          "portugues": "",
+          "fonetica": "/ziː/ (American) or /zɛd/ (British)",
+          "tem_audio": true,
+          "contexto": "Americans say 'zee', British say 'zed'"
+        },
+        {
+          "ingles": "",
+          "portugues": "Z - som 'zii' (americano) ou 'zéd' (britânico)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Pronúncia varia entre países"
+        }
+      ]
+    },
+    {
+      "id": "vogais_titulo",
+      "titulo": "The Five Vowels",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "English has five vowels: A, E, I, O, U. These letters are the most important for pronunciation because they form the center of syllables. Each vowel can have different sounds depending on the word.",
+        "texto_portugues": "",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "vogais_traducao",
+      "titulo": "Tradução",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "",
+        "texto_portugues": "O inglês tem cinco vogais: A, E, I, O, U. Essas letras são as mais importantes para a pronúncia porque formam o centro das sílabas. Cada vogal pode ter sons diferentes dependendo da palavra.",
+        "tem_audio": false
+      }
+    },
+    {
+      "id": "sons_vogais",
+      "titulo": "Vowel Sounds in Words",
+      "tipo": "vocabulario",
+      "descricao": "Como as vogais soam em palavras",
+      "itens": [
+        {
+          "ingles": "A in 'cat' vs A in 'cake'",
+          "portugues": "",
+          "fonetica": "/æ/ vs /eɪ/",
+          "tem_audio": true,
+          "contexto": "Short 'a' sound vs long 'a' sound"
+        },
+        {
+          "ingles": "",
+          "portugues": "A em 'cat' (som curto) vs A em 'cake' (som longo)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som curto vs som longo do A"
+        },
+        {
+          "ingles": "E in 'pen' vs E in 'see'",
+          "portugues": "",
+          "fonetica": "/ɛ/ vs /iː/",
+          "tem_audio": true,
+          "contexto": "Short 'e' sound vs long 'e' sound"
+        },
+        {
+          "ingles": "",
+          "portugues": "E em 'pen' (som curto) vs E em 'see' (som longo)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som curto vs som longo do E"
+        },
+        {
+          "ingles": "I in 'sit' vs I in 'fine'",
+          "portugues": "",
+          "fonetica": "/ɪ/ vs /aɪ/",
+          "tem_audio": true,
+          "contexto": "Short 'i' sound vs long 'i' sound"
+        },
+        {
+          "ingles": "",
+          "portugues": "I em 'sit' (som curto) vs I em 'fine' (som longo)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Som curto vs som longo do I"
+        }
+      ]
+    },
+    {
+      "id": "spelling_titulo",
+      "titulo": "Spelling Practice",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "In English, we often need to spell words out loud. This is very useful when giving your name, email address, or any important information over the phone or in person.",
+        "texto_portugues": "",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "spelling_traducao",
+      "titulo": "Tradução",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "",
+        "texto_portugues": "Em inglês, frequentemente precisamos soletrar palavras em voz alta. Isso é muito útil quando damos nosso nome, endereço de email, ou qualquer informação importante por telefone ou pessoalmente.",
+        "tem_audio": false
+      }
+    },
+    {
+      "id": "exemplos_spelling",
+      "titulo": "Spelling Examples",
+      "tipo": "vocabulario",
+      "descricao": "Exemplos de como soletrar palavras",
+      "itens": [
+        {
+          "ingles": "CAT: C-A-T",
+          "portugues": "",
+          "fonetica": "/siː - eɪ - tiː/",
+          "tem_audio": true,
+          "contexto": "Simple three-letter word"
+        },
+        {
+          "ingles": "",
+          "portugues": "GATO: C-A-T (sii-êi-tii)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Palavra simples de três letras"
+        },
+        {
+          "ingles": "HELLO: H-E-L-L-O",
+          "portugues": "",
+          "fonetica": "/eɪtʃ - iː - ɛl - ɛl - oʊ/",
+          "tem_audio": true,
+          "contexto": "Common greeting word"
+        },
+        {
+          "ingles": "",
+          "portugues": "OLÁ: H-E-L-L-O (êitsh-ii-él-él-ôu)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Palavra comum de cumprimento"
+        },
+        {
+          "ingles": "NAME: N-A-M-E",
+          "portugues": "",
+          "fonetica": "/ɛn - eɪ - ɛm - iː/",
+          "tem_audio": true,
+          "contexto": "Important word for introductions"
+        },
+        {
+          "ingles": "",
+          "portugues": "NOME: N-A-M-E (én-êi-ém-ii)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Palavra importante para apresentações"
+        }
+      ]
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Time to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice saying the alphabet out loud! Try spelling your name, your city, and some simple English words. The more you practice, the more confident you'll become with English pronunciation.",
+        "texto_portugues": "",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final_traducao",
+      "titulo": "Tradução",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "",
+        "texto_portugues": "Agora pratique dizendo o alfabeto em voz alta! Tente soletrar seu nome, sua cidade, e algumas palavras simples em inglês. Quanto mais você praticar, mais confiante ficará com a pronúncia inglesa.",
+        "tem_audio": false
+      }
+    }
+  ]
+}
