@@ -1,378 +1,537 @@
- 
 {
   "titulo": "Greetings & Introductions",
-  "descricao": "Bem-vindo à sua primeira aula de inglês! Aprenda a cumprimentar pessoas e se apresentar de forma natural e confiante.",
+  "descricao": "Sua primeira aula de inglês! Aprenda a cumprimentar pessoas e se apresentar de forma natural.",
   "secoes": [
     {
-      "id": "introducao",
+      "id": "titulo_principal",
       "titulo": "Welcome to Your First English Lesson!",
       "tipo": "texto",
       "conteudo": {
-        "texto_ingles": "Welcome to your first English lesson! Here, you will learn to greet people and introduce yourself. Greetings are the foundation of all social interactions in English. Let's start with the basics and build your confidence step by step.",
-        "texto_portugues": "Bem-vindo à sua primeira aula de inglês! Aqui, você vai aprender a cumprimentar pessoas e se apresentar. As saudações são a base de todas as interações sociais em inglês. Vamos começar com o básico e construir sua confiança passo a passo.",
+        "texto_ingles": "Welcome to your first English lesson! Here, you will learn to greet people and introduce yourself. Greetings are the foundation of all social interactions in English.",
+        "texto_portugues": "",
         "tem_audio": true
       }
     },
     {
-      "id": "saudacoes_formais",
-      "titulo": "Formal Greetings (Saudações Formais)",
+      "id": "traducao_titulo",
+      "titulo": "Tradução",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "",
+        "texto_portugues": "Bem-vindo à sua primeira aula de inglês! Aqui, você vai aprender a cumprimentar pessoas e se apresentar. As saudações são a base de todas as interações sociais em inglês.",
+        "tem_audio": false
+      }
+    },
+    {
+      "id": "teoria_saudacoes",
+      "titulo": "Understanding Greetings",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "In English, we have different types of greetings. Some are formal, used in professional situations. Others are informal, used with friends and family. The time of day also affects which greeting we choose.",
+        "texto_portugues": "",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "traducao_teoria",
+      "titulo": "Tradução",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "",
+        "texto_portugues": "Em inglês, temos diferentes tipos de saudações. Algumas são formais, usadas em situações profissionais. Outras são informais, usadas com amigos e família. A hora do dia também afeta qual saudação escolhemos.",
+        "tem_audio": false
+      }
+    },
+    {
+      "id": "saudacoes_manha",
+      "titulo": "Morning Greetings",
       "tipo": "vocabulario",
-      "descricao": "Use essas saudações em situações profissionais, com pessoas desconhecidas, ou em contextos mais sérios",
+      "descricao": "Saudações para usar pela manhã",
       "itens": [
         {
           "ingles": "Good morning!",
-          "portugues": "Bom dia!",
+          "portugues": "",
           "fonetica": "/ɡʊd ˈmɔːrnɪŋ/",
           "tem_audio": true,
-          "contexto": "Usado das 6h às 12h. Muito comum em ambientes de trabalho."
+          "contexto": "Formal greeting used from 6 AM to 12 PM"
         },
         {
-          "ingles": "Good afternoon!",
-          "portugues": "Boa tarde!",
-          "fonetica": "/ɡʊd ˌæftərˈnuːn/",
-          "tem_audio": true,
-          "contexto": "Usado das 12h às 18h. Formal e educado."
-        },
-        {
-          "ingles": "Good evening!",
-          "portugues": "Boa noite! (cumprimento)",
-          "fonetica": "/ɡʊd ˈiːvnɪŋ/",
-          "tem_audio": true,
-          "contexto": "Usado após às 18h para cumprimentar. Não confundir com 'Good night' (despedida)."
-        },
-        {
-          "ingles": "Hello!",
-          "portugues": "Olá!",
-          "fonetica": "/həˈloʊ/",
-          "tem_audio": true,
-          "contexto": "Universal, sempre apropriado. Funciona em qualquer hora do dia."
-        },
-        {
-          "ingles": "How do you do?",
-          "portugues": "Como vai? (muito formal)",
-          "fonetica": "/haʊ duː juː duː/",
-          "tem_audio": true,
-          "contexto": "Extremamente formal. Usado em apresentações oficiais ou cerimônias."
+          "ingles": "",
+          "portugues": "Bom dia!",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Saudação formal usada das 6h às 12h"
         }
       ]
     },
     {
-      "id": "saudacoes_informais",
-      "titulo": "Informal Greetings (Saudações Informais)",
+      "id": "saudacoes_tarde",
+      "titulo": "Afternoon Greetings", 
       "tipo": "vocabulario",
-      "descricao": "Use com amigos, familiares, colegas próximos ou pessoas da sua idade",
+      "descricao": "Saudações para usar à tarde",
       "itens": [
         {
-          "ingles": "Hi!",
-          "portugues": "Oi!",
-          "fonetica": "/haɪ/",
+          "ingles": "Good afternoon!",
+          "portugues": "",
+          "fonetica": "/ɡʊd ˌæftərˈnuːn/",
           "tem_audio": true,
-          "contexto": "A saudação informal mais comum. Amigável e casual."
+          "contexto": "Formal greeting used from 12 PM to 6 PM"
         },
         {
+          "ingles": "",
+          "portugues": "Boa tarde!",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Saudação formal usada das 12h às 18h"
+        }
+      ]
+    },
+    {
+      "id": "saudacoes_noite",
+      "titulo": "Evening Greetings",
+      "tipo": "vocabulario", 
+      "descricao": "Saudações para usar à noite",
+      "itens": [
+        {
+          "ingles": "Good evening!",
+          "portugues": "",
+          "fonetica": "/ɡʊd ˈiːvnɪŋ/",
+          "tem_audio": true,
+          "contexto": "Formal greeting used after 6 PM. Don't confuse with 'Good night' which is for saying goodbye"
+        },
+        {
+          "ingles": "",
+          "portugues": "Boa noite! (cumprimento)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Saudação formal usada após às 18h. Não confundir com 'Good night' que é para despedida"
+        }
+      ]
+    },
+    {
+      "id": "saudacoes_universais",
+      "titulo": "Universal Greetings",
+      "tipo": "vocabulario",
+      "descricao": "Saudações que funcionam a qualquer hora",
+      "itens": [
+        {
+          "ingles": "Hello!",
+          "portugues": "",
+          "fonetica": "/həˈloʊ/",
+          "tem_audio": true,
+          "contexto": "Universal, works at any time of day, formal or semi-formal"
+        },
+        {
+          "ingles": "",
+          "portugues": "Olá!",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Universal, funciona a qualquer hora do dia, formal ou semi-formal"
+        },
+        {
+          "ingles": "Hi!",
+          "portugues": "",
+          "fonetica": "/haɪ/",
+          "tem_audio": true,
+          "contexto": "Casual and friendly, most common informal greeting"
+        },
+        {
+          "ingles": "",
+          "portugues": "Oi!",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Casual e amigável, saudação informal mais comum"
+        }
+      ]
+    },
+    {
+      "id": "saudacoes_jovens",
+      "titulo": "Casual Greetings",
+      "tipo": "vocabulario",
+      "descricao": "Saudações muito informais",
+      "itens": [
+        {
           "ingles": "Hey!",
-          "portugues": "E aí! / Olá!",
+          "portugues": "",
           "fonetica": "/heɪ/",
           "tem_audio": true,
-          "contexto": "Bem informal, usado entre amigos próximos e pessoas jovens."
+          "contexto": "Very informal, used with close friends and young people"
+        },
+        {
+          "ingles": "",
+          "portugues": "E aí!",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Muito informal, usado com amigos próximos e jovens"
         },
         {
           "ingles": "What's up?",
-          "portugues": "E aí? / O que está rolando?",
+          "portugues": "",
           "fonetica": "/wʌts ʌp/",
           "tem_audio": true,
-          "contexto": "Pergunta casual sobre como as coisas estão. Muito usado entre jovens."
+          "contexto": "Casual question meaning 'How are things?' Popular with young people"
         },
         {
-          "ingles": "How are you?",
-          "portugues": "Como você está?",
-          "fonetica": "/haʊ ɑːr juː/",
-          "tem_audio": true,
-          "contexto": "Pergunta sobre o bem-estar. Pode ser formal ou informal dependendo do tom."
-        },
-        {
-          "ingles": "How's it going?",
-          "portugues": "Como vão as coisas?",
-          "fonetica": "/haʊz ɪt ˈɡoʊɪŋ/",
-          "tem_audio": true,
-          "contexto": "Informal e amigável. Similar a 'What's up?' mas um pouco mais educado."
-        },
-        {
-          "ingles": "Howdy!",
-          "portugues": "E aí! (estilo country)",
-          "fonetica": "/ˈhaʊdi/",
-          "tem_audio": true,
-          "contexto": "Muito informal, com sabor americano rural. Divertido e descontraído."
+          "ingles": "",
+          "portugues": "E aí? / O que está rolando?",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Pergunta casual que significa 'Como estão as coisas?' Popular entre jovens"
         }
       ]
     },
     {
-      "id": "respostas_saudacoes",
-      "titulo": "Responding to Greetings (Respondendo às Saudações)",
+      "id": "como_responder_titulo",
+      "titulo": "How to Respond to Greetings",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "When someone greets you, it's polite to respond. Here are the most common responses.",
+        "texto_portugues": "",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "como_responder_traducao",
+      "titulo": "Tradução",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "",
+        "texto_portugues": "Quando alguém te cumprimenta, é educado responder. Aqui estão as respostas mais comuns.",
+        "tem_audio": false
+      }
+    },
+    {
+      "id": "respostas_positivas",
+      "titulo": "Positive Responses",
       "tipo": "vocabulario",
-      "descricao": "Como responder educadamente quando alguém te cumprimenta",
+      "descricao": "Respostas positivas às saudações",
       "itens": [
         {
           "ingles": "I'm fine, thanks. And you?",
-          "portugues": "Estou bem, obrigado. E você?",
+          "portugues": "",
           "fonetica": "/aɪm faɪn θæŋks ænd juː/",
           "tem_audio": true,
-          "contexto": "Resposta padrão e educada. Sempre retorne a pergunta."
+          "contexto": "Standard polite response. Always ask back!"
         },
         {
-          "ingles": "I'm doing well, thanks. How about you?",
-          "portugues": "Estou indo bem, obrigado. E você?",
-          "fonetica": "/aɪm ˈduːɪŋ wel θæŋks haʊ əˈbaʊt juː/",
-          "tem_audio": true,
-          "contexto": "Variação mais elaborada da resposta anterior."
+          "ingles": "",
+          "portugues": "Estou bem, obrigado. E você?",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Resposta educada padrão. Sempre pergunte de volta!"
         },
         {
           "ingles": "Great, thanks!",
-          "portugues": "Ótimo, obrigado!",
+          "portugues": "",
           "fonetica": "/ɡreɪt θæŋks/",
           "tem_audio": true,
-          "contexto": "Resposta positiva e entusiasmada."
+          "contexto": "Enthusiastic positive response"
         },
         {
-          "ingles": "Not bad, thanks.",
-          "portugues": "Nada mal, obrigado.",
-          "fonetica": "/nɑːt bæd θæŋks/",
-          "tem_audio": true,
-          "contexto": "Resposta neutra e casual. Indica que as coisas estão ok."
+          "ingles": "",
+          "portugues": "Ótimo, obrigado!",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Resposta positiva entusiasmada"
         },
         {
           "ingles": "Pretty good!",
-          "portugues": "Muito bem!",
+          "portugues": "",
           "fonetica": "/ˈprɪti ɡʊd/",
           "tem_audio": true,
-          "contexto": "Resposta informal e positiva."
+          "contexto": "Informal positive response"
         },
         {
-          "ingles": "Can't complain!",
-          "portugues": "Não posso reclamar!",
-          "fonetica": "/kænt kəmˈpleɪn/",
-          "tem_audio": true,
-          "contexto": "Expressão idiomática que significa que as coisas estão bem."
+          "ingles": "",
+          "portugues": "Muito bem!",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Resposta positiva informal"
         }
       ]
     },
     {
-      "id": "apresentacoes_basicas",
-      "titulo": "Basic Introductions (Apresentações Básicas)",
+      "id": "apresentacoes_titulo",
+      "titulo": "Introducing Yourself",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "After greeting someone, you usually introduce yourself. Here are the basic ways to say your name and share information about yourself.",
+        "texto_portugues": "",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "apresentacoes_traducao",
+      "titulo": "Tradução",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "",
+        "texto_portugues": "Depois de cumprimentar alguém, você geralmente se apresenta. Aqui estão as formas básicas de dizer seu nome e compartilhar informações sobre você.",
+        "tem_audio": false
+      }
+    },
+    {
+      "id": "dizer_nome",
+      "titulo": "Saying Your Name",
       "tipo": "vocabulario",
-      "descricao": "Como se apresentar e dizer informações básicas sobre você",
+      "descricao": "Como dizer seu nome",
       "itens": [
         {
-          "ingles": "My name is...",
-          "portugues": "Meu nome é...",
+          "ingles": "My name is [your name].",
+          "portugues": "",
           "fonetica": "/maɪ neɪm ɪz/",
           "tem_audio": true,
-          "contexto": "Forma mais formal de dizer o nome. Muito clara e educada."
+          "contexto": "More formal way to introduce yourself"
         },
         {
-          "ingles": "I'm...",
-          "portugues": "Eu sou...",
+          "ingles": "",
+          "portugues": "Meu nome é [seu nome].",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Forma mais formal de se apresentar"
+        },
+        {
+          "ingles": "I'm [your name].",
+          "portugues": "",
           "fonetica": "/aɪm/",
           "tem_audio": true,
-          "contexto": "Forma mais casual de se apresentar. Mais comum no dia a dia."
+          "contexto": "More casual way to introduce yourself"
         },
         {
+          "ingles": "",
+          "portugues": "Eu sou [seu nome].",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Forma mais casual de se apresentar"
+        }
+      ]
+    },
+    {
+      "id": "dizer_origem",
+      "titulo": "Saying Where You're From",
+      "tipo": "vocabulario",
+      "descricao": "Como dizer de onde você é",
+      "itens": [
+        {
           "ingles": "I'm from Brazil.",
-          "portugues": "Eu sou do Brasil.",
+          "portugues": "",
           "fonetica": "/aɪm frʌm brəˈzɪl/",
           "tem_audio": true,
-          "contexto": "Para dizer sua nacionalidade ou país de origem."
+          "contexto": "To say your country of origin"
+        },
+        {
+          "ingles": "",
+          "portugues": "Eu sou do Brasil.",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Para dizer seu país de origem"
         },
         {
           "ingles": "I live in São Paulo.",
-          "portugues": "Eu moro em São Paulo.",
+          "portugues": "",
           "fonetica": "/aɪ lɪv ɪn saʊ ˈpaʊloʊ/",
           "tem_audio": true,
-          "contexto": "Para dizer onde você mora atualmente."
+          "contexto": "To say where you currently live"
         },
         {
-          "ingles": "I'm Brazilian.",
-          "portugues": "Eu sou brasileiro.",
-          "fonetica": "/aɪm brəˈzɪljən/",
-          "tem_audio": true,
-          "contexto": "Forma direta de dizer sua nacionalidade."
-        },
-        {
-          "ingles": "I'm 25 years old.",
-          "portugues": "Eu tenho 25 anos.",
-          "fonetica": "/aɪm ˈtwenti faɪv jɪrz oʊld/",
-          "tem_audio": true,
-          "contexto": "Para dizer sua idade. Substitua 25 pela sua idade real."
+          "ingles": "",
+          "portugues": "Eu moro em São Paulo.",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Para dizer onde você mora atualmente"
         }
       ]
     },
     {
-      "id": "perguntas_conhecer",
-      "titulo": "Getting to Know Someone (Conhecendo Alguém)",
+      "id": "perguntas_essenciais",
+      "titulo": "Essential Questions",
       "tipo": "vocabulario",
-      "descricao": "Perguntas essenciais para conhecer uma pessoa",
+      "descricao": "Perguntas essenciais para conhecer pessoas",
       "itens": [
         {
           "ingles": "What's your name?",
-          "portugues": "Qual é o seu nome?",
+          "portugues": "",
           "fonetica": "/wʌts jʊr neɪm/",
           "tem_audio": true,
-          "contexto": "A pergunta mais básica para conhecer alguém."
+          "contexto": "The most basic question to get to know someone"
+        },
+        {
+          "ingles": "",
+          "portugues": "Qual é o seu nome?",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "A pergunta mais básica para conhecer alguém"
         },
         {
           "ingles": "Where are you from?",
-          "portugues": "De onde você é?",
+          "portugues": "",
           "fonetica": "/wer ɑːr juː frʌm/",
           "tem_audio": true,
-          "contexto": "Para perguntar sobre origem ou nacionalidade."
+          "contexto": "To ask about someone's origin or nationality"
         },
         {
-          "ingles": "Where do you live?",
-          "portugues": "Onde você mora?",
-          "fonetica": "/wer duː juː lɪv/",
-          "tem_audio": true,
-          "contexto": "Para saber onde a pessoa mora atualmente."
-        },
-        {
-          "ingles": "What do you do?",
-          "portugues": "O que você faz? (profissão)",
-          "fonetica": "/wʌt duː juː duː/",
-          "tem_audio": true,
-          "contexto": "Pergunta sobre trabalho ou profissão."
-        },
-        {
-          "ingles": "How old are you?",
-          "portugues": "Quantos anos você tem?",
-          "fonetica": "/haʊ oʊld ɑːr juː/",
-          "tem_audio": true,
-          "contexto": "Para perguntar a idade. Use com cuidado em alguns contextos."
+          "ingles": "",
+          "portugues": "De onde você é?",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Para perguntar sobre origem ou nacionalidade de alguém"
         },
         {
           "ingles": "Nice to meet you!",
-          "portugues": "Prazer em te conhecer!",
+          "portugues": "",
           "fonetica": "/naɪs tuː miːt juː/",
           "tem_audio": true,
-          "contexto": "Frase essencial ao conhecer alguém pela primeira vez."
+          "contexto": "Essential phrase when meeting someone for the first time"
         },
         {
-          "ingles": "Pleased to meet you!",
-          "portugues": "Prazer em conhecê-lo! (mais formal)",
-          "fonetica": "/pliːzd tuː miːt juː/",
-          "tem_audio": true,
-          "contexto": "Versão mais formal de 'Nice to meet you'."
+          "ingles": "",
+          "portugues": "Prazer em te conhecer!",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Frase essencial ao conhecer alguém pela primeira vez"
         }
       ]
     },
     {
-      "id": "dialogo_formal",
-      "titulo": "Formal Introduction Dialogue",
+      "id": "dialogo_exemplo_titulo",
+      "titulo": "Complete Conversation Example",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here's how everything comes together in a real conversation between two people meeting for the first time.",
+        "texto_portugues": "",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dialogo_exemplo_traducao",
+      "titulo": "Tradução",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "",
+        "texto_portugues": "Aqui está como tudo se junta em uma conversa real entre duas pessoas se conhecendo pela primeira vez.",
+        "tem_audio": false
+      }
+    },
+    {
+      "id": "dialogo_completo",
+      "titulo": "Dialogue in English",
       "tipo": "dialogo",
-      "descricao": "Diálogo formal entre duas pessoas se conhecendo em um ambiente profissional",
-      "participantes": ["Mr. Johnson", "Ms. Silva"],
+      "descricao": "Diálogo completo em inglês",
+      "participantes": ["Sarah", "Carlos"],
       "conversas": [
         {
-          "falante": "Mr. Johnson",
-          "ingles": "Good morning! I'm Robert Johnson.",
-          "portugues": "Bom dia! Eu sou Robert Johnson.",
-          "fonetica": "/ɡʊd ˈmɔːrnɪŋ aɪm ˈrɑːbərt ˈdʒɑːnsən/",
+          "falante": "Sarah",
+          "ingles": "Good morning! I'm Sarah.",
+          "portugues": "",
+          "fonetica": "/ɡʊd ˈmɔːrnɪŋ aɪm ˈsɛrə/",
           "tem_audio": true
         },
         {
-          "falante": "Ms. Silva",
-          "ingles": "Good morning, Mr. Johnson. My name is Maria Silva. Pleased to meet you.",
-          "portugues": "Bom dia, Sr. Johnson. Meu nome é Maria Silva. Prazer em conhecê-lo.",
-          "fonetica": "/ɡʊd ˈmɔːrnɪŋ ˈmɪstər ˈdʒɑːnsən maɪ neɪm ɪz məˈriə ˈsɪlvə pliːzd tuː miːt juː/",
+          "falante": "Carlos",
+          "ingles": "Good morning, Sarah! My name is Carlos. Nice to meet you.",
+          "portugues": "",
+          "fonetica": "/ɡʊd ˈmɔːrnɪŋ ˈsɛrə maɪ neɪm ɪz ˈkɑrloʊs naɪs tuː miːt juː/",
           "tem_audio": true
         },
         {
-          "falante": "Mr. Johnson",
-          "ingles": "The pleasure is mine, Ms. Silva. Where are you from?",
-          "portugues": "O prazer é meu, Sra. Silva. De onde você é?",
-          "fonetica": "/ðə ˈpleʒər ɪz maɪn mɪz ˈsɪlvə wer ɑːr juː frʌm/",
+          "falante": "Sarah",
+          "ingles": "Nice to meet you too, Carlos! Where are you from?",
+          "portugues": "",
+          "fonetica": "/naɪs tuː miːt juː tuː ˈkɑrloʊs wer ɑːr juː frʌm/",
           "tem_audio": true
         },
         {
-          "falante": "Ms. Silva",
-          "ingles": "I'm from Brazil, from São Paulo. And you?",
-          "portugues": "Eu sou do Brasil, de São Paulo. E você?",
-          "fonetica": "/aɪm frʌm brəˈzɪl frʌm saʊ ˈpaʊloʊ ænd juː/",
+          "falante": "Carlos",
+          "ingles": "I'm from Brazil. And you?",
+          "portugues": "",
+          "fonetica": "/aɪm frʌm brəˈzɪl ænd juː/",
           "tem_audio": true
         },
         {
-          "falante": "Mr. Johnson",
-          "ingles": "I'm from Canada, from Toronto. What do you do?",
-          "portugues": "Eu sou do Canadá, de Toronto. O que você faz?",
-          "fonetica": "/aɪm frʌm ˈkænədə frʌm təˈrɑːntoʊ wʌt duː juː duː/",
+          "falante": "Sarah",
+          "ingles": "I'm from Canada. How are you today?",
+          "portugues": "",
+          "fonetica": "/aɪm frʌm ˈkænədə haʊ ɑːr juː təˈdeɪ/",
           "tem_audio": true
         },
         {
-          "falante": "Ms. Silva",
-          "ingles": "I'm a marketing manager. How about you?",
-          "portugues": "Eu sou gerente de marketing. E você?",
-          "fonetica": "/aɪm ə ˈmɑːrkətɪŋ ˈmænɪdʒər haʊ əˈbaʊt juː/",
+          "falante": "Carlos",
+          "ingles": "I'm fine, thanks! And you?",
+          "portugues": "",
+          "fonetica": "/aɪm faɪn θæŋks ænd juː/",
           "tem_audio": true
         }
       ]
     },
     {
-      "id": "dialogo_informal",
-      "titulo": "Casual Introduction Dialogue",
+      "id": "dialogo_traducao",
+      "titulo": "Tradução do Diálogo",
       "tipo": "dialogo",
-      "descricao": "Conversa informal entre jovens se conhecendo em uma festa ou evento casual",
-      "participantes": ["Lucas", "Amy"],
+      "descricao": "Mesmo diálogo em português",
+      "participantes": ["Sarah", "Carlos"],
       "conversas": [
         {
-          "falante": "Lucas",
-          "ingles": "Hey! What's up? I'm Lucas.",
-          "portugues": "E aí! O que está rolando? Eu sou o Lucas.",
-          "fonetica": "/heɪ wʌts ʌp aɪm ˈluːkəs/",
-          "tem_audio": true
+          "falante": "Sarah",
+          "ingles": "",
+          "portugues": "Bom dia! Eu sou a Sarah.",
+          "fonetica": "",
+          "tem_audio": false
         },
         {
-          "falante": "Amy",
-          "ingles": "Hi Lucas! I'm Amy. Nice to meet you!",
-          "portugues": "Oi Lucas! Eu sou a Amy. Prazer em te conhecer!",
-          "fonetica": "/haɪ ˈluːkəs aɪm ˈeɪmi naɪs tuː miːt juː/",
-          "tem_audio": true
+          "falante": "Carlos",
+          "ingles": "",
+          "portugues": "Bom dia, Sarah! Meu nome é Carlos. Prazer em te conhecer.",
+          "fonetica": "",
+          "tem_audio": false
         },
         {
-          "falante": "Lucas",
-          "ingles": "Nice to meet you too! How's it going?",
-          "portugues": "Prazer em te conhecer também! Como vão as coisas?",
-          "fonetica": "/naɪs tuː miːt juː tuː haʊz ɪt ˈɡoʊɪŋ/",
-          "tem_audio": true
+          "falante": "Sarah",
+          "ingles": "",
+          "portugues": "Prazer em te conhecer também, Carlos! De onde você é?",
+          "fonetica": "",
+          "tem_audio": false
         },
         {
-          "falante": "Amy",
-          "ingles": "Pretty good, thanks! Are you from around here?",
-          "portugues": "Muito bem, obrigada! Você é daqui?",
-          "fonetica": "/ˈprɪti ɡʊd θæŋks ɑːr juː frʌm əˈraʊnd hɪr/",
-          "tem_audio": true
+          "falante": "Carlos",
+          "ingles": "",
+          "portugues": "Eu sou do Brasil. E você?",
+          "fonetica": "",
+          "tem_audio": false
         },
         {
-          "falante": "Lucas",
-          "ingles": "Yeah, I live nearby. What about you?",
-          "portugues": "Sim, eu moro aqui perto. E você?",
-          "fonetica": "/jæ aɪ lɪv ˈnɪrbaɪ wʌt əˈbaʊt juː/",
-          "tem_audio": true
+          "falante": "Sarah",
+          "ingles": "",
+          "portugues": "Eu sou do Canadá. Como você está hoje?",
+          "fonetica": "",
+          "tem_audio": false
         },
         {
-          "falante": "Amy",
-          "ingles": "I'm from Rio, but I'm studying here now.",
-          "portugues": "Eu sou do Rio, mas estou estudando aqui agora.",
-          "fonetica": "/aɪm frʌm ˈriːoʊ bʌt aɪm ˈstʌdiɪŋ hɪr naʊ/",
-          "tem_audio": true
+          "falante": "Carlos",
+          "ingles": "",
+          "portugues": "Estou bem, obrigado! E você?",
+          "fonetica": "",
+          "tem_audio": false
         }
       ]
     },
     {
       "id": "pratica_final",
-      "titulo": "Practice Challenge",
+      "titulo": "Your Turn to Practice!",
       "tipo": "texto",
       "conteudo": {
-        "texto_ingles": "Now it's your turn! Try to create your own introduction using the phrases you learned. Practice greeting someone, telling them your name, where you're from, and asking questions about them. Remember: practice makes perfect!",
-        "texto_portugues": "Agora é a sua vez! Tente criar sua própria apresentação usando as frases que você aprendeu. Pratique cumprimentar alguém, dizer seu nome, de onde você é, e fazer perguntas sobre a pessoa. Lembre-se: a prática leva à perfeição!",
+        "texto_ingles": "Now practice! Try to greet someone, introduce yourself, and ask questions. Use the phrases you learned. Remember: practice makes perfect!",
+        "texto_portugues": "",
         "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final_traducao",
+      "titulo": "Tradução",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "",
+        "texto_portugues": "Agora pratique! Tente cumprimentar alguém, se apresentar e fazer perguntas. Use as frases que aprendeu. Lembre-se: a prática leva à perfeição!",
+        "tem_audio": false
       }
     }
   ]
