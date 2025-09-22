@@ -1,133 +1,216 @@
 {
+  "versao": "1.0",
+  "ultima_atualizacao": "2025-01-22",
   "topicos": [
     {
+      "id": "arte",
+      "titulo": "Arte",
+      "descricao": "Explore o mundo das artes visuais e suas manifestações",
+      "subtopicos": [
+        {
+          "id": "arte-renascimento",
+          "titulo": "Arte no Renascimento",
+          "descricao": "Os grandes mestres da arte renascentista",
+          "arquivo": "arte-renascimento.json"
+        },
+        {
+          "id": "arte-moderna",
+          "titulo": "Arte Moderna",
+          "descricao": "Movimentos artísticos dos séculos XIX e XX",
+          "arquivo": "arte-moderna.json"
+        },
+        {
+          "id": "arte-brasileira",
+          "titulo": "Arte Brasileira",
+          "descricao": "A rica tradição artística do Brasil",
+          "arquivo": "arte-brasileira.json"
+        }
+      ]
+    },
+    {
+      "id": "ciencia",
+      "titulo": "Ciência",
+      "descricao": "Descobertas e mistérios do mundo científico",
+      "subtopicos": [
+        {
+          "id": "ciencia-universo",
+          "titulo": "Mistérios do Universo",
+          "descricao": "Explore os segredos mais fascinantes do cosmos",
+          "arquivo": "ciencia-universo.json"
+        },
+        {
+          "id": "ciencia-biologia",
+          "titulo": "Biologia Fascinante",
+          "descricao": "Maravilhas do mundo dos seres vivos",
+          "arquivo": "ciencia-biologia.json"
+        },
+        {
+          "id": "ciencia-fisica",
+          "titulo": "Física Moderna",
+          "descricao": "Conceitos revolucionários da física contemporânea",
+          "arquivo": "ciencia-fisica.json"
+        }
+      ]
+    },
+    {
+      "id": "cultura",
       "titulo": "Cultura",
-      "descricao": "Aprenda sobre diferentes culturas de países de língua inglesa",
+      "descricao": "Tradições, curiosidades e aspectos culturais diversos",
       "subtopicos": [
         {
-          "titulo": "Cultura Americana",
-          "descricao": "Tradições, costumes e aspectos culturais dos Estados Unidos",
-          "categoria": "cultura"
+          "id": "cultura-curiosidades",
+          "titulo": "Curiosidades do Mundo",
+          "descricao": "Fatos interessantes e surpreendentes",
+          "arquivo": "cultura-curiosidades.json"
         },
         {
-          "titulo": "Cultura Britânica",
-          "descricao": "História, tradições e costumes do Reino Unido",
-          "categoria": "cultura"
+          "id": "proverbios",
+          "titulo": "Provérbios",
+          "descricao": "Sabedoria popular através de ditados e provérbios",
+          "arquivo": "proverbios.json"
         },
         {
-          "titulo": "Cultura Australiana",
-          "descricao": "Vida, costumes e tradições da Austrália",
-          "categoria": "cultura"
-        },
-        {
-          "titulo": "Cultura Canadense",
-          "descricao": "Tradições e aspectos culturais do Canadá",
-          "categoria": "cultura"
+          "id": "cultura-brasileira",
+          "titulo": "Cultura Brasileira",
+          "descricao": "Tradições e costumes do Brasil",
+          "arquivo": "cultura-brasileira.json"
         }
       ]
     },
     {
+      "id": "desenvolvimento",
+      "titulo": "Desenvolvimento Pessoal",
+      "descricao": "Inspiração e crescimento pessoal",
+      "subtopicos": [
+        {
+          "id": "motivacional",
+          "titulo": "Motivacional",
+          "descricao": "Frases e textos inspiradores para motivar o dia a dia",
+          "arquivo": "motivacional.json"
+        },
+        {
+          "id": "autoestima",
+          "titulo": "Autoestima",
+          "descricao": "Dicas para fortalecer a confiança em si mesmo",
+          "arquivo": "autoestima.json"
+        },
+        {
+          "id": "produtividade",
+          "titulo": "Produtividade",
+          "descricao": "Métodos para otimizar seu tempo e energia",
+          "arquivo": "produtividade.json"
+        }
+      ]
+    },
+    {
+      "id": "historia",
       "titulo": "História",
-      "descricao": "Eventos históricos importantes dos países de língua inglesa",
+      "descricao": "Grandes momentos e civilizações da humanidade",
       "subtopicos": [
         {
-          "titulo": "História dos Estados Unidos",
-          "descricao": "Independência, Guerra Civil e eventos importantes",
-          "categoria": "historia"
+          "id": "historia-antiga",
+          "titulo": "Civilizações Antigas",
+          "descricao": "Descubra as grandes civilizações da antiguidade",
+          "arquivo": "historia-antiga.json"
         },
         {
-          "titulo": "História da Inglaterra",
-          "descricao": "Monarquia, revoluções e império britânico",
-          "categoria": "historia"
+          "id": "historia-brasil",
+          "titulo": "História do Brasil",
+          "descricao": "Momentos marcantes da história brasileira",
+          "arquivo": "historia-brasil.json"
         },
         {
-          "titulo": "Segunda Guerra Mundial",
-          "descricao": "O papel dos países de língua inglesa na guerra",
-          "categoria": "historia"
+          "id": "historia-mundial",
+          "titulo": "História Mundial",
+          "descricao": "Grandes eventos que mudaram o mundo",
+          "arquivo": "historia-mundial.json"
         }
       ]
     },
     {
-      "titulo": "Geografia",
-      "descricao": "Localizações, capitais e características geográficas",
+      "id": "idiomas",
+      "titulo": "Idiomas",
+      "descricao": "Aprimore seus conhecimentos linguísticos",
       "subtopicos": [
         {
-          "titulo": "Estados e Capitais dos EUA",
-          "descricao": "Aprenda os 50 estados americanos e suas capitais",
-          "categoria": "geografia"
+          "id": "falsos-cognatos",
+          "titulo": "Falsos Cognatos",
+          "descricao": "Palavras que parecem iguais mas têm significados diferentes",
+          "arquivo": "falsos-cognatos.json"
         },
         {
-          "titulo": "Cidades Importantes",
-          "descricao": "Londres, Nova York, Sydney e outras metrópoles",
-          "categoria": "geografia"
+          "id": "girias",
+          "titulo": "Gírias",
+          "descricao": "Expressões informais e linguagem coloquial",
+          "arquivo": "girias.json"
         },
         {
-          "titulo": "Pontos Turísticos",
-          "descricao": "Landmarks famosos dos países de língua inglesa",
-          "categoria": "geografia"
+          "id": "idioms",
+          "titulo": "Idioms",
+          "descricao": "Expressões idiomáticas e seus significados",
+          "arquivo": "idioms.json"
+        },
+        {
+          "id": "phrasal-verbs",
+          "titulo": "Phrasal Verbs",
+          "descricao": "Verbos compostos e suas aplicações práticas",
+          "arquivo": "phrasal-verbs.json"
+        },
+        {
+          "id": "perguntas-frequentes",
+          "titulo": "Perguntas Frequentes",
+          "descricao": "Perguntas e respostas comuns em conversações",
+          "arquivo": "perguntas-frequentes.json"
         }
       ]
     },
     {
-      "titulo": "Ciências",
-      "descricao": "Descobertas científicas e inventores famosos",
-      "subtopicos": [
-        {
-          "titulo": "Grandes Cientistas",
-          "descricao": "Newton, Darwin, Einstein e outros cientistas",
-          "categoria": "ciencia"
-        },
-        {
-          "titulo": "Invenções Importantes",
-          "descricao": "Internet, telefone e outras invenções revolucionárias",
-          "categoria": "ciencia"
-        },
-        {
-          "titulo": "Medicina e Saúde",
-          "descricao": "Descobertas médicas e avanços na saúde",
-          "categoria": "ciencia"
-        }
-      ]
-    },
-    {
+      "id": "literatura",
       "titulo": "Literatura",
-      "descricao": "Autores famosos e obras clássicas da literatura inglesa",
+      "descricao": "Grandes obras e autores da literatura mundial",
       "subtopicos": [
         {
-          "titulo": "Shakespeare",
-          "descricao": "Vida e obras do maior dramaturgo inglês",
-          "categoria": "literatura"
+          "id": "literatura-classica",
+          "titulo": "Literatura Clássica",
+          "descricao": "Os grandes clássicos da literatura mundial",
+          "arquivo": "literatura-classica.json"
         },
         {
-          "titulo": "Autores Clássicos",
-          "descricao": "Dickens, Austen, Twain e outros grandes escritores",
-          "categoria": "literatura"
+          "id": "literatura-brasileira",
+          "titulo": "Literatura Brasileira",
+          "descricao": "Autores e obras marcantes do Brasil",
+          "arquivo": "literatura-brasileira.json"
         },
         {
-          "titulo": "Literatura Moderna",
-          "descricao": "Autores contemporâneos e bestsellers",
-          "categoria": "literatura"
+          "id": "poesia",
+          "titulo": "Poesia",
+          "descricao": "Grandes poetas e seus versos inesquecíveis",
+          "arquivo": "poesia.json"
         }
       ]
     },
     {
+      "id": "tecnologia",
       "titulo": "Tecnologia",
-      "descricao": "Avanços tecnológicos e empresas inovadoras",
+      "descricao": "Inovações e tendências tecnológicas",
       "subtopicos": [
         {
-          "titulo": "Silicon Valley",
-          "descricao": "Berço da inovação tecnológica mundial",
-          "categoria": "tecnologia"
-        },
-        {
-          "titulo": "Redes Sociais",
-          "descricao": "Facebook, Twitter e o impacto das redes sociais",
-          "categoria": "tecnologia"
-        },
-        {
+          "id": "tecnologia-ia",
           "titulo": "Inteligência Artificial",
-          "descricao": "Desenvolvimento de IA nos países de língua inglesa",
-          "categoria": "tecnologia"
+          "descricao": "O futuro da tecnologia e suas implicações",
+          "arquivo": "tecnologia-ia.json"
+        },
+        {
+          "id": "tecnologia-internet",
+          "titulo": "História da Internet",
+          "descricao": "Como a internet revolucionou o mundo",
+          "arquivo": "tecnologia-internet.json"
+        },
+        {
+          "id": "tecnologia-mobile",
+          "titulo": "Tecnologia Mobile",
+          "descricao": "A revolução dos dispositivos móveis",
+          "arquivo": "tecnologia-mobile.json"
         }
       ]
     }
