@@ -6,145 +6,43 @@
       "id": "arte",
       "titulo": "Arte",
       "descricao": "Explore o mundo das artes visuais e suas manifestações",
-      "subtopicos": [
-        {
-          "id": "arte-renascimento",
-          "titulo": "Arte no Renascimento",
-          "descricao": "Os grandes mestres da arte renascentista",
-          "arquivo": "arte-renascimento.json"
-        },
-        {
-          "id": "arte-moderna",
-          "titulo": "Arte Moderna",
-          "descricao": "Movimentos artísticos dos séculos XIX e XX",
-          "arquivo": "arte-moderna.json"
-        },
-        {
-          "id": "arte-brasileira",
-          "titulo": "Arte Brasileira",
-          "descricao": "A rica tradição artística do Brasil",
-          "arquivo": "arte-brasileira.json"
-        }
-      ]
+      "arquivo": "arte.json",
+      "categoria": "arte"
     },
     {
       "id": "ciencia",
       "titulo": "Ciência",
       "descricao": "Descobertas e mistérios do mundo científico",
-      "subtopicos": [
-        {
-          "id": "ciencia-universo",
-          "titulo": "Mistérios do Universo",
-          "descricao": "Explore os segredos mais fascinantes do cosmos",
-          "arquivo": "ciencia-universo.json"
-        },
-        {
-          "id": "ciencia-biologia",
-          "titulo": "Biologia Fascinante",
-          "descricao": "Maravilhas do mundo dos seres vivos",
-          "arquivo": "ciencia-biologia.json"
-        },
-        {
-          "id": "ciencia-fisica",
-          "titulo": "Física Moderna",
-          "descricao": "Conceitos revolucionários da física contemporânea",
-          "arquivo": "ciencia-fisica.json"
-        }
-      ]
+      "arquivo": "ciencia.json",
+      "categoria": "ciencia"
     },
     {
       "id": "cultura",
       "titulo": "Cultura",
       "descricao": "Tradições, curiosidades e aspectos culturais diversos",
-      "subtopicos": [
-        {
-          "id": "cultura-curiosidades",
-          "titulo": "Curiosidades do Mundo",
-          "descricao": "Fatos interessantes e surpreendentes",
-          "arquivo": "cultura-curiosidades.json"
-        },
-        {
-          "id": "proverbios",
-          "titulo": "Provérbios",
-          "descricao": "Sabedoria popular através de ditados e provérbios",
-          "arquivo": "proverbios.json"
-        },
-        {
-          "id": "cultura-brasileira",
-          "titulo": "Cultura Brasileira",
-          "descricao": "Tradições e costumes do Brasil",
-          "arquivo": "cultura-brasileira.json"
-        }
-      ]
+      "arquivo": "cultura.json",
+      "categoria": "cultura"
     },
     {
       "id": "desenvolvimento",
       "titulo": "Desenvolvimento Pessoal",
       "descricao": "Inspiração e crescimento pessoal",
-      "subtopicos": [
-        {
-          "id": "motivacional",
-          "titulo": "Motivacional",
-          "descricao": "Frases e textos inspiradores para motivar o dia a dia",
-          "arquivo": "motivacional.json"
-        },
-        {
-          "id": "autoestima",
-          "titulo": "Autoestima",
-          "descricao": "Dicas para fortalecer a confiança em si mesmo",
-          "arquivo": "autoestima.json"
-        },
-        {
-          "id": "produtividade",
-          "titulo": "Produtividade",
-          "descricao": "Métodos para otimizar seu tempo e energia",
-          "arquivo": "produtividade.json"
-        }
-      ]
+      "arquivo": "desenvolvimento.json",
+      "categoria": "desenvolvimento"
     },
     {
       "id": "historia",
       "titulo": "História",
       "descricao": "Grandes momentos e civilizações da humanidade",
-      "subtopicos": [
-        {
-          "id": "historia-antiga",
-          "titulo": "Civilizações Antigas",
-          "descricao": "Descubra as grandes civilizações da antiguidade",
-          "arquivo": "historia-antiga.json"
-        },
-        {
-          "id": "historia-brasil",
-          "titulo": "História do Brasil",
-          "descricao": "Momentos marcantes da história brasileira",
-          "arquivo": "historia-brasil.json"
-        },
-        {
-          "id": "historia-mundial",
-          "titulo": "História Mundial",
-          "descricao": "Grandes eventos que mudaram o mundo",
-          "arquivo": "historia-mundial.json"
-        }
-      ]
+      "arquivo": "historia.json",
+      "categoria": "historia"
     },
     {
       "id": "idiomas",
       "titulo": "Idiomas",
       "descricao": "Aprimore seus conhecimentos linguísticos",
-      "subtopicos": [
-        {
-          "id": "falsos-cognatos",
-          "titulo": "Falsos Cognatos",
-          "descricao": "Palavras que parecem iguais mas têm significados diferentes",
-          "arquivo": "falsos-cognatos.json"
-        },
-        {
-          "id": "girias",
-          "titulo": "Gírias",
-          "descricao": "Expressões informais e linguagem coloquial",
-          "arquivo": "girias.json"
-        },
-        {
-          "id": "idioms",
-          "titulo": "Idioms",
-          "
+      "arquivo": "idiomas.json",
+      "categoria": "idiomas"
+    }
+  ]
+}
