@@ -1,0 +1,38 @@
+{
+  "titulo_do_teste": "Teste de Saudações e Apresentações",
+  "perguntas": [
+    {
+      "pergunta": "Como você diria 'Olá' em inglês?",
+      "alternativas": [
+        "Goodbye",
+        "Hello",
+        "Thank you",
+        "Please"
+      ],
+      "resposta_correta": "Hello",
+      "feedback": "Resposta correta! 'Hello' é a forma mais comum de saudação."
+    },
+    {
+      "pergunta": "Qual a melhor forma de responder a 'Nice to meet you'?",
+      "alternativas": [
+        "I'm fine",
+        "You're welcome",
+        "Nice to meet you, too",
+        "I'm sorry"
+      ],
+      "resposta_correta": "Nice to meet you, too",
+      "feedback": "Isso mesmo! É educado responder com a mesma frase, adicionando 'too' (também)."
+    },
+    {
+      "pergunta": "Como você pergunta o nome de uma pessoa?",
+      "alternativas": [
+        "What is your name?",
+        "Where are you from?",
+        "How old are you?",
+        "How are you?"
+      ],
+      "resposta_correta": "What is your name?",
+      "feedback": "Certo! 'What is your name?' é a pergunta padrão para saber o nome de alguém."
+    }
+  ]
+}
