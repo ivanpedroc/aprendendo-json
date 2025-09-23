@@ -1,70 +1,70 @@
 [
   {
     "titulo": "Nível Básico: Saudações e Apresentações",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/saudacoes_basico.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/saudacoes.json"
   },
   {
     "titulo": "Nível Básico: O Verbo 'To Be'",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/to_be_basico.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/to_be.json"
   },
   {
     "titulo": "Nível Básico: Números e Rotinas Diárias",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/numeros_rotinas_basico.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/numeros_rotinas.json"
   },
   {
     "titulo": "Nível Básico: O Verbo 'To Have'",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/to_have_basico.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/to_have.json"
   },
   {
     "titulo": "Nível Básico: Vocabulário de Cores e Animais",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/cores_animais_basico.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/cores_animais.json"
   },
   {
     "titulo": "Nível Básico: Artigos (a, an, the)",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/artigos_basico.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/artigos.json"
   },
   {
     "titulo": "Nível Intermediário: Verbos Modais",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/verbos_modais_intermediario.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/verbos_modais.json"
   },
   {
     "titulo": "Nível Intermediário: Present Perfect e Past Simple",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/present_perfect_intermediario.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/present_perfect.json"
   },
   {
     "titulo": "Nível Intermediário: Condicionais",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/condicionais_intermediario.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/condicionais.json"
   },
   {
     "titulo": "Nível Intermediário: Phrasal Verbs Comuns",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/phrasal_verbs_intermediario.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/phrasal_verbs.json"
   },
   {
     "titulo": "Nível Intermediário: Voz Passiva",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/voz_passiva_intermediario.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/voz_passiva.json"
   },
   {
     "titulo": "Nível Intermediário: Reported Speech",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/reported_speech_intermediario.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/reported_speech.json"
   },
   {
     "titulo": "Nível Avançado: Collocations",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/collocations_avancado.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/collocations.json"
   },
   {
     "titulo": "Nível Avançado: Expressões Idiomáticas",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/expressoes_idiomaticas_avancado.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/expressoes_idiomaticas.json"
   },
-  {
+    {
     "titulo": "Nível Avançado: Conectores e Coesão Textual",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/conectores_avancado.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/conectores.json"
   },
   {
     "titulo": "Nível Avançado: Verbos Frasais Avançados",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/verbos_frasais_avancado.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/verbos_frasais.json"
   },
   {
     "titulo": "Nível Avançado: Inversão em Sentenças",
-    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conteudo/ingles/inversao_sentencas_avancado.json"
+    "url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/conhecimentos/inversao_sentencas.json"
   }
 ]
