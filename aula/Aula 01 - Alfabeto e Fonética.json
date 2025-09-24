@@ -1,82 +1,77 @@
 [
   {
-    "titulo": "O Alfabeto (The Alphabet)",
-    "conteudo_ingles": "The English alphabet has 26 letters, just like in Portuguese. However, their sounds are very different.",
-    "conteudo_portugues": "O alfabeto em inglês tem 26 letras, assim como em português. No entanto, o som delas é bem diferente.",
-    "explicacao": "Saber a pronúncia correta do alfabeto é crucial para soletrar nomes, endereços e outras informações importantes em conversas. A pronúncia das vogais e consoantes em inglês não segue o mesmo padrão do português.",
+    "titulo": "O Alfabeto Inglês",
+    "conteudo_ingles": "The English alphabet consists of 26 letters, the same as Portuguese. However, the pronunciation is completely different.",
+    "conteudo_portugues": "O alfabeto inglês consiste em 26 letras, igual ao português. No entanto, a pronúncia é completamente diferente.",
+    "explicacao": "Aprender a pronúncia correta do alfabeto é fundamental para comunicação em inglês, especialmente quando precisamos soletrar nomes, endereços ou outras informações importantes.",
     "exemplos": [
-      "A - (ei)",
-      "B - (bí)",
-      "C - (cí)",
-      "D - (dí)",
-      "E - (í)",
-      "F - (éf)",
-      "G - (djí)",
-      "H - (êitch)",
-      "I - (ái)",
-      "J - (djêi)",
-      "K - (kêi)",
-      "L - (él)",
-      "M - (êm)",
-      "N - (ên)",
-      "O - (ôu)",
-      "P - (pí)",
-      "Q - (kíu)",
-      "R - (ár)",
-      "S - (és)",
-      "T - (tí)",
-      "U - (iú)",
-      "V - (ví)",
-      "W - (dâbliu)",
-      "X - (éks)",
-      "Y - (uái)",
-      "Z - (zí)"
+      "A - /eɪ/ - Como em 'cake'",
+      "E - /iː/ - Como em 'see'",
+      "I - /aɪ/ - Como em 'sky'",
+      "O - /oʊ/ - Como em 'go'",
+      "U - /juː/ - Como em 'use'"
     ]
   },
   {
-    "titulo": "Soletrando (Spelling)",
-    "conteudo_ingles": "A common and useful question is 'How do you spell that?'. This is used when you need someone to spell a word or a name for you.",
-    "conteudo_portugues": "Uma pergunta comum e muito útil é 'How do you spell that?'. Essa frase é usada quando você precisa que alguém soletre uma palavra ou um nome para você.",
-    "explicacao": "Soletrar é fundamental em muitas situações. Se alguém não entender seu nome, por exemplo, você pode usar as letras do alfabeto para soletrar e garantir que a informação seja compreendida.",
+    "titulo": "Pronúncia de Cada Letra",
+    "conteudo_ingles": "A /eɪ/, B /biː/, C /siː/, D /diː/, E /iː/, F /ɛf/, G /dʒiː/, H /eɪtʃ/, I /aɪ/, J /dʒeɪ/, K /keɪ/, L /ɛl/, M /ɛm/, N /ɛn/, O /oʊ/, P /piː/, Q /kjuː/, R /ɑr/, S /ɛs/, T /tiː/, U /juː/, V /viː/, W /'dʌbəl juː/, X /ɛks/, Y /waɪ/, Z /ziː/ (US) or /zɛd/ (UK)",
+    "conteudo_portugues": "A /êi/, B /bí/, C /cí/, D /dí/, E /í/, F /éf/, G /djí/, H /êitch/, I /ái/, J /djêi/, K /kêi/, L /él/, M /êm/, N /ên/, O /ôu/, P /pí/, Q /kiú/, R /ár/, S /és/, T /tí/, U /iú/, V /ví/, W /dâbliu/, X /éks/, Y /uái/, Z /zí/ (EUA) ou /zéd/ (Reino Unido)",
+    "explicacao": "Note que algumas letras têm pronúncias muito diferentes do português. A letra 'W' é pronunciada como 'double U' (duplo U), e 'Z' tem duas variações dependendo do país.",
     "exemplos": [
-      "How do you spell 'Maria'?",
-      "M-A-R-I-A.",
-      "Can you spell your last name?",
-      "S-I-L-V-A."
+      "H - Cuidado! Não é mudo como em português",
+      "J - Soa como 'djêi', não como 'jóta'",
+      "W - 'Double U', não 'dabliu'",
+      "Y - 'Uái', não 'ípsilon'"
     ]
   },
   {
-    "titulo": "Exemplos de Palavras",
-    "conteudo_ingles": "Here are some example words to practice the pronunciation of each letter.",
-    "conteudo_portugues": "Aqui estão alguns exemplos de palavras para praticar a pronúncia de cada letra.",
-    "explicacao": "Praticar com palavras ajuda a fixar o som de cada letra no seu cérebro. Tente dizer cada letra e, em seguida, a palavra que a representa. Por exemplo: 'A' - apple, 'B' - book.",
+    "titulo": "Como Soletrar - How do you spell it?",
+    "conteudo_ingles": "When someone asks 'How do you spell it?' or 'Could you spell that?', you need to say each letter clearly.",
+    "conteudo_portugues": "Quando alguém pergunta 'Como você soletra isso?' ou 'Poderia soletrar isso?', você precisa dizer cada letra claramente.",
+    "explicacao": "Soletrar é uma habilidade essencial em inglês. É comum precisar soletrar seu nome, e-mail, endereço ou outras informações importantes durante conversas.",
     "exemplos": [
-      "A: apple, and",
-      "B: book, boy",
-      "C: cat, car",
-      "D: dog, day",
-      "E: egg, elephant",
-      "F: friend, family",
-      "G: green, go",
-      "H: happy, house",
-      "I: ice, is",
-      "J: job, jump",
-      "K: key, king",
-      "L: light, long",
-      "M: money, mother",
-      "N: new, night",
-      "O: open, orange",
-      "P: people, play",
-      "Q: question, queen",
-      "R: red, read",
-      "S: school, star",
-      "T: table, time",
-      "U: under, use",
-      "V: very, visit",
-      "W: water, with",
-      "X: x-ray, xylophone",
-      "Y: yes, yellow",
-      "Z: zoo, zero"
+      "Name: SARAH → S-A-R-A-H",
+      "Email: john@gmail.com → J-O-H-N at G-M-A-I-L dot com",
+      "Word: BEAUTIFUL → B-E-A-U-T-I-F-U-L",
+      "City: LONDON → L-O-N-D-O-N"
+    ]
+  },
+  {
+    "titulo": "Frases Úteis para Soletrar",
+    "conteudo_ingles": "How do you spell your name? / Could you spell that for me? / Let me spell it out. / Can you repeat the spelling?",
+    "conteudo_portugues": "Como você soletra seu nome? / Poderia soletrar isso para mim? / Deixe-me soletrar. / Pode repetir a soletração?",
+    "explicacao": "Essas frases são muito úteis em situações reais, como preenchimento de formulários, reservas em hotéis, ou qualquer situação onde informações precisas são necessárias.",
+    "exemplos": [
+      "A: 'What's your last name?' B: 'Smith' A: 'How do you spell that?' B: 'S-M-I-T-H'",
+      "A: 'Could you spell your email?' B: 'Sure, it's M-A-R-Y dot J-O-N-E-S at Y-A-H-O-O dot com'",
+      "A: 'I didn't catch that. Could you spell it?' B: 'Of course, P-H-I-L-A-D-E-L-P-H-I-A'",
+      "Phone: 'Could you spell the street name?' You: 'It's M-A-I-N space S-T-R-E-E-T'"
+    ]
+  },
+  {
+    "titulo": "Vocabulário com Cada Letra",
+    "conteudo_ingles": "Learning words that start with each letter helps you remember the alphabet pronunciation and build vocabulary.",
+    "conteudo_portugues": "Aprender palavras que começam com cada letra ajuda você a lembrar da pronúncia do alfabeto e construir vocabulário.",
+    "explicacao": "Associar cada letra a palavras comuns é uma técnica eficaz para memorizar a pronúncia e expandir seu vocabulário simultaneamente.",
+    "exemplos": [
+      "A - Apple (maçã), Airplane (avião), Amazing (incrível)",
+      "B - Beautiful (bonito), Butterfly (borboleta), Business (negócio)",
+      "C - Computer (computador), Chocolate (chocolate), Camera (câmera)",
+      "D - Delicious (delicioso), Doctor (médico), Different (diferente)",
+      "E - Elephant (elefante), Education (educação), Exciting (emocionante)"
+    ]
+  },
+  {
+    "titulo": "Fonética Básica - Sons das Letras",
+    "conteudo_ingles": "Each letter can make different sounds in different words. This is called phonetics.",
+    "conteudo_portugues": "Cada letra pode fazer sons diferentes em palavras diferentes. Isso é chamado de fonética.",
+    "explicacao": "Diferente do português, onde as letras geralmente têm sons consistentes, em inglês uma mesma letra pode ter vários sons dependendo da palavra. Por isso é importante aprender a fonética.",
+    "exemplos": [
+      "Letter 'A': cat /æ/, cake /eɪ/, car /ɑ/, about /ə/",
+      "Letter 'E': pen /e/, Pete /iː/, the /ə/, silent in 'name'",
+      "Letter 'I': big /ɪ/, bike /aɪ/, bird /ɜr/",
+      "Letter 'O': dog /ɑ/, go /oʊ/, women /ɪ/, love /ʌ/",
+      "Letter 'C': cat /k/, city /s/, chair /tʃ/"
     ]
   }
 ]
