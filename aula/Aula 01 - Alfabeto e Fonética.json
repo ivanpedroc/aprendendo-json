@@ -1,77 +1,137 @@
-[
-  {
-    "titulo": "O Alfabeto Inglês",
-    "conteudo_ingles": "The English alphabet consists of 26 letters, the same as Portuguese. However, the pronunciation is completely different.",
-    "conteudo_portugues": "O alfabeto inglês consiste em 26 letras, igual ao português. No entanto, a pronúncia é completamente diferente.",
-    "explicacao": "Aprender a pronúncia correta do alfabeto é fundamental para comunicação em inglês, especialmente quando precisamos soletrar nomes, endereços ou outras informações importantes.",
-    "exemplos": [
-      "A - /eɪ/ - Como em 'cake'",
-      "E - /iː/ - Como em 'see'",
-      "I - /aɪ/ - Como em 'sky'",
-      "O - /oʊ/ - Como em 'go'",
-      "U - /juː/ - Como em 'use'"
-    ]
-  },
-  {
-    "titulo": "Pronúncia de Cada Letra",
-    "conteudo_ingles": "A /eɪ/, B /biː/, C /siː/, D /diː/, E /iː/, F /ɛf/, G /dʒiː/, H /eɪtʃ/, I /aɪ/, J /dʒeɪ/, K /keɪ/, L /ɛl/, M /ɛm/, N /ɛn/, O /oʊ/, P /piː/, Q /kjuː/, R /ɑr/, S /ɛs/, T /tiː/, U /juː/, V /viː/, W /'dʌbəl juː/, X /ɛks/, Y /waɪ/, Z /ziː/ (US) or /zɛd/ (UK)",
-    "conteudo_portugues": "A /êi/, B /bí/, C /cí/, D /dí/, E /í/, F /éf/, G /djí/, H /êitch/, I /ái/, J /djêi/, K /kêi/, L /él/, M /êm/, N /ên/, O /ôu/, P /pí/, Q /kiú/, R /ár/, S /és/, T /tí/, U /iú/, V /ví/, W /dâbliu/, X /éks/, Y /uái/, Z /zí/ (EUA) ou /zéd/ (Reino Unido)",
-    "explicacao": "Note que algumas letras têm pronúncias muito diferentes do português. A letra 'W' é pronunciada como 'double U' (duplo U), e 'Z' tem duas variações dependendo do país.",
-    "exemplos": [
-      "H - Cuidado! Não é mudo como em português",
-      "J - Soa como 'djêi', não como 'jóta'",
-      "W - 'Double U', não 'dabliu'",
-      "Y - 'Uái', não 'ípsilon'"
-    ]
-  },
-  {
-    "titulo": "Como Soletrar - How do you spell it?",
-    "conteudo_ingles": "When someone asks 'How do you spell it?' or 'Could you spell that?', you need to say each letter clearly.",
-    "conteudo_portugues": "Quando alguém pergunta 'Como você soletra isso?' ou 'Poderia soletrar isso?', você precisa dizer cada letra claramente.",
-    "explicacao": "Soletrar é uma habilidade essencial em inglês. É comum precisar soletrar seu nome, e-mail, endereço ou outras informações importantes durante conversas.",
-    "exemplos": [
-      "Name: SARAH → S-A-R-A-H",
-      "Email: john@gmail.com → J-O-H-N at G-M-A-I-L dot com",
-      "Word: BEAUTIFUL → B-E-A-U-T-I-F-U-L",
-      "City: LONDON → L-O-N-D-O-N"
-    ]
-  },
-  {
-    "titulo": "Frases Úteis para Soletrar",
-    "conteudo_ingles": "How do you spell your name? / Could you spell that for me? / Let me spell it out. / Can you repeat the spelling?",
-    "conteudo_portugues": "Como você soletra seu nome? / Poderia soletrar isso para mim? / Deixe-me soletrar. / Pode repetir a soletração?",
-    "explicacao": "Essas frases são muito úteis em situações reais, como preenchimento de formulários, reservas em hotéis, ou qualquer situação onde informações precisas são necessárias.",
-    "exemplos": [
-      "A: 'What's your last name?' B: 'Smith' A: 'How do you spell that?' B: 'S-M-I-T-H'",
-      "A: 'Could you spell your email?' B: 'Sure, it's M-A-R-Y dot J-O-N-E-S at Y-A-H-O-O dot com'",
-      "A: 'I didn't catch that. Could you spell it?' B: 'Of course, P-H-I-L-A-D-E-L-P-H-I-A'",
-      "Phone: 'Could you spell the street name?' You: 'It's M-A-I-N space S-T-R-E-E-T'"
-    ]
-  },
-  {
-    "titulo": "Vocabulário com Cada Letra",
-    "conteudo_ingles": "Learning words that start with each letter helps you remember the alphabet pronunciation and build vocabulary.",
-    "conteudo_portugues": "Aprender palavras que começam com cada letra ajuda você a lembrar da pronúncia do alfabeto e construir vocabulário.",
-    "explicacao": "Associar cada letra a palavras comuns é uma técnica eficaz para memorizar a pronúncia e expandir seu vocabulário simultaneamente.",
-    "exemplos": [
-      "A - Apple (maçã), Airplane (avião), Amazing (incrível)",
-      "B - Beautiful (bonito), Butterfly (borboleta), Business (negócio)",
-      "C - Computer (computador), Chocolate (chocolate), Camera (câmera)",
-      "D - Delicious (delicioso), Doctor (médico), Different (diferente)",
-      "E - Elephant (elefante), Education (educação), Exciting (emocionante)"
-    ]
-  },
-  {
-    "titulo": "Fonética Básica - Sons das Letras",
-    "conteudo_ingles": "Each letter can make different sounds in different words. This is called phonetics.",
-    "conteudo_portugues": "Cada letra pode fazer sons diferentes em palavras diferentes. Isso é chamado de fonética.",
-    "explicacao": "Diferente do português, onde as letras geralmente têm sons consistentes, em inglês uma mesma letra pode ter vários sons dependendo da palavra. Por isso é importante aprender a fonética.",
-    "exemplos": [
-      "Letter 'A': cat /æ/, cake /eɪ/, car /ɑ/, about /ə/",
-      "Letter 'E': pen /e/, Pete /iː/, the /ə/, silent in 'name'",
-      "Letter 'I': big /ɪ/, bike /aɪ/, bird /ɜr/",
-      "Letter 'O': dog /ɑ/, go /oʊ/, women /ɪ/, love /ʌ/",
-      "Letter 'C': cat /k/, city /s/, chair /tʃ/"
-    ]
-  }
-]
+{
+  "title": "Lição 1: The English Alphabet",
+  "subtitle": "Aprenda a pronunciar e soletrar em inglês",
+  "sections": [
+    {
+      "heading": "O Alfabeto em Inglês (The English Alphabet)",
+      "paragraphs": [
+        {
+          "english": "The English alphabet has the same 26 letters as the Portuguese alphabet, but the pronunciation is quite different. Learning how to pronounce the letters correctly is essential for spelling names, places, and other important information.",
+          "portuguese": "O alfabeto em inglês tem as mesmas 26 letras que o alfabeto em português, mas a pronúncia é bastante diferente. Aprender a pronunciar as letras corretamente é essencial para soletrar nomes, lugares e outras informações importantes."
+        }
+      ],
+      "content_list": [
+        {
+          "type": "table",
+          "columns": ["Letter", "Pronunciation"],
+          "rows": [
+            ["A", "ei"],
+            ["B", "bí"],
+            ["C", "cí"],
+            ["D", "dí"],
+            ["E", "í"],
+            ["F", "éf"],
+            ["G", "djí"],
+            ["H", "êitch"],
+            ["I", "ái"],
+            ["J", "djêi"],
+            ["K", "kêi"],
+            ["L", "él"],
+            ["M", "êm"],
+            ["N", "ên"],
+            ["O", "ôu"],
+            ["P", "pí"],
+            ["Q", "kíu"],
+            ["R", "ár"],
+            ["S", "és"],
+            ["T", "tí"],
+            ["U", "iú"],
+            ["V", "ví"],
+            ["W", "dâbliu"],
+            ["X", "éks"],
+            ["Y", "uái"],
+            ["Z", "zí / zéd (UK)"]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Praticando a Soletração (Practicing Spelling)",
+      "paragraphs": [
+        {
+          "english": "A common and very useful question is 'How do you spell that?'. This phrase is used when you need someone to spell out a word for you. Let's look at some examples.",
+          "portuguese": "Uma pergunta comum e muito útil é 'How do you spell that?'. Essa frase é usada quando você precisa que alguém soletre uma palavra para você. Vamos ver alguns exemplos."
+        }
+      ],
+      "dialogues": [
+        {
+          "speaker": "Person A",
+          "line": {
+            "english": "Nice to meet you. What's your name?",
+            "portuguese": "Prazer em te conhecer. Qual é o seu nome?"
+          }
+        },
+        {
+          "speaker": "Person B",
+          "line": {
+            "english": "My name is Julia.",
+            "portuguese": "Meu nome é Julia."
+          }
+        },
+        {
+          "speaker": "Person A",
+          "line": {
+            "english": "How do you spell it?",
+            "portuguese": "Como você soletra?"
+          }
+        },
+        {
+          "speaker": "Person B",
+          "line": {
+            "english": "J-U-L-I-A.",
+            "portuguese": "J-U-L-I-A."
+          }
+        },
+        {
+          "speaker": "Person A",
+          "line": {
+            "english": "Thanks!",
+            "portuguese": "Obrigado!"
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Alfabeto com Exemplos de Palavras",
+      "paragraphs": [
+        {
+          "english": "Here are some examples of words for each letter of the alphabet to help you practice.",
+          "portuguese": "Aqui estão alguns exemplos de palavras para cada letra do alfabeto para ajudar você a praticar."
+        }
+      ],
+      "content_list": [
+        {
+          "type": "list",
+          "items": [
+            {"english": "A: apple, and, about", "portuguese": "maçã, e, sobre"},
+            {"english": "B: book, beautiful, blue", "portuguese": "livro, bonito, azul"},
+            {"english": "C: cat, city, computer", "portuguese": "gato, cidade, computador"},
+            {"english": "D: dog, door, dark", "portuguese": "cachorro, porta, escuro"},
+            {"english": "E: elephant, early, egg", "portuguese": "elefante, cedo, ovo"},
+            {"english": "F: friend, family, food", "portuguese": "amigo, família, comida"},
+            {"english": "G: green, go, great", "portuguese": "verde, ir, ótimo"},
+            {"english": "H: happy, house, hello", "portuguese": "feliz, casa, olá"},
+            {"english": "I: ice, is, it", "portuguese": "gelo, é, isso"},
+            {"english": "J: jump, job, just", "portuguese": "pular, trabalho, apenas"},
+            {"english": "K: king, know, key", "portuguese": "rei, saber, chave"},
+            {"english": "L: light, love, long", "portuguese": "luz, amor, longo"},
+            {"english": "M: money, man, mother", "portuguese": "dinheiro, homem, mãe"},
+            {"english": "N: new, night, no", "portuguese": "novo, noite, não"},
+            {"english": "O: open, on, orange", "portuguese": "abrir, em, laranja"},
+            {"english": "P: people, play, phone", "portuguese": "pessoas, brincar, telefone"},
+            {"english": "Q: question, quick, queen", "portuguese": "pergunta, rápido, rainha"},
+            {"english": "R: red, right, read", "portuguese": "vermelho, certo, ler"},
+            {"english": "S: school, star, speak", "portuguese": "escola, estrela, falar"},
+            {"english": "T: table, time, travel", "portuguese": "mesa, tempo, viajar"},
+            {"english": "U: umbrella, up, under", "portuguese": "guarda-chuva, para cima, debaixo"},
+            {"english": "V: very, voice, visit", "portuguese": "muito, voz, visitar"},
+            {"english": "W: water, with, want", "portuguese": "água, com, querer"},
+            {"english": "X: x-ray, xylophone", "portuguese": "raio-x, xilofone"},
+            {"english": "Y: yellow, yes, year", "portuguese": "amarelo, sim, ano"},
+            {"english": "Z: zoo, zero, zip", "portuguese": "zoológico, zero, zíper"}
+          ]
+        }
+      ]
+    }
+  ]
+}
