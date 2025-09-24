@@ -1,442 +1,365 @@
 {
-  "titulo": "The Verb TO BE",
-  "descricao": "O verbo mais importante do inglês! Aprenda todas as formas do verbo 'to be' e como usá-las corretamente.",
+  "titulo": "Verbo to be - Forma Afirmativa",
+  "descricao": "Aprenda o verbo mais importante do inglês! Domine as formas am, is e are na forma afirmativa, tanto completas quanto contraídas.",
   "secoes": [
     {
       "id": "introducao",
       "titulo": "The Most Important Verb in English",
       "tipo": "texto",
       "conteudo": {
-        "texto_ingles": "The verb 'to be' is the foundation of English grammar. It means 'ser' or 'estar' in Portuguese. You will use this verb in almost every conversation. It changes form depending on who is speaking and when.",
-        "texto_portugues": "O verbo 'to be' é a base da gramática inglesa. Significa 'ser' ou 'estar' em português. Você usará este verbo em quase toda conversa. Ele muda de forma dependendo de quem está falando e quando.",
+        "texto_ingles": "The verb 'to be' is the most important verb in English! It means 'ser' or 'estar' in Portuguese. You will use this verb in almost every conversation. In this lesson, we will focus only on the affirmative form (positive sentences). In the Simple Present, 'to be' has three forms: am, is, and are.",
+        "texto_portugues": "O verbo 'to be' é o verbo mais importante do inglês! Significa 'ser' ou 'estar' em português. Você usará este verbo em quase todas as conversas. Nesta aula, vamos focar apenas na forma afirmativa (frases positivas). No Presente Simples, 'to be' tem três formas: am, is e are.",
         "tem_audio": true
       }
     },
     {
-      "id": "formas_presente",
-      "titulo": "Present Forms of TO BE",
+      "id": "formas_basicas",
+      "titulo": "The Three Forms of 'To Be'",
       "tipo": "texto",
       "conteudo": {
-        "texto_ingles": "In the present tense, 'to be' has three forms: AM, IS, and ARE. The form you use depends on the subject of the sentence.",
-        "texto_portugues": "No presente, 'to be' tem três formas: AM, IS e ARE. A forma que você usa depende do sujeito da frase.",
+        "texto_ingles": "In the present tense, 'to be' changes depending on the subject. There are only three forms to remember: AM (only with 'I'), IS (with he, she, it), and ARE (with you, we, they). Each form has a contracted version that sounds more natural in conversation.",
+        "texto_portugues": "No presente, 'to be' muda dependendo do sujeito. Há apenas três formas para lembrar: AM (apenas com 'I'), IS (com he, she, it), e ARE (com you, we, they). Cada forma tem uma versão contraída que soa mais natural na conversa.",
         "tem_audio": true
       }
     },
     {
-      "id": "am_forma",
-      "titulo": "I AM",
+      "id": "am_com_i",
+      "titulo": "AM - Used only with 'I'",
       "tipo": "vocabulario",
-      "descricao": "Use 'AM' apenas com 'I'",
+      "descricao": "A forma AM é usada apenas com o pronome I",
       "itens": [
         {
-          "ingles": "I am happy.",
-          "portugues": "Eu estou feliz.",
-          "fonetica": "/aɪ æm ˈhæpi/",
+          "ingles": "I am a student.",
+          "portugues": "Eu sou um estudante.",
+          "fonetica": "/aɪ æm ə ˈstudənt/",
           "tem_audio": true,
-          "contexto": "Expressing feelings or emotions"
+          "contexto": "Complete form - more formal"
         },
         {
-          "ingles": "I am a teacher.",
-          "portugues": "Eu sou professor(a).",
-          "fonetica": "/aɪ æm ə ˈtiːtʃər/",
+          "ingles": "I'm a student.",
+          "portugues": "Eu sou um estudante.",
+          "fonetica": "/aɪm ə ˈstudənt/",
           "tem_audio": true,
-          "contexto": "Describing your job or profession"
+          "contexto": "Contracted form - more common in speech"
         },
         {
-          "ingles": "I am from Brazil.",
+          "ingles": "I am happy today.",
+          "portugues": "Eu estou feliz hoje.",
+          "fonetica": "/aɪ æm ˈhæpi təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "Expressing feelings or temporary states"
+        },
+        {
+          "ingles": "I'm from Brazil.",
           "portugues": "Eu sou do Brasil.",
-          "fonetica": "/aɪ æm frʌm brəˈzɪl/",
+          "fonetica": "/aɪm frʌm brəˈzɪl/",
           "tem_audio": true,
-          "contexto": "Talking about your origin"
+          "contexto": "Very common way to say your origin"
         },
         {
           "ingles": "I am 25 years old.",
           "portugues": "Eu tenho 25 anos.",
-          "fonetica": "/aɪ æm ˈtwenti faɪv jɪrz oʊld/",
+          "fonetica": "/aɪ æm ˈtwɛnti faɪv jɪrz oʊld/",
           "tem_audio": true,
-          "contexto": "Stating your age"
+          "contexto": "Age - Note: English says 'I AM 25', not 'I HAVE 25'"
         }
       ]
     },
     {
-      "id": "is_forma",
-      "titulo": "HE/SHE/IT IS",
+      "id": "is_terceira_pessoa",
+      "titulo": "IS - Used with He, She, It",
       "tipo": "vocabulario",
-      "descricao": "Use 'IS' com he, she, it e substantivos singulares",
+      "descricao": "A forma IS é usada com he, she e it",
       "itens": [
         {
-          "ingles": "He is tall.",
-          "portugues": "Ele é alto.",
-          "fonetica": "/hiː ɪz tɔːl/",
+          "ingles": "He is a teacher.",
+          "portugues": "Ele é um professor.",
+          "fonetica": "/hi ɪz ə ˈtitʃər/",
           "tem_audio": true,
-          "contexto": "Describing a man or boy"
+          "contexto": "He = masculine person"
+        },
+        {
+          "ingles": "He's a teacher.",
+          "portugues": "Ele é um professor.",
+          "fonetica": "/hiz ə ˈtitʃər/",
+          "tem_audio": true,
+          "contexto": "Contracted form - sounds more natural"
         },
         {
           "ingles": "She is beautiful.",
           "portugues": "Ela é bonita.",
-          "fonetica": "/ʃiː ɪz ˈbjuːtɪfəl/",
+          "fonetica": "/ʃi ɪz ˈbjutəfəl/",
           "tem_audio": true,
-          "contexto": "Describing a woman or girl"
+          "contexto": "She = feminine person"
         },
         {
-          "ingles": "It is cold today.",
-          "portugues": "Está frio hoje.",
-          "fonetica": "/ɪt ɪz koʊld təˈdeɪ/",
+          "ingles": "She's at work.",
+          "portugues": "Ela está no trabalho.",
+          "fonetica": "/ʃiz æt wɜrk/",
           "tem_audio": true,
-          "contexto": "Talking about weather or conditions"
+          "contexto": "Expressing location"
         },
         {
-          "ingles": "The book is interesting.",
-          "portugues": "O livro é interessante.",
-          "fonetica": "/ðə bʊk ɪz ˈɪntrəstɪŋ/",
+          "ingles": "It is a big house.",
+          "portugues": "É uma casa grande.",
+          "fonetica": "/ɪt ɪz ə bɪg haʊs/",
           "tem_audio": true,
-          "contexto": "Describing objects or things"
+          "contexto": "It = things, animals, situations"
         },
         {
-          "ingles": "My mother is a doctor.",
-          "portugues": "Minha mãe é médica.",
-          "fonetica": "/maɪ ˈmʌðər ɪz ə ˈdɑːktər/",
+          "ingles": "It's sunny today.",
+          "portugues": "Está ensolarado hoje.",
+          "fonetica": "/ɪts ˈsʌni təˈdeɪ/",
           "tem_audio": true,
-          "contexto": "Talking about someone's profession"
+          "contexto": "Weather - very common use"
         }
       ]
     },
     {
-      "id": "are_forma",
-      "titulo": "YOU/WE/THEY ARE",
+      "id": "are_plural",
+      "titulo": "ARE - Used with You, We, They",
       "tipo": "vocabulario",
-      "descricao": "Use 'ARE' com you, we, they e substantivos plurais",
+      "descricao": "A forma ARE é usada com you, we e they",
       "itens": [
         {
-          "ingles": "You are smart.",
-          "portugues": "Você é inteligente.",
-          "fonetica": "/juː ɑːr smɑːrt/",
+          "ingles": "You are my friend.",
+          "portugues": "Você é meu amigo.",
+          "fonetica": "/ju ɑr maɪ frɛnd/",
           "tem_audio": true,
-          "contexto": "Complimenting someone"
+          "contexto": "You = one person or multiple people"
         },
         {
-          "ingles": "We are friends.",
-          "portugues": "Nós somos amigos.",
-          "fonetica": "/wiː ɑːr frɛndz/",
+          "ingles": "You're my friend.",
+          "portugues": "Você é meu amigo.",
+          "fonetica": "/jʊr maɪ frɛnd/",
           "tem_audio": true,
-          "contexto": "Talking about relationships"
+          "contexto": "Much more common in conversation"
         },
         {
-          "ingles": "They are students.",
-          "portugues": "Eles são estudantes.",
-          "fonetica": "/ðeɪ ɑːr ˈstuːdənts/",
+          "ingles": "We are students.",
+          "portugues": "Nós somos estudantes.",
+          "fonetica": "/wi ɑr ˈstudənts/",
           "tem_audio": true,
-          "contexto": "Describing what people do"
+          "contexto": "We = the speaker + other people"
         },
         {
-          "ingles": "The cars are expensive.",
-          "portugues": "Os carros são caros.",
-          "fonetica": "/ðə kɑːrz ɑːr ɪkˈspɛnsɪv/",
+          "ingles": "We're in the classroom.",
+          "portugues": "Nós estamos na sala de aula.",
+          "fonetica": "/wɪr ɪn ðə ˈklæsrum/",
           "tem_audio": true,
-          "contexto": "Talking about multiple things"
+          "contexto": "Expressing location"
+        },
+        {
+          "ingles": "They are my brothers.",
+          "portugues": "Eles são meus irmãos.",
+          "fonetica": "/ðeɪ ɑr maɪ ˈbrʌðərz/",
+          "tem_audio": true,
+          "contexto": "They = other people (not including speaker)"
+        },
+        {
+          "ingles": "They're at school.",
+          "portugues": "Eles estão na escola.",
+          "fonetica": "/ðɛr æt skul/",
+          "tem_audio": true,
+          "contexto": "Sounds more fluent"
         }
       ]
     },
     {
-      "id": "contractions_intro",
-      "titulo": "Contractions - Natural Speech",
+      "id": "resumo_formas",
+      "titulo": "Complete Summary - All Forms",
+      "tipo": "vocabulario",
+      "descricao": "Resumo completo de todas as formas afirmativas",
+      "itens": [
+        {
+          "ingles": "I am / I'm",
+          "portugues": "Eu sou / Eu estou",
+          "fonetica": "/aɪ æm / aɪm/",
+          "tem_audio": true,
+          "contexto": "Only with 'I' - never changes"
+        },
+        {
+          "ingles": "You are / You're",
+          "portugues": "Você é / Vocês são",
+          "fonetica": "/ju ɑr / jʊr/",
+          "tem_audio": true,
+          "contexto": "Singular or plural 'you'"
+        },
+        {
+          "ingles": "He is / He's",
+          "portugues": "Ele é / Ele está",
+          "fonetica": "/hi ɪz / hiz/",
+          "tem_audio": true,
+          "contexto": "Masculine person only"
+        },
+        {
+          "ingles": "She is / She's",
+          "portugues": "Ela é / Ela está",
+          "fonetica": "/ʃi ɪz / ʃiz/",
+          "tem_audio": true,
+          "contexto": "Feminine person only"
+        },
+        {
+          "ingles": "It is / It's",
+          "portugues": "É / Está (para coisas)",
+          "fonetica": "/ɪt ɪz / ɪts/",
+          "tem_audio": true,
+          "contexto": "Things, animals, weather, situations"
+        },
+        {
+          "ingles": "We are / We're",
+          "portugues": "Nós somos / Nós estamos",
+          "fonetica": "/wi ɑr / wɪr/",
+          "tem_audio": true,
+          "contexto": "Speaker + other people"
+        },
+        {
+          "ingles": "They are / They're",
+          "portugues": "Eles são / Elas estão",
+          "fonetica": "/ðeɪ ɑr / ðɛr/",
+          "tem_audio": true,
+          "contexto": "Multiple people (not including speaker)"
+        }
+      ]
+    },
+    {
+      "id": "quando_usar",
+      "titulo": "When to Use 'To Be' - Affirmative",
       "tipo": "texto",
       "conteudo": {
-        "texto_ingles": "In spoken English, we often use contractions. These are shorter forms that sound more natural. Instead of saying 'I am', we usually say 'I'm'.",
-        "texto_portugues": "No inglês falado, frequentemente usamos contrações. Formas mais curtas que soam mais naturais. Em vez de 'I am', geralmente dizemos 'I'm'.",
+        "texto_ingles": "We use 'to be' in affirmative sentences for many things: to describe people, things, and places; to talk about age, nationality, and profession; to describe feelings and temporary states; to say where someone or something is located. Remember: we're only learning positive sentences in this lesson!",
+        "texto_portugues": "Usamos 'to be' em frases afirmativas para muitas coisas: para descrever pessoas, coisas e lugares; para falar sobre idade, nacionalidade e profissão; para descrever sentimentos e estados temporários; para dizer onde alguém ou algo está localizado. Lembre-se: estamos aprendendo apenas frases positivas nesta aula!",
         "tem_audio": true
       }
     },
     {
-      "id": "contractions_positivas",
-      "titulo": "Positive Contractions",
+      "id": "usos_comuns",
+      "titulo": "Common Uses - Affirmative Sentences",
       "tipo": "vocabulario",
-      "descricao": "Formas contraídas mais usadas na conversa",
+      "descricao": "Usos mais comuns do verbo to be na forma afirmativa",
       "itens": [
         {
-          "ingles": "I'm happy.",
-          "portugues": "Eu estou feliz.",
-          "fonetica": "/aɪm ˈhæpi/",
+          "ingles": "I'm a doctor.",
+          "portugues": "Eu sou médico.",
+          "fonetica": "/aɪm ə ˈdɑktər/",
           "tem_audio": true,
-          "contexto": "I am = I'm (most common in conversation)"
+          "contexto": "Profession"
         },
         {
-          "ingles": "He's tall. She's beautiful.",
-          "portugues": "Ele é alto. Ela é bonita.",
-          "fonetica": "/hiːz tɔːl / ʃiːz ˈbjuːtɪfəl/",
+          "ingles": "She's Brazilian.",
+          "portugues": "Ela é brasileira.",
+          "fonetica": "/ʃiz brəˈzɪljən/",
           "tem_audio": true,
-          "contexto": "He is = He's / She is = She's"
+          "contexto": "Nationality"
         },
         {
-          "ingles": "You're smart.",
-          "portugues": "Você é inteligente.",
-          "fonetica": "/jʊr smɑːrt/",
+          "ingles": "We're tired.",
+          "portugues": "Nós estamos cansados.",
+          "fonetica": "/wɪr ˈtaɪərd/",
           "tem_audio": true,
-          "contexto": "You are = You're"
+          "contexto": "Temporary state/feeling"
         },
         {
-          "ingles": "We're friends. They're students.",
-          "portugues": "Nós somos amigos. Eles são estudantes.",
-          "fonetica": "/wɪr frɛndz / ðɛr ˈstuːdənts/",
+          "ingles": "It's hot today.",
+          "portugues": "Está quente hoje.",
+          "fonetica": "/ɪts hɑt təˈdeɪ/",
           "tem_audio": true,
-          "contexto": "We are = We're / They are = They're"
+          "contexto": "Weather"
+        },
+        {
+          "ingles": "You're at home.",
+          "portugues": "Você está em casa.",
+          "fonetica": "/jʊr æt hoʊm/",
+          "tem_audio": true,
+          "contexto": "Location"
+        },
+        {
+          "ingles": "They're intelligent.",
+          "portugues": "Eles são inteligentes.",
+          "fonetica": "/ðɛr ɪnˈtɛlədʒənt/",
+          "tem_audio": true,
+          "contexto": "Characteristic/personality"
         }
       ]
     },
     {
-      "id": "negative_intro",
-      "titulo": "Making Negative Sentences",
+      "id": "dialogo_exemplo",
+      "titulo": "Real Conversation Example",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando apenas a forma afirmativa do verbo to be",
+      "participantes": ["Ana", "Mike"],
+      "conversas": [
+        {
+          "falante": "Ana",
+          "ingles": "Hi! I'm Ana. I'm from Brazil.",
+          "portugues": "Oi! Eu sou a Ana. Eu sou do Brasil.",
+          "fonetica": "/haɪ aɪm ˈænə aɪm frʌm brəˈzɪl/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mike",
+          "ingles": "Nice to meet you, Ana! I'm Mike. I'm from Canada. I'm 22 years old.",
+          "portugues": "Prazer em te conhecer, Ana! Eu sou o Mike. Eu sou do Canadá. Eu tenho 22 anos.",
+          "fonetica": "/naɪs tu mit ju ˈænə aɪm maɪk aɪm frʌm ˈkænədə aɪm ˈtwɛnti tu jɪrz oʊld/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Ana",
+          "ingles": "That's cool! I'm a teacher. I'm 28 years old.",
+          "portugues": "Que legal! Eu sou professora. Eu tenho 28 anos.",
+          "fonetica": "/ðæts kul aɪm ə ˈtitʃər aɪm ˈtwɛnti eɪt jɪrz oʊld/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mike",
+          "ingles": "I'm a student. We're both here for the English course.",
+          "portugues": "Eu sou estudante. Nós dois estamos aqui para o curso de inglês.",
+          "fonetica": "/aɪm ə ˈstudənt wir boʊθ hɪr fɔr ði ˈɪŋglɪʃ kɔrs/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Ana",
+          "ingles": "Yes! The other students are very nice. They're from different countries.",
+          "portugues": "Sim! Os outros estudantes são muito legais. Eles são de países diferentes.",
+          "fonetica": "/jɛs ði ˈʌðər ˈstudənts ɑr ˈvɛri naɪs ðɛr frʌm ˈdɪfərənt ˈkʌntriz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mike",
+          "ingles": "That's great! It's a wonderful class.",
+          "portugues": "Que ótimo! É uma turma maravilhosa.",
+          "fonetica": "/ðæts greɪt ɪts ə ˈwʌndərfəl klæs/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Only Affirmative",
       "tipo": "texto",
       "conteudo": {
-        "texto_ingles": "To make negative sentences with 'to be', we add 'NOT' after the verb. We can also use contractions for negative forms.",
-        "texto_portugues": "Para fazer frases negativas com 'to be', adicionamos 'NOT' depois do verbo. Também podemos usar contrações negativas.",
+        "texto_ingles": "Hello, my name is John. I'm from Brazil. I'm twenty years old. I'm a student. My teacher is very kind. She's always happy. We're in the classroom now. My classmates are friendly. They're from different cities. It's a great class! We're all excited about learning English.",
+        "texto_portugues": "Olá, meu nome é John. Eu sou do Brasil. Eu tenho vinte anos de idade. Eu sou estudante. Minha professora é muito gentil. Ela está sempre feliz. Nós estamos na sala de aula agora. Meus colegas de classe são amigáveis. Eles são de cidades diferentes. É uma ótima turma! Nós todos estamos empolgados para aprender inglês.",
         "tem_audio": true
       }
     },
     {
-      "id": "negatives_full",
-      "titulo": "Full Negative Forms",
-      "tipo": "vocabulario",
-      "descricao": "Formas negativas completas (mais formais)",
-      "itens": [
-        {
-          "ingles": "I am not tired.",
-          "portugues": "Eu não estou cansado.",
-          "fonetica": "/aɪ æm nɑːt ˈtaɪərd/",
-          "tem_audio": true,
-          "contexto": "More formal or emphatic"
-        },
-        {
-          "ingles": "He is not here today.",
-          "portugues": "Ele não está aqui hoje.",
-          "fonetica": "/hiː ɪz nɑːt hɪr təˈdeɪ/",
-          "tem_audio": true,
-          "contexto": "Stating someone's absence"
-        },
-        {
-          "ingles": "We are not ready yet.",
-          "portugues": "Nós não estamos prontos ainda.",
-          "fonetica": "/wiː ɑːr nɑːt ˈrɛdi jɛt/",
-          "tem_audio": true,
-          "contexto": "Expressing unreadiness"
-        }
-      ]
-    },
-    {
-      "id": "negatives_contractions",
-      "titulo": "Negative Contractions",
-      "tipo": "vocabulario",
-      "descricao": "Formas negativas contraídas (mais comum na fala)",
-      "itens": [
-        {
-          "ingles": "I'm not tired.",
-          "portugues": "Eu não estou cansado.",
-          "fonetica": "/aɪm nɑːt ˈtaɪərd/",
-          "tem_audio": true,
-          "contexto": "Only one way to contract 'I am not'"
-        },
-        {
-          "ingles": "He isn't here. She isn't ready.",
-          "portugues": "Ele não está aqui. Ela não está pronta.",
-          "fonetica": "/hiː ˈɪzənt hɪr / ʃiː ˈɪzənt ˈrɛdi/",
-          "tem_audio": true,
-          "contexto": "Is not = isn't (very common)"
-        },
-        {
-          "ingles": "We aren't ready. They aren't students.",
-          "portugues": "Nós não estamos prontos. Eles não são estudantes.",
-          "fonetica": "/wiː ˈɑːrənt ˈrɛdi / ðeɪ ˈɑːrənt ˈstuːdənts/",
-          "tem_audio": true,
-          "contexto": "Are not = aren't (most common)"
-        }
-      ]
-    },
-    {
-      "id": "questions_intro",
-      "titulo": "Making Questions",
+      "id": "contractions_importantes",
+      "titulo": "Why Contractions are Important",
       "tipo": "texto",
       "conteudo": {
-        "texto_ingles": "To make questions with 'to be', we move the verb to the beginning of the sentence. This is called inversion.",
-        "texto_portugues": "Para fazer perguntas com 'to be', movemos o verbo para o início da frase. Isso se chama inversão.",
+        "texto_ingles": "In spoken English, we almost always use contractions (I'm, you're, he's, she's, it's, we're, they're). Complete forms sound very formal or robotic. Native speakers expect to hear contractions in normal conversation. Practice both forms, but use contractions when speaking!",
+        "texto_portugues": "No inglês falado, quase sempre usamos contrações (I'm, you're, he's, she's, it's, we're, they're). As formas completas soam muito formais ou robóticas. Falantes nativos esperam ouvir contrações em conversas normais. Pratique ambas as formas, mas use contrações ao falar!",
         "tem_audio": true
       }
-    },
-    {
-      "id": "yes_no_questions",
-      "titulo": "Yes/No Questions",
-      "tipo": "vocabulario",
-      "descricao": "Perguntas que respondem com sim ou não",
-      "itens": [
-        {
-          "ingles": "Are you happy?",
-          "portugues": "Você está feliz?",
-          "fonetica": "/ɑːr juː ˈhæpi/",
-          "tem_audio": true,
-          "contexto": "Question form: Are + you + adjective?"
-        },
-        {
-          "ingles": "Is he a teacher?",
-          "portugues": "Ele é professor?",
-          "fonetica": "/ɪz hiː ə ˈtiːtʃər/",
-          "tem_audio": true,
-          "contexto": "Question form: Is + he/she/it + noun?"
-        },
-        {
-          "ingles": "Am I late?",
-          "portugues": "Eu estou atrasado?",
-          "fonetica": "/æm aɪ leɪt/",
-          "tem_audio": true,
-          "contexto": "Question form: Am + I + adjective?"
-        },
-        {
-          "ingles": "Are they from Brazil?",
-          "portugues": "Eles são do Brasil?",
-          "fonetica": "/ɑːr ðeɪ frʌm brəˈzɪl/",
-          "tem_audio": true,
-          "contexto": "Asking about origin"
-        }
-      ]
-    },
-    {
-      "id": "short_answers",
-      "titulo": "Short Answers",
-      "tipo": "vocabulario",
-      "descricao": "Como responder perguntas de forma rápida",
-      "itens": [
-        {
-          "ingles": "Yes, I am. No, I'm not.",
-          "portugues": "Sim, eu sou/estou. Não, eu não sou/estou.",
-          "fonetica": "/jɛs aɪ æm / noʊ aɪm nɑːt/",
-          "tem_audio": true,
-          "contexto": "Answering 'Am I...?' questions"
-        },
-        {
-          "ingles": "Yes, he is. No, he isn't.",
-          "portugues": "Sim, ele é/está. Não, ele não é/está.",
-          "fonetica": "/jɛs hiː ɪz / noʊ hiː ˈɪzənt/",
-          "tem_audio": true,
-          "contexto": "Answering 'Is he/she/it...?' questions"
-        },
-        {
-          "ingles": "Yes, we are. No, we aren't.",
-          "portugues": "Sim, nós somos/estamos. Não, nós não somos/estamos.",
-          "fonetica": "/jɛs wiː ɑːr / noʊ wiː ˈɑːrənt/",
-          "tem_audio": true,
-          "contexto": "Answering 'Are you/we/they...?' questions"
-        }
-      ]
-    },
-    {
-      "id": "wh_questions",
-      "titulo": "Information Questions",
-      "tipo": "vocabulario",
-      "descricao": "Perguntas que pedem informações específicas",
-      "itens": [
-        {
-          "ingles": "What is your name?",
-          "portugues": "Qual é o seu nome?",
-          "fonetica": "/wʌt ɪz jʊr neɪm/",
-          "tem_audio": true,
-          "contexto": "Most basic question to know someone"
-        },
-        {
-          "ingles": "Where are you from?",
-          "portugues": "De onde você é?",
-          "fonetica": "/wɛr ɑːr juː frʌm/",
-          "tem_audio": true,
-          "contexto": "Asking about origin or nationality"
-        },
-        {
-          "ingles": "How old is she?",
-          "portugues": "Quantos anos ela tem?",
-          "fonetica": "/haʊ oʊld ɪz ʃiː/",
-          "tem_audio": true,
-          "contexto": "Asking about someone's age"
-        },
-        {
-          "ingles": "Why are you sad?",
-          "portugues": "Por que você está triste?",
-          "fonetica": "/waɪ ɑːr juː sæd/",
-          "tem_audio": true,
-          "contexto": "Asking for a reason or cause"
-        }
-      ]
-    },
-    {
-      "id": "common_uses",
-      "titulo": "Common Uses in Daily Life",
-      "tipo": "texto",
-      "conteudo": {
-        "texto_ingles": "We use 'to be' for many things: describing people and things, talking about location, expressing feelings, stating facts, and telling time.",
-        "texto_portugues": "Usamos 'to be' para muitas coisas: descrever pessoas e coisas, falar localização, expressar sentimentos, afirmar fatos e dizer as horas.",
-        "tem_audio": true
-      }
-    },
-    {
-      "id": "describing_examples",
-      "titulo": "Describing People and Things",
-      "tipo": "vocabulario",
-      "descricao": "Exemplos práticos de descrições",
-      "itens": [
-        {
-          "ingles": "She is young and intelligent.",
-          "portugues": "Ela é jovem e inteligente.",
-          "fonetica": "/ʃiː ɪz jʌŋ ænd ɪnˈtɛlɪdʒənt/",
-          "tem_audio": true,
-          "contexto": "Describing age and personality"
-        },
-        {
-          "ingles": "The coffee is hot and delicious.",
-          "portugues": "O café está quente e delicioso.",
-          "fonetica": "/ðə ˈkɔːfi ɪz hɑːt ænd dɪˈlɪʃəs/",
-          "tem_audio": true,
-          "contexto": "Describing food or drinks"
-        },
-        {
-          "ingles": "My car is old but reliable.",
-          "portugues": "Meu carro é velho mas confiável.",
-          "fonetica": "/maɪ kɑːr ɪz oʊld bʌt rɪˈlaɪəbəl/",
-          "tem_audio": true,
-          "contexto": "Describing possessions"
-        }
-      ]
-    },
-    {
-      "id": "location_time_examples",
-      "titulo": "Location and Time",
-      "tipo": "vocabulario",
-      "descricao": "Falando sobre lugar e tempo",
-      "itens": [
-        {
-          "ingles": "I am at work right now.",
-          "portugues": "Eu estou no trabalho agora.",
-          "fonetica": "/aɪ æm æt wɜːrk raɪt naʊ/",
-          "tem_audio": true,
-          "contexto": "Saying where you are currently"
-        },
-        {
-          "ingles": "The meeting is at 3 PM.",
-          "portugues": "A reunião é às 15h.",
-          "fonetica": "/ðə ˈmiːtɪŋ ɪz æt θriː piː ɛm/",
-          "tem_audio": true,
-          "contexto": "Stating time of events"
-        },
-        {
-          "ingles": "It is Friday today.",
-          "portugues": "Hoje é sexta-feira.",
-          "fonetica": "/ɪt ɪz ˈfraɪdeɪ təˈdeɪ/",
-          "tem_audio": true,
-          "contexto": "Saying what day it is"
-        }
-      ]
     },
     {
       "id": "pratica_final",
-      "titulo": "Practice Time!",
+      "titulo": "Your Turn to Practice!",
       "tipo": "texto",
       "conteudo": {
-        "texto_ingles": "Now practice using 'to be' in all its forms! Make sentences about yourself, your family, and your friends. Try positive, negative, and question forms. Remember: practice makes perfect!",
-        "texto_portugues": "Agora pratique usando 'to be' em todas as suas formas! Faça frases sobre você, sua família e seus amigos. Tente formas positivas, negativas e perguntas. A prática leva à perfeição!",
+        "texto_ingles": "Now practice making affirmative sentences about yourself and others! Try sentences about: your name, age, nationality, profession, feelings, and location. Use both complete and contracted forms. Remember: only positive sentences in this lesson - we'll learn negative and question forms in future lessons!",
+        "texto_portugues": "Agora pratique fazendo frases afirmativas sobre você e outros! Tente frases sobre: seu nome, idade, nacionalidade, profissão, sentimentos e localização. Use tanto as formas completas quanto as contraídas. Lembre-se: apenas frases positivas nesta aula - aprenderemos as formas negativa e interrogativa em aulas futuras!",
         "tem_audio": true
       }
     }
