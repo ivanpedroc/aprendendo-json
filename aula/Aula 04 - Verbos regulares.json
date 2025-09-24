@@ -1,0 +1,340 @@
+{
+  "titulo": "Verbos Regulares no Present",
+  "descricao": "Aprenda como conjugar verbos regulares no Present Simple! Descubra as regras de conjugação e pratique com exemplos do dia a dia.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "Regular Verbs in Simple Present",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Regular verbs are the foundation of English! They follow simple, predictable rules in the Simple Present tense. Most verbs in English are regular, which makes them easier to learn. In this lesson, we'll focus only on affirmative sentences and learn the basic conjugation rules.",
+        "texto_portugues": "Os verbos regulares são a base do inglês! Eles seguem regras simples e previsíveis no Present Simple. A maioria dos verbos em inglês são regulares, o que os torna mais fáceis de aprender. Nesta aula, vamos focar apenas em frases afirmativas e aprender as regras básicas de conjugação.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "regra_basica",
+      "titulo": "The Basic Rule",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "The basic rule is simple: regular verbs stay the same for I, you, we, they. But for he, she, it, we add -S to the end of the verb. This is the most important rule to remember! Let's see how this works with common verbs.",
+        "texto_portugues": "A regra básica é simples: verbos regulares ficam iguais para I, you, we, they. Mas para he, she, it, adicionamos -S no final do verbo. Esta é a regra mais importante para lembrar! Vamos ver como isso funciona com verbos comuns.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "verbos_simples_s",
+      "titulo": "Simple Rule: Just Add -S",
+      "tipo": "vocabulario",
+      "descricao": "Verbos que apenas recebem -S na terceira pessoa",
+      "itens": [
+        {
+          "ingles": "I work / He works",
+          "portugues": "Eu trabalho / Ele trabalha",
+          "fonetica": "/aɪ wɜrk / hi wɜrks/",
+          "tem_audio": true,
+          "contexto": "WORK: I work, you work, we work, they work, BUT he/she/it works"
+        },
+        {
+          "ingles": "I play / She plays",
+          "portugues": "Eu brinco / Ela brinca",
+          "fonetica": "/aɪ pleɪ / ʃi pleɪz/",
+          "tem_audio": true,
+          "contexto": "PLAY: Most common rule - just add -S for he/she/it"
+        },
+        {
+          "ingles": "I live / It lives",
+          "portugues": "Eu moro / Ele mora (animal)",
+          "fonetica": "/aɪ lɪv / ɪt lɪvz/",
+          "tem_audio": true,
+          "contexto": "LIVE: Simple -S addition"
+        },
+        {
+          "ingles": "I eat / He eats",
+          "portugues": "Eu como / Ele come",
+          "fonetica": "/aɪ it / hi its/",
+          "tem_audio": true,
+          "contexto": "EAT: Very common daily verb"
+        },
+        {
+          "ingles": "I sleep / She sleeps",
+          "portugues": "Eu durmo / Ela dorme",
+          "fonetica": "/aɪ slip / ʃi slips/",
+          "tem_audio": true,
+          "contexto": "SLEEP: Essential daily activity verb"
+        }
+      ]
+    },
+    {
+      "id": "verbos_com_es",
+      "titulo": "Special Rule: Add -ES",
+      "tipo": "vocabulario",
+      "descricao": "Verbos que recebem -ES na terceira pessoa (terminados em -s, -sh, -ch, -x, -z, -o)",
+      "itens": [
+        {
+          "ingles": "I watch / He watches",
+          "portugues": "Eu assisto / Ele assiste",
+          "fonetica": "/aɪ wɑtʃ / hi ˈwɑtʃɪz/",
+          "tem_audio": true,
+          "contexto": "WATCH: Ends in -CH, so add -ES (pronounced -iz)"
+        },
+        {
+          "ingles": "I wash / She washes",
+          "portugues": "Eu lavo / Ela lava",
+          "fonetica": "/aɪ wɑʃ / ʃi ˈwɑʃɪz/",
+          "tem_audio": true,
+          "contexto": "WASH: Ends in -SH, so add -ES"
+        },
+        {
+          "ingles": "I go / He goes",
+          "portugues": "Eu vou / Ele vai",
+          "fonetica": "/aɪ ɡoʊ / hi ɡoʊz/",
+          "tem_audio": true,
+          "contexto": "GO: Ends in -O, so add -ES (very common verb!)"
+        },
+        {
+          "ingles": "I kiss / She kisses",
+          "portugues": "Eu beijo / Ela beija",
+          "fonetica": "/aɪ kɪs / ʃi ˈkɪsɪz/",
+          "tem_audio": true,
+          "contexto": "KISS: Ends in -SS, so add -ES"
+        },
+        {
+          "ingles": "I fix / It fixes",
+          "portugues": "Eu conserto / Isso conserta",
+          "fonetica": "/aɪ fɪks / ɪt ˈfɪksɪz/",
+          "tem_audio": true,
+          "contexto": "FIX: Ends in -X, so add -ES"
+        }
+      ]
+    },
+    {
+      "id": "verbos_y_para_ies",
+      "titulo": "Y Rule: Y becomes -IES",
+      "tipo": "vocabulario",
+      "descricao": "Verbos terminados em consoante + Y: troca Y por -IES",
+      "itens": [
+        {
+          "ingles": "I study / He studies",
+          "portugues": "Eu estudo / Ele estuda",
+          "fonetica": "/aɪ ˈstʌdi / hi ˈstʌdiz/",
+          "tem_audio": true,
+          "contexto": "STUDY: Consonant + Y = change Y to IES"
+        },
+        {
+          "ingles": "I try / She tries",
+          "portugues": "Eu tento / Ela tenta",
+          "fonetica": "/aɪ traɪ / ʃi traɪz/",
+          "tem_audio": true,
+          "contexto": "TRY: Very common verb with Y→IES rule"
+        },
+        {
+          "ingles": "I cry / The baby cries",
+          "portugues": "Eu choro / O bebê chora",
+          "fonetica": "/aɪ kraɪ / ðə ˈbeɪbi kraɪz/",
+          "tem_audio": true,
+          "contexto": "CRY: Consonant + Y becomes IES"
+        },
+        {
+          "ingles": "I fly / The bird flies",
+          "portugues": "Eu voo / O pássaro voa",
+          "fonetica": "/aɪ flaɪ / ðə bɜrd flaɪz/",
+          "tem_audio": true,
+          "contexto": "FLY: Another example of Y→IES"
+        }
+      ]
+    },
+    {
+      "id": "verbos_y_normal",
+      "titulo": "Y Rule Exception: Vowel + Y = Just -S",
+      "tipo": "vocabulario",
+      "descricao": "Verbos terminados em vogal + Y: apenas adiciona -S",
+      "itens": [
+        {
+          "ingles": "I play / He plays",
+          "portugues": "Eu jogo / Ele joga",
+          "fonetica": "/aɪ pleɪ / hi pleɪz/",
+          "tem_audio": true,
+          "contexto": "PLAY: Vowel + Y = just add -S (no change to Y)"
+        },
+        {
+          "ingles": "I buy / She buys",
+          "portugues": "Eu compro / Ela compra",
+          "fonetica": "/aɪ baɪ / ʃi baɪz/",
+          "tem_audio": true,
+          "contexto": "BUY: Vowel before Y, so just add -S"
+        },
+        {
+          "ingles": "I enjoy / He enjoys",
+          "portugues": "Eu aproveito / Ele aproveita",
+          "fonetica": "/aɪ ɪnˈdʒɔɪ / hi ɪnˈdʒɔɪz/",
+          "tem_audio": true,
+          "contexto": "ENJOY: Vowel + Y = normal -S rule"
+        },
+        {
+          "ingles": "I pay / She pays",
+          "portugues": "Eu pago / Ela paga",
+          "fonetica": "/aɪ peɪ / ʃi peɪz/",
+          "tem_audio": true,
+          "contexto": "PAY: Common verb, vowel + Y = just -S"
+        }
+      ]
+    },
+    {
+      "id": "resumo_regras",
+      "titulo": "Summary of All Rules",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let's review the rules: 1) Most verbs: just add -S (work→works, eat→eats). 2) Verbs ending in -s, -sh, -ch, -x, -z, -o: add -ES (watch→watches, go→goes). 3) Consonant + Y: change Y to -IES (study→studies). 4) Vowel + Y: just add -S (play→plays). These rules work for 99% of regular verbs!",
+        "texto_portugues": "Vamos revisar as regras: 1) Maioria dos verbos: apenas adicione -S (work→works, eat→eats). 2) Verbos terminados em -s, -sh, -ch, -x, -z, -o: adicione -ES (watch→watches, go→goes). 3) Consoante + Y: troque Y por -IES (study→studies). 4) Vogal + Y: apenas adicione -S (play→plays). Essas regras funcionam para 99% dos verbos regulares!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "conjugacao_completa",
+      "titulo": "Complete Conjugation Examples",
+      "tipo": "vocabulario",
+      "descricao": "Exemplos de conjugação completa para entender o padrão",
+      "itens": [
+        {
+          "ingles": "WORK: I work, you work, he works, she works, it works, we work, they work",
+          "portugues": "TRABALHAR: Eu trabalho, você trabalha, ele trabalha, ela trabalha, isso funciona, nós trabalhamos, eles trabalham",
+          "fonetica": "/wɜrk wɜrk wɜrks wɜrks wɜrks wɜrk wɜrk/",
+          "tem_audio": true,
+          "contexto": "Notice: same for all except he/she/it"
+        },
+        {
+          "ingles": "STUDY: I study, you study, he studies, she studies, it studies, we study, they study",
+          "portugues": "ESTUDAR: Eu estudo, você estuda, ele estuda, ela estuda, isso estuda, nós estudamos, eles estudam",
+          "fonetica": "/ˈstʌdi ˈstʌdi ˈstʌdiz ˈstʌdiz ˈstʌdiz ˈstʌdi ˈstʌdi/",
+          "tem_audio": true,
+          "contexto": "Y→IES rule for he/she/it only"
+        },
+        {
+          "ingles": "WATCH: I watch, you watch, he watches, she watches, it watches, we watch, they watch",
+          "portugues": "ASSISTIR: Eu assisto, você assiste, ele assiste, ela assiste, isso assiste, nós assistimos, eles assistem",
+          "fonetica": "/wɑtʃ wɑtʃ ˈwɑtʃɪz ˈwɑtʃɪz ˈwɑtʃɪz wɑtʃ wɑtʃ/",
+          "tem_audio": true,
+          "contexto": "Add -ES for he/she/it (pronounced -iz)"
+        }
+      ]
+    },
+    {
+      "id": "verbos_dia_a_dia",
+      "titulo": "Common Daily Verbs",
+      "tipo": "vocabulario",
+      "descricao": "Verbos regulares essenciais do cotidiano",
+      "itens": [
+        {
+          "ingles": "I cook dinner / She cooks dinner",
+          "portugues": "Eu cozinho o jantar / Ela cozinha o jantar",
+          "fonetica": "/aɪ kʊk ˈdɪnər / ʃi kʊks ˈdɪnər/",
+          "tem_audio": true,
+          "contexto": "Daily activity - simple -S rule"
+        },
+        {
+          "ingles": "I walk to work / He walks to work",
+          "portugues": "Eu caminho para o trabalho / Ele caminha para o trabalho",
+          "fonetica": "/aɪ wɔk tu wɜrk / hi wɔks tu wɜrk/",
+          "tem_audio": true,
+          "contexto": "Common daily routine verb"
+        },
+        {
+          "ingles": "I listen to music / She listens to music",
+          "portugues": "Eu escuto música / Ela escuta música",
+          "fonetica": "/aɪ ˈlɪsən tu ˈmjuzɪk / ʃi ˈlɪsənz tu ˈmjuzɪk/",
+          "tem_audio": true,
+          "contexto": "Entertainment activity"
+        },
+        {
+          "ingles": "I clean the house / He cleans the house",
+          "portugues": "Eu limpo a casa / Ele limpa a casa",
+          "fonetica": "/aɪ klin ðə haʊs / hi klinz ðə haʊs/",
+          "tem_audio": true,
+          "contexto": "Household activity"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando verbos regulares no present",
+      "participantes": ["Lisa", "Carlos"],
+      "conversas": [
+        {
+          "falante": "Lisa",
+          "ingles": "Hi Carlos! I work at a hospital. What do you do?",
+          "portugues": "Oi Carlos! Eu trabalho em um hospital. O que você faz?",
+          "fonetica": "/haɪ ˈkɑrloʊs aɪ wɜrk æt ə ˈhɑspɪtəl wʌt du ju du/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "I teach English at a school. My sister works there too. She teaches math.",
+          "portugues": "Eu ensino inglês em uma escola. Minha irmã trabalha lá também. Ela ensina matemática.",
+          "fonetica": "/aɪ titʃ ˈɪŋglɪʃ æt ə skul maɪ ˈsɪstər wɜrks ðɛr tu ʃi ˈtitʃɪz mæθ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Lisa",
+          "ingles": "That's nice! I live near the school. I walk there every morning.",
+          "portugues": "Que legal! Eu moro perto da escola. Eu caminho até lá toda manhã.",
+          "fonetica": "/ðæts naɪs aɪ lɪv nɪr ðə skul aɪ wɔk ðɛr ˈɛvri ˈmɔrnɪŋ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "Really? My sister drives to work, but I take the bus. She starts work at 8, I start at 9.",
+          "portugues": "Sério? Minha irmã dirige para o trabalho, mas eu pego o ônibus. Ela começa o trabalho às 8, eu começo às 9.",
+          "fonetica": "/ˈrɪli maɪ ˈsɪstər draɪvz tu wɜrk bʌt aɪ teɪk ðə bʌs ʃi stɑrts wɜrk æt eɪt aɪ stɑrt æt naɪn/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Lisa",
+          "ingles": "I start at 7! After work, I usually cook dinner and watch TV. What about you?",
+          "portugues": "Eu começo às 7! Depois do trabalho, eu geralmente cozinho o jantar e assisto TV. E você?",
+          "fonetica": "/aɪ stɑrt æt ˈsɛvən ˈæftər wɜrk aɪ ˈjuʒəli kʊk ˈdɪnər ænd wɑtʃ ˌtiˈvi wʌt əˈbaʊt ju/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "I play guitar and study Portuguese. My sister studies French. We both love languages!",
+          "portugues": "Eu toco guitarra e estudo português. Minha irmã estuda francês. Nós dois adoramos idiomas!",
+          "fonetica": "/aɪ pleɪ ɡɪˈtɑr ænd ˈstʌdi ˌpɔrtʃəˈɡiz maɪ ˈsɪstər ˈstʌdiz frɛntʃ wi boʊθ lʌv ˈlæŋgwɪdʒɪz/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Daily Routines",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "My name is Maria. I live in São Paulo. I work at a bank and I love my job. Every morning, I wake up at 6 AM. I exercise for 30 minutes, then I take a shower. My husband cooks breakfast while I get ready. We eat together and talk about our plans. He drives to his office and I take the metro. At work, I help customers and process documents. After work, I study English and watch movies. My husband plays soccer on Wednesdays. We both enjoy weekends because we relax and visit family.",
+        "texto_portugues": "Meu nome é Maria. Eu moro em São Paulo. Eu trabalho em um banco e amo meu trabalho. Toda manhã, eu acordo às 6h. Eu me exercito por 30 minutos, depois tomo banho. Meu marido cozinha o café da manhã enquanto eu me arrumo. Nós comemos juntos e conversamos sobre nossos planos. Ele dirige até o escritório e eu pego o metrô. No trabalho, eu ajudo clientes e processo documentos. Depois do trabalho, eu estudo inglês e assisto filmes. Meu marido joga futebol às quartas. Nós dois curtimos os fins de semana porque relaxamos e visitamos a família.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_importantes",
+      "titulo": "Important Tips for Regular Verbs",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Remember: the verb changes only for he, she, it - all other persons stay the same! Don't forget the pronunciation: -S sounds like /s/ after voiceless sounds (works, eats), like /z/ after voiced sounds (plays, lives), and like /ɪz/ after -ES additions (watches, studies). Practice these rules until they become automatic!",
+        "texto_portugues": "Lembre-se: o verbo muda apenas para he, she, it - todas as outras pessoas ficam iguais! Não esqueça da pronúncia: -S soa como /s/ após sons surdos (works, eats), como /z/ após sons sonoros (plays, lives), e como /ɪz/ após adições de -ES (watches, studies). Pratique essas regras até que se tornem automáticas!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice! Choose 10 regular verbs and conjugate them for all persons (I, you, he, she, it, we, they). Create sentences about your daily routine using different regular verbs. Remember the rules: simple -S, -ES for special endings, Y→IES for consonant+Y, and just -S for vowel+Y. Keep practicing until it feels natural!",
+      "texto_portugues": "Agora pratique! Escolha 10 verbos regulares e conjugue-os para todas as pessoas (I, you, he, she, it, we, they). Crie frases sobre sua rotina diária usando diferentes verbos regulares. Lembre-se das regras: -S simples, -ES para terminações especiais, Y→IES para consoante+Y, e apenas -S para vogal+Y. Continue praticando até parecer natural!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
