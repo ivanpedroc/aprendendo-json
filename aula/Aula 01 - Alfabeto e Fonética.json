@@ -1,79 +1,384 @@
 {
-  "itens": [
+  "titulo": "Alfabeto e Fonética",
+  "descricao": "Sua primeira aula de inglês! Aprenda o alfabeto inglês, sua pronúncia e como soletrar palavras de forma natural.",
+  "secoes": [
     {
-      "titulo": "O Alfabeto Inglês",
-      "conteudo_ingles": "The English alphabet consists of 26 letters, the same as Portuguese. However, the pronunciation is completely different.",
-      "conteudo_portugues": "O alfabeto inglês consiste em 26 letras, igual ao português. No entanto, a pronúncia é completamente diferente.",
-      "explicacao": "Aprender a pronúncia correta do alfabeto é fundamental para comunicação em inglês, especialmente quando precisamos soletrar nomes, endereços ou outras informações importantes.",
-      "exemplos": [
-        "A - /eɪ/ - Como em 'cake'",
-        "E - /iː/ - Como em 'see'",
-        "I - /aɪ/ - Como em 'sky'",
-        "O - /oʊ/ - Como em 'go'",
-        "U - /juː/ - Como em 'use'"
+      "id": "introducao",
+      "titulo": "Welcome to Your First English Lesson!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Welcome to your first English lesson! Here, you will learn the English alphabet and its pronunciation. The alphabet is the foundation of reading, writing, and spelling in English. Let's start with the basics and build your confidence step by step.",
+        "texto_portugues": "Bem-vindo à sua primeira aula de inglês! Aqui, você vai aprender o alfabeto inglês e sua pronúncia. O alfabeto é a base da leitura, escrita e soletração em inglês. Vamos começar com o básico e construir sua confiança passo a passo.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "alfabeto_basico",
+      "titulo": "The English Alphabet",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "The English alphabet has 26 letters, just like Portuguese. However, the pronunciation is completely different. Learning the correct pronunciation of each letter is essential for communication, especially when you need to spell names, addresses, or other important information.",
+        "texto_portugues": "O alfabeto inglês tem 26 letras, assim como o português. No entanto, a pronúncia é completamente diferente. Aprender a pronúncia correta de cada letra é essencial para comunicação, especialmente quando você precisa soletrar nomes, endereços ou outras informações importantes.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "vogais",
+      "titulo": "Vowels (A, E, I, O, U)",
+      "tipo": "vocabulario",
+      "descricao": "As cinco vogais do alfabeto inglês",
+      "itens": [
+        {
+          "ingles": "A",
+          "portugues": "A",
+          "fonetica": "/eɪ/",
+          "tem_audio": true,
+          "contexto": "Pronounced like 'ay' in 'say'. Example: Apple /ˈæpəl/"
+        },
+        {
+          "ingles": "E",
+          "portugues": "E",
+          "fonetica": "/iː/",
+          "tem_audio": true,
+          "contexto": "Pronounced like 'ee' in 'see'. Example: Elephant /ˈeləfənt/"
+        },
+        {
+          "ingles": "I",
+          "portugues": "I",
+          "fonetica": "/aɪ/",
+          "tem_audio": true,
+          "contexto": "Pronounced like 'eye'. Example: Ice /aɪs/"
+        },
+        {
+          "ingles": "O",
+          "portugues": "O",
+          "fonetica": "/oʊ/",
+          "tem_audio": true,
+          "contexto": "Pronounced like 'oh'. Example: Orange /ˈɔrɪndʒ/"
+        },
+        {
+          "ingles": "U",
+          "portugues": "U",
+          "fonetica": "/juː/",
+          "tem_audio": true,
+          "contexto": "Pronounced like 'you'. Example: University /ˌjunəˈvɜrsəti/"
+        }
       ]
     },
     {
-      "titulo": "Pronúncia de Cada Letra",
-      "conteudo_ingles": "A /eɪ/, B /biː/, C /siː/, D /diː/, E /iː/, F /ɛf/, G /dʒiː/, H /eɪtʃ/, I /aɪ/, J /dʒeɪ/, K /keɪ/, L /ɛl/, M /ɛm/, N /ɛn/, O /oʊ/, P /piː/, Q /kjuː/, R /ɑr/, S /ɛs/, T /tiː/, U /juː/, V /viː/, W /'dʌbəl juː/, X /ɛks/, Y /waɪ/, Z /ziː/ (US) or /zɛd/ (UK)",
-      "conteudo_portugues": "A /êi/, B /bí/, C /cí/, D /dí/, E /í/, F /éf/, G /djí/, H /êitch/, I /ái/, J /djêi/, K /kêi/, L /él/, M /êm/, N /ên/, O /ôu/, P /pí/, Q /kiú/, R /ár/, S /és/, T /tí/, U /iú/, V /ví/, W /dâbliu/, X /éks/, Y /uái/, Z /zí/ (EUA) ou /zéd/ (Reino Unido)",
-      "explicacao": "Note que algumas letras têm pronúncias muito diferentes do português. A letra 'W' é pronunciada como 'double U' (duplo U), e 'Z' tem duas variações dependendo do país.",
-      "exemplos": [
-        "H - Cuidado! Não é mudo como em português",
-        "J - Soa como 'djêi', não como 'jóta'",
-        "W - 'Double U', não 'dabliu'",
-        "Y - 'Uái', não 'ípsilon'"
+      "id": "consoantes_1",
+      "titulo": "Consonants (B, C, D, F, G)",
+      "tipo": "vocabulario",
+      "descricao": "Primeiras consoantes do alfabeto",
+      "itens": [
+        {
+          "ingles": "B",
+          "portugues": "B",
+          "fonetica": "/biː/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'bee'. Example: Book /bʊk/"
+        },
+        {
+          "ingles": "C",
+          "portugues": "C",
+          "fonetica": "/siː/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'see'. Example: Cat /kæt/, City /ˈsɪti/"
+        },
+        {
+          "ingles": "D",
+          "portugues": "D",
+          "fonetica": "/diː/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'dee'. Example: Dog /dɔg/"
+        },
+        {
+          "ingles": "F",
+          "portugues": "F",
+          "fonetica": "/ɛf/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'eff'. Example: Fish /fɪʃ/"
+        },
+        {
+          "ingles": "G",
+          "portugues": "G",
+          "fonetica": "/dʒiː/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'jee'. Example: Good /ɡʊd/, Giant /ˈdʒaɪənt/"
+        }
       ]
     },
     {
-      "titulo": "Como Soletrar - How do you spell it?",
-      "conteudo_ingles": "When someone asks 'How do you spell it?' or 'Could you spell that?', you need to say each letter clearly.",
-      "conteudo_portugues": "Quando alguém pergunta 'Como você soletra isso?' ou 'Poderia soletrar isso?', você precisa dizer cada letra claramente.",
-      "explicacao": "Soletrar é uma habilidade essencial em inglês. É comum precisar soletrar seu nome, e-mail, endereço ou outras informações importantes durante conversas.",
-      "exemplos": [
-        "Name: SARAH → S-A-R-A-H",
-        "Email: john@gmail.com → J-O-H-N at G-M-A-I-L dot com",
-        "Word: BEAUTIFUL → B-E-A-U-T-I-F-U-L",
-        "City: LONDON → L-O-N-D-O-N"
+      "id": "consoantes_2",
+      "titulo": "More Consonants (H, J, K, L, M)",
+      "tipo": "vocabulario",
+      "descricao": "Mais consoantes importantes",
+      "itens": [
+        {
+          "ingles": "H",
+          "portugues": "H",
+          "fonetica": "/eɪtʃ/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'aitch'. NOT silent like in Portuguese! Example: House /haʊs/"
+        },
+        {
+          "ingles": "J",
+          "portugues": "J",
+          "fonetica": "/dʒeɪ/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'jay', not 'jota'. Example: Jump /dʒʌmp/"
+        },
+        {
+          "ingles": "K",
+          "portugues": "K",
+          "fonetica": "/keɪ/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'kay'. Example: Key /kiː/"
+        },
+        {
+          "ingles": "L",
+          "portugues": "L",
+          "fonetica": "/ɛl/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'ell'. Example: Love /lʌv/"
+        },
+        {
+          "ingles": "M",
+          "portugues": "M",
+          "fonetica": "/ɛm/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'emm'. Example: Money /ˈmʌni/"
+        }
       ]
     },
     {
-      "titulo": "Frases Úteis para Soletrar",
-      "conteudo_ingles": "How do you spell your name? / Could you spell that for me? / Let me spell it out. / Can you repeat the spelling?",
-      "conteudo_portugues": "Como você soletra seu nome? / Poderia soletrar isso para mim? / Deixe-me soletrar. / Pode repetir a soletração?",
-      "explicacao": "Essas frases são muito úteis em situações reais, como preenchimento de formulários, reservas em hotéis, ou qualquer situação onde informações precisas são necessárias.",
-      "exemplos": [
-        "A: 'What's your last name?' B: 'Smith' A: 'How do you spell that?' B: 'S-M-I-T-H'",
-        "A: 'Could you spell your email?' B: 'Sure, it's M-A-R-Y dot J-O-N-E-S at Y-A-H-O-O dot com'",
-        "A: 'I didn't catch that. Could you spell it?' B: 'Of course, P-H-I-L-A-D-E-L-P-H-I-A'",
-        "Phone: 'Could you spell the street name?' You: 'It's M-A-I-N space S-T-R-E-E-T'"
+      "id": "consoantes_3",
+      "titulo": "Consonants (N, P, Q, R, S)",
+      "tipo": "vocabulario",
+      "descricao": "Continuando com as consoantes",
+      "itens": [
+        {
+          "ingles": "N",
+          "portugues": "N",
+          "fonetica": "/ɛn/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'enn'. Example: Name /neɪm/"
+        },
+        {
+          "ingles": "P",
+          "portugues": "P",
+          "fonetica": "/piː/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'pee'. Example: People /ˈpiːpəl/"
+        },
+        {
+          "ingles": "Q",
+          "portugues": "Q",
+          "fonetica": "/kjuː/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'cue'. Almost always followed by 'U'. Example: Question /ˈkwɛstʃən/"
+        },
+        {
+          "ingles": "R",
+          "portugues": "R",
+          "fonetica": "/ɑr/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'arr'. Example: Red /rɛd/"
+        },
+        {
+          "ingles": "S",
+          "portugues": "S",
+          "fonetica": "/ɛs/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'ess'. Example: Sun /sʌn/"
+        }
       ]
     },
     {
-      "titulo": "Vocabulário com Cada Letra",
-      "conteudo_ingles": "Learning words that start with each letter helps you remember the alphabet pronunciation and build vocabulary.",
-      "conteudo_portugues": "Aprender palavras que começam com cada letra ajuda você a lembrar da pronúncia do alfabeto e construir vocabulário.",
-      "explicacao": "Associar cada letra a palavras comuns é uma técnica eficaz para memorizar a pronúncia e expandir seu vocabulário simultaneamente.",
-      "exemplos": [
-        "A - Apple (maçã), Airplane (avião), Amazing (incrível)",
-        "B - Beautiful (bonito), Butterfly (borboleta), Business (negócio)",
-        "C - Computer (computador), Chocolate (chocolate), Camera (câmera)",
-        "D - Delicious (delicioso), Doctor (médico), Different (diferente)",
-        "E - Elephant (elefante), Education (educação), Exciting (emocionante)"
+      "id": "consoantes_4",
+      "titulo": "Final Consonants (T, V, W, X, Y, Z)",
+      "tipo": "vocabulario",
+      "descricao": "As últimas letras do alfabeto",
+      "itens": [
+        {
+          "ingles": "T",
+          "portugues": "T",
+          "fonetica": "/tiː/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'tee'. Example: Time /taɪm/"
+        },
+        {
+          "ingles": "V",
+          "portugues": "V",
+          "fonetica": "/viː/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'vee'. Example: Very /ˈvɛri/"
+        },
+        {
+          "ingles": "W",
+          "portugues": "W",
+          "fonetica": "/ˈdʌbəl juː/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'double-you', NOT 'dabliu'. Example: Water /ˈwɔtər/"
+        },
+        {
+          "ingles": "X",
+          "portugues": "X",
+          "fonetica": "/ɛks/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'ex'. Example: eXample /ɪgˈzæmpəl/"
+        },
+        {
+          "ingles": "Y",
+          "portugues": "Y",
+          "fonetica": "/waɪ/",
+          "tem_audio": true,
+          "contexto": "Pronounced 'why', not 'ípsilon'. Example: Yes /jɛs/"
+        },
+        {
+          "ingles": "Z",
+          "portugues": "Z",
+          "fonetica": "/ziː/ (US) or /zɛd/ (UK)",
+          "tem_audio": true,
+          "contexto": "Pronounced 'zee' in America, 'zed' in Britain. Example: Zero /ˈzɪroʊ/"
+        }
       ]
     },
     {
-      "titulo": "Fonética Básica - Sons das Letras",
-      "conteudo_ingles": "Each letter can make different sounds in different words. This is called phonetics.",
-      "conteudo_portugues": "Cada letra pode fazer sons diferentes em palavras diferentes. Isso é chamado de fonética.",
-      "explicacao": "Diferente do português, onde as letras geralmente têm sons consistentes, em inglês uma mesma letra pode ter vários sons dependendo da palavra. Por isso é importante aprender a fonética.",
-      "exemplos": [
-        "Letter 'A': cat /æ/, cake /eɪ/, car /ɑ/, about /ə/",
-        "Letter 'E': pen /e/, Pete /iː/, the /ə/, silent in 'name'",
-        "Letter 'I': big /ɪ/, bike /aɪ/, bird /ɜr/",
-        "Letter 'O': dog /ɑ/, go /oʊ/, women /ɪ/, love /ʌ/",
-        "Letter 'C': cat /k/, city /s/, chair /tʃ/"
+      "id": "como_soletrar",
+      "titulo": "How to Spell - Como Soletrar",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Spelling is a crucial skill in English. When someone asks 'How do you spell it?' or 'Could you spell that?', you need to say each letter clearly and slowly. This is very common in real-life situations like giving your name, email, or address.",
+        "texto_portugues": "Soletrar é uma habilidade crucial em inglês. Quando alguém pergunta 'Como você soletra isso?' ou 'Poderia soletrar isso?', você precisa dizer cada letra claramente e devagar. Isso é muito comum em situações da vida real, como dar seu nome, e-mail ou endereço.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "frases_soletrar",
+      "titulo": "Spelling Phrases",
+      "tipo": "vocabulario",
+      "descricao": "Frases úteis para soletração",
+      "itens": [
+        {
+          "ingles": "How do you spell your name?",
+          "portugues": "Como você soletra seu nome?",
+          "fonetica": "/haʊ duː juː spɛl jʊr neɪm/",
+          "tem_audio": true,
+          "contexto": "Most common question when someone needs to write your name"
+        },
+        {
+          "ingles": "Could you spell that for me?",
+          "portugues": "Poderia soletrar isso para mim?",
+          "fonetica": "/kʊd juː spɛl ðæt fɔr miː/",
+          "tem_audio": true,
+          "contexto": "Polite way to ask someone to spell something"
+        },
+        {
+          "ingles": "Let me spell it out.",
+          "portugues": "Deixe-me soletrar.",
+          "fonetica": "/lɛt miː spɛl ɪt aʊt/",
+          "tem_audio": true,
+          "contexto": "When you want to spell something for someone"
+        },
+        {
+          "ingles": "Can you repeat the spelling?",
+          "portugues": "Pode repetir a soletração?",
+          "fonetica": "/kæn juː rɪˈpit ðə ˈspɛlɪŋ/",
+          "tem_audio": true,
+          "contexto": "When you didn't catch the spelling the first time"
+        }
       ]
+    },
+    {
+      "id": "exemplos_soletrar",
+      "titulo": "Spelling Examples",
+      "tipo": "vocabulario",
+      "descricao": "Exemplos práticos de soletração",
+      "itens": [
+        {
+          "ingles": "SARAH → S-A-R-A-H",
+          "portugues": "SARAH → S-A-R-A-H",
+          "fonetica": "/ɛs eɪ ɑr eɪ eɪtʃ/",
+          "tem_audio": true,
+          "contexto": "Example of spelling a common name"
+        },
+        {
+          "ingles": "EMAIL → john@gmail.com",
+          "portugues": "EMAIL → john@gmail.com",
+          "fonetica": "/dʒɑn æt dʒiː ɛm eɪ aɪ ɛl dɑt kɑm/",
+          "tem_audio": true,
+          "contexto": "J-O-H-N 'at' G-M-A-I-L 'dot' com"
+        },
+        {
+          "ingles": "BEAUTIFUL → B-E-A-U-T-I-F-U-L",
+          "portugues": "BEAUTIFUL → B-E-A-U-T-I-F-U-L",
+          "fonetica": "/biː iː eɪ juː tiː aɪ ɛf juː ɛl/",
+          "tem_audio": true,
+          "contexto": "Example of spelling a longer word"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_soletrar",
+      "titulo": "Spelling Dialogue",
+      "tipo": "dialogo",
+      "descricao": "Conversa prática sobre soletração",
+      "participantes": ["Receptionist", "Maria"],
+      "conversas": [
+        {
+          "falante": "Receptionist",
+          "ingles": "Good morning! Could I have your name, please?",
+          "portugues": "Bom dia! Poderia me dar seu nome, por favor?",
+          "fonetica": "/ɡʊd ˈmɔrnɪŋ kʊd aɪ hæv jʊr neɪm pliːz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Maria",
+          "ingles": "Yes, my name is Maria Silva.",
+          "portugues": "Sim, meu nome é Maria Silva.",
+          "fonetica": "/jɛs maɪ neɪm ɪz məˈriə ˈsɪlvə/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Receptionist",
+          "ingles": "How do you spell your last name?",
+          "portugues": "Como você soletra seu sobrenome?",
+          "fonetica": "/haʊ duː juː spɛl jʊr læst neɪm/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Maria",
+          "ingles": "It's S-I-L-V-A.",
+          "portugues": "É S-I-L-V-A.",
+          "fonetica": "/ɪts ɛs aɪ ɛl viː eɪ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Receptionist",
+          "ingles": "Perfect! And your email address?",
+          "portugues": "Perfeito! E seu endereço de e-mail?",
+          "fonetica": "/ˈpɜrfɪkt ænd jʊr ˈimeɪl əˈdrɛs/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Maria",
+          "ingles": "It's maria.silva@hotmail.com. That's M-A-R-I-A dot S-I-L-V-A at H-O-T-M-A-I-L dot com.",
+          "portugues": "É maria.silva@hotmail.com. Isso é M-A-R-I-A ponto S-I-L-V-A arroba H-O-T-M-A-I-L ponto com.",
+          "fonetica": "/ɪts məˈriə ˈsɪlvə æt ˈhɑtmeɪl dɑt kɑm/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Practice Time!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now it's your turn to practice! Try saying the alphabet out loud. Practice spelling your name, your city, and your email address. Start slowly and gradually increase your speed. Remember: clear pronunciation is more important than speed!",
+        "texto_portugues": "Agora é sua vez de praticar! Tente dizer o alfabeto em voz alta. Pratique soletrar seu nome, sua cidade e seu endereço de e-mail. Comece devagar e aumente gradualmente sua velocidade. Lembre-se: pronúncia clara é mais importante que velocidade!",
+        "tem_audio": true
+      }
     }
   ]
 }
