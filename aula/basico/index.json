@@ -1,1 +1,36 @@
 
+{
+  "aulas": [
+    { "titulo": "Aula 01 - Alfabeto e Fonética", "arquivo": "aula01.json" },
+    { "titulo": "Aula 02 - Saudações e Apresentações", "arquivo": "aula02.json" },
+    { "titulo": "Aula 03 - Verbo to be", "arquivo": "aula03.json" },
+    { "titulo": "Aula 04 - Verbos regulares", "arquivo": "aula04.json" },
+    { "titulo": "Aula 04 - Verbos irregulares", "arquivo": "aula04b.json" },
+    { "titulo": "Aula 05 - Artigos definidos e indefinidos", "arquivo": "aula05.json" },
+    { "titulo": "Aula 06 - Substantivos (plurais, contáveis e incontáveis)", "arquivo": "aula06.json" },
+    { "titulo": "Aula 07 - Pronomes (pessoais, possessivos)", "arquivo": "aula07.json" },
+    { "titulo": "Aula 08 - Preposições de local", "arquivo": "aula08.json" },
+    { "titulo": "Aula 09 - Preposições de tempo", "arquivo": "aula09.json" },
+    { "titulo": "Aula 10 - Adjetivos e Advérbios (básicos)", "arquivo": "aula10.json" },
+    { "titulo": "Aula 11 - Horas em Inglês", "arquivo": "aula11.json" },
+    { "titulo": "Aula 12 - Números ordinais e cardinais", "arquivo": "aula12.json" },
+    { "titulo": "Aula 13 - A ordem das palavras em frases afirmativas", "arquivo": "aula13.json" },
+    { "titulo": "Aula 14 - Como negar uma frase em inglês", "arquivo": "aula14.json" },
+    { "titulo": "Aula 15 - Como transformar frases em perguntas", "arquivo": "aula15.json" },
+    { "titulo": "Aula 16 - Como responder as perguntas", "arquivo": "aula16.json" },
+    { "titulo": "Aula 17 - Família em Inglês", "arquivo": "aula17.json" },
+    { "titulo": "Aula 18 - \"There is\" e \"There are\"", "arquivo": "aula18.json" },
+    { "titulo": "Aula 19 - Demonstrativos (this, that, these, those)", "arquivo": "aula19.json" },
+    { "titulo": "Aula 20 - Pronomes interrogativos (who, what, where, when)", "arquivo": "aula20.json" },
+    { "titulo": "Aula 21 - Present Continuous", "arquivo": "aula21.json" },
+    { "titulo": "Aula 22 - Verbo to be no passado", "arquivo": "aula22.json" },
+    { "titulo": "Aula 23 - Verbos no passado (regulares e irregulares)", "arquivo": "aula23.json" },
+    { "titulo": "Aula 24 - Negação e perguntas no passado", "arquivo": "aula24.json" },
+    { "titulo": "Aula 25 - Verbos modais (can, could, may, might)", "arquivo": "aula25.json" },
+    { "titulo": "Aula 26 - \"Must,\" \"want,\" \"have need\"", "arquivo": "aula26.json" },
+    { "titulo": "Aula 27 - \"Very,\" \"much,\" \"a lot of,\" \"lots\"", "arquivo": "aula27.json" },
+    { "titulo": "Aula 28 - \"Something,\" \"anything\" e \"nothing\"", "arquivo": "aula28.json" },
+    { "titulo": "Aula 29 - \"Some,\" \"any\" e \"none\"", "arquivo": "aula29.json" },
+    { "titulo": "Aula 30 - Revisão Geral", "arquivo": "aula30.json" }
+  ]
+}
