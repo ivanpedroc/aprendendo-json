@@ -1,1 +1,35 @@
 
+{
+  "aulas": [
+    { "titulo": "Aula 31 - Análise de Texto (nível básico-intermediário)", "arquivo": "aula31.json" },
+    { "titulo": "Aula 32 - Particípio passado (regular e irregular)", "arquivo": "aula32.json" },
+    { "titulo": "Aula 33 - Adjetivos comparativos e superlativos", "arquivo": "aula33.json" },
+    { "titulo": "Aula 34 - Como transformar adjetivo em advérbio", "arquivo": "aula34.json" },
+    { "titulo": "Aula 35 - Present Perfect", "arquivo": "aula35.json" },
+    { "titulo": "Aula 36 - Past Continuous", "arquivo": "aula36.json" },
+    { "titulo": "Aula 37 - Future Continuous", "arquivo": "aula37.json" },
+    { "titulo": "Aula 38 - Passive Voice", "arquivo": "aula38.json" },
+    { "titulo": "Aula 39 - Used to", "arquivo": "aula39.json" },
+    { "titulo": "Aula 40 - First Conditional", "arquivo": "aula40.json" },
+    { "titulo": "Aula 41 - Second Conditional", "arquivo": "aula41.json" },
+    { "titulo": "Aula 42 - Third Conditional", "arquivo": "aula42.json" },
+    { "titulo": "Aula 43 - Conjunções (\"linking words\")", "arquivo": "aula43.json" },
+    { "titulo": "Aula 44 - Tag questions", "arquivo": "aula44.json" },
+    { "titulo": "Aula 45 - Contractions", "arquivo": "aula45.json" },
+    { "titulo": "Aula 46 - To vs for", "arquivo": "aula46.json" },
+    { "titulo": "Aula 47 - Everybody, everywhere, etc.", "arquivo": "aula47.json" },
+    { "titulo": "Aula 48 - A diferença entre \"still\" e \"yet\"", "arquivo": "aula48.json" },
+    { "titulo": "Aula 49 - Just vs still", "arquivo": "aula49.json" },
+    { "titulo": "Aula 50 - Análise de Texto (nível intermediário)", "arquivo": "aula50.json" },
+    { "titulo": "Aula 51 - Passive Causative", "arquivo": "aula51.json" },
+    { "titulo": "Aula 52 - Active Causative", "arquivo": "aula52.json" },
+    { "titulo": "Aula 53 - Expressões Idiomáticas Comuns", "arquivo": "aula53.json" },
+    { "titulo": "Aula 54 - Imperative", "arquivo": "aula54.json" },
+    { "titulo": "Aula 55 - A diferença entre \"to get\" e \"to take\"", "arquivo": "aula55.json" },
+    { "titulo": "Aula 56 - Gerunds e Infinitives", "arquivo": "aula56.json" },
+    { "titulo": "Aula 57 - Reported Speech (Parte 1)", "arquivo": "aula57.json" },
+    { "titulo": "Aula 58 - Reported Speech (Parte 2)", "arquivo": "aula58.json" },
+    { "titulo": "Aula 59 - Future Perfect", "arquivo": "aula59.json" },
+    { "titulo": "Aula 60 - Revisão Geral", "arquivo": "aula60.json" }
+  ]
+}
