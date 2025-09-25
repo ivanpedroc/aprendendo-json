@@ -1,1 +1,25 @@
 
+{
+  "aulas": [
+    { "titulo": "Aula 61 - Análise de Texto (nível avançado)", "arquivo": "aula61.json" },
+    { "titulo": "Aula 62 - Phrasal Verbs (Parte 1)", "arquivo": "aula62.json" },
+    { "titulo": "Aula 63 - Phrasal Verbs (Parte 2)", "arquivo": "aula63.json" },
+    { "titulo": "Aula 64 - Relative Clauses", "arquivo": "aula64.json" },
+    { "titulo": "Aula 65 - Modal Auxiliares + verbos no infinitivo", "arquivo": "aula65.json" },
+    { "titulo": "Aula 66 - Compound Nouns", "arquivo": "aula66.json" },
+    { "titulo": "Aula 67 - Ordem dos Adjetivos", "arquivo": "aula67.json" },
+    { "titulo": "Aula 68 - Stative Verbs nas formas contínuas", "arquivo": "aula68.json" },
+    { "titulo": "Aula 69 - Both, either, neither", "arquivo": "aula69.json" },
+    { "titulo": "Aula 70 - Whatever, whenever, wherever, etc.", "arquivo": "aula70.json" },
+    { "titulo": "Aula 71 - Questions and Answers (revisão complexa)", "arquivo": "aula71.json" },
+    { "titulo": "Aula 72 - Using the verb to wish", "arquivo": "aula72.json" },
+    { "titulo": "Aula 73 - Revisão de todos os tempos verbais", "arquivo": "aula73.json" },
+    { "titulo": "Aula 74 - Análise de Texto (nível avançado)", "arquivo": "aula74.json" },
+    { "titulo": "Aula 75 - Expressões e Gírias", "arquivo": "aula75.json" },
+    { "titulo": "Aula 76 - Prática de Escrita (email, carta, etc.)", "arquivo": "aula76.json" },
+    { "titulo": "Aula 77 - Prática de Conversação e Pronúncia", "arquivo": "aula77.json" },
+    { "titulo": "Aula 78 - Linking Words avançadas", "arquivo": "aula78.json" },
+    { "titulo": "Aula 79 - Análise de Texto (artigos e notícias)", "arquivo": "aula79.json" },
+    { "titulo": "Aula 80 - Revisão final e Preparação para exames de proficiência", "arquivo": "aula80.json" }
+  ]
+}
