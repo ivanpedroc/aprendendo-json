@@ -1,0 +1,407 @@
+{
+  "titulo": "Artigos Definidos e Indefinidos",
+  "descricao": "Domine o uso dos artigos em inglês! Aprenda quando usar A, AN e THE de forma natural e correta.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "Articles - Essential Building Blocks",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Articles are small but very important words in English! We use them before nouns to show if we're talking about something specific or general. English has two types of articles: indefinite articles (A and AN) and the definite article (THE). Learning to use them correctly will make your English sound much more natural.",
+        "texto_portugues": "Os artigos são palavras pequenas, mas muito importantes em inglês! Nós os usamos antes de substantivos para mostrar se estamos falando sobre algo específico ou geral. O inglês tem dois tipos de artigos: artigos indefinidos (A e AN) e o artigo definido (THE). Aprender a usá-los corretamente fará seu inglês soar muito mais natural.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "diferenca_portugues",
+      "titulo": "English vs Portuguese Articles",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "English articles are different from Portuguese! In Portuguese, you have: um/uma (masculine/feminine), uns/umas (plural), o/a (masculine/feminine), os/as (plural). In English, it's much simpler: A/AN (for any singular noun), and THE (for any noun, singular or plural). English articles don't change for gender!",
+        "texto_portugues": "Os artigos ingleses são diferentes do português! Em português, você tem: um/uma (masculino/feminino), uns/umas (plural), o/a (masculino/feminino), os/as (plural). Em inglês, é muito mais simples: A/AN (para qualquer substantivo singular), e THE (para qualquer substantivo, singular ou plural). Os artigos ingleses não mudam por gênero!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "artigo_a",
+      "titulo": "Indefinite Article 'A' - Before Consonant Sounds",
+      "tipo": "vocabulario",
+      "descricao": "O artigo A usado antes de sons de consoantes",
+      "itens": [
+        {
+          "ingles": "A book",
+          "portugues": "Um livro",
+          "fonetica": "/ə bʊk/",
+          "tem_audio": true,
+          "contexto": "A + consonant sound /b/ - any book, not a specific one"
+        },
+        {
+          "ingles": "A car",
+          "portugues": "Um carro",
+          "fonetica": "/ə kɑr/",
+          "tem_audio": true,
+          "contexto": "A + consonant sound /k/ - any car in general"
+        },
+        {
+          "ingles": "A house",
+          "portugues": "Uma casa",
+          "fonetica": "/ə haʊs/",
+          "tem_audio": true,
+          "contexto": "A + consonant sound /h/ - notice: no gender in English!"
+        },
+        {
+          "ingles": "A dog",
+          "portugues": "Um cachorro",
+          "fonetica": "/ə dɔg/",
+          "tem_audio": true,
+          "contexto": "A + consonant sound /d/ - any dog, not a specific dog"
+        },
+        {
+          "ingles": "A teacher",
+          "portugues": "Um professor/Uma professora",
+          "fonetica": "/ə ˈtitʃər/",
+          "tem_audio": true,
+          "contexto": "A + consonant sound /t/ - works for any gender"
+        },
+        {
+          "ingles": "A university",
+          "portugues": "Uma universidade",
+          "fonetica": "/ə ˌjunəˈvɜrsəti/",
+          "tem_audio": true,
+          "contexto": "A + consonant sound /j/ - even though it starts with 'u', it sounds like /ju/"
+        }
+      ]
+    },
+    {
+      "id": "artigo_an",
+      "titulo": "Indefinite Article 'AN' - Before Vowel Sounds",
+      "tipo": "vocabulario",
+      "descricao": "O artigo AN usado antes de sons de vogais",
+      "itens": [
+        {
+          "ingles": "An apple",
+          "portugues": "Uma maçã",
+          "fonetica": "/æn ˈæpəl/",
+          "tem_audio": true,
+          "contexto": "AN + vowel sound /æ/ - easier to pronounce than 'a apple'"
+        },
+        {
+          "ingles": "An elephant",
+          "portugues": "Um elefante",
+          "fonetica": "/æn ˈɛləfənt/",
+          "tem_audio": true,
+          "contexto": "AN + vowel sound /ɛ/ - flows better in speech"
+        },
+        {
+          "ingles": "An orange",
+          "portugues": "Uma laranja",
+          "fonetica": "/æn ˈɔrɪndʒ/",
+          "tem_audio": true,
+          "contexto": "AN + vowel sound /ɔ/ - smooth pronunciation"
+        },
+        {
+          "ingles": "An ice cream",
+          "portugues": "Um sorvete",
+          "fonetica": "/æn ˈaɪs krim/",
+          "tem_audio": true,
+          "contexto": "AN + vowel sound /aɪ/ - compound noun but starts with vowel"
+        },
+        {
+          "ingles": "An umbrella",
+          "portugues": "Um guarda-chuva",
+          "fonetica": "/æn ʌmˈbrɛlə/",
+          "tem_audio": true,
+          "contexto": "AN + vowel sound /ʌ/ - starts with vowel sound"
+        },
+        {
+          "ingles": "An honest person",
+          "portugues": "Uma pessoa honesta",
+          "fonetica": "/æn ˈɑnəst ˈpɜrsən/",
+          "tem_audio": true,
+          "contexto": "AN + vowel sound /ɑ/ - 'h' is silent, so it starts with vowel sound!"
+        }
+      ]
+    },
+    {
+      "id": "regra_som_nao_letra",
+      "titulo": "Important Rule: Sound, Not Letter!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "The choice between A and AN depends on the SOUND, not the letter! If the word starts with a vowel SOUND, use AN. If it starts with a consonant SOUND, use A. This is why we say 'a university' (sounds like /ju/) and 'an honest person' (h is silent, sounds like /ɑ/).",
+        "texto_portugues": "A escolha entre A e AN depende do SOM, não da letra! Se a palavra começa com um SOM de vogal, use AN. Se começa com um SOM de consoante, use A. É por isso que dizemos 'a university' (soa como /ju/) e 'an honest person' (h é mudo, soa como /ɑ/).",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "casos_especiais",
+      "titulo": "Special Cases - Tricky Words",
+      "tipo": "vocabulario",
+      "descricao": "Palavras que podem confundir na escolha entre A e AN",
+      "itens": [
+        {
+          "ingles": "A European",
+          "portugues": "Um europeu",
+          "fonetica": "/ə ˌjʊrəˈpiən/",
+          "tem_audio": true,
+          "contexto": "Starts with 'E' but sounds like /j/ (consonant), so use A"
+        },
+        {
+          "ingles": "A one-way street",
+          "portugues": "Uma rua de mão única",
+          "fonetica": "/ə ˈwʌnweɪ strit/",
+          "tem_audio": true,
+          "contexto": "Starts with 'O' but sounds like /w/ (consonant), so use A"
+        },
+        {
+          "ingles": "An hour",
+          "portugues": "Uma hora",
+          "fonetica": "/æn ˈaʊər/",
+          "tem_audio": true,
+          "contexto": "Starts with 'H' but H is silent, sounds like /aʊ/ (vowel), so use AN"
+        },
+        {
+          "ingles": "A uniform",
+          "portugues": "Um uniforme",
+          "fonetica": "/ə ˈjunəˌfɔrm/",
+          "tem_audio": true,
+          "contexto": "Starts with 'U' but sounds like /ju/ (consonant), so use A"
+        },
+        {
+          "ingles": "An uncle",
+          "portugues": "Um tio",
+          "fonetica": "/æn ˈʌŋkəl/",
+          "tem_audio": true,
+          "contexto": "Starts with 'U' and sounds like /ʌ/ (vowel), so use AN"
+        }
+      ]
+    },
+    {
+      "id": "artigo_the_introducao",
+      "titulo": "The Definite Article 'THE'",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "THE is the definite article. We use it when we're talking about something specific that both the speaker and listener know about. THE can be used with singular nouns, plural nouns, and uncountable nouns. Unlike A/AN, THE doesn't change based on the sound that follows it.",
+        "texto_portugues": "THE é o artigo definido. Nós o usamos quando estamos falando sobre algo específico que tanto o falante quanto o ouvinte conhecem. THE pode ser usado com substantivos singulares, plurais e incontáveis. Diferente de A/AN, THE não muda baseado no som que o segue.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "artigo_the_usos",
+      "titulo": "When to Use 'THE' - Specific Things",
+      "tipo": "vocabulario",
+      "descricao": "Quando usar THE para coisas específicas",
+      "itens": [
+        {
+          "ingles": "The book on the table",
+          "portugues": "O livro na mesa",
+          "fonetica": "/ðə bʊk ɑn ðə ˈteɪbəl/",
+          "tem_audio": true,
+          "contexto": "THE + specific book - we both know which book and which table"
+        },
+        {
+          "ingles": "The car I bought yesterday",
+          "portugues": "O carro que eu comprei ontem",
+          "fonetica": "/ðə kɑr aɪ bɔt ˈjɛstərdeɪ/",
+          "tem_audio": true,
+          "contexto": "THE + specific car - defined by the clause 'I bought yesterday'"
+        },
+        {
+          "ingles": "The students in my class",
+          "portugues": "Os estudantes da minha turma",
+          "fonetica": "/ðə ˈstudənts ɪn maɪ klæs/",
+          "tem_audio": true,
+          "contexto": "THE + specific group - defined by 'in my class'"
+        },
+        {
+          "ingles": "The president of Brazil",
+          "portugues": "O presidente do Brasil",
+          "fonetica": "/ðə ˈprɛzəˌdɛnt ʌv brəˈzɪl/",
+          "tem_audio": true,
+          "contexto": "THE + unique position - there's only one president of Brazil"
+        },
+        {
+          "ingles": "The sun is bright today",
+          "portugues": "O sol está brilhante hoje",
+          "fonetica": "/ðə sʌn ɪz braɪt təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "THE + unique object - there's only one sun"
+        }
+      ]
+    },
+    {
+      "id": "the_segunda_mencao",
+      "titulo": "THE - Second Mention Rule",
+      "tipo": "vocabulario",
+      "descricao": "Usando THE quando mencionamos algo pela segunda vez",
+      "itens": [
+        {
+          "ingles": "I saw a movie yesterday. The movie was amazing!",
+          "portugues": "Eu vi um filme ontem. O filme foi incrível!",
+          "fonetica": "/aɪ sɔ ə ˈmuvi ˈjɛstərdeɪ ðə ˈmuvi wʌz əˈmeɪzɪŋ/",
+          "tem_audio": true,
+          "contexto": "First mention: A movie (any movie). Second mention: THE movie (specific movie I mentioned)"
+        },
+        {
+          "ingles": "There's a dog in the park. The dog is very friendly.",
+          "portugues": "Há um cachorro no parque. O cachorro é muito amigável.",
+          "fonetica": "/ðɛrz ə dɔg ɪn ðə pɑrk ðə dɔg ɪz ˈvɛri ˈfrɛndli/",
+          "tem_audio": true,
+          "contexto": "First mention: A dog (introducing). Second mention: THE dog (same specific dog)"
+        },
+        {
+          "ingles": "I bought a house. The house has three bedrooms.",
+          "portugues": "Eu comprei uma casa. A casa tem três quartos.",
+          "fonetica": "/aɪ bɔt ə haʊs ðə haʊs hæz θri ˈbɛdˌrumz/",
+          "tem_audio": true,
+          "contexto": "Pattern: A house (new info) → THE house (referring back)"
+        }
+      ]
+    },
+    {
+      "id": "sem_artigo",
+      "titulo": "When NOT to Use Articles - Zero Article",
+      "tipo": "vocabulario",
+      "descricao": "Quando não usar artigos em inglês",
+      "itens": [
+        {
+          "ingles": "I like music.",
+          "portugues": "Eu gosto de música.",
+          "fonetica": "/aɪ laɪk ˈmjuzɪk/",
+          "tem_audio": true,
+          "contexto": "No article with general concepts or abstract nouns"
+        },
+        {
+          "ingles": "Dogs are loyal animals.",
+          "portugues": "Cachorros são animais leais.",
+          "fonetica": "/dɔgz ɑr ˈlɔɪəl ˈænəməlz/",
+          "tem_audio": true,
+          "contexto": "No article when talking about things in general (all dogs)"
+        },
+        {
+          "ingles": "I study English at school.",
+          "portugues": "Eu estudo inglês na escola.",
+          "fonetica": "/aɪ ˈstʌdi ˈɪŋglɪʃ æt skul/",
+          "tem_audio": true,
+          "contexto": "No article with languages and 'at school/work/home'"
+        },
+        {
+          "ingles": "My brother is at work.",
+          "portugues": "Meu irmão está no trabalho.",
+          "fonetica": "/maɪ ˈbrʌðər ɪz æt wɜrk/",
+          "tem_audio": true,
+          "contexto": "No article with 'at work/school/home/church' (activities)"
+        },
+        {
+          "ingles": "She goes to bed at 10 PM.",
+          "portugues": "Ela vai dormir às 22h.",
+          "fonetica": "/ʃi goʊz tu bɛd æt tɛn ˌpiˈɛm/",
+          "tem_audio": true,
+          "contexto": "No article with 'go to bed/work/school' (routine activities)"
+        }
+      ]
+    },
+    {
+      "id": "comparacao_completa",
+      "titulo": "Complete Comparison: A vs AN vs THE vs No Article",
+      "tipo": "vocabulario",
+      "descricao": "Comparação completa entre todos os usos",
+      "itens": [
+        {
+          "ingles": "A book / An apple / The book I read / Books are useful",
+          "portugues": "Um livro / Uma maçã / O livro que eu li / Livros são úteis",
+          "fonetica": "/ə bʊk / æn ˈæpəl / ðə bʊk aɪ rɛd / bʊks ɑr ˈjusfəl/",
+          "tem_audio": true,
+          "contexto": "A (consonant sound) / AN (vowel sound) / THE (specific) / No article (general plural)"
+        },
+        {
+          "ingles": "A car / An hour / The car outside / Cars need gas",
+          "portugues": "Um carro / Uma hora / O carro lá fora / Carros precisam de gasolina",
+          "fonetica": "/ə kɑr / æn ˈaʊər / ðə kɑr ˈaʊtˌsaɪd / kɑrz nid gæs/",
+          "tem_audio": true,
+          "contexto": "Different uses: indefinite, specific, and general statements"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue - Using Articles",
+      "tipo": "dialogo",
+      "descricao": "Conversa real mostrando o uso natural dos artigos",
+      "participantes": ["Maria", "John"],
+      "conversas": [
+        {
+          "falante": "Maria",
+          "ingles": "Hi John! I need to buy a new phone. Can you recommend a good store?",
+          "portugues": "Oi John! Eu preciso comprar um celular novo. Você pode recomendar uma boa loja?",
+          "fonetica": "/haɪ dʒɑn aɪ nid tu baɪ ə nu foʊn kæn ju ˌrɛkəˈmɛnd ə gʊd stɔr/",
+          "tem_audio": true
+        },
+        {
+          "falante": "John",
+          "ingles": "Sure! There's an electronics store on Main Street. The store has great prices and the staff is very helpful.",
+          "portugues": "Claro! Há uma loja de eletrônicos na Rua Principal. A loja tem ótimos preços e a equipe é muito prestativa.",
+          "fonetica": "/ʃʊr ðɛrz æn ɪˌlɛkˈtrɑnɪks stɔr ɑn meɪn strit ðə stɔr hæz greɪt ˈpraɪsəz ænd ðə stæf ɪz ˈvɛri ˈhɛlpfəl/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Maria",
+          "ingles": "That sounds perfect! Is it near the university? I study there, so it would be convenient.",
+          "portugues": "Isso parece perfeito! É perto da universidade? Eu estudo lá, então seria conveniente.",
+          "fonetica": "/ðæt saʊndz ˈpɜrfɪkt ɪz ɪt nɪr ðə ˌjunəˈvɜrsəti aɪ ˈstʌdi ðɛr soʊ ɪt wʊd bi kənˈvinjənt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "John",
+          "ingles": "Yes! It's only an hour's walk from the university. Or you can take a bus - the number 45 goes right there.",
+          "portugues": "Sim! É apenas uma hora de caminhada da universidade. Ou você pode pegar um ônibus - o número 45 vai direto lá.",
+          "fonetica": "/jɛs ɪts ˈoʊnli æn ˈaʊərz wɔk frʌm ðə ˌjunəˈvɜrsəti ɔr ju kæn teɪk ə bʌs ðə ˈnʌmbər ˈfɔrtiˈfaɪv goʊz raɪt ðɛr/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Maria",
+          "ingles": "Great! I'll go there tomorrow after class. Do you think they have the latest iPhone models?",
+          "portugues": "Ótimo! Eu vou lá amanhã depois da aula. Você acha que eles têm os modelos mais recentes do iPhone?",
+          "fonetica": "/greɪt aɪl goʊ ðɛr təˈmɑroʊ ˈæftər klæs du ju θɪŋk ðeɪ hæv ðə ˈleɪtəst ˈaɪfoʊn ˈmɑdəlz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "John",
+          "ingles": "Absolutely! They always have the newest technology. You'll find exactly what you need there.",
+          "portugues": "Absolutamente! Eles sempre têm a tecnologia mais nova. Você vai encontrar exatamente o que precisa lá.",
+          "fonetica": "/ˈæbsəˌlutli ðeɪ ˈɔlweɪz hæv ðə ˈnuəst tɛkˈnɑləˌdʒi jul faɪnd ɪgˈzæktli wʌt ju nid ðɛr/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Articles in Context",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Yesterday, I went to a bookstore in the city center. The bookstore was huge, with thousands of books on every topic. I was looking for a specific book about English grammar. An employee helped me find it - she was very knowledgeable about the books in the store. The book I wanted was on the second floor, in the education section. I also bought a notebook and a pen. The prices were reasonable, and the quality was excellent. I spent an hour browsing through different sections. Books have always been important to me, and this bookstore quickly became my favorite place in the city.",
+        "texto_portugues": "Ontem, eu fui a uma livraria no centro da cidade. A livraria era enorme, com milhares de livros sobre todos os tópicos. Eu estava procurando um livro específico sobre gramática inglesa. Uma funcionária me ajudou a encontrá-lo - ela era muito conhecedora dos livros da loja. O livro que eu queria estava no segundo andar, na seção de educação. Eu também comprei um caderno e uma caneta. Os preços eram razoáveis, e a qualidade era excelente. Eu passei uma hora navegando por diferentes seções. Livros sempre foram importantes para mim, e esta livraria rapidamente se tornou meu lugar favorito na cidade.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_importantes",
+      "titulo": "Important Tips for Using Articles",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Remember these key tips: 1) Use A/AN for first mention or general items (a book, an apple). 2) Use THE for specific items or second mention (the book you recommended). 3) Choose A/AN based on SOUND, not spelling (a university, an hour). 4) Don't use articles with general plurals (dogs are loyal) or abstract concepts (I like music). 5) When in doubt, listen to native speakers and notice their patterns!",
+        "texto_portugues": "Lembre-se dessas dicas importantes: 1) Use A/AN para primeira menção ou itens gerais (a book, an apple). 2) Use THE para itens específicos ou segunda menção (the book you recommended). 3) Escolha A/AN baseado no SOM, não na ortografia (a university, an hour). 4) Não use artigos com plurais gerais (dogs are loyal) ou conceitos abstratos (I like music). 5) Quando em dúvida, escute falantes nativos e observe seus padrões!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice! Write sentences using: 1) A + consonant sound words, 2) AN + vowel sound words, 3) THE + specific things, 4) No article + general concepts. Try describing your daily routine, a shopping trip, or your favorite places using all types of articles. Remember: articles make your English flow naturally, so practice until using them feels automatic!",
+        "texto_portugues": "Agora pratique! Escreva frases usando: 1) A + palavras com som de consoante, 2) AN + palavras com som de vogal, 3) THE + coisas específicas, 4) Nenhum artigo + conceitos gerais. Tente descrever sua rotina diária, uma viagem de compras, ou seus lugares favoritos usando todos os tipos de artigos. Lembre-se: artigos fazem seu inglês fluir naturalmente, então pratique até que usá-los pareça automático!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
