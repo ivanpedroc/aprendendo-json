@@ -1,0 +1,463 @@
+{
+  "titulo": "Números Ordinais",
+  "descricao": "Aprenda os números ordinais em inglês! Domine como falar sobre ordem, posições, datas, andares e muito mais com precisão.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What are Ordinal Numbers?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Ordinal numbers show the order or position of things: first, second, third, fourth, etc. While cardinal numbers tell us 'how many', ordinal numbers tell us 'which one in order'. We use ordinal numbers for dates, floors in buildings, positions in competitions, and many other situations. In English, most ordinal numbers end in -th, but the first few have special forms that you need to memorize!",
+        "texto_portugues": "Números ordinais mostram a ordem ou posição das coisas: first, second, third, fourth, etc. Enquanto números cardinais nos dizem 'quantos', números ordinais nos dizem 'qual na ordem'. Usamos números ordinais para datas, andares de prédios, posições em competições e muitas outras situações. Em inglês, a maioria dos números ordinais termina em -th, mas os primeiros têm formas especiais que você precisa memorizar!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "ordinais_1_10",
+      "titulo": "First Through Tenth - The Foundation",
+      "tipo": "vocabulario",
+      "descricao": "Os primeiros dez números ordinais - formas especiais importantes",
+      "itens": [
+        {
+          "ingles": "I live on the first floor.",
+          "portugues": "Eu moro no primeiro andar.",
+          "fonetica": "/aɪ lɪv ɑn ðə fɜrst flɔr/",
+          "tem_audio": true,
+          "contexto": "FIRST (1st) - forma completamente diferente de 'one'"
+        },
+        {
+          "ingles": "She finished in second place.",
+          "portugues": "Ela terminou em segundo lugar.",
+          "fonetica": "/ʃi ˈfɪnɪʃt ɪn ˈsɛkənd pleɪs/",
+          "tem_audio": true,
+          "contexto": "SECOND (2nd) - forma especial, não 'twoth'"
+        },
+        {
+          "ingles": "This is my third attempt.",
+          "portugues": "Esta é minha terceira tentativa.",
+          "fonetica": "/ðɪs ɪz maɪ θɜrd əˈtɛmpt/",
+          "tem_audio": true,
+          "contexto": "THIRD (3rd) - forma especial, não 'threeth'"
+        },
+        {
+          "ingles": "The fourth grade is fun.",
+          "portugues": "A quarta série é divertida.",
+          "fonetica": "/ðə fɔrθ greɪd ɪz fʌn/",
+          "tem_audio": true,
+          "contexto": "FOURTH (4th) - primeira com padrão -th"
+        },
+        {
+          "ingles": "My fifth birthday party.",
+          "portugues": "Minha festa de quinto aniversário.",
+          "fonetica": "/maɪ fɪfθ ˈbɜrθdeɪ ˈpɑrti/",
+          "tem_audio": true,
+          "contexto": "FIFTH (5th) - 'five' muda para 'fif + th'"
+        },
+        {
+          "ingles": "The sixth book in the series.",
+          "portugues": "O sexto livro da série.",
+          "fonetica": "/ðə sɪksθ bʊk ɪn ðə ˈsɪriz/",
+          "tem_audio": true,
+          "contexto": "SIXTH (6th) - adiciona -th ao 'six'"
+        }
+      ]
+    },
+    {
+      "id": "ordinais_11_20",
+      "titulo": "Eleventh Through Twentieth",
+      "tipo": "vocabulario",
+      "descricao": "Números ordinais de 11 a 20 - padrão -th com algumas exceções",
+      "itens": [
+        {
+          "ingles": "The eleventh hour decision.",
+          "portugues": "A decisão de última hora.",
+          "fonetica": "/ði ɪˈlɛvənθ aʊər dɪˈsɪʒən/",
+          "tem_audio": true,
+          "contexto": "ELEVENTH (11th) - 'eleven' + th"
+        },
+        {
+          "ingles": "My twelfth birthday is next month.",
+          "portugues": "Meu décimo segundo aniversário é no próximo mês.",
+          "fonetica": "/maɪ twɛlfθ ˈbɜrθdeɪ ɪz nɛkst mʌnθ/",
+          "tem_audio": true,
+          "contexto": "TWELFTH (12th) - 'twelve' muda para 'twelf + th'"
+        },
+        {
+          "ingles": "Friday the thirteenth is unlucky.",
+          "portugues": "Sexta-feira treze dá azar.",
+          "fonetica": "/ˈfraɪdeɪ ðə ˌθɜrˈtinθ ɪz ʌnˈlʌki/",
+          "tem_audio": true,
+          "contexto": "THIRTEENTH (13th) - 'thirteen' + th"
+        },
+        {
+          "ingles": "The fourteenth amendment.",
+          "portugues": "A décima quarta emenda.",
+          "fonetica": "/ðə ˌfɔrˈtinθ əˈmɛndmənt/",
+          "tem_audio": true,
+          "contexto": "FOURTEENTH (14th) - padrão teen + th"
+        },
+        {
+          "ingles": "Her fifteenth wedding anniversary.",
+          "portugues": "Seu décimo quinto aniversário de casamento.",
+          "fonetica": "/hər ˌfɪfˈtinθ ˈwɛdɪŋ ˌænəˈvɜrsəri/",
+          "tem_audio": true,
+          "contexto": "FIFTEENTH (15th) - 'fifteen' + th"
+        },
+        {
+          "ingles": "The twentieth century.",
+          "portugues": "O século vinte.",
+          "fonetica": "/ðə ˈtwɛntiəθ ˈsɛntʃəri/",
+          "tem_audio": true,
+          "contexto": "TWENTIETH (20th) - 'twenty' muda para 'twentie + th'"
+        }
+      ]
+    },
+    {
+      "id": "ordinais_dezenas",
+      "titulo": "Ordinal Tens: 30th, 40th, 50th...",
+      "tipo": "vocabulario",
+      "descricao": "Dezenas ordinais - mudança de -y para -ieth",
+      "itens": [
+        {
+          "ingles": "My thirtieth birthday celebration.",
+          "portugues": "Minha celebração de trigésimo aniversário.",
+          "fonetica": "/maɪ ˈθɜrtiəθ ˈbɜrθdeɪ ˌsɛləˈbreɪʃən/",
+          "tem_audio": true,
+          "contexto": "THIRTIETH (30th) - 'thirty' muda para 'thirtie + th'"
+        },
+        {
+          "ingles": "The fortieth president of the USA.",
+          "portugues": "O quadragésimo presidente dos EUA.",
+          "fonetica": "/ðə ˈfɔrtiəθ ˈprɛzəˌdɛnt ʌv ðə ˌjuˌɛsˈeɪ/",
+          "tem_audio": true,
+          "contexto": "FORTIETH (40th) - padrão: -y vira -ieth"
+        },
+        {
+          "ingles": "Her fiftieth work anniversary.",
+          "portugues": "Seu quinquagésimo aniversário de trabalho.",
+          "fonetica": "/hər ˈfɪftiəθ wɜrk ˌænəˈvɜrsəri/",
+          "tem_audio": true,
+          "contexto": "FIFTIETH (50th) - meio século de trabalho"
+        },
+        {
+          "ingles": "The sixtieth wedding anniversary.",
+          "portugues": "O sexagésimo aniversário de casamento.",
+          "fonetica": "/ðə ˈsɪkstiəθ ˈwɛdɪŋ ˌænəˈvɜrsəri/",
+          "tem_audio": true,
+          "contexto": "SIXTIETH (60th) - bodas de diamante"
+        },
+        {
+          "ingles": "My grandmother's eightieth birthday.",
+          "portugues": "O octogésimo aniversário da minha avó.",
+          "fonetica": "/maɪ ˈgrændˌmʌðərz ˈeɪtiəθ ˈbɜrθdeɪ/",
+          "tem_audio": true,
+          "contexto": "EIGHTIETH (80th) - idade avançada importante"
+        },
+        {
+          "ingles": "The ninetieth day of the year.",
+          "portugues": "O nonagésimo dia do ano.",
+          "fonetica": "/ðə ˈnaɪntiəθ deɪ ʌv ðə jɪr/",
+          "tem_audio": true,
+          "contexto": "NINETIETH (90th) - final do primeiro trimestre"
+        }
+      ]
+    },
+    {
+      "id": "ordinais_compostos",
+      "titulo": "Compound Ordinals: 21st, 22nd, 23rd...",
+      "tipo": "vocabulario",
+      "descricao": "Números ordinais compostos - só a última parte muda",
+      "itens": [
+        {
+          "ingles": "The twenty-first century.",
+          "portugues": "O século vinte e um.",
+          "fonetica": "/ðə ˈtwɛnti fɜrst ˈsɛntʃəri/",
+          "tem_audio": true,
+          "contexto": "TWENTY-FIRST (21st) - só 'first' é ordinal"
+        },
+        {
+          "ingles": "My twenty-second birthday party.",
+          "portugues": "Minha festa de vigésimo segundo aniversário.",
+          "fonetica": "/maɪ ˈtwɛnti ˈsɛkənd ˈbɜrθdeɪ ˈpɑrti/",
+          "tem_audio": true,
+          "contexto": "TWENTY-SECOND (22nd) - padrão para compostos"
+        },
+        {
+          "ingles": "The thirty-third floor of the building.",
+          "portugues": "O trigésimo terceiro andar do prédio.",
+          "fonetica": "/ðə ˈθɜrti θɜrd flɔr ʌv ðə ˈbɪldɪŋ/",
+          "tem_audio": true,
+          "contexto": "THIRTY-THIRD (33rd) - prédio muito alto"
+        },
+        {
+          "ingles": "Her forty-fifth wedding anniversary.",
+          "portugues": "Seu quadragésimo quinto aniversário de casamento.",
+          "fonetica": "/hər ˈfɔrti fɪfθ ˈwɛdɪŋ ˌænəˈvɜrsəri/",
+          "tem_audio": true,
+          "contexto": "FORTY-FIFTH (45th) - longo casamento"
+        },
+        {
+          "ingles": "The fifty-ninth minute of the game.",
+          "portugues": "O quinquagésimo nono minuto do jogo.",
+          "fonetica": "/ðə ˈfɪfti naɪnθ ˈmɪnət ʌv ðə geɪm/",
+          "tem_audio": true,
+          "contexto": "FIFTY-NINTH (59th) - quase o final"
+        }
+      ]
+    },
+    {
+      "id": "datas",
+      "titulo": "Dates - Using Ordinals Correctly",
+      "tipo": "vocabulario",
+      "descricao": "Usando números ordinais em datas",
+      "itens": [
+        {
+          "ingles": "Today is March first.",
+          "portugues": "Hoje é primeiro de março.",
+          "fonetica": "/təˈdeɪ ɪz mɑrtʃ fɜrst/",
+          "tem_audio": true,
+          "contexto": "FIRST - March 1st, can say 'March first' or 'the first of March'"
+        },
+        {
+          "ingles": "My birthday is June twenty-second.",
+          "portugues": "Meu aniversário é vinte e dois de junho.",
+          "fonetica": "/maɪ ˈbɜrθdeɪ ɪz dʒun ˈtwɛnti ˈsɛkənd/",
+          "tem_audio": true,
+          "contexto": "TWENTY-SECOND - June 22nd"
+        },
+        {
+          "ingles": "School starts September third.",
+          "portugues": "As aulas começam três de setembro.",
+          "fonetica": "/skul stɑrts sɛpˈtɛmbər θɜrd/",
+          "tem_audio": true,
+          "contexto": "THIRD - September 3rd"
+        },
+        {
+          "ingles": "Christmas is December twenty-fifth.",
+          "portugues": "O Natal é vinte e cinco de dezembro.",
+          "fonetica": "/ˈkrɪsməs ɪz dɪˈsɛmbər ˈtwɛnti fɪfθ/",
+          "tem_audio": true,
+          "contexto": "TWENTY-FIFTH - December 25th, fixed date"
+        },
+        {
+          "ingles": "Independence Day is July fourth.",
+          "portugues": "O Dia da Independência é quatro de julho.",
+          "fonetica": "/ˌɪndɪˈpɛndəns deɪ ɪz dʒuˈlaɪ fɔrθ/",
+          "tem_audio": true,
+          "contexto": "FOURTH - July 4th, American holiday"
+        }
+      ]
+    },
+    {
+      "id": "posicoes_competicoes",
+      "titulo": "Positions and Rankings",
+      "tipo": "vocabulario",
+      "descricao": "Posições em competições e classificações",
+      "itens": [
+        {
+          "ingles": "She came in first place!",
+          "portugues": "Ela ficou em primeiro lugar!",
+          "fonetica": "/ʃi keɪm ɪn fɜrst pleɪs/",
+          "tem_audio": true,
+          "contexto": "FIRST PLACE - winner, champion"
+        },
+        {
+          "ingles": "He finished second in the race.",
+          "portugues": "Ele terminou segundo na corrida.",
+          "fonetica": "/hi ˈfɪnɪʃt ˈsɛkənd ɪn ðə reɪs/",
+          "tem_audio": true,
+          "contexto": "SECOND - runner-up, silver medal"
+        },
+        {
+          "ingles": "Third place gets a bronze medal.",
+          "portugues": "Terceiro lugar ganha medalha de bronze.",
+          "fonetica": "/θɜrd pleɪs gɛts ə brɑnz ˈmɛdəl/",
+          "tem_audio": true,
+          "contexto": "THIRD PLACE - bronze medal position"
+        },
+        {
+          "ingles": "Our team ranked fifth overall.",
+          "portugues": "Nosso time ficou classificado em quinto no geral.",
+          "fonetica": "/aʊər tim ræŋkt fɪfθ ˈoʊvərˌɔl/",
+          "tem_audio": true,
+          "contexto": "FIFTH - middle ranking position"
+        },
+        {
+          "ingles": "The tenth contestant was eliminated.",
+          "portugues": "O décimo concorrente foi eliminado.",
+          "fonetica": "/ðə tɛnθ kənˈtɛstənt wʌz ɪˈlɪməˌneɪtəd/",
+          "tem_audio": true,
+          "contexto": "TENTH - competition elimination"
+        }
+      ]
+    },
+    {
+      "id": "andares_edificios",
+      "titulo": "Floors and Building Levels",
+      "tipo": "vocabulario",
+      "descricao": "Andares de prédios usando números ordinais",
+      "itens": [
+        {
+          "ingles": "I work on the fifth floor.",
+          "portugues": "Eu trabalho no quinto andar.",
+          "fonetica": "/aɪ wɜrk ɑn ðə fɪfθ flɔr/",
+          "tem_audio": true,
+          "contexto": "FIFTH FLOOR - common office building height"
+        },
+        {
+          "ingles": "The restaurant is on the second floor.",
+          "portugues": "O restaurante é no segundo andar.",
+          "fonetica": "/ðə ˈrɛstərənt ɪz ɑn ðə ˈsɛkənd flɔr/",
+          "tem_audio": true,
+          "contexto": "SECOND FLOOR - one floor up from ground level"
+        },
+        {
+          "ingles": "She lives on the twentieth floor.",
+          "portugues": "Ela mora no vigésimo andar.",
+          "fonetica": "/ʃi lɪvz ɑn ðə ˈtwɛntiəθ flɔr/",
+          "tem_audio": true,
+          "contexto": "TWENTIETH FLOOR - high-rise apartment"
+        },
+        {
+          "ingles": "The penthouse is on the fortieth floor.",
+          "portugues": "A cobertura é no quadragésimo andar.",
+          "fonetica": "/ðə ˈpɛntˌhaʊs ɪz ɑn ðə ˈfɔrtiəθ flɔr/",
+          "tem_audio": true,
+          "contexto": "FORTIETH FLOOR - luxury penthouse level"
+        },
+        {
+          "ingles": "Take the elevator to the thirty-first floor.",
+          "portugues": "Pegue o elevador para o trigésimo primeiro andar.",
+          "fonetica": "/teɪk ði ˈɛləˌveɪtər tu ðə ˈθɜrti fɜrst flɔr/",
+          "tem_audio": true,
+          "contexto": "THIRTY-FIRST FLOOR - specific directions"
+        }
+      ]
+    },
+    {
+      "id": "sequencias_ordem",
+      "titulo": "Sequences and Order",
+      "tipo": "vocabulario",
+      "descricao": "Sequências e ordem usando números ordinais",
+      "itens": [
+        {
+          "ingles": "This is the first time I visit here.",
+          "portugues": "Esta é a primeira vez que visito aqui.",
+          "fonetica": "/ðɪs ɪz ðə fɜrst taɪm aɪ ˈvɪzət hɪr/",
+          "tem_audio": true,
+          "contexto": "FIRST TIME - initial experience"
+        },
+        {
+          "ingles": "The second chapter is more interesting.",
+          "portugues": "O segundo capítulo é mais interessante.",
+          "fonetica": "/ðə ˈsɛkənd ˈtʃæptər ɪz mɔr ˈɪntrəstɪŋ/",
+          "tem_audio": true,
+          "contexto": "SECOND CHAPTER - book organization"
+        },
+        {
+          "ingles": "Let me try a third approach.",
+          "portugues": "Deixe-me tentar uma terceira abordagem.",
+          "fonetica": "/lɛt mi traɪ ə θɜrd əˈproʊtʃ/",
+          "tem_audio": true,
+          "contexto": "THIRD APPROACH - alternative method"
+        },
+        {
+          "ingles": "The fourth lesson covers grammar.",
+          "portugues": "A quarta lição aborda gramática.",
+          "fonetica": "/ðə fɔrθ ˈlɛsən ˈkʌvərz ˈgræmər/",
+          "tem_audio": true,
+          "contexto": "FOURTH LESSON - educational sequence"
+        },
+        {
+          "ingles": "This is my fifth cup of coffee today.",
+          "portugues": "Este é meu quinto copo de café hoje.",
+          "fonetica": "/ðɪs ɪz maɪ fɪfθ kʌp ʌv ˈkɔfi təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "FIFTH CUP - counting repeated actions"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue with Ordinals",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando números ordinais em situações práticas",
+      "participantes": ["Tourist", "Hotel Receptionist"],
+      "conversas": [
+        {
+          "falante": "Tourist",
+          "ingles": "Excuse me, what floor is the restaurant on?",
+          "portugues": "Com licença, em que andar fica o restaurante?",
+          "fonetica": "/ɪkˈskjuz mi wʌt flɔr ɪz ðə ˈrɛstərənt ɑn/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Hotel Receptionist",
+          "ingles": "The restaurant is on the twenty-second floor. You can take the elevator to your right.",
+          "portugues": "O restaurante fica no vigésimo segundo andar. Você pode pegar o elevador à sua direita.",
+          "fonetica": "/ðə ˈrɛstərənt ɪz ɑn ðə ˈtwɛnti ˈsɛkənd flɔr ju kæn teɪk ði ˈɛləˌveɪtər tu jʊər raɪt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Tourist",
+          "ingles": "Great! And what about the pool? My room is on the fifteenth floor.",
+          "portugues": "Ótimo! E quanto à piscina? Meu quarto fica no décimo quinto andar.",
+          "fonetica": "/greɪt ænd wʌt əˈbaʊt ðə pul maɪ rum ɪz ɑn ðə ˌfɪfˈtinθ flɔr/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Hotel Receptionist",
+          "ingles": "The pool is on the third floor. Also, today is March twenty-first - spring begins! We have a special celebration.",
+          "portugues": "A piscina fica no terceiro andar. Também, hoje é vinte e um de março - a primavera começa! Temos uma celebração especial.",
+          "fonetica": "/ðə pul ɪz ɑn ðə θɜrd flɔr ˈɔlsoʊ təˈdeɪ ɪz mɑrtʃ ˈtwɛnti fɜrst sprɪŋ bɪˈgɪnz wi hæv ə ˈspɛʃəl ˌsɛləˈbreɪʃən/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Tourist",
+          "ingles": "Wonderful! Is this your first year having this celebration?",
+          "portugues": "Maravilhoso! Este é o primeiro ano que vocês têm essa celebração?",
+          "fonetica": "/ˈwʌndərfəl ɪz ðɪs jʊər fɜrst jɪr ˈhævɪŋ ðɪs ˌsɛləˈbreɪʃən/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Hotel Receptionist",
+          "ingles": "Actually, this is our tenth anniversary celebration! We started in 2015. The party begins at six PM on the second floor.",
+          "portugues": "Na verdade, esta é nossa décima celebração de aniversário! Começamos em 2015. A festa começa às 18h no segundo andar.",
+          "fonetica": "/ˈæktʃuəli ðɪs ɪz aʊər tɛnθ ˌænəˈvɜrsəri ˌsɛləˈbreɪʃən wi ˈstɑrtəd ɪn ˈtwɛnti fɪfˈtin ðə ˈpɑrti bɪˈgɪnz æt sɪks ˌpiˈɛm ɑn ðə ˈsɛkənd flɔr/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - My Life's Important Dates",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let me share the most important dates in my life using ordinal numbers! I was born on January fifteenth, 1995 - that was my very first day on Earth! My family moved to our current house when I was five, on March twenty-second. I started school on September third that same year. My first day was scary but exciting! I graduated from high school on June twelfth, 2013 - I finished in tenth place in my class. I got my first job on August twentieth, 2018, working on the seventh floor of an office building. My wedding was on October thirty-first, 2020 - yes, Halloween! This year marks our fifth anniversary. I live on the twenty-first floor of my apartment building, and today is my third day at my new job. Next month, on November eighth, I start my second college degree. Life is full of meaningful dates and ordinal numbers help us remember them all!",
+        "texto_portugues": "Deixe-me compartilhar as datas mais importantes da minha vida usando números ordinais! Nasci em quinze de janeiro de 1995 - esse foi meu primeiro dia na Terra! Minha família se mudou para nossa casa atual quando eu tinha cinco anos, em vinte e dois de março. Comecei a escola em três de setembro do mesmo ano. Meu primeiro dia foi assustador mas empolgante! Me formei no ensino médio em doze de junho de 2013 - terminei em décimo lugar na minha turma. Consegui meu primeiro emprego em vinte de agosto de 2018, trabalhando no sétimo andar de um prédio comercial. Meu casamento foi em trinta e um de outubro de 2020 - sim, Halloween! Este ano marca nosso quinto aniversário. Moro no vigésimo primeiro andar do meu prédio, e hoje é meu terceiro dia no novo emprego. Mês que vem, em oito de novembro, começo minha segunda graduação. A vida está cheia de datas significativas e números ordinais nos ajudam a lembrar de todas elas!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Mastering Ordinal Numbers",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are key tips for mastering ordinal numbers: 1) Memorize the first three: first, second, third - they're completely irregular. 2) Most others add -th: fourth, fifth, sixth, seventh, eighth, ninth, tenth. 3) For numbers ending in -y (twenty, thirty), change -y to -ieth: twentieth, thirtieth. 4) In compound numbers, only the last part becomes ordinal: twenty-first, thirty-second. 5) Always use 'the' before ordinals: the first, the second, the third. 6) Remember special spelling: fifth (not fiveth), eighth (not eigth), ninth (not nineth), twelfth (not twelveth). Practice with real situations: dates, floors, rankings!",
+        "texto_portugues": "Aqui estão dicas essenciais para dominar números ordinais: 1) Memorize os três primeiros: first, second, third - são completamente irregulares. 2) A maioria adiciona -th: fourth, fifth, sixth, seventh, eighth, ninth, tenth. 3) Para números terminados em -y (twenty, thirty), mude -y para -ieth: twentieth, thirtieth. 4) Em números compostos, só a última parte vira ordinal: twenty-first, thirty-second. 5) Sempre use 'the' antes de ordinais: the first, the second, the third. 6) Lembre da grafia especial: fifth (não fiveth), eighth (não eigth), ninth (não nineth), twelfth (não twelveth). Pratique com situações reais: datas, andares, classificações!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice ordinal numbers everywhere! Say important dates in your life using ordinals: your birthday, graduation day, wedding anniversary. Practice floor numbers: 'I live on the ___ floor', 'The office is on the ___ floor'. Create rankings: your first favorite movie, second favorite food, third best friend. Practice with calendar dates: 'Today is March ___', 'Tomorrow is April ___'. Remember to use 'the' before ordinals and pay attention to spelling patterns. Ordinal numbers help you express order and sequence clearly - master them and sound professional in English!",
+        "texto_portugues": "Agora pratique números ordinais em todos os lugares! Diga datas importantes da sua vida usando ordinais: seu aniversário, dia da formatura, aniversário de casamento. Pratique números de andares: 'I live on the ___ floor', 'The office is on the ___ floor'. Crie classificações: seu primeiro filme favorito, segunda comida favorita, terceiro melhor amigo. Pratique com datas do calendário: 'Today is March ___', 'Tomorrow is April ___'. Lembre-se de usar 'the' antes de ordinais e preste atenção nos padrões de grafia. Números ordinais ajudam você a expressar ordem e sequência claramente - domine-os e soe profissional em inglês!",
+        "tem_audio": true
+              }
+    }
+  ]
+}
+ 
