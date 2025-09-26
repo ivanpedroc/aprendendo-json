@@ -1,0 +1,391 @@
+{
+  "titulo": "Preposições de Tempo",
+  "descricao": "Aprenda as preposições de tempo essenciais em inglês! Domine quando usar IN, ON, AT e outras preposições para expressar tempo corretamente.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What are Time Prepositions?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Time prepositions are small but very important words that tell us WHEN something happens. The three main time prepositions in English are IN, ON, and AT. Each one is used for different types of time expressions. Don't worry - there are clear rules to help you choose the right one! These prepositions are essential for talking about schedules, appointments, and daily activities.",
+        "texto_portugues": "Preposições de tempo são palavras pequenas mas muito importantes que nos dizem QUANDO algo acontece. As três principais preposições de tempo em inglês são IN, ON e AT. Cada uma é usada para diferentes tipos de expressões de tempo. Não se preocupe - há regras claras para ajudar você a escolher a certa! Essas preposições são essenciais para falar sobre horários, compromissos e atividades diárias.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "preposicao_at",
+      "titulo": "AT - For Specific Times",
+      "tipo": "vocabulario",
+      "descricao": "Usando AT para horários específicos e momentos exatos",
+      "itens": [
+        {
+          "ingles": "I wake up at 7 AM.",
+          "portugues": "Eu acordo às 7h.",
+          "fonetica": "/aɪ weɪk ʌp æt ˈsɛvən ˌeɪˈɛm/",
+          "tem_audio": true,
+          "contexto": "AT + specific time (hours and minutes)"
+        },
+        {
+          "ingles": "The meeting is at 3:30 PM.",
+          "portugues": "A reunião é às 15h30.",
+          "fonetica": "/ðə ˈmitɪŋ ɪz æt θri ˈθɜrti ˌpiˈɛm/",
+          "tem_audio": true,
+          "contexto": "AT + exact time with minutes"
+        },
+        {
+          "ingles": "We eat lunch at noon.",
+          "portugues": "Nós almoçamos ao meio-dia.",
+          "fonetica": "/wi it lʌntʃ æt nun/",
+          "tem_audio": true,
+          "contexto": "AT + noon (12:00 PM)"
+        },
+        {
+          "ingles": "I go to bed at midnight.",
+          "portugues": "Eu vou dormir à meia-noite.",
+          "fonetica": "/aɪ goʊ tu bɛd æt ˈmɪdˌnaɪt/",
+          "tem_audio": true,
+          "contexto": "AT + midnight (12:00 AM)"
+        },
+        {
+          "ingles": "The store opens at 9 o'clock.",
+          "portugues": "A loja abre às 9 horas.",
+          "fonetica": "/ðə stɔr ˈoʊpənz æt naɪn əˈklɑk/",
+          "tem_audio": true,
+          "contexto": "AT + o'clock (exact hour)"
+        }
+      ]
+    },
+    {
+      "id": "preposicao_on",
+      "titulo": "ON - For Days and Dates",
+      "tipo": "vocabulario",
+      "descricao": "Usando ON para dias da semana, datas e ocasiões específicas",
+      "itens": [
+        {
+          "ingles": "I work on Monday.",
+          "portugues": "Eu trabalho na segunda-feira.",
+          "fonetica": "/aɪ wɜrk ɑn ˈmʌndeɪ/",
+          "tem_audio": true,
+          "contexto": "ON + days of the week"
+        },
+        {
+          "ingles": "My birthday is on December 25th.",
+          "portugues": "Meu aniversário é no dia 25 de dezembro.",
+          "fonetica": "/maɪ ˈbɜrθdeɪ ɪz ɑn dɪˈsɛmbər ˈtwɛnti fɪfθ/",
+          "tem_audio": true,
+          "contexto": "ON + specific dates"
+        },
+        {
+          "ingles": "We have a party on Friday night.",
+          "portugues": "Nós temos uma festa na sexta à noite.",
+          "fonetica": "/wi hæv ə ˈpɑrti ɑn ˈfraɪdeɪ naɪt/",
+          "tem_audio": true,
+          "contexto": "ON + day + part of day"
+        },
+        {
+          "ingles": "I go shopping on weekends.",
+          "portugues": "Eu vou às compras nos fins de semana.",
+          "fonetica": "/aɪ goʊ ˈʃɑpɪŋ ɑn ˈwikɛndz/",
+          "tem_audio": true,
+          "contexto": "ON + weekends"
+        },
+        {
+          "ingles": "The exam is on January 15th.",
+          "portugues": "O exame é no dia 15 de janeiro.",
+          "fonetica": "/ðə ɪgˈzæm ɪz ɑn ˈdʒænjuˌɛri ˈfɪfˌtinθ/",
+          "tem_audio": true,
+          "contexto": "ON + month + date"
+        }
+      ]
+    },
+    {
+      "id": "preposicao_in",
+      "titulo": "IN - For Longer Periods",
+      "tipo": "vocabulario",
+      "descricao": "Usando IN para meses, anos, estações e partes do dia",
+      "itens": [
+        {
+          "ingles": "I was born in 1995.",
+          "portugues": "Eu nasci em 1995.",
+          "fonetica": "/aɪ wʌz bɔrn ɪn ˈnaɪnˌtin ˈnaɪnti faɪv/",
+          "tem_audio": true,
+          "contexto": "IN + years"
+        },
+        {
+          "ingles": "It's cold in winter.",
+          "portugues": "Faz frio no inverno.",
+          "fonetica": "/ɪts koʊld ɪn ˈwɪntər/",
+          "tem_audio": true,
+          "contexto": "IN + seasons"
+        },
+        {
+          "ingles": "I study in the morning.",
+          "portugues": "Eu estudo de manhã.",
+          "fonetica": "/aɪ ˈstʌdi ɪn ðə ˈmɔrnɪŋ/",
+          "tem_audio": true,
+          "contexto": "IN + morning (but AT noon/night)"
+        },
+        {
+          "ingles": "My vacation is in July.",
+          "portugues": "Minhas férias são em julho.",
+          "fonetica": "/maɪ veɪˈkeɪʃən ɪz ɪn dʒuˈlaɪ/",
+          "tem_audio": true,
+          "contexto": "IN + months"
+        },
+        {
+          "ingles": "We exercise in the afternoon.",
+          "portugues": "Nós nos exercitamos à tarde.",
+          "fonetica": "/wi ˈɛksərˌsaɪz ɪn ði ˌæftərˈnun/",
+          "tem_audio": true,
+          "contexto": "IN + afternoon"
+        }
+      ]
+    },
+    {
+      "id": "expressoes_especiais",
+      "titulo": "Special Time Expressions",
+      "tipo": "vocabulario",
+      "descricao": "Expressões de tempo especiais que não seguem as regras gerais",
+      "itens": [
+        {
+          "ingles": "I work at night.",
+          "portugues": "Eu trabalho à noite.",
+          "fonetica": "/aɪ wɜrk æt naɪt/",
+          "tem_audio": true,
+          "contexto": "AT night (exception - not IN night)"
+        },
+        {
+          "ingles": "We meet at Christmas.",
+          "portugues": "Nós nos encontramos no Natal.",
+          "fonetica": "/wi mit æt ˈkrɪsməs/",
+          "tem_audio": true,
+          "contexto": "AT + holidays/festivals"
+        },
+        {
+          "ingles": "I call you at the weekend.",
+          "portugues": "Eu te ligo no fim de semana.",
+          "fonetica": "/aɪ kɔl ju æt ðə ˈwikɛnd/",
+          "tem_audio": true,
+          "contexto": "AT the weekend (British) / ON weekends (American)"
+        },
+        {
+          "ingles": "The shop closes at Easter.",
+          "portugues": "A loja fecha na Páscoa.",
+          "fonetica": "/ðə ʃɑp ˈkloʊzəz æt ˈistər/",
+          "tem_audio": true,
+          "contexto": "AT + special occasions"
+        },
+        {
+          "ingles": "I see you at lunchtime.",
+          "portugues": "Eu te vejo na hora do almoço.",
+          "fonetica": "/aɪ si ju æt ˈlʌntʃˌtaɪm/",
+          "tem_audio": true,
+          "contexto": "AT + meal times"
+        }
+      ]
+    },
+    {
+      "id": "outras_preposicoes",
+      "titulo": "Other Time Prepositions",
+      "tipo": "vocabulario",
+      "descricao": "Outras preposições de tempo importantes: BEFORE, AFTER, DURING, FOR, SINCE",
+      "itens": [
+        {
+          "ingles": "I brush my teeth before breakfast.",
+          "portugues": "Eu escovo os dentes antes do café da manhã.",
+          "fonetica": "/aɪ brʌʃ maɪ tiθ bɪˈfɔr ˈbrɛkfəst/",
+          "tem_audio": true,
+          "contexto": "BEFORE + event/time"
+        },
+        {
+          "ingles": "We talk after dinner.",
+          "portugues": "Nós conversamos depois do jantar.",
+          "fonetica": "/wi tɔk ˈæftər ˈdɪnər/",
+          "tem_audio": true,
+          "contexto": "AFTER + event/time"
+        },
+        {
+          "ingles": "I sleep during the flight.",
+          "portugues": "Eu durmo durante o voo.",
+          "fonetica": "/aɪ slip ˈdʊrɪŋ ðə flaɪt/",
+          "tem_audio": true,
+          "contexto": "DURING + event/period"
+        },
+        {
+          "ingles": "I study for two hours.",
+          "portugues": "Eu estudo por duas horas.",
+          "fonetica": "/aɪ ˈstʌdi fɔr tu aʊərz/",
+          "tem_audio": true,
+          "contexto": "FOR + duration/length of time"
+        },
+        {
+          "ingles": "I live here since 2020.",
+          "portugues": "Eu moro aqui desde 2020.",
+          "fonetica": "/aɪ lɪv hɪr sɪns ˈtwɛnti ˈtwɛnti/",
+          "tem_audio": true,
+          "contexto": "SINCE + starting point in time"
+        }
+      ]
+    },
+    {
+      "id": "comparacao_preposicoes",
+      "titulo": "AT vs ON vs IN Comparison",
+      "tipo": "vocabulario",
+      "descricao": "Comparando as três principais preposições de tempo",
+      "itens": [
+        {
+          "ingles": "AT 8 o'clock / ON Monday / IN January",
+          "portugues": "ÀS 8 horas / NA segunda-feira / EM janeiro",
+          "fonetica": "/æt eɪt əˈklɑk / ɑn ˈmʌndeɪ / ɪn ˈdʒænjuˌɛri/",
+          "tem_audio": true,
+          "contexto": "Specific time / Day / Month"
+        },
+        {
+          "ingles": "AT noon / ON weekend / IN summer",
+          "portugues": "AO meio-dia / NO fim de semana / NO verão",
+          "fonetica": "/æt nun / ɑn ˈwikɛnd / ɪn ˈsʌmər/",
+          "tem_audio": true,
+          "contexto": "Fixed time / Days / Season"
+        },
+        {
+          "ingles": "AT midnight / ON my birthday / IN 2025",
+          "portugues": "À meia-noite / NO meu aniversário / EM 2025",
+          "fonetica": "/æt ˈmɪdˌnaɪt / ɑn maɪ ˈbɜrθdeɪ / ɪn ˈtwɛnti ˈtwɛnti faɪv/",
+          "tem_audio": true,
+          "contexto": "Fixed time / Specific date / Year"
+        },
+        {
+          "ingles": "AT 3:15 PM / ON Friday night / IN the morning",
+          "portugues": "ÀS 15h15 / NA sexta à noite / DE manhã",
+          "fonetica": "/æt θri fɪfˈtin ˌpiˈɛm / ɑn ˈfraɪdeɪ naɪt / ɪn ðə ˈmɔrnɪŋ/",
+          "tem_audio": true,
+          "contexto": "Exact time / Day+time / Part of day"
+        }
+      ]
+    },
+    {
+      "id": "sem_preposicao",
+      "titulo": "When NOT to Use Prepositions",
+      "tipo": "vocabulario",
+      "descricao": "Expressões de tempo que NÃO usam preposições",
+      "itens": [
+        {
+          "ingles": "I work today.",
+          "portugues": "Eu trabalho hoje.",
+          "fonetica": "/aɪ wɜrk təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "TODAY - no preposition needed"
+        },
+        {
+          "ingles": "We met yesterday.",
+          "portugues": "Nós nos encontramos ontem.",
+          "fonetica": "/wi mɛt ˈjɛstərdeɪ/",
+          "tem_audio": true,
+          "contexto": "YESTERDAY - no preposition"
+        },
+        {
+          "ingles": "She arrives tomorrow.",
+          "portugues": "Ela chega amanhã.",
+          "fonetica": "/ʃi əˈraɪvz təˈmɑroʊ/",
+          "tem_audio": true,
+          "contexto": "TOMORROW - no preposition"
+        },
+        {
+          "ingles": "I see you next week.",
+          "portugues": "Eu te vejo na próxima semana.",
+          "fonetica": "/aɪ si ju nɛkst wik/",
+          "tem_audio": true,
+          "contexto": "NEXT + time period - no preposition"
+        },
+        {
+          "ingles": "We traveled last month.",
+          "portugues": "Nós viajamos no mês passado.",
+          "fonetica": "/wi ˈtrævəld læst mʌnθ/",
+          "tem_audio": true,
+          "contexto": "LAST + time period - no preposition"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue with Time Prepositions",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando preposições de tempo",
+      "participantes": ["Sarah", "Mike"],
+      "conversas": [
+        {
+          "falante": "Sarah",
+          "ingles": "Hi Mike! What time is our meeting tomorrow?",
+          "portugues": "Oi Mike! Que horas é nossa reunião amanhã?",
+          "fonetica": "/haɪ maɪk wʌt taɪm ɪz aʊər ˈmitɪŋ təˈmɑroʊ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mike",
+          "ingles": "It's at 2 PM. Can you be there on time?",
+          "portugues": "É às 14h. Você pode estar lá na hora?",
+          "fonetica": "/ɪts æt tu ˌpiˈɛm kæn ju bi ðɛr ɑn taɪm/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Sarah",
+          "ingles": "Sure! I'm free in the afternoon. What day is it exactly?",
+          "portugues": "Claro! Eu estou livre à tarde. Que dia é exatamente?",
+          "fonetica": "/ʃʊr aɪm fri ɪn ði ˌæftərˈnun wʌt deɪ ɪz ɪt ɪgˈzæktli/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mike",
+          "ingles": "It's on Wednesday, March 15th. The meeting is in conference room A.",
+          "portugues": "É na quarta-feira, 15 de março. A reunião é na sala de conferência A.",
+          "fonetica": "/ɪts ɑn ˈwɛnzdeɪ mɑrtʃ ˈfɪfˌtinθ ðə ˈmitɪŋ ɪz ɪn ˈkɑnfərəns rum eɪ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Sarah",
+          "ingles": "Perfect! I usually have lunch at 1 PM, so I'll eat before the meeting.",
+          "portugues": "Perfeito! Eu geralmente almoço à 13h, então vou comer antes da reunião.",
+          "fonetica": "/ˈpɜrfɪkt aɪ ˈjuʒuəli hæv lʌntʃ æt wʌn ˌpiˈɛm soʊ aɪl it bɪˈfɔr ðə ˈmitɪŋ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mike",
+          "ingles": "Great! The meeting will last for one hour. After that, we can discuss the project.",
+          "portugues": "Ótimo! A reunião vai durar uma hora. Depois disso, podemos discutir o projeto.",
+          "fonetica": "/greɪt ðə ˈmitɪŋ wɪl læst fɔr wʌn aʊər ˈæftər ðæt wi kæn dɪˈskʌs ðə ˈprɑdʒɛkt/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - My Weekly Schedule",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "My name is Ana and I have a busy schedule. I wake up at 6:30 AM every day. In the morning, I exercise for 30 minutes before breakfast. I work on weekdays from 8 AM to 5 PM. On Monday, I have English class at 7 PM. During the week, I study in the evening after dinner. On weekends, I relax and spend time with family. In summer, we usually go to the beach on Saturday afternoon. At night, I read before going to bed. Next month, I will start a new course on Wednesday evenings. I love my routine!",
+        "texto_portugues": "Meu nome é Ana e tenho uma agenda cheia. Eu acordo às 6h30 todos os dias. De manhã, eu me exercito por 30 minutos antes do café da manhã. Eu trabalho nos dias úteis das 8h às 17h. Na segunda-feira, tenho aula de inglês às 19h. Durante a semana, eu estudo à noite depois do jantar. Nos fins de semana, eu relaxo e passo tempo com a família. No verão, geralmente vamos à praia no sábado à tarde. À noite, eu leio antes de ir dormir. No próximo mês, vou começar um novo curso nas quartas à noite. Eu amo minha rotina!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Remembering Time Prepositions",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are helpful tips to remember time prepositions: 1) AT is for specific points in time (like a clock: AT 3 PM, AT noon). 2) ON is for days and dates (think of a calendar: ON Monday, ON March 5th). 3) IN is for longer periods (think of being inside a time period: IN January, IN 2025, IN summer). 4) Remember exceptions: AT night, AT the weekend (British). 5) No prepositions with: today, yesterday, tomorrow, next/last + time period. Practice daily!",
+        "texto_portugues": "Aqui estão dicas úteis para lembrar das preposições de tempo: 1) AT é para pontos específicos no tempo (como um relógio: AT 3 PM, AT noon). 2) ON é para dias e datas (pense num calendário: ON Monday, ON March 5th). 3) IN é para períodos mais longos (pense em estar dentro de um período: IN January, IN 2025, IN summer). 4) Lembre das exceções: AT night, AT the weekend (britânico). 5) Sem preposições com: today, yesterday, tomorrow, next/last + período. Pratique diariamente!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now it's time to practice! Write sentences about your daily schedule using AT, ON, and IN. Include specific times, days of the week, and months. Don't forget other prepositions like BEFORE, AFTER, DURING, FOR, and SINCE. Try to write about: What time you wake up, what days you work or study, what month your birthday is, and what you do before and after meals. Remember the exceptions and expressions without prepositions!",
+        "texto_portugues": "Agora é hora de praticar! Escreva frases sobre sua rotina diária usando AT, ON e IN. Inclua horários específicos, dias da semana e meses. Não esqueça de outras preposições como BEFORE, AFTER, DURING, FOR e SINCE. Tente escrever sobre: Que horas você acorda, que dias você trabalha ou estuda, em que mês é seu aniversário, e o que você faz antes e depois das refeições. Lembre das exceções e expressões sem preposições!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
