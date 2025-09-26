@@ -1,0 +1,425 @@
+{
+  "titulo": "Substantivos Contáveis e Incontáveis",
+  "descricao": "Aprenda a diferença entre substantivos que podemos contar e os que não podemos! Domine o uso correto com artigos e quantificadores.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "Countable vs Uncountable Nouns",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "In English, we divide nouns into two important categories: countable and uncountable. Countable nouns are things we can count individually (one book, two books). Uncountable nouns are things we cannot count as separate items (water, music, advice). This difference is very important because it affects which articles and quantifiers we use.",
+        "texto_portugues": "Em inglês, dividimos substantivos em duas categorias importantes: contáveis e incontáveis. Substantivos contáveis são coisas que podemos contar individualmente (one book, two books). Substantivos incontáveis são coisas que não podemos contar como itens separados (water, music, advice). Esta diferença é muito importante porque afeta quais artigos e quantificadores usamos.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "substantivos_contaveis",
+      "titulo": "Countable Nouns - Things We Can Count",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Countable nouns have both singular and plural forms. We can use numbers with them (one apple, five apples). We can also use articles a/an with the singular form, and we use 'many' and 'few' to talk about quantity. These are physical objects, people, animals, and individual ideas that exist as separate units.",
+        "texto_portugues": "Substantivos contáveis têm formas singular e plural. Podemos usar números com eles (one apple, five apples). Também podemos usar artigos a/an com a forma singular, e usamos 'many' e 'few' para falar sobre quantidade. Estes são objetos físicos, pessoas, animais e ideias individuais que existem como unidades separadas.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "exemplos_contaveis",
+      "titulo": "Common Countable Nouns",
+      "tipo": "vocabulario",
+      "descricao": "Exemplos de substantivos contáveis do dia a dia",
+      "itens": [
+        {
+          "ingles": "a book / two books / many books",
+          "portugues": "um livro / dois livros / muitos livros",
+          "fonetica": "/ə bʊk / tu bʊks / ˈmɛni bʊks/",
+          "tem_audio": true,
+          "contexto": "Physical object - can count individually"
+        },
+        {
+          "ingles": "an apple / three apples / few apples",
+          "portugues": "uma maçã / três maçãs / poucas maçãs",
+          "fonetica": "/æn ˈæpəl / θri ˈæpəlz / fju ˈæpəlz/",
+          "tem_audio": true,
+          "contexto": "Food item - countable because each apple is separate"
+        },
+        {
+          "ingles": "a car / several cars / how many cars?",
+          "portugues": "um carro / vários carros / quantos carros?",
+          "fonetica": "/ə kɑr / ˈsɛvrəl kɑrz / haʊ ˈmɛni kɑrz/",
+          "tem_audio": true,
+          "contexto": "Vehicle - each car is a distinct unit"
+        },
+        {
+          "ingles": "a student / ten students / many students",
+          "portugues": "um estudante / dez estudantes / muitos estudantes",
+          "fonetica": "/ə ˈstudənt / tɛn ˈstudənts / ˈmɛni ˈstudənts/",
+          "tem_audio": true,
+          "contexto": "Person - people are always countable"
+        },
+        {
+          "ingles": "an idea / good ideas / few ideas",
+          "portugues": "uma ideia / boas ideias / poucas ideias",
+          "fonetica": "/æn aɪˈdiə / gʊd aɪˈdiəz / fju aɪˈdiəz/",
+          "tem_audio": true,
+          "contexto": "Abstract concept - but countable as separate thoughts"
+        },
+        {
+          "ingles": "a minute / five minutes / many minutes",
+          "portugues": "um minuto / cinco minutos / muitos minutos",
+          "fonetica": "/ə ˈmɪnət / faɪv ˈmɪnəts / ˈmɛni ˈmɪnəts/",
+          "tem_audio": true,
+          "contexto": "Time unit - each minute is separate and countable"
+        }
+      ]
+    },
+    {
+      "id": "substantivos_incontaveis",
+      "titulo": "Uncountable Nouns - Things We Cannot Count",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Uncountable nouns have only one form - they don't have plurals. We cannot use numbers directly with them or a/an. Instead, we use 'much' and 'little' for quantity. These include liquids, gases, materials, abstract concepts, and things seen as a whole mass rather than individual items.",
+        "texto_portugues": "Substantivos incontáveis têm apenas uma forma - eles não têm plurais. Não podemos usar números diretamente com eles ou a/an. Em vez disso, usamos 'much' e 'little' para quantidade. Estes incluem líquidos, gases, materiais, conceitos abstratos, e coisas vistas como uma massa total em vez de itens individuais.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "exemplos_incontaveis",
+      "titulo": "Common Uncountable Nouns",
+      "tipo": "vocabulario",
+      "descricao": "Exemplos de substantivos incontáveis importantes",
+      "itens": [
+        {
+          "ingles": "water / much water / little water",
+          "portugues": "água / muita água / pouca água",
+          "fonetica": "/ˈwɔtər / mʌtʃ ˈwɔtər / ˈlɪtəl ˈwɔtər/",
+          "tem_audio": true,
+          "contexto": "Liquid - cannot count individual 'waters', use 'much/little'"
+        },
+        {
+          "ingles": "music / beautiful music / little music",
+          "portugues": "música / música bonita / pouca música",
+          "fonetica": "/ˈmjuzɪk / ˈbjutəfəl ˈmjuzɪk / ˈlɪtəl ˈmjuzɪk/",
+          "tem_audio": true,
+          "contexto": "Abstract concept - music as a whole, not individual pieces"
+        },
+        {
+          "ingles": "advice / good advice / much advice",
+          "portugues": "conselho / bom conselho / muito conselho",
+          "fonetica": "/ædˈvaɪs / gʊd ædˈvaɪs / mʌtʃ ædˈvaɪs/",
+          "tem_audio": true,
+          "contexto": "Abstract concept - advice as a concept, not 'advices'"
+        },
+        {
+          "ingles": "money / much money / little money",
+          "portugues": "dinheiro / muito dinheiro / pouco dinheiro",
+          "fonetica": "/ˈmʌni / mʌtʃ ˈmʌni / ˈlɪtəl ˈmʌni/",
+          "tem_audio": true,
+          "contexto": "Concept - money as a whole, not individual 'moneys'"
+        },
+        {
+          "ingles": "information / useful information / much information",
+          "portugues": "informação / informação útil / muita informação",
+          "fonetica": "/ˌɪnfərˈmeɪʃən / ˈjusfəl ˌɪnfərˈmeɪʃən / mʌtʃ ˌɪnfərˈmeɪʃən/",
+          "tem_audio": true,
+          "contexto": "Abstract - information as a mass, not 'informations'"
+        },
+        {
+          "ingles": "bread / fresh bread / much bread",
+          "portugues": "pão / pão fresco / muito pão",
+          "fonetica": "/brɛd / frɛʃ brɛd / mʌtʃ brɛd/",
+          "tem_audio": true,
+          "contexto": "Food material - bread as substance, not individual items"
+        }
+      ]
+    },
+    {
+      "id": "quantificadores",
+      "titulo": "Quantifiers - Many vs Much vs A Lot Of",
+      "tipo": "vocabulario",
+      "descricao": "Quantificadores corretos para contáveis e incontáveis",
+      "itens": [
+        {
+          "ingles": "many books / many students / many ideas",
+          "portugues": "muitos livros / muitos estudantes / muitas ideias",
+          "fonetica": "/ˈmɛni bʊks / ˈmɛni ˈstudənts / ˈmɛni aɪˈdiəz/",
+          "tem_audio": true,
+          "contexto": "MANY - only with countable nouns (plural)"
+        },
+        {
+          "ingles": "much water / much money / much time",
+          "portugues": "muita água / muito dinheiro / muito tempo",
+          "fonetica": "/mʌtʃ ˈwɔtər / mʌtʃ ˈmʌni / mʌtʃ taɪm/",
+          "tem_audio": true,
+          "contexto": "MUCH - only with uncountable nouns"
+        },
+        {
+          "ingles": "a lot of books / a lot of water",
+          "portugues": "muitos livros / muita água",
+          "fonetica": "/ə lɑt ʌv bʊks / ə lɑt ʌv ˈwɔtər/",
+          "tem_audio": true,
+          "contexto": "A LOT OF - works with both countable and uncountable"
+        },
+        {
+          "ingles": "few students / little money",
+          "portugues": "poucos estudantes / pouco dinheiro",
+          "fonetica": "/fju ˈstudənts / ˈlɪtəl ˈmʌni/",
+          "tem_audio": true,
+          "contexto": "FEW (countable) vs LITTLE (uncountable) for small amounts"
+        },
+        {
+          "ingles": "some apples / some water",
+          "portugues": "algumas maçãs / um pouco de água",
+          "fonetica": "/sʌm ˈæpəlz / sʌm ˈwɔtər/",
+          "tem_audio": true,
+          "contexto": "SOME - works with both types"
+        }
+      ]
+    },
+    {
+      "id": "medindo_incontaveis",
+      "titulo": "Making Uncountable Nouns Countable",
+      "tipo": "vocabulario",
+      "descricao": "Como 'contar' substantivos incontáveis usando medidas",
+      "itens": [
+        {
+          "ingles": "a glass of water / two glasses of water",
+          "portugues": "um copo de água / dois copos de água",
+          "fonetica": "/ə glæs ʌv ˈwɔtər / tu ˈglæsəz ʌv ˈwɔtər/",
+          "tem_audio": true,
+          "contexto": "Use containers to count liquids"
+        },
+        {
+          "ingles": "a piece of advice / some pieces of advice",
+          "portugues": "um conselho / alguns conselhos",
+          "fonetica": "/ə pis ʌv ædˈvaɪs / sʌm ˈpisəz ʌv ædˈvaɪs/",
+          "tem_audio": true,
+          "contexto": "Use 'piece of' to count abstract concepts"
+        },
+        {
+          "ingles": "a slice of bread / three slices of bread",
+          "portugues": "uma fatia de pão / três fatias de pão",
+          "fonetica": "/ə slaɪs ʌv brɛd / θri ˈslaɪsəz ʌv brɛd/",
+          "tem_audio": true,
+          "contexto": "Use specific measures for food"
+        },
+        {
+          "ingles": "a piece of information / two pieces of information",
+          "portugues": "uma informação / duas informações",
+          "fonetica": "/ə pis ʌv ˌɪnfərˈmeɪʃən / tu ˈpisəz ʌv ˌɪnfərˈmeɪʃən/",
+          "tem_audio": true,
+          "contexto": "'Piece of' makes information countable"
+        },
+        {
+          "ingles": "a bottle of milk / four bottles of milk",
+          "portugues": "uma garrafa de leite / quatro garrafas de leite",
+          "fonetica": "/ə ˈbɑtəl ʌv mɪlk / fɔr ˈbɑtəlz ʌv mɪlk/",
+          "tem_audio": true,
+          "contexto": "Containers make liquids countable"
+        }
+      ]
+    },
+    {
+      "id": "substantivos_duplos",
+      "titulo": "Nouns That Can Be Both",
+      "tipo": "vocabulario",
+      "descricao": "Substantivos que podem ser contáveis ou incontáveis dependendo do contexto",
+      "itens": [
+        {
+          "ingles": "I like coffee (uncountable) / Two coffees, please (countable)",
+          "portugues": "Eu gosto de café (incontável) / Dois cafés, por favor (contável)",
+          "fonetica": "/aɪ laɪk ˈkɔfi / tu ˈkɔfiz pliz/",
+          "tem_audio": true,
+          "contexto": "Coffee as beverage (uncountable) vs cups of coffee (countable)"
+        },
+        {
+          "ingles": "Hair is important (uncountable) / There's a hair in my soup (countable)",
+          "portugues": "Cabelo é importante (incontável) / Há um fio de cabelo na minha sopa (contável)",
+          "fonetica": "/hɛr ɪz ɪmˈpɔrtənt / ðɛrz ə hɛr ɪn maɪ sup/",
+          "tem_audio": true,
+          "contexto": "Hair as mass (uncountable) vs individual hairs (countable)"
+        },
+        {
+          "ingles": "I need paper (uncountable) / I need three papers (countable)",
+          "portugues": "Eu preciso de papel (incontável) / Eu preciso de três documentos (contável)",
+          "fonetica": "/aɪ nid ˈpeɪpər / aɪ nid θri ˈpeɪpərz/",
+          "tem_audio": true,
+          "contexto": "Paper as material (uncountable) vs documents (countable)"
+        },
+        {
+          "ingles": "Time is precious (uncountable) / Three times a day (countable)",
+          "portugues": "Tempo é precioso (incontável) / Três vezes por dia (contável)",
+          "fonetica": "/taɪm ɪz ˈprɛʃəs / θri taɪmz ə deɪ/",
+          "tem_audio": true,
+          "contexto": "Time as concept (uncountable) vs occasions (countable)"
+        }
+      ]
+    },
+    {
+      "id": "erros_comuns",
+      "titulo": "Common Mistakes to Avoid",
+      "tipo": "vocabulario",
+      "descricao": "Erros comuns com contáveis e incontáveis",
+      "itens": [
+        {
+          "ingles": "✓ I need some advice / ✗ I need an advice",
+          "portugues": "✓ Eu preciso de um conselho / ✗ Incorreto",
+          "fonetica": "/aɪ nid sʌm ædˈvaɪs/",
+          "tem_audio": true,
+          "contexto": "ADVICE is uncountable - never 'an advice' or 'advices'"
+        },
+        {
+          "ingles": "✓ Much information / ✗ Many informations",
+          "portugues": "✓ Muita informação / ✗ Incorreto",
+          "fonetica": "/mʌtʃ ˌɪnfərˈmeɪʃən/",
+          "tem_audio": true,
+          "contexto": "INFORMATION is uncountable - use 'much', not 'many'"
+        },
+        {
+          "ingles": "✓ I have little money / ✗ I have few money",
+          "portugues": "✓ Eu tenho pouco dinheiro / ✗ Incorreto",
+          "fonetica": "/aɪ hæv ˈlɪtəl ˈmʌni/",
+          "tem_audio": true,
+          "contexto": "MONEY is uncountable - use 'little', not 'few'"
+        },
+        {
+          "ingles": "✓ Many people / ✗ Much people",
+          "portugues": "✓ Muitas pessoas / ✗ Incorreto",
+          "fonetica": "/ˈmɛni ˈpipəl/",
+          "tem_audio": true,
+          "contexto": "PEOPLE is countable - use 'many', not 'much'"
+        },
+        {
+          "ingles": "✓ Three pieces of furniture / ✗ Three furnitures",
+          "portugues": "✓ Três peças de mobília / ✗ Incorreto",
+          "fonetica": "/θri ˈpisəz ʌv ˈfɜrnɪtʃər/",
+          "tem_audio": true,
+          "contexto": "FURNITURE is uncountable - use 'pieces of furniture'"
+        }
+      ]
+    },
+    {
+      "id": "lista_incontaveis_comuns",
+      "titulo": "Common Uncountable Nouns to Remember",
+      "tipo": "vocabulario",
+      "descricao": "Lista de substantivos incontáveis mais importantes",
+      "itens": [
+        {
+          "ingles": "advice, information, news, homework",
+          "portugues": "conselho, informação, notícias, lição de casa",
+          "fonetica": "/ædˈvaɪs, ˌɪnfərˈmeɪʃən, nuz, ˈhoʊmˌwɜrk/",
+          "tem_audio": true,
+          "contexto": "Abstract concepts - never plural"
+        },
+        {
+          "ingles": "water, milk, coffee, tea, juice",
+          "portugues": "água, leite, café, chá, suco",
+          "fonetica": "/ˈwɔtər, mɪlk, ˈkɔfi, ti, dʒus/",
+          "tem_audio": true,
+          "contexto": "Liquids - use containers to count"
+        },
+        {
+          "ingles": "money, cash, gold, silver",
+          "portugues": "dinheiro, dinheiro vivo, ouro, prata",
+          "fonetica": "/ˈmʌni, kæʃ, goʊld, ˈsɪlvər/",
+          "tem_audio": true,
+          "contexto": "Money and materials"
+        },
+        {
+          "ingles": "music, art, love, happiness",
+          "portugues": "música, arte, amor, felicidade",
+          "fonetica": "/ˈmjuzɪk, ɑrt, lʌv, ˈhæpənəs/",
+          "tem_audio": true,
+          "contexto": "Abstract emotions and concepts"
+        },
+        {
+          "ingles": "furniture, equipment, luggage, baggage",
+          "portugues": "mobília, equipamento, bagagem, bagagem",
+          "fonetica": "/ˈfɜrnɪtʃər, ɪˈkwɪpmənt, ˈlʌgɪdʒ, ˈbægɪdʒ/",
+          "tem_audio": true,
+          "contexto": "Collections of objects seen as wholes"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue - Countable vs Uncountable",
+      "tipo": "dialogo",
+      "descricao": "Conversa real mostrando o uso correto de contáveis e incontáveis",
+      "participantes": ["Sarah", "Tom"],
+      "conversas": [
+        {
+          "falante": "Sarah",
+          "ingles": "Hi Tom! I need some advice about my trip. Do you have much information about Brazil?",
+          "portugues": "Oi Tom! Eu preciso de alguns conselhos sobre minha viagem. Você tem muita informação sobre o Brasil?",
+          "fonetica": "/haɪ tɑm aɪ nid sʌm ædˈvaɪs əˈbaʊt maɪ trɪp du ju hæv mʌtʃ ˌɪnfərˈmeɪʃən əˈbaʊt brəˈzɪl/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Tom",
+          "ingles": "Sure! I have many books about Brazil and lots of photos from my trips there. How much time do you have?",
+          "portugues": "Claro! Eu tenho muitos livros sobre o Brasil e muitas fotos das minhas viagens lá. Quanto tempo você tem?",
+          "fonetica": "/ʃʊr aɪ hæv ˈmɛni bʊks əˈbaʊt brəˈzɪl ænd lɑts ʌv ˈfoʊtoʊz frʌm maɪ trɪps ðɛr haʊ mʌtʃ taɪm du ju hæv/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Sarah",
+          "ingles": "I have a few minutes now. Can you give me a piece of advice about the best cities to visit?",
+          "portugues": "Eu tenho alguns minutos agora. Você pode me dar um conselho sobre as melhores cidades para visitar?",
+          "fonetica": "/aɪ hæv ə fju ˈmɪnəts naʊ kæn ju gɪv mi ə pis ʌv ædˈvaɪs əˈbaʊt ðə bɛst ˈsɪtiz tu ˈvɪzət/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Tom",
+          "ingles": "Of course! You need little money to enjoy Brazilian food, but you'll need much patience for the traffic in big cities.",
+          "portugues": "Claro! Você precisa de pouco dinheiro para curtir a comida brasileira, mas precisará de muita paciência para o trânsito nas grandes cidades.",
+          "fonetica": "/ʌv kɔrs ju nid ˈlɪtəl ˈmʌni tu ɪnˈdʒɔɪ brəˈzɪljən fud bʌt jul nid mʌtʃ ˈpeɪʃəns fɔr ðə ˈtræfɪk ɪn bɪg ˈsɪtiz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Sarah",
+          "ingles": "That's very useful! Do you have any suggestions for luggage? I don't want to carry many bags.",
+          "portugues": "Isso é muito útil! Você tem alguma sugestão para bagagem? Eu não quero carregar muitas bolsas.",
+          "fonetica": "/ðæts ˈvɛri ˈjusfəl du ju hæv ˈɛni səgˈdʒɛstʃənz fɔr ˈlʌgɪdʒ aɪ doʊnt wænt tu ˈkæri ˈmɛni bægz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Tom",
+          "ingles": "Take little luggage but bring lots of sunscreen! The weather there requires much protection from the sun.",
+          "portugues": "Leve pouca bagagem, mas traga muito protetor solar! O clima lá exige muita proteção do sol.",
+          "fonetica": "/teɪk ˈlɪtəl ˈlʌgɪdʒ bʌt brɪŋ lɑts ʌv ˈsʌnˌskrin ðə ˈwɛðər ðɛr rɪˈkwaɪərz mʌtʃ prəˈtɛkʃən frʌm ðə sʌn/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Countable and Uncountable in Context",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Yesterday, I went shopping for my new apartment. I needed much furniture but had little money. At the store, I found many beautiful chairs and tables, but the prices were high. The salesperson gave me some good advice: 'Buy a few essential pieces now and add more later.' I bought two chairs, one table, and some basic equipment for the kitchen. I also needed information about delivery, so I asked many questions. The staff was very helpful and provided lots of useful details. They said I needed little paperwork - just one piece of identification. I felt much happiness when I realized I had found everything I needed. Sometimes a few smart choices are better than many expensive ones!",
+        "texto_portugues": "Ontem, fui às compras para meu apartamento novo. Eu precisava de muita mobília, mas tinha pouco dinheiro. Na loja, encontrei muitas cadeiras e mesas bonitas, mas os preços eram altos. O vendedor me deu um bom conselho: 'Compre algumas peças essenciais agora e adicione mais depois.' Eu comprei duas cadeiras, uma mesa e alguns equipamentos básicos para a cozinha. Também precisava de informações sobre entrega, então fiz muitas perguntas. A equipe foi muito prestativa e forneceu muitos detalhes úteis. Eles disseram que eu precisava de pouca documentação - apenas uma peça de identificação. Senti muita felicidade quando percebi que havia encontrado tudo que precisava. Às vezes, algumas escolhas inteligentes são melhores que muitas caras!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_importantes",
+      "titulo": "Essential Tips for Countable and Uncountable Nouns",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Remember these key points: 1) Use 'many' with countable, 'much' with uncountable, 'a lot of' with both. 2) Common uncountables: advice, information, money, water, music, furniture. 3) Use containers or measures to count uncountables (a glass of water, a piece of advice). 4) Some nouns can be both depending on context (coffee/coffees, paper/papers). 5) When unsure, check if you can put a number directly before the noun - if yes, it's countable!",
+        "texto_portugues": "Lembre-se desses pontos-chave: 1) Use 'many' com contáveis, 'much' com incontáveis, 'a lot of' com ambos. 2) Incontáveis comuns: advice, information, money, water, music, furniture. 3) Use recipientes ou medidas para contar incontáveis (a glass of water, a piece of advice). 4) Alguns substantivos podem ser ambos dependendo do contexto (coffee/coffees, paper/papers). 5) Quando em dúvida, veja se pode colocar um número diretamente antes do substantivo - se sim, é contável!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice! Classify these nouns as countable or uncountable: book, water, advice, chair, money, information, student, music, car, bread. Then create sentences using the correct quantifiers: 'many' or 'much', 'few' or 'little'. Try describing your home, your studies, or your hobbies using both countable and uncountable nouns. Remember: this concept becomes natural with practice!",
+        "texto_portugues": "Agora pratique! Classifique esses substantivos como contáveis ou incontáveis: book, water, advice, chair, money, information, student, music, car, bread. Depois crie frases usando os quantificadores corretos: 'many' ou 'much', 'few' ou 'little'. Tente descrever sua casa, seus estudos, ou seus hobbies usando substantivos contáveis e incontáveis. Lembre-se: esse conceito se torna natural com a prática!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
