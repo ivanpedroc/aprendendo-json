@@ -1,0 +1,455 @@
+{
+  "titulo": "Preposições de Local",
+  "descricao": "Domine as preposições de lugar em inglês! Aprenda a expressar localização com precisão usando in, on, at, under, over e muito mais.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "Understanding Prepositions of Place",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Prepositions of place tell us WHERE something is located. They're essential for giving directions, describing positions, and talking about locations in everyday conversations. English has many prepositions of place, and some can be tricky because they don't always translate directly from Portuguese. Let's master the most important ones step by step!",
+        "texto_portugues": "Preposições de lugar nos dizem ONDE algo está localizado. Elas são essenciais para dar direções, descrever posições e falar sobre locais em conversas do dia a dia. O inglês tem muitas preposições de lugar, e algumas podem ser complicadas porque nem sempre traduzem diretamente do português. Vamos dominar as mais importantes passo a passo!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "preposicao_in",
+      "titulo": "IN - Inside or Within Boundaries",
+      "tipo": "vocabulario",
+      "descricao": "Usamos IN para dentro de algo ou dentro de limites",
+      "itens": [
+        {
+          "ingles": "The book is in the box.",
+          "portugues": "O livro está na caixa.",
+          "fonetica": "/ðə bʊk ɪz ɪn ðə bɑks/",
+          "tem_audio": true,
+          "contexto": "IN - inside a container or enclosed space"
+        },
+        {
+          "ingles": "I live in Brazil.",
+          "portugues": "Eu moro no Brasil.",
+          "fonetica": "/aɪ lɪv ɪn brəˈzɪl/",
+          "tem_audio": true,
+          "contexto": "IN - with countries, cities, states"
+        },
+        {
+          "ingles": "She's in the kitchen.",
+          "portugues": "Ela está na cozinha.",
+          "fonetica": "/ʃiz ɪn ðə ˈkɪtʃən/",
+          "tem_audio": true,
+          "contexto": "IN - inside rooms of a house"
+        },
+        {
+          "ingles": "The children are playing in the garden.",
+          "portugues": "As crianças estão brincando no jardim.",
+          "fonetica": "/ðə ˈtʃɪldrən ɑr ˈpleɪɪŋ ɪn ðə ˈgɑrdən/",
+          "tem_audio": true,
+          "contexto": "IN - within the boundaries of an outdoor area"
+        },
+        {
+          "ingles": "There are fish in the water.",
+          "portugues": "Há peixes na água.",
+          "fonetica": "/ðɛr ɑr fɪʃ ɪn ðə ˈwɔtər/",
+          "tem_audio": true,
+          "contexto": "IN - within a substance or liquid"
+        },
+        {
+          "ingles": "I found the answer in the book.",
+          "portugues": "Eu encontrei a resposta no livro.",
+          "fonetica": "/aɪ faʊnd ðə ˈænsər ɪn ðə bʊk/",
+          "tem_audio": true,
+          "contexto": "IN - within the content of something"
+        }
+      ]
+    },
+    {
+      "id": "preposicao_on",
+      "titulo": "ON - On Top of Surfaces",
+      "tipo": "vocabulario",
+      "descricao": "Usamos ON para superfícies e contato direto",
+      "itens": [
+        {
+          "ingles": "The cup is on the table.",
+          "portugues": "A xícara está na mesa.",
+          "fonetica": "/ðə kʌp ɪz ɑn ðə ˈteɪbəl/",
+          "tem_audio": true,
+          "contexto": "ON - on top of a surface, touching it"
+        },
+        {
+          "ingles": "The picture is on the wall.",
+          "portugues": "A foto está na parede.",
+          "fonetica": "/ðə ˈpɪktʃər ɪz ɑn ðə wɔl/",
+          "tem_audio": true,
+          "contexto": "ON - attached to a vertical surface"
+        },
+        {
+          "ingles": "I live on Oak Street.",
+          "portugues": "Eu moro na Rua Oak.",
+          "fonetica": "/aɪ lɪv ɑn oʊk strit/",
+          "tem_audio": true,
+          "contexto": "ON - with street names"
+        },
+        {
+          "ingles": "She's sitting on the chair.",
+          "portugues": "Ela está sentada na cadeira.",
+          "fonetica": "/ʃiz ˈsɪtɪŋ ɑn ðə tʃɛr/",
+          "tem_audio": true,
+          "contexto": "ON - on top of furniture for sitting"
+        },
+        {
+          "ingles": "The store is on the second floor.",
+          "portugues": "A loja está no segundo andar.",
+          "fonetica": "/ðə stɔr ɪz ɑn ðə ˈsɛkənd flɔr/",
+          "tem_audio": true,
+          "contexto": "ON - with floor levels"
+        },
+        {
+          "ingles": "I saw it on TV.",
+          "portugues": "Eu vi isso na TV.",
+          "fonetica": "/aɪ sɔ ɪt ɑn ˌtiˈvi/",
+          "tem_audio": true,
+          "contexto": "ON - with electronic media/screens"
+        }
+      ]
+    },
+    {
+      "id": "preposicao_at",
+      "titulo": "AT - Specific Points and Locations",
+      "tipo": "vocabulario",
+      "descricao": "Usamos AT para pontos específicos e locais exatos",
+      "itens": [
+        {
+          "ingles": "Meet me at the bus stop.",
+          "portugues": "Me encontre no ponto de ônibus.",
+          "fonetica": "/mit mi æt ðə bʌs stɑp/",
+          "tem_audio": true,
+          "contexto": "AT - specific point or location"
+        },
+        {
+          "ingles": "I'm at home.",
+          "portugues": "Eu estou em casa.",
+          "fonetica": "/aɪm æt hoʊm/",
+          "tem_audio": true,
+          "contexto": "AT - with 'home' (fixed expression)"
+        },
+        {
+          "ingles": "She's at work.",
+          "portugues": "Ela está no trabalho.",
+          "fonetica": "/ʃiz æt wɜrk/",
+          "tem_audio": true,
+          "contexto": "AT - with 'work' (activity location)"
+        },
+        {
+          "ingles": "The meeting is at 123 Main Street.",
+          "portugues": "A reunião é na Rua Principal, 123.",
+          "fonetica": "/ðə ˈmitɪŋ ɪz æt wʌn ˈtwɛnti θri meɪn strit/",
+          "tem_audio": true,
+          "contexto": "AT - with specific addresses"
+        },
+        {
+          "ingles": "I'll see you at the airport.",
+          "portugues": "Te vejo no aeroporto.",
+          "fonetica": "/aɪl si ju æt ðə ˈɛrˌpɔrt/",
+          "tem_audio": true,
+          "contexto": "AT - with specific public places"
+        },
+        {
+          "ingles": "Turn left at the corner.",
+          "portugues": "Vire à esquerda na esquina.",
+          "fonetica": "/tɜrn lɛft æt ðə ˈkɔrnər/",
+          "tem_audio": true,
+          "contexto": "AT - with specific reference points"
+        }
+      ]
+    },
+    {
+      "id": "comparacao_in_on_at",
+      "titulo": "IN vs ON vs AT - Key Differences",
+      "tipo": "vocabulario",
+      "descricao": "Comparação direta entre as três principais preposições",
+      "itens": [
+        {
+          "ingles": "IN the city / ON the street / AT the address",
+          "portugues": "NA cidade / NA rua / NO endereço",
+          "fonetica": "/ɪn ðə ˈsɪti / ɑn ðə strit / æt ði əˈdrɛs/",
+          "tem_audio": true,
+          "contexto": "Size progression: IN (large area) → ON (medium) → AT (specific point)"
+        },
+        {
+          "ingles": "IN the car / ON the bus / AT the bus stop",
+          "portugues": "NO carro / NO ônibus / NO ponto de ônibus",
+          "fonetica": "/ɪn ðə kɑr / ɑn ðə bʌs / æt ðə bʌs stɑp/",
+          "tem_audio": true,
+          "contexto": "IN (enclosed vehicle) / ON (public transport) / AT (specific location)"
+        },
+        {
+          "ingles": "IN bed / ON the bed / AT the bedside",
+          "portugues": "NA cama (dormindo) / EM CIMA da cama / AO LADO da cama",
+          "fonetica": "/ɪn bɛd / ɑn ðə bɛd / æt ðə ˈbɛdˌsaɪd/",
+          "tem_audio": true,
+          "contexto": "Different meanings: IN (sleeping) / ON (sitting on top) / AT (nearby)"
+        }
+      ]
+    },
+    {
+      "id": "preposicoes_movimento",
+      "titulo": "Movement and Direction Prepositions",
+      "tipo": "vocabulario",
+      "descricao": "Preposições que indicam movimento e direção",
+      "itens": [
+        {
+          "ingles": "The cat is under the table.",
+          "portugues": "O gato está embaixo da mesa.",
+          "fonetica": "/ðə kæt ɪz ˈʌndər ðə ˈteɪbəl/",
+          "tem_audio": true,
+          "contexto": "UNDER - below something, with something above"
+        },
+        {
+          "ingles": "The lamp is over the desk.",
+          "portugues": "A luminária está sobre a escrivaninha.",
+          "fonetica": "/ðə læmp ɪz ˈoʊvər ðə dɛsk/",
+          "tem_audio": true,
+          "contexto": "OVER - above something, not touching"
+        },
+        {
+          "ingles": "The store is between the bank and the post office.",
+          "portugues": "A loja está entre o banco e os correios.",
+          "fonetica": "/ðə stɔr ɪz bəˈtwin ðə bæŋk ænd ðə poʊst ˈɔfəs/",
+          "tem_audio": true,
+          "contexto": "BETWEEN - in the middle of two things"
+        },
+        {
+          "ingles": "The park is behind the school.",
+          "portugues": "O parque está atrás da escola.",
+          "fonetica": "/ðə pɑrk ɪz bəˈhaɪnd ðə skul/",
+          "tem_audio": true,
+          "contexto": "BEHIND - at the back of something"
+        },
+        {
+          "ingles": "The car is in front of the house.",
+          "portugues": "O carro está na frente da casa.",
+          "fonetica": "/ðə kɑr ɪz ɪn frʌnt ʌv ðə haʊs/",
+          "tem_audio": true,
+          "contexto": "IN FRONT OF - at the front of something"
+        },
+        {
+          "ingles": "The pharmacy is next to the supermarket.",
+          "portugues": "A farmácia está ao lado do supermercado.",
+          "fonetica": "/ðə ˈfɑrməsi ɪz nɛkst tu ðə ˈsupərˌmɑrkət/",
+          "tem_audio": true,
+          "contexto": "NEXT TO - very close to, beside"
+        }
+      ]
+    },
+    {
+      "id": "preposicoes_especificas",
+      "titulo": "Specific Location Prepositions",
+      "tipo": "vocabulario",
+      "descricao": "Preposições mais específicas para localização",
+      "itens": [
+        {
+          "ingles": "The keys are inside the drawer.",
+          "portugues": "As chaves estão dentro da gaveta.",
+          "fonetica": "/ðə kiz ɑr ɪnˈsaɪd ðə drɔr/",
+          "tem_audio": true,
+          "contexto": "INSIDE - emphasizes being within something enclosed"
+        },
+        {
+          "ingles": "Let's meet outside the cinema.",
+          "portugues": "Vamos nos encontrar do lado de fora do cinema.",
+          "fonetica": "/lɛts mit ˌaʊtˈsaɪd ðə ˈsɪnəmə/",
+          "tem_audio": true,
+          "contexto": "OUTSIDE - not inside, in the exterior"
+        },
+        {
+          "ingles": "The coffee shop is across from the bank.",
+          "portugues": "A cafeteria fica em frente ao banco.",
+          "fonetica": "/ðə ˈkɔfi ʃɑp ɪz əˈkrɔs frʌm ðə bæŋk/",
+          "tem_audio": true,
+          "contexto": "ACROSS FROM - on the opposite side"
+        },
+        {
+          "ingles": "Walk along the river.",
+          "portugues": "Caminhe ao longo do rio.",
+          "fonetica": "/wɔk əˈlɔŋ ðə ˈrɪvər/",
+          "tem_audio": true,
+          "contexto": "ALONG - following the length of something"
+        },
+        {
+          "ingles": "The bird is above the clouds.",
+          "portugues": "O pássaro está acima das nuvens.",
+          "fonetica": "/ðə bɜrd ɪz əˈbʌv ðə klaʊdz/",
+          "tem_audio": true,
+          "contexto": "ABOVE - higher than, not necessarily directly over"
+        },
+        {
+          "ingles": "The temperature is below zero.",
+          "portugues": "A temperatura está abaixo de zero.",
+          "fonetica": "/ðə ˈtɛmpərətʃər ɪz bəˈloʊ ˈzɪroʊ/",
+          "tem_audio": true,
+          "contexto": "BELOW - lower than, not necessarily directly under"
+        }
+      ]
+    },
+    {
+      "id": "expressoes_fixas",
+      "titulo": "Fixed Expressions with Prepositions",
+      "tipo": "vocabulario",
+      "descricao": "Expressões fixas que devemos memorizar",
+      "itens": [
+        {
+          "ingles": "at home / at work / at school / at university",
+          "portugues": "em casa / no trabalho / na escola / na universidade",
+          "fonetica": "/æt hoʊm / æt wɜrk / æt skul / æt ˌjunəˈvɜrsəti/",
+          "tem_audio": true,
+          "contexto": "AT - with these common activity locations"
+        },
+        {
+          "ingles": "in the morning / in the afternoon / in the evening",
+          "portugues": "de manhã / à tarde / à noite",
+          "fonetica": "/ɪn ðə ˈmɔrnɪŋ / ɪn ði ˈæftərˌnun / ɪn ði ˈivnɪŋ/",
+          "tem_audio": true,
+          "contexto": "IN - with parts of the day (except 'at night')"
+        },
+        {
+          "ingles": "on the left / on the right / on the corner",
+          "portugues": "à esquerda / à direita / na esquina",
+          "fonetica": "/ɑn ðə lɛft / ɑn ðə raɪt / ɑn ðə ˈkɔrnər/",
+          "tem_audio": true,
+          "contexto": "ON - with directions and corner positions"
+        },
+        {
+          "ingles": "at the top / at the bottom / at the end",
+          "portugues": "no topo / no fundo / no final",
+          "fonetica": "/æt ðə tɑp / æt ðə ˈbɑtəm / æt ði ɛnd/",
+          "tem_audio": true,
+          "contexto": "AT - with extremes and endpoints"
+        }
+      ]
+    },
+    {
+      "id": "erros_comuns",
+      "titulo": "Common Mistakes with Place Prepositions",
+      "tipo": "vocabulario",
+      "descricao": "Erros comuns que brasileiros fazem",
+      "itens": [
+        {
+          "ingles": "✓ I live in Brazil / ✗ I live at Brazil",
+          "portugues": "✓ Eu moro no Brasil / ✗ Incorreto",
+          "fonetica": "/aɪ lɪv ɪn brəˈzɪl/",
+          "tem_audio": true,
+          "contexto": "Use IN with countries and cities, not AT"
+        },
+        {
+          "ingles": "✓ I'm at home / ✗ I'm in home",
+          "portugues": "✓ Eu estou em casa / ✗ Incorreto",
+          "fonetica": "/aɪm æt hoʊm/",
+          "tem_audio": true,
+          "contexto": "'At home' is a fixed expression - never 'in home'"
+        },
+        {
+          "ingles": "✓ On the bus / ✗ In the bus",
+          "portugues": "✓ No ônibus / ✗ Incorreto (geralmente)",
+          "fonetica": "/ɑn ðə bʌs/",
+          "tem_audio": true,
+          "contexto": "Use ON with public transportation (bus, train, plane)"
+        },
+        {
+          "ingles": "✓ In the car / ✗ On the car",
+          "portugues": "✓ No carro / ✗ Incorreto",
+          "fonetica": "/ɪn ðə kɑr/",
+          "tem_audio": true,
+          "contexto": "Use IN with private vehicles (car, taxi)"
+        },
+        {
+          "ingles": "✓ At the corner / ✗ In the corner (outside)",
+          "portugues": "✓ Na esquina (rua) / ✗ Incorreto para rua",
+          "fonetica": "/æt ðə ˈkɔrnər/",
+          "tem_audio": true,
+          "contexto": "AT the corner (street corner), IN the corner (room corner)"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue - Giving Directions",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando preposições de lugar",
+      "participantes": ["Tourist", "Local"],
+      "conversas": [
+        {
+          "falante": "Tourist",
+          "ingles": "Excuse me, I'm looking for the Central Library. Can you help me?",
+          "portugues": "Com licença, estou procurando a Biblioteca Central. Você pode me ajudar?",
+          "fonetica": "/ɪkˈskjus mi aɪm ˈlʊkɪŋ fɔr ðə ˈsɛntrəl ˈlaɪˌbrɛri kæn ju hɛlp mi/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Local",
+          "ingles": "Of course! The library is on Main Street, between the post office and the bank. It's in a big red building.",
+          "portugues": "Claro! A biblioteca fica na Rua Principal, entre os correios e o banco. Fica num grande prédio vermelho.",
+          "fonetica": "/ʌv kɔrs ðə ˈlaɪˌbrɛri ɪz ɑn meɪn strit bəˈtwin ðə poʊst ˈɔfəs ænd ðə bæŋk ɪts ɪn ə bɪg rɛd ˈbɪldɪŋ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Tourist",
+          "ingles": "How do I get there from here? I'm at the bus station right now.",
+          "portugues": "Como chego lá daqui? Estou na rodoviária agora.",
+          "fonetica": "/haʊ du aɪ gɛt ðɛr frʌm hɪr aɪm æt ðə bʌs ˈsteɪʃən raɪt naʊ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Local",
+          "ingles": "Walk straight along this street for about 5 minutes. You'll see a park on your left. The library is across from the park.",
+          "portugues": "Caminhe reto por esta rua por cerca de 5 minutos. Você verá um parque à sua esquerda. A biblioteca fica em frente ao parque.",
+          "fonetica": "/wɔk streɪt əˈlɔŋ ðɪs strit fɔr əˈbaʊt faɪv ˈmɪnəts jul si ə pɑrk ɑn jʊr lɛft ðə ˈlaɪˌbrɛri ɪz əˈkrɔs frʌm ðə pɑrk/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Tourist",
+          "ingles": "Perfect! And is there a café near the library? I'd like to have coffee after reading.",
+          "portugues": "Perfeito! E há uma cafeteria perto da biblioteca? Eu gostaria de tomar café depois de ler.",
+          "fonetica": "/ˈpɜrfɪkt ænd ɪz ðɛr ə kæˈfeɪ nɪr ðə ˈlaɪˌbrɛri aɪd laɪk tu hæv ˈkɔfi ˈæftər ˈridɪŋ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Local",
+          "ingles": "Yes! There's a nice café inside the library on the second floor. But if you prefer, there's also one next to the bank, just outside.",
+          "portugues": "Sim! Há uma cafeteria legal dentro da biblioteca no segundo andar. Mas se preferir, há uma também ao lado do banco, do lado de fora.",
+          "fonetica": "/jɛs ðɛrz ə naɪs kæˈfeɪ ɪnˈsaɪd ðə ˈlaɪˌbrɛri ɑn ðə ˈsɛkənd flɔr bʌt ɪf ju prəˈfɜr ðɛrz ˈɔlsoʊ wʌn nɛkst tu ðə bæŋk dʒʌst ˌaʊtˈsaɪd/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Describing a Neighborhood",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "I love living in my neighborhood! My house is on Maple Street, between a small park and a grocery store. Behind my house, there's a beautiful garden where I grow flowers and vegetables. In front of the house, there are two big trees that provide shade in the summer. The local school is at the end of our street, next to the community center. On the corner, there's a bus stop where children wait for the school bus every morning. Across from the school, you can find the public library inside a historic building. The library has a café on the ground floor and reading rooms on the upper floors. Along the main street, there are several shops: a bakery, a pharmacy, and a small restaurant. Above the restaurant, there are apartments where some of my neighbors live. Under the big oak tree in the park, there's a bench where elderly people sit and watch children play. I feel lucky to live in such a friendly and convenient place!",
+        "texto_portugues": "Eu amo morar no meu bairro! Minha casa fica na Rua Maple, entre um pequeno parque e um mercado. Atrás da minha casa, há um jardim bonito onde eu cultivo flores e vegetais. Na frente da casa, há duas árvores grandes que oferecem sombra no verão. A escola local fica no final da nossa rua, ao lado do centro comunitário. Na esquina, há um ponto de ônibus onde as crianças esperam o ônibus escolar toda manhã. Em frente à escola, você pode encontrar a biblioteca pública dentro de um prédio histórico. A biblioteca tem uma cafeteria no térreo e salas de leitura nos andares superiores. Ao longo da rua principal, há várias lojas: uma padaria, uma farmácia e um pequeno restaurante. Acima do restaurante, há apartamentos onde alguns dos meus vizinhos moram. Embaixo do grande carvalho no parque, há um banco onde pessoas idosas sentam e assistem crianças brincarem. Me sinto sortudo por morar num lugar tão amigável e conveniente!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_importantes",
+      "titulo": "Essential Tips for Place Prepositions",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Remember these key guidelines: 1) IN for enclosed spaces, countries, cities (in the box, in Brazil, in São Paulo). 2) ON for surfaces, streets, floors (on the table, on Oak Street, on the 3rd floor). 3) AT for specific points, addresses, activities (at the corner, at 123 Main St, at school). 4) Learn fixed expressions: 'at home', 'at work', 'on the bus', 'in the car'. 5) Think about size: IN (large areas) → ON (medium surfaces) → AT (specific points). 6) Some prepositions don't translate directly from Portuguese - practice with real examples!",
+        "texto_portugues": "Lembre-se dessas diretrizes essenciais: 1) IN para espaços fechados, países, cidades (in the box, in Brazil, in São Paulo). 2) ON para superfícies, ruas, andares (on the table, on Oak Street, on the 3rd floor). 3) AT para pontos específicos, endereços, atividades (at the corner, at 123 Main St, at school). 4) Aprenda expressões fixas: 'at home', 'at work', 'on the bus', 'in the car'. 5) Pense em tamanho: IN (áreas grandes) → ON (superfícies médias) → AT (pontos específicos). 6) Algumas preposições não traduzem diretamente do português - pratique com exemplos reais!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice! Look around your current location and describe where things are using prepositions: What's on your desk? What's in your bag? What's next to your house? Try giving directions from your home to a nearby store using as many place prepositions as possible. Create sentences with: in/on/at, under/over, behind/in front of, between/next to, inside/outside, above/below. Remember: the more you use prepositions in real contexts, the more natural they'll become!",
+        "texto_portugues": "Agora pratique! Olhe ao redor do seu local atual e descreva onde as coisas estão usando preposições: O que está na sua mesa? O que está na sua bolsa? O que está ao lado da sua casa? Tente dar direções da sua casa para uma loja próxima usando o máximo de preposições de lugar possível. Crie frases com: in/on/at, under/over, behind/in front of, between/next to, inside/outside, above/below. Lembre-se: quanto mais você usar preposições em contextos reais, mais naturais elas se tornarão!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
