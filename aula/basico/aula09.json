@@ -1,0 +1,457 @@
+{
+  "titulo": "Pronomes (Pessoais, Possessivos)",
+  "descricao": "Domine os pronomes em inglês! Aprenda pronomes pessoais (subject/object) e possessivos (determiners/pronouns) com exemplos práticos.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "Understanding Pronouns in English",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Pronouns are words that replace nouns to avoid repetition and make our speech more natural. In English, we have different types of pronouns that serve different functions. Today we'll focus on personal pronouns (subject and object) and possessive pronouns (determiners and pronouns). These are essential for everyday communication!",
+        "texto_portugues": "Pronomes são palavras que substituem substantivos para evitar repetição e tornar nossa fala mais natural. Em inglês, temos diferentes tipos de pronomes que servem diferentes funções. Hoje vamos focar nos pronomes pessoais (sujeito e objeto) e pronomes possessivos (determinantes e pronomes). Estes são essenciais para comunicação diária!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pronomes_pessoais_sujeito",
+      "titulo": "Personal Pronouns - Subject (Nominative)",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Subject pronouns replace the subject of a sentence - the person or thing doing the action. They come before the verb and answer 'who?' or 'what?' is performing the action. In English, these pronouns are: I, you, he, she, it, we, they. Notice that 'you' is the same for singular and plural!",
+        "texto_portugues": "Pronomes sujeito substituem o sujeito de uma frase - a pessoa ou coisa fazendo a ação. Eles vêm antes do verbo e respondem 'quem?' ou 'o que?' está realizando a ação. Em inglês, esses pronomes são: I, you, he, she, it, we, they. Note que 'you' é igual para singular e plural!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "exemplos_sujeito",
+      "titulo": "Subject Pronouns in Action",
+      "tipo": "vocabulario",
+      "descricao": "Exemplos práticos de pronomes sujeito",
+      "itens": [
+        {
+          "ingles": "I am a student. I study English every day.",
+          "portugues": "Eu sou um estudante. Eu estudo inglês todo dia.",
+          "fonetica": "/aɪ æm ə ˈstudənt aɪ ˈstʌdi ˈɪŋglɪʃ ˈɛvri deɪ/",
+          "tem_audio": true,
+          "contexto": "I - first person singular, always capitalized"
+        },
+        {
+          "ingles": "You are my friend. You help me a lot.",
+          "portugues": "Você é meu amigo. Você me ajuda muito.",
+          "fonetica": "/ju ɑr maɪ frɛnd ju hɛlp mi ə lɑt/",
+          "tem_audio": true,
+          "contexto": "YOU - second person, same for singular and plural"
+        },
+        {
+          "ingles": "He is a doctor. He works at the hospital.",
+          "portugues": "Ele é médico. Ele trabalha no hospital.",
+          "fonetica": "/hi ɪz ə ˈdɑktər hi wɜrks æt ðə ˈhɑspɪtəl/",
+          "tem_audio": true,
+          "contexto": "HE - third person masculine singular"
+        },
+        {
+          "ingles": "She is my sister. She lives in New York.",
+          "portugues": "Ela é minha irmã. Ela mora em Nova York.",
+          "fonetica": "/ʃi ɪz maɪ ˈsɪstər ʃi lɪvz ɪn nu jɔrk/",
+          "tem_audio": true,
+          "contexto": "SHE - third person feminine singular"
+        },
+        {
+          "ingles": "It is a beautiful day. It makes me happy.",
+          "portugues": "É um dia bonito. Isso me deixa feliz.",
+          "fonetica": "/ɪt ɪz ə ˈbjutəfəl deɪ ɪt meɪks mi ˈhæpi/",
+          "tem_audio": true,
+          "contexto": "IT - third person neuter (things, animals, weather, situations)"
+        },
+        {
+          "ingles": "We are classmates. We study together.",
+          "portugues": "Nós somos colegas de classe. Nós estudamos juntos.",
+          "fonetica": "/wi ɑr ˈklæsˌmeɪts wi ˈstʌdi təˈgɛðər/",
+          "tem_audio": true,
+          "contexto": "WE - first person plural (speaker + others)"
+        },
+        {
+          "ingles": "They are my parents. They love me very much.",
+          "portugues": "Eles são meus pais. Eles me amam muito.",
+          "fonetica": "/ðeɪ ɑr maɪ ˈpɛrənts ðeɪ lʌv mi ˈvɛri mʌtʃ/",
+          "tem_audio": true,
+          "contexto": "THEY - third person plural (other people, not including speaker)"
+        }
+      ]
+    },
+    {
+      "id": "pronomes_objeto",
+      "titulo": "Personal Pronouns - Object (Accusative)",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Object pronouns receive the action of the verb or come after prepositions. They answer 'who?' or 'what?' receives the action. The object pronouns are: me, you, him, her, it, us, them. Notice that 'you' and 'it' are the same as subject pronouns, but the others change completely!",
+        "texto_portugues": "Pronomes objeto recebem a ação do verbo ou vêm depois de preposições. Eles respondem 'quem?' ou 'o que?' recebe a ação. Os pronomes objeto são: me, you, him, her, it, us, them. Note que 'you' e 'it' são iguais aos pronomes sujeito, mas os outros mudam completamente!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "exemplos_objeto",
+      "titulo": "Object Pronouns in Action",
+      "tipo": "vocabulario",
+      "descricao": "Exemplos práticos de pronomes objeto",
+      "itens": [
+        {
+          "ingles": "Call me tonight. This gift is for me.",
+          "portugues": "Me ligue hoje à noite. Este presente é para mim.",
+          "fonetica": "/kɔl mi təˈnaɪt ðɪs gɪft ɪz fɔr mi/",
+          "tem_audio": true,
+          "contexto": "ME - object form of 'I', used after verbs and prepositions"
+        },
+        {
+          "ingles": "I see you. I'm talking to you.",
+          "portugues": "Eu vejo você. Eu estou falando com você.",
+          "fonetica": "/aɪ si ju aɪm ˈtɔkɪŋ tu ju/",
+          "tem_audio": true,
+          "contexto": "YOU - same form as subject pronoun"
+        },
+        {
+          "ingles": "I know him well. The book belongs to him.",
+          "portugues": "Eu o conheço bem. O livro pertence a ele.",
+          "fonetica": "/aɪ noʊ hɪm wɛl ðə bʊk bəˈlɔŋz tu hɪm/",
+          "tem_audio": true,
+          "contexto": "HIM - object form of 'he'"
+        },
+        {
+          "ingles": "I like her. This letter is for her.",
+          "portugues": "Eu gosto dela. Esta carta é para ela.",
+          "fonetica": "/aɪ laɪk hər ðɪs ˈlɛtər ɪz fɔr hər/",
+          "tem_audio": true,
+          "contexto": "HER - object form of 'she'"
+        },
+        {
+          "ingles": "I bought it yesterday. We talked about it.",
+          "portugues": "Eu comprei isso ontem. Nós falamos sobre isso.",
+          "fonetica": "/aɪ bɔt ɪt ˈjɛstərdeɪ wi tɔkt əˈbaʊt ɪt/",
+          "tem_audio": true,
+          "contexto": "IT - same form as subject pronoun"
+        },
+        {
+          "ingles": "Help us, please. Come with us.",
+          "portugues": "Nos ajude, por favor. Venha conosco.",
+          "fonetica": "/hɛlp ʌs pliz kʌm wɪð ʌs/",
+          "tem_audio": true,
+          "contexto": "US - object form of 'we'"
+        },
+        {
+          "ingles": "I miss them. This party is for them.",
+          "portugues": "Eu sinto falta deles. Esta festa é para eles.",
+          "fonetica": "/aɪ mɪs ðɛm ðɪs ˈpɑrti ɪz fɔr ðɛm/",
+          "tem_audio": true,
+          "contexto": "THEM - object form of 'they'"
+        }
+      ]
+    },
+    {
+      "id": "comparacao_sujeito_objeto",
+      "titulo": "Subject vs Object - Side by Side",
+      "tipo": "vocabulario",
+      "descricao": "Comparação direta entre pronomes sujeito e objeto",
+      "itens": [
+        {
+          "ingles": "I help you. / You help me.",
+          "portugues": "Eu ajudo você. / Você me ajuda.",
+          "fonetica": "/aɪ hɛlp ju / ju hɛlp mi/",
+          "tem_audio": true,
+          "contexto": "I (subject) becomes ME (object)"
+        },
+        {
+          "ingles": "He sees her. / She sees him.",
+          "portugues": "Ele vê ela. / Ela vê ele.",
+          "fonetica": "/hi siz hər / ʃi siz hɪm/",
+          "tem_audio": true,
+          "contexto": "HE (subject) becomes HIM (object), SHE becomes HER"
+        },
+        {
+          "ingles": "We know them. / They know us.",
+          "portugues": "Nós os conhecemos. / Eles nos conhecem.",
+          "fonetica": "/wi noʊ ðɛm / ðeɪ noʊ ʌs/",
+          "tem_audio": true,
+          "contexto": "WE (subject) becomes US (object), THEY becomes THEM"
+        },
+        {
+          "ingles": "You call me. / I call you.",
+          "portugues": "Você me liga. / Eu ligo para você.",
+          "fonetica": "/ju kɔl mi / aɪ kɔl ju/",
+          "tem_audio": true,
+          "contexto": "YOU stays the same in both positions"
+        }
+      ]
+    },
+    {
+      "id": "possessivos_determiners",
+      "titulo": "Possessive Determiners (Adjectives)",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Possessive determiners (also called possessive adjectives) come before nouns to show ownership or relationship. They are: my, your, his, her, its, our, their. These never change form - they're the same whether the following noun is singular or plural. They always come before a noun, never alone!",
+        "texto_portugues": "Determinantes possessivos (também chamados adjetivos possessivos) vêm antes de substantivos para mostrar posse ou relacionamento. Eles são: my, your, his, her, its, our, their. Estes nunca mudam de forma - são iguais se o substantivo seguinte é singular ou plural. Eles sempre vêm antes de um substantivo, nunca sozinhos!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "exemplos_possessive_determiners",
+      "titulo": "Possessive Determiners in Use",
+      "tipo": "vocabulario",
+      "descricao": "Exemplos de determinantes possessivos",
+      "itens": [
+        {
+          "ingles": "My book is on the table. My books are heavy.",
+          "portugues": "Meu livro está na mesa. Meus livros são pesados.",
+          "fonetica": "/maɪ bʊk ɪz ɑn ðə ˈteɪbəl maɪ bʊks ɑr ˈhɛvi/",
+          "tem_audio": true,
+          "contexto": "MY - same form for singular and plural nouns"
+        },
+        {
+          "ingles": "Your car is beautiful. Your friends are nice.",
+          "portugues": "Seu carro é bonito. Seus amigos são legais.",
+          "fonetica": "/jʊr kɑr ɪz ˈbjutəfəl jʊr frɛndz ɑr naɪs/",
+          "tem_audio": true,
+          "contexto": "YOUR - same form for singular, plural, and both you (singular/plural)"
+        },
+        {
+          "ingles": "His house is big. His children are smart.",
+          "portugues": "A casa dele é grande. Os filhos dele são inteligentes.",
+          "fonetica": "/hɪz haʊs ɪz bɪg hɪz ˈtʃɪldrən ɑr smɑrt/",
+          "tem_audio": true,
+          "contexto": "HIS - possessive form of 'he', same for singular and plural"
+        },
+        {
+          "ingles": "Her dog is cute. Her eyes are beautiful.",
+          "portugues": "O cachorro dela é fofo. Os olhos dela são bonitos.",
+          "fonetica": "/hər dɔg ɪz kjut hər aɪz ɑr ˈbjutəfəl/",
+          "tem_audio": true,
+          "contexto": "HER - possessive form of 'she'"
+        },
+        {
+          "ingles": "Its color is red. Its wheels are new.",
+          "portugues": "A cor dele/disso é vermelha. As rodas dele/disso são novas.",
+          "fonetica": "/ɪts ˈkʌlər ɪz rɛd ɪts wilz ɑr nu/",
+          "tem_audio": true,
+          "contexto": "ITS - possessive form of 'it' (NO APOSTROPHE!)"
+        },
+        {
+          "ingles": "Our teacher is kind. Our lessons are interesting.",
+          "portugues": "Nossa professora é gentil. Nossas aulas são interessantes.",
+          "fonetica": "/aʊr ˈtitʃər ɪz kaɪnd aʊr ˈlɛsənz ɑr ˈɪntrəstɪŋ/",
+          "tem_audio": true,
+          "contexto": "OUR - possessive form of 'we'"
+        },
+        {
+          "ingles": "Their home is cozy. Their parents are doctors.",
+          "portugues": "A casa deles é aconchegante. Os pais deles são médicos.",
+          "fonetica": "/ðɛr hoʊm ɪz ˈkoʊzi ðɛr ˈpɛrənts ɑr ˈdɑktərz/",
+          "tem_audio": true,
+          "contexto": "THEIR - possessive form of 'they'"
+        }
+      ]
+    },
+    {
+      "id": "possessive_pronouns",
+      "titulo": "Possessive Pronouns - Standing Alone",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Possessive pronouns stand alone - they replace both the possessive determiner and the noun. They are: mine, yours, his, hers, its, ours, theirs. We use them to avoid repetition when the noun is already understood from context. Note: 'its' as a possessive pronoun is rarely used in modern English.",
+        "texto_portugues": "Pronomes possessivos ficam sozinhos - eles substituem tanto o determinante possessivo quanto o substantivo. Eles são: mine, yours, his, hers, its, ours, theirs. Nós os usamos para evitar repetição quando o substantivo já é entendido pelo contexto. Nota: 'its' como pronome possessivo é raramente usado no inglês moderno.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "exemplos_possessive_pronouns",
+      "titulo": "Possessive Pronouns in Action",
+      "tipo": "vocabulario",
+      "descricao": "Exemplos de pronomes possessivos independentes",
+      "itens": [
+        {
+          "ingles": "This book is mine. That one is yours.",
+          "portugues": "Este livro é meu. Aquele é seu.",
+          "fonetica": "/ðɪs bʊk ɪz maɪn ðæt wʌn ɪz jʊrz/",
+          "tem_audio": true,
+          "contexto": "MINE (= my book), YOURS (= your book)"
+        },
+        {
+          "ingles": "My car is red. His is blue.",
+          "portugues": "Meu carro é vermelho. O dele é azul.",
+          "fonetica": "/maɪ kɑr ɪz rɛd hɪz ɪz blu/",
+          "tem_audio": true,
+          "contexto": "HIS (= his car) - same form as determiner"
+        },
+        {
+          "ingles": "Her house is big. Ours is small.",
+          "portugues": "A casa dela é grande. A nossa é pequena.",
+          "fonetica": "/hər haʊs ɪz bɪg aʊrz ɪz smɔl/",
+          "tem_audio": true,
+          "contexto": "OURS (= our house)"
+        },
+        {
+          "ingles": "My children are young. Hers are teenagers.",
+          "portugues": "Meus filhos são novos. Os dela são adolescentes.",
+          "fonetica": "/maɪ ˈtʃɪldrən ɑr jʌŋ hərz ɑr ˈtinˌeɪdʒərz/",
+          "tem_audio": true,
+          "contexto": "HERS (= her children)"
+        },
+        {
+          "ingles": "Our team won. Theirs lost.",
+          "portugues": "Nossa equipe ganhou. A deles perdeu.",
+          "fonetica": "/aʊr tim wʌn ðɛrz lɔst/",
+          "tem_audio": true,
+          "contexto": "THEIRS (= their team)"
+        },
+        {
+          "ingles": "Is this pen yours or mine?",
+          "portugues": "Esta caneta é sua ou minha?",
+          "fonetica": "/ɪz ðɪs pɛn jʊrz ɔr maɪn/",
+          "tem_audio": true,
+          "contexto": "Questions with possessive pronouns"
+        }
+      ]
+    },
+    {
+      "id": "diferenca_its_its",
+      "titulo": "Important: ITS vs IT'S",
+      "tipo": "vocabulario",
+      "descricao": "Diferença crucial entre possessivo e contração",
+      "itens": [
+        {
+          "ingles": "The dog wagged its tail. (possessive)",
+          "portugues": "O cachorro balançou a cauda dele. (possessivo)",
+          "fonetica": "/ðə dɔg wægd ɪts teɪl/",
+          "tem_audio": true,
+          "contexto": "ITS (no apostrophe) = possessive determiner"
+        },
+        {
+          "ingles": "It's a beautiful day. (contraction)",
+          "portugues": "É um dia bonito. (contração)",
+          "fonetica": "/ɪts ə ˈbjutəfəl deɪ/",
+          "tem_audio": true,
+          "contexto": "IT'S (with apostrophe) = it is / it has"
+        },
+        {
+          "ingles": "The car lost its shine. It's very old.",
+          "portugues": "O carro perdeu o brilho dele. Ele é muito velho.",
+          "fonetica": "/ðə kɑr lɔst ɪts ʃaɪn ɪts ˈvɛri oʊld/",
+          "tem_audio": true,
+          "contexto": "First ITS = possessive, second IT'S = it is"
+        }
+      ]
+    },
+    {
+      "id": "tabela_resumo",
+      "titulo": "Complete Pronoun Chart",
+      "tipo": "vocabulario",
+      "descricao": "Tabela completa com todos os pronomes",
+      "itens": [
+        {
+          "ingles": "I / me / my / mine",
+          "portugues": "eu / me, mim / meu, minha / meu, minha",
+          "fonetica": "/aɪ / mi / maɪ / maɪn/",
+          "tem_audio": true,
+          "contexto": "First person singular: subject/object/determiner/pronoun"
+        },
+        {
+          "ingles": "you / you / your / yours",
+          "portugues": "você / você, te, lhe / seu, sua / seu, sua",
+          "fonetica": "/ju / ju / jʊr / jʊrz/",
+          "tem_audio": true,
+          "contexto": "Second person: subject/object/determiner/pronoun"
+        },
+        {
+          "ingles": "he / him / his / his",
+          "portugues": "ele / ele, o, lhe / dele / dele",
+          "fonetica": "/hi / hɪm / hɪz / hɪz/",
+          "tem_audio": true,
+          "contexto": "Third person masculine: HIS is the same for determiner and pronoun"
+        },
+        {
+          "ingles": "she / her / her / hers",
+          "portugues": "ela / ela, a, lhe / dela / dela",
+          "fonetica": "/ʃi / hər / hər / hərz/",
+          "tem_audio": true,
+          "contexto": "Third person feminine: HER (determiner) vs HERS (pronoun)"
+        },
+        {
+          "ingles": "it / it / its / its*",
+          "portugues": "ele, ela, isso / ele, ela, isso / dele, dela, disso / dele, dela, disso",
+          "fonetica": "/ɪt / ɪt / ɪts / ɪts/",
+          "tem_audio": true,
+          "contexto": "Third person neuter: *ITS as pronoun is rarely used"
+        },
+        {
+          "ingles": "we / us / our / ours",
+          "portugues": "nós / nos, conosco / nosso, nossa / nosso, nossa",
+          "fonetica": "/wi / ʌs / aʊr / aʊrz/",
+          "tem_audio": true,
+          "contexto": "First person plural: subject/object/determiner/pronoun"
+        },
+        {
+          "ingles": "they / them / their / theirs",
+          "portugues": "eles, elas / eles, elas, os, as, lhes / deles, delas / deles, delas",
+          "fonetica": "/ðeɪ / ðɛm / ðɛr / ðɛrz/",
+          "tem_audio": true,
+          "contexto": "Third person plural: subject/object/determiner/pronoun"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue - Using All Pronouns",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando todos os tipos de pronomes",
+      "participantes": ["Lisa", "Mark"],
+      "conversas": [
+        {
+          "falante": "Lisa",
+          "ingles": "Hi Mark! Is this your backpack? I found it near my locker.",
+          "portugues": "Oi Mark! Esta é sua mochila? Eu a encontrei perto do meu armário.",
+          "fonetica": "/haɪ mɑrk ɪz ðɪs jʊr ˈbækˌpæk aɪ faʊnd ɪt nɪr maɪ ˈlɑkər/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mark",
+          "ingles": "Yes, that's mine! Thank you so much. I was looking for it everywhere. My books are inside.",
+          "portugues": "Sim, é minha! Muito obrigado. Eu estava procurando por ela em todo lugar. Meus livros estão dentro.",
+          "fonetica": "/jɛs ðæts maɪn θæŋk ju soʊ mʌtʃ aɪ wʌz ˈlʊkɪŋ fɔr ɪt ˈɛvriˌwɛr maɪ bʊks ɑr ɪnˈsaɪd/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Lisa",
+          "ingles": "No problem! By the way, is that your sister over there? She looks like you.",
+          "portugues": "Sem problema! A propósito, aquela é sua irmã ali? Ela se parece com você.",
+          "fonetica": "/noʊ ˈprɑbləm baɪ ðə weɪ ɪz ðæt jʊr ˈsɪstər ˈoʊvər ðɛr ʃi lʊks laɪk ju/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mark",
+          "ingles": "Yes, that's her! We came to school together today. Our parents are at work, so we take the bus.",
+          "portugues": "Sim, é ela! Nós viemos para a escola juntos hoje. Nossos pais estão no trabalho, então pegamos o ônibus.",
+          "fonetica": "/jɛs ðæts hər wi keɪm tu skul təˈgɛðər təˈdeɪ aʊr ˈpɛrənts ɑr æt wɜrk soʊ wi teɪk ðə bʌs/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Lisa",
+          "ingles": "That's nice! My brother and I do the same. He's older than me, so he helps me with my homework sometimes.",
+          "portugues": "Que legal! Meu irmão e eu fazemos a mesma coisa. Ele é mais velho que eu, então ele me ajuda com minha lição de casa às vezes.",
+          "fonetica": "/ðæts naɪs maɪ ˈbrʌðər ænd aɪ du ðə seɪm hiz ˈoʊldər ðæn mi soʊ hi hɛlps mi wɪð maɪ ˈhoʊmˌwɜrk ˈsʌmˌtaɪmz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mark",
+          "ingles": "That's great! My sister helps me too. Our teachers always say we should help each other. They're right!",
+          "portugues": "Isso é ótimo! Minha irmã me ajuda também. Nossos professores sempre dizem que devemos ajudar uns aos outros. Eles estão certos!",
+          "fonetica": "/ðæts greɪt maɪ ˈsɪstər hɛlps mi tu aʊr ˈtitʃərz ˈɔlweɪz seɪ wi ʃʊd hɛlp itʃ ˈʌðər ðɛr raɪt/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Pronouns in Context",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "My family and I live in a small town. Our house is near the school, so we walk there every day. My father works downtown - his office is in a tall building. He takes the bus because his car is old and needs repairs. My mother has her own business. She runs it from home, and her clients love her work. Our neighbors are very friendly. They often invite us to their barbecues, and we invite them to ours. Their children play with me and my sister in our backyard. My dog Max loves playing with them - his favorite game is fetch. Sometimes I take him to the park, and other dogs play with him there. It's wonderful living in a community where everyone knows each other and cares about their neighbors.",
+        "texto_portugues": "Minha família e eu moramos numa cidade pequena. Nossa casa fica perto da escola, então caminhamos até lá todo dia. Meu pai trabalha no centro - o escritório dele fica num prédio alto. Ele pega o ônibus porque o carro dele é velho e precisa de consertos. Minha mãe tem o próprio negócio. Ela o administra de casa, e os clientes dela adoram o trabalho dela. Nossos vizinhos são muito amigáveis. Eles frequentemente nos convidam para os churrascos deles, e nós os convidamos para os nossos. Os filhos deles brincam comigo e minha irmã no nosso quintal. Meu cachorro Max adora brincar com eles - o jogo favorito dele é buscar. Às vezes eu o levo ao parque, e outros cachorros brincam com ele lá. É maravilhoso morar numa comunidade onde todos se conhecem e se importam com seus vizinhos.", "tem_audio": true } }, { "id": "erros_comuns", "titulo": "Common Mistakes to Avoid", "tipo": "vocabulario", "descricao": "Erros comuns com pronomes que devemos evitar", "itens": [ { "ingles": "✓ My friend and I went... / ✗ Me and my friend went...", "portugues": "✓ Meu amigo e eu fomos... / ✗ Incorreto", "fonetica": "/maɪ frɛnd ænd aɪ wɛnt/", "tem_audio": true, "contexto": "Use 'I' in subject position, even with 'and'" }, { "ingles": "✓ Between you and me / ✗ Between you and I", "portugues": "✓ Entre você e eu / ✗ Incorreto", "fonetica": "/bəˈtwin ju ænd mi/", "tem_audio": true, "contexto": "After prepositions, use object pronouns (me, not I)" }, { "ingles": "✓ The dog wagged its tail / ✗ The dog wagged it's tail", "portugues": "✓ O cachorro balançou a cauda / ✗ Incorreto", "fonetica": "/ðə dɔg wægd ɪts teɪl/", "tem_audio": true, "contexto": "ITS (possessive) has no apostrophe, IT'S = it is" }, { "ingles": "✓ This book is mine / ✗ This book is my", "portugues": "✓ Este livro é meu / ✗ Incorreto", "fonetica": "/ðɪs bʊk ɪz maɪn/", "tem_audio": true, "contexto": "Use possessive pronouns (mine) alone, not determiners (my)" }, { "ingles": "✓ She gave it to him and me / ✗ She gave it to he and I", "portugues": "✓ Ela deu isso para ele e para mim / ✗ Incorreto", "fonetica": "/ʃi geɪv ɪt tu hɪm ænd mi/", "tem_audio": true, "contexto": "After prepositions and verbs, use object pronouns" } ] }, { "id": "dicas_importantes", "titulo": "Essential Tips for Using Pronouns", "tipo": "texto", "conteudo": { "texto_ingles": "Remember these key points: 1) Subject pronouns (I, he, she, we, they) come before verbs. Object pronouns (me, him, her, us, them) come after verbs and prepositions. 2) Possessive determiners (my, his, her, our, their) always come before nouns. Possessive pronouns (mine, his, hers, ours, theirs) stand alone. 3) ITS (no apostrophe) = possessive, IT'S (apostrophe) = it is. 4) In compound subjects/objects, use the same pronoun you'd use alone: 'My friend and I' (not 'me'), 'between him and me' (not 'I').", "texto_portugues": "Lembre-se desses pontos-chave: 1) Pronomes sujeito (I, he, she, we, they) vêm antes dos verbos. Pronomes objeto (me, him, her, us, them) vêm depois dos verbos e preposições. 2) Determinantes possessivos (my, his, her, our, their) sempre vêm antes dos substantivos. Pronomes possessivos (mine, his, hers, ours, theirs) ficam sozinhos. 3) ITS (sem apóstrofo) = possessivo, IT'S (com apóstrofo) = it is. 4) Em sujeitos/objetos compostos, use o mesmo pronome que usaria sozinho: 'My friend and I' (não 'me'), 'between him and me' (não 'I').", "tem_audio": true } }, { "id": "pratica_final", "titulo": "Your Turn to Practice!", "tipo": "texto", "conteudo": { "texto_ingles": "Now practice! Fill in sentences with the correct pronouns: 1) Create sentences using each subject pronoun (I, you, he, she, it, we, they). 2) Rewrite those sentences using object pronouns where appropriate. 3) Practice with possessives: describe things that belong to you, your family, and your friends using both determiners (my car) and pronouns (the car is mine). 4) Write a short paragraph about your daily routine using all types of pronouns. Remember: pronouns make your English sound natural and fluent!", "texto_portugues": "Agora pratique! Complete frases com os pronomes corretos: 1) Crie frases usando cada pronome sujeito (I, you, he, she, it, we, they). 2) Reescreva essas frases usando pronomes objeto quando apropriado. 3) Pratique com possessivos: descreva coisas que pertencem a você, sua família e seus amigos usando tanto determinantes (my car) quanto pronomes (the car is mine). 4) Escreva um parágrafo curto sobre sua rotina diária usando todos os tipos de pronomes. Lembre-se: pronomes fazem seu inglês soar natural e fluente!", "tem_audio": true } } ] }</parameter> </invoke>
+ 
+ 
