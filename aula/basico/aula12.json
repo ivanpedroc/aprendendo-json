@@ -1,0 +1,441 @@
+{
+  "titulo": "Adjetivos",
+  "descricao": "Aprenda os adjetivos mais importantes do inglês! Domine como descrever pessoas, objetos e situações de forma clara e natural.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What are Adjectives?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Adjectives are words that describe or give more information about nouns (people, places, things). They make our speech more interesting and detailed! In English, adjectives usually come BEFORE the noun they describe. For example: 'a big house' or 'a beautiful girl'. Adjectives help us paint a clear picture with words and make our conversations much more colorful and specific.",
+        "texto_portugues": "Adjetivos são palavras que descrevem ou dão mais informações sobre substantivos (pessoas, lugares, coisas). Eles tornam nossa fala mais interessante e detalhada! Em inglês, os adjetivos geralmente vêm ANTES do substantivo que descrevem. Por exemplo: 'a big house' ou 'a beautiful girl'. Os adjetivos nos ajudam a pintar uma imagem clara com palavras e tornam nossas conversas muito mais coloridas e específicas.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "adjetivos_aparencia",
+      "titulo": "Physical Appearance Adjectives",
+      "tipo": "vocabulario",
+      "descricao": "Adjetivos para descrever aparência física",
+      "itens": [
+        {
+          "ingles": "She is tall and beautiful.",
+          "portugues": "Ela é alta e bonita.",
+          "fonetica": "/ʃi ɪz tɔl ænd ˈbjutəfəl/",
+          "tem_audio": true,
+          "contexto": "TALL (alto/a) - BEAUTIFUL (bonito/a, lindo/a)"
+        },
+        {
+          "ingles": "He has short brown hair.",
+          "portugues": "Ele tem cabelo castanho curto.",
+          "fonetica": "/hi hæz ʃɔrt braʊn hɛr/",
+          "tem_audio": true,
+          "contexto": "SHORT (curto/a) - BROWN (marrom, castanho/a)"
+        },
+        {
+          "ingles": "My grandmother is old but strong.",
+          "portugues": "Minha avó é velha mas forte.",
+          "fonetica": "/maɪ ˈgrændˌmʌðər ɪz oʊld bʌt strɔŋ/",
+          "tem_audio": true,
+          "contexto": "OLD (velho/a) - STRONG (forte)"
+        },
+        {
+          "ingles": "The baby is small and cute.",
+          "portugues": "O bebê é pequeno e fofo.",
+          "fonetica": "/ðə ˈbeɪbi ɪz smɔl ænd kjut/",
+          "tem_audio": true,
+          "contexto": "SMALL (pequeno/a) - CUTE (fofo/a, bonito/a)"
+        },
+        {
+          "ingles": "She has long black hair.",
+          "portugues": "Ela tem cabelo preto longo.",
+          "fonetica": "/ʃi hæz lɔŋ blæk hɛr/",
+          "tem_audio": true,
+          "contexto": "LONG (longo/a, comprido/a) - BLACK (preto/a)"
+        }
+      ]
+    },
+    {
+      "id": "adjetivos_personalidade",
+      "titulo": "Personality Adjectives",
+      "tipo": "vocabulario",
+      "descricao": "Adjetivos para descrever personalidade e caráter",
+      "itens": [
+        {
+          "ingles": "My friend is very kind and helpful.",
+          "portugues": "Meu amigo é muito gentil e prestativo.",
+          "fonetica": "/maɪ frɛnd ɪz ˈvɛri kaɪnd ænd ˈhɛlpfəl/",
+          "tem_audio": true,
+          "contexto": "KIND (gentil, bondoso/a) - HELPFUL (prestativo/a)"
+        },
+        {
+          "ingles": "She is smart and funny.",
+          "portugues": "Ela é inteligente e engraçada.",
+          "fonetica": "/ʃi ɪz smɑrt ænd ˈfʌni/",
+          "tem_audio": true,
+          "contexto": "SMART (inteligente) - FUNNY (engraçado/a, divertido/a)"
+        },
+        {
+          "ingles": "He is quiet but friendly.",
+          "portugues": "Ele é quieto mas amigável.",
+          "fonetica": "/hi ɪz ˈkwaɪət bʌt ˈfrɛndli/",
+          "tem_audio": true,
+          "contexto": "QUIET (quieto/a, calado/a) - FRIENDLY (amigável)"
+        },
+        {
+          "ingles": "My teacher is patient and caring.",
+          "portugues": "Minha professora é paciente e carinhosa.",
+          "fonetica": "/maɪ ˈtitʃər ɪz ˈpeɪʃənt ænd ˈkɛrɪŋ/",
+          "tem_audio": true,
+          "contexto": "PATIENT (paciente) - CARING (carinhoso/a, atencioso/a)"
+        },
+        {
+          "ingles": "Children are usually curious and active.",
+          "portugues": "Crianças são geralmente curiosas e ativas.",
+          "fonetica": "/ˈtʃɪldrən ɑr ˈjuʒuəli ˈkjʊriəs ænd ˈæktɪv/",
+          "tem_audio": true,
+          "contexto": "CURIOUS (curioso/a) - ACTIVE (ativo/a, ágil)"
+        }
+      ]
+    },
+    {
+      "id": "adjetivos_tamanho",
+      "titulo": "Size and Quantity Adjectives",
+      "tipo": "vocabulario",
+      "descricao": "Adjetivos para descrever tamanho e quantidade",
+      "itens": [
+        {
+          "ingles": "We live in a big house.",
+          "portugues": "Nós moramos numa casa grande.",
+          "fonetica": "/wi lɪv ɪn ə bɪg haʊs/",
+          "tem_audio": true,
+          "contexto": "BIG (grande) - opposite of small"
+        },
+        {
+          "ingles": "I need a small bag for travel.",
+          "portugues": "Eu preciso de uma bolsa pequena para viajar.",
+          "fonetica": "/aɪ nid ə smɔl bæg fɔr ˈtrævəl/",
+          "tem_audio": true,
+          "contexto": "SMALL (pequeno/a) - opposite of big"
+        },
+        {
+          "ingles": "The elephant is huge!",
+          "portugues": "O elefante é enorme!",
+          "fonetica": "/ði ˈɛləfənt ɪz hjudʒ/",
+          "tem_audio": true,
+          "contexto": "HUGE (enorme, gigante) - very big"
+        },
+        {
+          "ingles": "This box is heavy.",
+          "portugues": "Esta caixa é pesada.",
+          "fonetica": "/ðɪs bɑks ɪz ˈhɛvi/",
+          "tem_audio": true,
+          "contexto": "HEAVY (pesado/a) - opposite of light"
+        },
+        {
+          "ingles": "The paper is very light.",
+          "portugues": "O papel é muito leve.",
+          "fonetica": "/ðə ˈpeɪpər ɪz ˈvɛri laɪt/",
+          "tem_audio": true,
+          "contexto": "LIGHT (leve) - opposite of heavy; also means bright"
+        }
+      ]
+    },
+    {
+      "id": "adjetivos_cores",
+      "titulo": "Color Adjectives",
+      "tipo": "vocabulario",
+      "descricao": "Adjetivos de cores essenciais",
+      "itens": [
+        {
+          "ingles": "I have a red car.",
+          "portugues": "Eu tenho um carro vermelho.",
+          "fonetica": "/aɪ hæv ə rɛd kɑr/",
+          "tem_audio": true,
+          "contexto": "RED (vermelho/a) - primary color"
+        },
+        {
+          "ingles": "The sky is blue today.",
+          "portugues": "O céu está azul hoje.",
+          "fonetica": "/ðə skaɪ ɪz blu təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "BLUE (azul) - primary color"
+        },
+        {
+          "ingles": "She wears a green dress.",
+          "portugues": "Ela usa um vestido verde.",
+          "fonetica": "/ʃi wɛrz ə grin drɛs/",
+          "tem_audio": true,
+          "contexto": "GREEN (verde) - color of nature"
+        },
+        {
+          "ingles": "My dog is white and brown.",
+          "portugues": "Meu cachorro é branco e marrom.",
+          "fonetica": "/maɪ dɔg ɪz waɪt ænd braʊn/",
+          "tem_audio": true,
+          "contexto": "WHITE (branco/a) - BROWN (marrom, castanho/a)"
+        },
+        {
+          "ingles": "I like yellow flowers.",
+          "portugues": "Eu gosto de flores amarelas.",
+          "fonetica": "/aɪ laɪk ˈjɛloʊ ˈflaʊərz/",
+          "tem_audio": true,
+          "contexto": "YELLOW (amarelo/a) - color of the sun"
+        }
+      ]
+    },
+    {
+      "id": "adjetivos_sentimentos",
+      "titulo": "Feelings and Emotions Adjectives",
+      "tipo": "vocabulario",
+      "descricao": "Adjetivos para expressar sentimentos e emoções",
+      "itens": [
+        {
+          "ingles": "I am happy today!",
+          "portugues": "Eu estou feliz hoje!",
+          "fonetica": "/aɪ æm ˈhæpi təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "HAPPY (feliz, alegre) - positive emotion"
+        },
+        {
+          "ingles": "She looks sad.",
+          "portugues": "Ela parece triste.",
+          "fonetica": "/ʃi lʊks sæd/",
+          "tem_audio": true,
+          "contexto": "SAD (triste) - opposite of happy"
+        },
+        {
+          "ingles": "We are excited about the trip!",
+          "portugues": "Nós estamos empolgados com a viagem!",
+          "fonetica": "/wi ɑr ɪkˈsaɪtəd əˈbaʊt ðə trɪp/",
+          "tem_audio": true,
+          "contexto": "EXCITED (empolgado/a, animado/a) - feeling enthusiasm"
+        },
+        {
+          "ingles": "He is tired after work.",
+          "portugues": "Ele está cansado depois do trabalho.",
+          "fonetica": "/hi ɪz ˈtaɪərd ˈæftər wɜrk/",
+          "tem_audio": true,
+          "contexto": "TIRED (cansado/a) - feeling fatigue"
+        },
+        {
+          "ingles": "I am nervous about the exam.",
+          "portugues": "Eu estou nervoso sobre o exame.",
+          "fonetica": "/aɪ æm ˈnɜrvəs əˈbaʊt ði ɪgˈzæm/",
+          "tem_audio": true,
+          "contexto": "NERVOUS (nervoso/a) - feeling anxiety"
+        }
+      ]
+    },
+    {
+      "id": "adjetivos_qualidade",
+      "titulo": "Quality and Condition Adjectives",
+      "tipo": "vocabulario",
+      "descricao": "Adjetivos para descrever qualidade e condição",
+      "itens": [
+        {
+          "ingles": "This food is delicious!",
+          "portugues": "Esta comida está deliciosa!",
+          "fonetica": "/ðɪs fud ɪz dɪˈlɪʃəs/",
+          "tem_audio": true,
+          "contexto": "DELICIOUS (delicioso/a) - very good taste"
+        },
+        {
+          "ingles": "My room is clean and organized.",
+          "portugues": "Meu quarto está limpo e organizado.",
+          "fonetica": "/maɪ rum ɪz klin ænd ˈɔrgəˌnaɪzd/",
+          "tem_audio": true,
+          "contexto": "CLEAN (limpo/a) - ORGANIZED (organizado/a)"
+        },
+        {
+          "ingles": "The weather is hot today.",
+          "portugues": "O tempo está quente hoje.",
+          "fonetica": "/ðə ˈwɛðər ɪz hɑt təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "HOT (quente) - high temperature"
+        },
+        {
+          "ingles": "I like cold drinks in summer.",
+          "portugues": "Eu gosto de bebidas geladas no verão.",
+          "fonetica": "/aɪ laɪk koʊld drɪŋks ɪn ˈsʌmər/",
+          "tem_audio": true,
+          "contexto": "COLD (frio/a, gelado/a) - low temperature"
+        },
+        {
+          "ingles": "This book is interesting and easy.",
+          "portugues": "Este livro é interessante e fácil.",
+          "fonetica": "/ðɪs bʊk ɪz ˈɪntrəstɪŋ ænd ˈizi/",
+          "tem_audio": true,
+          "contexto": "INTERESTING (interessante) - EASY (fácil)"
+        }
+      ]
+    },
+    {
+      "id": "ordem_adjetivos",
+      "titulo": "Order of Adjectives",
+      "tipo": "vocabulario",
+      "descricao": "A ordem correta dos adjetivos em inglês",
+      "itens": [
+        {
+          "ingles": "A beautiful big old house.",
+          "portugues": "Uma casa linda, grande e velha.",
+          "fonetica": "/ə ˈbjutəfəl bɪg oʊld haʊs/",
+          "tem_audio": true,
+          "contexto": "Opinion + Size + Age + Noun"
+        },
+        {
+          "ingles": "A small red car.",
+          "portugues": "Um carro pequeno e vermelho.",
+          "fonetica": "/ə smɔl rɛd kɑr/",
+          "tem_audio": true,
+          "contexto": "Size + Color + Noun"
+        },
+        {
+          "ingles": "An expensive new Italian restaurant.",
+          "portugues": "Um restaurante italiano novo e caro.",
+          "fonetica": "/ən ɪkˈspɛnsɪv nu ɪˈtæljən ˈrɛstərənt/",
+          "tem_audio": true,
+          "contexto": "Opinion + Age + Origin + Noun"
+        },
+        {
+          "ingles": "Three young American students.",
+          "portugues": "Três estudantes americanos jovens.",
+          "fonetica": "/θri jʌŋ əˈmɛrəkən ˈstudənts/",
+          "tem_audio": true,
+          "contexto": "Number + Age + Origin + Noun"
+        },
+        {
+          "ingles": "A round wooden table.",
+          "portugues": "Uma mesa de madeira redonda.",
+          "fonetica": "/ə raʊnd ˈwʊdən ˈteɪbəl/",
+          "tem_audio": true,
+          "contexto": "Shape + Material + Noun"
+        }
+      ]
+    },
+    {
+      "id": "opostos_comuns",
+      "titulo": "Common Opposite Adjectives",
+      "tipo": "vocabulario",
+      "descricao": "Pares de adjetivos opostos mais importantes",
+      "itens": [
+        {
+          "ingles": "Big vs Small: a big elephant, a small mouse",
+          "portugues": "Grande vs Pequeno: um elefante grande, um rato pequeno",
+          "fonetica": "/bɪg vərsəs smɔl ə bɪg ˈɛləfənt ə smɔl maʊs/",
+          "tem_audio": true,
+          "contexto": "Size opposites - very common pair"
+        },
+        {
+          "ingles": "Hot vs Cold: hot coffee, cold ice cream",
+          "portugues": "Quente vs Frio: café quente, sorvete gelado",
+          "fonetica": "/hɑt vərsəs koʊld hɑt ˈkɔfi koʊld aɪs krim/",
+          "tem_audio": true,
+          "contexto": "Temperature opposites"
+        },
+        {
+          "ingles": "Happy vs Sad: happy children, sad movie",
+          "portugues": "Feliz vs Triste: crianças felizes, filme triste",
+          "fonetica": "/ˈhæpi vərsəs sæd ˈhæpi ˈtʃɪldrən sæd ˈmuvi/",
+          "tem_audio": true,
+          "contexto": "Emotion opposites"
+        },
+        {
+          "ingles": "Old vs Young: old man, young girl",
+          "portugues": "Velho vs Jovem: homem velho, garota jovem",
+          "fonetica": "/oʊld vərsəs jʌŋ oʊld mæn jʌŋ gɜrl/",
+          "tem_audio": true,
+          "contexto": "Age opposites"
+        },
+        {
+          "ingles": "Easy vs Difficult: easy test, difficult question",
+          "portugues": "Fácil vs Difícil: teste fácil, pergunta difícil",
+          "fonetica": "/ˈizi vərsəs ˈdɪfəkəlt ˈizi tɛst ˈdɪfəkəlt ˈkwɛstʃən/",
+          "tem_audio": true,
+          "contexto": "Difficulty opposites"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue with Adjectives",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando muitos adjetivos descritivos",
+      "participantes": ["Lisa", "Carlos"],
+      "conversas": [
+        {
+          "falante": "Lisa",
+          "ingles": "Hi Carlos! How is your new apartment?",
+          "portugues": "Oi Carlos! Como está seu apartamento novo?",
+          "fonetica": "/haɪ ˈkɑrloʊs haʊ ɪz jʊər nu əˈpɑrtmənt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "It's great! It's big and bright. The living room has huge windows and white walls.",
+          "portugues": "É ótimo! É grande e claro. A sala tem janelas enormes e paredes brancas.",
+          "fonetica": "/ɪts greɪt ɪts bɪg ænd braɪt ðə ˈlɪvɪŋ rum hæz hjudʒ ˈwɪndoʊz ænd waɪt wɔlz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Lisa",
+          "ingles": "That sounds wonderful! Is it expensive? And how are your new neighbors?",
+          "portugues": "Isso parece maravilhoso! É caro? E como são seus vizinhos novos?",
+          "fonetica": "/ðæt saʊndz ˈwʌndərfəl ɪz ɪt ɪkˈspɛnsɪv ænd haʊ ɑr jʊər nu ˈneɪbərz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "Well, it's a bit expensive, but I'm happy. My neighbors are very friendly and quiet. There's an old lady next door - she's really kind.",
+          "portugues": "Bem, é um pouco caro, mas estou feliz. Meus vizinhos são muito amigáveis e quietos. Há uma senhora idosa ao lado - ela é realmente gentil.",
+          "fonetica": "/wɛl ɪts ə bɪt ɪkˈspɛnsɪv bʌt aɪm ˈhæpi maɪ ˈneɪbərz ɑr ˈvɛri ˈfrɛndli ænd ˈkwaɪət ðɛrz ən oʊld ˈleɪdi nɛkst dɔr ʃiz ˈrɪli kaɪnd/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Lisa",
+          "ingles": "I'm excited to see it! Is there a good restaurant nearby?",
+          "portugues": "Estou empolgada para ver! Há um bom restaurante por perto?",
+          "fonetica": "/aɪm ɪkˈsaɪtəd tu si ɪt ɪz ðɛr ə gʊd ˈrɛstərənt ˈnɪrˌbaɪ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "Yes! There's a small Italian restaurant with delicious food. The pizza is amazing and the staff is very helpful.",
+          "portugues": "Sim! Há um pequeno restaurante italiano com comida deliciosa. A pizza é incrível e a equipe é muito prestativa.",
+          "fonetica": "/jɛs ðɛrz ə smɔl ɪˈtæljən ˈrɛstərənt wɪð dɪˈlɪʃəs fud ðə ˈpitsə ɪz əˈmeɪzɪŋ ænd ðə stæf ɪz ˈvɛri ˈhɛlpfəl/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Describing My Family",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "I want to tell you about my wonderful family. My father is tall and strong. He has short gray hair and kind brown eyes. He's very patient and hardworking. My mother is beautiful and smart. She has long black hair and always wears colorful clothes. She's funny and caring. I have a younger brother who is active and curious about everything. He's short but very fast! My grandmother lives with us. She's old but healthy and wise. She makes delicious food and tells interesting stories. Our house is small but comfortable and cozy. We have a big garden with beautiful red roses and yellow sunflowers. I'm happy and grateful for my loving family!",
+        "texto_portugues": "Eu quero contar sobre minha família maravilhosa. Meu pai é alto e forte. Ele tem cabelo grisalho curto e olhos castanhos gentis. Ele é muito paciente e trabalhador. Minha mãe é bonita e inteligente. Ela tem cabelo preto longo e sempre usa roupas coloridas. Ela é engraçada e carinhosa. Tenho um irmão mais novo que é ativo e curioso sobre tudo. Ele é baixo mas muito rápido! Minha avó mora conosco. Ela é velha mas saudável e sábia. Ela faz comida deliciosa e conta histórias interessantes. Nossa casa é pequena mas confortável e aconchegante. Temos um jardim grande com rosas vermelhas bonitas e girassóis amarelos. Eu estou feliz e grato pela minha família amorosa!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Using Adjectives Correctly",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are important tips for using adjectives: 1) In English, adjectives come BEFORE nouns (a red car, not a car red). 2) Adjectives don't change for plural nouns (two big houses, not two bigs houses). 3) Learn opposite pairs together (big/small, hot/cold). 4) When using multiple adjectives, remember the order: opinion, size, age, color, origin, material. 5) Use 'very' to make adjectives stronger (very beautiful, very tired). 6) Practice describing everything around you - this is the best way to remember!",
+        "texto_portugues": "Aqui estão dicas importantes para usar adjetivos: 1) Em inglês, adjetivos vêm ANTES dos substantivos (a red car, não a car red). 2) Adjetivos não mudam no plural (two big houses, não two bigs houses). 3) Aprenda pares opostos juntos (big/small, hot/cold). 4) Ao usar múltiplos adjetivos, lembre da ordem: opinião, tamanho, idade, cor, origem, material. 5) Use 'very' para tornar adjetivos mais fortes (very beautiful, very tired). 6) Pratique descrevendo tudo ao seu redor - esta é a melhor maneira de lembrar!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice using adjectives! Describe five people you know using physical appearance and personality adjectives. Describe your bedroom using size, color, and quality adjectives. Write about your favorite food using taste and quality adjectives. Practice opposite adjectives by comparing two different things (a big dog vs a small cat). Remember: adjectives make your English more interesting and help people understand exactly what you mean. Use them every day!",
+        "texto_portugues": "Agora pratique usando adjetivos! Descreva cinco pessoas que você conhece usando adjetivos de aparência física e personalidade. Descreva seu quarto usando adjetivos de tamanho, cor e qualidade. Escreva sobre sua comida favorita usando adjetivos de sabor e qualidade. Pratique adjetivos opostos comparando duas coisas diferentes (um cachorro grande vs um gato pequeno). Lembre-se: adjetivos tornam seu inglês mais interessante e ajudam as pessoas a entenderem exatamente o que você quer dizer. Use-os todos os dias!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
