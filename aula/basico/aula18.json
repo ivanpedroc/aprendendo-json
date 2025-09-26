@@ -1,0 +1,441 @@
+{
+  "titulo": "Como Negar uma Frase em Inglês",
+  "descricao": "Aprenda todas as formas de negar frases em inglês! Domine o uso de NOT, DON'T, DOESN'T, ISN'T, AREN'T e outras formas negativas essenciais.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What is Negation in English?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Negation means making a sentence negative - saying what is NOT true or what does NOT happen. In English, we use different negative forms depending on the verb in the sentence. The most common negative words are NOT, DON'T, DOESN'T, ISN'T, and AREN'T. Understanding how to negate sentences correctly is essential for expressing disagreement, denying facts, and talking about what doesn't exist or happen in your life.",
+        "texto_portugues": "Negação significa tornar uma frase negativa - dizer o que NÃO é verdade ou o que NÃO acontece. Em inglês, usamos diferentes formas negativas dependendo do verbo na frase. As palavras negativas mais comuns são NOT, DON'T, DOESN'T, ISN'T e AREN'T. Entender como negar frases corretamente é essencial para expressar discordância, negar fatos e falar sobre o que não existe ou acontece na sua vida.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "negacao_verbo_be",
+      "titulo": "Negating the Verb 'BE' - AM NOT, IS NOT, ARE NOT",
+      "tipo": "vocabulario",
+      "descricao": "Como negar o verbo BE - as formas mais básicas",
+      "itens": [
+        {
+          "ingles": "I am not tired today.",
+          "portugues": "Eu não estou cansado hoje.",
+          "fonetica": "/aɪ æm nɑt ˈtaɪərd təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "AM NOT - negação para 'I am' (não existe contração 'amn't')"
+        },
+        {
+          "ingles": "She is not at home. / She isn't at home.",
+          "portugues": "Ela não está em casa.",
+          "fonetica": "/ʃi ɪz nɑt æt hoʊm / ʃi ˈɪzənt æt hoʊm/",
+          "tem_audio": true,
+          "contexto": "IS NOT = ISN'T - duas formas para he/she/it"
+        },
+        {
+          "ingles": "We are not ready. / We aren't ready.",
+          "portugues": "Nós não estamos prontos.",
+          "fonetica": "/wi ɑr nɑt ˈrɛdi / wi ˈɑrənt ˈrɛdi/",
+          "tem_audio": true,
+          "contexto": "ARE NOT = AREN'T - para you/we/they"
+        },
+        {
+          "ingles": "This is not my book.",
+          "portugues": "Este não é meu livro.",
+          "fonetica": "/ðɪs ɪz nɑt maɪ bʊk/",
+          "tem_audio": true,
+          "contexto": "IS NOT - negando posse/identificação"
+        },
+        {
+          "ingles": "They are not from Brazil.",
+          "portugues": "Eles não são do Brasil.",
+          "fonetica": "/ðeɪ ɑr nɑt frʌm brəˈzɪl/",
+          "tem_audio": true,
+          "contexto": "ARE NOT - negando origem/nacionalidade"
+        }
+      ]
+    },
+    {
+      "id": "negacao_presente_simples",
+      "titulo": "Negating Simple Present - DON'T and DOESN'T",
+      "tipo": "vocabulario",
+      "descricao": "Como negar no Present Simple com auxiliares DO/DOES",
+      "itens": [
+        {
+          "ingles": "I don't like coffee.",
+          "portugues": "Eu não gosto de café.",
+          "fonetica": "/aɪ doʊnt laɪk ˈkɔfi/",
+          "tem_audio": true,
+          "contexto": "DON'T = DO NOT - para I/you/we/they"
+        },
+        {
+          "ingles": "She doesn't work on weekends.",
+          "portugues": "Ela não trabalha nos fins de semana.",
+          "fonetica": "/ʃi ˈdʌzənt wɜrk ɑn ˈwikɛndz/",
+          "tem_audio": true,
+          "contexto": "DOESN'T = DOES NOT - para he/she/it"
+        },
+        {
+          "ingles": "We don't speak French.",
+          "portugues": "Nós não falamos francês.",
+          "fonetica": "/wi doʊnt spik frɛntʃ/",
+          "tem_audio": true,
+          "contexto": "DON'T - o verbo principal volta à forma base (speak, não speaks)"
+        },
+        {
+          "ingles": "He doesn't eat meat.",
+          "portugues": "Ele não come carne.",
+          "fonetica": "/hi ˈdʌzənt it mit/",
+          "tem_audio": true,
+          "contexto": "DOESN'T + verbo base (eat, não eats) - regra importante!"
+        },
+        {
+          "ingles": "They don't live here anymore.",
+          "portugues": "Eles não moram mais aqui.",
+          "fonetica": "/ðeɪ doʊnt lɪv hɪr ˌɛniˈmɔr/",
+          "tem_audio": true,
+          "contexto": "DON'T + base form - mudança de situação"
+        }
+      ]
+    },
+    {
+      "id": "negacao_can_modal",
+      "titulo": "Negating Modal Verbs - CAN'T, WON'T, etc.",
+      "tipo": "vocabulario",
+      "descricao": "Como negar verbos modais",
+      "itens": [
+        {
+          "ingles": "I can't swim very well.",
+          "portugues": "Eu não sei nadar muito bem.",
+          "fonetica": "/aɪ kænt swɪm ˈvɛri wɛl/",
+          "tem_audio": true,
+          "contexto": "CAN'T = CANNOT - negação de habilidade"
+        },
+        {
+          "ingles": "She won't come to the party.",
+          "portugues": "Ela não virá à festa.",
+          "fonetica": "/ʃi woʊnt kʌm tu ðə ˈpɑrti/",
+          "tem_audio": true,
+          "contexto": "WON'T = WILL NOT - negação de futuro/vontade"
+        },
+        {
+          "ingles": "We shouldn't eat too much.",
+          "portugues": "Nós não deveríamos comer demais.",
+          "fonetica": "/wi ˈʃʊdənt it tu mʌtʃ/",
+          "tem_audio": true,
+          "contexto": "SHOULDN'T = SHOULD NOT - conselho negativo"
+        },
+        {
+          "ingles": "You mustn't smoke here.",
+          "portugues": "Você não deve fumar aqui.",
+          "fonetica": "/ju ˈmʌsənt smoʊk hɪr/",
+          "tem_audio": true,
+          "contexto": "MUSTN'T = MUST NOT - proibição forte"
+        },
+        {
+          "ingles": "He couldn't find his keys.",
+          "portugues": "Ele não conseguiu encontrar suas chaves.",
+          "fonetica": "/hi ˈkʊdənt faɪnd hɪz kiz/",
+          "tem_audio": true,
+          "contexto": "COULDN'T = COULD NOT - impossibilidade no passado"
+        }
+      ]
+    },
+    {
+      "id": "negacao_have_has",
+      "titulo": "Negating HAVE/HAS - DON'T HAVE, DOESN'T HAVE",
+      "tipo": "vocabulario",
+      "descricao": "Como negar o verbo HAVE (posse)",
+      "itens": [
+        {
+          "ingles": "I don't have a car.",
+          "portugues": "Eu não tenho um carro.",
+          "fonetica": "/aɪ doʊnt hæv ə kɑr/",
+          "tem_audio": true,
+          "contexto": "DON'T HAVE - negação de posse para I/you/we/they"
+        },
+        {
+          "ingles": "She doesn't have time today.",
+          "portugues": "Ela não tem tempo hoje.",
+          "fonetica": "/ʃi ˈdʌzənt hæv taɪm təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "DOESN'T HAVE - para he/she/it (não 'hasn't' no Present Simple americano)"
+        },
+        {
+          "ingles": "We don't have enough money.",
+          "portugues": "Nós não temos dinheiro suficiente.",
+          "fonetica": "/wi doʊnt hæv ɪˈnʌf ˈmʌni/",
+          "tem_audio": true,
+          "contexto": "DON'T HAVE - falta de quantidade"
+        },
+        {
+          "ingles": "He doesn't have any brothers.",
+          "portugues": "Ele não tem irmãos.",
+          "fonetica": "/hi ˈdʌzənt hæv ˈɛni ˈbrʌðərz/",
+          "tem_audio": true,
+          "contexto": "DOESN'T HAVE + ANY - negação com quantificador"
+        },
+        {
+          "ingles": "They don't have children.",
+          "portugues": "Eles não têm filhos.",
+          "fonetica": "/ðeɪ doʊnt hæv ˈtʃɪldrən/",
+          "tem_audio": true,
+          "contexto": "DON'T HAVE - situação familiar"
+        }
+      ]
+    },
+    {
+      "id": "negacao_passado_simples",
+      "titulo": "Negating Simple Past - DIDN'T",
+      "tipo": "vocabulario",
+      "descricao": "Como negar no Past Simple usando DIDN'T",
+      "itens": [
+        {
+          "ingles": "I didn't go to work yesterday.",
+          "portugues": "Eu não fui trabalhar ontem.",
+          "fonetica": "/aɪ ˈdɪdənt goʊ tu wɜrk ˈjɛstərdeɪ/",
+          "tem_audio": true,
+          "contexto": "DIDN'T + base form - verbo volta à forma infinitiva (go, não went)"
+        },
+        {
+          "ingles": "She didn't call me last night.",
+          "portugues": "Ela não me ligou ontem à noite.",
+          "fonetica": "/ʃi ˈdɪdənt kɔl mi læst naɪt/",
+          "tem_audio": true,
+          "contexto": "DIDN'T - mesmo para todas as pessoas (I, you, he, she, we, they)"
+        },
+        {
+          "ingles": "We didn't see the movie.",
+          "portugues": "Nós não vimos o filme.",
+          "fonetica": "/wi ˈdɪdənt si ðə ˈmuvi/",
+          "tem_audio": true,
+          "contexto": "DIDN'T + see (base form, não saw)"
+        },
+        {
+          "ingles": "He didn't finish his homework.",
+          "portugues": "Ele não terminou sua lição de casa.",
+          "fonetica": "/hi ˈdɪdənt ˈfɪnɪʃ hɪz ˈhoʊmˌwɜrk/",
+          "tem_audio": true,
+          "contexto": "DIDN'T + finish (não finished)"
+        },
+        {
+          "ingles": "They didn't arrive on time.",
+          "portugues": "Eles não chegaram na hora.",
+          "fonetica": "/ðeɪ ˈdɪdənt əˈraɪv ɑn taɪm/",
+          "tem_audio": true,
+          "contexto": "DIDN'T + arrive - pontualidade"
+        }
+      ]
+    },
+    {
+      "id": "palavras_negativas",
+      "titulo": "Negative Words - NEVER, NOTHING, NOBODY, etc.",
+      "tipo": "vocabulario",
+      "descricao": "Palavras negativas que dispensam NOT",
+      "itens": [
+        {
+          "ingles": "I never eat fast food.",
+          "portugues": "Eu nunca como fast food.",
+          "fonetica": "/aɪ ˈnɛvər it fæst fud/",
+          "tem_audio": true,
+          "contexto": "NEVER - negação de frequência (não precisa de DON'T)"
+        },
+        {
+          "ingles": "Nobody came to the meeting.",
+          "portugues": "Ninguém veio à reunião.",
+          "fonetica": "/ˈnoʊˌbɑdi keɪm tu ðə ˈmitɪŋ/",
+          "tem_audio": true,
+          "contexto": "NOBODY - nenhuma pessoa (verbo fica positivo)"
+        },
+        {
+          "ingles": "Nothing happened yesterday.",
+          "portugues": "Nada aconteceu ontem.",
+          "fonetica": "/ˈnʌθɪŋ ˈhæpənd ˈjɛstərdeɪ/",
+          "tem_audio": true,
+          "contexto": "NOTHING - nenhuma coisa (sem auxiliar negativo)"
+        },
+        {
+          "ingles": "She goes nowhere on weekends.",
+          "portugues": "Ela não vai a lugar nenhum nos fins de semana.",
+          "fonetica": "/ʃi goʊz ˈnoʊˌwɛr ɑn ˈwikɛndz/",
+          "tem_audio": true,
+          "contexto": "NOWHERE - nenhum lugar"
+        },
+        {
+          "ingles": "We have no time for games.",
+          "portugues": "Nós não temos tempo para jogos.",
+          "fonetica": "/wi hæv noʊ taɪm fɔr geɪmz/",
+          "tem_audio": true,
+          "contexto": "NO + substantivo - negação direta (sem DON'T)"
+        }
+      ]
+    },
+    {
+      "id": "dupla_negacao",
+      "titulo": "Avoiding Double Negatives",
+      "tipo": "vocabulario",
+      "descricao": "Evitando dupla negação - erro comum",
+      "itens": [
+        {
+          "ingles": "I don't see anything. (CORRECT)",
+          "portugues": "Eu não vejo nada.",
+          "fonetica": "/aɪ doʊnt si ˈɛniθɪŋ/",
+          "tem_audio": true,
+          "contexto": "CORRECT: DON'T + ANYTHING (não 'don't see nothing')"
+        },
+        {
+          "ingles": "She doesn't know anyone here. (CORRECT)",
+          "portugues": "Ela não conhece ninguém aqui.",
+          "fonetica": "/ʃi ˈdʌzənt noʊ ˈɛniˌwʌn hɪr/",
+          "tem_audio": true,
+          "contexto": "CORRECT: DOESN'T + ANYONE (não 'doesn't know nobody')"
+        },
+        {
+          "ingles": "We never go anywhere. (CORRECT)",
+          "portugues": "Nós nunca vamos a lugar nenhum.",
+          "fonetica": "/wi ˈnɛvər goʊ ˈɛniˌwɛr/",
+          "tem_audio": true,
+          "contexto": "CORRECT: NEVER + ANYWHERE (não 'never go nowhere')"
+        },
+        {
+          "ingles": "He doesn't have any money. (CORRECT)",
+          "portugues": "Ele não tem dinheiro nenhum.",
+          "fonetica": "/hi ˈdʌzənt hæv ˈɛni ˈmʌni/",
+          "tem_audio": true,
+          "contexto": "CORRECT: DOESN'T + ANY (não 'doesn't have no money')"
+        },
+        {
+          "ingles": "I see nothing. OR I don't see anything. (BOTH CORRECT)",
+          "portugues": "Eu não vejo nada.",
+          "fonetica": "/aɪ si ˈnʌθɪŋ ɔr aɪ doʊnt si ˈɛniθɪŋ/",
+          "tem_audio": true,
+          "contexto": "Duas formas corretas - escolha uma por frase"
+        }
+      ]
+    },
+    {
+      "id": "contracao_vs_forma_completa",
+      "titulo": "Contractions vs Full Forms",
+      "tipo": "vocabulario",
+      "descricao": "Quando usar contrações e quando usar formas completas",
+      "itens": [
+        {
+          "ingles": "I don't understand. (informal/conversational)",
+          "portugues": "Eu não entendo.",
+          "fonetica": "/aɪ doʊnt ˌʌndərˈstænd/",
+          "tem_audio": true,
+          "contexto": "Contração DON'T - uso casual e conversação"
+        },
+        {
+          "ingles": "I do not agree with this decision. (formal/emphatic)",
+          "portugues": "Eu não concordo com esta decisão.",
+          "fonetica": "/aɪ du nɑt əˈgri wɪð ðɪs dɪˈsɪʒən/",
+          "tem_audio": true,
+          "contexto": "Forma completa DO NOT - mais formal e enfática"
+        },
+        {
+          "ingles": "She isn't here. (casual)",
+          "portugues": "Ela não está aqui.",
+          "fonetica": "/ʃi ˈɪzənt hɪr/",
+          "tem_audio": true,
+          "contexto": "ISN'T - contração natural na fala"
+        },
+        {
+          "ingles": "She is not available for comment. (formal)",
+          "portugues": "Ela não está disponível para comentários.",
+          "fonetica": "/ʃi ɪz nɑt əˈveɪləbəl fɔr ˈkɑmɛnt/",
+          "tem_audio": true,
+          "contexto": "IS NOT - linguagem formal/profissional"
+        },
+        {
+          "ingles": "We can't make it tonight. (common)",
+          "portugues": "Nós não podemos ir hoje à noite.",
+          "fonetica": "/wi kænt meɪk ɪt təˈnaɪt/",
+          "tem_audio": true,
+          "contexto": "CAN'T - contração muito comum"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue with Negations",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando várias formas de negação",
+      "participantes": ["Alex", "Sofia"],
+      "conversas": [
+        {
+          "falante": "Alex",
+          "ingles": "Hi Sofia! Are you coming to the party tonight?",
+          "portugues": "Oi Sofia! Você vai à festa hoje à noite?",
+          "fonetica": "/haɪ səˈfiə ɑr ju ˈkʌmɪŋ tu ðə ˈpɑrti təˈnaɪt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Sofia",
+          "ingles": "I'm sorry, but I can't go. I don't have time because I didn't finish my project yet.",
+          "portugues": "Me desculpe, mas não posso ir. Não tenho tempo porque ainda não terminei meu projeto.",
+          "fonetica": "/aɪm ˈsɔri bʌt aɪ kænt goʊ aɪ doʊnt hæv taɪm bɪˈkɔz aɪ ˈdɪdənt ˈfɪnɪʃ maɪ ˈprɑdʒɛkt jɛt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Alex",
+          "ingles": "That's too bad! Sarah isn't coming either. She doesn't like loud music.",
+          "portugues": "Que pena! A Sarah também não vai. Ela não gosta de música alta.",
+          "fonetica": "/ðæts tu bæd ˈsɛrə ˈɪzənt ˈkʌmɪŋ ˈiðər ʃi ˈdʌzənt laɪk laʊd ˈmjuzɪk/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Sofia",
+          "ingles": "Really? I never knew that about her. Maybe we shouldn't have parties with loud music.",
+          "portugues": "Sério? Eu nunca soube isso sobre ela. Talvez não deveríamos fazer festas com música alta.",
+          "fonetica": "/ˈrɪli aɪ ˈnɛvər nu ðæt əˈbaʊt hər ˈmeɪbi wi ˈʃʊdənt hæv ˈpɑrtiz wɪð laʊd ˈmjuzɪk/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Alex",
+          "ingles": "You're right. Nobody wants to feel uncomfortable at parties. We won't play loud music next time.",
+          "portugues": "Você está certa. Ninguém quer se sentir desconfortável em festas. Não vamos tocar música alta da próxima vez.",
+          "fonetica": "/jʊr raɪt ˈnoʊˌbɑdi wænts tu fil ʌnˈkʌmftəbəl æt ˈpɑrtiz wi woʊnt pleɪ laʊd ˈmjuzɪk nɛkst taɪm/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Sofia",
+          "ingles": "That sounds perfect! I don't want to miss anything fun. Please let me know about the next party!",
+          "portugues": "Isso parece perfeito! Eu não quero perder nada divertido. Por favor me avise sobre a próxima festa!",
+          "fonetica": "/ðæt saʊndz ˈpɜrfɪkt aɪ doʊnt wænt tu mɪs ˈɛniθɪŋ fʌn pliz lɛt mi noʊ əˈbaʊt ðə nɛkst ˈpɑrti/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Things I Don't Do",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let me tell you about things I don't do in my daily life! I don't wake up early on weekends because I'm not a morning person. I don't drink coffee after 6 PM because it doesn't let me sleep well. I don't watch horror movies because they aren't my favorite genre - I prefer comedies instead. I don't eat fast food very often because it isn't healthy, but I don't avoid it completely either. I don't drive to work because I don't have a car, and I don't need one since I live close to my office. I don't speak three languages fluently yet, but I'm not giving up on learning! I don't play any musical instruments, which is something I didn't learn as a child. I don't travel abroad frequently because I don't have unlimited vacation time. However, I don't complain about my life because I don't believe in negativity. I won't let small problems bother me, and I won't stop pursuing my dreams. Nothing is impossible if you don't give up, and nobody can achieve success without effort. I don't have everything I want yet, but I'm not unhappy with what I have. Life isn't perfect, but it doesn't need to be!",
+        "texto_portugues": "Deixe-me contar sobre coisas que eu não faço na minha vida diária! Eu não acordo cedo nos fins de semana porque não sou uma pessoa matutina. Eu não bebo café depois das 18h porque não me deixa dormir bem. Eu não assisto filmes de terror porque não são meu gênero favorito - prefiro comédias. Eu não como fast food muito frequentemente porque não é saudável, mas também não evito completamente. Eu não dirijo para o trabalho porque não tenho carro, e não preciso de um já que moro perto do meu escritório. Eu ainda não falo três idiomas fluentemente, mas não estou desistindo de aprender! Eu não toco nenhum instrumento musical, o que é algo que não aprendi quando criança. Eu não viajo para o exterior frequentemente porque não tenho férias ilimitadas. Porém, eu não reclamo da minha vida porque não acredito em negatividade. Eu não vou deixar pequenos problemas me incomodarem, e não vou parar de perseguir meus sonhos. Nada é impossível se você não desistir, e ninguém pode alcançar sucesso sem esforço. Eu não tenho tudo que quero ainda, mas não estou infeliz com o que tenho. A vida não é perfeita, mas não precisa ser!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Mastering English Negation",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are essential tips for mastering English negation: 1) With BE verb, just add NOT: am not, is not (isn't), are not (aren't). 2) With other verbs in present, use DON'T/DOESN'T + base form: I don't go, she doesn't go. 3) In past tense, use DIDN'T + base form for all persons: I didn't go, she didn't go. 4) Modal verbs add NOT: can't, won't, shouldn't, mustn't. 5) Avoid double negatives: use DON'T + ANY/ANYTHING/ANYONE, or use NEVER/NOTHING/NOBODY alone. 6) Remember that after auxiliary verbs (don't, doesn't, didn't), the main verb returns to base form. 7) Practice contractions for natural speech, but use full forms for emphasis or formal writing!",
+        "texto_portugues": "Aqui estão dicas essenciais para dominar a negação em inglês: 1) Com o verbo BE, apenas adicione NOT: am not, is not (isn't), are not (aren't). 2) Com outros verbos no presente, use DON'T/DOESN'T + forma base: I don't go, she doesn't go. 3) No passado, use DIDN'T + forma base para todas as pessoas: I didn't go, she didn't go. 4) Verbos modais adicionam NOT: can't, won't, shouldn't, mustn't. 5) Evite dupla negação: use DON'T + ANY/ANYTHING/ANYONE, ou use NEVER/NOTHING/NOBODY sozinhos. 6) Lembre que após verbos auxiliares (don't, doesn't, didn't), o verbo principal volta à forma base. 7) Pratique contrações para fala natural, mas use formas completas para ênfase ou escrita formal!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice all forms of English negation! Start with simple sentences using BE: 'I am not...', 'She is not...', 'We are not...'. Then practice with action verbs: 'I don't like...', 'She doesn't work...', 'They didn't go...'. Try modal verbs: 'I can't swim', 'She won't come', 'We shouldn't eat...'. Practice with negative words: 'I never...', 'Nobody came...', 'Nothing happened...'. Remember to avoid double negatives! Create sentences about things you don't do, places you don't go, and foods you don't like. The more you practice, the more natural negation will become in your English!",
+        "texto_portugues": "Agora pratique todas as formas de negação em inglês! Comece com frases simples usando BE: 'I am not...', 'She is not...', 'We are not...'. Depois pratique com verbos de ação: 'I don't like...', 'She doesn't work...', 'They didn't go...'. Experimente verbos modais: 'I can't swim', 'She won't come', 'We shouldn't eat...'. Pratique com palavras negativas: 'I never...', 'Nobody came...', 'Nothing happened...'. Lembre-se de evitar dupla negação! Crie frases sobre coisas que você não faz, lugares que não vai, e comidas que não gosta. Quanto mais você praticar, mais natural a negação se tornará no seu inglês!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
