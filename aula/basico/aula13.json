@@ -1,0 +1,434 @@
+{
+  "titulo": "Advérbios",
+  "descricao": "Domine os advérbios em inglês! Aprenda a modificar verbos, adjetivos e outros advérbios para expressar como, quando, onde e com que intensidade.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "Understanding Adverbs in English",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Adverbs are words that modify verbs, adjectives, or other adverbs. They tell us HOW something happens, WHEN it happens, WHERE it happens, or HOW MUCH/HOW OFTEN. Most adverbs end in -ly, but not all! They make your English more descriptive and natural. Let's learn the main types and how to use them correctly.",
+        "texto_portugues": "Advérbios são palavras que modificam verbos, adjetivos ou outros advérbios. Eles nos dizem COMO algo acontece, QUANDO acontece, ONDE acontece, ou QUANTO/COM QUE FREQUÊNCIA. A maioria dos advérbios termina em -ly, mas nem todos! Eles tornam seu inglês mais descritivo e natural. Vamos aprender os tipos principais e como usá-los corretamente.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "adverbios_modo",
+      "titulo": "Adverbs of Manner - How Things Happen",
+      "tipo": "vocabulario",
+      "descricao": "Advérbios que mostram COMO algo é feito",
+      "itens": [
+        {
+          "ingles": "She speaks English fluently.",
+          "portugues": "Ela fala inglês fluentemente.",
+          "fonetica": "/ʃi spiks ˈɪŋglɪʃ ˈfluəntli/",
+          "tem_audio": true,
+          "contexto": "FLUENTLY - describes HOW she speaks"
+        },
+        {
+          "ingles": "He drives carefully.",
+          "portugues": "Ele dirige cuidadosamente.",
+          "fonetica": "/hi draɪvz ˈkɛrfəli/",
+          "tem_audio": true,
+          "contexto": "CAREFULLY - describes HOW he drives"
+        },
+        {
+          "ingles": "They work hard every day.",
+          "portugues": "Eles trabalham muito todo dia.",
+          "fonetica": "/ðeɪ wɜrk hɑrd ˈɛvri deɪ/",
+          "tem_audio": true,
+          "contexto": "HARD - irregular adverb (no -ly), means 'with effort'"
+        },
+        {
+          "ingles": "The children played quietly.",
+          "portugues": "As crianças brincaram silenciosamente.",
+          "fonetica": "/ðə ˈtʃɪldrən pleɪd ˈkwaɪətli/",
+          "tem_audio": true,
+          "contexto": "QUIETLY - describes HOW they played"
+        },
+        {
+          "ingles": "She answered the question correctly.",
+          "portugues": "Ela respondeu a pergunta corretamente.",
+          "fonetica": "/ʃi ˈænsərd ðə ˈkwɛstʃən kəˈrɛktli/",
+          "tem_audio": true,
+          "contexto": "CORRECTLY - describes HOW she answered"
+        }
+      ]
+    },
+    {
+      "id": "formacao_adverbios",
+      "titulo": "Forming Adverbs from Adjectives",
+      "tipo": "vocabulario",
+      "descricao": "Como formar advérbios a partir de adjetivos",
+      "itens": [
+        {
+          "ingles": "quick → quickly / slow → slowly",
+          "portugues": "rápido → rapidamente / devagar → lentamente",
+          "fonetica": "/kwɪk → ˈkwɪkli / sloʊ → ˈsloʊli/",
+          "tem_audio": true,
+          "contexto": "Most adjectives: just add -ly"
+        },
+        {
+          "ingles": "happy → happily / easy → easily",
+          "portugues": "feliz → felizmente / fácil → facilmente",
+          "fonetica": "/ˈhæpi → ˈhæpəli / ˈizi → ˈizəli/",
+          "tem_audio": true,
+          "contexto": "Adjectives ending in -y: change y to -ily"
+        },
+        {
+          "ingles": "terrible → terribly / comfortable → comfortably",
+          "portugues": "terrível → terrivelmente / confortável → confortavelmente",
+          "fonetica": "/ˈtɛrəbəl → ˈtɛrəbli / ˈkʌmftəbəl → ˈkʌmftəbli/",
+          "tem_audio": true,
+          "contexto": "Adjectives ending in -le: change -le to -ly"
+        },
+        {
+          "ingles": "good → well / fast → fast",
+          "portugues": "bom → bem / rápido → rápido",
+          "fonetica": "/gʊd → wɛl / fæst → fæst/",
+          "tem_audio": true,
+          "contexto": "Irregular: GOOD becomes WELL, some stay the same"
+        }
+      ]
+    },
+    {
+      "id": "adverbios_tempo",
+      "titulo": "Adverbs of Time - When Things Happen",
+      "tipo": "vocabulario",
+      "descricao": "Advérbios que mostram QUANDO algo acontece",
+      "itens": [
+        {
+          "ingles": "I always eat breakfast at 7 AM.",
+          "portugues": "Eu sempre tomo café da manhã às 7h.",
+          "fonetica": "/aɪ ˈɔlweɪz it ˈbrɛkfəst æt ˈsɛvən ˌeɪˈɛm/",
+          "tem_audio": true,
+          "contexto": "ALWAYS - 100% of the time"
+        },
+        {
+          "ingles": "She usually goes to bed early.",
+          "portugues": "Ela geralmente vai dormir cedo.",
+          "fonetica": "/ʃi ˈjuʒəli goʊz tu bɛd ˈɜrli/",
+          "tem_audio": true,
+          "contexto": "USUALLY - most of the time (about 80%)"
+        },
+        {
+          "ingles": "We often visit our grandparents.",
+          "portugues": "Nós frequentemente visitamos nossos avós.",
+          "fonetica": "/wi ˈɔfən ˈvɪzət aʊr ˈgrænˌpɛrənts/",
+          "tem_audio": true,
+          "contexto": "OFTEN - many times (about 60%)"
+        },
+        {
+          "ingles": "He sometimes works on weekends.",
+          "portugues": "Ele às vezes trabalha nos fins de semana.",
+          "fonetica": "/hi ˈsʌmˌtaɪmz wɜrks ɑn ˈwikˌɛndz/",
+          "tem_audio": true,
+          "contexto": "SOMETIMES - occasionally (about 40%)"
+        },
+        {
+          "ingles": "They never eat fast food.",
+          "portugues": "Eles nunca comem fast food.",
+          "fonetica": "/ðeɪ ˈnɛvər it fæst fud/",
+          "tem_audio": true,
+          "contexto": "NEVER - 0% of the time"
+        },
+        {
+          "ingles": "I have already finished my homework.",
+          "portugues": "Eu já terminei minha lição de casa.",
+          "fonetica": "/aɪ hæv ɔlˈrɛdi ˈfɪnɪʃt maɪ ˈhoʊmˌwɜrk/",
+          "tem_audio": true,
+          "contexto": "ALREADY - before now, sooner than expected"
+        }
+      ]
+    },
+    {
+      "id": "posicao_adverbios",
+      "titulo": "Position of Adverbs in Sentences",
+      "tipo": "vocabulario",
+      "descricao": "Onde colocar advérbios na frase",
+      "itens": [
+        {
+          "ingles": "I always brush my teeth. (before main verb)",
+          "portugues": "Eu sempre escovo meus dentes. (antes do verbo principal)",
+          "fonetica": "/aɪ ˈɔlweɪz brʌʃ maɪ tiθ/",
+          "tem_audio": true,
+          "contexto": "Frequency adverbs: before main verb"
+        },
+        {
+          "ingles": "She is always happy. (after 'to be')",
+          "portugues": "Ela está sempre feliz. (depois do 'to be')",
+          "fonetica": "/ʃi ɪz ˈɔlweɪz ˈhæpi/",
+          "tem_audio": true,
+          "contexto": "Frequency adverbs: after 'to be'"
+        },
+        {
+          "ingles": "He speaks English well. (after object)",
+          "portugues": "Ele fala inglês bem. (depois do objeto)",
+          "fonetica": "/hi spiks ˈɪŋglɪʃ wɛl/",
+          "tem_audio": true,
+          "contexto": "Manner adverbs: usually at the end"
+        },
+        {
+          "ingles": "Yesterday, I went to the store. (beginning)",
+          "portugues": "Ontem, eu fui à loja. (no início)",
+          "fonetica": "/ˈjɛstərˌdeɪ aɪ wɛnt tu ðə stɔr/",
+          "tem_audio": true,
+          "contexto": "Time adverbs: can go at beginning or end"
+        }
+      ]
+    },
+    {
+      "id": "adverbios_lugar",
+      "titulo": "Adverbs of Place - Where Things Happen",
+      "tipo": "vocabulario",
+      "descricao": "Advérbios que mostram ONDE algo acontece",
+      "itens": [
+        {
+          "ingles": "The children are playing outside.",
+          "portugues": "As crianças estão brincando lá fora.",
+          "fonetica": "/ðə ˈtʃɪldrən ɑr ˈpleɪɪŋ ˌaʊtˈsaɪd/",
+          "tem_audio": true,
+          "contexto": "OUTSIDE - in the exterior, not inside"
+        },
+        {
+          "ingles": "Come here, please.",
+          "portugues": "Venha aqui, por favor.",
+          "fonetica": "/kʌm hɪr pliz/",
+          "tem_audio": true,
+          "contexto": "HERE - in this place, near the speaker"
+        },
+        {
+          "ingles": "Put the book there.",
+          "portugues": "Coloque o livro ali.",
+          "fonetica": "/pʊt ðə bʊk ðɛr/",
+          "tem_audio": true,
+          "contexto": "THERE - in that place, away from speaker"
+        },
+        {
+          "ingles": "I looked everywhere for my keys.",
+          "portugues": "Eu procurei em todo lugar pelas minhas chaves.",
+          "fonetica": "/aɪ lʊkt ˈɛvriˌwɛr fɔr maɪ kiz/",
+          "tem_audio": true,
+          "contexto": "EVERYWHERE - in all places"
+        },
+        {
+          "ingles": "She goes upstairs to her room.",
+          "portugues": "Ela sobe para seu quarto.",
+          "fonetica": "/ʃi goʊz ˌʌpˈstɛrz tu hər rum/",
+          "tem_audio": true,
+          "contexto": "UPSTAIRS - to or on a higher floor"
+        }
+      ]
+    },
+    {
+      "id": "adverbios_intensidade",
+      "titulo": "Adverbs of Degree - How Much/Intensity",
+      "tipo": "vocabulario",
+      "descricao": "Advérbios que mostram intensidade ou grau",
+      "itens": [
+        {
+          "ingles": "This coffee is very hot.",
+          "portugues": "Este café está muito quente.",
+          "fonetica": "/ðɪs ˈkɔfi ɪz ˈvɛri hɑt/",
+          "tem_audio": true,
+          "contexto": "VERY - high degree, modifies adjectives/adverbs"
+        },
+        {
+          "ingles": "The movie was quite interesting.",
+          "portugues": "O filme estava bastante interessante.",
+          "fonetica": "/ðə ˈmuvi wʌz kwaɪt ˈɪntrəstɪŋ/",
+          "tem_audio": true,
+          "contexto": "QUITE - moderately, fairly"
+        },
+        {
+          "ingles": "She's extremely talented.",
+          "portugues": "Ela é extremamente talentosa.",
+          "fonetica": "/ʃiz ɪkˈstrimli ˈtæləntəd/",
+          "tem_audio": true,
+          "contexto": "EXTREMELY - very high degree"
+        },
+        {
+          "ingles": "This book is really good.",
+          "portugues": "Este livro é realmente bom.",
+          "fonetica": "/ðɪs bʊk ɪz ˈrɪli gʊd/",
+          "tem_audio": true,
+          "contexto": "REALLY - emphasizes, informal"
+        },
+        {
+          "ingles": "The test was too difficult.",
+          "portugues": "O teste estava muito difícil (demais).",
+          "fonetica": "/ðə tɛst wʌz tu ˈdɪfəkəlt/",
+          "tem_audio": true,
+          "contexto": "TOO - excessively, more than necessary"
+        },
+        {
+          "ingles": "He's not tall enough to play basketball.",
+          "portugues": "Ele não é alto o suficiente para jogar basquete.",
+          "fonetica": "/hiz nɑt tɔl ɪˈnʌf tu pleɪ ˈbæskətˌbɔl/",
+          "tem_audio": true,
+          "contexto": "ENOUGH - sufficient degree, comes after adjectives"
+        }
+      ]
+    },
+    {
+      "id": "adverbios_irregulares",
+      "titulo": "Irregular Adverbs and Special Cases",
+      "tipo": "vocabulario",
+      "descricao": "Advérbios irregulares e casos especiais",
+      "itens": [
+        {
+          "ingles": "She sings well. (not 'goodly')",
+          "portugues": "Ela canta bem. (não 'goodly')",
+          "fonetica": "/ʃi sɪŋz wɛl/",
+          "tem_audio": true,
+          "contexto": "WELL - adverb form of 'good'"
+        },
+        {
+          "ingles": "He runs fast. (not 'fastly')",
+          "portugues": "Ele corre rápido. (não 'fastly')",
+          "fonetica": "/hi rʌnz fæst/",
+          "tem_audio": true,
+          "contexto": "FAST - same form as adjective"
+        },
+        {
+          "ingles": "She arrived late to the meeting.",
+          "portugues": "Ela chegou atrasada à reunião.",
+          "fonetica": "/ʃi əˈraɪvd leɪt tu ðə ˈmitɪŋ/",
+          "tem_audio": true,
+          "contexto": "LATE - same form as adjective"
+        },
+        {
+          "ingles": "This shirt fits me perfectly.",
+          "portugues": "Esta camisa me serve perfeitamente.",
+          "fonetica": "/ðɪs ʃɜrt fɪts mi ˈpɜrfɪktli/",
+          "tem_audio": true,
+          "contexto": "PERFECTLY - regular formation (perfect + ly)"
+        },
+        {
+          "ingles": "He works hard, but hardly earns enough.",
+          "portugues": "Ele trabalha muito, mas mal ganha o suficiente.",
+          "fonetica": "/hi wɜrks hɑrd bʌt ˈhɑrdli ɜrnz ɪˈnʌf/",
+          "tem_audio": true,
+          "contexto": "HARD (with effort) vs HARDLY (barely, almost not)"
+        }
+      ]
+    },
+    {
+      "id": "comparacao_adverbios",
+      "titulo": "Comparing Adverbs - Comparative and Superlative",
+      "tipo": "vocabulario",
+      "descricao": "Como comparar advérbios",
+      "itens": [
+        {
+          "ingles": "She runs fast, but he runs faster.",
+          "portugues": "Ela corre rápido, mas ele corre mais rápido.",
+          "fonetica": "/ʃi rʌnz fæst bʌt hi rʌnz ˈfæstər/",
+          "tem_audio": true,
+          "contexto": "Short adverbs: add -er for comparative"
+        },
+        {
+          "ingles": "Tom runs the fastest in our class.",
+          "portugues": "Tom corre mais rápido da nossa turma.",
+          "fonetica": "/tɑm rʌnz ðə ˈfæstəst ɪn aʊr klæs/",
+          "tem_audio": true,
+          "contexto": "Short adverbs: add -est for superlative"
+        },
+        {
+          "ingles": "She speaks more clearly than before.",
+          "portugues": "Ela fala mais claramente que antes.",
+          "fonetica": "/ʃi spiks mɔr ˈklɪrli ðæn bəˈfɔr/",
+          "tem_audio": true,
+          "contexto": "Long adverbs: use 'more' for comparative"
+        },
+        {
+          "ingles": "He explained it most carefully.",
+          "portugues": "Ele explicou mais cuidadosamente.",
+          "fonetica": "/hi ɪkˈspleɪnd ɪt moʊst ˈkɛrfəli/",
+          "tem_audio": true,
+          "contexto": "Long adverbs: use 'most' for superlative"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue - Using Various Adverbs",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando diferentes tipos de advérbios",
+      "participantes": ["Anna", "Carlos"],
+      "conversas": [
+        {
+          "falante": "Anna",
+          "ingles": "Hi Carlos! You're working very hard today. Do you always stay late?",
+          "portugues": "Oi Carlos! Você está trabalhando muito hoje. Você sempre fica até tarde?",
+          "fonetica": "/haɪ ˈkɑrloʊs jʊr ˈwɜrkɪŋ ˈvɛri hɑrd təˈdeɪ du ju ˈɔlweɪz steɪ leɪt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "Not really. I usually leave early, but today I need to finish this project carefully. How about you?",
+          "portugues": "Na verdade não. Eu geralmente saio cedo, mas hoje preciso terminar este projeto cuidadosamente. E você?",
+          "fonetica": "/nɑt ˈrɪli aɪ ˈjuʒəli liv ˈɜrli bʌt təˈdeɪ aɪ nid tu ˈfɪnɪʃ ðɪs ˈprɑdʒɛkt ˈkɛrfəli haʊ əˈbaʊt ju/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Anna",
+          "ingles": "I often work overtime, but yesterday I went home quite early. My daughter was performing beautifully in her school play.",
+          "portugues": "Eu frequentemente faço hora extra, mas ontem fui para casa bastante cedo. Minha filha estava se apresentando lindamente na peça da escola.",
+          "fonetica": "/aɪ ˈɔfən wɜrk ˈoʊvərˌtaɪm bʌt ˈjɛstərˌdeɪ aɪ wɛnt hoʊm kwaɪt ˈɜrli maɪ ˈdɔtər wʌz pərˈfɔrmɪŋ ˈbjutəfəli ɪn hər skul pleɪ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "That's wonderful! Children are extremely talented nowadays. My son plays piano really well too.",
+          "portugues": "Isso é maravilhoso! As crianças são extremamente talentosas hoje em dia. Meu filho toca piano realmente bem também.",
+          "fonetica": "/ðæts ˈwʌndərfəl ˈtʃɪldrən ɑr ɪkˈstrimli ˈtæləntəd ˈnaʊəˌdeɪz maɪ sʌn pleɪz piˈænoʊ ˈrɪli wɛl tu/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Anna",
+          "ingles": "Maybe our children could perform together sometime. They would probably enjoy it immensely.",
+          "portugues": "Talvez nossas crianças pudessem se apresentar juntas alguma vez. Elas provavelmente curtiriam imensamente.",
+          "fonetica": "/ˈmeɪbi aʊr ˈtʃɪldrən kʊd pərˈfɔrm təˈgɛðər ˈsʌmˌtaɪm ðeɪ wʊd ˈprɑbəbli ɪnˈdʒɔɪ ɪt ɪˈmɛnsli/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "That's an excellent idea! I'll definitely ask him tonight. He never says no to new musical adventures.",
+          "portugues": "Essa é uma excelente ideia! Definitivamente vou perguntar a ele hoje à noite. Ele nunca diz não a novas aventuras musicais.",
+          "fonetica": "/ðæts æn ˈɛksələnt aɪˈdiə aɪl ˈdɛfənətli æsk hɪm təˈnaɪt hi ˈnɛvər sɛz noʊ tu nu ˈmjuzɪkəl ædˈvɛntʃərz/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Daily Routine with Adverbs",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "My grandmother lives very actively despite being eighty years old. She always wakes up early, usually around 6 AM, and immediately starts her day energetically. First, she carefully tends to her garden outside, watering the plants gently and checking them thoroughly. She works quite hard, but never complains. After gardening, she goes inside and prepares breakfast slowly, making sure everything is perfectly cooked. She often listens to classical music while cooking, humming softly along with the melodies. Later, she usually walks downtown to shop for groceries, greeting everyone cheerfully along the way. People in the neighborhood know her well because she always speaks kindly to them. In the afternoon, she sometimes visits friends nearby, chatting happily for hours. She drives carefully, never speeding or rushing anywhere. In the evening, she reads quietly in her favorite chair, occasionally laughing at funny stories. Before bed, she always calls me, speaking lovingly about her day. She's extremely independent and incredibly wise, living her life fully and joyfully every single day.",
+        "texto_portugues": "Minha avó vive muito ativamente apesar de ter oitenta anos. Ela sempre acorda cedo, geralmente por volta das 6h, e imediatamente começa seu dia energeticamente. Primeiro, ela cuida cuidadosamente do seu jardim lá fora, regando as plantas gentilmente e verificando-as completamente. Ela trabalha bastante duro, mas nunca reclama. Depois da jardinagem, ela entra e prepara o café da manhã lentamente, certificando-se de que tudo esteja perfeitamente cozido. Ela frequentemente escuta música clássica enquanto cozinha, cantarolando suavemente junto com as melodias. Mais tarde, ela geralmente caminha até o centro para comprar mantimentos, cumprimentando todos alegremente pelo caminho. As pessoas no bairro a conhecem bem porque ela sempre fala gentilmente com elas. À tarde, ela às vezes visita amigos por perto, conversando felizmente por horas. Ela dirige cuidadosamente, nunca correndo ou se apressando para lugar algum. À noite, ela lê silenciosamente em sua cadeira favorita, ocasionalmente rindo de histórias engraçadas. Antes de dormir, ela sempre me liga, falando amorosamente sobre seu dia. Ela é extremamente independente e incrivelmente sábia, vivendo sua vida plenamente e alegremente todos os dias.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_importantes",
+      "titulo": "Essential Tips for Using Adverbs",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Remember these key points: 1) Most adverbs are formed by adding -ly to adjectives (quick → quickly), but some are irregular (good → well, fast → fast). 2) Frequency adverbs (always, usually, often, sometimes, never) go before main verbs but after 'to be'. 3) Manner adverbs usually go at the end of sentences. 4) Don't overuse adverbs - one well-placed adverb is better than many. 5) Be careful with 'hard' (with effort) vs 'hardly' (barely). 6) 'Very' modifies adjectives and adverbs, not verbs.",
+        "texto_portugues": "Lembre-se desses pontos-chave: 1) A maioria dos advérbios é formada adicionando -ly aos adjetivos (quick → quickly), mas alguns são irregulares (good → well, fast → fast). 2) Advérbios de frequência (always, usually, often, sometimes, never) vão antes dos verbos principais mas depois do 'to be'. 3) Advérbios de modo geralmente vão no final das frases. 4) Não abuse dos advérbios - um advérbio bem colocado é melhor que muitos. 5) Cuidado com 'hard' (com esforço) vs 'hardly' (mal). 6) 'Very' modifica adjetivos e advérbios, não verbos.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice! Create sentences using different types of adverbs: manner (carefully, quickly, well), time (always, usually, yesterday), place (here, outside, upstairs), and degree (very, quite, extremely). Describe your daily routine using frequency adverbs. Transform adjectives into adverbs (beautiful → beautifully, careful → carefully). Remember: adverbs add color and detail to your English, making it more expressive and natural!",
+        "texto_portugues": "Agora pratique! Crie frases usando diferentes tipos de advérbios: modo (carefully, quickly, well), tempo (always, usually, yesterday), lugar (here, outside, upstairs), e grau (very, quite, extremely). Descreva sua rotina diária usando advérbios de frequência. Transforme adjetivos em advérbios (beautiful → beautifully, careful → carefully). Lembre-se: advérbios adicionam cor e detalhe ao seu inglês, tornando-o mais expressivo e natural!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
