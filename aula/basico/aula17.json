@@ -1,0 +1,477 @@
+{
+  "titulo": "Ordem das Palavras - Frases Afirmativas",
+  "descricao": "Aprenda a ordem correta das palavras em frases afirmativas! Domine a estrutura SVO (Sujeito-Verbo-Objeto) e construa frases naturais em inglês.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What is Word Order in English?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Word order is how we arrange words in a sentence to make meaning clear. English has a very specific word order that is different from Portuguese! In English affirmative sentences, we follow the SVO pattern: Subject + Verb + Object. This means WHO does WHAT to WHOM. Understanding this basic structure is essential for speaking natural English and being understood clearly by native speakers.",
+        "texto_portugues": "Ordem das palavras é como organizamos as palavras numa frase para deixar o significado claro. O inglês tem uma ordem de palavras muito específica que é diferente do português! Em frases afirmativas do inglês, seguimos o padrão SVO: Sujeito + Verbo + Objeto. Isso significa QUEM faz O QUÊ para QUEM. Entender essa estrutura básica é essencial para falar inglês natural e ser entendido claramente por falantes nativos.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "estrutura_basica_svo",
+      "titulo": "Basic SVO Structure - The Foundation",
+      "tipo": "vocabulario",
+      "descricao": "A estrutura básica Sujeito + Verbo + Objeto",
+      "itens": [
+        {
+          "ingles": "I eat apples.",
+          "portugues": "Eu como maçãs.",
+          "fonetica": "/aɪ it ˈæpəlz/",
+          "tem_audio": true,
+          "contexto": "S(I) + V(eat) + O(apples) - estrutura mais simples"
+        },
+        {
+          "ingles": "She reads books.",
+          "portugues": "Ela lê livros.",
+          "fonetica": "/ʃi ridz bʊks/",
+          "tem_audio": true,
+          "contexto": "S(She) + V(reads) + O(books) - terceira pessoa singular"
+        },
+        {
+          "ingles": "We watch movies.",
+          "portugues": "Nós assistimos filmes.",
+          "fonetica": "/wi wɑtʃ ˈmuviz/",
+          "tem_audio": true,
+          "contexto": "S(We) + V(watch) + O(movies) - sujeito plural"
+        },
+        {
+          "ingles": "The cat drinks milk.",
+          "portugues": "O gato bebe leite.",
+          "fonetica": "/ðə kæt drɪŋks mɪlk/",
+          "tem_audio": true,
+          "contexto": "S(The cat) + V(drinks) + O(milk) - sujeito com artigo"
+        },
+        {
+          "ingles": "My teacher explains grammar.",
+          "portugues": "Minha professora explica gramática.",
+          "fonetica": "/maɪ ˈtitʃər ɪkˈspleɪnz ˈgræmər/",
+          "tem_audio": true,
+          "contexto": "S(My teacher) + V(explains) + O(grammar) - sujeito composto"
+        }
+      ]
+    },
+    {
+      "id": "sujeito_detalhado",
+      "titulo": "Subject Position - Who Does the Action",
+      "tipo": "vocabulario",
+      "descricao": "O sujeito sempre vem primeiro - quem faz a ação",
+      "itens": [
+        {
+          "ingles": "John plays guitar.",
+          "portugues": "John toca violão.",
+          "fonetica": "/dʒɑn pleɪz gɪˈtɑr/",
+          "tem_audio": true,
+          "contexto": "Subject = John (nome próprio sempre no início)"
+        },
+        {
+          "ingles": "My best friend lives here.",
+          "portugues": "Meu melhor amigo mora aqui.",
+          "fonetica": "/maɪ bɛst frɛnd lɪvz hɪr/",
+          "tem_audio": true,
+          "contexto": "Subject = My best friend (sujeito com modificadores)"
+        },
+        {
+          "ingles": "The small dog barks loudly.",
+          "portugues": "O cachorro pequeno late alto.",
+          "fonetica": "/ðə smɔl dɔg bɑrks ˈlaʊdli/",
+          "tem_audio": true,
+          "contexto": "Subject = The small dog (artigo + adjetivo + substantivo)"
+        },
+        {
+          "ingles": "Three students arrived late.",
+          "portugues": "Três estudantes chegaram atrasados.",
+          "fonetica": "/θri ˈstudənts əˈraɪvd leɪt/",
+          "tem_audio": true,
+          "contexto": "Subject = Three students (número + substantivo)"
+        },
+        {
+          "ingles": "Everyone in my family works hard.",
+          "portugues": "Todo mundo da minha família trabalha duro.",
+          "fonetica": "/ˈɛvriˌwʌn ɪn maɪ ˈfæməli wɜrks hɑrd/",
+          "tem_audio": true,
+          "contexto": "Subject = Everyone in my family (pronome + frase preposicional)"
+        }
+      ]
+    },
+    {
+      "id": "verbo_posicao",
+      "titulo": "Verb Position - The Action Word",
+      "tipo": "vocabulario",
+      "descricao": "O verbo vem depois do sujeito - a ação que é feita",
+      "itens": [
+        {
+          "ingles": "She speaks English fluently.",
+          "portugues": "Ela fala inglês fluentemente.",
+          "fonetica": "/ʃi spiks ˈɪŋglɪʃ ˈfluəntli/",
+          "tem_audio": true,
+          "contexto": "Verb = speaks (ação de comunicação)"
+        },
+        {
+          "ingles": "They build houses professionally.",
+          "portugues": "Eles constroem casas profissionalmente.",
+          "fonetica": "/ðeɪ bɪld ˈhaʊsəz prəˈfɛʃənəli/",
+          "tem_audio": true,
+          "contexto": "Verb = build (ação de construção)"
+        },
+        {
+          "ingles": "The children play games outside.",
+          "portugues": "As crianças brincam jogos lá fora.",
+          "fonetica": "/ðə ˈtʃɪldrən pleɪ geɪmz ˈaʊtˌsaɪd/",
+          "tem_audio": true,
+          "contexto": "Verb = play (ação de diversão)"
+        },
+        {
+          "ingles": "My father drives carefully.",
+          "portugues": "Meu pai dirige cuidadosamente.",
+          "fonetica": "/maɪ ˈfɑðər draɪvz ˈkɛrfəli/",
+          "tem_audio": true,
+          "contexto": "Verb = drives (ação de dirigir)"
+        },
+        {
+          "ingles": "We study mathematics every day.",
+          "portugues": "Nós estudamos matemática todo dia.",
+          "fonetica": "/wi ˈstʌdi ˌmæθəˈmætɪks ˈɛvri deɪ/",
+          "tem_audio": true,
+          "contexto": "Verb = study (ação de aprender)"
+        }
+      ]
+    },
+    {
+      "id": "objeto_direto",
+      "titulo": "Direct Object - What Receives the Action",
+      "tipo": "vocabulario",
+      "descricao": "O objeto direto vem depois do verbo - o que recebe a ação",
+      "itens": [
+        {
+          "ingles": "I buy fresh vegetables.",
+          "portugues": "Eu compro vegetais frescos.",
+          "fonetica": "/aɪ baɪ frɛʃ ˈvɛdʒtəbəlz/",
+          "tem_audio": true,
+          "contexto": "Direct Object = fresh vegetables (o que é comprado)"
+        },
+        {
+          "ingles": "She writes beautiful poems.",
+          "portugues": "Ela escreve poemas bonitos.",
+          "fonetica": "/ʃi raɪts ˈbjutəfəl ˈpoʊəmz/",
+          "tem_audio": true,
+          "contexto": "Direct Object = beautiful poems (o que é escrito)"
+        },
+        {
+          "ingles": "We love Italian food.",
+          "portugues": "Nós amamos comida italiana.",
+          "fonetica": "/wi lʌv ɪˈtæljən fud/",
+          "tem_audio": true,
+          "contexto": "Direct Object = Italian food (o que é amado)"
+        },
+        {
+          "ingles": "The dog chases the ball.",
+          "portugues": "O cachorro persegue a bola.",
+          "fonetica": "/ðə dɔg ˈtʃeɪsəz ðə bɔl/",
+          "tem_audio": true,
+          "contexto": "Direct Object = the ball (o que é perseguido)"
+        },
+        {
+          "ingles": "My sister teaches young children.",
+          "portugues": "Minha irmã ensina crianças pequenas.",
+          "fonetica": "/maɪ ˈsɪstər ˈtitʃəz jʌŋ ˈtʃɪldrən/",
+          "tem_audio": true,
+          "contexto": "Direct Object = young children (quem é ensinado)"
+        }
+      ]
+    },
+    {
+      "id": "adverbios_tempo",
+      "titulo": "Time Adverbs - When the Action Happens",
+      "tipo": "vocabulario",
+      "descricao": "Advérbios de tempo - onde colocá-los na frase",
+      "itens": [
+        {
+          "ingles": "I always drink coffee in the morning.",
+          "portugues": "Eu sempre tomo café de manhã.",
+          "fonetica": "/aɪ ˈɔlweɪz drɪŋk ˈkɔfi ɪn ðə ˈmɔrnɪŋ/",
+          "tem_audio": true,
+          "contexto": "ALWAYS - advérbio de frequência antes do verbo principal"
+        },
+        {
+          "ingles": "She usually works from home.",
+          "portugues": "Ela geralmente trabalha de casa.",
+          "fonetica": "/ʃi ˈjuʒuəli wɜrks frʌm hoʊm/",
+          "tem_audio": true,
+          "contexto": "USUALLY - posição típica: depois do sujeito, antes do verbo"
+        },
+        {
+          "ingles": "We sometimes go to the movies.",
+          "portugues": "Nós às vezes vamos ao cinema.",
+          "fonetica": "/wi ˈsʌmˌtaɪmz goʊ tu ðə ˈmuviz/",
+          "tem_audio": true,
+          "contexto": "SOMETIMES - pode vir no início, meio ou fim da frase"
+        },
+        {
+          "ingles": "They visit us every weekend.",
+          "portugues": "Eles nos visitam todo fim de semana.",
+          "fonetica": "/ðeɪ ˈvɪzət ʌs ˈɛvri ˈwikɛnd/",
+          "tem_audio": true,
+          "contexto": "EVERY WEEKEND - expressões de tempo no final da frase"
+        },
+        {
+          "ingles": "My brother never eats vegetables.",
+          "portugues": "Meu irmão nunca come vegetais.",
+          "fonetica": "/maɪ ˈbrʌðər ˈnɛvər its ˈvɛdʒtəbəlz/",
+          "tem_audio": true,
+          "contexto": "NEVER - advérbio negativo antes do verbo principal"
+        }
+      ]
+    },
+    {
+      "id": "adverbios_lugar",
+      "titulo": "Place Adverbs - Where the Action Happens",
+      "tipo": "vocabulario",
+      "descricao": "Advérbios de lugar - onde a ação acontece",
+      "itens": [
+        {
+          "ingles": "The children play outside every day.",
+          "portugues": "As crianças brincam lá fora todo dia.",
+          "fonetica": "/ðə ˈtʃɪldrən pleɪ ˈaʊtˌsaɪd ˈɛvri deɪ/",
+          "tem_audio": true,
+          "contexto": "OUTSIDE - lugar geralmente vem antes do tempo"
+        },
+        {
+          "ingles": "We meet at the park on Sundays.",
+          "portugues": "Nós nos encontramos no parque aos domingos.",
+          "fonetica": "/wi mit æt ðə pɑrk ɑn ˈsʌndeɪz/",
+          "tem_audio": true,
+          "contexto": "AT THE PARK - lugar específico antes do tempo"
+        },
+        {
+          "ingles": "She studies in her room quietly.",
+          "portugues": "Ela estuda no quarto dela silenciosamente.",
+          "fonetica": "/ʃi ˈstʌdiz ɪn hər rum ˈkwaɪətli/",
+          "tem_audio": true,
+          "contexto": "IN HER ROOM - lugar antes do advérbio de modo"
+        },
+        {
+          "ingles": "They live in New York now.",
+          "portugues": "Eles moram em Nova York agora.",
+          "fonetica": "/ðeɪ lɪv ɪn nu jɔrk naʊ/",
+          "tem_audio": true,
+          "contexto": "IN NEW YORK - cidade/estado como lugar"
+        },
+        {
+          "ingles": "I work here five days a week.",
+          "portugues": "Eu trabalho aqui cinco dias por semana.",
+          "fonetica": "/aɪ wɜrk hɪr faɪv deɪz ə wik/",
+          "tem_audio": true,
+          "contexto": "HERE - advérbio de lugar simples após o verbo"
+        }
+      ]
+    },
+    {
+      "id": "adverbios_modo",
+      "titulo": "Manner Adverbs - How the Action is Done",
+      "tipo": "vocabulario",
+      "descricao": "Advérbios de modo - como a ação é feita",
+      "itens": [
+        {
+          "ingles": "She speaks English perfectly.",
+          "portugues": "Ela fala inglês perfeitamente.",
+          "fonetica": "/ʃi spiks ˈɪŋglɪʃ ˈpɜrfɪktli/",
+          "tem_audio": true,
+          "contexto": "PERFECTLY - advérbio de modo no final da frase"
+        },
+        {
+          "ingles": "He drives very carefully.",
+          "portugues": "Ele dirige muito cuidadosamente.",
+          "fonetica": "/hi draɪvz ˈvɛri ˈkɛrfəli/",
+          "tem_audio": true,
+          "contexto": "VERY CAREFULLY - modo intensificado no final"
+        },
+        {
+          "ingles": "They work together efficiently.",
+          "portugues": "Eles trabalham juntos eficientemente.",
+          "fonetica": "/ðeɪ wɜrk təˈgɛðər ɪˈfɪʃəntli/",
+          "tem_audio": true,
+          "contexto": "EFFICIENTLY - modo após outros complementos"
+        },
+        {
+          "ingles": "I quickly finished my homework.",
+          "portugues": "Eu rapidamente terminei minha lição de casa.",
+          "fonetica": "/aɪ ˈkwɪkli ˈfɪnɪʃt maɪ ˈhoʊmˌwɜrk/",
+          "tem_audio": true,
+          "contexto": "QUICKLY - alguns advérbios podem vir antes do verbo"
+        },
+        {
+          "ingles": "We slowly walked to school.",
+          "portugues": "Nós lentamente caminhamos para a escola.",
+          "fonetica": "/wi ˈsloʊli wɔkt tu skul/",
+          "tem_audio": true,
+          "contexto": "SLOWLY - advérbio de modo antes do verbo principal"
+        }
+      ]
+    },
+    {
+      "id": "ordem_multiplos_adverbios",
+      "titulo": "Multiple Adverbs - The Complete Order",
+      "tipo": "vocabulario",
+      "descricao": "Quando temos vários advérbios: Modo + Lugar + Tempo",
+      "itens": [
+        {
+          "ingles": "She sings beautifully at church every Sunday.",
+          "portugues": "Ela canta lindamente na igreja todo domingo.",
+          "fonetica": "/ʃi sɪŋz ˈbjutəfəli æt tʃɜrtʃ ˈɛvri ˈsʌndeɪ/",
+          "tem_audio": true,
+          "contexto": "Manner + Place + Time (beautifully + at church + every Sunday)"
+        },
+        {
+          "ingles": "They practice carefully in the gym twice a week.",
+          "portugues": "Eles praticam cuidadosamente na academia duas vezes por semana.",
+          "fonetica": "/ðeɪ ˈpræktəs ˈkɛrfəli ɪn ðə dʒɪm twaɪs ə wik/",
+          "tem_audio": true,
+          "contexto": "Ordem: carefully (modo) + in the gym (lugar) + twice a week (tempo)"
+        },
+        {
+          "ingles": "I work hard at the office from Monday to Friday.",
+          "portugues": "Eu trabalho duro no escritório de segunda a sexta.",
+          "fonetica": "/aɪ wɜrk hɑrd æt ði ˈɔfəs frʌm ˈmʌndeɪ tu ˈfraɪdeɪ/",
+          "tem_audio": true,
+          "contexto": "MPT: hard (manner) + at the office (place) + Monday to Friday (time)"
+        },
+        {
+          "ingles": "We dance happily in the living room every evening.",
+          "portugues": "Nós dançamos alegremente na sala todo fim de tarde.",
+          "fonetica": "/wi dæns ˈhæpəli ɪn ðə ˈlɪvɪŋ rum ˈɛvri ˈivnɪŋ/",
+          "tem_audio": true,
+          "contexto": "Sequência completa: Manner + Place + Time"
+        },
+        {
+          "ingles": "He runs quickly around the park in the morning.",
+          "portugues": "Ele corre rapidamente ao redor do parque de manhã.",
+          "fonetica": "/hi rʌnz ˈkwɪkli əˈraʊnd ðə pɑrk ɪn ðə ˈmɔrnɪŋ/",
+          "tem_audio": true,
+          "contexto": "MPT pattern: quickly + around the park + in the morning"
+        }
+      ]
+    },
+    {
+      "id": "frases_complexas",
+      "titulo": "Complex Sentences - Adding More Information",
+      "tipo": "vocabulario",
+      "descricao": "Frases mais complexas mantendo a ordem SVO",
+      "itens": [
+        {
+          "ingles": "My older sister teaches mathematics at the university every Tuesday.",
+          "portugues": "Minha irmã mais velha ensina matemática na universidade toda terça-feira.",
+          "fonetica": "/maɪ ˈoʊldər ˈsɪstər ˈtitʃəz ˌmæθəˈmætɪks æt ðə ˌjunəˈvɜrsəti ˈɛvri ˈtuzdeɪ/",
+          "tem_audio": true,
+          "contexto": "Subject (My older sister) + Verb (teaches) + Object (mathematics) + Place + Time"
+        },
+        {
+          "ingles": "The talented young musician plays classical piano concerts professionally worldwide.",
+          "portugues": "O jovem músico talentoso toca concertos de piano clássico profissionalmente no mundo todo.",
+          "fonetica": "/ðə ˈtæləntəd jʌŋ mjuˈzɪʃən pleɪz ˈklæsəkəl piˈænoʊ ˈkɑnsərts prəˈfɛʃənəli ˈwɜrldˌwaɪd/",
+          "tem_audio": true,
+          "contexto": "Complex subject + verb + complex object + manner + place"
+        },
+        {
+          "ingles": "Three experienced doctors examine patients carefully in the emergency room daily.",
+          "portugues": "Três médicos experientes examinam pacientes cuidadosamente na sala de emergência diariamente.",
+          "fonetica": "/θri ɪkˈspɪriənst ˈdɑktərz ɪgˈzæmən ˈpeɪʃənts ˈkɛrfəli ɪn ði ɪˈmɜrdʒənsi rum ˈdeɪli/",
+          "tem_audio": true,
+          "contexto": "Number + adjective + subject + verb + object + manner + place + time"
+        },
+        {
+          "ingles": "Our dedicated team creates innovative software solutions efficiently in our modern office.",
+          "portugues": "Nossa equipe dedicada cria soluções de software inovadoras eficientemente em nosso escritório moderno.",
+          "fonetica": "/aʊər ˈdɛdəˌkeɪtəd tim kriˈeɪts ˈɪnəˌveɪtɪv ˈsɔfˌwɛr səˈluʃənz ɪˈfɪʃəntli ɪn aʊər ˈmɑdərn ˈɔfəs/",
+          "tem_audio": true,
+          "contexto": "Possessive + adjective + subject + verb + adjective + object + manner + place"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue with Correct Word Order",
+      "tipo": "dialogo",
+      "descricao": "Conversa real mostrando a ordem correta das palavras",
+      "participantes": ["Maria", "Tom"],
+      "conversas": [
+        {
+          "falante": "Maria",
+          "ingles": "Hi Tom! I study English at the language center every evening.",
+          "portugues": "Oi Tom! Eu estudo inglês no centro de idiomas toda noite.",
+          "fonetica": "/haɪ tɑm aɪ ˈstʌdi ˈɪŋglɪʃ æt ðə ˈlæŋgwɪdʒ ˈsɛntər ˈɛvri ˈivnɪŋ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Tom",
+          "ingles": "That's great! My wife teaches Portuguese at that same center on weekends.",
+          "portugues": "Que ótimo! Minha esposa ensina português nesse mesmo centro nos fins de semana.",
+          "fonetica": "/ðæts greɪt maɪ waɪf ˈtitʃəz ˌpɔrtʃəˈgiz æt ðæt seɪm ˈsɛntər ɑn ˈwikɛndz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Maria",
+          "ingles": "Really? She probably knows my teacher! I always practice conversation exercises carefully in class.",
+          "portugues": "Sério? Ela provavelmente conhece minha professora! Eu sempre pratico exercícios de conversação cuidadosamente na aula.",
+          "fonetica": "/ˈrɪli ʃi ˈprɑbəbli noʊz maɪ ˈtitʃər aɪ ˈɔlweɪz ˈpræktəs ˌkɑnvərˈseɪʃən ˈɛksərˌsaɪzəz ˈkɛrfəli ɪn klæs/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Tom",
+          "ingles": "I understand! My children do their homework diligently at home after school too.",
+          "portugues": "Eu entendo! Meus filhos fazem a lição de casa diligentemente em casa depois da escola também.",
+          "fonetica": "/aɪ ˌʌndərˈstænd maɪ ˈtʃɪldrən du ðɛr ˈhoʊmˌwɜrk ˈdɪləgəntli æt hoʊm ˈæftər skul tu/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Maria",
+          "ingles": "Learning languages requires patience and practice! I usually review my notes quietly in the library every afternoon.",
+          "portugues": "Aprender idiomas requer paciência e prática! Eu geralmente reviso minhas anotações silenciosamente na biblioteca toda tarde.",
+          "fonetica": "/ˈlɜrnɪŋ ˈlæŋgwɪdʒəz rɪˈkwaɪərz ˈpeɪʃəns ænd ˈpræktəs aɪ ˈjuʒuəli rɪˈvju maɪ noʊts ˈkwaɪətli ɪn ðə ˈlaɪˌbrɛri ˈɛvri ˌæftərˈnun/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Tom",
+          "ingles": "You work very hard! I believe you speak English fluently very soon.",
+          "portugues": "Você trabalha muito duro! Eu acredito que você fala inglês fluentemente muito em breve.",
+          "fonetica": "/ju wɜrk ˈvɛri hɑrd aɪ bɪˈliv ju spik ˈɪŋglɪʃ ˈfluəntli ˈvɛri sun/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Daily Routine with Perfect Word Order",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let me describe my daily routine using correct English word order! I wake up early every morning at six o'clock. I always drink coffee quickly in the kitchen before breakfast. My wife prepares healthy meals carefully for our family daily. We eat breakfast together peacefully in the dining room at seven-thirty. I drive to work safely through heavy traffic every weekday morning. I work hard at my office in downtown from nine to five. My colleagues discuss important projects enthusiastically in our conference room twice a week. I usually eat lunch alone quietly in the company cafeteria at noon. After work, I exercise regularly at the local gym for one hour. I drive home slowly through the busy streets every evening. We have dinner together happily in our kitchen at seven PM. I read interesting books comfortably in my favorite chair before bedtime. My family watches movies together cheerfully in the living room on weekends. This routine keeps us healthy and happy throughout the year!",
+        "texto_portugues": "Deixe-me descrever minha rotina diária usando a ordem correta das palavras em inglês! Eu acordo cedo toda manhã às seis horas. Eu sempre bebo café rapidamente na cozinha antes do café da manhã. Minha esposa prepara refeições saudáveis cuidadosamente para nossa família diariamente. Nós tomamos café da manhã juntos pacificamente na sala de jantar às sete e meia. Eu dirijo para o trabalho com segurança através do trânsito pesado toda manhã dos dias úteis. Eu trabalho duro no meu escritório no centro das nove às cinco. Meus colegas discutem projetos importantes entusiasticamente em nossa sala de conferência duas vezes por semana. Eu geralmente almoço sozinho silenciosamente no refeitório da empresa ao meio-dia. Depois do trabalho, eu me exercito regularmente na academia local por uma hora. Eu dirijo para casa devagar pelas ruas movimentadas toda noite. Nós jantamos juntos felizmente em nossa cozinha às sete da noite. Eu leio livros interessantes confortavelmente na minha cadeira favorita antes de dormir. Minha família assiste filmes juntos alegremente na sala de estar nos fins de semana. Esta rotina nos mantém saudáveis e felizes durante todo o ano!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Mastering English Word Order",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are essential tips for mastering English word order: 1) Always remember SVO: Subject + Verb + Object. This is the foundation! 2) Time and place adverbs usually go at the END of the sentence. 3) Frequency adverbs (always, usually, sometimes, never) go BEFORE the main verb. 4) When you have multiple adverbs, use the order: Manner + Place + Time. 5) Don't translate word order directly from Portuguese - English has its own logic! 6) Practice with simple sentences first, then add complexity gradually. 7) Read aloud to develop natural rhythm and flow. Master this pattern and your English will sound much more natural!",
+        "texto_portugues": "Aqui estão dicas essenciais para dominar a ordem das palavras em inglês: 1) Sempre lembre SVO: Sujeito + Verbo + Objeto. Esta é a base! 2) Advérbios de tempo e lugar geralmente vão no FINAL da frase. 3) Advérbios de frequência (always, usually, sometimes, never) vão ANTES do verbo principal. 4) Quando você tem múltiplos advérbios, use a ordem: Modo + Lugar + Tempo. 5) Não traduza a ordem das palavras diretamente do português - o inglês tem sua própria lógica! 6) Pratique com frases simples primeiro, depois adicione complexidade gradualmente. 7) Leia em voz alta para desenvolver ritmo e fluidez naturais. Domine esse padrão e seu inglês soará muito mais natural!",
+        "tem_audio": true
+      }
+    }
+  ]
+},
+{
+  "id": "pratica_final",
+  "titulo": "Your Turn to Practice!",
+  "tipo": "texto",
+  "conteudo": {
+    "texto_ingles": "Now practice perfect English word order! Start with simple SVO sentences about your daily activities. Then add one adverb at a time: first manner (how), then place (where), then time (when). Create sentences about your family, work, and hobbies using correct word order. Practice saying: 'I [verb] [object] [manner] [place] [time]'. Remember, consistency is key - always follow the same pattern and your English will sound natural and professional. Don't worry about complex grammar at first; master the basic SVO structure and build from there!",
+    "texto_portugues": "Agora pratique a ordem perfeita das palavras em inglês! Comece com frases SVO simples sobre suas atividades diárias. Depois adicione um advérbio por vez: primeiro modo (como), depois lugar (onde), depois tempo (quando). Crie frases sobre sua família, trabalho e hobbies usando a ordem correta das palavras. Pratique dizendo: 'I [verbo] [objeto] [modo] [lugar] [tempo]'. Lembre-se, consistência é a chave - sempre siga o mesmo padrão e seu inglês soará natural e profissional. Não se preocupe com gramática complexa no início; domine a estrutura básica SVO e construa a partir daí!",
+    "tem_audio": true
+  }
+}
