@@ -1,0 +1,451 @@
+{
+  "titulo": "Verbos Irregulares",
+  "descricao": "Aprenda os verbos irregulares mais importantes do inglês! Domine as conjugações especiais que não seguem as regras normais.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What Makes Verbs Irregular?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Irregular verbs don't follow the normal rules we learned for regular verbs. They have special forms that you need to memorize. The good news is that irregular verbs are usually very common, so you'll use them often! In this lesson, we'll focus on the most important irregular verbs in the Simple Present tense.",
+        "texto_portugues": "Verbos irregulares não seguem as regras normais que aprendemos para verbos regulares. Eles têm formas especiais que você precisa memorizar. A boa notícia é que verbos irregulares geralmente são muito comuns, então você os usará frequentemente! Nesta aula, vamos focar nos verbos irregulares mais importantes no Present Simple.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "verbo_be",
+      "titulo": "The Verb 'BE' - Most Irregular Verb",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "We already learned 'to be' in lesson 3, but let's remember: it's the most irregular verb in English! It has three different forms in the present: AM (I am), IS (he/she/it is), ARE (you/we/they are). No other verb in English changes this much!",
+        "texto_portugues": "Já aprendemos 'to be' na aula 3, mas vamos relembrar: é o verbo mais irregular do inglês! Tem três formas diferentes no presente: AM (I am), IS (he/she/it is), ARE (you/we/they are). Nenhum outro verbo em inglês muda tanto assim!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "verbo_have",
+      "titulo": "The Verb 'HAVE' - Essential Irregular Verb",
+      "tipo": "vocabulario",
+      "descricao": "O verbo HAVE e suas formas irregulares",
+      "itens": [
+        {
+          "ingles": "I have a car.",
+          "portugues": "Eu tenho um carro.",
+          "fonetica": "/aɪ hæv ə kɑr/",
+          "tem_audio": true,
+          "contexto": "HAVE: Normal form for I, you, we, they"
+        },
+        {
+          "ingles": "You have a beautiful house.",
+          "portugues": "Você tem uma casa bonita.",
+          "fonetica": "/ju hæv ə ˈbjutəfəl haʊs/",
+          "tem_audio": true,
+          "contexto": "HAVE: Same form for 'you'"
+        },
+        {
+          "ingles": "He has a dog.",
+          "portugues": "Ele tem um cachorro.",
+          "fonetica": "/hi hæz ə dɔg/",
+          "tem_audio": true,
+          "contexto": "HAS: Special form for he/she/it (not 'haves'!)"
+        },
+        {
+          "ingles": "She has brown eyes.",
+          "portugues": "Ela tem olhos castanhos.",
+          "fonetica": "/ʃi hæz braʊn aɪz/",
+          "tem_audio": true,
+          "contexto": "HAS: Always use 'has' for he/she/it"
+        },
+        {
+          "ingles": "We have time.",
+          "portugues": "Nós temos tempo.",
+          "fonetica": "/wi hæv taɪm/",
+          "tem_audio": true,
+          "contexto": "HAVE: Back to normal form for we/they"
+        },
+        {
+          "ingles": "They have children.",
+          "portugues": "Eles têm filhos.",
+          "fonetica": "/ðeɪ hæv ˈtʃɪldrən/",
+          "tem_audio": true,
+          "contexto": "HAVE: Plural form"
+        }
+      ]
+    },
+    {
+      "id": "verbo_do",
+      "titulo": "The Verb 'DO' - Important Action Verb",
+      "tipo": "vocabulario",
+      "descricao": "O verbo DO e sua forma irregular DOES",
+      "itens": [
+        {
+          "ingles": "I do my homework every day.",
+          "portugues": "Eu faço minha lição de casa todo dia.",
+          "fonetica": "/aɪ du maɪ ˈhoʊmwɜrk ˈɛvri deɪ/",
+          "tem_audio": true,
+          "contexto": "DO: Normal form for I, you, we, they"
+        },
+        {
+          "ingles": "You do a great job!",
+          "portugues": "Você faz um ótimo trabalho!",
+          "fonetica": "/ju du ə greɪt dʒɑb/",
+          "tem_audio": true,
+          "contexto": "DO: Same for 'you'"
+        },
+        {
+          "ingles": "He does his best.",
+          "portugues": "Ele faz o seu melhor.",
+          "fonetica": "/hi dʌz hɪz bɛst/",
+          "tem_audio": true,
+          "contexto": "DOES: Special form for he/she/it (not 'dos'!)"
+        },
+        {
+          "ingles": "She does yoga every morning.",
+          "portugues": "Ela faz yoga toda manhã.",
+          "fonetica": "/ʃi dʌz ˈjoʊgə ˈɛvri ˈmɔrnɪŋ/",
+          "tem_audio": true,
+          "contexto": "DOES: Always for third person singular"
+        },
+        {
+          "ingles": "We do sports together.",
+          "portugues": "Nós fazemos esportes juntos.",
+          "fonetica": "/wi du spɔrts təˈgɛðər/",
+          "tem_audio": true,
+          "contexto": "DO: Plural form"
+        }
+      ]
+    },
+    {
+      "id": "verbo_go",
+      "titulo": "The Verb 'GO' - Essential Movement Verb",
+      "tipo": "vocabulario",
+      "descricao": "O verbo GO e sua forma irregular GOES",
+      "itens": [
+        {
+          "ingles": "I go to work by bus.",
+          "portugues": "Eu vou trabalhar de ônibus.",
+          "fonetica": "/aɪ goʊ tu wɜrk baɪ bʌs/",
+          "tem_audio": true,
+          "contexto": "GO: Normal form"
+        },
+        {
+          "ingles": "You go to the same school.",
+          "portugues": "Você vai para a mesma escola.",
+          "fonetica": "/ju goʊ tu ðə seɪm skul/",
+          "tem_audio": true,
+          "contexto": "GO: Same form"
+        },
+        {
+          "ingles": "He goes shopping on Saturdays.",
+          "portugues": "Ele vai às compras aos sábados.",
+          "fonetica": "/hi goʊz ˈʃɑpɪŋ ɑn ˈsætərdeɪz/",
+          "tem_audio": true,
+          "contexto": "GOES: Irregular third person (adds -ES, not just -S)"
+        },
+        {
+          "ingles": "She goes to the gym daily.",
+          "portugues": "Ela vai à academia diariamente.",
+          "fonetica": "/ʃi goʊz tu ðə dʒɪm ˈdeɪli/",
+          "tem_audio": true,
+          "contexto": "GOES: Very common pattern"
+        },
+        {
+          "ingles": "We go out on weekends.",
+          "portugues": "Nós saímos nos fins de semana.",
+          "fonetica": "/wi goʊ aʊt ɑn ˈwikɛndz/",
+          "tem_audio": true,
+          "contexto": "GO: Back to normal for plural"
+        }
+      ]
+    },
+    {
+      "id": "verbo_come",
+      "titulo": "The Verb 'COME' - Another Movement Verb",
+      "tipo": "vocabulario",
+      "descricao": "O verbo COME e sua conjugação",
+      "itens": [
+        {
+          "ingles": "I come home at 6 PM.",
+          "portugues": "Eu chego em casa às 18h.",
+          "fonetica": "/aɪ kʌm hoʊm æt sɪks ˌpiˈɛm/",
+          "tem_audio": true,
+          "contexto": "COME: Regular for most persons"
+        },
+        {
+          "ingles": "You come from a nice family.",
+          "portugues": "Você vem de uma família legal.",
+          "fonetica": "/ju kʌm frʌm ə naɪs ˈfæməli/",
+          "tem_audio": true,
+          "contexto": "COME: Same form"
+        },
+        {
+          "ingles": "He comes to class every day.",
+          "portugues": "Ele vem para a aula todo dia.",
+          "fonetica": "/hi kʌmz tu klæs ˈɛvri deɪ/",
+          "tem_audio": true,
+          "contexto": "COMES: Just adds -S (regular pattern for this verb)"
+        },
+        {
+          "ingles": "She comes from Italy.",
+          "portugues": "Ela vem da Itália.",
+          "fonetica": "/ʃi kʌmz frʌm ˈɪtəli/",
+          "tem_audio": true,
+          "contexto": "COMES: Third person singular"
+        },
+        {
+          "ingles": "We come together as a team.",
+          "portugues": "Nós nos unimos como uma equipe.",
+          "fonetica": "/wi kʌm təˈgɛðər æz ə tim/",
+          "tem_audio": true,
+          "contexto": "COME: Plural form"
+        }
+      ]
+    },
+    {
+      "id": "verbo_say",
+      "titulo": "The Verb 'SAY' - Communication Verb",
+      "tipo": "vocabulario",
+      "descricao": "O verbo SAY para expressar fala",
+      "itens": [
+        {
+          "ingles": "I say 'hello' to everyone.",
+          "portugues": "Eu digo 'olá' para todo mundo.",
+          "fonetica": "/aɪ seɪ həˈloʊ tu ˈɛvriˌwʌn/",
+          "tem_audio": true,
+          "contexto": "SAY: Basic form for most persons"
+        },
+        {
+          "ingles": "You say interesting things.",
+          "portugues": "Você diz coisas interessantes.",
+          "fonetica": "/ju seɪ ˈɪntrəstɪŋ θɪŋz/",
+          "tem_audio": true,
+          "contexto": "SAY: Same form for you"
+        },
+        {
+          "ingles": "He says good morning.",
+          "portugues": "Ele diz bom dia.",
+          "fonetica": "/hi sɛz gʊd ˈmɔrnɪŋ/",
+          "tem_audio": true,
+          "contexto": "SAYS: Note the pronunciation change /sɛz/"
+        },
+        {
+          "ingles": "She says the truth.",
+          "portugues": "Ela diz a verdade.",
+          "fonetica": "/ʃi sɛz ðə truθ/",
+          "tem_audio": true,
+          "contexto": "SAYS: Important pronunciation /sɛz/, not /seɪz/"
+        },
+        {
+          "ingles": "We say our prayers.",
+          "portugues": "Nós fazemos nossas orações.",
+          "fonetica": "/wi seɪ aʊr prɛrz/",
+          "tem_audio": true,
+          "contexto": "SAY: Back to regular form"
+        }
+      ]
+    },
+    {
+      "id": "verbo_get",
+      "titulo": "The Verb 'GET' - Very Common Verb",
+      "tipo": "vocabulario",
+      "descricao": "O verbo GET com múltiplos significados",
+      "itens": [
+        {
+          "ingles": "I get up at 7 AM.",
+          "portugues": "Eu me levanto às 7h.",
+          "fonetica": "/aɪ gɛt ʌp æt ˈsɛvən ˌeɪˈɛm/",
+          "tem_audio": true,
+          "contexto": "GET: Very versatile verb - here means 'wake up'"
+        },
+        {
+          "ingles": "You get good grades.",
+          "portugues": "Você tira notas boas.",
+          "fonetica": "/ju gɛt gʊd greɪdz/",
+          "tem_audio": true,
+          "contexto": "GET: Here means 'receive' or 'obtain'"
+        },
+        {
+          "ingles": "He gets tired easily.",
+          "portugues": "Ele fica cansado facilmente.",
+          "fonetica": "/hi gɛts ˈtaɪərd ˈizəli/",
+          "tem_audio": true,
+          "contexto": "GETS: Here means 'becomes' - regular -S addition"
+        },
+        {
+          "ingles": "She gets to work by car.",
+          "portugues": "Ela chega ao trabalho de carro.",
+          "fonetica": "/ʃi gɛts tu wɜrk baɪ kɑr/",
+          "tem_audio": true,
+          "contexto": "GETS: Here means 'arrives at'"
+        },
+        {
+          "ingles": "We get pizza on Fridays.",
+          "portugues": "Nós compramos pizza às sextas.",
+          "fonetica": "/wi gɛt ˈpitsə ɑn ˈfraɪdeɪz/",
+          "tem_audio": true,
+          "contexto": "GET: Here means 'buy' or 'order'"
+        }
+      ]
+    },
+    {
+      "id": "comparacao_regular_irregular",
+      "titulo": "Regular vs Irregular Comparison",
+      "tipo": "vocabulario",
+      "descricao": "Comparando verbos regulares e irregulares",
+      "itens": [
+        {
+          "ingles": "Regular: I work / He works",
+          "portugues": "Regular: Eu trabalho / Ele trabalha",
+          "fonetica": "/aɪ wɜrk / hi wɜrks/",
+          "tem_audio": true,
+          "contexto": "WORK: Follows normal rule (+S)"
+        },
+        {
+          "ingles": "Irregular: I have / He has",
+          "portugues": "Irregular: Eu tenho / Ele tem",
+          "fonetica": "/aɪ hæv / hi hæz/",
+          "tem_audio": true,
+          "contexto": "HAVE: Special form 'has' (not 'haves')"
+        },
+        {
+          "ingles": "Regular: I listen / She listens",
+          "portugues": "Regular: Eu escuto / Ela escuta",
+          "fonetica": "/aɪ ˈlɪsən / ʃi ˈlɪsənz/",
+          "tem_audio": true,
+          "contexto": "LISTEN: Normal +S rule"
+        },
+        {
+          "ingles": "Irregular: I say / She says",
+          "portugues": "Irregular: Eu digo / Ela diz",
+          "fonetica": "/aɪ seɪ / ʃi sɛz/",
+          "tem_audio": true,
+          "contexto": "SAY: Special pronunciation change"
+        }
+      ]
+    },
+    {
+      "id": "lista_memorizar",
+      "titulo": "Must-Memorize Irregular Verbs",
+      "tipo": "vocabulario",
+      "descricao": "Lista essencial dos verbos irregulares mais importantes",
+      "itens": [
+        {
+          "ingles": "BE: I am / You are / He is / She is / It is / We are / They are",
+          "portugues": "SER/ESTAR: Eu sou/estou / Você é/está / Ele é/está / Ela é/está / Isso é/está / Nós somos/estamos / Eles são/estão",
+          "fonetica": "/bi: aɪ æm / ju ɑr / hi ɪz / ʃi ɪz / ɪt ɪz / wi ɑr / ðeɪ ɑr/",
+          "tem_audio": true,
+          "contexto": "Most irregular - completely different forms"
+        },
+        {
+          "ingles": "HAVE: I have / You have / He has / She has / It has / We have / They have",
+          "portugues": "TER: Eu tenho / Você tem / Ele tem / Ela tem / Isso tem / Nós temos / Eles têm",
+          "fonetica": "/hæv: aɪ hæv / ju hæv / hi hæz / ʃi hæz / ɪt hæz / wi hæv / ðeɪ hæv/",
+          "tem_audio": true,
+          "contexto": "Only third person singular changes to 'has'"
+        },
+        {
+          "ingles": "DO: I do / You do / He does / She does / It does / We do / They do",
+          "portugues": "FAZER: Eu faço / Você faz / Ele faz / Ela faz / Isso faz / Nós fazemos / Eles fazem",
+          "fonetica": "/du: aɪ du / ju du / hi dʌz / ʃi dʌz / ɪt dʌz / wi du / ðeɪ du/",
+          "tem_audio": true,
+          "contexto": "Pronunciation changes for third person: /dʌz/"
+        },
+        {
+          "ingles": "GO: I go / You go / He goes / She goes / It goes / We go / They go",
+          "portugues": "IR: Eu vou / Você vai / Ele vai / Ela vai / Isso vai / Nós vamos / Eles vão",
+          "fonetica": "/goʊ: aɪ goʊ / ju goʊ / hi goʊz / ʃi goʊz / ɪt goʊz / wi goʊ / ðeɪ goʊ/",
+          "tem_audio": true,
+          "contexto": "Adds -ES instead of just -S for third person"
+        },
+        {
+          "ingles": "SAY: I say / You say / He says / She says / It says / We say / They say",
+          "portugues": "DIZER: Eu digo / Você diz / Ele diz / Ela diz / Isso diz / Nós dizemos / Eles dizem",
+          "fonetica": "/seɪ: aɪ seɪ / ju seɪ / hi sɛz / ʃi sɛz / ɪt sɛz / wi seɪ / ðeɪ seɪ/",
+          "tem_audio": true,
+          "contexto": "Third person pronunciation changes from /seɪ/ to /sɛz/"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue with Irregular Verbs",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando apenas verbos irregulares importantes",
+      "participantes": ["Emma", "João"],
+      "conversas": [
+        {
+          "falante": "Emma",
+          "ingles": "Hi João! I am Emma. I have a question about Brazilian culture.",
+          "portugues": "Oi João! Eu sou a Emma. Eu tenho uma pergunta sobre a cultura brasileira.",
+          "fonetica": "/haɪ ˈʒoʊaʊ aɪ æm ˈɛmə aɪ hæv ə ˈkwɛstʃən əˈbaʊt brəˈzɪljən ˈkʌltʃər/",
+          "tem_audio": true
+        },
+        {
+          "falante": "João",
+          "ingles": "Sure! I am from Brazil. What do you want to know?",
+          "portugues": "Claro! Eu sou do Brasil. O que você quer saber?",
+          "fonetica": "/ʃʊr aɪ æm frʌm brəˈzɪl wʌt du ju wænt tu noʊ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Emma",
+          "ingles": "My friend goes to Brazil next month. She has business in Rio. What does she need to know?",
+          "portugues": "Minha amiga vai para o Brasil no próximo mês. Ela tem negócios no Rio. O que ela precisa saber?",
+          "fonetica": "/maɪ frɛnd goʊz tu brəˈzɪl nɛkst mʌnθ ʃi hæz ˈbɪznəs ɪn ˈrioʊ wʌt dʌz ʃi nid tu noʊ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "João",
+          "ingles": "Well, I go to Rio often. People there are very friendly. She comes at a good time - it is summer!",
+          "portugues": "Bem, eu vou ao Rio frequentemente. As pessoas lá são muito amigáveis. Ela vem numa boa época - é verão!",
+          "fonetica": "/wɛl aɪ goʊ tu ˈrioʊ ˈɔfən ˈpipəl ðɛr ɑr ˈvɛri ˈfrɛndli ʃi kʌmz æt ə gʊd taɪm ɪt ɪz ˈsʌmər/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Emma",
+          "ingles": "That's great! What does she need to do about the language? She does not speak Portuguese.",
+          "portugues": "Que ótimo! O que ela precisa fazer sobre o idioma? Ela não fala português.",
+          "fonetica": "/ðæts greɪt wʌt dʌz ʃi nid tu du əˈbaʊt ðə ˈlæŋgwɪdʒ ʃi dʌz nɑt spik ˌpɔrtʃəˈgiz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "João",
+          "ingles": "No problem! Many people have some English there. She gets help easily. Everyone says 'Welcome!' to visitors.",
+          "portugues": "Sem problema! Muitas pessoas têm um pouco de inglês lá. Ela consegue ajuda facilmente. Todo mundo diz 'Bem-vinda!' para visitantes.",
+          "fonetica": "/noʊ ˈprɑbləm ˈmɛni ˈpipəl hæv sʌm ˈɪŋglɪʃ ðɛr ʃi gɛts hɛlp ˈizəli ˈɛvriˌwʌn sɛz ˈwɛlkəm tu ˈvɪzətərz/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Daily Life with Irregular Verbs",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "My name is Roberto. I am a teacher and I have two children. Every morning, I get up at 6 AM and I go to school by car. My wife has a different schedule - she goes to work at 8 AM. We are both very busy, but we have time for family. Our son comes home from school at 3 PM. He does his homework and then he says he is tired. Our daughter gets home later because she has after-school activities. In the evening, we all come together for dinner. I say grace and we eat as a family. We are happy together!",
+        "texto_portugues": "Meu nome é Roberto. Eu sou professor e tenho dois filhos. Toda manhã, eu me levanto às 6h e vou para a escola de carro. Minha esposa tem um horário diferente - ela vai trabalhar às 8h. Nós dois somos muito ocupados, mas temos tempo para a família. Nosso filho chega em casa da escola às 15h. Ele faz a lição de casa e depois diz que está cansado. Nossa filha chega em casa mais tarde porque tem atividades extracurriculares. À noite, todos nós nos reunimos para o jantar. Eu faço a oração e comemos como família. Somos felizes juntos!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Memorizing Irregular Verbs",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here's how to memorize irregular verbs: 1) Focus on the most common ones first: be, have, do, go, get, come, say. 2) Use them in daily conversations - practice makes permanent! 3) Pay attention to pronunciation changes (like 'says' = /sɛz/). 4) Create personal sentences using these verbs. 5) Remember that irregular verbs are usually the most commonly used verbs, so you'll practice them naturally!",
+        "texto_portugues": "Aqui está como memorizar verbos irregulares: 1) Foque primeiro nos mais comuns: be, have, do, go, get, come, say. 2) Use-os em conversas diárias - a prática torna permanente! 3) Preste atenção nas mudanças de pronúncia (como 'says' = /sɛz/). 4) Crie frases pessoais usando esses verbos. 5) Lembre-se que verbos irregulares geralmente são os mais usados, então você os praticará naturalmente!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice with irregular verbs! Create sentences using each of these verbs: be, have, do, go, get, come, say. Try to use different subjects (I, you, he, she, it, we, they) and pay attention to the special forms. Write about your daily routine using these irregular verbs. Remember: these are the most important verbs in English, so master them first!",
+        "texto_portugues": "Agora pratique com verbos irregulares! Crie frases usando cada um destes verbos: be, have, do, go, get, come, say. Tente usar diferentes sujeitos (I, you, he, she, it, we, they) e preste atenção nas formas especiais. Escreva sobre sua rotina diária usando esses verbos irregulares. Lembre-se: esses são os verbos mais importantes em inglês, então domine-os primeiro!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
