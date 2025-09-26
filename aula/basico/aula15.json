@@ -1,0 +1,462 @@
+{
+  "titulo": "Números Cardinais",
+  "descricao": "Aprenda os números cardinais em inglês! Domine como contar, falar sobre quantidades, preços, idades e muito mais com confiança.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What are Cardinal Numbers?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Cardinal numbers are the basic counting numbers we use every day: one, two, three, four, etc. These numbers tell us 'how many' of something we have. Cardinal numbers are essential for shopping, telling age, giving phone numbers, talking about time, and many daily activities. In English, numbers follow specific patterns that make them easier to learn once you understand the system!",
+        "texto_portugues": "Números cardinais são os números básicos de contagem que usamos todo dia: one, two, three, four, etc. Esses números nos dizem 'quantos' de algo temos. Números cardinais são essenciais para fazer compras, dizer a idade, dar números de telefone, falar sobre tempo e muitas atividades diárias. Em inglês, os números seguem padrões específicos que os tornam mais fáceis de aprender uma vez que você entende o sistema!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "numeros_1_10",
+      "titulo": "Numbers 1-10 - The Foundation",
+      "tipo": "vocabulario",
+      "descricao": "Os números básicos de 1 a 10 - a base de todos os outros",
+      "itens": [
+        {
+          "ingles": "One apple, please.",
+          "portugues": "Uma maçã, por favor.",
+          "fonetica": "/wʌn ˈæpəl pliz/",
+          "tem_audio": true,
+          "contexto": "ONE (1) - primeiro número, muito comum"
+        },
+        {
+          "ingles": "I have two cats.",
+          "portugues": "Eu tenho dois gatos.",
+          "fonetica": "/aɪ hæv tu kæts/",
+          "tem_audio": true,
+          "contexto": "TWO (2) - número par, plural necessário"
+        },
+        {
+          "ingles": "Three children are playing.",
+          "portugues": "Três crianças estão brincando.",
+          "fonetica": "/θri ˈtʃɪldrən ɑr ˈpleɪɪŋ/",
+          "tem_audio": true,
+          "contexto": "THREE (3) - som /θ/ importante"
+        },
+        {
+          "ingles": "Four seasons in a year.",
+          "portugues": "Quatro estações num ano.",
+          "fonetica": "/fɔr ˈsizənz ɪn ə jɪr/",
+          "tem_audio": true,
+          "contexto": "FOUR (4) - rima com 'more' e 'door'"
+        },
+        {
+          "ingles": "Five fingers on my hand.",
+          "portugues": "Cinco dedos na minha mão.",
+          "fonetica": "/faɪv ˈfɪŋgərz ɑn maɪ hænd/",
+          "tem_audio": true,
+          "contexto": "FIVE (5) - som /faɪv/, não confundir com 'fife'"
+        },
+        {
+          "ingles": "Six days a week I work.",
+          "portugues": "Seis dias por semana eu trabalho.",
+          "fonetica": "/sɪks deɪz ə wik aɪ wɜrk/",
+          "tem_audio": true,
+          "contexto": "SIX (6) - som curto /sɪks/"
+        }
+      ]
+    },
+    {
+      "id": "numeros_11_20",
+      "titulo": "Numbers 11-20 - The Teens",
+      "tipo": "vocabulario",
+      "descricao": "Os números de 11 a 20 - padrões especiais dos 'teens'",
+      "itens": [
+        {
+          "ingles": "I am eleven years old.",
+          "portugues": "Eu tenho onze anos.",
+          "fonetica": "/aɪ æm ɪˈlɛvən jɪrz oʊld/",
+          "tem_audio": true,
+          "contexto": "ELEVEN (11) - forma especial, não segue padrão"
+        },
+        {
+          "ingles": "Twelve months in a year.",
+          "portugues": "Doze meses num ano.",
+          "fonetica": "/twɛlv mʌnθs ɪn ə jɪr/",
+          "tem_audio": true,
+          "contexto": "TWELVE (12) - forma especial, não 'twoteen'"
+        },
+        {
+          "ingles": "Thirteen is a lucky number.",
+          "portugues": "Treze é um número de sorte.",
+          "fonetica": "/ˌθɜrˈtin ɪz ə ˈlʌki ˈnʌmbər/",
+          "tem_audio": true,
+          "contexto": "THIRTEEN (13) - padrão 'three + teen'"
+        },
+        {
+          "ingles": "Fourteen students in class.",
+          "portugues": "Quatorze estudantes na turma.",
+          "fonetica": "/ˌfɔrˈtin ˈstudənts ɪn klæs/",
+          "tem_audio": true,
+          "contexto": "FOURTEEN (14) - 'four + teen'"
+        },
+        {
+          "ingles": "Fifteen minutes break.",
+          "portugues": "Quinze minutos de intervalo.",
+          "fonetica": "/ˌfɪfˈtin ˈmɪnəts breɪk/",
+          "tem_audio": true,
+          "contexto": "FIFTEEN (15) - 'five' muda para 'fif + teen'"
+        },
+        {
+          "ingles": "Sixteen candles on the cake.",
+          "portugues": "Dezesseis velas no bolo.",
+          "fonetica": "/ˌsɪksˈtin ˈkændəlz ɑn ðə keɪk/",
+          "tem_audio": true,
+          "contexto": "SIXTEEN (16) - 'six + teen'"
+        }
+      ]
+    },
+    {
+      "id": "numeros_dezenas",
+      "titulo": "Tens: 20, 30, 40... 90",
+      "tipo": "vocabulario",
+      "descricao": "As dezenas - padrão regular com -ty",
+      "itens": [
+        {
+          "ingles": "Twenty people came to the party.",
+          "portugues": "Vinte pessoas vieram à festa.",
+          "fonetica": "/ˈtwɛnti ˈpipəl keɪm tu ðə ˈpɑrti/",
+          "tem_audio": true,
+          "contexto": "TWENTY (20) - base para 21, 22, 23..."
+        },
+        {
+          "ingles": "Thirty days in November.",
+          "portugues": "Trinta dias em novembro.",
+          "fonetica": "/ˈθɜrti deɪz ɪn noʊˈvɛmbər/",
+          "tem_audio": true,
+          "contexto": "THIRTY (30) - 'three' muda para 'thir + ty'"
+        },
+        {
+          "ingles": "Forty hours a week.",
+          "portugues": "Quarenta horas por semana.",
+          "fonetica": "/ˈfɔrti aʊərz ə wik/",
+          "tem_audio": true,
+          "contexto": "FORTY (40) - 'four' muda para 'for + ty' (sem 'u'!)"
+        },
+        {
+          "ingles": "Fifty states in the USA.",
+          "portugues": "Cinquenta estados nos EUA.",
+          "fonetica": "/ˈfɪfti steɪts ɪn ðə ˌjuˌɛsˈeɪ/",
+          "tem_audio": true,
+          "contexto": "FIFTY (50) - 'five' muda para 'fif + ty'"
+        },
+        {
+          "ingles": "Sixty seconds in a minute.",
+          "portugues": "Sessenta segundos num minuto.",
+          "fonetica": "/ˈsɪksti ˈsɛkəndz ɪn ə ˈmɪnət/",
+          "tem_audio": true,
+          "contexto": "SIXTY (60) - padrão regular 'six + ty'"
+        },
+        {
+          "ingles": "Ninety degrees is very hot.",
+          "portugues": "Noventa graus é muito quente.",
+          "fonetica": "/ˈnaɪnti dɪˈgriz ɪz ˈvɛri hɑt/",
+          "tem_audio": true,
+          "contexto": "NINETY (90) - 'nine' muda para 'nin + ty'"
+        }
+      ]
+    },
+    {
+      "id": "numeros_compostos",
+      "titulo": "Compound Numbers: 21-99",
+      "tipo": "vocabulario",
+      "descricao": "Números compostos - combinando dezenas com unidades",
+      "itens": [
+        {
+          "ingles": "Twenty-one is my lucky number.",
+          "portugues": "Vinte e um é meu número da sorte.",
+          "fonetica": "/ˈtwɛnti wʌn ɪz maɪ ˈlʌki ˈnʌmbər/",
+          "tem_audio": true,
+          "contexto": "TWENTY-ONE (21) - padrão: dezena + hífen + unidade"
+        },
+        {
+          "ingles": "Thirty-five students in my class.",
+          "portugues": "Trinta e cinco estudantes na minha turma.",
+          "fonetica": "/ˈθɜrti faɪv ˈstudənts ɪn maɪ klæs/",
+          "tem_audio": true,
+          "contexto": "THIRTY-FIVE (35) - hífen conecta os números"
+        },
+        {
+          "ingles": "Forty-seven years old.",
+          "portugues": "Quarenta e sete anos.",
+          "fonetica": "/ˈfɔrti ˈsɛvən jɪrz oʊld/",
+          "tem_audio": true,
+          "contexto": "FORTY-SEVEN (47) - sempre com hífen na escrita"
+        },
+        {
+          "ingles": "Fifty-nine minutes left.",
+          "portugues": "Cinquenta e nove minutos restantes.",
+          "fonetica": "/ˈfɪfti naɪn ˈmɪnəts lɛft/",
+          "tem_audio": true,
+          "contexto": "FIFTY-NINE (59) - quase sessenta"
+        },
+        {
+          "ingles": "Eighty-two degrees Fahrenheit.",
+          "portugues": "Oitenta e dois graus Fahrenheit.",
+          "fonetica": "/ˈeɪti tu dɪˈgriz ˈfɛrənˌhaɪt/",
+          "tem_audio": true,
+          "contexto": "EIGHTY-TWO (82) - temperatura comum"
+        }
+      ]
+    },
+    {
+      "id": "centenas",
+      "titulo": "Hundreds: 100, 200, 300...",
+      "tipo": "vocabulario",
+      "descricao": "As centenas - usando 'hundred'",
+      "itens": [
+        {
+          "ingles": "One hundred people attended.",
+          "portugues": "Cem pessoas compareceram.",
+          "fonetica": "/wʌn ˈhʌndrəd ˈpipəl əˈtɛndəd/",
+          "tem_audio": true,
+          "contexto": "ONE HUNDRED (100) - 'a hundred' também é correto"
+        },
+        {
+          "ingles": "Two hundred dollars.",
+          "portugues": "Duzentos dólares.",
+          "fonetica": "/tu ˈhʌndrəd ˈdɑlərz/",
+          "tem_audio": true,
+          "contexto": "TWO HUNDRED (200) - 'hundred' não tem 's'"
+        },
+        {
+          "ingles": "Three hundred sixty-five days.",
+          "portugues": "trezentos e sessenta e cinco dias.",
+          "fonetica": "/θri ˈhʌndrəd ˈsɪksti faɪv deɪz/",
+          "tem_audio": true,
+          "contexto": "365 - número completo, dias no ano"
+        },
+        {
+          "ingles": "Five hundred fifty students.",
+          "portugues": "Quinhentos e cinquenta estudantes.",
+          "fonetica": "/faɪv ˈhʌndrəd ˈfɪfti ˈstudənts/",
+          "tem_audio": true,
+          "contexto": "550 - combinando centenas com dezenas"
+        },
+        {
+          "ingles": "Nine hundred ninety-nine.",
+          "portugues": "Novecentos e noventa e nove.",
+          "fonetica": "/naɪn ˈhʌndrəd ˈnaɪnti naɪn/",
+          "tem_audio": true,
+          "contexto": "999 - quase mil"
+        }
+      ]
+    },
+    {
+      "id": "milhares",
+      "titulo": "Thousands and Beyond",
+      "tipo": "vocabulario",
+      "descricao": "Milhares e números grandes",
+      "itens": [
+        {
+          "ingles": "One thousand books in the library.",
+          "portugues": "Mil livros na biblioteca.",
+          "fonetica": "/wʌn ˈθaʊzənd bʊks ɪn ðə ˈlaɪˌbrɛri/",
+          "tem_audio": true,
+          "contexto": "ONE THOUSAND (1,000) - 'a thousand' também correto"
+        },
+        {
+          "ingles": "Ten thousand people live here.",
+          "portugues": "Dez mil pessoas moram aqui.",
+          "fonetica": "/tɛn ˈθaʊzənd ˈpipəl lɪv hɪr/",
+          "tem_audio": true,
+          "contexto": "TEN THOUSAND (10,000) - cidade pequena"
+        },
+        {
+          "ingles": "One million dollars!",
+          "portugues": "Um milhão de dólares!",
+          "fonetica": "/wʌn ˈmɪljən ˈdɑlərz/",
+          "tem_audio": true,
+          "contexto": "ONE MILLION (1,000,000) - sonho de muitos!"
+        },
+        {
+          "ingles": "Two point five million people.",
+          "portugues": "Dois vírgula cinco milhões de pessoas.",
+          "fonetica": "/tu pɔɪnt faɪv ˈmɪljən ˈpipəl/",
+          "tem_audio": true,
+          "contexto": "2.5 million - usando decimais com números grandes"
+        },
+        {
+          "ingles": "One billion stars in the sky.",
+          "portugues": "Um bilhão de estrelas no céu.",
+          "fonetica": "/wʌn ˈbɪljən stɑrz ɪn ðə skaɪ/",
+          "tem_audio": true,
+          "contexto": "ONE BILLION (1,000,000,000) - número astronômico"
+        }
+      ]
+    },
+    {
+      "id": "numeros_praticos",
+      "titulo": "Numbers in Daily Life",
+      "tipo": "vocabulario",
+      "descricao": "Números em situações do dia a dia",
+      "itens": [
+        {
+          "ingles": "My phone number is 555-1234.",
+          "portugues": "Meu número de telefone é 555-1234.",
+          "fonetica": "/maɪ foʊn ˈnʌmbər ɪz faɪv faɪv faɪv wʌn tu θri fɔr/",
+          "tem_audio": true,
+          "contexto": "Phone numbers - each digit spoken separately"
+        },
+        {
+          "ingles": "The price is $19.99.",
+          "portugues": "O preço é $19,99.",
+          "fonetica": "/ðə praɪs ɪz ˈnaɪnˌtin ˈnaɪnti naɪn/",
+          "tem_audio": true,
+          "contexto": "Prices - nineteen ninety-nine or nineteen dollars ninety-nine cents"
+        },
+        {
+          "ingles": "I live at 123 Main Street.",
+          "portugues": "Eu moro na rua Main, 123.",
+          "fonetica": "/aɪ lɪv æt wʌn tu θri meɪn strit/",
+          "tem_audio": true,
+          "contexto": "Addresses - numbers spoken as individual digits or 'one hundred twenty-three'"
+        },
+        {
+          "ingles": "Room number 205.",
+          "portugues": "Quarto número 205.",
+          "fonetica": "/rum ˈnʌmbər tu oʊ faɪv/",
+          "tem_audio": true,
+          "contexto": "Room numbers - often said as 'two oh five' or 'two zero five'"
+        },
+        {
+          "ingles": "I was born in 1990.",
+          "portugues": "Eu nasci em 1990.",
+          "fonetica": "/aɪ wʌz bɔrn ɪn ˈnaɪnˌtin ˈnaɪnti/",
+          "tem_audio": true,
+          "contexto": "Years - said as 'nineteen ninety', not 'one thousand nine hundred ninety'"
+        }
+      ]
+    },
+    {
+      "id": "zero_oh",
+      "titulo": "Zero and 'Oh' - When to Use Each",
+      "tipo": "vocabulario",
+      "descricao": "Quando usar 'zero' e quando usar 'oh'",
+      "itens": [
+        {
+          "ingles": "The temperature is zero degrees.",
+          "portugues": "A temperatura é zero grau.",
+          "fonetica": "/ðə ˈtɛmpərətʃər ɪz ˈzɪroʊ dɪˈgriz/",
+          "tem_audio": true,
+          "contexto": "ZERO - for temperature, mathematics, scores"
+        },
+        {
+          "ingles": "My number is 305-0987.",
+          "portugues": "Meu número é 305-0987.",
+          "fonetica": "/maɪ ˈnʌmbər ɪz θri oʊ faɪv oʊ naɪn eɪt ˈsɛvən/",
+          "tem_audio": true,
+          "contexto": "OH - for phone numbers, addresses, years"
+        },
+        {
+          "ingles": "The score is three to zero.",
+          "portugues": "O placar é três a zero.",
+          "fonetica": "/ðə skɔr ɪz θri tu ˈzɪroʊ/",
+          "tem_audio": true,
+          "contexto": "ZERO - in sports scores"
+        },
+        {
+          "ingles": "I live at 1025 Oak Street.",
+          "portugues": "Eu moro na rua Oak, 1025.",
+          "fonetica": "/aɪ lɪv æt tɛn oʊ ˈtwɛnti faɪv oʊk strit/",
+          "tem_audio": true,
+          "contexto": "OH - in addresses (ten oh twenty-five)"
+        },
+        {
+          "ingles": "The year 2001 was important.",
+          "portugues": "O ano 2001 foi importante.",
+          "fonetica": "/ðə jɪr ˈtwɛnti oʊ oʊ wʌn wʌz ɪmˈpɔrtənt/",
+          "tem_audio": true,
+          "contexto": "OH - in years (twenty oh oh one)"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue with Numbers",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando números em situações práticas",
+      "participantes": ["Customer", "Cashier"],
+      "conversas": [
+        {
+          "falante": "Customer",
+          "ingles": "Excuse me, how much are these apples?",
+          "portugues": "Com licença, quanto custam essas maçãs?",
+          "fonetica": "/ɪkˈskjuz mi haʊ mʌtʃ ɑr ðiz ˈæpəlz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Cashier",
+          "ingles": "They're three dollars and fifty cents per pound. How many pounds do you want?",
+          "portugues": "Elas são três dólares e cinquenta centavos por libra. Quantas libras você quer?",
+          "fonetica": "/ðɛr θri ˈdɑlərz ænd ˈfɪfti sɛnts pər paʊnd haʊ ˈmɛni paʊndz du ju wænt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Customer",
+          "ingles": "I'll take two pounds, please. Also, I need your phone number for delivery.",
+          "portugues": "Vou levar duas libras, por favor. Também preciso do seu número de telefone para entrega.",
+          "fonetica": "/aɪl teɪk tu paʊndz pliz ˈɔlsoʊ aɪ nid jʊər foʊn ˈnʌmbər fɔr dɪˈlɪvəri/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Cashier",
+          "ingles": "That's seven dollars total. Our number is 555-FOOD, or 555-3663.",
+          "portugues": "São sete dólares no total. Nosso número é 555-FOOD, ou 555-3663.",
+          "fonetica": "/ðæts ˈsɛvən ˈdɑlərz ˈtoʊtəl aʊər ˈnʌmbər ɪz faɪv faɪv faɪv fud ɔr faɪv faɪv faɪv θri sɪks sɪks θri/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Customer",
+          "ingles": "Perfect! My address is 1247 Elm Street. What time do you deliver?",
+          "portugues": "Perfeito! Meu endereço é rua Elm, 1247. Que horas vocês entregam?",
+          "fonetica": "/ˈpɜrfɪkt maɪ ˈædrəs ɪz twɛlv ˈfɔrti ˈsɛvən ɛlm strit wʌt taɪm du ju dɪˈlɪvər/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Cashier",
+          "ingles": "We deliver between eleven AM and eight PM. Usually takes thirty to forty-five minutes.",
+          "portugues": "Nós entregamos entre 11h e 20h. Geralmente leva trinta a quarenta e cinco minutos.",
+          "fonetica": "/wi dɪˈlɪvər bɪˈtwin ɪˈlɛvən ˌeɪˈɛm ænd eɪt ˌpiˈɛm ˈjuʒuəli teɪks ˈθɜrti tu ˈfɔrti faɪv ˈmɪnəts/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - My Life in Numbers",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let me tell you about my life using numbers! I am twenty-five years old and I live at 867 Pine Street, apartment number 3B. My phone number is 555-0123. I wake up at six-thirty every morning and work from nine AM to five PM. I earn about forty-five thousand dollars per year. My car is a 2018 model with sixty-eight thousand miles. I have three credit cards and two thousand dollars in my savings account. My family has four people: my parents, my sister, and me. We live in a city with one point two million residents. Next year, I plan to buy a house that costs around three hundred fifty thousand dollars. Numbers are everywhere in our daily lives!",
+        "texto_portugues": "Deixe-me contar sobre minha vida usando números! Tenho vinte e cinco anos e moro na rua Pine, 867, apartamento 3B. Meu telefone é 555-0123. Acordo às seis e meia toda manhã e trabalho das 9h às 17h. Ganho cerca de quarenta e cinco mil dólares por ano. Meu carro é modelo 2018 com sessenta e oito mil milhas. Tenho três cartões de crédito e dois mil dólares na poupança. Minha família tem quatro pessoas: meus pais, minha irmã e eu. Moramos numa cidade com um vírgula dois milhão de habitantes. Ano que vem, planejo comprar uma casa que custa cerca de trezentos e cinquenta mil dólares. Números estão em todo lugar em nossas vidas!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Mastering Numbers",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are essential tips for mastering English numbers: 1) Learn 1-20 first - they're the building blocks for everything else. 2) Remember that teen numbers (13-19) have stress on the last syllable: thirTEEN, not THIRteen. 3) Tens (20, 30, 40...) have stress on the first syllable: TWENty, not twenTY. 4) Use 'oh' for 0 in phone numbers and addresses, 'zero' for mathematics and temperatures. 5) Practice with real situations: prices, phone numbers, addresses, ages. 6) Remember special patterns: 'forty' has no 'u', 'ninety' drops the 'e' from 'nine'. Practice every day!",
+        "texto_portugues": "Aqui estão dicas essenciais para dominar números em inglês: 1) Aprenda 1-20 primeiro - são a base de tudo mais. 2) Lembre que números 'teen' (13-19) têm acento na última sílaba: thirTEEN, não THIRteen. 3) Dezenas (20, 30, 40...) têm acento na primeira sílaba: TWENty, não twenTY. 4) Use 'oh' para 0 em telefones e endereços, 'zero' para matemática e temperaturas. 5) Pratique com situações reais: preços, telefones, endereços, idades. 6) Lembre de padrões especiais: 'forty' não tem 'u', 'ninety' perde o 'e' de 'nine'. Pratique todo dia!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice with numbers everywhere! Say your phone number, address, age, and birth year in English. Practice counting from 1 to 100. Look at prices when shopping and say them in English. Practice telling time using numbers. Count objects around you. Write down important numbers in your life and practice saying them. Play number games: count by 2s, 5s, and 10s. The key is daily practice - numbers are used constantly in English, so master them and feel confident in any conversation!",
+        "texto_portugues": "Agora pratique com números em todos os lugares! Diga seu telefone, endereço, idade e ano de nascimento em inglês. Pratique contando de 1 a 100. Olhe preços ao fazer compras e os diga em inglês. Pratique dizer as horas usando números. Conte objetos ao seu redor. Escreva números importantes em sua vida e pratique dizê-los. Jogue jogos de números: conte de 2 em 2, 5 em 5, e 10 em 10. A chave é prática diária - números são usados constantemente em inglês, então domine-os e sinta-se confiante em qualquer conversa!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
