@@ -1,14 +1,14 @@
 {
-  "titulo": "Verbo to be - Forma Afirmativa",
-  "descricao": "Aprenda o verbo mais importante do inglês! Domine as formas am, is e are na forma afirmativa, tanto completas quanto contraídas.",
+  "titulo": "Verbo to be",
+  "descricao": "Aprenda o verbo mais importante do inglês! Domine as formas am, is e are nas formas completas e contraídas.",
   "secoes": [
     {
       "id": "introducao",
       "titulo": "The Most Important Verb in English",
       "tipo": "texto",
       "conteudo": {
-        "texto_ingles": "The verb 'to be' is the most important verb in English! It means 'ser' or 'estar' in Portuguese. You will use this verb in almost every conversation. In this lesson, we will focus only on the affirmative form (positive sentences). In the Simple Present, 'to be' has three forms: am, is, and are.",
-        "texto_portugues": "O verbo 'to be' é o verbo mais importante do inglês! Significa 'ser' ou 'estar' em português. Você usará este verbo em quase todas as conversas. Nesta aula, vamos focar apenas na forma afirmativa (frases positivas). No Presente Simples, 'to be' tem três formas: am, is e are.",
+        "texto_ingles": "The verb 'to be' is the most important verb in English! It means 'ser' or 'estar' in Portuguese. You will use this verb in almost every conversation. In the Simple Present, 'to be' has three forms: am, is, and are. We also have contracted forms that are very common in speaking and informal writing.",
+        "texto_portugues": "O verbo 'to be' é o verbo mais importante do inglês! Significa 'ser' ou 'estar' em português. Você usará este verbo em quase todas as conversas. No Presente Simples, 'to be' tem três formas: am, is e are. Também temos formas contraídas que são muito comuns na fala e escrita informal.",
         "tem_audio": true
       }
     },
@@ -55,13 +55,6 @@
           "fonetica": "/aɪm frʌm brəˈzɪl/",
           "tem_audio": true,
           "contexto": "Very common way to say your origin"
-        },
-        {
-          "ingles": "I am 25 years old.",
-          "portugues": "Eu tenho 25 anos.",
-          "fonetica": "/aɪ æm ˈtwɛnti faɪv jɪrz oʊld/",
-          "tem_audio": true,
-          "contexto": "Age - Note: English says 'I AM 25', not 'I HAVE 25'"
         }
       ]
     },
@@ -93,11 +86,11 @@
           "contexto": "She = feminine person"
         },
         {
-          "ingles": "She's at work.",
-          "portugues": "Ela está no trabalho.",
-          "fonetica": "/ʃiz æt wɜrk/",
+          "ingles": "She's beautiful.",
+          "portugues": "Ela é bonita.",
+          "fonetica": "/ʃiz ˈbjutəfəl/",
           "tem_audio": true,
-          "contexto": "Expressing location"
+          "contexto": "More common in everyday speech"
         },
         {
           "ingles": "It is a big house.",
@@ -107,11 +100,11 @@
           "contexto": "It = things, animals, situations"
         },
         {
-          "ingles": "It's sunny today.",
-          "portugues": "Está ensolarado hoje.",
-          "fonetica": "/ɪts ˈsʌni təˈdeɪ/",
+          "ingles": "It's a big house.",
+          "portugues": "É uma casa grande.",
+          "fonetica": "/ɪts ə bɪg haʊs/",
           "tem_audio": true,
-          "contexto": "Weather - very common use"
+          "contexto": "Most common way to say it"
         }
       ]
     },
@@ -143,16 +136,16 @@
           "contexto": "We = the speaker + other people"
         },
         {
-          "ingles": "We're in the classroom.",
-          "portugues": "Nós estamos na sala de aula.",
-          "fonetica": "/wɪr ɪn ðə ˈklæsrum/",
+          "ingles": "We're students.",
+          "portugues": "Nós somos estudantes.",
+          "fonetica": "/wɪr ˈstudənts/",
           "tem_audio": true,
-          "contexto": "Expressing location"
+          "contexto": "Natural way to speak"
         },
         {
-          "ingles": "They are my brothers.",
-          "portugues": "Eles são meus irmãos.",
-          "fonetica": "/ðeɪ ɑr maɪ ˈbrʌðərz/",
+          "ingles": "They are at school.",
+          "portugues": "Eles estão na escola.",
+          "fonetica": "/ðeɪ ɑr æt skul/",
           "tem_audio": true,
           "contexto": "They = other people (not including speaker)"
         },
@@ -167,9 +160,9 @@
     },
     {
       "id": "resumo_formas",
-      "titulo": "Complete Summary - All Forms",
+      "titulo": "Complete Summary",
       "tipo": "vocabulario",
-      "descricao": "Resumo completo de todas as formas afirmativas",
+      "descricao": "Resumo completo de todas as formas",
       "itens": [
         {
           "ingles": "I am / I'm",
@@ -224,26 +217,26 @@
     },
     {
       "id": "quando_usar",
-      "titulo": "When to Use 'To Be' - Affirmative",
+      "titulo": "When to Use 'To Be'",
       "tipo": "texto",
       "conteudo": {
-        "texto_ingles": "We use 'to be' in affirmative sentences for many things: to describe people, things, and places; to talk about age, nationality, and profession; to describe feelings and temporary states; to say where someone or something is located. Remember: we're only learning positive sentences in this lesson!",
-        "texto_portugues": "Usamos 'to be' em frases afirmativas para muitas coisas: para descrever pessoas, coisas e lugares; para falar sobre idade, nacionalidade e profissão; para descrever sentimentos e estados temporários; para dizer onde alguém ou algo está localizado. Lembre-se: estamos aprendendo apenas frases positivas nesta aula!",
+        "texto_ingles": "We use 'to be' for many things: to describe people, things, and places; to talk about age, nationality, and profession; to describe feelings and temporary states; to say where someone or something is located. Remember: in English, we always need a verb in every sentence!",
+        "texto_portugues": "Usamos 'to be' para muitas coisas: para descrever pessoas, coisas e lugares; para falar sobre idade, nacionalidade e profissão; para descrever sentimentos e estados temporários; para dizer onde alguém ou algo está localizado. Lembre-se: em inglês, sempre precisamos de um verbo em cada frase!",
         "tem_audio": true
       }
     },
     {
       "id": "usos_comuns",
-      "titulo": "Common Uses - Affirmative Sentences",
+      "titulo": "Common Uses",
       "tipo": "vocabulario",
-      "descricao": "Usos mais comuns do verbo to be na forma afirmativa",
+      "descricao": "Usos mais comuns do verbo to be",
       "itens": [
         {
-          "ingles": "I'm a doctor.",
-          "portugues": "Eu sou médico.",
-          "fonetica": "/aɪm ə ˈdɑktər/",
+          "ingles": "I'm 25 years old.",
+          "portugues": "Eu tenho 25 anos.",
+          "fonetica": "/aɪm ˈtwɛnti faɪv jɪrz oʊld/",
           "tem_audio": true,
-          "contexto": "Profession"
+          "contexto": "Age - Note: English says 'I AM 25', not 'I HAVE 25'"
         },
         {
           "ingles": "She's Brazilian.",
@@ -253,9 +246,16 @@
           "contexto": "Nationality"
         },
         {
-          "ingles": "We're tired.",
-          "portugues": "Nós estamos cansados.",
-          "fonetica": "/wɪr ˈtaɪərd/",
+          "ingles": "We're doctors.",
+          "portugues": "Nós somos médicos.",
+          "fonetica": "/wɪr ˈdɑktərz/",
+          "tem_audio": true,
+          "contexto": "Profession"
+        },
+        {
+          "ingles": "They're tired.",
+          "portugues": "Eles estão cansados.",
+          "fonetica": "/ðɛr ˈtaɪərd/",
           "tem_audio": true,
           "contexto": "Temporary state/feeling"
         },
@@ -272,13 +272,6 @@
           "fonetica": "/jʊr æt hoʊm/",
           "tem_audio": true,
           "contexto": "Location"
-        },
-        {
-          "ingles": "They're intelligent.",
-          "portugues": "Eles são inteligentes.",
-          "fonetica": "/ðɛr ɪnˈtɛlədʒənt/",
-          "tem_audio": true,
-          "contexto": "Characteristic/personality"
         }
       ]
     },
@@ -286,7 +279,7 @@
       "id": "dialogo_exemplo",
       "titulo": "Real Conversation Example",
       "tipo": "dialogo",
-      "descricao": "Conversa real usando apenas a forma afirmativa do verbo to be",
+      "descricao": "Conversa real usando o verbo to be",
       "participantes": ["Ana", "Mike"],
       "conversas": [
         {
@@ -298,58 +291,58 @@
         },
         {
           "falante": "Mike",
-          "ingles": "Nice to meet you, Ana! I'm Mike. I'm from Canada. I'm 22 years old.",
-          "portugues": "Prazer em te conhecer, Ana! Eu sou o Mike. Eu sou do Canadá. Eu tenho 22 anos.",
-          "fonetica": "/naɪs tu mit ju ˈænə aɪm maɪk aɪm frʌm ˈkænədə aɪm ˈtwɛnti tu jɪrz oʊld/",
+          "ingles": "Nice to meet you, Ana! I'm Mike. I'm from Canada.",
+          "portugues": "Prazer em te conhecer, Ana! Eu sou o Mike. Eu sou do Canadá.",
+          "fonetica": "/naɪs tu mit ju ˈænə aɪm maɪk aɪm frʌm ˈkænədə/",
           "tem_audio": true
         },
         {
           "falante": "Ana",
-          "ingles": "That's cool! I'm a teacher. I'm 28 years old.",
-          "portugues": "Que legal! Eu sou professora. Eu tenho 28 anos.",
-          "fonetica": "/ðæts kul aɪm ə ˈtitʃər aɪm ˈtwɛnti eɪt jɪrz oʊld/",
+          "ingles": "That's cool! Are you a student?",
+          "portugues": "Que legal! Você é estudante?",
+          "fonetica": "/ðæts kul ɑr ju ə ˈstudənt/",
           "tem_audio": true
         },
         {
           "falante": "Mike",
-          "ingles": "I'm a student. We're both here for the English course.",
-          "portugues": "Eu sou estudante. Nós dois estamos aqui para o curso de inglês.",
-          "fonetica": "/aɪm ə ˈstudənt wir boʊθ hɪr fɔr ði ˈɪŋglɪʃ kɔrs/",
+          "ingles": "Yes, I'm a student. I'm 22 years old. What about you?",
+          "portugues": "Sim, eu sou estudante. Eu tenho 22 anos. E você?",
+          "fonetica": "/jɛs aɪm ə ˈstudənt aɪm ˈtwɛnti tu jɪrz oʊld wʌt əˈbaʊt ju/",
           "tem_audio": true
         },
         {
           "falante": "Ana",
-          "ingles": "Yes! The other students are very nice. They're from different countries.",
-          "portugues": "Sim! Os outros estudantes são muito legais. Eles são de países diferentes.",
-          "fonetica": "/jɛs ði ˈʌðər ˈstudənts ɑr ˈvɛri naɪs ðɛr frʌm ˈdɪfərənt ˈkʌntriz/",
+          "ingles": "I'm a teacher. I'm 28. We're both here for the English course.",
+          "portugues": "Eu sou professora. Eu tenho 28. Nós dois estamos aqui para o curso de inglês.",
+          "fonetica": "/aɪm ə ˈtitʃər aɪm ˈtwɛnti eɪt wir boʊθ hɪr fɔr ði ˈɪŋglɪʃ kɔrs/",
           "tem_audio": true
         },
         {
           "falante": "Mike",
-          "ingles": "That's great! It's a wonderful class.",
-          "portugues": "Que ótimo! É uma turma maravilhosa.",
-          "fonetica": "/ðæts greɪt ɪts ə ˈwʌndərfəl klæs/",
+          "ingles": "That's great! The other students are very nice. They're from different countries.",
+          "portugues": "Que ótimo! Os outros estudantes são muito legais. Eles são de países diferentes.",
+          "fonetica": "/ðæts greɪt ði ˈʌðər ˈstudənts ɑr ˈvɛri naɪs ðɛr frʌm ˈdɪfərənt ˈkʌntriz/",
           "tem_audio": true
         }
       ]
     },
     {
       "id": "texto_pratica",
-      "titulo": "Practice Text - Only Affirmative",
+      "titulo": "Practice Text",
       "tipo": "texto",
       "conteudo": {
-        "texto_ingles": "Hello, my name is John. I'm from Brazil. I'm twenty years old. I'm a student. My teacher is very kind. She's always happy. We're in the classroom now. My classmates are friendly. They're from different cities. It's a great class! We're all excited about learning English.",
-        "texto_portugues": "Olá, meu nome é John. Eu sou do Brasil. Eu tenho vinte anos de idade. Eu sou estudante. Minha professora é muito gentil. Ela está sempre feliz. Nós estamos na sala de aula agora. Meus colegas de classe são amigáveis. Eles são de cidades diferentes. É uma ótima turma! Nós todos estamos empolgados para aprender inglês.",
+        "texto_ingles": "Hello, my name is John. I'm from Brazil. I'm twenty years old. I'm a student. My teacher is very kind. She's always happy. We're in the classroom now. My classmates are friendly. They're from different cities. It's a great class!",
+        "texto_portugues": "Olá, meu nome é John. Eu sou do Brasil. Eu tenho vinte anos de idade. Eu sou estudante. Minha professora é muito gentil. Ela está sempre feliz. Nós estamos na sala de aula agora. Meus colegas de classe são amigáveis. Eles são de cidades diferentes. É uma ótima turma!",
         "tem_audio": true
       }
     },
     {
-      "id": "contractions_importantes",
-      "titulo": "Why Contractions are Important",
+      "id": "dicas_importantes",
+      "titulo": "Important Tips",
       "tipo": "texto",
       "conteudo": {
-        "texto_ingles": "In spoken English, we almost always use contractions (I'm, you're, he's, she's, it's, we're, they're). Complete forms sound very formal or robotic. Native speakers expect to hear contractions in normal conversation. Practice both forms, but use contractions when speaking!",
-        "texto_portugues": "No inglês falado, quase sempre usamos contrações (I'm, you're, he's, she's, it's, we're, they're). As formas completas soam muito formais ou robóticas. Falantes nativos esperam ouvir contrações em conversas normais. Pratique ambas as formas, mas use contrações ao falar!",
+        "texto_ingles": "Remember: In spoken English, we almost always use contractions (I'm, you're, he's). Complete forms sound formal. Also, 'you are' is the same for one person or many people. And very important: in English, we say 'I am 20 years old', not 'I have 20 years' like in Portuguese!",
+        "texto_portugues": "Lembre-se: No inglês falado, quase sempre usamos contrações (I'm, you're, he's). As formas completas soam formais. Além disso, 'you are' é igual para uma pessoa ou muitas pessoas. E muito importante: em inglês, dizemos 'I am 20 years old', não 'I have 20 years' como em português!",
         "tem_audio": true
       }
     },
@@ -358,8 +351,8 @@
       "titulo": "Your Turn to Practice!",
       "tipo": "texto",
       "conteudo": {
-        "texto_ingles": "Now practice making affirmative sentences about yourself and others! Try sentences about: your name, age, nationality, profession, feelings, and location. Use both complete and contracted forms. Remember: only positive sentences in this lesson - we'll learn negative and question forms in future lessons!",
-        "texto_portugues": "Agora pratique fazendo frases afirmativas sobre você e outros! Tente frases sobre: seu nome, idade, nacionalidade, profissão, sentimentos e localização. Use tanto as formas completas quanto as contraídas. Lembre-se: apenas frases positivas nesta aula - aprenderemos as formas negativa e interrogativa em aulas futuras!",
+        "texto_ingles": "Now practice! Try to make sentences about yourself: your name, age, nationality, profession, and feelings. Use both complete and contracted forms. Remember: practice makes perfect! Start with simple sentences and gradually add more information.",
+        "texto_portugues": "Agora pratique! Tente fazer frases sobre você mesmo: seu nome, idade, nacionalidade, profissão e sentimentos. Use tanto as formas completas quanto as contraídas. Lembre-se: a prática leva à perfeição! Comece com frases simples e gradualmente adicione mais informações.",
         "tem_audio": true
       }
     }
