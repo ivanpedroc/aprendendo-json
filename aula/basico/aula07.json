@@ -1,0 +1,529 @@
+{
+  "titulo": "Substantivos Plurais",
+  "descricao": "Aprenda todas as regras para formar o plural em inglês! Domine as regras regulares e as exceções especiais.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "Making Nouns Plural in English",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "In English, we change nouns to show when there's more than one of something. Most plural nouns are easy to form, but there are several important rules to learn. Unlike Portuguese, English plurals don't change by gender - we have just one way to make each noun plural. Let's master all the rules step by step!",
+        "texto_portugues": "Em inglês, nós mudamos substantivos para mostrar quando há mais de uma coisa. A maioria dos plurais são fáceis de formar, mas há várias regras importantes para aprender. Diferente do português, os plurais em inglês não mudam por gênero - temos apenas uma maneira de fazer cada substantivo plural. Vamos dominar todas as regras passo a passo!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "regra_basica_s",
+      "titulo": "Basic Rule: Add -S",
+      "tipo": "vocabulario",
+      "descricao": "A regra mais simples - apenas adicionar -S",
+      "itens": [
+        {
+          "ingles": "book → books",
+          "portugues": "livro → livros",
+          "fonetica": "/bʊk → bʊks/",
+          "tem_audio": true,
+          "contexto": "Most nouns just add -S for plural"
+        },
+        {
+          "ingles": "car → cars",
+          "portugues": "carro → carros",
+          "fonetica": "/kɑr → kɑrz/",
+          "tem_audio": true,
+          "contexto": "Simple addition of -S, pronounced /z/ after voiced sounds"
+        },
+        {
+          "ingles": "house → houses",
+          "portugues": "casa → casas",
+          "fonetica": "/haʊs → ˈhaʊzəz/",
+          "tem_audio": true,
+          "contexto": "Ends in -S, so adds -ES and pronounced /əz/"
+        },
+        {
+          "ingles": "dog → dogs",
+          "portugues": "cachorro → cachorros",
+          "fonetica": "/dɔg → dɔgz/",
+          "tem_audio": true,
+          "contexto": "Adds -S, pronounced /z/ after voiced consonant"
+        },
+        {
+          "ingles": "cat → cats",
+          "portugues": "gato → gatos",
+          "fonetica": "/kæt → kæts/",
+          "tem_audio": true,
+          "contexto": "Adds -S, pronounced /s/ after voiceless consonant"
+        },
+        {
+          "ingles": "girl → girls",
+          "portugues": "menina → meninas",
+          "fonetica": "/gɜrl → gɜrlz/",
+          "tem_audio": true,
+          "contexto": "Most common pattern - just add -S"
+        }
+      ]
+    },
+    {
+      "id": "regra_es",
+      "titulo": "Add -ES Rule",
+      "tipo": "vocabulario",
+      "descricao": "Substantivos que recebem -ES no plural (terminados em -s, -ss, -sh, -ch, -x, -z, -o)",
+      "itens": [
+        {
+          "ingles": "glass → glasses",
+          "portugues": "copo → copos",
+          "fonetica": "/glæs → ˈglæsəz/",
+          "tem_audio": true,
+          "contexto": "Ends in -SS, add -ES, pronounced /əz/"
+        },
+        {
+          "ingles": "brush → brushes",
+          "portugues": "escova → escovas",
+          "fonetica": "/brʌʃ → ˈbrʌʃəz/",
+          "tem_audio": true,
+          "contexto": "Ends in -SH, add -ES for easier pronunciation"
+        },
+        {
+          "ingles": "watch → watches",
+          "portugues": "relógio → relógios",
+          "fonetica": "/wɑtʃ → ˈwɑtʃəz/",
+          "tem_audio": true,
+          "contexto": "Ends in -CH, add -ES, creates extra syllable"
+        },
+        {
+          "ingles": "box → boxes",
+          "portugues": "caixa → caixas",
+          "fonetica": "/bɑks → ˈbɑksəz/",
+          "tem_audio": true,
+          "contexto": "Ends in -X, add -ES for clear pronunciation"
+        },
+        {
+          "ingles": "tomato → tomatoes",
+          "portugues": "tomate → tomates",
+          "fonetica": "/təˈmeɪtoʊ → təˈmeɪtoʊz/",
+          "tem_audio": true,
+          "contexto": "Ends in -O (after consonant), add -ES"
+        },
+        {
+          "ingles": "potato → potatoes",
+          "portugues": "batata → batatas",
+          "fonetica": "/pəˈteɪtoʊ → pəˈteɪtoʊz/",
+          "tem_audio": true,
+          "contexto": "Another -O word that takes -ES"
+        },
+        {
+          "ingles": "hero → heroes",
+          "portugues": "herói → heróis",
+          "fonetica": "/ˈhɪroʊ → ˈhɪroʊz/",
+          "tem_audio": true,
+          "contexto": "Consonant + O = add -ES"
+        }
+      ]
+    },
+    {
+      "id": "excecoes_o",
+      "titulo": "Exceptions: -O Words That Take Only -S",
+      "tipo": "vocabulario",
+      "descricao": "Palavras terminadas em -O que recebem apenas -S",
+      "itens": [
+        {
+          "ingles": "photo → photos",
+          "portugues": "foto → fotos",
+          "fonetica": "/ˈfoʊtoʊ → ˈfoʊtoʊz/",
+          "tem_audio": true,
+          "contexto": "Vowel + O = just add -S (not -ES)"
+        },
+        {
+          "ingles": "radio → radios",
+          "portugues": "rádio → rádios",
+          "fonetica": "/ˈreɪdiˌoʊ → ˈreɪdiˌoʊz/",
+          "tem_audio": true,
+          "contexto": "Vowel + O = just -S"
+        },
+        {
+          "ingles": "piano → pianos",
+          "portugues": "piano → pianos",
+          "fonetica": "/piˈænoʊ → piˈænoʊz/",
+          "tem_audio": true,
+          "contexto": "Musical instruments ending in vowel + O take -S"
+        },
+        {
+          "ingles": "video → videos",
+          "portugues": "vídeo → vídeos",
+          "fonetica": "/ˈvɪdiˌoʊ → ˈvɪdiˌoʊz/",
+          "tem_audio": true,
+          "contexto": "Modern words often just add -S"
+        },
+        {
+          "ingles": "zoo → zoos",
+          "portugues": "zoológico → zoológicos",
+          "fonetica": "/zu → zuz/",
+          "tem_audio": true,
+          "contexto": "Short words ending in vowel + O take -S"
+        }
+      ]
+    },
+    {
+      "id": "regra_y",
+      "titulo": "The Y Rule: Y → IES",
+      "tipo": "vocabulario",
+      "descricao": "Palavras terminadas em consoante + Y: troca Y por -IES",
+      "itens": [
+        {
+          "ingles": "city → cities",
+          "portugues": "cidade → cidades",
+          "fonetica": "/ˈsɪti → ˈsɪtiz/",
+          "tem_audio": true,
+          "contexto": "Consonant + Y: change Y to IES"
+        },
+        {
+          "ingles": "baby → babies",
+          "portugues": "bebê → bebês",
+          "fonetica": "/ˈbeɪbi → ˈbeɪbiz/",
+          "tem_audio": true,
+          "contexto": "Very common pattern: consonant + Y → IES"
+        },
+        {
+          "ingles": "country → countries",
+          "portugues": "país → países",
+          "fonetica": "/ˈkʌntri → ˈkʌntriz/",
+          "tem_audio": true,
+          "contexto": "T + Y becomes IES"
+        },
+        {
+          "ingles": "family → families",
+          "portugues": "família → famílias",
+          "fonetica": "/ˈfæməli → ˈfæməliz/",
+          "tem_audio": true,
+          "contexto": "L + Y becomes IES"
+        },
+        {
+          "ingles": "party → parties",
+          "portugues": "festa → festas",
+          "fonetica": "/ˈpɑrti → ˈpɑrtiz/",
+          "tem_audio": true,
+          "contexto": "R + Y becomes IES"
+        },
+        {
+          "ingles": "story → stories",
+          "portugues": "história → histórias",
+          "fonetica": "/ˈstɔri → ˈstɔriz/",
+          "tem_audio": true,
+          "contexto": "R + Y becomes IES"
+        }
+      ]
+    },
+    {
+      "id": "excecoes_y",
+      "titulo": "Y Exception: Vowel + Y = Just -S",
+      "tipo": "vocabulario",
+      "descricao": "Palavras terminadas em vogal + Y: apenas adiciona -S",
+      "itens": [
+        {
+          "ingles": "boy → boys",
+          "portugues": "menino → meninos",
+          "fonetica": "/bɔɪ → bɔɪz/",
+          "tem_audio": true,
+          "contexto": "Vowel + Y: just add -S (don't change Y)"
+        },
+        {
+          "ingles": "day → days",
+          "portugues": "dia → dias",
+          "fonetica": "/deɪ → deɪz/",
+          "tem_audio": true,
+          "contexto": "A + Y: keep the Y, add -S"
+        },
+        {
+          "ingles": "key → keys",
+          "portugues": "chave → chaves",
+          "fonetica": "/ki → kiz/",
+          "tem_audio": true,
+          "contexto": "E + Y: just add -S"
+        },
+        {
+          "ingles": "toy → toys",
+          "portugues": "brinquedo → brinquedos",
+          "fonetica": "/tɔɪ → tɔɪz/",
+          "tem_audio": true,
+          "contexto": "O + Y: just add -S"
+        },
+        {
+          "ingles": "way → ways",
+          "portugues": "caminho → caminhos",
+          "fonetica": "/weɪ → weɪz/",
+          "tem_audio": true,
+          "contexto": "A + Y: normal -S addition"
+        }
+      ]
+    },
+    {
+      "id": "regra_f_fe",
+      "titulo": "The F/FE Rule: F → VES",
+      "tipo": "vocabulario",
+      "descricao": "Palavras terminadas em F ou FE: mudam para -VES",
+      "itens": [
+        {
+          "ingles": "leaf → leaves",
+          "portugues": "folha → folhas",
+          "fonetica": "/lif → livz/",
+          "tem_audio": true,
+          "contexto": "F changes to VES, pronunciation changes too"
+        },
+        {
+          "ingles": "knife → knives",
+          "portugues": "faca → facas",
+          "fonetica": "/naɪf → naɪvz/",
+          "tem_audio": true,
+          "contexto": "FE becomes VES"
+        },
+        {
+          "ingles": "life → lives",
+          "portugues": "vida → vidas",
+          "fonetica": "/laɪf → laɪvz/",
+          "tem_audio": true,
+          "contexto": "FE becomes VES, very common word"
+        },
+        {
+          "ingles": "wife → wives",
+          "portugues": "esposa → esposas",
+          "fonetica": "/waɪf → waɪvz/",
+          "tem_audio": true,
+          "contexto": "FE becomes VES"
+        },
+        {
+          "ingles": "half → halves",
+          "portugues": "metade → metades",
+          "fonetica": "/hæf → hævz/",
+          "tem_audio": true,
+          "contexto": "F becomes VES"
+        },
+        {
+          "ingles": "shelf → shelves",
+          "portugues": "prateleira → prateleiras",
+          "fonetica": "/ʃɛlf → ʃɛlvz/",
+          "tem_audio": true,
+          "contexto": "F becomes VES"
+        }
+      ]
+    },
+    {
+      "id": "excecoes_f",
+      "titulo": "F Exceptions: Some F Words Just Add -S",
+      "tipo": "vocabulario",
+      "descricao": "Algumas palavras terminadas em F que apenas recebem -S",
+      "itens": [
+        {
+          "ingles": "roof → roofs",
+          "portugues": "telhado → telhados",
+          "fonetica": "/ruf → rufs/",
+          "tem_audio": true,
+          "contexto": "Exception: just adds -S, doesn't become 'rooves'"
+        },
+        {
+          "ingles": "chief → chiefs",
+          "portugues": "chefe → chefes",
+          "fonetica": "/tʃif → tʃifs/",
+          "tem_audio": true,
+          "contexto": "Exception: keeps F, just adds -S"
+        },
+        {
+          "ingles": "belief → beliefs",
+          "portugues": "crença → crenças",
+          "fonetica": "/bəˈlif → bəˈlifs/",
+          "tem_audio": true,
+          "contexto": "Exception: F stays, add -S"
+        },
+        {
+          "ingles": "safe → safes",
+          "portugues": "cofre → cofres",
+          "fonetica": "/seɪf → seɪfs/",
+          "tem_audio": true,
+          "contexto": "Exception: just adds -S"
+        }
+      ]
+    },
+    {
+      "id": "plurais_irregulares",
+      "titulo": "Irregular Plurals - Special Cases",
+      "tipo": "vocabulario",
+      "descricao": "Plurais completamente irregulares que você precisa memorizar",
+      "itens": [
+        {
+          "ingles": "man → men",
+          "portugues": "homem → homens",
+          "fonetica": "/mæn → mɛn/",
+          "tem_audio": true,
+          "contexto": "Completely irregular - vowel change"
+        },
+        {
+          "ingles": "woman → women",
+          "portugues": "mulher → mulheres",
+          "fonetica": "/ˈwʊmən → ˈwɪmən/",
+          "tem_audio": true,
+          "contexto": "Irregular - both vowels change"
+        },
+        {
+          "ingles": "child → children",
+          "portugues": "criança → crianças",
+          "fonetica": "/tʃaɪld → ˈtʃɪldrən/",
+          "tem_audio": true,
+          "contexto": "Completely different word form"
+        },
+        {
+          "ingles": "foot → feet",
+          "portugues": "pé → pés",
+          "fonetica": "/fʊt → fit/",
+          "tem_audio": true,
+          "contexto": "Vowel change from /ʊ/ to /i/"
+        },
+        {
+          "ingles": "tooth → teeth",
+          "portugues": "dente → dentes",
+          "fonetica": "/tuθ → tiθ/",
+          "tem_audio": true,
+          "contexto": "Same pattern as foot → feet"
+        },
+        {
+          "ingles": "mouse → mice",
+          "portugues": "rato → ratos",
+          "fonetica": "/maʊs → maɪs/",
+          "tem_audio": true,
+          "contexto": "Irregular vowel change"
+        },
+        {
+          "ingles": "person → people",
+          "portugues": "pessoa → pessoas",
+          "fonetica": "/ˈpɜrsən → ˈpipəl/",
+          "tem_audio": true,
+          "contexto": "Completely different word (people is the plural)"
+        }
+      ]
+    },
+    {
+      "id": "plurais_iguais",
+      "titulo": "Same Form - Singular and Plural Identical",
+      "tipo": "vocabulario",
+      "descricao": "Palavras que têm a mesma forma no singular e plural",
+      "itens": [
+        {
+          "ingles": "sheep → sheep",
+          "portugues": "ovelha → ovelhas",
+          "fonetica": "/ʃip → ʃip/",
+          "tem_audio": true,
+          "contexto": "Never changes - one sheep, two sheep, many sheep"
+        },
+        {
+          "ingles": "fish → fish",
+          "portugues": "peixe → peixes",
+          "fonetica": "/fɪʃ → fɪʃ/",
+          "tem_audio": true,
+          "contexto": "Usually doesn't change (though 'fishes' exists for species)"
+        },
+        {
+          "ingles": "deer → deer",
+          "portugues": "veado → veados",
+          "fonetica": "/dɪr → dɪr/",
+          "tem_audio": true,
+          "contexto": "Same form for singular and plural"
+        },
+        {
+          "ingles": "aircraft → aircraft",
+          "portugues": "aeronave → aeronaves",
+          "fonetica": "/ˈɛrˌkræft → ˈɛrˌkræft/",
+          "tem_audio": true,
+          "contexto": "No change in form"
+        }
+      ]
+    },
+    {
+      "id": "resumo_regras",
+      "titulo": "Summary of All Plural Rules",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let's review all the rules: 1) Most nouns: add -S (books, cars). 2) Ends in -s,-ss,-sh,-ch,-x,-z, or consonant+o: add -ES (glasses, tomatoes). 3) Consonant + Y: change to -IES (cities). 4) Vowel + Y: just add -S (boys). 5) Most F/FE words: change to -VES (leaves, knives). 6) Some words are completely irregular (men, children). 7) Some never change (sheep, fish). Practice these patterns!",
+        "texto_portugues": "Vamos revisar todas as regras: 1) Maioria dos substantivos: adicione -S (books, cars). 2) Termina em -s,-ss,-sh,-ch,-x,-z, ou consoante+o: adicione -ES (glasses, tomatoes). 3) Consoante + Y: mude para -IES (cities). 4) Vogal + Y: apenas adicione -S (boys). 5) Maioria das palavras F/FE: mude para -VES (leaves, knives). 6) Algumas palavras são completamente irregulares (men, children). 7) Algumas nunca mudam (sheep, fish). Pratique esses padrões!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue - Using Plurals",
+      "tipo": "dialogo",
+      "descricao": "Conversa real mostrando o uso natural dos plurais",
+      "participantes": ["Ana", "David"],
+      "conversas": [
+        {
+          "falante": "Ana",
+          "ingles": "Hi David! I'm organizing my photos from our trip. We took so many pictures!",
+          "portugues": "Oi David! Estou organizando minhas fotos da nossa viagem. Tiramos tantas fotos!",
+          "fonetica": "/haɪ ˈdeɪvəd aɪm ˈɔrgəˌnaɪzɪŋ maɪ ˈfoʊtoʊz frʌm aʊr trɪp wi tʊk soʊ ˈmɛni ˈpɪktʃərz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "David",
+          "ingles": "Yes! We visited so many cities and met interesting people. I especially loved the children we met at the schools.",
+          "portugues": "Sim! Visitamos tantas cidades e conhecemos pessoas interessantes. Eu especialmente adorei as crianças que conhecemos nas escolas.",
+          "fonetica": "/jɛs wi ˈvɪzətəd soʊ ˈmɛni ˈsɪtiz ænd mɛt ˈɪntrəstɪŋ ˈpipəl aɪ ɪˈspɛʃəli lʌvd ðə ˈtʃɪldrən wi mɛt æt ðə skulz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Ana",
+          "ingles": "Me too! And remember all those beautiful leaves we collected? I pressed them between the pages of my books.",
+          "portugues": "Eu também! E lembra de todas aquelas folhas bonitas que coletamos? Eu as prensei entre as páginas dos meus livros.",
+          "fonetica": "/mi tu ænd rəˈmɛmbər ɔl ðoʊz ˈbjutəfəl livz wi kəˈlɛktəd aɪ prɛst ðɛm bəˈtwin ðə ˈpeɪdʒəz ʌv maɪ bʊks/",
+          "tem_audio": true
+        },
+        {
+          "falante": "David",
+          "ingles": "That's a great idea! I kept some stones and shells in boxes. My wife says our house is full of treasures now.",
+          "portugues": "Essa é uma ótima ideia! Eu guardei algumas pedras e conchas em caixas. Minha esposa diz que nossa casa está cheia de tesouros agora.",
+          "fonetica": "/ðæts ə greɪt aɪˈdiə aɪ kɛpt sʌm stoʊnz ænd ʃɛlz ɪn ˈbɑksəz maɪ waɪf sɛz aʊr haʊs ɪz fʊl ʌv ˈtrɛʒərz naʊ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Ana",
+          "ingles": "How sweet! We should plan more trips. There are so many countries we haven't visited yet.",
+          "portugues": "Que fofo! Deveríamos planejar mais viagens. Há tantos países que ainda não visitamos.",
+          "fonetica": "/haʊ swit wi ʃʊd plæn mɔr trɪps ðɛr ɑr soʊ ˈmɛni ˈkʌntriz wi ˈhævənt ˈvɪzətəd jɛt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "David",
+          "ingles": "Absolutely! Next time, let's visit places with lots of animals. I want to see sheep, deer, and maybe even some mice in their natural habitat.",
+          "portugues": "Absolutamente! Na próxima vez, vamos visitar lugares com muitos animais. Eu quero ver ovelhas, veados, e talvez até alguns ratos em seu habitat natural.",
+          "fonetica": "/ˈæbsəˌlutli nɛkst taɪm lɛts ˈvɪzət ˈpleɪsəz wɪð lɑts ʌv ˈænəməlz aɪ wænt tu si ʃip dɪr ænd ˈmeɪbi ˈivən sʌm maɪs ɪn ðɛr ˈnætʃərəl ˈhæbəˌtæt/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Plurals in Context",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Last weekend, my friends and I visited several cities in the countryside. We packed our bags with cameras, books, and snacks. Along the way, we saw many animals: sheep grazing in fields, deer running through forests, and colorful birds flying overhead. We stopped at small villages where children played with their toys in the streets. The local people were very friendly and showed us their traditional knives and other tools. We collected beautiful leaves, smooth stones, and interesting photos. Our feet were tired after walking for hours, but our hearts were full of joy. We bought small boxes to keep our treasures and promised to plan more adventures. These trips create the best memories and stories to share with our families.",
+        "texto_portugues": "No fim de semana passado, meus amigos e eu visitamos várias cidades no interior. Empacotamos nossas bolsas com câmeras, livros e lanches. Pelo caminho, vimos muitos animais: ovelhas pastando nos campos, veados correndo pelas florestas, e pássaros coloridos voando sobre nossas cabeças. Paramos em pequenas aldeias onde crianças brincavam com seus brinquedos nas ruas. As pessoas locais eram muito amigáveis e nos mostraram suas facas tradicionais e outras ferramentas. Coletamos folhas bonitas, pedras lisas e fotos interessantes. Nossos pés estavam cansados depois de caminhar por horas, mas nossos corações estavam cheios de alegria. Compramos pequenas caixas para guardar nossos tesouros e prometemos planejar mais aventuras. Essas viagens criam as melhores memórias e histórias para compartilhar com nossas famílias.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_importantes",
+      "titulo": "Important Tips for Plural Formation",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Remember these key tips: 1) Most plurals just add -S, but listen for the pronunciation (/s/, /z/, or /əz/). 2) When in doubt with -O words, common foods usually take -ES (potatoes, tomatoes). 3) The irregular plurals (men, children, feet) are very common - memorize them! 4) Some words like 'people' are already plural (not 'peoples' for multiple people). 5) Practice with real sentences - plurals are everywhere in natural English!",
+        "texto_portugues": "Lembre-se dessas dicas importantes: 1) A maioria dos plurais apenas adiciona -S, mas escute a pronúncia (/s/, /z/, ou /əz/). 2) Quando em dúvida com palavras -O, comidas comuns geralmente levam -ES (potatoes, tomatoes). 3) Os plurais irregulares (men, children, feet) são muito comuns - memorize-os! 4) Algumas palavras como 'people' já são plural (não 'peoples' para múltiplas pessoas). 5) Pratique com frases reais - plurais estão em todos os lugares no inglês natural!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice making plurals! Take these words and form their plurals: book, city, knife, man, child, sheep, glass, photo, baby, roof. Then create sentences using plural nouns about: your family members, things in your house, animals you like, and places you want to visit. Remember: plural formation becomes automatic with practice, so use these patterns daily!",
+        "texto_portugues": "Agora pratique fazendo plurais! Pegue essas palavras e forme seus plurais: book, city, knife, man, child, sheep, glass, photo, baby, roof. Depois crie frases usando substantivos plurais sobre: membros da sua família, coisas em sua casa, animais que você gosta, e lugares que quer visitar. Lembre-se: a formação de plurais se torna automática com a prática, então use esses padrões diariamente!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
