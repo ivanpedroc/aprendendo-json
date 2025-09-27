@@ -1,0 +1,520 @@
+{
+  "titulo": "Demonstrativos (This, That, These, Those)",
+  "descricao": "Aprenda os demonstrativos em inglês! Domine como usar THIS, THAT, THESE e THOSE para apontar e identificar objetos próximos e distantes.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What are Demonstratives?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Demonstratives are words we use to point to or identify specific things. In English, we have four main demonstratives: THIS, THAT, THESE, and THOSE. They help us show whether something is near or far from us, and whether it's singular or plural. Think of them as pointing words - they replace 'este/esta', 'esse/essa', 'estes/estas', 'esses/essas' in Portuguese. Understanding demonstratives is essential for shopping, asking questions, giving directions, and clearly identifying what you're talking about.",
+        "texto_portugues": "Demonstrativos são palavras que usamos para apontar ou identificar coisas específicas. Em inglês, temos quatro demonstrativos principais: THIS, THAT, THESE e THOSE. Eles nos ajudam a mostrar se algo está perto ou longe de nós, e se é singular ou plural. Pense neles como palavras de apontar - eles substituem 'este/esta', 'esse/essa', 'estes/estas', 'esses/essas' em português. Entender demonstrativos é essencial para fazer compras, fazer perguntas, dar direções e identificar claramente sobre o que você está falando.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "this_singular_perto",
+      "titulo": "THIS - Singular and Near",
+      "tipo": "vocabulario",
+      "descricao": "THIS - para uma coisa próxima (singular)",
+      "itens": [
+        {
+          "ingles": "This book is very interesting.",
+          "portugues": "Este livro é muito interessante.",
+          "fonetica": "/ðɪs bʊk ɪz ˈvɛri ˈɪntrəstɪŋ/",
+          "tem_audio": true,
+          "contexto": "THIS + singular noun - objeto perto de quem fala"
+        },
+        {
+          "ingles": "This is my house.",
+          "portugues": "Esta é minha casa.",
+          "fonetica": "/ðɪs ɪz maɪ haʊs/",
+          "tem_audio": true,
+          "contexto": "THIS IS - identificando algo próximo"
+        },
+        {
+          "ingles": "I like this song.",
+          "portugues": "Eu gosto desta música.",
+          "fonetica": "/aɪ laɪk ðɪs sɔŋ/",
+          "tem_audio": true,
+          "contexto": "THIS - referindo-se a algo que está tocando agora"
+        },
+        {
+          "ingles": "This chair is comfortable.",
+          "portugues": "Esta cadeira é confortável.",
+          "fonetica": "/ðɪs tʃɛr ɪz ˈkʌmftəbəl/",
+          "tem_audio": true,
+          "contexto": "THIS - objeto físico próximo ao falante"
+        },
+        {
+          "ingles": "Can I try this dress on?",
+          "portugues": "Posso experimentar este vestido?",
+          "fonetica": "/kæn aɪ traɪ ðɪs drɛs ɑn/",
+          "tem_audio": true,
+          "contexto": "THIS - em situação de compras, objeto próximo"
+        }
+      ]
+    },
+    {
+      "id": "that_singular_longe",
+      "titulo": "THAT - Singular and Far",
+      "tipo": "vocabulario",
+      "descricao": "THAT - para uma coisa distante (singular)",
+      "itens": [
+        {
+          "ingles": "That car is expensive.",
+          "portugues": "Aquele carro é caro.",
+          "fonetica": "/ðæt kɑr ɪz ɪkˈspɛnsɪv/",
+          "tem_audio": true,
+          "contexto": "THAT + singular noun - objeto longe de quem fala"
+        },
+        {
+          "ingles": "That is a beautiful building.",
+          "portugues": "Aquele é um prédio bonito.",
+          "fonetica": "/ðæt ɪz ə ˈbjutəfəl ˈbɪldɪŋ/",
+          "tem_audio": true,
+          "contexto": "THAT IS - identificando algo distante"
+        },
+        {
+          "ingles": "Who is that woman?",
+          "portugues": "Quem é aquela mulher?",
+          "fonetica": "/hu ɪz ðæt ˈwʊmən/",
+          "tem_audio": true,
+          "contexto": "THAT - pessoa distante que não conseguimos identificar"
+        },
+        {
+          "ingles": "I remember that day clearly.",
+          "portugues": "Eu me lembro claramente daquele dia.",
+          "fonetica": "/aɪ rɪˈmɛmbər ðæt deɪ ˈklɪrli/",
+          "tem_audio": true,
+          "contexto": "THAT - referindo-se a tempo passado (distante no tempo)"
+        },
+        {
+          "ingles": "That restaurant over there looks good.",
+          "portugues": "Aquele restaurante ali parece bom.",
+          "fonetica": "/ðæt ˈrɛstərənt ˈoʊvər ðɛr lʊks gʊd/",
+          "tem_audio": true,
+          "contexto": "THAT + OVER THERE - enfatizando distância"
+        }
+      ]
+    },
+    {
+      "id": "these_plural_perto",
+      "titulo": "THESE - Plural and Near",
+      "tipo": "vocabulario",
+      "descricao": "THESE - para várias coisas próximas (plural)",
+      "itens": [
+        {
+          "ingles": "These books are mine.",
+          "portugues": "Estes livros são meus.",
+          "fonetica": "/ðiz bʊks ɑr maɪn/",
+          "tem_audio": true,
+          "contexto": "THESE + plural noun - objetos próximos"
+        },
+        {
+          "ingles": "These are my friends.",
+          "portugues": "Estes são meus amigos.",
+          "fonetica": "/ðiz ɑr maɪ frɛndz/",
+          "tem_audio": true,
+          "contexto": "THESE ARE - apresentando pessoas próximas"
+        },
+        {
+          "ingles": "I love these shoes!",
+          "portugues": "Eu amo estes sapatos!",
+          "fonetica": "/aɪ lʌv ðiz ʃuz/",
+          "tem_audio": true,
+          "contexto": "THESE - sapatos que estou usando ou próximos"
+        },
+        {
+          "ingles": "These cookies taste delicious.",
+          "portugues": "Estes biscoitos estão deliciosos.",
+          "fonetica": "/ðiz ˈkʊkiz teɪst dɪˈlɪʃəs/",
+          "tem_audio": true,
+          "contexto": "THESE - comida que está na nossa frente"
+        },
+        {
+          "ingles": "Can you help me carry these bags?",
+          "portugues": "Você pode me ajudar a carregar estas sacolas?",
+          "fonetica": "/kæn ju hɛlp mi ˈkæri ðiz bægz/",
+          "tem_audio": true,
+          "contexto": "THESE - objetos que estou segurando/próximos"
+        }
+      ]
+    },
+    {
+      "id": "those_plural_longe",
+      "titulo": "THOSE - Plural and Far",
+      "tipo": "vocabulario",
+      "descricao": "THOSE - para várias coisas distantes (plural)",
+      "itens": [
+        {
+          "ingles": "Those mountains are beautiful.",
+          "portugues": "Aquelas montanhas são bonitas.",
+          "fonetica": "/ðoʊz ˈmaʊntənz ɑr ˈbjutəfəl/",
+          "tem_audio": true,
+          "contexto": "THOSE + plural noun - objetos distantes"
+        },
+        {
+          "ingles": "Those are my neighbors.",
+          "portugues": "Aquelas são minhas vizinhas.",
+          "fonetica": "/ðoʊz ɑr maɪ ˈneɪbərz/",
+          "tem_audio": true,
+          "contexto": "THOSE ARE - identificando pessoas distantes"
+        },
+        {
+          "ingles": "I want to buy those flowers.",
+          "portugues": "Eu quero comprar aquelas flores.",
+          "fonetica": "/aɪ wænt tu baɪ ðoʊz ˈflaʊərz/",
+          "tem_audio": true,
+          "contexto": "THOSE - objetos que estão longe mas visíveis"
+        },
+        {
+          "ingles": "Those were the good old days.",
+          "portugues": "Aqueles eram os bons tempos antigos.",
+          "fonetica": "/ðoʊz wər ðə gʊd oʊld deɪz/",
+          "tem_audio": true,
+          "contexto": "THOSE - referindo-se a tempos passados (distantes)"
+        },
+        {
+          "ingles": "Who are those people over there?",
+          "portugues": "Quem são aquelas pessoas ali?",
+          "fonetica": "/hu ɑr ðoʊz ˈpipəl ˈoʊvər ðɛr/",
+          "tem_audio": true,
+          "contexto": "THOSE + OVER THERE - pessoas distantes"
+        }
+      ]
+    },
+    {
+      "id": "comparando_distancia",
+      "titulo": "Near vs Far - Understanding Distance",
+      "tipo": "vocabulario",
+      "descricao": "Entendendo a diferença entre próximo e distante",
+      "itens": [
+        {
+          "ingles": "This pen (in my hand) vs That pen (on your desk).",
+          "portugues": "Esta caneta (na minha mão) vs Aquela caneta (na sua mesa).",
+          "fonetica": "/ðɪs pɛn ɪn maɪ hænd vərsəs ðæt pɛn ɑn jʊər dɛsk/",
+          "tem_audio": true,
+          "contexto": "Distância física - perto vs longe"
+        },
+        {
+          "ingles": "These apples (here) vs Those apples (over there).",
+          "portugues": "Estas maçãs (aqui) vs Aquelas maçãs (ali).",
+          "fonetica": "/ðiz ˈæpəlz hɪr vərsəs ðoʊz ˈæpəlz ˈoʊvər ðɛr/",
+          "tem_audio": true,
+          "contexto": "Plural - próximo vs distante"
+        },
+        {
+          "ingles": "This week (current) vs That week (in the past).",
+          "portugues": "Esta semana (atual) vs Aquela semana (no passado).",
+          "fonetica": "/ðɪs wik ˈkɜrənt vərsəs ðæt wik ɪn ðə pæst/",
+          "tem_audio": true,
+          "contexto": "Distância no tempo - presente vs passado"
+        },
+        {
+          "ingles": "This store (where we are) vs That store (across the street).",
+          "portugues": "Esta loja (onde estamos) vs Aquela loja (do outro lado da rua).",
+          "fonetica": "/ðɪs stɔr wɛr wi ɑr vərsəs ðæt stɔr əˈkrɔs ðə strit/",
+          "tem_audio": true,
+          "contexto": "Localização - aqui vs lá"
+        }
+      ]
+    },
+    {
+      "id": "demonstrativos_sozinhos",
+      "titulo": "Demonstratives Standing Alone",
+      "tipo": "vocabulario",
+      "descricao": "Demonstrativos usados sozinhos (sem substantivo)",
+      "itens": [
+        {
+          "ingles": "This is delicious! (referring to food)",
+          "portugues": "Isto está delicioso! (referindo-se à comida)",
+          "fonetica": "/ðɪs ɪz dɪˈlɪʃəs/",
+          "tem_audio": true,
+          "contexto": "THIS IS - substituindo um substantivo próximo"
+        },
+        {
+          "ingles": "That was amazing! (referring to a show)",
+          "portugues": "Aquilo foi incrível! (referindo-se a um show)",
+          "fonetica": "/ðæt wʌz əˈmeɪzɪŋ/",
+          "tem_audio": true,
+          "contexto": "THAT WAS - experiência passada"
+        },
+        {
+          "ingles": "These belong to me.",
+          "portugues": "Estes pertencem a mim.",
+          "fonetica": "/ðiz bɪˈlɔŋ tu mi/",
+          "tem_audio": true,
+          "contexto": "THESE - substituindo objetos plurais próximos"
+        },
+        {
+          "ingles": "Those cost too much.",
+          "portugues": "Aqueles custam muito caro.",
+          "fonetica": "/ðoʊz kɔst tu mʌtʃ/",
+          "tem_audio": true,
+          "contexto": "THOSE - referindo-se a itens distantes (preços)"
+        },
+        {
+          "ingles": "What is this? / What are these?",
+          "portugues": "O que é isto? / O que são estes?",
+          "fonetica": "/wʌt ɪz ðɪs / wʌt ɑr ðiz/",
+          "tem_audio": true,
+          "contexto": "Perguntando sobre objetos desconhecidos"
+        }
+      ]
+    },
+    {
+      "id": "situacoes_compras",
+      "titulo": "Shopping and Pointing Situations",
+      "tipo": "vocabulario",
+      "descricao": "Em situações de compras e apontando objetos",
+      "itens": [
+        {
+          "ingles": "How much is this shirt?",
+          "portugues": "Quanto custa esta camisa?",
+          "fonetica": "/haʊ mʌtʃ ɪz ðɪs ʃɜrt/",
+          "tem_audio": true,
+          "contexto": "Shopping - perguntando preço de item próximo"
+        },
+        {
+          "ingles": "I'll take that one, please.",
+          "portugues": "Eu vou levar aquele, por favor.",
+          "fonetica": "/aɪl teɪk ðæt wʌn pliz/",
+          "tem_audio": true,
+          "contexto": "THAT ONE - escolhendo item específico distante"
+        },
+        {
+          "ingles": "Can I see those earrings in the window?",
+          "portugues": "Posso ver aqueles brincos na vitrine?",
+          "fonetica": "/kæn aɪ si ðoʊz ˈɪrɪŋz ɪn ðə ˈwɪndoʊ/",
+          "tem_audio": true,
+          "contexto": "THOSE - objetos na vitrine (distantes)"
+        },
+        {
+          "ingles": "These fit perfectly!",
+          "portugues": "Estes servem perfeitamente!",
+          "fonetica": "/ðiz fɪt ˈpɜrfɪktli/",
+          "tem_audio": true,
+          "contexto": "THESE - roupas/sapatos que estou experimentando"
+        },
+        {
+          "ingles": "Do you have this in a larger size?",
+          "portugues": "Vocês têm isto num tamanho maior?",
+          "fonetica": "/du ju hæv ðɪs ɪn ə ˈlɑrdʒər saɪz/",
+          "tem_audio": true,
+          "contexto": "THIS - item que estou segurando/próximo"
+        }
+      ]
+    },
+    {
+      "id": "tempo_situacoes",
+      "titulo": "Time and Situation References",
+      "tipo": "vocabulario",
+      "descricao": "Referindo-se a tempo e situações",
+      "itens": [
+        {
+          "ingles": "This morning I woke up early.",
+          "portugues": "Esta manhã eu acordei cedo.",
+          "fonetica": "/ðɪs ˈmɔrnɪŋ aɪ woʊk ʌp ˈɜrli/",
+          "tem_audio": true,
+          "contexto": "THIS - tempo presente/próximo"
+        },
+        {
+          "ingles": "That winter was very cold.",
+          "portugues": "Aquele inverno foi muito frio.",
+          "fonetica": "/ðæt ˈwɪntər wʌz ˈvɛri koʊld/",
+          "tem_audio": true,
+          "contexto": "THAT - tempo passado (distante)"
+        },
+        {
+          "ingles": "These days, life is busy.",
+          "portugues": "Nestes dias, a vida está corrida.",
+          "fonetica": "/ðiz deɪz laɪf ɪz ˈbɪzi/",
+          "tem_audio": true,
+          "contexto": "THESE DAYS - expressão fixa = nowadays"
+        },
+        {
+          "ingles": "Those times were different.",
+          "portugues": "Aqueles tempos eram diferentes.",
+          "fonetica": "/ðoʊz taɪmz wər ˈdɪfərənt/",
+          "tem_audio": true,
+          "contexto": "THOSE TIMES - época passada"
+        },
+        {
+          "ingles": "This is the best day ever!",
+          "portugues": "Este é o melhor dia de todos!",
+          "fonetica": "/ðɪs ɪz ðə bɛst deɪ ˈɛvər/",
+          "tem_audio": true,
+          "contexto": "THIS IS - experiência atual/presente"
+        }
+      ]
+    },
+    {
+      "id": "apresentacoes_identificacao",
+      "titulo": "Introductions and Identification",
+      "tipo": "vocabulario",
+      "descricao": "Apresentações e identificação de pessoas/objetos",
+      "itens": [
+        {
+          "ingles": "This is my sister, Maria.",
+          "portugues": "Esta é minha irmã, Maria.",
+          "fonetica": "/ðɪs ɪz maɪ ˈsɪstər məˈriə/",
+          "tem_audio": true,
+          "contexto": "THIS IS - apresentando pessoa próxima"
+        },
+        {
+          "ingles": "That's my boss over there.",
+          "portugues": "Aquele é meu chefe ali.",
+          "fonetica": "/ðæts maɪ bɔs ˈoʊvər ðɛr/",
+          "tem_audio": true,
+          "contexto": "THAT'S = THAT IS - pessoa distante"
+        },
+        {
+          "ingles": "These are my children.",
+          "portugues": "Estes são meus filhos.",
+          "fonetica": "/ðiz ɑr maɪ ˈtʃɪldrən/",
+          "tem_audio": true,
+          "contexto": "THESE ARE - apresentando grupo próximo"
+        },
+        {
+          "ingles": "Those are the new students.",
+          "portugues": "Aqueles são os estudantes novos.",
+          "fonetica": "/ðoʊz ɑr ðə nu ˈstudənts/",
+          "tem_audio": true,
+          "contexto": "THOSE ARE - identificando grupo distante"
+        },
+        {
+          "ingles": "This is where I live.",
+          "portugues": "Este é o lugar onde eu moro.",
+          "fonetica": "/ðɪs ɪz wɛr aɪ lɪv/",
+          "tem_audio": true,
+          "contexto": "THIS IS - apresentando local atual"
+        }
+      ]
+    },
+    {
+      "id": "perguntas_demonstrativos",
+      "titulo": "Questions with Demonstratives",
+      "tipo": "vocabulario",
+      "descricao": "Fazendo perguntas com demonstrativos",
+      "itens": [
+        {
+          "ingles": "Is this your car?",
+          "portugues": "Este é seu carro?",
+          "fonetica": "/ɪz ðɪs jʊər kɑr/",
+          "tem_audio": true,
+          "contexto": "IS THIS - pergunta sobre objeto próximo"
+        },
+        {
+          "ingles": "Are those your keys?",
+          "portugues": "Aquelas são suas chaves?",
+          "fonetica": "/ɑr ðoʊz jʊər kiz/",
+          "tem_audio": true,
+          "contexto": "ARE THOSE - pergunta sobre objetos distantes"
+        },
+        {
+          "ingles": "Whose book is this?",
+          "portugues": "De quem é este livro?",
+          "fonetica": "/huz bʊk ɪz ðɪs/",
+          "tem_audio": true,
+          "contexto": "WHOSE + THIS - perguntando posse de objeto próximo"
+        },
+        {
+          "ingles": "What are these for?",
+          "portugues": "Para que servem estes?",
+          "fonetica": "/wʌt ɑr ðiz fɔr/",
+          "tem_audio": true,
+          "contexto": "WHAT ARE THESE FOR - perguntando função/propósito"
+        },
+        {
+          "ingles": "How much do those cost?",
+          "portugues": "Quanto custam aqueles?",
+          "fonetica": "/haʊ mʌtʃ du ðoʊz kɔst/",
+          "tem_audio": true,
+          "contexto": "HOW MUCH + THOSE - perguntando preço de itens distantes"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue with Demonstratives",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando demonstrativos",
+      "participantes": ["Customer", "Salesperson"],
+      "conversas": [
+        {
+          "falante": "Customer",
+          "ingles": "Excuse me, can I see those shoes in the window?",
+          "portugues": "Com licença, posso ver aqueles sapatos na vitrine?",
+          "fonetica": "/ɪkˈskjuz mi kæn aɪ si ðoʊz ʃuz ɪn ðə ˈwɪndoʊ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Salesperson",
+          "ingles": "Of course! These are very popular this season. What size do you need?",
+          "portugues": "Claro! Estes são muito populares esta temporada. Que tamanho você precisa?",
+          "fonetica": "/ʌv kɔrs ðiz ɑr ˈvɛri ˈpɑpjələr ðɪs ˈsizən wʌt saɪz du ju nid/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Customer",
+          "ingles": "Size 8, please. How much do these cost? And do you have them in different colors?",
+          "portugues": "Tamanho 8, por favor. Quanto custam estes? E vocês têm em cores diferentes?",
+          "fonetica": "/saɪz eɪt pliz haʊ mʌtʃ du ðiz kɔst ænd du ju hæv ðɛm ɪn ˈdɪfərənt ˈkʌlərz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Salesperson",
+          "ingles": "These are $120. We have them in black, brown, and red. That red pair over there is the same style.",
+          "portugues": "Estes custam $120. Temos em preto, marrom e vermelho. Aquele par vermelho ali é o mesmo estilo.",
+          "fonetica": "/ðiz ɑr wʌn ˈhʌndrəd ˈtwɛnti ˈdɑlərz wi hæv ðɛm ɪn blæk braʊn ænd rɛd ðæt rɛd pɛr ˈoʊvər ðɛr ɪz ðə seɪm staɪl/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Customer",
+          "ingles": "Perfect! I like this black pair. Can I try them on? And what about that handbag on the shelf?",
+          "portugues": "Perfeito! Eu gosto deste par preto. Posso experimentá-los? E quanto àquela bolsa na prateleira?",
+          "fonetica": "/ˈpɜrfɪkt aɪ laɪk ðɪs blæk pɛr kæn aɪ traɪ ðɛm ɑn ænd wʌt əˈbaʊt ðæt ˈhændbæg ɑn ðə ʃɛlf/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Salesperson",
+          "ingles": "Absolutely! Here's size 8. That bag matches these shoes perfectly. Those two items would make a great combination!",
+          "portugues": "Absolutamente! Aqui está o tamanho 8. Aquela bolsa combina perfeitamente com estes sapatos. Aqueles dois itens fariam uma ótima combinação!",
+          "fonetica": "/ˌæbsəˈlutli hɪrz saɪz eɪt ðæt bæg ˈmætʃəz ðiz ʃuz ˈpɜrfɪktli ðoʊz tu ˈaɪtəmz wʊd meɪk ə greɪt ˌkɑmbəˈneɪʃən/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Shopping at the Market",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let me tell you about my shopping experience using demonstratives! This morning I went to the local market. When I arrived, I saw many colorful fruits and vegetables. 'These apples look fresh,' I thought, pointing to the ones right in front of me. The vendor smiled and said, 'Those are from our local farm,' indicating the apples in the back. I decided to buy some of each. Next, I walked to the flower section. 'How much are these roses?' I asked, touching the ones closest to me. 'This red bouquet is $15, and that white one over there is $12,' replied the florist. I chose the white ones because they matched my living room. At the bakery stall, the smell was incredible! 'What is this?' I asked, pointing to a pastry I'd never seen before. 'That's a traditional almond croissant,' explained the baker. 'These are made fresh every morning.' I bought two of those delicious croissants. Finally, I stopped at the clothing section. 'I love this scarf!' I exclaimed, feeling the soft fabric. The seller showed me more options: 'Those scarves on the rack are the same material, but different colors.' I compared this blue one in my hands with that green one hanging up. After much consideration, I decided on this blue scarf because it matched my eyes. What a successful shopping trip! These local markets have so much character, and those vendors are always so helpful and friendly.",
+        "texto_portugues": "Deixe-me contar sobre minha experiência de compras usando demonstrativos! Esta manhã fui ao mercado local. Quando cheguei, vi muitas frutas e vegetais coloridos. 'Estas maçãs parecem frescas,' pensei, apontando para as que estavam bem na minha frente. O vendedor sorriu e disse: 'Aquelas são da nossa fazenda local,' indicando as maçãs no fundo. Decidi comprar algumas de cada. Em seguida, caminhei até a seção de flores. 'Quanto custam estas rosas?' perguntei, tocando as mais próximas de mim. 'Este buquê vermelho custa $15, e aquele branco ali custa $12,' respondeu a florista. Escolhi as brancas porque combinavam com minha sala. Na barraca de padaria, o cheiro era incrível! 'O que é isto?' perguntei, apontando para um doce que nunca tinha visto antes. 'Aquilo é um croissant tradicional de amêndoa,' explicou o padeiro. 'Estes são feitos frescos toda manhã.' Comprei dois daqueles croissants deliciosos. Finalmente, parei na seção de roupas. 'Eu amo este lenço!' exclamei, sentindo o tecido macio. O vendedor me mostrou mais opções: 'Aqueles lenços na arara são do mesmo material, mas cores diferentes.' Comparei este azul nas minhas mãos com aquele verde pendurado. Após muita consideração, decidi por este lenço azul porque combinava com meus olhos. Que viagem de compras bem-sucedida! Estes mercados locais têm tanto caráter, e aqueles vendedores são sempre tão úteis e amigáveis.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Mastering Demonstratives",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are essential tips for mastering demonstratives: 1) Remember the distance rule: THIS/THESE = near, THAT/THOSE = far. 2) Remember the number rule: THIS/THAT = singular, THESE/THOSE = plural. 3) Use gestures when speaking - point to make it clear what you're referring to. 4) THIS and THESE often refer to present time, THAT and THOSE to past time. 5) In phone conversations, use THIS for your situation, THAT for the other person's situation. 6) Practice with objects around you: 'This book' (in your hand) vs 'That book' (on the shelf). 7) Remember: 'These days' = nowadays (fixed expression). 8) When shopping, use demonstratives to be specific about what you want!",
+        "texto_portugues": "Aqui estão dicas essenciais para dominar demonstrativos: 1) Lembre da regra de distância: THIS/THESE = perto, THAT/THOSE = longe. 2) Lembre da regra de número: THIS/THAT = singular, THESE/THOSE = plural. 3) Use gestos ao falar - aponte para deixar claro a que você está se referindo. 4) THIS e THESE frequentemente se referem ao tempo presente, THAT e THOSE ao tempo passado. 5) Em conversas telefônicas, use THIS para sua situação, THAT para a situação da outra pessoa. 6) Pratique com objetos ao seu redor: 'This book' (na sua mão) vs 'That book' (na estante). 7) Lembre: 'These days' = nowadays (expressão fixa). 8) Ao fazer compras, use demonstrativos para ser específico sobre o que você quer!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice demonstratives everywhere! Look around your room and practice: 'This lamp is bright', 'That picture on the wall is beautiful', 'These books are interesting', 'Those clothes need washing'. Practice shopping scenarios: 'How much is this?', 'I want that one', 'These fit well', 'Those are too expensive'. Try time references: 'This week', 'That day', 'These days', 'Those years'. Practice introductions: 'This is my friend', 'That's my teacher', 'These are my parents', 'Those are my colleagues'. Remember to point and use gestures - it makes your meaning crystal clear!",
+        "texto_portugues": "Agora pratique demonstrativos em todos os lugares! Olhe ao redor do seu quarto e pratique: 'This lamp is bright', 'That picture on the wall is beautiful', 'These books are interesting', 'Those clothes need washing'. Pratique cenários de compras: 'How much is this?', 'I want that one', 'These fit well', 'Those are too expensive'. Experimente referências de tempo: 'This week', 'That day', 'These days', 'Those years'. Pratique apresentações: 'This is my friend', 'That's my teacher', 'These are my parents', 'Those are my colleagues'. Lembre-se de apontar e usar gestos - isso torna seu significado cristalino!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
