@@ -1,0 +1,484 @@
+{
+  "titulo": "Família",
+  "descricao": "Aprenda vocabulário essencial sobre família em inglês! Domine como falar sobre parentes, relacionamentos familiares e descrever sua árvore genealógica.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What is Family Vocabulary?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Family vocabulary includes all the words we use to talk about our relatives and family relationships. This is one of the most important topics in English because we often talk about our families when meeting new people, making friends, or in casual conversations. Learning family vocabulary helps you introduce your relatives, explain family relationships, and understand when others talk about their families. Family is universal - everyone has one!",
+        "texto_portugues": "Vocabulário de família inclui todas as palavras que usamos para falar sobre nossos parentes e relacionamentos familiares. Este é um dos tópicos mais importantes em inglês porque frequentemente falamos sobre nossas famílias ao conhecer pessoas novas, fazer amigos ou em conversas casuais. Aprender vocabulário de família ajuda você a apresentar seus parentes, explicar relacionamentos familiares e entender quando outros falam sobre suas famílias. Família é universal - todos têm uma!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "familia_nuclear",
+      "titulo": "Nuclear Family - Immediate Family",
+      "tipo": "vocabulario",
+      "descricao": "A família nuclear - parentes mais próximos",
+      "itens": [
+        {
+          "ingles": "My mother is a teacher.",
+          "portugues": "Minha mãe é professora.",
+          "fonetica": "/maɪ ˈmʌðər ɪz ə ˈtitʃər/",
+          "tem_audio": true,
+          "contexto": "MOTHER - mãe, também pode usar MOM (informal)"
+        },
+        {
+          "ingles": "My father works in an office.",
+          "portugues": "Meu pai trabalha num escritório.",
+          "fonetica": "/maɪ ˈfɑðər wɜrks ɪn ən ˈɔfəs/",
+          "tem_audio": true,
+          "contexto": "FATHER - pai, também pode usar DAD (informal)"
+        },
+        {
+          "ingles": "I have one brother and two sisters.",
+          "portugues": "Eu tenho um irmão e duas irmãs.",
+          "fonetica": "/aɪ hæv wʌn ˈbrʌðər ænd tu ˈsɪstərz/",
+          "tem_audio": true,
+          "contexto": "BROTHER (irmão) - SISTER (irmã) - siblings = irmãos"
+        },
+        {
+          "ingles": "My parents live in Brazil.",
+          "portugues": "Meus pais moram no Brasil.",
+          "fonetica": "/maɪ ˈpɛrənts lɪv ɪn brəˈzɪl/",
+          "tem_audio": true,
+          "contexto": "PARENTS - pais (pai e mãe juntos)"
+        },
+        {
+          "ingles": "She is an only child.",
+          "portugues": "Ela é filha única.",
+          "fonetica": "/ʃi ɪz ən ˈoʊnli tʃaɪld/",
+          "tem_audio": true,
+          "contexto": "ONLY CHILD - filho único (sem irmãos)"
+        }
+      ]
+    },
+    {
+      "id": "filhos_idades",
+      "titulo": "Children and Ages",
+      "tipo": "vocabulario",
+      "descricao": "Filhos e diferentes idades",
+      "itens": [
+        {
+          "ingles": "They have three children.",
+          "portugues": "Eles têm três filhos.",
+          "fonetica": "/ðeɪ hæv θri ˈtʃɪldrən/",
+          "tem_audio": true,
+          "contexto": "CHILDREN - filhos (plural), CHILD (singular)"
+        },
+        {
+          "ingles": "My son is five years old.",
+          "portugues": "Meu filho tem cinco anos.",
+          "fonetica": "/maɪ sʌn ɪz faɪv jɪrz oʊld/",
+          "tem_audio": true,
+          "contexto": "SON - filho homem"
+        },
+        {
+          "ingles": "My daughter goes to school.",
+          "portugues": "Minha filha vai à escola.",
+          "fonetica": "/maɪ ˈdɔtər goʊz tu skul/",
+          "tem_audio": true,
+          "contexto": "DAUGHTER - filha mulher"
+        },
+        {
+          "ingles": "The baby is sleeping.",
+          "portugues": "O bebê está dormindo.",
+          "fonetica": "/ðə ˈbeɪbi ɪz ˈslipɪŋ/",
+          "tem_audio": true,
+          "contexto": "BABY - bebê (0-2 anos aproximadamente)"
+        },
+        {
+          "ingles": "My teenager loves music.",
+          "portugues": "Meu adolescente adora música.",
+          "fonetica": "/maɪ ˈtinˌeɪdʒər lʌvz ˈmjuzɪk/",
+          "tem_audio": true,
+          "contexto": "TEENAGER - adolescente (13-19 anos)"
+        }
+      ]
+    },
+    {
+      "id": "avos_familia_estendida",
+      "titulo": "Grandparents and Extended Family",
+      "tipo": "vocabulario",
+      "descricao": "Avós e família estendida",
+      "itens": [
+        {
+          "ingles": "My grandmother is 80 years old.",
+          "portugues": "Minha avó tem 80 anos.",
+          "fonetica": "/maɪ ˈgrændˌmʌðər ɪz ˈeɪti jɪrz oʊld/",
+          "tem_audio": true,
+          "contexto": "GRANDMOTHER - avó, também GRANDMA (informal)"
+        },
+        {
+          "ingles": "My grandfather was a doctor.",
+          "portugues": "Meu avô era médico.",
+          "fonetica": "/maɪ ˈgrændˌfɑðər wʌz ə ˈdɑktər/",
+          "tem_audio": true,
+          "contexto": "GRANDFATHER - avô, também GRANDPA (informal)"
+        },
+        {
+          "ingles": "I love visiting my grandparents.",
+          "portugues": "Eu amo visitar meus avós.",
+          "fonetica": "/aɪ lʌv ˈvɪzətɪŋ maɪ ˈgrændˌpɛrənts/",
+          "tem_audio": true,
+          "contexto": "GRANDPARENTS - avós (avô e avó juntos)"
+        },
+        {
+          "ingles": "My uncle lives in Canada.",
+          "portugues": "Meu tio mora no Canadá.",
+          "fonetica": "/maɪ ˈʌŋkəl lɪvz ɪn ˈkænədə/",
+          "tem_audio": true,
+          "contexto": "UNCLE - tio (irmão do pai ou da mãe)"
+        },
+        {
+          "ingles": "My aunt is very funny.",
+          "portugues": "Minha tia é muito engraçada.",
+          "fonetica": "/maɪ ænt ɪz ˈvɛri ˈfʌni/",
+          "tem_audio": true,
+          "contexto": "AUNT - tia (irmã do pai ou da mãe)"
+        }
+      ]
+    },
+    {
+      "id": "primos_sobrinhos",
+      "titulo": "Cousins, Nephews and Nieces",
+      "tipo": "vocabulario",
+      "descricao": "Primos, sobrinhos e sobrinhas",
+      "itens": [
+        {
+          "ingles": "My cousin studies medicine.",
+          "portugues": "Meu primo estuda medicina.",
+          "fonetica": "/maɪ ˈkʌzən ˈstʌdiz ˈmɛdəsən/",
+          "tem_audio": true,
+          "contexto": "COUSIN - primo/prima (mesmo para homem e mulher)"
+        },
+        {
+          "ingles": "I have two male cousins.",
+          "portugues": "Eu tenho dois primos homens.",
+          "fonetica": "/aɪ hæv tu meɪl ˈkʌzənz/",
+          "tem_audio": true,
+          "contexto": "MALE COUSIN - especificando primo homem"
+        },
+        {
+          "ingles": "My nephew is very smart.",
+          "portugues": "Meu sobrinho é muito inteligente.",
+          "fonetica": "/maɪ ˈnɛfju ɪz ˈvɛri smɑrt/",
+          "tem_audio": true,
+          "contexto": "NEPHEW - sobrinho (filho do irmão/irmã)"
+        },
+        {
+          "ingles": "My niece loves to dance.",
+          "portugues": "Minha sobrinha adora dançar.",
+          "fonetica": "/maɪ nis lʌvz tu dæns/",
+          "tem_audio": true,
+          "contexto": "NIECE - sobrinha (filha do irmão/irmã)"
+        },
+        {
+          "ingles": "All my cousins live nearby.",
+          "portugues": "Todos os meus primos moram perto.",
+          "fonetica": "/ɔl maɪ ˈkʌzənz lɪv ˈnɪrˌbaɪ/",
+          "tem_audio": true,
+          "contexto": "Primos podem ser muitos na família estendida"
+        }
+      ]
+    },
+    {
+      "id": "familia_casamento",
+      "titulo": "Marriage and In-Laws",
+      "tipo": "vocabulario",
+      "descricao": "Casamento e família política",
+      "itens": [
+        {
+          "ingles": "My husband is an engineer.",
+          "portugues": "Meu marido é engenheiro.",
+          "fonetica": "/maɪ ˈhʌzbənd ɪz ən ˌɛndʒəˈnɪr/",
+          "tem_audio": true,
+          "contexto": "HUSBAND - marido, esposo"
+        },
+        {
+          "ingles": "My wife is a nurse.",
+          "portugues": "Minha esposa é enfermeira.",
+          "fonetica": "/maɪ waɪf ɪz ə nɜrs/",
+          "tem_audio": true,
+          "contexto": "WIFE - esposa, mulher"
+        },
+        {
+          "ingles": "My mother-in-law is very kind.",
+          "portugues": "Minha sogra é muito gentil.",
+          "fonetica": "/maɪ ˈmʌðər ɪn lɔ ɪz ˈvɛri kaɪnd/",
+          "tem_audio": true,
+          "contexto": "MOTHER-IN-LAW - sogra (mãe do cônjuge)"
+        },
+        {
+          "ingles": "My father-in-law plays golf.",
+          "portugues": "Meu sogro joga golfe.",
+          "fonetica": "/maɪ ˈfɑðər ɪn lɔ pleɪz gɔlf/",
+          "tem_audio": true,
+          "contexto": "FATHER-IN-LAW - sogro (pai do cônjuge)"
+        },
+        {
+          "ingles": "My sister-in-law lives in Tokyo.",
+          "portugues": "Minha cunhada mora em Tóquio.",
+          "fonetica": "/maɪ ˈsɪstər ɪn lɔ lɪvz ɪn ˈtoʊkioʊ/",
+          "tem_audio": true,
+          "contexto": "SISTER-IN-LAW - cunhada (irmã do cônjuge ou esposa do irmão)"
+        }
+      ]
+    },
+    {
+      "id": "familia_adotiva_padrasto",
+      "titulo": "Step-Family and Adoption",
+      "tipo": "vocabulario",
+      "descricao": "Família de padrasto/madrasta e adoção",
+      "itens": [
+        {
+          "ingles": "My stepfather is very supportive.",
+          "portugues": "Meu padrasto é muito solidário.",
+          "fonetica": "/maɪ ˈstɛpˌfɑðər ɪz ˈvɛri səˈpɔrtɪv/",
+          "tem_audio": true,
+          "contexto": "STEPFATHER - padrasto (novo marido da mãe)"
+        },
+        {
+          "ingles": "My stepmother cooks well.",
+          "portugues": "Minha madrasta cozinha bem.",
+          "fonetica": "/maɪ ˈstɛpˌmʌðər kʊks wɛl/",
+          "tem_audio": true,
+          "contexto": "STEPMOTHER - madrasta (nova esposa do pai)"
+        },
+        {
+          "ingles": "I have two stepbrothers.",
+          "portugues": "Eu tenho dois meio-irmãos.",
+          "fonetica": "/aɪ hæv tu ˈstɛpˌbrʌðərz/",
+          "tem_audio": true,
+          "contexto": "STEPBROTHER - meio-irmão (filho do padrasto/madrasta)"
+        },
+        {
+          "ingles": "She is my adopted daughter.",
+          "portugues": "Ela é minha filha adotiva.",
+          "fonetica": "/ʃi ɪz maɪ əˈdɑptəd ˈdɔtər/",
+          "tem_audio": true,
+          "contexto": "ADOPTED - adotivo/a (não filho biológico)"
+        },
+        {
+          "ingles": "We have a blended family.",
+          "portugues": "Nós temos uma família mista.",
+          "fonetica": "/wi hæv ə ˈblɛndəd ˈfæməli/",
+          "tem_audio": true,
+          "contexto": "BLENDED FAMILY - família mista (filhos de relacionamentos anteriores)"
+        }
+      ]
+    },
+    {
+      "id": "estado_civil",
+      "titulo": "Marital Status",
+      "tipo": "vocabulario",
+      "descricao": "Estado civil e relacionamentos",
+      "itens": [
+        {
+          "ingles": "I am single and happy.",
+          "portugues": "Eu sou solteiro e feliz.",
+          "fonetica": "/aɪ æm ˈsɪŋgəl ænd ˈhæpi/",
+          "tem_audio": true,
+          "contexto": "SINGLE - solteiro/a (não casado/a)"
+        },
+        {
+          "ingles": "They are married for 10 years.",
+          "portugues": "Eles são casados há 10 anos.",
+          "fonetica": "/ðeɪ ɑr ˈmɛrid fɔr tɛn jɪrz/",
+          "tem_audio": true,
+          "contexto": "MARRIED - casado/a"
+        },
+        {
+          "ingles": "She is divorced but friendly with her ex-husband.",
+          "portugues": "Ela é divorciada mas amigável com seu ex-marido.",
+          "fonetica": "/ʃi ɪz dɪˈvɔrst bʌt ˈfrɛndli wɪð hər ˈɛks ˈhʌzbənd/",
+          "tem_audio": true,
+          "contexto": "DIVORCED - divorciado/a, EX-HUSBAND - ex-marido"
+        },
+        {
+          "ingles": "He is a widower since last year.",
+          "portugues": "Ele é viúvo desde o ano passado.",
+          "fonetica": "/hi ɪz ə ˈwɪdoʊər sɪns læst jɪr/",
+          "tem_audio": true,
+          "contexto": "WIDOWER - viúvo (homem), WIDOW - viúva (mulher)"
+        },
+        {
+          "ingles": "My boyfriend is from Italy.",
+          "portugues": "Meu namorado é da Itália.",
+          "fonetica": "/maɪ ˈbɔɪˌfrɛnd ɪz frʌm ˈɪtəli/",
+          "tem_audio": true,
+          "contexto": "BOYFRIEND - namorado, GIRLFRIEND - namorada"
+        }
+      ]
+    },
+    {
+      "id": "descricao_familia",
+      "titulo": "Describing Family Members",
+      "tipo": "vocabulario",
+      "descricao": "Como descrever membros da família",
+      "itens": [
+        {
+          "ingles": "My family is very close-knit.",
+          "portugues": "Minha família é muito unida.",
+          "fonetica": "/maɪ ˈfæməli ɪz ˈvɛri ˈkloʊs nɪt/",
+          "tem_audio": true,
+          "contexto": "CLOSE-KNIT - unida, próxima (família)"
+        },
+        {
+          "ingles": "My older sister is responsible.",
+          "portugues": "Minha irmã mais velha é responsável.",
+          "fonetica": "/maɪ ˈoʊldər ˈsɪstər ɪz rɪˈspɑnsəbəl/",
+          "tem_audio": true,
+          "contexto": "OLDER - mais velho/a, YOUNGER - mais novo/a"
+        },
+        {
+          "ingles": "My little brother is mischievous.",
+          "portugues": "Meu irmãozinho é travesso.",
+          "fonetica": "/maɪ ˈlɪtəl ˈbrʌðər ɪz ˈmɪstʃəvəs/",
+          "tem_audio": true,
+          "contexto": "LITTLE - pequeno (carinhoso), MISCHIEVOUS - travesso"
+        },
+        {
+          "ingles": "We come from a large family.",
+          "portugues": "Nós vimos de uma família grande.",
+          "fonetica": "/wi kʌm frʌm ə lɑrdʒ ˈfæməli/",
+          "tem_audio": true,
+          "contexto": "LARGE FAMILY - família grande (muitos membros)"
+        },
+        {
+          "ingles": "I have a small but loving family.",
+          "portugues": "Eu tenho uma família pequena mas amorosa.",
+          "fonetica": "/aɪ hæv ə smɔl bʌt ˈlʌvɪŋ ˈfæməli/",
+          "tem_audio": true,
+          "contexto": "SMALL FAMILY - família pequena, LOVING - amorosa"
+        }
+      ]
+    },
+    {
+      "id": "atividades_familia",
+      "titulo": "Family Activities",
+      "tipo": "vocabulario",
+      "descricao": "Atividades familiares típicas",
+      "itens": [
+        {
+          "ingles": "We have family dinner every Sunday.",
+          "portugues": "Nós temos jantar em família todo domingo.",
+          "fonetica": "/wi hæv ˈfæməli ˈdɪnər ˈɛvri ˈsʌndeɪ/",
+          "tem_audio": true,
+          "contexto": "FAMILY DINNER - jantar em família (tradição comum)"
+        },
+        {
+          "ingles": "Our family reunion is in July.",
+          "portugues": "Nossa reunião de família é em julho.",
+          "fonetica": "/aʊər ˈfæməli riˈjunjən ɪz ɪn dʒuˈlaɪ/",
+          "tem_audio": true,
+          "contexto": "FAMILY REUNION - reunião de família (evento especial)"
+        },
+        {
+          "ingles": "We go on family vacations together.",
+          "portugues": "Nós fazemos férias em família juntos.",
+          "fonetica": "/wi goʊ ɑn ˈfæməli veɪˈkeɪʃənz təˈgɛðər/",
+          "tem_audio": true,
+          "contexto": "FAMILY VACATION - férias em família"
+        },
+        {
+          "ingles": "My parents visit us on holidays.",
+          "portugues": "Meus pais nos visitam nos feriados.",
+          "fonetica": "/maɪ ˈpɛrənts ˈvɪzət ʌs ɑn ˈhɑləˌdeɪz/",
+          "tem_audio": true,
+          "contexto": "HOLIDAYS - feriados (momentos de reunir a família)"
+        },
+        {
+          "ingles": "We celebrate birthdays as a family.",
+          "portugues": "Nós comemoramos aniversários em família.",
+          "fonetica": "/wi ˈsɛləˌbreɪt ˈbɜrθˌdeɪz æz ə ˈfæməli/",
+          "tem_audio": true,
+          "contexto": "CELEBRATE - comemorar (aniversários, datas especiais)"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue about Family",
+      "tipo": "dialogo",
+      "descricao": "Conversa real sobre família",
+      "participantes": ["Jessica", "Miguel"],
+      "conversas": [
+        {
+          "falante": "Jessica",
+          "ingles": "Hi Miguel! Tell me about your family. Do you have any brothers or sisters?",
+          "portugues": "Oi Miguel! Me conte sobre sua família. Você tem irmãos ou irmãs?",
+          "fonetica": "/haɪ mɪˈgɛl tɛl mi əˈbaʊt jʊər ˈfæməli du ju hæv ˈɛni ˈbrʌðərz ɔr ˈsɪstərz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Miguel",
+          "ingles": "Yes! I have two older sisters and one younger brother. My sisters are married and have children. What about your family?",
+          "portugues": "Sim! Eu tenho duas irmãs mais velhas e um irmão mais novo. Minhas irmãs são casadas e têm filhos. E quanto à sua família?",
+          "fonetica": "/jɛs aɪ hæv tu ˈoʊldər ˈsɪstərz ænd wʌn ˈjʌŋgər ˈbrʌðər maɪ ˈsɪstərz ɑr ˈmɛrid ænd hæv ˈtʃɪldrən wʌt əˈbaʊt jʊər ˈfæməli/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Jessica",
+          "ingles": "I'm an only child, but I have many cousins. My parents are divorced, so I have a stepmother and two stepsisters.",
+          "portugues": "Eu sou filha única, mas tenho muitos primos. Meus pais são divorciados, então tenho uma madrasta e duas meio-irmãs.",
+          "fonetica": "/aɪm ən ˈoʊnli tʃaɪld bʌt aɪ hæv ˈmɛni ˈkʌzənz maɪ ˈpɛrənts ɑr dɪˈvɔrst soʊ aɪ hæv ə ˈstɛpˌmʌðər ænd tu ˈstɛpˌsɪstərz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Miguel",
+          "ingles": "That's interesting! Are you close with your stepfamily? I love spending time with my nephews and nieces.",
+          "portugues": "Que interessante! Você é próxima da sua família de criação? Eu adoro passar tempo com meus sobrinhos e sobrinhas.",
+          "fonetica": "/ðæts ˈɪntrəstɪŋ ɑr ju kloʊs wɪð jʊər ˈstɛpˌfæməli aɪ lʌv ˈspɛndɪŋ taɪm wɪð maɪ ˈnɛfjuz ænd ˈnisəz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Jessica",
+          "ingles": "Yes, we get along very well! My stepsisters are like real sisters to me. Do your grandparents live nearby?",
+          "portugues": "Sim, nós nos damos muito bem! Minhas meio-irmãs são como irmãs de verdade para mim. Seus avós moram perto?",
+          "fonetica": "/jɛs wi gɛt əˈlɔŋ ˈvɛri wɛl maɪ ˈstɛpˌsɪstərz ɑr laɪk ril ˈsɪstərz tu mi du jʊər ˈgrændˌpɛrənts lɪv ˈnɪrˌbaɪ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Miguel",
+          "ingles": "My grandmother lives with us, but my grandfather passed away last year. We have a big family reunion every Christmas!",
+          "portugues": "Minha avó mora conosco, mas meu avô faleceu ano passado. Nós temos uma grande reunião de família todo Natal!",
+          "fonetica": "/maɪ ˈgrændˌmʌðər lɪvz wɪð ʌs bʌt maɪ ˈgrændˌfɑðər pæst əˈweɪ læst jɪr wi hæv ə bɪg ˈfæməli riˈjunjən ˈɛvri ˈkrɪsməs/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - My Family Tree",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let me describe my family tree! I come from a large, close-knit family. My parents are still married after thirty years together. My father is the oldest of four brothers, and my mother has two sisters. This means I have many uncles and aunts on both sides of the family! My paternal grandfather was a farmer, and my paternal grandmother was a teacher. They had six children in total. On my mother's side, my maternal grandparents owned a small restaurant. Sadly, both my grandfathers passed away, but my grandmothers are still alive and very active. I have one older brother who is married with two children - my nephew is eight years old, and my niece is five. My brother's wife, my sister-in-law, is like a sister to me. I also have a younger sister who is still single but has a serious boyfriend. We think they will get engaged soon! I have twelve cousins in total - some live nearby, others live in different cities. During holidays, especially Christmas and Easter, our family reunions are huge events with more than forty people! We rent a large hall and everyone brings food to share. The children play together while adults catch up on each other's lives. I love my big, loving family and wouldn't change anything about it!",
+        "texto_portugues": "Deixe-me descrever minha árvore genealógica! Eu venho de uma família grande e unida. Meus pais ainda são casados depois de trinta anos juntos. Meu pai é o mais velho de quatro irmãos, e minha mãe tem duas irmãs. Isso significa que tenho muitos tios e tias dos dois lados da família! Meu avô paterno era fazendeiro, e minha avó paterna era professora. Eles tiveram seis filhos no total. Do lado da minha mãe, meus avós maternos tinham um restaurante pequeno. Infelizmente, ambos meus avôs faleceram, mas minhas avós ainda estão vivas e muito ativas. Tenho um irmão mais velho que é casado com dois filhos - meu sobrinho tem oito anos, e minha sobrinha tem cinco. A esposa do meu irmão, minha cunhada, é como uma irmã para mim. Também tenho uma irmã mais nova que ainda é solteira mas tem um namorado sério. Achamos que eles vão ficar noivos em breve! Tenho doze primos no total - alguns moram perto, outros moram em cidades diferentes. Durante os feriados, especialmente Natal e Páscoa, nossas reuniões de família são eventos enormes com mais de quarenta pessoas! Alugamos um salão grande e todos trazem comida para compartilhar. As crianças brincam juntas enquanto os adultos colocam as vidas em dia. Eu amo minha família grande e amorosa e não mudaria nada!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Learning Family Vocabulary",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are helpful tips for mastering family vocabulary: 1) Start with immediate family: mother, father, brother, sister, son, daughter. 2) Learn the difference between formal (mother/father) and informal (mom/dad, mommy/daddy). 3) Remember that 'cousin' is the same for male and female - specify 'male cousin' or 'female cousin' if needed. 4) Practice family possessives: 'my mother's sister' = my aunt. 5) Learn '-in-law' endings for married family: mother-in-law, sister-in-law, etc. 6) Draw your own family tree and label everyone in English. 7) Practice describing family relationships: 'She is my father's mother' = grandmother. 8) Use family vocabulary in daily conversations - it's very common topic!",
+        "texto_portugues": "Aqui estão dicas úteis para dominar vocabulário de família: 1) Comece com família imediata: mother, father, brother, sister, son, daughter. 2) Aprenda a diferença entre formal (mother/father) e informal (mom/dad, mommy/daddy). 3) Lembre que 'cousin' é igual para homem e mulher - especifique 'male cousin' ou 'female cousin' se necessário. 4) Pratique possessivos de família: 'my mother's sister' = my aunt. 5) Aprenda terminações '-in-law' para família por casamento: mother-in-law, sister-in-law, etc. 6) Desenhe sua própria árvore genealógica e rotule todos em inglês. 7) Pratique descrevendo relacionamentos familiares: 'She is my father's mother' = grandmother. 8) Use vocabulário de família em conversas diárias - é tópico muito comum!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice family vocabulary! Start by describing your immediate family: parents, siblings, children. Then expand to extended family: grandparents, aunts, uncles, cousins. Practice introducing family members: 'This is my...', 'I'd like you to meet my...'. Create sentences about family activities: 'We have dinner together', 'My family loves to travel'. Practice asking about others' families: 'Do you have any brothers?', 'How many cousins do you have?'. Remember, family is one of the most common conversation topics, so master this vocabulary and you'll be ready for countless social situations!",
+        "texto_portugues": "Agora pratique vocabulário de família! Comece descrevendo sua família imediata: pais, irmãos, filhos. Depois expanda para família estendida: avós, tios, tias, primos. Pratique apresentando membros da família: 'This is my...', 'I'd like you to meet my...'. Crie frases sobre atividades familiares: 'We have dinner together', 'My family loves to travel'. Pratique perguntando sobre famílias dos outros: 'Do you have any brothers?', 'How many cousins do you have?'. Lembre-se, família é um dos tópicos de conversa mais comuns, então domine esse vocabulário e você estará pronto para inúmeras situações sociais!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
