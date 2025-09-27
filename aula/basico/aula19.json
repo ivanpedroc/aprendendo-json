@@ -1,0 +1,484 @@
+{
+  "titulo": "Como Transformar Frases em Perguntas",
+  "descricao": "Aprenda a fazer perguntas em inglês! Domine as regras para transformar frases afirmativas em perguntas usando DO/DOES, WH-words e inversão de verbos.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What are Questions in English?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Questions are sentences that ask for information. In English, we form questions differently from Portuguese! There are two main types: Yes/No questions (that can be answered with yes or no) and WH-questions (that ask for specific information using who, what, when, where, why, how). To make questions, we usually change the word order or add auxiliary verbs like DO, DOES, or DID. Learning to ask questions correctly is essential for conversations, getting information, and expressing curiosity.",
+        "texto_portugues": "Perguntas são frases que pedem informações. Em inglês, formamos perguntas de forma diferente do português! Há dois tipos principais: perguntas Yes/No (que podem ser respondidas com sim ou não) e perguntas WH (que pedem informações específicas usando who, what, when, where, why, how). Para fazer perguntas, geralmente mudamos a ordem das palavras ou adicionamos verbos auxiliares como DO, DOES ou DID. Aprender a fazer perguntas corretamente é essencial para conversas, obter informações e expressar curiosidade.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "perguntas_verbo_be",
+      "titulo": "Questions with BE - Simple Inversion",
+      "tipo": "vocabulario",
+      "descricao": "Como fazer perguntas com o verbo BE - inversão simples",
+      "itens": [
+        {
+          "ingles": "Are you ready? (You are ready.)",
+          "portugues": "Você está pronto? (Você está pronto.)",
+          "fonetica": "/ɑr ju ˈrɛdi/",
+          "tem_audio": true,
+          "contexto": "ARE YOU - inversão simples: ARE move para antes do sujeito"
+        },
+        {
+          "ingles": "Is she at home? (She is at home.)",
+          "portugues": "Ela está em casa? (Ela está em casa.)",
+          "fonetica": "/ɪz ʃi æt hoʊm/",
+          "tem_audio": true,
+          "contexto": "IS SHE - verbo BE vem primeiro na pergunta"
+        },
+        {
+          "ingles": "Am I late? (I am late.)",
+          "portugues": "Eu estou atrasado? (Eu estou atrasado.)",
+          "fonetica": "/æm aɪ leɪt/",
+          "tem_audio": true,
+          "contexto": "AM I - única forma para primeira pessoa singular"
+        },
+        {
+          "ingles": "Are they students? (They are students.)",
+          "portugues": "Eles são estudantes? (Eles são estudantes.)",
+          "fonetica": "/ɑr ðeɪ ˈstudənts/",
+          "tem_audio": true,
+          "contexto": "ARE THEY - pergunta sobre identidade/profissão"
+        },
+        {
+          "ingles": "Is this your book? (This is your book.)",
+          "portugues": "Este é seu livro? (Este é seu livro.)",
+          "fonetica": "/ɪz ðɪs jʊər bʊk/",
+          "tem_audio": true,
+          "contexto": "IS THIS - pergunta sobre posse/identificação"
+        }
+      ]
+    },
+    {
+      "id": "perguntas_presente_simples",
+      "titulo": "Questions in Simple Present - DO and DOES",
+      "tipo": "vocabulario",
+      "descricao": "Como fazer perguntas no Present Simple usando DO/DOES",
+      "itens": [
+        {
+          "ingles": "Do you like coffee? (You like coffee.)",
+          "portugues": "Você gosta de café? (Você gosta de café.)",
+          "fonetica": "/du ju laɪk ˈkɔfi/",
+          "tem_audio": true,
+          "contexto": "DO YOU - para you/I/we/they + verbo na forma base"
+        },
+        {
+          "ingles": "Does she work here? (She works here.)",
+          "portugues": "Ela trabalha aqui? (Ela trabalha aqui.)",
+          "fonetica": "/dʌz ʃi wɜrk hɪr/",
+          "tem_audio": true,
+          "contexto": "DOES SHE - para he/she/it + verbo volta à forma base (work, não works)"
+        },
+        {
+          "ingles": "Do they live in Brazil? (They live in Brazil.)",
+          "portugues": "Eles moram no Brasil? (Eles moram no Brasil.)",
+          "fonetica": "/du ðeɪ lɪv ɪn brəˈzɪl/",
+          "tem_audio": true,
+          "contexto": "DO THEY - pergunta sobre localização/residência"
+        },
+        {
+          "ingles": "Does he speak English? (He speaks English.)",
+          "portugues": "Ele fala inglês? (Ele fala inglês.)",
+          "fonetica": "/dʌz hi spik ˈɪŋglɪʃ/",
+          "tem_audio": true,
+          "contexto": "DOES HE - pergunta sobre habilidade/idioma"
+        },
+        {
+          "ingles": "Do we have time? (We have time.)",
+          "portugues": "Nós temos tempo? (Nós temos tempo.)",
+          "fonetica": "/du wi hæv taɪm/",
+          "tem_audio": true,
+          "contexto": "DO WE - pergunta sobre disponibilidade"
+        }
+      ]
+    },
+    {
+      "id": "perguntas_passado_simples",
+      "titulo": "Questions in Simple Past - DID",
+      "tipo": "vocabulario",
+      "descricao": "Como fazer perguntas no Past Simple usando DID",
+      "itens": [
+        {
+          "ingles": "Did you go to the party? (You went to the party.)",
+          "portugues": "Você foi à festa? (Você foi à festa.)",
+          "fonetica": "/dɪd ju goʊ tu ðə ˈpɑrti/",
+          "tem_audio": true,
+          "contexto": "DID YOU - verbo principal volta à forma base (go, não went)"
+        },
+        {
+          "ingles": "Did she call you yesterday? (She called you yesterday.)",
+          "portugues": "Ela te ligou ontem? (Ela te ligou ontem.)",
+          "fonetica": "/dɪd ʃi kɔl ju ˈjɛstərdeɪ/",
+          "tem_audio": true,
+          "contexto": "DID SHE - mesmo DID para todas as pessoas"
+        },
+        {
+          "ingles": "Did they arrive on time? (They arrived on time.)",
+          "portugues": "Eles chegaram na hora? (Eles chegaram na hora.)",
+          "fonetica": "/dɪd ðeɪ əˈraɪv ɑn taɪm/",
+          "tem_audio": true,
+          "contexto": "DID THEY - pergunta sobre pontualidade no passado"
+        },
+        {
+          "ingles": "Did he finish his work? (He finished his work.)",
+          "portugues": "Ele terminou seu trabalho? (Ele terminou seu trabalho.)",
+          "fonetica": "/dɪd hi ˈfɪnɪʃ hɪz wɜrk/",
+          "tem_audio": true,
+          "contexto": "DID HE - pergunta sobre conclusão de tarefa"
+        },
+        {
+          "ingles": "Did we see that movie? (We saw that movie.)",
+          "portugues": "Nós vimos aquele filme? (Nós vimos aquele filme.)",
+          "fonetica": "/dɪd wi si ðæt ˈmuvi/",
+          "tem_audio": true,
+          "contexto": "DID WE - verbo irregular 'see' (não 'saw' na pergunta)"
+        }
+      ]
+    },
+    {
+      "id": "perguntas_verbos_modais",
+      "titulo": "Questions with Modal Verbs",
+      "tipo": "vocabulario",
+      "descricao": "Como fazer perguntas com verbos modais - inversão simples",
+      "itens": [
+        {
+          "ingles": "Can you swim? (You can swim.)",
+          "portugues": "Você sabe nadar? (Você sabe nadar.)",
+          "fonetica": "/kæn ju swɪm/",
+          "tem_audio": true,
+          "contexto": "CAN YOU - modal vem primeiro, sem DO/DOES"
+        },
+        {
+          "ingles": "Will she come tomorrow? (She will come tomorrow.)",
+          "portugues": "Ela virá amanhã? (Ela virá amanhã.)",
+          "fonetica": "/wɪl ʃi kʌm təˈmɑroʊ/",
+          "tem_audio": true,
+          "contexto": "WILL SHE - futuro com WILL, inversão simples"
+        },
+        {
+          "ingles": "Should we leave now? (We should leave now.)",
+          "portugues": "Nós deveríamos sair agora? (Nós deveríamos sair agora.)",
+          "fonetica": "/ʃʊd wi liv naʊ/",
+          "tem_audio": true,
+          "contexto": "SHOULD WE - pergunta pedindo conselho/sugestão"
+        },
+        {
+          "ingles": "Could you help me? (You could help me.)",
+          "portugues": "Você poderia me ajudar? (Você poderia me ajudar.)",
+          "fonetica": "/kʊd ju hɛlp mi/",
+          "tem_audio": true,
+          "contexto": "COULD YOU - pedido educado"
+        },
+        {
+          "ingles": "Must I do this now? (I must do this now.)",
+          "portugues": "Eu preciso fazer isso agora? (Eu preciso fazer isso agora.)",
+          "fonetica": "/mʌst aɪ du ðɪs naʊ/",
+          "tem_audio": true,
+          "contexto": "MUST I - pergunta sobre obrigação/necessidade"
+        }
+      ]
+    },
+    {
+      "id": "wh_questions_what_who",
+      "titulo": "WH-Questions: WHAT and WHO",
+      "tipo": "vocabulario",
+      "descricao": "Perguntas com WHAT (o que) e WHO (quem)",
+      "itens": [
+        {
+          "ingles": "What do you want? (You want something.)",
+          "portugues": "O que você quer? (Você quer algo.)",
+          "fonetica": "/wʌt du ju wænt/",
+          "tem_audio": true,
+          "contexto": "WHAT DO YOU - pergunta sobre objeto/coisa desejada"
+        },
+        {
+          "ingles": "What does she do? (She does something/works somewhere.)",
+          "portugues": "O que ela faz? (Ela faz algo/trabalha em algum lugar.)",
+          "fonetica": "/wʌt dʌz ʃi du/",
+          "tem_audio": true,
+          "contexto": "WHAT DOES SHE DO - pergunta sobre profissão/trabalho"
+        },
+        {
+          "ingles": "Who is that man? (That man is someone.)",
+          "portugues": "Quem é aquele homem? (Aquele homem é alguém.)",
+          "fonetica": "/hu ɪz ðæt mæn/",
+          "tem_audio": true,
+          "contexto": "WHO IS - pergunta sobre identidade de pessoa"
+        },
+        {
+          "ingles": "Who called you? (Someone called you.)",
+          "portugues": "Quem te ligou? (Alguém te ligou.)",
+          "fonetica": "/hu kɔld ju/",
+          "tem_audio": true,
+          "contexto": "WHO - quando WHO é sujeito, não usa DO/DOES/DID"
+        },
+        {
+          "ingles": "What did you buy? (You bought something.)",
+          "portugues": "O que você comprou? (Você comprou algo.)",
+          "fonetica": "/wʌt dɪd ju baɪ/",
+          "tem_audio": true,
+          "contexto": "WHAT DID YOU - pergunta sobre objeto no passado"
+        }
+      ]
+    },
+    {
+      "id": "wh_questions_where_when_why",
+      "titulo": "WH-Questions: WHERE, WHEN, WHY",
+      "tipo": "vocabulario",
+      "descricao": "Perguntas com WHERE (onde), WHEN (quando), WHY (por que)",
+      "itens": [
+        {
+          "ingles": "Where do you live? (You live somewhere.)",
+          "portugues": "Onde você mora? (Você mora em algum lugar.)",
+          "fonetica": "/wɛr du ju lɪv/",
+          "tem_audio": true,
+          "contexto": "WHERE DO YOU - pergunta sobre localização/lugar"
+        },
+        {
+          "ingles": "When does the movie start? (The movie starts at some time.)",
+          "portugues": "Quando o filme começa? (O filme começa em algum horário.)",
+          "fonetica": "/wɛn dʌz ðə ˈmuvi stɑrt/",
+          "tem_audio": true,
+          "contexto": "WHEN DOES - pergunta sobre tempo específico"
+        },
+        {
+          "ingles": "Why are you sad? (You are sad for some reason.)",
+          "portugues": "Por que você está triste? (Você está triste por algum motivo.)",
+          "fonetica": "/waɪ ɑr ju sæd/",
+          "tem_audio": true,
+          "contexto": "WHY ARE YOU - pergunta sobre razão/motivo"
+        },
+        {
+          "ingles": "Where did they go? (They went somewhere.)",
+          "portugues": "Onde eles foram? (Eles foram a algum lugar.)",
+          "fonetica": "/wɛr dɪd ðeɪ goʊ/",
+          "tem_audio": true,
+          "contexto": "WHERE DID - lugar no passado"
+        },
+        {
+          "ingles": "Why didn't you come? (You didn't come for some reason.)",
+          "portugues": "Por que você não veio? (Você não veio por algum motivo.)",
+          "fonetica": "/waɪ ˈdɪdənt ju kʌm/",
+          "tem_audio": true,
+          "contexto": "WHY DIDN'T - razão para ação negativa no passado"
+        }
+      ]
+    },
+    {
+      "id": "wh_questions_how",
+      "titulo": "HOW Questions - Different Types",
+      "tipo": "vocabulario",
+      "descricao": "Perguntas com HOW (como) e suas variações",
+      "itens": [
+        {
+          "ingles": "How are you? (You are somehow.)",
+          "portugues": "Como você está? (Você está de alguma forma.)",
+          "fonetica": "/haʊ ɑr ju/",
+          "tem_audio": true,
+          "contexto": "HOW ARE YOU - pergunta mais comum em cumprimentos"
+        },
+        {
+          "ingles": "How do you go to work? (You go to work somehow.)",
+          "portugues": "Como você vai para o trabalho? (Você vai para o trabalho de alguma forma.)",
+          "fonetica": "/haʊ du ju goʊ tu wɜrk/",
+          "tem_audio": true,
+          "contexto": "HOW DO YOU - pergunta sobre método/meio"
+        },
+        {
+          "ingles": "How old are you? (You are some age.)",
+          "portugues": "Quantos anos você tem? (Você tem alguma idade.)",
+          "fonetica": "/haʊ oʊld ɑr ju/",
+          "tem_audio": true,
+          "contexto": "HOW OLD - pergunta específica sobre idade"
+        },
+        {
+          "ingles": "How much does it cost? (It costs some amount.)",
+          "portugues": "Quanto custa? (Custa alguma quantia.)",
+          "fonetica": "/haʊ mʌtʃ dʌz ɪt kɔst/",
+          "tem_audio": true,
+          "contexto": "HOW MUCH - pergunta sobre preço/quantidade incontável"
+        },
+        {
+          "ingles": "How many people came? (Some number of people came.)",
+          "portugues": "Quantas pessoas vieram? (Algum número de pessoas veio.)",
+          "fonetica": "/haʊ ˈmɛni ˈpipəl keɪm/",
+          "tem_audio": true,
+          "contexto": "HOW MANY - quantidade contável"
+        }
+      ]
+    },
+    {
+      "id": "tag_questions",
+      "titulo": "Tag Questions - Confirming Information",
+      "tipo": "vocabulario",
+      "descricao": "Perguntas de confirmação - 'né?', 'não é?'",
+      "itens": [
+        {
+          "ingles": "You are Brazilian, aren't you?",
+          "portugues": "Você é brasileiro, não é?",
+          "fonetica": "/ju ɑr brəˈzɪljən ˈɑrənt ju/",
+          "tem_audio": true,
+          "contexto": "Afirmativa + tag negativa - esperamos confirmação 'yes'"
+        },
+        {
+          "ingles": "She doesn't live here, does she?",
+          "portugues": "Ela não mora aqui, mora?",
+          "fonetica": "/ʃi ˈdʌzənt lɪv hɪr dʌz ʃi/",
+          "tem_audio": true,
+          "contexto": "Negativa + tag positiva - esperamos confirmação 'no'"
+        },
+        {
+          "ingles": "They went home, didn't they?",
+          "portugues": "Eles foram para casa, não foram?",
+          "fonetica": "/ðeɪ wɛnt hoʊm ˈdɪdənt ðeɪ/",
+          "tem_audio": true,
+          "contexto": "Past affirmative + didn't + pronoun"
+        },
+        {
+          "ingles": "You can drive, can't you?",
+          "portugues": "Você sabe dirigir, não sabe?",
+          "fonetica": "/ju kæn draɪv kænt ju/",
+          "tem_audio": true,
+          "contexto": "Modal affirmative + modal negative + pronoun"
+        },
+        {
+          "ingles": "It's hot today, isn't it?",
+          "portugues": "Está quente hoje, não está?",
+          "fonetica": "/ɪts hɑt təˈdeɪ ˈɪzənt ɪt/",
+          "tem_audio": true,
+          "contexto": "Comentário sobre o tempo/situação"
+        }
+      ]
+    },
+    {
+      "id": "perguntas_indiretas",
+      "titulo": "Indirect Questions - Being Polite",
+      "tipo": "vocabulario",
+      "descricao": "Perguntas indiretas - forma mais educada",
+      "itens": [
+        {
+          "ingles": "Could you tell me where the bank is?",
+          "portugues": "Você poderia me dizer onde fica o banco?",
+          "fonetica": "/kʊd ju tɛl mi wɛr ðə bæŋk ɪz/",
+          "tem_audio": true,
+          "contexto": "Pergunta indireta educada - ordem normal após 'where'"
+        },
+        {
+          "ingles": "Do you know what time it is?",
+          "portugues": "Você sabe que horas são?",
+          "fonetica": "/du ju noʊ wʌt taɪm ɪt ɪz/",
+          "tem_audio": true,
+          "contexto": "Pergunta indireta - sem inversão após 'what time'"
+        },
+        {
+          "ingles": "Can you tell me how much this costs?",
+          "portugues": "Você pode me dizer quanto isso custa?",
+          "fonetica": "/kæn ju tɛl mi haʊ mʌtʃ ðɪs kɔsts/",
+          "tem_audio": true,
+          "contexto": "Forma educada de perguntar preço"
+        },
+        {
+          "ingles": "Would you mind telling me where you live?",
+          "portugues": "Você se importaria de me dizer onde mora?",
+          "fonetica": "/wʊd ju maɪnd ˈtɛlɪŋ mi wɛr ju lɪv/",
+          "tem_audio": true,
+          "contexto": "Muito educado - para informações pessoais"
+        },
+        {
+          "ingles": "I wonder if you could help me.",
+          "portugues": "Eu me pergunto se você poderia me ajudar.",
+          "fonetica": "/aɪ ˈwʌndər ɪf ju kʊd hɛlp mi/",
+          "tem_audio": true,
+          "contexto": "Forma indireta de pedir ajuda"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue with Questions",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando vários tipos de perguntas",
+      "participantes": ["Emma", "Carlos"],
+      "conversas": [
+        {
+          "falante": "Emma",
+          "ingles": "Hi Carlos! How are you doing today?",
+          "portugues": "Oi Carlos! Como você está hoje?",
+          "fonetica": "/haɪ ˈkɑrloʊs haʊ ɑr ju ˈduɪŋ təˈdeɪ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "I'm great, thanks! Are you ready for the English test tomorrow?",
+          "portugues": "Estou ótimo, obrigado! Você está pronta para o teste de inglês amanhã?",
+          "fonetica": "/aɪm greɪt θæŋks ɑr ju ˈrɛdi fɔr ði ˈɪŋglɪʃ tɛst təˈmɑroʊ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Emma",
+          "ingles": "Not really! Can you help me practice? What topics will be on the test?",
+          "portugues": "Não muito! Você pode me ajudar a praticar? Que tópicos estarão no teste?",
+          "fonetica": "/nɑt ˈrɪli kæn ju hɛlp mi ˈpræktəs wʌt ˈtɑpɪks wɪl bi ɑn ðə tɛst/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "Sure! Do you remember what the teacher said? I think it covers questions, negations, and verb tenses. Did you study last night?",
+          "portugues": "Claro! Você lembra o que a professora disse? Acho que cobre perguntas, negações e tempos verbais. Você estudou ontem à noite?",
+          "fonetica": "/ʃʊr du ju rɪˈmɛmbər wʌt ðə ˈtitʃər sɛd aɪ θɪŋk ɪt ˈkʌvərz ˈkwɛstʃənz nɪˈgeɪʃənz ænd vɜrb ˈtɛnsəz dɪd ju ˈstʌdi læst naɪt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Emma",
+          "ingles": "Yes, but I'm still confused about question formation. How do you make questions with 'does'? And when do you use 'did'?",
+          "portugues": "Sim, mas ainda estou confusa sobre formação de perguntas. Como você faz perguntas com 'does'? E quando você usa 'did'?",
+          "fonetica": "/jɛs bʌt aɪm stɪl kənˈfjuzd əˈbaʊt ˈkwɛstʃən fɔrˈmeɪʃən haʊ du ju meɪk ˈkwɛstʃənz wɪð dʌz ænd wɛn du ju juz dɪd/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "Good questions! 'Does' is for he, she, it in present tense. 'Did' is for past tense with all persons. Shall we practice together?",
+          "portugues": "Boas perguntas! 'Does' é para he, she, it no presente. 'Did' é para passado com todas as pessoas. Vamos praticar juntos?",
+          "fonetica": "/gʊd ˈkwɛstʃənz dʌz ɪz fɔr hi ʃi ɪt ɪn ˈprɛzənt tɛns dɪd ɪz fɔr pæst tɛns wɪð ɔl ˈpɜrsənz ʃæl wi ˈpræktəs təˈgɛðər/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - A Day Full of Questions",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let me tell you about a typical day when I ask many questions! I wake up and ask myself: 'What time is it?' and 'Am I late for work?' At breakfast, I ask my family: 'What do you want to eat?' and 'Are you ready for school?' On my way to work, I wonder: 'Will there be traffic today?' and 'Should I take a different route?' At the office, I ask my colleagues: 'Did you finish the report?' and 'Can you help me with this project?' During lunch break, I call my friend and ask: 'Where do you want to meet?' and 'What time works for you?' In the afternoon, my boss asks me: 'How is the project going?' and 'When will you be done?' I respond with my own questions: 'Do you have any feedback?' and 'Should I change anything?' At the grocery store after work, I ask the cashier: 'How much does this cost?' and 'Do you accept credit cards?' Finally, at home, my family asks: 'How was your day?' and 'What's for dinner?' Questions are everywhere in our daily lives, aren't they?",
+        "texto_portugues": "Deixe-me contar sobre um dia típico quando faço muitas perguntas! Eu acordo e me pergunto: 'Que horas são?' e 'Estou atrasado para o trabalho?' No café da manhã, pergunto à minha família: 'O que vocês querem comer?' e 'Vocês estão prontos para a escola?' No caminho para o trabalho, me pergunto: 'Haverá trânsito hoje?' e 'Deveria pegar uma rota diferente?' No escritório, pergunto aos meus colegas: 'Vocês terminaram o relatório?' e 'Podem me ajudar com este projeto?' Durante o intervalo do almoço, ligo para meu amigo e pergunto: 'Onde você quer se encontrar?' e 'Que horário funciona para você?' À tarde, meu chefe me pergunta: 'Como está indo o projeto?' e 'Quando você vai terminar?' Eu respondo com minhas próprias perguntas: 'Você tem algum feedback?' e 'Deveria mudar alguma coisa?' No supermercado depois do trabalho, pergunto ao caixa: 'Quanto isso custa?' e 'Vocês aceitam cartão de crédito?' Finalmente, em casa, minha família pergunta: 'Como foi seu dia?' e 'O que é para o jantar?' Perguntas estão em todos os lugares em nossas vidas diárias, não estão?",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Mastering English Questions",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are essential tips for mastering English questions: 1) With BE verb, just invert: 'You are happy' → 'Are you happy?' 2) With other verbs in present, use DO/DOES: 'She works' → 'Does she work?' 3) In past, use DID for all persons: 'They went' → 'Did they go?' 4) Remember: after DO/DOES/DID, use base form of main verb. 5) Modal verbs simply invert: 'You can swim' → 'Can you swim?' 6) WH-questions start with question words, then follow same rules. 7) When WHO/WHAT is the subject, don't use DO: 'Who called?' not 'Who did call?' 8) Practice tag questions for natural conversation. 9) Use indirect questions for politeness!",
+        "texto_portugues": "Aqui estão dicas essenciais para dominar perguntas em inglês: 1) Com verbo BE, apenas inverta: 'You are happy' → 'Are you happy?' 2) Com outros verbos no presente, use DO/DOES: 'She works' → 'Does she work?' 3) No passado, use DID para todas as pessoas: 'They went' → 'Did they go?' 4) Lembre: após DO/DOES/DID, use forma base do verbo principal. 5) Verbos modais apenas invertem: 'You can swim' → 'Can you swim?' 6) Perguntas WH começam com palavras interrogativas, depois seguem mesmas regras. 7) Quando WHO/WHAT é sujeito, não use DO: 'Who called?' não 'Who did call?' 8) Pratique tag questions para conversação natural. 9) Use perguntas indiretas para educação!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice forming questions in English! Start with simple BE questions: 'Is she...?', 'Are they...?', 'Am I...?' Then practice with DO/DOES: 'Do you like...?', 'Does he work...?' Try past questions with DID: 'Did you go...?', 'Did they see...?' Practice WH-questions: 'What do you want?', 'Where does she live?', 'When did they arrive?' Don't forget modal questions: 'Can you help?', 'Will she come?' Try tag questions: 'It's nice, isn't it?' Remember: questions are the key to great conversations and getting information. The more you practice, the more natural they will become!",
+        "texto_portugues": "Agora pratique formando perguntas em inglês! Comece com perguntas BE simples: 'Is she...?', 'Are they...?', 'Am I...?' Depois pratique com DO/DOES: 'Do you like...?', 'Does he work...?' Experimente perguntas no passado com DID: 'Did you go...?', 'Did they see...?' Pratique perguntas WH: 'What do you want?', 'Where does she live?', 'When did they arrive?' Não esqueça perguntas modais: 'Can you help?', 'Will she come?' Experimente tag questions: 'It's nice, isn't it?' Lembre-se: perguntas são a chave para ótimas conversas e obter informações. Quanto mais você praticar, mais naturais elas se tornarão!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
