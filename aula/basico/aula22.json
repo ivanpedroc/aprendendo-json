@@ -1,0 +1,484 @@
+{
+  "titulo": "There Is e There Are",
+  "descricao": "Aprenda a usar THERE IS e THERE ARE em inglês! Domine como dizer que algo existe ou não existe em determinado lugar.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What are THERE IS and THERE ARE?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "THERE IS and THERE ARE are used to say that something exists or is located somewhere. We use THERE IS with singular nouns and THERE ARE with plural nouns. These expressions are essential for describing places, talking about what exists in a location, and giving information about availability. Think of them as the English way to say 'há' or 'existe/existem' in Portuguese. They help us introduce new information about what can be found in different places.",
+        "texto_portugues": "THERE IS e THERE ARE são usados para dizer que algo existe ou está localizado em algum lugar. Usamos THERE IS com substantivos singulares e THERE ARE com substantivos plurais. Essas expressões são essenciais para descrever lugares, falar sobre o que existe numa localização e dar informações sobre disponibilidade. Pense nelas como a maneira inglesa de dizer 'há' ou 'existe/existem' em português. Elas nos ajudam a introduzir novas informações sobre o que pode ser encontrado em diferentes lugares.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "there_is_singular",
+      "titulo": "THERE IS - For Singular Things",
+      "tipo": "vocabulario",
+      "descricao": "Usando THERE IS para coisas no singular",
+      "itens": [
+        {
+          "ingles": "There is a cat in the garden.",
+          "portugues": "Há um gato no jardim.",
+          "fonetica": "/ðɛr ɪz ə kæt ɪn ðə ˈgɑrdən/",
+          "tem_audio": true,
+          "contexto": "THERE IS + A/AN + singular noun - afirmativa"
+        },
+        {
+          "ingles": "There is one book on the table.",
+          "portugues": "Há um livro na mesa.",
+          "fonetica": "/ðɛr ɪz wʌn bʊk ɑn ðə ˈteɪbəl/",
+          "tem_audio": true,
+          "contexto": "THERE IS + number ONE + singular noun"
+        },
+        {
+          "ingles": "There is some milk in the fridge.",
+          "portugues": "Há leite na geladeira.",
+          "fonetica": "/ðɛr ɪz sʌm mɪlk ɪn ðə frɪdʒ/",
+          "tem_audio": true,
+          "contexto": "THERE IS + uncountable nouns (milk, water, sugar, etc.)"
+        },
+        {
+          "ingles": "There is a problem with my car.",
+          "portugues": "Há um problema com meu carro.",
+          "fonetica": "/ðɛr ɪz ə ˈprɑbləm wɪð maɪ kɑr/",
+          "tem_audio": true,
+          "contexto": "THERE IS - informando sobre existência de problema"
+        },
+        {
+          "ingles": "There is a new restaurant downtown.",
+          "portugues": "Há um restaurante novo no centro.",
+          "fonetica": "/ðɛr ɪz ə nu ˈrɛstərənt ˈdaʊnˌtaʊn/",
+          "tem_audio": true,
+          "contexto": "THERE IS - introduzindo informação nova sobre lugar"
+        }
+      ]
+    },
+    {
+      "id": "there_are_plural",
+      "titulo": "THERE ARE - For Plural Things",
+      "tipo": "vocabulario",
+      "descricao": "Usando THERE ARE para coisas no plural",
+      "itens": [
+        {
+          "ingles": "There are three dogs in the park.",
+          "portugues": "Há três cachorros no parque.",
+          "fonetica": "/ðɛr ɑr θri dɔgz ɪn ðə pɑrk/",
+          "tem_audio": true,
+          "contexto": "THERE ARE + number + plural noun"
+        },
+        {
+          "ingles": "There are many people here today.",
+          "portugues": "Há muitas pessoas aqui hoje.",
+          "fonetica": "/ðɛr ɑr ˈmɛni ˈpipəl hɪr təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "THERE ARE + MANY + plural noun - quantidade"
+        },
+        {
+          "ingles": "There are some cookies in the jar.",
+          "portugues": "Há alguns biscoitos no pote.",
+          "fonetica": "/ðɛr ɑr sʌm ˈkʊkiz ɪn ðə dʒɑr/",
+          "tem_audio": true,
+          "contexto": "THERE ARE + SOME + plural countable nouns"
+        },
+        {
+          "ingles": "There are two bedrooms in this house.",
+          "portugues": "Há dois quartos nesta casa.",
+          "fonetica": "/ðɛr ɑr tu ˈbɛdˌrumz ɪn ðɪs haʊs/",
+          "tem_audio": true,
+          "contexto": "THERE ARE - descrevendo características de imóvel"
+        },
+        {
+          "ingles": "There are several options available.",
+          "portugues": "Há várias opções disponíveis.",
+          "fonetica": "/ðɛr ɑr ˈsɛvərəl ˈɑpʃənz əˈveɪləbəl/",
+          "tem_audio": true,
+          "contexto": "THERE ARE + SEVERAL - múltiplas possibilidades"
+        }
+      ]
+    },
+    {
+      "id": "negativas_there_is_not",
+      "titulo": "Negatives - THERE ISN'T / THERE AREN'T",
+      "tipo": "vocabulario",
+      "descricao": "Formas negativas - quando algo não existe",
+      "itens": [
+        {
+          "ingles": "There isn't any milk in the fridge.",
+          "portugues": "Não há leite na geladeira.",
+          "fonetica": "/ðɛr ˈɪzənt ˈɛni mɪlk ɪn ðə frɪdʒ/",
+          "tem_audio": true,
+          "contexto": "THERE ISN'T + ANY + uncountable - negativa"
+        },
+        {
+          "ingles": "There is no coffee left.",
+          "portugues": "Não sobrou café.",
+          "fonetica": "/ðɛr ɪz noʊ ˈkɔfi lɛft/",
+          "tem_audio": true,
+          "contexto": "THERE IS + NO - negativa mais enfática"
+        },
+        {
+          "ingles": "There aren't any chairs in the room.",
+          "portugues": "Não há cadeiras na sala.",
+          "fonetica": "/ðɛr ˈɑrənt ˈɛni tʃɛrz ɪn ðə rum/",
+          "tem_audio": true,
+          "contexto": "THERE AREN'T + ANY + plural countable"
+        },
+        {
+          "ingles": "There are no students in the classroom.",
+          "portugues": "Não há estudantes na sala de aula.",
+          "fonetica": "/ðɛr ɑr noʊ ˈstudənts ɪn ðə ˈklæsˌrum/",
+          "tem_audio": true,
+          "contexto": "THERE ARE + NO + plural - negativa enfática"
+        },
+        {
+          "ingles": "There isn't a bank near here.",
+          "portugues": "Não há um banco perto daqui.",
+          "fonetica": "/ðɛr ˈɪzənt ə bæŋk nɪr hɪr/",
+          "tem_audio": true,
+          "contexto": "THERE ISN'T + A - negando existência de lugar"
+        }
+      ]
+    },
+    {
+      "id": "perguntas_is_there_are_there",
+      "titulo": "Questions - IS THERE? / ARE THERE?",
+      "tipo": "vocabulario",
+      "descricao": "Fazendo perguntas sobre existência",
+      "itens": [
+        {
+          "ingles": "Is there a pharmacy nearby?",
+          "portugues": "Há uma farmácia por perto?",
+          "fonetica": "/ɪz ðɛr ə ˈfɑrməsi ˈnɪrˌbaɪ/",
+          "tem_audio": true,
+          "contexto": "IS THERE + A/AN + singular - pergunta comum para lugares"
+        },
+        {
+          "ingles": "Are there any restaurants open?",
+          "portugues": "Há restaurantes abertos?",
+          "fonetica": "/ɑr ðɛr ˈɛni ˈrɛstərənts ˈoʊpən/",
+          "tem_audio": true,
+          "contexto": "ARE THERE + ANY + plural - pergunta sobre disponibilidade"
+        },
+        {
+          "ingles": "Is there enough time?",
+          "portugues": "Há tempo suficiente?",
+          "fonetica": "/ɪz ðɛr ɪˈnʌf taɪm/",
+          "tem_audio": true,
+          "contexto": "IS THERE + ENOUGH - pergunta sobre quantidade suficiente"
+        },
+        {
+          "ingles": "Are there many people at the party?",
+          "portugues": "Há muitas pessoas na festa?",
+          "fonetica": "/ɑr ðɛr ˈmɛni ˈpipəl æt ðə ˈpɑrti/",
+          "tem_audio": true,
+          "contexto": "ARE THERE + MANY - pergunta sobre quantidade"
+        },
+        {
+          "ingles": "Is there anything I can help you with?",
+          "portugues": "Há algo com que eu possa ajudá-lo?",
+          "fonetica": "/ɪz ðɛr ˈɛniθɪŋ aɪ kæn hɛlp ju wɪð/",
+          "tem_audio": true,
+          "contexto": "IS THERE + ANYTHING - oferecendo ajuda educadamente"
+        }
+      ]
+    },
+    {
+      "id": "quantificadores",
+      "titulo": "With Quantifiers - SOME, ANY, MANY, MUCH",
+      "tipo": "vocabulario",
+      "descricao": "Usando quantificadores com THERE IS/ARE",
+      "itens": [
+        {
+          "ingles": "There are some apples in the basket.",
+          "portugues": "Há algumas maçãs na cesta.",
+          "fonetica": "/ðɛr ɑr sʌm ˈæpəlz ɪn ðə ˈbæskət/",
+          "tem_audio": true,
+          "contexto": "SOME - quantidade indefinida (afirmativa) com countable"
+        },
+        {
+          "ingles": "There is some sugar in the bowl.",
+          "portugues": "Há açúcar na tigela.",
+          "fonetica": "/ðɛr ɪz sʌm ˈʃʊgər ɪn ðə boʊl/",
+          "tem_audio": true,
+          "contexto": "SOME - com uncountable nouns em afirmativas"
+        },
+        {
+          "ingles": "There aren't many options left.",
+          "portugues": "Não restam muitas opções.",
+          "fonetica": "/ðɛr ˈɑrənt ˈmɛni ˈɑpʃənz lɛft/",
+          "tem_audio": true,
+          "contexto": "MANY - com countable plurals (geralmente negativa/pergunta)"
+        },
+        {
+          "ingles": "There isn't much space here.",
+          "portugues": "Não há muito espaço aqui.",
+          "fonetica": "/ðɛr ˈɪzənt mʌtʃ speɪs hɪr/",
+          "tem_audio": true,
+          "contexto": "MUCH - com uncountable (geralmente negativa/pergunta)"
+        },
+        {
+          "ingles": "There are a lot of cars on the street.",
+          "portugues": "Há muitos carros na rua.",
+          "fonetica": "/ðɛr ɑr ə lɑt ʌv kɑrz ɑn ðə strit/",
+          "tem_audio": true,
+          "contexto": "A LOT OF - muitos/muito (afirmativa, informal)"
+        }
+      ]
+    },
+    {
+      "id": "preposicoes_lugar",
+      "titulo": "With Prepositions of Place",
+      "tipo": "vocabulario",
+      "descricao": "Combinando com preposições de lugar",
+      "itens": [
+        {
+          "ingles": "There is a picture on the wall.",
+          "portugues": "Há um quadro na parede.",
+          "fonetica": "/ðɛr ɪz ə ˈpɪktʃər ɑn ðə wɔl/",
+          "tem_audio": true,
+          "contexto": "ON - sobre superfícies (wall, table, floor)"
+        },
+        {
+          "ingles": "There are books in the library.",
+          "portugues": "Há livros na biblioteca.",
+          "fonetica": "/ðɛr ɑr bʊks ɪn ðə ˈlaɪˌbrɛri/",
+          "tem_audio": true,
+          "contexto": "IN - dentro de lugares fechados"
+        },
+        {
+          "ingles": "There is a car under the bridge.",
+          "portugues": "Há um carro embaixo da ponte.",
+          "fonetica": "/ðɛr ɪz ə kɑr ˈʌndər ðə brɪdʒ/",
+          "tem_audio": true,
+          "contexto": "UNDER - embaixo de algo"
+        },
+        {
+          "ingles": "There are flowers next to the house.",
+          "portugues": "Há flores ao lado da casa.",
+          "fonetica": "/ðɛr ɑr ˈflaʊərz nɛkst tu ðə haʊs/",
+          "tem_audio": true,
+          "contexto": "NEXT TO - ao lado de, perto de"
+        },
+        {
+          "ingles": "There is a bird above the tree.",
+          "portugues": "Há um pássaro acima da árvore.",
+          "fonetica": "/ðɛr ɪz ə bɜrd əˈbʌv ðə tri/",
+          "tem_audio": true,
+          "contexto": "ABOVE - acima de (sem contato físico)"
+        }
+      ]
+    },
+    {
+      "id": "there_was_were",
+      "titulo": "Past Tense - THERE WAS / THERE WERE",
+      "tipo": "vocabulario",
+      "descricao": "No passado - o que existia antes",
+      "itens": [
+        {
+          "ingles": "There was a party last night.",
+          "portugues": "Houve uma festa ontem à noite.",
+          "fonetica": "/ðɛr wʌz ə ˈpɑrti læst naɪt/",
+          "tem_audio": true,
+          "contexto": "THERE WAS - singular no passado"
+        },
+        {
+          "ingles": "There were many people at the concert.",
+          "portugues": "Havia muitas pessoas no concerto.",
+          "fonetica": "/ðɛr wər ˈmɛni ˈpipəl æt ðə ˈkɑnsərt/",
+          "tem_audio": true,
+          "contexto": "THERE WERE - plural no passado"
+        },
+        {
+          "ingles": "There wasn't any food left.",
+          "portugues": "Não sobrou comida.",
+          "fonetica": "/ðɛr ˈwʌzənt ˈɛni fud lɛft/",
+          "tem_audio": true,
+          "contexto": "THERE WASN'T - negativa singular no passado"
+        },
+        {
+          "ingles": "There weren't any problems yesterday.",
+          "portugues": "Não houve problemas ontem.",
+          "fonetica": "/ðɛr ˈwərənt ˈɛni ˈprɑbləmz ˈjɛstərdeɪ/",
+          "tem_audio": true,
+          "contexto": "THERE WEREN'T - negativa plural no passado"
+        },
+        {
+          "ingles": "Was there a meeting this morning?",
+          "portugues": "Houve uma reunião esta manhã?",
+          "fonetica": "/wʌz ðɛr ə ˈmitɪŋ ðɪs ˈmɔrnɪŋ/",
+          "tem_audio": true,
+          "contexto": "WAS THERE - pergunta singular no passado"
+        }
+      ]
+    },
+    {
+      "id": "there_will_be",
+      "titulo": "Future - THERE WILL BE",
+      "tipo": "vocabulario",
+      "descricao": "No futuro - o que existirá",
+      "itens": [
+        {
+          "ingles": "There will be a test next week.",
+          "portugues": "Haverá um teste na próxima semana.",
+          "fonetica": "/ðɛr wɪl bi ə tɛst nɛkst wik/",
+          "tem_audio": true,
+          "contexto": "THERE WILL BE - futuro (mesmo para singular e plural)"
+        },
+        {
+          "ingles": "There will be many changes next year.",
+          "portugues": "Haverá muitas mudanças no próximo ano.",
+          "fonetica": "/ðɛr wɪl bi ˈmɛni ˈtʃeɪndʒəz nɛkst jɪr/",
+          "tem_audio": true,
+          "contexto": "THERE WILL BE - não muda para plural"
+        },
+        {
+          "ingles": "There won't be classes tomorrow.",
+          "portugues": "Não haverá aulas amanhã.",
+          "fonetica": "/ðɛr woʊnt bi ˈklæsəz təˈmɑroʊ/",
+          "tem_audio": true,
+          "contexto": "THERE WON'T BE - negativa no futuro"
+        },
+        {
+          "ingles": "Will there be food at the party?",
+          "portugues": "Haverá comida na festa?",
+          "fonetica": "/wɪl ðɛr bi fud æt ðə ˈpɑrti/",
+          "tem_audio": true,
+          "contexto": "WILL THERE BE - pergunta no futuro"
+        },
+        {
+          "ingles": "There's going to be a concert tonight.",
+          "portugues": "Vai haver um concerto hoje à noite.",
+          "fonetica": "/ðɛrz ˈgoʊɪŋ tu bi ə ˈkɑnsərt təˈnaɪt/",
+          "tem_audio": true,
+          "contexto": "THERE'S GOING TO BE - futuro próximo mais informal"
+        }
+      ]
+    },
+    {
+      "id": "erros_comuns",
+      "titulo": "Common Mistakes to Avoid",
+      "tipo": "vocabulario",
+      "descricao": "Erros comuns que devem ser evitados",
+      "itens": [
+        {
+          "ingles": "There are three books. (CORRECT)",
+          "portugues": "Há três livros. (CORRETO)",
+          "fonetica": "/ðɛr ɑr θri bʊks/",
+          "tem_audio": true,
+          "contexto": "CORRECT - THERE ARE com plural (não 'There is three books')"
+        },
+        {
+          "ingles": "There is some water. (CORRECT)",
+          "portugues": "Há água. (CORRETO)",
+          "fonetica": "/ðɛr ɪz sʌm ˈwɔtər/",
+          "tem_audio": true,
+          "contexto": "CORRECT - THERE IS com uncountable nouns"
+        },
+        {
+          "ingles": "Is there any milk? (CORRECT)",
+          "portugues": "Há leite? (CORRETO)",
+          "fonetica": "/ɪz ðɛr ˈɛni mɪlk/",
+          "tem_audio": true,
+          "contexto": "CORRECT - IS THERE com singular/uncountable (não 'Are there')"
+        },
+        {
+          "ingles": "There isn't any sugar. (CORRECT)",
+          "portugues": "Não há açúcar. (CORRETO)",
+          "fonetica": "/ðɛr ˈɪzənt ˈɛni ˈʃʊgər/",
+          "tem_audio": true,
+          "contexto": "CORRECT - ISN'T ANY (não 'aren't any' com uncountable)"
+        },
+        {
+          "ingles": "There will be problems. (CORRECT)",
+          "portugues": "Haverá problemas. (CORRETO)",
+          "fonetica": "/ðɛr wɪl bi ˈprɑbləmz/",
+          "tem_audio": true,
+          "contexto": "CORRECT - THERE WILL BE (não 'There will are')"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue with THERE IS/ARE",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando THERE IS e THERE ARE",
+      "participantes": ["Tourist", "Local"],
+      "conversas": [
+        {
+          "falante": "Tourist",
+          "ingles": "Excuse me, is there a good restaurant near here?",
+          "portugues": "Com licença, há um bom restaurante perto daqui?",
+          "fonetica": "/ɪkˈskjuz mi ɪz ðɛr ə gʊd ˈrɛstərənt nɪr hɪr/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Local",
+          "ingles": "Yes, there are several good options! There's an Italian place on Main Street, and there are two Mexican restaurants nearby.",
+          "portugues": "Sim, há várias opções boas! Há um lugar italiano na Main Street, e há dois restaurantes mexicanos perto.",
+          "fonetica": "/jɛs ðɛr ɑr ˈsɛvərəl gʊd ˈɑpʃənz ðɛrz ən ɪˈtæljən pleɪs ɑn meɪn strit ænd ðɛr ɑr tu ˈmɛksəkən ˈrɛstərənts ˈnɪrˌbaɪ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Tourist",
+          "ingles": "Great! Are there any vegetarian options? And is there parking available?",
+          "portugues": "Ótimo! Há opções vegetarianas? E há estacionamento disponível?",
+          "fonetica": "/greɪt ɑr ðɛr ˈɛni ˌvɛdʒəˈtɛriən ˈɑpʃənz ænd ɪz ðɛr ˈpɑrkɪŋ əˈveɪləbəl/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Local",
+          "ingles": "Yes, there are plenty of vegetarian dishes at both places. There's a parking lot behind the Italian restaurant, but there isn't much street parking.",
+          "portugues": "Sim, há muitos pratos vegetarianos nos dois lugares. Há um estacionamento atrás do restaurante italiano, mas não há muito estacionamento na rua.",
+          "fonetica": "/jɛs ðɛr ɑr ˈplɛnti ʌv ˌvɛdʒəˈtɛriən ˈdɪʃəz æt boʊθ ˈpleɪsəz ðɛrz ə ˈpɑrkɪŋ lɑt bɪˈhaɪnd ði ɪˈtæljən ˈrɛstərənt bʌt ðɛr ˈɪzənt mʌtʃ strit ˈpɑrkɪŋ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Tourist",
+          "ingles": "Perfect! One more question - are there any ATMs around here? I need to get some cash.",
+          "portugues": "Perfeito! Mais uma pergunta - há caixas eletrônicos por aqui? Preciso sacar dinheiro.",
+          "fonetica": "/ˈpɜrfɪkt wʌn mɔr ˈkwɛstʃən ɑr ðɛr ˈɛni ˌeɪtiˈɛmz əˈraʊnd hɪr aɪ nid tu gɛt sʌm kæʃ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Local",
+          "ingles": "Yes, there's a bank with ATMs right across the street. There are also ATMs inside the shopping center next to the Mexican restaurants.",
+          "portugues": "Sim, há um banco com caixas eletrônicos bem do outro lado da rua. Há também caixas eletrônicos dentro do centro comercial ao lado dos restaurantes mexicanos.",
+          "fonetica": "/jɛs ðɛrz ə bæŋk wɪð ˌeɪtiˈɛmz raɪt əˈkrɔs ðə strit ðɛr ɑr ˈɔlsoʊ ˌeɪtiˈɛmz ɪnˈsaɪd ðə ˈʃɑpɪŋ ˈsɛntər nɛkst tu ðə ˈmɛksəkən ˈrɛstərənts/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Describing My Neighborhood",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let me describe my neighborhood using THERE IS and THERE ARE! I live in a very convenient area. There is a supermarket just two blocks away from my house, and there are three different coffee shops on my street. There's also a beautiful park across from my building where there are many trees and benches. In the morning, there are usually joggers and dog walkers there. There isn't much traffic on my street, which is great because there are many children who play outside. There's a school nearby, so there are school buses that pass by twice a day. There are several restaurants within walking distance - there's a pizza place, there are two Asian restaurants, and there's a bakery that makes amazing bread. There isn't a movie theater very close, but there's one about ten minutes away by car. On weekends, there's often live music in the park, and there are food trucks that come to the area. There aren't any problems with noise because there aren't any bars or nightclubs nearby. There was a small grocery store on the corner, but it closed last year. Now there's going to be a new pharmacy opening there next month. There will probably be more changes in the future because there are new apartment buildings being constructed. I hope there won't be too much construction noise! Overall, there's everything I need in my neighborhood, and there aren't any major complaints I have about living here.",
+        "texto_portugues": "Deixe-me descrever meu bairro usando THERE IS e THERE ARE! Eu moro numa área muito conveniente. Há um supermercado apenas dois quarteirões da minha casa, e há três cafeterias diferentes na minha rua. Há também um parque bonito em frente ao meu prédio onde há muitas árvores e bancos. De manhã, geralmente há corredores e pessoas passeando com cães lá. Não há muito trânsito na minha rua, o que é ótimo porque há muitas crianças que brincam do lado de fora. Há uma escola perto, então há ônibus escolares que passam duas vezes por dia. Há vários restaurantes a uma distância caminhável - há uma pizzaria, há dois restaurantes asiáticos, e há uma padaria que faz pão incrível. Não há um cinema muito perto, mas há um a cerca de dez minutos de carro. Nos fins de semana, frequentemente há música ao vivo no parque, e há food trucks que vêm para a área. Não há problemas com barulho porque não há bares ou boates por perto. Havia uma mercearia pequena na esquina, mas fechou ano passado. Agora vai haver uma farmácia nova abrindo lá mês que vem. Provavelmente haverá mais mudanças no futuro porque há novos prédios de apartamentos sendo construídos. Espero que não haja muito barulho de construção! No geral, há tudo que preciso no meu bairro, e não há reclamações importantes que tenho sobre morar aqui.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Mastering THERE IS/THERE ARE",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are essential tips for mastering THERE IS and THERE ARE: 1) Use THERE IS with singular and uncountable nouns, THERE ARE with plural nouns. 2) The noun after THERE IS/ARE determines the verb choice, not what comes before: 'There is a lot of people' is WRONG - use 'There are a lot of people'. 3) In questions and negatives, use ANY with both: 'Is there any milk?' / 'Are there any cookies?' 4) Use SOME in positive sentences: 'There is some water' / 'There are some books'. 5) Remember contractions: There's (there is), There're (there are - less common). 6) Past: THERE WAS (singular), THERE WERE (plural). 7) Future: THERE WILL BE (same for both). 8) Practice with places you know - describe rooms, neighborhoods, cities!",
+        "texto_portugues": "Aqui estão dicas essenciais para dominar THERE IS e THERE ARE: 1) Use THERE IS com substantivos singulares e incontáveis, THERE ARE com substantivos plurais. 2) O substantivo após THERE IS/ARE determina a escolha do verbo, não o que vem antes: 'There is a lot of people' está ERRADO - use 'There are a lot of people'. 3) Em perguntas e negativas, use ANY com ambos: 'Is there any milk?' / 'Are there any cookies?' 4) Use SOME em frases positivas: 'There is some water' / 'There are some books'. 5) Lembre das contrações: There's (there is), There're (there are - menos comum). 6) Passado: THERE WAS (singular), THERE WERE (plural). 7) Futuro: THERE WILL BE (igual para ambos). 8) Pratique com lugares que conhece - descreva quartos, bairros, cidades!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice THERE IS and THERE ARE everywhere! Describe your room: 'There is a bed...', 'There are two windows...'. Practice with your neighborhood: 'Is there a bank nearby?', 'Are there any restaurants?' Try negatives: 'There isn't any milk', 'There aren't any problems'. Use different tenses: 'There was a party yesterday', 'There will be a meeting tomorrow'. Practice asking for directions using 'Is there...?' and 'Are there...?'. The key is to think about what exists or doesn't exist in different places. Master these expressions and you'll sound much more natural when describing places and situations!",
+        "texto_portugues": "Agora pratique THERE IS e THERE ARE em todos os lugares! Descreva seu quarto: 'There is a bed...', 'There are two windows...'. Pratique com seu bairro: 'Is there a bank nearby?', 'Are there any restaurants?' Experimente negativas: 'There isn't any milk', 'There aren't any problems'. Use tempos diferentes: 'There was a party yesterday', 'There will be a meeting tomorrow'. Pratique pedindo direções usando 'Is there...?' e 'Are there...?'. A chave é pensar sobre o que existe ou não existe em lugares diferentes. Domine essas expressões e você soará muito mais natural ao descrever lugares e situações!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
