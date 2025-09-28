@@ -1,0 +1,463 @@
+{
+  "titulo": "Verbo to be no Passado",
+  "descricao": "Aprenda o verbo to be no passado! Domine as formas was e were para falar sobre estados e situações no passado.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "The Verb TO BE in the Past",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "The verb 'to be' in the past tense has only two forms: WAS and WERE. This is much simpler than the present tense which has three forms! We use past 'to be' to talk about states, conditions, and situations that existed in the past. It's essential for telling stories and describing past experiences.",
+        "texto_portugues": "O verbo 'to be' no passado tem apenas duas formas: WAS e WERE. Isso é muito mais simples que o presente que tem três formas! Usamos o 'to be' no passado para falar sobre estados, condições e situações que existiram no passado. É essencial para contar histórias e descrever experiências passadas.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "formacao_was_were",
+      "titulo": "Formation: WAS vs WERE",
+      "tipo": "vocabulario",
+      "descricao": "Como usar WAS e WERE corretamente",
+      "itens": [
+        {
+          "ingles": "I was a student last year.",
+          "portugues": "Eu era estudante ano passado.",
+          "fonetica": "/aɪ wʌz ə ˈstudənt læst jɪr/",
+          "tem_audio": true,
+          "contexto": "I + WAS (first person singular)"
+        },
+        {
+          "ingles": "You were very kind yesterday.",
+          "portugues": "Você foi muito gentil ontem.",
+          "fonetica": "/ju wər ˈvɛri kaɪnd ˈjɛstərˌdeɪ/",
+          "tem_audio": true,
+          "contexto": "YOU + WERE (second person singular/plural)"
+        },
+        {
+          "ingles": "He was at home this morning.",
+          "portugues": "Ele estava em casa esta manhã.",
+          "fonetica": "/hi wʌz æt hoʊm ðɪs ˈmɔrnɪŋ/",
+          "tem_audio": true,
+          "contexto": "HE + WAS (third person masculine singular)"
+        },
+        {
+          "ingles": "She was tired after work.",
+          "portugues": "Ela estava cansada depois do trabalho.",
+          "fonetica": "/ʃi wʌz ˈtaɪərd ˈæftər wɜrk/",
+          "tem_audio": true,
+          "contexto": "SHE + WAS (third person feminine singular)"
+        },
+        {
+          "ingles": "It was a beautiful day.",
+          "portugues": "Foi um dia bonito.",
+          "fonetica": "/ɪt wʌz ə ˈbjutəfəl deɪ/",
+          "tem_audio": true,
+          "contexto": "IT + WAS (third person neuter singular)"
+        },
+        {
+          "ingles": "We were happy together.",
+          "portugues": "Nós estávamos felizes juntos.",
+          "fonetica": "/wi wər ˈhæpi təˈgɛðər/",
+          "tem_audio": true,
+          "contexto": "WE + WERE (first person plural)"
+        },
+        {
+          "ingles": "They were my classmates.",
+          "portugues": "Eles eram meus colegas de classe.",
+          "fonetica": "/ðeɪ wər maɪ ˈklæsˌmeɪts/",
+          "tem_audio": true,
+          "contexto": "THEY + WERE (third person plural)"
+        }
+      ]
+    },
+    {
+      "id": "regra_simples",
+      "titulo": "Simple Rule to Remember",
+      "tipo": "vocabulario",
+      "descricao": "Regra simples para lembrar quando usar WAS ou WERE",
+      "itens": [
+        {
+          "ingles": "WAS: I, he, she, it (singular)",
+          "portugues": "WAS: Eu, ele, ela, isso (singular)",
+          "fonetica": "/wʌz: aɪ hi ʃi ɪt/",
+          "tem_audio": true,
+          "contexto": "WAS for all singular subjects except 'you'"
+        },
+        {
+          "ingles": "WERE: you, we, they (plural + you)",
+          "portugues": "WERE: você(s), nós, eles (plural + você)",
+          "fonetica": "/wər: ju wi ðeɪ/",
+          "tem_audio": true,
+          "contexto": "WERE for plural subjects and 'you' (even singular 'you')"
+        },
+        {
+          "ingles": "One person was here. / Two people were here.",
+          "portugues": "Uma pessoa estava aqui. / Duas pessoas estavam aqui.",
+          "fonetica": "/wʌn ˈpɜrsən wʌz hɪr / tu ˈpipəl wər hɪr/",
+          "tem_audio": true,
+          "contexto": "Singular = WAS, Plural = WERE"
+        }
+      ]
+    },
+    {
+      "id": "usos_principais",
+      "titulo": "Main Uses of Past TO BE",
+      "tipo": "vocabulario",
+      "descricao": "Principais usos do verbo to be no passado",
+      "itens": [
+        {
+          "ingles": "I was 10 years old in 2010.",
+          "portugues": "Eu tinha 10 anos em 2010.",
+          "fonetica": "/aɪ wʌz tɛn jɪrz oʊld ɪn ˈtwɛnti tɛn/",
+          "tem_audio": true,
+          "contexto": "Age in the past"
+        },
+        {
+          "ingles": "She was a doctor before retirement.",
+          "portugues": "Ela era médica antes da aposentadoria.",
+          "fonetica": "/ʃi wʌz ə ˈdɑktər bəˈfɔr rɪˈtaɪərmənt/",
+          "tem_audio": true,
+          "contexto": "Past profession or job"
+        },
+        {
+          "ingles": "The weather was terrible yesterday.",
+          "portugues": "O tempo estava terrível ontem.",
+          "fonetica": "/ðə ˈwɛðər wʌz ˈtɛrəbəl ˈjɛstərˌdeɪ/",
+          "tem_audio": true,
+          "contexto": "Past weather conditions"
+        },
+        {
+          "ingles": "We were at the beach last weekend.",
+          "portugues": "Nós estávamos na praia no último fim de semana.",
+          "fonetica": "/wi wər æt ðə bitʃ læst ˈwikˌɛnd/",
+          "tem_audio": true,
+          "contexto": "Past location or place"
+        },
+        {
+          "ingles": "The movie was very interesting.",
+          "portugues": "O filme foi muito interessante.",
+          "fonetica": "/ðə ˈmuvi wʌz ˈvɛri ˈɪntrəstɪŋ/",
+          "tem_audio": true,
+          "contexto": "Past opinions or descriptions"
+        },
+        {
+          "ingles": "They were excited about the trip.",
+          "portugues": "Eles estavam animados com a viagem.",
+          "fonetica": "/ðeɪ wər ɪkˈsaɪtəd əˈbaʊt ðə trɪp/",
+          "tem_audio": true,
+          "contexto": "Past emotions or feelings"
+        }
+      ]
+    },
+    {
+      "id": "expressoes_tempo_passado",
+      "titulo": "Past Time Expressions",
+      "tipo": "vocabulario",
+      "descricao": "Expressões de tempo usadas com o verbo to be no passado",
+      "itens": [
+        {
+          "ingles": "I was busy yesterday.",
+          "portugues": "Eu estava ocupado ontem.",
+          "fonetica": "/aɪ wʌz ˈbɪzi ˈjɛstərˌdeɪ/",
+          "tem_audio": true,
+          "contexto": "YESTERDAY - the day before today"
+        },
+        {
+          "ingles": "She was here last week.",
+          "portugues": "Ela estava aqui na semana passada.",
+          "fonetica": "/ʃi wʌz hɪr læst wik/",
+          "tem_audio": true,
+          "contexto": "LAST WEEK/MONTH/YEAR - previous time periods"
+        },
+        {
+          "ingles": "We were students two years ago.",
+          "portugues": "Nós éramos estudantes há dois anos.",
+          "fonetica": "/wi wər ˈstudənts tu jɪrz əˈgoʊ/",
+          "tem_audio": true,
+          "contexto": "AGO - time before now (two years ago, five minutes ago)"
+        },
+        {
+          "ingles": "It was cold in winter.",
+          "portugues": "Estava frio no inverno.",
+          "fonetica": "/ɪt wʌz koʊld ɪn ˈwɪntər/",
+          "tem_audio": true,
+          "contexto": "IN + past time period (in 2020, in January, in winter)"
+        },
+        {
+          "ingles": "They were at home this morning.",
+          "portugues": "Eles estavam em casa esta manhã.",
+          "fonetica": "/ðeɪ wər æt hoʊm ðɪs ˈmɔrnɪŋ/",
+          "tem_audio": true,
+          "contexto": "THIS MORNING - earlier today (already past)"
+        }
+      ]
+    },
+    {
+      "id": "perguntas_was_were",
+      "titulo": "Questions with WAS/WERE",
+      "tipo": "vocabulario",
+      "descricao": "Como fazer perguntas com was e were",
+      "itens": [
+        {
+          "ingles": "Were you at school yesterday?",
+          "portugues": "Você estava na escola ontem?",
+          "fonetica": "/wər ju æt skul ˈjɛstərˌdeɪ/",
+          "tem_audio": true,
+          "contexto": "Yes/No question: move WAS/WERE to the beginning"
+        },
+        {
+          "ingles": "Was she happy with the result?",
+          "portugues": "Ela ficou feliz com o resultado?",
+          "fonetica": "/wʌz ʃi ˈhæpi wɪð ðə rɪˈzʌlt/",
+          "tem_audio": true,
+          "contexto": "Yes/No question with WAS"
+        },
+        {
+          "ingles": "Where were you last night?",
+          "portugues": "Onde você estava ontem à noite?",
+          "fonetica": "/wɛr wər ju læst naɪt/",
+          "tem_audio": true,
+          "contexto": "WH-question: question word + WAS/WERE + subject"
+        },
+        {
+          "ingles": "What was your favorite subject?",
+          "portugues": "Qual era sua matéria favorita?",
+          "fonetica": "/wʌt wʌz jʊr ˈfeɪvərət ˈsʌbdʒɪkt/",
+          "tem_audio": true,
+          "contexto": "WH-question with WAS"
+        },
+        {
+          "ingles": "Who was your teacher?",
+          "portugues": "Quem era seu professor?",
+          "fonetica": "/hu wʌz jʊr ˈtitʃər/",
+          "tem_audio": true,
+          "contexto": "WHO question - asking about people"
+        }
+      ]
+    },
+    {
+      "id": "respostas_curtas",
+      "titulo": "Short Answers",
+      "tipo": "vocabulario",
+      "descricao": "Como dar respostas curtas com was e were",
+      "itens": [
+        {
+          "ingles": "Were you tired? - Yes, I was. / No, I wasn't.",
+          "portugues": "Você estava cansado? - Sim, eu estava. / Não, eu não estava.",
+          "fonetica": "/wər ju ˈtaɪərd - jɛs aɪ wʌz / noʊ aɪ ˈwʌzənt/",
+          "tem_audio": true,
+          "contexto": "Short answers with I WAS/WASN'T"
+        },
+        {
+          "ingles": "Was he at home? - Yes, he was. / No, he wasn't.",
+          "portugues": "Ele estava em casa? - Sim, ele estava. / Não, ele não estava.",
+          "fonetica": "/wʌz hi æt hoʊm - jɛs hi wʌz / noʊ hi ˈwʌzənt/",
+          "tem_audio": true,
+          "contexto": "Short answers with HE WAS/WASN'T"
+        },
+        {
+          "ingles": "Were they happy? - Yes, they were. / No, they weren't.",
+          "portugues": "Eles estavam felizes? - Sim, eles estavam. / Não, eles não estavam.",
+          "fonetica": "/wər ðeɪ ˈhæpi - jɛs ðeɪ wər / noʊ ðeɪ wərənt/",
+          "tem_audio": true,
+          "contexto": "Short answers with THEY WERE/WEREN'T"
+        }
+      ]
+    },
+    {
+      "id": "forma_negativa",
+      "titulo": "Negative Form",
+      "tipo": "vocabulario",
+      "descricao": "Como formar negativas com was e were",
+      "itens": [
+        {
+          "ingles": "I was not at work yesterday. / I wasn't at work yesterday.",
+          "portugues": "Eu não estava no trabalho ontem.",
+          "fonetica": "/aɪ wʌz nɑt æt wɜrk ˈjɛstərˌdeɪ / aɪ ˈwʌzənt æt wɜrk ˈjɛstərˌdeɪ/",
+          "tem_audio": true,
+          "contexto": "WAS NOT = WASN'T (contraction more common)"
+        },
+        {
+          "ingles": "She was not ready for the exam. / She wasn't ready for the exam.",
+          "portugues": "Ela não estava pronta para a prova.",
+          "fonetica": "/ʃi wʌz nɑt ˈrɛdi fɔr ði ɪgˈzæm / ʃi ˈwʌzənt ˈrɛdi fɔr ði ɪgˈzæm/",
+          "tem_audio": true,
+          "contexto": "Negative with WAS NOT/WASN'T"
+        },
+        {
+          "ingles": "We were not late. / We weren't late.",
+          "portugues": "Nós não estávamos atrasados.",
+          "fonetica": "/wi wər nɑt leɪt / wi wərənt leɪt/",
+          "tem_audio": true,
+          "contexto": "WERE NOT = WEREN'T"
+        },
+        {
+          "ingles": "They were not satisfied with the service. / They weren't satisfied.",
+          "portugues": "Eles não estavam satisfeitos com o serviço.",
+          "fonetica": "/ðeɪ wər nɑt ˈsætəsˌfaɪd wɪð ðə ˈsɜrvəs / ðeɪ wərənt ˈsætəsˌfaɪd/",
+          "tem_audio": true,
+          "contexto": "Negative with WERE NOT/WEREN'T"
+        }
+      ]
+    },
+    {
+      "id": "there_was_were",
+      "titulo": "THERE WAS / THERE WERE",
+      "tipo": "vocabulario",
+      "descricao": "Como usar there was e there were",
+      "itens": [
+        {
+          "ingles": "There was a party last night.",
+          "portugues": "Houve uma festa ontem à noite.",
+          "fonetica": "/ðɛr wʌz ə ˈpɑrti læst naɪt/",
+          "tem_audio": true,
+          "contexto": "THERE WAS + singular noun (one party)"
+        },
+        {
+          "ingles": "There were many people at the concert.",
+          "portugues": "Havia muitas pessoas no concerto.",
+          "fonetica": "/ðɛr wər ˈmɛni ˈpipəl æt ðə ˈkɑnsərt/",
+          "tem_audio": true,
+          "contexto": "THERE WERE + plural noun (many people)"
+        },
+        {
+          "ingles": "There was a problem with my computer.",
+          "portugues": "Havia um problema com meu computador.",
+          "fonetica": "/ðɛr wʌz ə ˈprɑbləm wɪð maɪ kəmˈpjutər/",
+          "tem_audio": true,
+          "contexto": "THERE WAS + singular (a problem)"
+        },
+        {
+          "ingles": "There weren't any tickets available.",
+          "portugues": "Não havia ingressos disponíveis.",
+          "fonetica": "/ðɛr wərənt ˈɛni ˈtɪkəts əˈveɪləbəl/",
+          "tem_audio": true,
+          "contexto": "THERE WEREN'T (negative form with plural)"
+        },
+        {
+          "ingles": "Was there a meeting yesterday?",
+          "portugues": "Houve uma reunião ontem?",
+          "fonetica": "/wʌz ðɛr ə ˈmitɪŋ ˈjɛstərˌdeɪ/",
+          "tem_audio": true,
+          "contexto": "Question form: WAS THERE + singular"
+        }
+      ]
+    },
+    {
+      "id": "comparacao_presente_passado",
+      "titulo": "Present vs Past Comparison",
+      "tipo": "vocabulario",
+      "descricao": "Comparando o verbo to be no presente e passado",
+      "itens": [
+        {
+          "ingles": "I am happy now. / I was happy yesterday.",
+          "portugues": "Eu estou feliz agora. / Eu estava feliz ontem.",
+          "fonetica": "/aɪ æm ˈhæpi naʊ / aɪ wʌz ˈhæpi ˈjɛstərˌdeɪ/",
+          "tem_audio": true,
+          "contexto": "AM (present) vs WAS (past)"
+        },
+        {
+          "ingles": "She is a teacher. / She was a student.",
+          "portugues": "Ela é professora. / Ela era estudante.",
+          "fonetica": "/ʃi ɪz ə ˈtitʃər / ʃi wʌz ə ˈstudənt/",
+          "tem_audio": true,
+          "contexto": "IS (present) vs WAS (past)"
+        },
+        {
+          "ingles": "We are at home. / We were at school.",
+          "portugues": "Nós estamos em casa. / Nós estávamos na escola.",
+          "fonetica": "/wi ɑr æt hoʊm / wi wər æt skul/",
+          "tem_audio": true,
+          "contexto": "ARE (present) vs WERE (past)"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue - Talking About the Past",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando o verbo to be no passado",
+      "participantes": ["Anna", "Carlos"],
+      "conversas": [
+        {
+          "falante": "Anna",
+          "ingles": "Hi Carlos! How was your weekend?",
+          "portugues": "Oi Carlos! Como foi seu fim de semana?",
+          "fonetica": "/haɪ ˈkɑrloʊs haʊ wʌz jʊr ˈwikˌɛnd/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "It was great! I was at my grandmother's house. The weather was perfect.",
+          "portugues": "Foi ótimo! Eu estava na casa da minha avó. O tempo estava perfeito.",
+          "fonetica": "/ɪt wʌz greɪt aɪ wʌz æt maɪ ˈgrænˌmʌðərz haʊs ðə ˈwɛðər wʌz ˈpɜrfɪkt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Anna",
+          "ingles": "That sounds nice! Were your cousins there too?",
+          "portugues": "Isso parece legal! Seus primos estavam lá também?",
+          "fonetica": "/ðæt saʊndz naɪs wər jʊr ˈkʌzənz ðɛr tu/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "Yes, they were! We were all together for my grandmother's birthday. She was so happy!",
+          "portugues": "Sim, estavam! Estávamos todos juntos para o aniversário da minha avó. Ela ficou tão feliz!",
+          "fonetica": "/jɛs ðeɪ wər wi wər ɔl təˈgɛðər fɔr maɪ ˈgrænˌmʌðərz ˈbɜrθˌdeɪ ʃi wʌz soʊ ˈhæpi/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Anna",
+          "ingles": "How old was she?",
+          "portugues": "Quantos anos ela fez?",
+          "fonetica": "/haʊ oʊld wʌz ʃi/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "She was 80! There was a big party with all the family. It was wonderful to see everyone.",
+          "portugues": "Ela fez 80! Houve uma grande festa com toda a família. Foi maravilhoso ver todo mundo.",
+          "fonetica": "/ʃi wʌz ˈeɪti ðɛr wʌz ə bɪg ˈpɑrti wɪð ɔl ðə ˈfæməli ɪt wʌz ˈwʌndərfəl tu si ˈɛvriˌwʌn/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Anna",
+          "ingles": "That's beautiful! I wasn't with my family last weekend. I was working on a project.",
+          "portugues": "Isso é lindo! Eu não estava com minha família no último fim de semana. Eu estava trabalhando num projeto.",
+          "fonetica": "/ðæts ˈbjutəfəl aɪ ˈwʌzənt wɪð maɪ ˈfæməli læst ˈwikˌɛnd aɪ wʌz ˈwɜrkɪŋ ɑn ə ˈprɑdʒɛkt/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - My Childhood",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "When I was a child, life was very different. I was always excited about simple things. My family wasn't rich, but we were happy together. My father was a mechanic and my mother was a teacher at the local school. We were living in a small town where everyone knew each other. There were only two main streets and one small park in the center. The park was our favorite place to play. There was an old tree where we used to sit and read books. My best friend was my neighbor Tom. He was the same age as me, and we were inseparable. We weren't interested in video games because there weren't many around at that time. Instead, we were always outside, playing soccer or riding our bicycles. The summers were long and hot, and we were constantly swimming in the river behind our house. My grandmother was living with us, and she was the best cook in the world. Her kitchen was always full of delicious smells. Those were the happiest days of my life. Everything was simple, but we were content with what we had.",
+        "texto_portugues": "Quando eu era criança, a vida era muito diferente. Eu estava sempre animado com coisas simples. Minha família não era rica, mas éramos felizes juntos. Meu pai era mecânico e minha mãe era professora na escola local. Estávamos morando numa cidade pequena onde todo mundo se conhecia. Havia apenas duas ruas principais e um pequeno parque no centro. O parque era nosso lugar favorito para brincar. Havia uma árvore velha onde costumávamos sentar e ler livros. Meu melhor amigo era meu vizinho Tom. Ele tinha a mesma idade que eu, e éramos inseparáveis. Não estávamos interessados em videogames porque não havia muitos naquela época. Em vez disso, estávamos sempre lá fora, jogando futebol ou andando de bicicleta. Os verões eram longos e quentes, e estávamos constantemente nadando no rio atrás da nossa casa. Minha avó estava morando conosco, e ela era a melhor cozinheira do mundo. A cozinha dela estava sempre cheia de cheiros deliciosos. Aqueles foram os dias mais felizes da minha vida. Tudo era simples, mas estávamos contentes com o que tínhamos.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_importantes",
+      "titulo": "Essential Tips for Past TO BE",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Remember these key points: 1) Only two forms: WAS (I, he, she, it) and WERE (you, we, they). 2) 'You' always takes WERE, even when talking to one person. 3) Use past time expressions: yesterday, last week, ago, in 2020. 4) For questions, move WAS/WERE to the front. 5) Contractions: wasn't, weren't (more common than full forms). 6) THERE WAS (singular) vs THERE WERE (plural). 7) Past TO BE describes states and conditions, not actions.",
+        "texto_portugues": "Lembre-se desses pontos-chave: 1) Apenas duas formas: WAS (I, he, she, it) e WERE (you, we, they). 2) 'You' sempre leva WERE, mesmo falando com uma pessoa. 3) Use expressões de tempo passado: yesterday, last week, ago, in 2020. 4) Para perguntas, mova WAS/WERE para frente. 5) Contrações: wasn't, weren't (mais comuns que formas completas). 6) THERE WAS (singular) vs THERE WERE (plural). 7) TO BE no passado descreve estados e condições, não ações.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice! Talk about your past: Where were you born? What was your first school like? Who was your best friend as a child? Create questions using WAS/WERE and practice answering them. Describe how things were different in the past compared to now. Tell a story about a memorable day using past TO BE. Remember: WAS and WERE are the foundation for talking about the past in English!",
+        "texto_portugues": "Agora pratique! Fale sobre seu passado: Onde você nasceu? Como era sua primeira escola? Quem era seu melhor amigo quando criança? Crie perguntas usando WAS/WERE e pratique respondê-las. Descreva como as coisas eram diferentes no passado comparado a agora. Conte uma história sobre um dia memorável usando TO BE no passado. Lembre-se: WAS e WERE são a base para falar sobre o passado em inglês!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
