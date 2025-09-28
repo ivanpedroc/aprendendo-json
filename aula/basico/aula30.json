@@ -1,0 +1,527 @@
+{
+  "titulo": "Verbos Modais (Can, Could, May, Might)",
+  "descricao": "Aprenda os verbos modais essenciais em inglês! Domine como usar CAN, COULD, MAY e MIGHT para expressar habilidade, possibilidade, permissão e pedidos educados.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What are Modal Verbs?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Modal verbs are special helping verbs that express ability, possibility, permission, and politeness. Unlike regular verbs, modal verbs never change their form - they're the same for all persons (I can, you can, he can, we can, they can). They're always followed by the base form of the main verb (without 'to'). The four main modal verbs we'll learn are CAN (ability/permission), COULD (past ability/polite requests), MAY (formal permission/possibility), and MIGHT (possibility). These little words are incredibly powerful and essential for natural English!",
+        "texto_portugues": "Verbos modais são verbos auxiliares especiais que expressam habilidade, possibilidade, permissão e educação. Diferente dos verbos regulares, verbos modais nunca mudam sua forma - são iguais para todas as pessoas (I can, you can, he can, we can, they can). Eles são sempre seguidos pela forma base do verbo principal (sem 'to'). Os quatro principais verbos modais que aprenderemos são CAN (habilidade/permissão), COULD (habilidade passada/pedidos educados), MAY (permissão formal/possibilidade) e MIGHT (possibilidade). Essas pequenas palavras são incrivelmente poderosas e essenciais para inglês natural!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "can_habilidade",
+      "titulo": "CAN - Ability and Skills",
+      "tipo": "vocabulario",
+      "descricao": "CAN para expressar habilidade e capacidade",
+      "itens": [
+        {
+          "ingles": "I can swim very well.",
+          "portugues": "Eu sei nadar muito bem.",
+          "fonetica": "/aɪ kæn swɪm ˈvɛri wɛl/",
+          "tem_audio": true,
+          "contexto": "CAN + base verb - habilidade física"
+        },
+        {
+          "ingles": "She can speak three languages.",
+          "portugues": "Ela sabe falar três idiomas.",
+          "fonetica": "/ʃi kæn spik θri ˈlæŋgwɪdʒəz/",
+          "tem_audio": true,
+          "contexto": "CAN - habilidade linguística"
+        },
+        {
+          "ingles": "We can play the piano.",
+          "portugues": "Nós sabemos tocar piano.",
+          "fonetica": "/wi kæn pleɪ ðə piˈænoʊ/",
+          "tem_audio": true,
+          "contexto": "CAN - habilidade musical"
+        },
+        {
+          "ingles": "They can solve difficult problems.",
+          "portugues": "Eles conseguem resolver problemas difíceis.",
+          "fonetica": "/ðeɪ kæn sɑlv ˈdɪfəkəlt ˈprɑbləmz/",
+          "tem_audio": true,
+          "contexto": "CAN - capacidade intelectual"
+        },
+        {
+          "ingles": "My brother can drive a motorcycle.",
+          "portugues": "Meu irmão sabe dirigir uma moto.",
+          "fonetica": "/maɪ ˈbrʌðər kæn draɪv ə ˈmoʊtərˌsaɪkəl/",
+          "tem_audio": true,
+          "contexto": "CAN - habilidade prática"
+        }
+      ]
+    },
+    {
+      "id": "can_permissao",
+      "titulo": "CAN - Permission (Informal)",
+      "tipo": "vocabulario",
+      "descricao": "CAN para pedir e dar permissão informal",
+      "itens": [
+        {
+          "ingles": "Can I use your phone?",
+          "portugues": "Posso usar seu telefone?",
+          "fonetica": "/kæn aɪ juz jʊər foʊn/",
+          "tem_audio": true,
+          "contexto": "CAN I - pedindo permissão informal"
+        },
+        {
+          "ingles": "You can sit here if you want.",
+          "portugues": "Você pode sentar aqui se quiser.",
+          "fonetica": "/ju kæn sɪt hɪr ɪf ju wænt/",
+          "tem_audio": true,
+          "contexto": "YOU CAN - dando permissão"
+        },
+        {
+          "ingles": "Can we leave early today?",
+          "portugues": "Podemos sair cedo hoje?",
+          "fonetica": "/kæn wi liv ˈɜrli təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "CAN WE - pedindo permissão para grupo"
+        },
+        {
+          "ingles": "Students can use the library.",
+          "portugues": "Estudantes podem usar a biblioteca.",
+          "fonetica": "/ˈstudənts kæn juz ðə ˈlaɪˌbrɛri/",
+          "tem_audio": true,
+          "contexto": "CAN - regra de permissão"
+        },
+        {
+          "ingles": "Can she come with us?",
+          "portugues": "Ela pode vir conosco?",
+          "fonetica": "/kæn ʃi kʌm wɪð ʌs/",
+          "tem_audio": true,
+          "contexto": "CAN SHE - perguntando sobre permissão de terceiros"
+        }
+      ]
+    },
+    {
+      "id": "cannot_cant",
+      "titulo": "CAN'T (CANNOT) - Negative Forms",
+      "tipo": "vocabulario",
+      "descricao": "Formas negativas de CAN",
+      "itens": [
+        {
+          "ingles": "I can't drive yet.",
+          "portugues": "Eu não sei dirigir ainda.",
+          "fonetica": "/aɪ kænt draɪv jɛt/",
+          "tem_audio": true,
+          "contexto": "CAN'T - não ter habilidade"
+        },
+        {
+          "ingles": "She can't speak Chinese.",
+          "portugues": "Ela não sabe falar chinês.",
+          "fonetica": "/ʃi kænt spik tʃaɪˈniz/",
+          "tem_audio": true,
+          "contexto": "CAN'T - ausência de habilidade linguística"
+        },
+        {
+          "ingles": "We can't come to the party.",
+          "portugues": "Nós não podemos vir à festa.",
+          "fonetica": "/wi kænt kʌm tu ðə ˈpɑrti/",
+          "tem_audio": true,
+          "contexto": "CAN'T - impossibilidade/indisponibilidade"
+        },
+        {
+          "ingles": "You can't park here.",
+          "portugues": "Você não pode estacionar aqui.",
+          "fonetica": "/ju kænt pɑrk hɪr/",
+          "tem_audio": true,
+          "contexto": "CAN'T - proibição"
+        },
+        {
+          "ingles": "They can't understand the instructions.",
+          "portugues": "Eles não conseguem entender as instruções.",
+          "fonetica": "/ðeɪ kænt ˌʌndərˈstænd ði ɪnˈstrʌkʃənz/",
+          "tem_audio": true,
+          "contexto": "CAN'T - incapacidade de compreensão"
+        }
+      ]
+    },
+    {
+      "id": "could_passado",
+      "titulo": "COULD - Past Ability",
+      "tipo": "vocabulario",
+      "descricao": "COULD para habilidade no passado",
+      "itens": [
+        {
+          "ingles": "When I was young, I could run very fast.",
+          "portugues": "Quando eu era jovem, eu conseguia correr muito rápido.",
+          "fonetica": "/wɛn aɪ wʌz jʌŋ aɪ kʊd rʌn ˈvɛri fæst/",
+          "tem_audio": true,
+          "contexto": "COULD - habilidade que existia no passado"
+        },
+        {
+          "ingles": "She could play piano when she was five.",
+          "portugues": "Ela sabia tocar piano quando tinha cinco anos.",
+          "fonetica": "/ʃi kʊd pleɪ piˈænoʊ wɛn ʃi wʌz faɪv/",
+          "tem_audio": true,
+          "contexto": "COULD - habilidade adquirida cedo"
+        },
+        {
+          "ingles": "We could see the mountains from our hotel.",
+          "portugues": "Nós conseguíamos ver as montanhas do nosso hotel.",
+          "fonetica": "/wi kʊd si ðə ˈmaʊntənz frʌm aʊər hoʊˈtɛl/",
+          "tem_audio": true,
+          "contexto": "COULD - capacidade situacional no passado"
+        },
+        {
+          "ingles": "He couldn't swim until he was ten.",
+          "portugues": "Ele não sabia nadar até os dez anos.",
+          "fonetica": "/hi ˈkʊdənt swɪm ənˈtɪl hi wʌz tɛn/",
+          "tem_audio": true,
+          "contexto": "COULDN'T - ausência de habilidade no passado"
+        },
+        {
+          "ingles": "They could speak English fluently after living abroad.",
+          "portugues": "Eles conseguiam falar inglês fluentemente depois de morar no exterior.",
+          "fonetica": "/ðeɪ kʊd spik ˈɪŋglɪʃ ˈfluəntli ˈæftər ˈlɪvɪŋ əˈbrɔd/",
+          "tem_audio": true,
+          "contexto": "COULD - habilidade desenvolvida"
+        }
+      ]
+    },
+    {
+      "id": "could_educado",
+      "titulo": "COULD - Polite Requests",
+      "tipo": "vocabulario",
+      "descricao": "COULD para pedidos educados",
+      "itens": [
+        {
+          "ingles": "Could you help me, please?",
+          "portugues": "Você poderia me ajudar, por favor?",
+          "fonetica": "/kʊd ju hɛlp mi pliz/",
+          "tem_audio": true,
+          "contexto": "COULD YOU - pedido educado (mais formal que CAN)"
+        },
+        {
+          "ingles": "Could I borrow your pen?",
+          "portugues": "Eu poderia pegar emprestada sua caneta?",
+          "fonetica": "/kʊd aɪ ˈbɑroʊ jʊər pɛn/",
+          "tem_audio": true,
+          "contexto": "COULD I - pedindo permissão educadamente"
+        },
+        {
+          "ingles": "Could we have the check, please?",
+          "portugues": "Poderíamos ter a conta, por favor?",
+          "fonetica": "/kʊd wi hæv ðə tʃɛk pliz/",
+          "tem_audio": true,
+          "contexto": "COULD WE - pedido em restaurante (educado)"
+        },
+        {
+          "ingles": "Could she use your computer?",
+          "portugues": "Ela poderia usar seu computador?",
+          "fonetica": "/kʊd ʃi juz jʊər kəmˈpjutər/",
+          "tem_audio": true,
+          "contexto": "COULD SHE - perguntando permissão para terceiros"
+        },
+        {
+          "ingles": "Could you speak more slowly?",
+          "portugues": "Você poderia falar mais devagar?",
+          "fonetica": "/kʊd ju spik mɔr ˈsloʊli/",
+          "tem_audio": true,
+          "contexto": "COULD YOU - pedido para modificar comportamento"
+        }
+      ]
+    },
+    {
+      "id": "may_formal",
+      "titulo": "MAY - Formal Permission",
+      "tipo": "vocabulario",
+      "descricao": "MAY para permissão formal",
+      "itens": [
+        {
+          "ingles": "May I come in?",
+          "portugues": "Posso entrar?",
+          "fonetica": "/meɪ aɪ kʌm ɪn/",
+          "tem_audio": true,
+          "contexto": "MAY I - permissão muito formal/educada"
+        },
+        {
+          "ingles": "Students may use calculators during the exam.",
+          "portugues": "Estudantes podem usar calculadoras durante o exame.",
+          "fonetica": "/ˈstudənts meɪ juz ˈkælkjəˌleɪtərz ˈdʊrɪŋ ði ɪgˈzæm/",
+          "tem_audio": true,
+          "contexto": "MAY - regra oficial/formal"
+        },
+        {
+          "ingles": "May we begin the meeting?",
+          "portugues": "Podemos começar a reunião?",
+          "fonetica": "/meɪ wi bɪˈgɪn ðə ˈmitɪŋ/",
+          "tem_audio": true,
+          "contexto": "MAY WE - contexto profissional formal"
+        },
+        {
+          "ingles": "Visitors may not take photos inside.",
+          "portugues": "Visitantes não podem tirar fotos dentro.",
+          "fonetica": "/ˈvɪzətərz meɪ nɑt teɪk ˈfoʊtoʊz ɪnˈsaɪd/",
+          "tem_audio": true,
+          "contexto": "MAY NOT - proibição formal"
+        },
+        {
+          "ingles": "May I ask you a question?",
+          "portugues": "Posso fazer uma pergunta?",
+          "fonetica": "/meɪ aɪ æsk ju ə ˈkwɛstʃən/",
+          "tem_audio": true,
+          "contexto": "MAY I - introdução educada antes de perguntar"
+        }
+      ]
+    },
+    {
+      "id": "may_possibilidade",
+      "titulo": "MAY - Possibility (50% chance)",
+      "tipo": "vocabulario",
+      "descricao": "MAY para expressar possibilidade moderada",
+      "itens": [
+        {
+          "ingles": "It may rain this afternoon.",
+          "portugues": "Pode chover esta tarde.",
+          "fonetica": "/ɪt meɪ reɪn ðɪs ˌæftərˈnun/",
+          "tem_audio": true,
+          "contexto": "MAY - possibilidade sobre clima (cerca de 50%)"
+        },
+        {
+          "ingles": "She may come to the party.",
+          "portugues": "Ela pode vir à festa.",
+          "fonetica": "/ʃi meɪ kʌm tu ðə ˈpɑrti/",
+          "tem_audio": true,
+          "contexto": "MAY - incerteza sobre planos de alguém"
+        },
+        {
+          "ingles": "We may need more time.",
+          "portugues": "Nós podemos precisar de mais tempo.",
+          "fonetica": "/wi meɪ nid mɔr taɪm/",
+          "tem_audio": true,
+          "contexto": "MAY - possibilidade sobre necessidade futura"
+        },
+        {
+          "ingles": "The train may be delayed.",
+          "portugues": "O trem pode estar atrasado.",
+          "fonetica": "/ðə treɪn meɪ bi dɪˈleɪd/",
+          "tem_audio": true,
+          "contexto": "MAY BE - possibilidade sobre situação atual"
+        },
+        {
+          "ingles": "This medicine may cause side effects.",
+          "portugues": "Este remédio pode causar efeitos colaterais.",
+          "fonetica": "/ðɪs ˈmɛdəsən meɪ kɔz saɪd ɪˈfɛkts/",
+          "tem_audio": true,
+          "contexto": "MAY - possibilidade de consequência"
+        }
+      ]
+    },
+    {
+      "id": "might_possibilidade",
+      "titulo": "MIGHT - Possibility (Less Certain)",
+      "tipo": "vocabulario",
+      "descricao": "MIGHT para possibilidade mais fraca/incerta",
+      "itens": [
+        {
+          "ingles": "I might go to the beach tomorrow.",
+          "portugues": "Eu talvez vá à praia amanhã.",
+          "fonetica": "/aɪ maɪt goʊ tu ðə bitʃ təˈmɑroʊ/",
+          "tem_audio": true,
+          "contexto": "MIGHT - possibilidade fraca sobre planos pessoais"
+        },
+        {
+          "ingles": "She might not come to work today.",
+          "portugues": "Ela pode não vir trabalhar hoje.",
+          "fonetica": "/ʃi maɪt nɑt kʌm tu wɜrk təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "MIGHT NOT - possibilidade negativa"
+        },
+        {
+          "ingles": "It might snow tonight.",
+          "portugues": "Pode nevar hoje à noite.",
+          "fonetica": "/ɪt maɪt snoʊ təˈnaɪt/",
+          "tem_audio": true,
+          "contexto": "MIGHT - possibilidade climática incerta"
+        },
+        {
+          "ingles": "We might have to cancel the trip.",
+          "portugues": "Nós talvez tenhamos que cancelar a viagem.",
+          "fonetica": "/wi maɪt hæv tu ˈkænsəl ðə trɪp/",
+          "tem_audio": true,
+          "contexto": "MIGHT HAVE TO - possibilidade de necessidade"
+        },
+        {
+          "ingles": "They might be at home now.",
+          "portugues": "Eles podem estar em casa agora.",
+          "fonetica": "/ðeɪ maɪt bi æt hoʊm naʊ/",
+          "tem_audio": true,
+          "contexto": "MIGHT BE - suposição incerta sobre localização"
+        }
+      ]
+    },
+    {
+      "id": "comparacao_possibilidade",
+      "titulo": "Comparing Levels of Possibility",
+      "tipo": "vocabulario",
+      "descricao": "Comparando níveis de possibilidade",
+      "itens": [
+        {
+          "ingles": "It will rain. (100% certain)",
+          "portugues": "Vai chover. (100% certeza)",
+          "fonetica": "/ɪt wɪl reɪn/",
+          "tem_audio": true,
+          "contexto": "WILL - certeza total"
+        },
+        {
+          "ingles": "It may rain. (50% chance)",
+          "portugues": "Pode chover. (50% de chance)",
+          "fonetica": "/ɪt meɪ reɪn/",
+          "tem_audio": true,
+          "contexto": "MAY - possibilidade moderada"
+        },
+        {
+          "ingles": "It might rain. (30% chance)",
+          "portugues": "Talvez chova. (30% de chance)",
+          "fonetica": "/ɪt maɪt reɪn/",
+          "tem_audio": true,
+          "contexto": "MIGHT - possibilidade fraca"
+        },
+        {
+          "ingles": "She can speak French. (ability/fact)",
+          "portugues": "Ela sabe falar francês. (habilidade/fato)",
+          "fonetica": "/ʃi kæn spik frɛntʃ/",
+          "tem_audio": true,
+          "contexto": "CAN - habilidade confirmada"
+        },
+        {
+          "ingles": "She could be French. (possibility/guess)",
+          "portugues": "Ela poderia ser francesa. (possibilidade/suposição)",
+          "fonetica": "/ʃi kʊd bi frɛntʃ/",
+          "tem_audio": true,
+          "contexto": "COULD - suposição baseada em evidência"
+        }
+      ]
+    },
+    {
+      "id": "modais_perguntas",
+      "titulo": "Questions with Modals",
+      "tipo": "vocabulario",
+      "descricao": "Fazendo perguntas com verbos modais",
+      "itens": [
+        {
+          "ingles": "Can you help me with this?",
+          "portugues": "Você pode me ajudar com isso?",
+          "fonetica": "/kæn ju hɛlp mi wɪð ðɪs/",
+          "tem_audio": true,
+          "contexto": "CAN + YOU - pergunta sobre habilidade/disponibilidade"
+        },
+        {
+          "ingles": "Could this be the right answer?",
+          "portugues": "Esta poderia ser a resposta certa?",
+          "fonetica": "/kʊd ðɪs bi ðə raɪt ˈænsər/",
+          "tem_audio": true,
+          "contexto": "COULD - pergunta sobre possibilidade"
+        },
+        {
+          "ingles": "May I see your ID, please?",
+          "portugues": "Posso ver sua identidade, por favor?",
+          "fonetica": "/meɪ aɪ si jʊər ˌaɪˈdi pliz/",
+          "tem_audio": true,
+          "contexto": "MAY I - pedido formal de permissão"
+        },
+        {
+          "ingles": "Might she be interested in the job?",
+          "portugues": "Ela poderia estar interessada no emprego?",
+          "fonetica": "/maɪt ʃi bi ˈɪntrəstəd ɪn ðə dʒɑb/",
+          "tem_audio": true,
+          "contexto": "MIGHT - pergunta sobre possibilidade incerta"
+        },
+        {
+          "ingles": "What can we do about this problem?",
+          "portugues": "O que nós podemos fazer sobre este problema?",
+          "fonetica": "/wʌt kæn wi du əˈbaʊt ðɪs ˈprɑbləm/",
+          "tem_audio": true,
+          "contexto": "WHAT CAN - pergunta sobre capacidade de ação"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue with Modal Verbs",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando verbos modais",
+      "participantes": ["Teacher", "Student"],
+      "conversas": [
+        {
+          "falante": "Student",
+          "ingles": "Excuse me, may I ask you a question about the homework?",
+          "portugues": "Com licença, posso fazer uma pergunta sobre a lição de casa?",
+          "fonetica": "/ɪkˈskjuz mi meɪ aɪ æsk ju ə ˈkwɛstʃən əˈbaʊt ðə ˈhoʊmˌwɜrk/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Teacher",
+          "ingles": "Of course! What can I help you with? You can ask me anything about the assignment.",
+          "portugues": "Claro! Com que posso ajudá-lo? Você pode me perguntar qualquer coisa sobre a tarefa.",
+          "fonetica": "/ʌv kɔrs wʌt kæn aɪ hɛlp ju wɪð ju kæn æsk mi ˈɛniθɪŋ əˈbaʊt ði əˈsaɪnmənt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Student",
+          "ingles": "I couldn't understand problem number 5. Could you explain it again? I might need to see an example.",
+          "portugues": "Eu não consegui entender o problema número 5. Você poderia explicar de novo? Eu talvez precise ver um exemplo.",
+          "fonetica": "/aɪ ˈkʊdənt ˌʌndərˈstænd ˈprɑbləm ˈnʌmbər faɪv kʊd ju ɪkˈspleɪn ɪt əˈgɛn aɪ maɪt nid tu si ən ɪgˈzæmpəl/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Teacher",
+          "ingles": "Sure! When I was your age, I couldn't solve these problems either. This type of question may seem difficult, but it's actually quite simple once you understand the pattern.",
+          "portugues": "Claro! Quando eu tinha sua idade, também não conseguia resolver esses problemas. Este tipo de questão pode parecer difícil, mas é bem simples uma vez que você entende o padrão.",
+          "fonetica": "/ʃʊr wɛn aɪ wʌz jʊər eɪdʒ aɪ ˈkʊdənt sɑlv ðiz ˈprɑbləmz ˈiðər ðɪs taɪp ʌv ˈkwɛstʃən meɪ sim ˈdɪfəkəlt bʌt ɪts ˈæktʃuəli kwaɪt ˈsɪmpəl wʌns ju ˌʌndərˈstænd ðə ˈpætərn/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Student",
+          "ingles": "That's encouraging! Can you show me step by step? I might be able to do the rest on my own after that.",
+          "portugues": "Isso é encorajador! Você pode me mostrar passo a passo? Eu talvez consiga fazer o resto sozinho depois disso.",
+          "fonetica": "/ðæts ɪnˈkɜrədʒɪŋ kæn ju ʃoʊ mi stɛp baɪ stɛp aɪ maɪt bi ˈeɪbəl tu du ðə rɛst ɑn maɪ oʊn ˈæftər ðæt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Teacher",
+          "ingles": "Absolutely! You could also come to my office hours tomorrow if you need more help. Students may visit anytime between 2 and 4 PM.",
+          "portugues": "Absolutamente! Você também poderia vir ao meu horário de atendimento amanhã se precisar de mais ajuda. Estudantes podem visitar a qualquer hora entre 14h e 16h.",
+          "fonetica": "/ˌæbsəˈlutli ju kʊd ˈɔlsoʊ kʌm tu maɪ ˈɔfəs aʊərz təˈmɑroʊ ɪf ju nid mɔr hɛlp ˈstudənts meɪ ˈvɪzət ˈɛniˌtaɪm bɪˈtwin tu ænd fɔr ˌpiˈɛm/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Planning a Weekend Trip",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let me tell you about our weekend trip plans using modal verbs! My friends and I are thinking about going camping this weekend, but we're not sure yet. It might rain on Saturday, so we may have to change our plans. Sarah can drive, so she could take us in her car, but it might not be big enough for all our equipment. We may need to rent a bigger vehicle. John couldn't come with us last time because he was sick, but he can join us this weekend. He's really excited because he could never go camping when he was younger - his parents wouldn't let him. We might leave on Friday evening, or we could wait until Saturday morning. The weather forecast says it may be sunny on Sunday, which would be perfect for hiking. Lisa can cook really well, so she could prepare meals for everyone. We might catch some fish if we're lucky, but we can't count on it. We could also bring a portable grill just in case. The campsite may be crowded because it's a holiday weekend, so we might have to find an alternative location. Tom can set up tents quickly - he could help everyone with that. We may need to buy more supplies before we go. The outdoor store might be closed on Sunday, so we could go shopping tomorrow. This trip could be really amazing if everything goes according to plan! We might even see some wildlife - last time, we couldn't see any animals, but this area may have more. I can hardly wait! Could this weekend be any more perfect for an outdoor adventure?",
+        "texto_portugues": "Deixe-me contar sobre nossos planos de viagem de fim de semana usando verbos modais! Meus amigos e eu estamos pensando em acampar neste fim de semana, mas ainda não temos certeza. Pode chover no sábado, então talvez tenhamos que mudar nossos planos. A Sarah sabe dirigir, então ela poderia nos levar no carro dela, mas pode não ser grande o suficiente para todo nosso equipamento. Talvez precisemos alugar um veículo maior. O John não pôde vir conosco da última vez porque estava doente, mas ele pode se juntar a nós neste fim de semana. Ele está muito animado porque nunca conseguia ir acampar quando era mais jovem - seus pais não deixavam. Talvez partamos na sexta à noite, ou poderíamos esperar até sábado de manhã. A previsão do tempo diz que pode fazer sol no domingo, o que seria perfeito para caminhada. A Lisa sabe cozinhar muito bem, então ela poderia preparar refeições para todos. Talvez pesquemos alguns peixes se tivermos sorte, mas não podemos contar com isso. Também poderíamos levar uma churrasqueira portátil só por precaução. O camping pode estar lotado porque é um fim de semana de feriado, então talvez tenhamos que encontrar um local alternativo. O Tom sabe montar barracas rapidamente - ele poderia ajudar todo mundo com isso. Talvez precisemos comprar mais suprimentos antes de ir. A loja de artigos esportivos pode estar fechada no domingo, então poderíamos ir fazer compras amanhã. Esta viagem poderia ser realmente incrível se tudo correr conforme o planejado! Talvez até vejamos alguns animais selvagens - da última vez, não conseguimos ver nenhum animal, mas esta área pode ter mais. Mal posso esperar! Este fim de semana poderia ser mais perfeito para uma aventura ao ar livre?",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Mastering Modal Verbs",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are essential tips for mastering modal verbs: 1) Modal verbs NEVER change form - same for all persons (I can, you can, he can, etc.). 2) Always use base form of main verb after modals (can go, not can goes). 3) No 'to' after modal verbs (can swim, not can to swim). 4) For ability: CAN (present), COULD (past), CAN'T (negative). 5) For permission: CAN (informal), MAY (formal), COULD (very polite). 6) For possibility: MAY (50% chance), MIGHT (less certain), COULD (theoretical possibility). 7) Questions: invert the modal (Can you? Could she? May I?). 8) Practice the levels: WILL (certain) > MAY (possible) > MIGHT (less likely). 9) Remember context determines meaning - COULD can be past ability OR polite request!",
+        "texto_portugues": "Aqui estão dicas essenciais para dominar verbos modais: 1) Verbos modais NUNCA mudam de forma - iguais para todas as pessoas (I can, you can, he can, etc.). 2) Sempre use forma base do verbo principal após modais (can go, não can goes). 3) Sem 'to' após verbos modais (can swim, não can to swim). 4) Para habilidade: CAN (presente), COULD (passado), CAN'T (negativo). 5) Para permissão: CAN (informal), MAY (formal), COULD (muito educado). 6) Para possibilidade: MAY (50% de chance), MIGHT (menos certo), COULD (possibilidade teórica). 7) Perguntas: inverta o modal (Can you? Could she? May I?). 8) Pratique os níveis: WILL (certo) > MAY (possível) > MIGHT (menos provável). 9) Lembre-se que contexto determina significado - COULD pode ser habilidade passada OU pedido educado!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice modal verbs in real situations! Start with your abilities: 'I can...', 'I can't...', 'When I was young, I could...'. Practice polite requests: 'Could you help me?', 'May I use your phone?', 'Can I ask a question?'. Talk about possibilities: 'It might rain', 'She may come', 'This could work'. Make predictions with different levels of certainty: 'It will happen' (sure), 'It may happen' (possible), 'It might happen' (less likely). Practice in different contexts - formal situations use MAY and COULD, informal situations use CAN. Remember, modal verbs make your English sound much more natural and polite. Master these four modals and you'll communicate more effectively in any situation!",
+        "texto_portugues": "Agora pratique verbos modais em situações reais! Comece com suas habilidades: 'I can...', 'I can't...', 'When I was young, I could...'. Pratique pedidos educados: 'Could you help me?', 'May I use your phone?', 'Can I ask a question?'. Fale sobre possibilidades: 'It might rain', 'She may come', 'This could work'. Faça previsões com diferentes níveis de certeza: 'It will happen' (certo), 'It may happen' (possível), 'It might happen' (menos provável). Pratique em contextos diferentes - situações formais usam MAY e COULD, situações informais usam CAN. Lembre-se, verbos modais fazem seu inglês soar muito mais natural e educado. Domine esses quatro modais e você se comunicará mais efetivamente em qualquer situação!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
