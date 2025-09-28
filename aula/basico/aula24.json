@@ -1,0 +1,534 @@
+{
+  "titulo": "Pronomes Interrogativos (Who, What, Where, When)",
+  "descricao": "Aprenda os pronomes interrogativos em inglês! Domine como usar WHO, WHAT, WHERE, WHEN, WHY e HOW para fazer perguntas específicas.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What are Question Words?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Question words, also called WH-words or interrogative pronouns, help us ask for specific information. The main question words are WHO (quem), WHAT (o que), WHERE (onde), WHEN (quando), WHY (por que), and HOW (como). These words always come at the beginning of questions and help us get detailed answers instead of just 'yes' or 'no'. Mastering question words is essential for having meaningful conversations, getting information, and expressing curiosity about the world around us.",
+        "texto_portugues": "Palavras interrogativas, também chamadas de palavras WH ou pronomes interrogativos, nos ajudam a pedir informações específicas. As principais palavras interrogativas são WHO (quem), WHAT (o que), WHERE (onde), WHEN (quando), WHY (por que) e HOW (como). Essas palavras sempre vêm no início das perguntas e nos ajudam a obter respostas detalhadas em vez de apenas 'sim' ou 'não'. Dominar palavras interrogativas é essencial para ter conversas significativas, obter informações e expressar curiosidade sobre o mundo ao nosso redor.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "who_pessoas",
+      "titulo": "WHO - Asking About People",
+      "tipo": "vocabulario",
+      "descricao": "WHO - perguntando sobre pessoas",
+      "itens": [
+        {
+          "ingles": "Who is that man?",
+          "portugues": "Quem é aquele homem?",
+          "fonetica": "/hu ɪz ðæt mæn/",
+          "tem_audio": true,
+          "contexto": "WHO IS - identificando pessoa desconhecida"
+        },
+        {
+          "ingles": "Who are you waiting for?",
+          "portugues": "Quem você está esperando?",
+          "fonetica": "/hu ɑr ju ˈweɪtɪŋ fɔr/",
+          "tem_audio": true,
+          "contexto": "WHO + ARE - pergunta sobre pessoa específica"
+        },
+        {
+          "ingles": "Who called me yesterday?",
+          "portugues": "Quem me ligou ontem?",
+          "fonetica": "/hu kɔld mi ˈjɛstərdeɪ/",
+          "tem_audio": true,
+          "contexto": "WHO + past tense - quem fez a ação (WHO é o sujeito)"
+        },
+        {
+          "ingles": "Who do you work with?",
+          "portugues": "Com quem você trabalha?",
+          "fonetica": "/hu du ju wɜrk wɪð/",
+          "tem_audio": true,
+          "contexto": "WHO DO YOU - pergunta sobre companhia/parceria"
+        },
+        {
+          "ingles": "Who does she live with?",
+          "portugues": "Com quem ela mora?",
+          "fonetica": "/hu dʌz ʃi lɪv wɪð/",
+          "tem_audio": true,
+          "contexto": "WHO DOES - terceira pessoa singular"
+        }
+      ]
+    },
+    {
+      "id": "what_coisas_acoes",
+      "titulo": "WHAT - Asking About Things and Actions",
+      "tipo": "vocabulario",
+      "descricao": "WHAT - perguntando sobre coisas e ações",
+      "itens": [
+        {
+          "ingles": "What is this?",
+          "portugues": "O que é isto?",
+          "fonetica": "/wʌt ɪz ðɪs/",
+          "tem_audio": true,
+          "contexto": "WHAT IS - identificando objeto desconhecido"
+        },
+        {
+          "ingles": "What do you do for a living?",
+          "portugues": "O que você faz da vida?",
+          "fonetica": "/wʌt du ju du fɔr ə ˈlɪvɪŋ/",
+          "tem_audio": true,
+          "contexto": "WHAT DO YOU DO - pergunta sobre profissão"
+        },
+        {
+          "ingles": "What does this word mean?",
+          "portugues": "O que significa esta palavra?",
+          "fonetica": "/wʌt dʌz ðɪs wɜrd min/",
+          "tem_audio": true,
+          "contexto": "WHAT DOES - pergunta sobre significado"
+        },
+        {
+          "ingles": "What are you thinking about?",
+          "portugues": "No que você está pensando?",
+          "fonetica": "/wʌt ɑr ju ˈθɪŋkɪŋ əˈbaʊt/",
+          "tem_audio": true,
+          "contexto": "WHAT ARE YOU - ação contínua/pensamentos"
+        },
+        {
+          "ingles": "What happened yesterday?",
+          "portugues": "O que aconteceu ontem?",
+          "fonetica": "/wʌt ˈhæpənd ˈjɛstərdeɪ/",
+          "tem_audio": true,
+          "contexto": "WHAT + past tense - evento no passado"
+        }
+      ]
+    },
+    {
+      "id": "where_lugares",
+      "titulo": "WHERE - Asking About Places",
+      "tipo": "vocabulario",
+      "descricao": "WHERE - perguntando sobre lugares",
+      "itens": [
+        {
+          "ingles": "Where do you live?",
+          "portugues": "Onde você mora?",
+          "fonetica": "/wɛr du ju lɪv/",
+          "tem_audio": true,
+          "contexto": "WHERE DO YOU - pergunta sobre localização/residência"
+        },
+        {
+          "ingles": "Where is the nearest bank?",
+          "portugues": "Onde fica o banco mais próximo?",
+          "fonetica": "/wɛr ɪz ðə ˈnɪrəst bæŋk/",
+          "tem_audio": true,
+          "contexto": "WHERE IS - pedindo direções/localização"
+        },
+        {
+          "ingles": "Where are you from?",
+          "portugues": "De onde você é?",
+          "fonetica": "/wɛr ɑr ju frʌm/",
+          "tem_audio": true,
+          "contexto": "WHERE ARE YOU FROM - pergunta sobre origem"
+        },
+        {
+          "ingles": "Where did you go last weekend?",
+          "portugues": "Onde você foi no fim de semana passado?",
+          "fonetica": "/wɛr dɪd ju goʊ læst ˈwikɛnd/",
+          "tem_audio": true,
+          "contexto": "WHERE DID - lugar visitado no passado"
+        },
+        {
+          "ingles": "Where does she work?",
+          "portugues": "Onde ela trabalha?",
+          "fonetica": "/wɛr dʌz ʃi wɜrk/",
+          "tem_audio": true,
+          "contexto": "WHERE DOES - local de trabalho (terceira pessoa)"
+        }
+      ]
+    },
+    {
+      "id": "when_tempo",
+      "titulo": "WHEN - Asking About Time",
+      "tipo": "vocabulario",
+      "descricao": "WHEN - perguntando sobre tempo",
+      "itens": [
+        {
+          "ingles": "When is your birthday?",
+          "portugues": "Quando é seu aniversário?",
+          "fonetica": "/wɛn ɪz jʊər ˈbɜrθdeɪ/",
+          "tem_audio": true,
+          "contexto": "WHEN IS - data específica"
+        },
+        {
+          "ingles": "When do you usually wake up?",
+          "portugues": "Quando você geralmente acorda?",
+          "fonetica": "/wɛn du ju ˈjuʒuəli weɪk ʌp/",
+          "tem_audio": true,
+          "contexto": "WHEN DO YOU - rotina/hábito"
+        },
+        {
+          "ingles": "When did you arrive?",
+          "portugues": "Quando você chegou?",
+          "fonetica": "/wɛn dɪd ju əˈraɪv/",
+          "tem_audio": true,
+          "contexto": "WHEN DID - ação no passado"
+        },
+        {
+          "ingles": "When does the movie start?",
+          "portugues": "Quando o filme começa?",
+          "fonetica": "/wɛn dʌz ðə ˈmuvi stɑrt/",
+          "tem_audio": true,
+          "contexto": "WHEN DOES - horário de início"
+        },
+        {
+          "ingles": "When are you leaving?",
+          "portugues": "Quando você está partindo?",
+          "fonetica": "/wɛn ɑr ju ˈlivɪŋ/",
+          "tem_audio": true,
+          "contexto": "WHEN ARE - ação futura/plano"
+        }
+      ]
+    },
+    {
+      "id": "why_razoes",
+      "titulo": "WHY - Asking About Reasons",
+      "tipo": "vocabulario",
+      "descricao": "WHY - perguntando sobre razões e motivos",
+      "itens": [
+        {
+          "ingles": "Why are you sad?",
+          "portugues": "Por que você está triste?",
+          "fonetica": "/waɪ ɑr ju sæd/",
+          "tem_audio": true,
+          "contexto": "WHY ARE YOU - razão para sentimento/estado"
+        },
+        {
+          "ingles": "Why do you like this book?",
+          "portugues": "Por que você gosta deste livro?",
+          "fonetica": "/waɪ du ju laɪk ðɪs bʊk/",
+          "tem_audio": true,
+          "contexto": "WHY DO YOU - razão para preferência"
+        },
+        {
+          "ingles": "Why didn't you come to the party?",
+          "portugues": "Por que você não veio à festa?",
+          "fonetica": "/waɪ ˈdɪdənt ju kʌm tu ðə ˈpɑrti/",
+          "tem_audio": true,
+          "contexto": "WHY DIDN'T - razão para não fazer algo"
+        },
+        {
+          "ingles": "Why does she always arrive late?",
+          "portugues": "Por que ela sempre chega atrasada?",
+          "fonetica": "/waɪ dʌz ʃi ˈɔlweɪz əˈraɪv leɪt/",
+          "tem_audio": true,
+          "contexto": "WHY DOES - questionando hábito/padrão"
+        },
+        {
+          "ingles": "Why is this so expensive?",
+          "portugues": "Por que isto é tão caro?",
+          "fonetica": "/waɪ ɪz ðɪs soʊ ɪkˈspɛnsɪv/",
+          "tem_audio": true,
+          "contexto": "WHY IS - questionando característica/preço"
+        }
+      ]
+    },
+    {
+      "id": "how_maneira_modo",
+      "titulo": "HOW - Asking About Manner and Method",
+      "tipo": "vocabulario",
+      "descricao": "HOW - perguntando sobre maneira e método",
+      "itens": [
+        {
+          "ingles": "How are you?",
+          "portugues": "Como você está?",
+          "fonetica": "/haʊ ɑr ju/",
+          "tem_audio": true,
+          "contexto": "HOW ARE YOU - cumprimento mais comum"
+        },
+        {
+          "ingles": "How do you go to work?",
+          "portugues": "Como você vai para o trabalho?",
+          "fonetica": "/haʊ du ju goʊ tu wɜrk/",
+          "tem_audio": true,
+          "contexto": "HOW DO YOU - método/meio de transporte"
+        },
+        {
+          "ingles": "How did you learn English?",
+          "portugues": "Como você aprendeu inglês?",
+          "fonetica": "/haʊ dɪd ju lɜrn ˈɪŋglɪʃ/",
+          "tem_audio": true,
+          "contexto": "HOW DID - método/processo no passado"
+        },
+        {
+          "ingles": "How does this machine work?",
+          "portugues": "Como esta máquina funciona?",
+          "fonetica": "/haʊ dʌz ðɪs məˈʃin wɜrk/",
+          "tem_audio": true,
+          "contexto": "HOW DOES - funcionamento/processo"
+        },
+        {
+          "ingles": "How can I help you?",
+          "portugues": "Como posso ajudá-lo?",
+          "fonetica": "/haʊ kæn aɪ hɛlp ju/",
+          "tem_audio": true,
+          "contexto": "HOW CAN - oferecendo ajuda educadamente"
+        }
+      ]
+    },
+    {
+      "id": "how_combinacoes",
+      "titulo": "HOW + Other Words - Combinations",
+      "tipo": "vocabulario",
+      "descricao": "HOW combinado com outras palavras",
+      "itens": [
+        {
+          "ingles": "How old are you?",
+          "portugues": "Quantos anos você tem?",
+          "fonetica": "/haʊ oʊld ɑr ju/",
+          "tem_audio": true,
+          "contexto": "HOW OLD - perguntando idade"
+        },
+        {
+          "ingles": "How much does this cost?",
+          "portugues": "Quanto isso custa?",
+          "fonetica": "/haʊ mʌtʃ dʌz ðɪs kɔst/",
+          "tem_audio": true,
+          "contexto": "HOW MUCH - perguntando preço/quantidade (uncountable)"
+        },
+        {
+          "ingles": "How many people came?",
+          "portugues": "Quantas pessoas vieram?",
+          "fonetica": "/haʊ ˈmɛni ˈpipəl keɪm/",
+          "tem_audio": true,
+          "contexto": "HOW MANY - quantidade (countable/plural)"
+        },
+        {
+          "ingles": "How long did you wait?",
+          "portugues": "Quanto tempo você esperou?",
+          "fonetica": "/haʊ lɔŋ dɪd ju weɪt/",
+          "tem_audio": true,
+          "contexto": "HOW LONG - duração de tempo"
+        },
+        {
+          "ingles": "How far is the airport?",
+          "portugues": "Qual é a distância do aeroporto?",
+          "fonetica": "/haʊ fɑr ɪz ði ˈɛrˌpɔrt/",
+          "tem_audio": true,
+          "contexto": "HOW FAR - perguntando distância"
+        },
+        {
+          "ingles": "How often do you exercise?",
+          "portugues": "Com que frequência você se exercita?",
+          "fonetica": "/haʊ ˈɔfən du ju ˈɛksərˌsaɪz/",
+          "tem_audio": true,
+          "contexto": "HOW OFTEN - perguntando frequência"
+        }
+      ]
+    },
+    {
+      "id": "which_escolhas",
+      "titulo": "WHICH - Making Choices",
+      "tipo": "vocabulario",
+      "descricao": "WHICH - fazendo escolhas entre opções",
+      "itens": [
+        {
+          "ingles": "Which book do you prefer?",
+          "portugues": "Qual livro você prefere?",
+          "fonetica": "/wɪtʃ bʊk du ju prɪˈfɜr/",
+          "tem_audio": true,
+          "contexto": "WHICH - escolha entre opções específicas"
+        },
+        {
+          "ingles": "Which way should we go?",
+          "portugues": "Que caminho devemos seguir?",
+          "fonetica": "/wɪtʃ weɪ ʃʊd wi goʊ/",
+          "tem_audio": true,
+          "contexto": "WHICH WAY - escolhendo direção"
+        },
+        {
+          "ingles": "Which one do you want?",
+          "portugues": "Qual você quer?",
+          "fonetica": "/wɪtʃ wʌn du ju wænt/",
+          "tem_audio": true,
+          "contexto": "WHICH ONE - escolhendo entre itens visíveis"
+        },
+        {
+          "ingles": "Which color looks better?",
+          "portugues": "Qual cor fica melhor?",
+          "fonetica": "/wɪtʃ ˈkʌlər lʊks ˈbɛtər/",
+          "tem_audio": true,
+          "contexto": "WHICH - comparando opções limitadas"
+        },
+        {
+          "ingles": "Which restaurant did you choose?",
+          "portugues": "Qual restaurante você escolheu?",
+          "fonetica": "/wɪtʃ ˈrɛstərənt dɪd ju tʃuz/",
+          "tem_audio": true,
+          "contexto": "WHICH - decisão já tomada entre opções"
+        }
+      ]
+    },
+    {
+      "id": "whose_posse",
+      "titulo": "WHOSE - Asking About Possession",
+      "tipo": "vocabulario",
+      "descricao": "WHOSE - perguntando sobre posse",
+      "itens": [
+        {
+          "ingles": "Whose book is this?",
+          "portugues": "De quem é este livro?",
+          "fonetica": "/huz bʊk ɪz ðɪs/",
+          "tem_audio": true,
+          "contexto": "WHOSE - perguntando dono de objeto"
+        },
+        {
+          "ingles": "Whose car are we taking?",
+          "portugues": "O carro de quem vamos pegar?",
+          "fonetica": "/huz kɑr ɑr wi ˈteɪkɪŋ/",
+          "tem_audio": true,
+          "contexto": "WHOSE - planejando usar algo de alguém"
+        },
+        {
+          "ingles": "Whose idea was this?",
+          "portugues": "De quem foi esta ideia?",
+          "fonetica": "/huz aɪˈdiə wʌz ðɪs/",
+          "tem_audio": true,
+          "contexto": "WHOSE - perguntando autoria/responsabilidade"
+        },
+        {
+          "ingles": "Whose turn is it?",
+          "portugues": "De quem é a vez?",
+          "fonetica": "/huz tɜrn ɪz ɪt/",
+          "tem_audio": true,
+          "contexto": "WHOSE TURN - ordem/vez em jogos/atividades"
+        },
+        {
+          "ingles": "Whose phone is ringing?",
+          "portugues": "O telefone de quem está tocando?",
+          "fonetica": "/huz foʊn ɪz ˈrɪŋɪŋ/",
+          "tem_audio": true,
+          "contexto": "WHOSE - identificando dono pelo som"
+        }
+      ]
+    },
+    {
+      "id": "ordem_perguntas",
+      "titulo": "Word Order in Questions",
+      "tipo": "vocabulario",
+      "descricao": "Ordem das palavras nas perguntas com WH",
+      "itens": [
+        {
+          "ingles": "What + do + you + eat? (normal verb)",
+          "portugues": "O que + você + come? (verbo normal)",
+          "fonetica": "/wʌt du ju it/",
+          "tem_audio": true,
+          "contexto": "WH + DO/DOES + subject + verb - padrão geral"
+        },
+        {
+          "ingles": "Where + are + you + going? (BE verb)",
+          "portugues": "Onde + você + está + indo? (verbo BE)",
+          "fonetica": "/wɛr ɑr ju ˈgoʊɪŋ/",
+          "tem_audio": true,
+          "contexto": "WH + BE + subject - com verbo BE"
+        },
+        {
+          "ingles": "Who + called + you? (WHO as subject)",
+          "portugues": "Quem + te + ligou? (WHO como sujeito)",
+          "fonetica": "/hu kɔld ju/",
+          "tem_audio": true,
+          "contexto": "Quando WH é o sujeito, sem DO/DOES"
+        },
+        {
+          "ingles": "How + can + I + help? (modal verb)",
+          "portugues": "Como + posso + ajudar? (verbo modal)",
+          "fonetica": "/haʊ kæn aɪ hɛlp/",
+          "tem_audio": true,
+          "contexto": "WH + modal + subject + verb"
+        },
+        {
+          "ingles": "When + did + they + arrive? (past tense)",
+          "portugues": "Quando + eles + chegaram? (passado)",
+          "fonetica": "/wɛn dɪd ðeɪ əˈraɪv/",
+          "tem_audio": true,
+          "contexto": "WH + DID + subject + base verb - passado"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue with Question Words",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando vários pronomes interrogativos",
+      "participantes": ["Anna", "Mark"],
+      "conversas": [
+        {
+          "falante": "Anna",
+          "ingles": "Hi Mark! Where have you been? I haven't seen you for weeks!",
+          "portugues": "Oi Mark! Onde você esteve? Não te vejo há semanas!",
+          "fonetica": "/haɪ mɑrk wɛr hæv ju bɪn aɪ ˈhævənt sin ju fɔr wiks/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mark",
+          "ingles": "Hey Anna! I was traveling for work. How are you doing? What's new in your life?",
+          "portugues": "Oi Anna! Eu estava viajando a trabalho. Como você está? O que há de novo na sua vida?",
+          "fonetica": "/heɪ ˈænə aɪ wʌz ˈtrævəlɪŋ fɔr wɜrk haʊ ɑr ju ˈduɪŋ wʌts nu ɪn jʊər laɪf/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Anna",
+          "ingles": "I'm great, thanks! Where did you go? And how long were you away?",
+          "portugues": "Estou ótima, obrigada! Onde você foi? E quanto tempo ficou fora?",
+          "fonetica": "/aɪm greɪt θæŋks wɛr dɪd ju goʊ ænd haʊ lɔŋ wər ju əˈweɪ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mark",
+          "ingles": "I went to Japan for three weeks. It was amazing! Who do you think I met there? My old college roommate!",
+          "portugues": "Fui para o Japão por três semanas. Foi incrível! Advinha quem encontrei lá? Meu antigo colega de quarto da faculdade!",
+          "fonetica": "/aɪ wɛnt tu dʒəˈpæn fɔr θri wiks ɪt wʌz əˈmeɪzɪŋ hu du ju θɪŋk aɪ mɛt ðɛr maɪ oʊld ˈkɑlɪdʒ ˈrumˌmeɪt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Anna",
+          "ingles": "That's incredible! What a small world! Why was he there? And when did you last see him?",
+          "portugues": "Isso é incrível! Que mundo pequeno! Por que ele estava lá? E quando você o viu pela última vez?",
+          "fonetica": "/ðæts ɪnˈkrɛdəbəl wʌt ə smɔl wɜrld waɪ wʌz hi ðɛr ænd wɛn dɪd ju læst si hɪm/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mark",
+          "ingles": "He lives there now! He's been teaching English for five years. I hadn't seen him since graduation. How often does this happen, right? It's crazy!",
+          "portugues": "Ele mora lá agora! Está ensinando inglês há cinco anos. Não o via desde a formatura. Com que frequência isso acontece, né? É loucura!",
+          "fonetica": "/hi lɪvz ðɛr naʊ hiz bɪn ˈtitʃɪŋ ˈɪŋglɪʃ fɔr faɪv jɪrz aɪ ˈhædənt sin hɪm sɪns ˌgrædʒuˈeɪʃən haʊ ˈɔfən dʌz ðɪs ˈhæpən raɪt ɪts ˈkreɪzi/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Interview Questions",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let me share some common interview questions using different question words! When you're looking for a job, employers ask many questions to get to know you better. First, they usually ask: 'Who are you?' or 'What's your name?' These are simple identification questions. Then comes: 'Where are you from?' and 'Where did you study?' to understand your background. Next, they want to know: 'What do you do?' and 'What's your current job?' to learn about your experience. Time-related questions are common too: 'When can you start?' and 'When did you graduate?' help them understand your availability. They always ask: 'Why do you want this job?' and 'Why are you leaving your current position?' to understand your motivations. Salary questions include: 'How much do you expect to earn?' and 'How much experience do you have?' Process questions like 'How do you handle stress?' and 'How do you work in a team?' reveal your working style. Choice questions might be: 'Which previous job did you enjoy most?' and 'Which skills are your strongest?' Finally, ownership questions: 'Whose recommendation can you provide?' and 'Whose management style do you prefer?' help them understand your references and preferences. Remember, interviews are conversations - you should also ask questions! Try: 'What does a typical day look like?' 'Where is the office located?' 'When will you make a decision?' 'How many people work in this department?' 'Who would be my direct supervisor?' These questions show you're genuinely interested in the position and help you decide if the job is right for you!",
+        "texto_portugues": "Deixe-me compartilhar algumas perguntas comuns de entrevista usando diferentes palavras interrogativas! Quando você está procurando emprego, empregadores fazem muitas perguntas para te conhecer melhor. Primeiro, geralmente perguntam: 'Who are you?' ou 'What's your name?' Essas são perguntas simples de identificação. Depois vem: 'Where are you from?' e 'Where did you study?' para entender seu histórico. Em seguida, querem saber: 'What do you do?' e 'What's your current job?' para aprender sobre sua experiência. Perguntas relacionadas ao tempo são comuns também: 'When can you start?' e 'When did you graduate?' os ajudam a entender sua disponibilidade. Sempre perguntam: 'Why do you want this job?' e 'Why are you leaving your current position?' para entender suas motivações. Perguntas sobre salário incluem: 'How much do you expect to earn?' e 'How much experience do you have?' Perguntas sobre processos como 'How do you handle stress?' e 'How do you work in a team?' revelam seu estilo de trabalho. Perguntas de escolha podem ser: 'Which previous job did you enjoy most?' e 'Which skills are your strongest?' Finalmente, perguntas sobre propriedade: 'Whose recommendation can you provide?' e 'Whose management style do you prefer?' os ajudam a entender suas referências e preferências. Lembre-se, entrevistas são conversas - você também deve fazer perguntas! Tente: 'What does a typical day look like?' 'Where is the office located?' 'When will you make a decision?' 'How many people work in this department?' 'Who would be my direct supervisor?' Essas perguntas mostram que você está genuinamente interessado na posição e te ajudam a decidir se o trabalho é certo para você!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Mastering Question Words",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are essential tips for mastering question words: 1) Remember the basic meanings: WHO (person), WHAT (thing/action), WHERE (place), WHEN (time), WHY (reason), HOW (manner). 2) Question words always come FIRST in the sentence. 3) Use DO/DOES/DID with most verbs, but not with BE or modal verbs. 4) When WHO/WHAT is the subject, don't use DO: 'Who called?' not 'Who did call?' 5) Learn combinations: HOW OLD, HOW MUCH, HOW MANY, HOW LONG, HOW FAR, HOW OFTEN. 6) Practice the difference between WHAT (general) and WHICH (specific choices). 7) Remember WHOSE for possession questions. 8) Listen to the question word carefully - it tells you what type of answer is expected!",
+        "texto_portugues": "Aqui estão dicas essenciais para dominar palavras interrogativas: 1) Lembre dos significados básicos: WHO (pessoa), WHAT (coisa/ação), WHERE (lugar), WHEN (tempo), WHY (razão), HOW (maneira). 2) Palavras interrogativas sempre vêm PRIMEIRO na frase. 3) Use DO/DOES/DID com a maioria dos verbos, mas não com BE ou verbos modais. 4) Quando WHO/WHAT é o sujeito, não use DO: 'Who called?' não 'Who did call?' 5) Aprenda combinações: HOW OLD, HOW MUCH, HOW MANY, HOW LONG, HOW FAR, HOW OFTEN. 6) Pratique a diferença entre WHAT (geral) e WHICH (escolhas específicas). 7) Lembre de WHOSE para perguntas sobre posse. 8) Escute a palavra interrogativa com atenção - ela te diz que tipo de resposta é esperada!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice question words everywhere! Start with basic questions about yourself: 'What's your name?', 'Where do you live?', 'When is your birthday?' Practice asking about others: 'Who is your best friend?', 'What do they do?', 'Where are they from?' Use question words for daily situations: 'What time is it?', 'Where is the bathroom?', 'How much does this cost?' Practice combinations: 'How old are you?', 'How many siblings do you have?', 'How often do you exercise?' Remember, asking good questions is the key to great conversations. The more you practice these question words, the more natural your English conversations will become!",
+        "texto_portugues": "Agora pratique palavras interrogativas em todos os lugares! Comece com perguntas básicas sobre você: 'What's your name?', 'Where do you live?', 'When is your birthday?' Pratique perguntando sobre outros: 'Who is your best friend?', 'What do they do?', 'Where are they from?' Use palavras interrogativas para situações diárias: 'What time is it?', 'Where is the bathroom?', 'How much does this cost?' Pratique combinações: 'How old are you?', 'How many siblings do you have?', 'How often do you exercise?' Lembre-se, fazer boas perguntas é a chave para ótimas conversas. Quanto mais você praticar essas palavras interrogativas, mais naturais suas conversas em inglês se tornarão!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
