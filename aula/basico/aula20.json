@@ -1,0 +1,507 @@
+{
+  "titulo": "Como Responder às Perguntas",
+  "descricao": "Aprenda como responder perguntas em inglês! Domine respostas curtas, completas e naturais para diferentes tipos de perguntas.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What are Good Answers?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Answering questions correctly is just as important as asking them! In English, there are different ways to respond depending on the type of question. We have short answers (Yes, I do), complete answers (I work at a bank), and natural conversational responses that keep the dialogue flowing. Learning how to give appropriate answers will make your conversations sound more natural and help you communicate effectively in any situation.",
+        "texto_portugues": "Responder perguntas corretamente é tão importante quanto fazê-las! Em inglês, há diferentes maneiras de responder dependendo do tipo de pergunta. Temos respostas curtas (Yes, I do), respostas completas (I work at a bank) e respostas conversacionais naturais que mantêm o diálogo fluindo. Aprender como dar respostas apropriadas fará suas conversas soarem mais naturais e ajudará você a se comunicar efetivamente em qualquer situação.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "respostas_yes_no",
+      "titulo": "Yes/No Questions - Short Answers",
+      "tipo": "vocabulario",
+      "descricao": "Respostas curtas para perguntas Yes/No",
+      "itens": [
+        {
+          "ingles": "Are you Brazilian? - Yes, I am. / No, I'm not.",
+          "portugues": "Você é brasileiro? - Sim, eu sou. / Não, eu não sou.",
+          "fonetica": "/ɑr ju brəˈzɪljən jɛs aɪ æm / noʊ aɪm nɑt/",
+          "tem_audio": true,
+          "contexto": "BE verb - resposta repete o verbo BE"
+        },
+        {
+          "ingles": "Do you like pizza? - Yes, I do. / No, I don't.",
+          "portugues": "Você gosta de pizza? - Sim, eu gosto. / Não, eu não gosto.",
+          "fonetica": "/du ju laɪk ˈpitsə jɛs aɪ du / noʊ aɪ doʊnt/",
+          "tem_audio": true,
+          "contexto": "DO/DOES - resposta com DO (não repete o verbo principal)"
+        },
+        {
+          "ingles": "Does she work here? - Yes, she does. / No, she doesn't.",
+          "portugues": "Ela trabalha aqui? - Sim, ela trabalha. / Não, ela não trabalha.",
+          "fonetica": "/dʌz ʃi wɜrk hɪr jɛs ʃi dʌz / noʊ ʃi ˈdʌzənt/",
+          "tem_audio": true,
+          "contexto": "DOES - terceira pessoa usa DOES na resposta"
+        },
+        {
+          "ingles": "Can you swim? - Yes, I can. / No, I can't.",
+          "portugues": "Você sabe nadar? - Sim, eu sei. / Não, eu não sei.",
+          "fonetica": "/kæn ju swɪm jɛs aɪ kæn / noʊ aɪ kænt/",
+          "tem_audio": true,
+          "contexto": "Modal verbs - repete o modal na resposta"
+        },
+        {
+          "ingles": "Did you go to the party? - Yes, I did. / No, I didn't.",
+          "portugues": "Você foi à festa? - Sim, eu fui. / Não, eu não fui.",
+          "fonetica": "/dɪd ju goʊ tu ðə ˈpɑrti jɛs aɪ dɪd / noʊ aɪ ˈdɪdənt/",
+          "tem_audio": true,
+          "contexto": "Past tense - todas as pessoas usam DID"
+        }
+      ]
+    },
+    {
+      "id": "respostas_wh_who",
+      "titulo": "WHO Questions - Identifying People",
+      "tipo": "vocabulario",
+      "descricao": "Respondendo perguntas com WHO",
+      "itens": [
+        {
+          "ingles": "Who is that man? - That's my father. / He's my teacher.",
+          "portugues": "Quem é aquele homem? - Aquele é meu pai. / Ele é meu professor.",
+          "fonetica": "/hu ɪz ðæt mæn ðæts maɪ ˈfɑðər / hiz maɪ ˈtitʃər/",
+          "tem_audio": true,
+          "contexto": "WHO IS - identifica pessoa com nome/relação"
+        },
+        {
+          "ingles": "Who called you? - My sister called me. / Sarah did.",
+          "portugues": "Quem te ligou? - Minha irmã me ligou. / A Sarah ligou.",
+          "fonetica": "/hu kɔld ju maɪ ˈsɪstər kɔld mi / ˈsɛrə dɪd/",
+          "tem_audio": true,
+          "contexto": "WHO + past - nome da pessoa que fez a ação"
+        },
+        {
+          "ingles": "Who do you work with? - I work with John. / With my team.",
+          "portugues": "Com quem você trabalha? - Eu trabalho com o John. / Com minha equipe.",
+          "fonetica": "/hu du ju wɜrk wɪð aɪ wɜrk wɪð dʒɑn / wɪð maɪ tim/",
+          "tem_audio": true,
+          "contexto": "WHO DO YOU - pessoa específica ou grupo"
+        },
+        {
+          "ingles": "Who's your best friend? - Maria is. / My roommate from college.",
+          "portugues": "Quem é sua melhor amiga? - A Maria é. / Minha colega de quarto da faculdade.",
+          "fonetica": "/huz jʊər bɛst frɛnd məˈriə ɪz / maɪ ˈrumˌmeɪt frʌm ˈkɑlɪdʒ/",
+          "tem_audio": true,
+          "contexto": "WHO'S - pode ser resposta curta ou completa"
+        }
+      ]
+    },
+    {
+      "id": "respostas_wh_what",
+      "titulo": "WHAT Questions - Things and Actions",
+      "tipo": "vocabulario",
+      "descricao": "Respondendo perguntas com WHAT",
+      "itens": [
+        {
+          "ingles": "What do you do? - I'm a teacher. / I work in marketing.",
+          "portugues": "O que você faz? - Eu sou professor. / Eu trabalho em marketing.",
+          "fonetica": "/wʌt du ju du aɪm ə ˈtitʃər / aɪ wɜrk ɪn ˈmɑrkətɪŋ/",
+          "tem_audio": true,
+          "contexto": "WHAT DO YOU DO - profissão/trabalho"
+        },
+        {
+          "ingles": "What is this? - It's a smartphone. / That's my laptop.",
+          "portugues": "O que é isto? - É um smartphone. / Aquele é meu laptop.",
+          "fonetica": "/wʌt ɪz ðɪs ɪts ə ˈsmɑrtˌfoʊn / ðæts maɪ ˈlæpˌtɑp/",
+          "tem_audio": true,
+          "contexto": "WHAT IS - identifica objetos"
+        },
+        {
+          "ingles": "What are you doing? - I'm studying English. / Just relaxing.",
+          "portugues": "O que você está fazendo? - Estou estudando inglês. / Só relaxando.",
+          "fonetica": "/wʌt ɑr ju ˈduɪŋ aɪm ˈstʌdiɪŋ ˈɪŋglɪʃ / dʒʌst rɪˈlæksɪŋ/",
+          "tem_audio": true,
+          "contexto": "WHAT ARE YOU DOING - ação atual/contínua"
+        },
+        {
+          "ingles": "What happened? - I lost my keys. / There was an accident.",
+          "portugues": "O que aconteceu? - Eu perdi minhas chaves. / Houve um acidente.",
+          "fonetica": "/wʌt ˈhæpənd aɪ lɔst maɪ kiz / ðɛr wʌz ən ˈæksədənt/",
+          "tem_audio": true,
+          "contexto": "WHAT HAPPENED - explica evento/situação"
+        }
+      ]
+    },
+    {
+      "id": "respostas_wh_where",
+      "titulo": "WHERE Questions - Places and Locations",
+      "tipo": "vocabulario",
+      "descricao": "Respondendo perguntas com WHERE",
+      "itens": [
+        {
+          "ingles": "Where do you live? - I live in São Paulo. / In the city center.",
+          "portugues": "Onde você mora? - Eu moro em São Paulo. / No centro da cidade.",
+          "fonetica": "/wɛr du ju lɪv aɪ lɪv ɪn saʊ ˈpaʊloʊ / ɪn ðə ˈsɪti ˈsɛntər/",
+          "tem_audio": true,
+          "contexto": "WHERE DO YOU LIVE - cidade/bairro/área"
+        },
+        {
+          "ingles": "Where is the bank? - It's on Main Street. / Next to the pharmacy.",
+          "portugues": "Onde fica o banco? - Fica na rua Main. / Ao lado da farmácia.",
+          "fonetica": "/wɛr ɪz ðə bæŋk ɪts ɑn meɪn strit / nɛkst tu ðə ˈfɑrməsi/",
+          "tem_audio": true,
+          "contexto": "WHERE IS - localização específica com preposições"
+        },
+        {
+          "ingles": "Where are you from? - I'm from Brazil. / From a small town.",
+          "portugues": "De onde você é? - Eu sou do Brasil. / De uma cidade pequena.",
+          "fonetica": "/wɛr ɑr ju frʌm aɪm frʌm brəˈzɪl / frʌm ə smɔl taʊn/",
+          "tem_audio": true,
+          "contexto": "WHERE ARE YOU FROM - origem/nacionalidade"
+        },
+        {
+          "ingles": "Where did you go? - I went to the mall. / To my friend's house.",
+          "portugues": "Onde você foi? - Eu fui ao shopping. / À casa do meu amigo.",
+          "fonetica": "/wɛr dɪd ju goʊ aɪ wɛnt tu ðə mɔl / tu maɪ frɛndz haʊs/",
+          "tem_audio": true,
+          "contexto": "WHERE DID - lugar visitado no passado"
+        }
+      ]
+    },
+    {
+      "id": "respostas_wh_when",
+      "titulo": "WHEN Questions - Time and Schedule",
+      "tipo": "vocabulario",
+      "descricao": "Respondendo perguntas com WHEN",
+      "itens": [
+        {
+          "ingles": "When is your birthday? - It's on March 15th. / Next month.",
+          "portugues": "Quando é seu aniversário? - É em 15 de março. / Mês que vem.",
+          "fonetica": "/wɛn ɪz jʊər ˈbɜrθdeɪ ɪts ɑn mɑrtʃ ˈfɪfˌtinθ / nɛkst mʌnθ/",
+          "tem_audio": true,
+          "contexto": "WHEN IS - data específica ou período"
+        },
+        {
+          "ingles": "When do you wake up? - At 7 AM. / Early in the morning.",
+          "portugues": "Quando você acorda? - Às 7h. / Cedo de manhã.",
+          "fonetica": "/wɛn du ju weɪk ʌp æt ˈsɛvən ˌeɪˈɛm / ˈɜrli ɪn ðə ˈmɔrnɪŋ/",
+          "tem_audio": true,
+          "contexto": "WHEN DO YOU - horário habitual"
+        },
+        {
+          "ingles": "When did you arrive? - I arrived yesterday. / Around 3 PM.",
+          "portugues": "Quando você chegou? - Eu cheguei ontem. / Por volta das 15h.",
+          "fonetica": "/wɛn dɪd ju əˈraɪv aɪ əˈraɪvd ˈjɛstərdeɪ / əˈraʊnd θri ˌpiˈɛm/",
+          "tem_audio": true,
+          "contexto": "WHEN DID - momento específico no passado"
+        },
+        {
+          "ingles": "When are you leaving? - Tomorrow morning. / In about an hour.",
+          "portugues": "Quando você está partindo? - Amanhã de manhã. / Em cerca de uma hora.",
+          "fonetica": "/wɛn ɑr ju ˈlivɪŋ təˈmɑroʊ ˈmɔrnɪŋ / ɪn əˈbaʊt ən aʊər/",
+          "tem_audio": true,
+          "contexto": "WHEN ARE YOU - planos futuros"
+        }
+      ]
+    },
+    {
+      "id": "respostas_wh_why",
+      "titulo": "WHY Questions - Reasons and Explanations",
+      "tipo": "vocabulario",
+      "descricao": "Respondendo perguntas com WHY",
+      "itens": [
+        {
+          "ingles": "Why are you sad? - Because I failed the test. / I'm not feeling well.",
+          "portugues": "Por que você está triste? - Porque reprovei no teste. / Não estou me sentindo bem.",
+          "fonetica": "/waɪ ɑr ju sæd bɪˈkɔz aɪ feɪld ðə tɛst / aɪm nɑt ˈfilɪŋ wɛl/",
+          "tem_audio": true,
+          "contexto": "WHY ARE YOU - razão para sentimento/estado"
+        },
+        {
+          "ingles": "Why do you like this book? - Because it's very interesting. / The story is amazing.",
+          "portugues": "Por que você gosta deste livro? - Porque é muito interessante. / A história é incrível.",
+          "fonetica": "/waɪ du ju laɪk ðɪs bʊk bɪˈkɔz ɪts ˈvɛri ˈɪntrəstɪŋ / ðə ˈstɔri ɪz əˈmeɪzɪŋ/",
+          "tem_audio": true,
+          "contexto": "WHY DO YOU LIKE - explicando preferência"
+        },
+        {
+          "ingles": "Why didn't you come? - Because I was sick. / I had another appointment.",
+          "portugues": "Por que você não veio? - Porque estava doente. / Tinha outro compromisso.",
+          "fonetica": "/waɪ ˈdɪdənt ju kʌm bɪˈkɔz aɪ wʌz sɪk / aɪ hæd əˈnʌðər əˈpɔɪntmənt/",
+          "tem_audio": true,
+          "contexto": "WHY DIDN'T - explicando ausência/problema"
+        },
+        {
+          "ingles": "Why is this so expensive? - Because it's imported. / It's a luxury brand.",
+          "portugues": "Por que isto é tão caro? - Porque é importado. / É uma marca de luxo.",
+          "fonetica": "/waɪ ɪz ðɪs soʊ ɪkˈspɛnsɪv bɪˈkɔz ɪts ɪmˈpɔrtəd / ɪts ə ˈlʌkʃəri brænd/",
+          "tem_audio": true,
+          "contexto": "WHY IS - explicando característica/situação"
+        }
+      ]
+    },
+    {
+      "id": "respostas_how",
+      "titulo": "HOW Questions - Methods and Descriptions",
+      "tipo": "vocabulario",
+      "descricao": "Respondendo perguntas com HOW",
+      "itens": [
+        {
+          "ingles": "How are you? - I'm fine, thank you. / Great! And you?",
+          "portugues": "Como você está? - Estou bem, obrigado. / Ótimo! E você?",
+          "fonetica": "/haʊ ɑr ju aɪm faɪn θæŋk ju / greɪt ænd ju/",
+          "tem_audio": true,
+          "contexto": "HOW ARE YOU - cumprimento padrão com retorno"
+        },
+        {
+          "ingles": "How do you go to work? - I take the bus. / By car.",
+          "portugues": "Como você vai para o trabalho? - Eu pego o ônibus. / De carro.",
+          "fonetica": "/haʊ du ju goʊ tu wɜrk aɪ teɪk ðə bʌs / baɪ kɑr/",
+          "tem_audio": true,
+          "contexto": "HOW DO YOU - método/meio de transporte"
+        },
+        {
+          "ingles": "How did you learn English? - I studied at school. / Through online courses.",
+          "portugues": "Como você aprendeu inglês? - Eu estudei na escola. / Através de cursos online.",
+          "fonetica": "/haʊ dɪd ju lɜrn ˈɪŋglɪʃ aɪ ˈstʌdid æt skul / θru ˈɔnˌlaɪn ˈkɔrsəz/",
+          "tem_audio": true,
+          "contexto": "HOW DID YOU - método/processo usado"
+        },
+        {
+          "ingles": "How can I help you? - I'm looking for a book. / I need directions.",
+          "portugues": "Como posso ajudá-lo? - Estou procurando um livro. / Preciso de direções.",
+          "fonetica": "/haʊ kæn aɪ hɛlp ju aɪm ˈlʊkɪŋ fɔr ə bʊk / aɪ nid dəˈrɛkʃənz/",
+          "tem_audio": true,
+          "contexto": "HOW CAN I HELP - resposta explica necessidade"
+        }
+      ]
+    },
+    {
+      "id": "respostas_how_much_many",
+      "titulo": "HOW MUCH/MANY Questions - Quantities",
+      "tipo": "vocabulario",
+      "descricao": "Respondendo perguntas sobre quantidade",
+      "itens": [
+        {
+          "ingles": "How much does this cost? - It costs twenty dollars. / Twenty bucks.",
+          "portugues": "Quanto isso custa? - Custa vinte dólares. / Vinte paus.",
+          "fonetica": "/haʊ mʌtʃ dʌz ðɪs kɔst ɪt kɔsts ˈtwɛnti ˈdɑlərz / ˈtwɛnti bʌks/",
+          "tem_audio": true,
+          "contexto": "HOW MUCH - preço específico (formal/informal)"
+        },
+        {
+          "ingles": "How many people came? - About fifty people. / Around thirty.",
+          "portugues": "Quantas pessoas vieram? - Cerca de cinquenta pessoas. / Por volta de trinta.",
+          "fonetica": "/haʊ ˈmɛni ˈpipəl keɪm əˈbaʊt ˈfɪfti ˈpipəl / əˈraʊnd ˈθɜrti/",
+          "tem_audio": true,
+          "contexto": "HOW MANY - número específico ou aproximado"
+        },
+        {
+          "ingles": "How old are you? - I'm twenty-five. / Twenty-five years old.",
+          "portugues": "Quantos anos você tem? - Eu tenho vinte e cinco. / Vinte e cinco anos.",
+          "fonetica": "/haʊ oʊld ɑr ju aɪm ˈtwɛnti faɪv / ˈtwɛnti faɪv jɪrz oʊld/",
+          "tem_audio": true,
+          "contexto": "HOW OLD - idade (resposta curta ou completa)"
+        },
+        {
+          "ingles": "How long did you wait? - For about an hour. / Not very long.",
+          "portugues": "Quanto tempo você esperou? - Por cerca de uma hora. / Não muito tempo.",
+          "fonetica": "/haʊ lɔŋ dɪd ju weɪt fɔr əˈbaʊt ən aʊər / nɑt ˈvɛri lɔŋ/",
+          "tem_audio": true,
+          "contexto": "HOW LONG - duração específica ou vaga"
+        }
+      ]
+    },
+    {
+      "id": "respostas_elaboradas",
+      "titulo": "Elaborated Answers - Keeping Conversations Going",
+      "tipo": "vocabulario",
+      "descricao": "Respostas elaboradas para manter conversas fluindo",
+      "itens": [
+        {
+          "ingles": "Do you like movies? - Yes, I love them! Especially action movies. What about you?",
+          "portugues": "Você gosta de filmes? - Sim, eu amo! Especialmente filmes de ação. E você?",
+          "fonetica": "/du ju laɪk ˈmuviz jɛs aɪ lʌv ðɛm ɪˈspɛʃəli ˈækʃən ˈmuviz wʌt əˈbaʊt ju/",
+          "tem_audio": true,
+          "contexto": "Resposta + detalhes + pergunta de volta = conversa natural"
+        },
+        {
+          "ingles": "Where did you go on vacation? - We went to Italy. It was amazing! The food was incredible.",
+          "portugues": "Onde vocês foram nas férias? - Fomos para a Itália. Foi incrível! A comida estava incrível.",
+          "fonetica": "/wɛr dɪd ju goʊ ɑn veɪˈkeɪʃən wi wɛnt tu ˈɪtəli ɪt wʌz əˈmeɪzɪŋ ðə fud wʌz ɪnˈkrɛdəbəl/",
+          "tem_audio": true,
+          "contexto": "Resposta + opinião + detalhes específicos"
+        },
+        {
+          "ingles": "What do you do for fun? - I enjoy reading books, especially mystery novels. I also play tennis on weekends.",
+          "portugues": "O que você faz para se divertir? - Eu gosto de ler livros, especialmente romances policiais. Também jogo tênis nos fins de semana.",
+          "fonetica": "/wʌt du ju du fɔr fʌn aɪ ɪnˈdʒɔɪ ˈridɪŋ bʊks ɪˈspɛʃəli ˈmɪstəri ˈnɑvəlz aɪ ˈɔlsoʊ pleɪ ˈtɛnəs ɑn ˈwikɛndz/",
+          "tem_audio": true,
+          "contexto": "Múltiplas atividades com detalhes específicos"
+        },
+        {
+          "ingles": "How was your day? - It was pretty good, thanks! I finished that big project at work, so I'm feeling relieved.",
+          "portugues": "Como foi seu dia? - Foi bem bom, obrigado! Terminei aquele projeto grande no trabalho, então estou me sentindo aliviado.",
+          "fonetica": "/haʊ wʌz jʊər deɪ ɪt wʌz ˈprɪti gʊd θæŋks aɪ ˈfɪnɪʃt ðæt bɪg ˈprɑdʒɛkt æt wɜrk soʊ aɪm ˈfilɪŋ rɪˈlivd/",
+          "tem_audio": true,
+          "contexto": "Resposta + razão/explicação + sentimento atual"
+        }
+      ]
+    },
+    {
+      "id": "respostas_educadas",
+      "titulo": "Polite and Natural Responses",
+      "tipo": "vocabulario",
+      "descricao": "Respostas educadas e naturais",
+      "itens": [
+        {
+          "ingles": "Could you help me? - Of course! What do you need?",
+          "portugues": "Você poderia me ajudar? - Claro! O que você precisa?",
+          "fonetica": "/kʊd ju hɛlp mi ʌv kɔrs wʌt du ju nid/",
+          "tem_audio": true,
+          "contexto": "Resposta positiva + pergunta para esclarecer"
+        },
+        {
+          "ingles": "Do you mind if I sit here? - Not at all! Please, go ahead.",
+          "portugues": "Você se importa se eu sentar aqui? - De forma alguma! Por favor, vá em frente.",
+          "fonetica": "/du ju maɪnd ɪf aɪ sɪt hɪr nɑt æt ɔl pliz goʊ əˈhɛd/",
+          "tem_audio": true,
+          "contexto": "Resposta educada + encorajamento"
+        },
+        {
+          "ingles": "Would you like some coffee? - That would be lovely, thank you!",
+          "portugues": "Você gostaria de um café? - Seria adorável, obrigado!",
+          "fonetica": "/wʊd ju laɪk sʌm ˈkɔfi ðæt wʊd bi ˈlʌvli θæŋk ju/",
+          "tem_audio": true,
+          "contexto": "Aceitando oferecimento educadamente"
+        },
+        {
+          "ingles": "Sorry, are you busy? - A little bit, but what's up?",
+          "portugues": "Desculpe, você está ocupado? - Um pouquinho, mas o que foi?",
+          "fonetica": "/ˈsɔri ɑr ju ˈbɪzi ə ˈlɪtəl bɪt bʌt wʌts ʌp/",
+          "tem_audio": true,
+          "contexto": "Honesto mas disponível para ajudar"
+        },
+        {
+          "ingles": "Excuse me, do you know the time? - Sure, it's quarter past three.",
+          "portugues": "Com licença, você sabe que horas são? - Claro, são três e quinze.",
+          "fonetica": "/ɪkˈskjuz mi du ju noʊ ðə taɪm ʃʊr ɪts ˈkwɔrtər pæst θri/",
+          "tem_audio": true,
+          "contexto": "Resposta direta e útil"
+        }
+      ]
+    },
+    {
+      "id": "evitando_respostas_curtas",
+      "titulo": "Avoiding One-Word Answers",
+      "tipo": "vocabulario",
+      "descricao": "Evitando respostas de uma palavra só",
+      "itens": [
+        {
+          "ingles": "How was the movie? - Good. → It was really good! I loved the ending.",
+          "portugues": "Como foi o filme? - Bom. → Foi realmente bom! Adorei o final.",
+          "fonetica": "/haʊ wʌz ðə ˈmuvi gʊd → ɪt wʌz ˈrɪli gʊd aɪ lʌvd ði ˈɛndɪŋ/",
+          "tem_audio": true,
+          "contexto": "Expandindo resposta simples com detalhes"
+        },
+        {
+          "ingles": "Do you like your job? - Yes. → Yes, I really enjoy it. The people are great.",
+          "portugues": "Você gosta do seu trabalho? - Sim. → Sim, eu realmente gosto. As pessoas são ótimas.",
+          "fonetica": "/du ju laɪk jʊər dʒɑb jɛs → jɛs aɪ ˈrɪli ɪnˈdʒɔɪ ɪt ðə ˈpipəl ɑr greɪt/",
+          "tem_audio": true,
+          "contexto": "Resposta curta → resposta elaborada"
+        },
+        {
+          "ingles": "Where are you from? - Brazil. → I'm from Brazil, specifically from Rio de Janeiro.",
+          "portugues": "De onde você é? - Brasil. → Eu sou do Brasil, especificamente do Rio de Janeiro.",
+          "fonetica": "/wɛr ɑr ju frʌm brəˈzɪl → aɪm frʌm brəˈzɪl spəˈsɪfɪkli frʌm ˈrioʊ deɪ ʒəˈnɛroʊ/",
+          "tem_audio": true,
+          "contexto": "Adicionando informação específica"
+        },
+        {
+          "ingles": "What did you do today? - Nothing. → Nothing special, just relaxed at home and watched some Netflix.",
+          "portugues": "O que você fez hoje? - Nada. → Nada especial, só relaxei em casa e assisti Netflix.",
+          "fonetica": "/wʌt dɪd ju du təˈdeɪ ˈnʌθɪŋ → ˈnʌθɪŋ ˈspɛʃəl dʒʌst rɪˈlækst æt hoʊm ænd wɑtʃt sʌm ˈnɛtflɪks/",
+          "tem_audio": true,
+          "contexto": "Transformando 'nada' em algo mais conversacional"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue with Good Answers",
+      "tipo": "dialogo",
+      "descricao": "Conversa real mostrando boas respostas",
+      "participantes": ["Alex", "Jamie"],
+      "conversas": [
+        {
+          "falante": "Alex",
+          "ingles": "Hi Jamie! How are you doing today?",
+          "portugues": "Oi Jamie! Como você está hoje?",
+          "fonetica": "/haɪ ˈdʒeɪmi haʊ ɑr ju ˈduɪŋ təˈdeɪ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Jamie",
+          "ingles": "I'm doing great, thanks! Just finished a big presentation at work, so I'm feeling pretty relieved. How about you?",
+          "portugues": "Estou indo ótimo, obrigado! Acabei de terminar uma apresentação grande no trabalho, então estou me sentindo bem aliviado. E você?",
+          "fonetica": "/aɪm ˈduɪŋ greɪt θæŋks dʒʌst ˈfɪnɪʃt ə bɪg ˌprɛzənˈteɪʃən æt wɜrk soʊ aɪm ˈfilɪŋ ˈprɪti rɪˈlivd haʊ əˈbaʊt ju/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Alex",
+          "ingles": "That's awesome! What was the presentation about?",
+          "portugues": "Que incrível! Sobre o que foi a apresentação?",
+          "fonetica": "/ðæts ˈɔsəm wʌt wʌz ðə ˌprɛzənˈteɪʃən əˈbaʊt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Jamie",
+          "ingles": "It was about our new marketing strategy for next year. I've been working on it for weeks, and today went really well. The boss seemed impressed!",
+          "portugues": "Foi sobre nossa nova estratégia de marketing para o ano que vem. Tenho trabalhado nisso há semanas, e hoje correu muito bem. O chefe pareceu impressionado!",
+          "fonetica": "/ɪt wʌz əˈbaʊt aʊər nu ˈmɑrkətɪŋ ˈstrætədʒi fɔr nɛkst jɪr aɪv bɪn ˈwɜrkɪŋ ɑn ɪt fɔr wiks ænd təˈdeɪ wɛnt ˈrɪli wɛl ðə bɔs simd ɪmˈprɛst/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Alex",
+          "ingles": "Congratulations! Are you doing anything special to celebrate?",
+          "portugues": "Parabéns! Você vai fazer algo especial para comemorar?",
+          "fonetica": "/kənˌgrætʃəˈleɪʃənz ɑr ju ˈduɪŋ ˈɛniθɪŋ ˈspɛʃəl tu ˈsɛləˌbreɪt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Jamie",
+          "ingles": "Actually, yes! My team and I are going out for dinner tonight. There's this new Italian restaurant downtown that everyone's been talking about. Would you like to join us?",
+          "portugues": "Na verdade, sim! Meu time e eu vamos jantar fora hoje à noite. Há um restaurante italiano novo no centro sobre o qual todo mundo tem falado. Você gostaria de se juntar a nós?",
+          "fonetica": "/ˈæktʃuəli jɛs maɪ tim ænd aɪ ɑr ˈgoʊɪŋ aʊt fɔr ˈdɪnər təˈnaɪt ðɛrz ðɪs nu ɪˈtæljən ˈrɛstərənt ˈdaʊnˌtaʊn ðæt ˈɛvriˌwʌn hæz bɪn ˈtɔkɪŋ əˈbaʊt wʊd ju laɪk tu dʒɔɪn ʌs/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Good vs Bad Answers",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let me show you the difference between good and bad answers through examples! When someone asks 'How was your weekend?', a bad answer would be just 'Good' or 'Fine'. But a good answer gives details and keeps the conversation going: 'It was really nice! I went hiking with some friends on Saturday, and on Sunday I just relaxed at home and caught up on some reading. How was yours?' Notice how the good answer includes specific activities, shows enthusiasm, and asks a question back. When asked 'What do you do for work?', instead of just saying 'I work in an office', try: 'I work as a graphic designer for a marketing agency. I really enjoy the creative aspects of my job, especially working on brand campaigns. What about you?' This gives much more information and shows interest in the other person. If someone asks 'Where are you from?', rather than simply saying 'Brazil', you could say: 'I'm originally from Brazil, from a city called Salvador. It's on the coast and has amazing beaches and great food. Have you ever been to South America?' Good answers create connections and give the other person something to respond to. Bad answers kill conversations, while good answers keep them alive and interesting. Practice expanding your answers with details, opinions, and follow-up questions!",
+        "texto_portugues": "Deixe-me mostrar a diferença entre respostas boas e ruins através de exemplos! Quando alguém pergunta 'How was your weekend?', uma resposta ruim seria apenas 'Good' ou 'Fine'. Mas uma boa resposta dá detalhes e mantém a conversa fluindo: 'It was really nice! I went hiking with some friends on Saturday, and on Sunday I just relaxed at home and caught up on some reading. How was yours?' Note como a boa resposta inclui atividades específicas, mostra entusiasmo e faz uma pergunta de volta. Quando perguntam 'What do you do for work?', em vez de apenas dizer 'I work in an office', tente: 'I work as a graphic designer for a marketing agency. I really enjoy the creative aspects of my job, especially working on brand campaigns. What about you?' Isso dá muito mais informação e mostra interesse na outra pessoa. Se alguém pergunta 'Where are you from?', ao invés de simplesmente dizer 'Brazil', você poderia dizer: 'I'm originally from Brazil, from a city called Salvador. It's on the coast and has amazing beaches and great food. Have you ever been to South America?' Boas respostas criam conexões e dão à outra pessoa algo para responder. Respostas ruins matam conversas, enquanto boas respostas as mantêm vivas e interessantes. Pratique expandir suas respostas com detalhes, opiniões e perguntas de acompanhamento!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Giving Great Answers",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are essential tips for giving great answers in English: 1) Never give just one-word answers - always add some detail or explanation. 2) For Yes/No questions, use short answers: 'Yes, I do' / 'No, I don't' (don't just say 'Yes' or 'No'). 3) Add your opinion or feeling: 'Yes, I love pizza. It's my favorite food!' 4) Ask a question back to keep the conversation going: 'What about you?' 5) For WH-questions, give specific information, not vague answers. 6) Use 'because' to explain reasons when answering WHY questions. 7) Practice the difference between formal and informal answers depending on the situation. 8) Show enthusiasm and interest - it makes conversations much more engaging!",
+        "texto_portugues": "Aqui estão dicas essenciais para dar ótimas respostas em inglês: 1) Nunca dê respostas de uma palavra só - sempre adicione algum detalhe ou explicação. 2) Para perguntas Yes/No, use respostas curtas: 'Yes, I do' / 'No, I don't' (não diga apenas 'Yes' ou 'No'). 3) Adicione sua opinião ou sentimento: 'Yes, I love pizza. It's my favorite food!' 4) Faça uma pergunta de volta para manter a conversa fluindo: 'What about you?' 5) Para perguntas WH, dê informações específicas, não respostas vagas. 6) Use 'because' para explicar razões ao responder perguntas WHY. 7) Pratique a diferença entre respostas formais e informais dependendo da situação. 8) Mostre entusiasmo e interesse - isso torna as conversas muito mais envolventes!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice giving great answers! Start with common questions people ask you: 'How are you?', 'What do you do?', 'Where are you from?', 'What do you like to do for fun?' Practice giving both short answers and detailed answers. Remember to add your opinion, give specific details, and ask questions back. Try role-playing conversations with yourself - ask a question, then practice giving different types of answers. Record yourself if possible to hear how natural you sound. The goal is to make every answer interesting and conversation-worthy. Good answers make you a great conversationalist and help you build better relationships in English!",
+        "texto_portugues": "Agora pratique dando ótimas respostas! Comece com perguntas comuns que as pessoas fazem: 'How are you?', 'What do you do?', 'Where are you from?', 'What do you like to do for fun?' Pratique dando tanto respostas curtas quanto detalhadas. Lembre-se de adicionar sua opinião, dar detalhes específicos e fazer perguntas de volta. Tente fazer dramatizações de conversas consigo mesmo - faça uma pergunta, depois pratique dando diferentes tipos de respostas. Grave-se se possível para ouvir como soa natural. O objetivo é tornar cada resposta interessante e digna de conversa. Boas respostas fazem de você um ótimo conversador e ajudam a construir melhores relacionamentos em inglês!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
