@@ -1,0 +1,527 @@
+{
+  "titulo": "Negação e Perguntas no Passado",
+  "descricao": "Aprenda a negar e fazer perguntas no passado em inglês! Domine o uso de DIDN'T e DID para falar sobre o que não aconteceu e perguntar sobre eventos passados.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What are Past Negatives and Questions?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Just like in the present, we need to know how to make negative sentences and ask questions about the past. In English, we use DID and DIDN'T (did not) as auxiliary verbs to form questions and negatives in the Simple Past. The great news is that when we use DID or DIDN'T, the main verb returns to its base form - even if it's irregular! So 'went' becomes 'go', 'saw' becomes 'see', and 'bought' becomes 'buy'. This makes past questions and negatives much easier than you might think!",
+        "texto_portugues": "Assim como no presente, precisamos saber como fazer frases negativas e perguntas sobre o passado. Em inglês, usamos DID e DIDN'T (did not) como verbos auxiliares para formar perguntas e negativas no Simple Past. A boa notícia é que quando usamos DID ou DIDN'T, o verbo principal volta à sua forma base - mesmo se for irregular! Então 'went' vira 'go', 'saw' vira 'see', e 'bought' vira 'buy'. Isso torna as perguntas e negativas do passado muito mais fáceis do que você pode pensar!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "negacao_didnt_basico",
+      "titulo": "Basic Negation with DIDN'T",
+      "tipo": "vocabulario",
+      "descricao": "Negação básica usando DIDN'T + verbo base",
+      "itens": [
+        {
+          "ingles": "I didn't go to work yesterday.",
+          "portugues": "Eu não fui trabalhar ontem.",
+          "fonetica": "/aɪ ˈdɪdənt goʊ tu wɜrk ˈjɛstərdeɪ/",
+          "tem_audio": true,
+          "contexto": "DIDN'T + GO (base form, não 'went')"
+        },
+        {
+          "ingles": "She didn't eat breakfast this morning.",
+          "portugues": "Ela não tomou café da manhã esta manhã.",
+          "fonetica": "/ʃi ˈdɪdənt it ˈbrɛkfəst ðɪs ˈmɔrnɪŋ/",
+          "tem_audio": true,
+          "contexto": "DIDN'T + EAT (base form, não 'ate')"
+        },
+        {
+          "ingles": "They didn't see the movie.",
+          "portugues": "Eles não viram o filme.",
+          "fonetica": "/ðeɪ ˈdɪdənt si ðə ˈmuvi/",
+          "tem_audio": true,
+          "contexto": "DIDN'T + SEE (base form, não 'saw')"
+        },
+        {
+          "ingles": "We didn't buy anything at the store.",
+          "portugues": "Nós não compramos nada na loja.",
+          "fonetica": "/wi ˈdɪdənt baɪ ˈɛniθɪŋ æt ðə stɔr/",
+          "tem_audio": true,
+          "contexto": "DIDN'T + BUY (base form, não 'bought')"
+        },
+        {
+          "ingles": "He didn't come to the party.",
+          "portugues": "Ele não veio à festa.",
+          "fonetica": "/hi ˈdɪdənt kʌm tu ðə ˈpɑrti/",
+          "tem_audio": true,
+          "contexto": "DIDN'T + COME (base form, não 'came')"
+        }
+      ]
+    },
+    {
+      "id": "negacao_verbo_be_passado",
+      "titulo": "Negation with Past BE - WASN'T and WEREN'T",
+      "tipo": "vocabulario",
+      "descricao": "Negação com verbo BE no passado - caso especial",
+      "itens": [
+        {
+          "ingles": "I wasn't at home last night.",
+          "portugues": "Eu não estava em casa ontem à noite.",
+          "fonetica": "/aɪ ˈwʌzənt æt hoʊm læst naɪt/",
+          "tem_audio": true,
+          "contexto": "WAS NOT = WASN'T (para I, he, she, it)"
+        },
+        {
+          "ingles": "She wasn't happy about the news.",
+          "portugues": "Ela não estava feliz com as notícias.",
+          "fonetica": "/ʃi ˈwʌzənt ˈhæpi əˈbaʊt ðə nuz/",
+          "tem_audio": true,
+          "contexto": "WASN'T - terceira pessoa singular"
+        },
+        {
+          "ingles": "We weren't ready for the test.",
+          "portugues": "Nós não estávamos prontos para o teste.",
+          "fonetica": "/wi ˈwɜrənt ˈrɛdi fɔr ðə tɛst/",
+          "tem_audio": true,
+          "contexto": "WERE NOT = WEREN'T (para you, we, they)"
+        },
+        {
+          "ingles": "They weren't at the meeting.",
+          "portugues": "Eles não estavam na reunião.",
+          "fonetica": "/ðeɪ ˈwɜrənt æt ðə ˈmitɪŋ/",
+          "tem_audio": true,
+          "contexto": "WEREN'T - plural"
+        },
+        {
+          "ingles": "The weather wasn't good yesterday.",
+          "portugues": "O tempo não estava bom ontem.",
+          "fonetica": "/ðə ˈwɛðər ˈwʌzənt gʊd ˈjɛstərdeɪ/",
+          "tem_audio": true,
+          "contexto": "WASN'T com 'the weather' (singular)"
+        }
+      ]
+    },
+    {
+      "id": "perguntas_did_basico",
+      "titulo": "Basic Questions with DID",
+      "tipo": "vocabulario",
+      "descricao": "Perguntas básicas usando DID + verbo base",
+      "itens": [
+        {
+          "ingles": "Did you go to the party last night?",
+          "portugues": "Você foi à festa ontem à noite?",
+          "fonetica": "/dɪd ju goʊ tu ðə ˈpɑrti læst naɪt/",
+          "tem_audio": true,
+          "contexto": "DID + YOU + GO (base form)"
+        },
+        {
+          "ingles": "Did she finish her homework?",
+          "portugues": "Ela terminou sua lição de casa?",
+          "fonetica": "/dɪd ʃi ˈfɪnɪʃ hər ˈhoʊmˌwɜrk/",
+          "tem_audio": true,
+          "contexto": "DID + SHE + FINISH (mesmo DID para todas as pessoas)"
+        },
+        {
+          "ingles": "Did they see the movie?",
+          "portugues": "Eles viram o filme?",
+          "fonetica": "/dɪd ðeɪ si ðə ˈmuvi/",
+          "tem_audio": true,
+          "contexto": "DID + THEY + SEE (base form, não 'saw')"
+        },
+        {
+          "ingles": "Did he buy a new car?",
+          "portugues": "Ele comprou um carro novo?",
+          "fonetica": "/dɪd hi baɪ ə nu kɑr/",
+          "tem_audio": true,
+          "contexto": "DID + HE + BUY (base form, não 'bought')"
+        },
+        {
+          "ingles": "Did we meet before?",
+          "portugues": "Nós nos conhecemos antes?",
+          "fonetica": "/dɪd wi mit bɪˈfɔr/",
+          "tem_audio": true,
+          "contexto": "DID + WE + MEET (base form, não 'met')"
+        }
+      ]
+    },
+    {
+      "id": "perguntas_verbo_be_passado",
+      "titulo": "Questions with Past BE - WAS and WERE",
+      "tipo": "vocabulario",
+      "descricao": "Perguntas com verbo BE no passado - inversão simples",
+      "itens": [
+        {
+          "ingles": "Was she at the meeting yesterday?",
+          "portugues": "Ela estava na reunião ontem?",
+          "fonetica": "/wʌz ʃi æt ðə ˈmitɪŋ ˈjɛstərdeɪ/",
+          "tem_audio": true,
+          "contexto": "WAS + SHE - inversão simples (para I, he, she, it)"
+        },
+        {
+          "ingles": "Were you at home last night?",
+          "portugues": "Você estava em casa ontem à noite?",
+          "fonetica": "/wər ju æt hoʊm læst naɪt/",
+          "tem_audio": true,
+          "contexto": "WERE + YOU - para you/we/they"
+        },
+        {
+          "ingles": "Was the test difficult?",
+          "portugues": "O teste estava difícil?",
+          "fonetica": "/wʌz ðə tɛst ˈdɪfəkəlt/",
+          "tem_audio": true,
+          "contexto": "WAS + subject (singular)"
+        },
+        {
+          "ingles": "Were they happy with the result?",
+          "portugues": "Eles estavam felizes com o resultado?",
+          "fonetica": "/wər ðeɪ ˈhæpi wɪð ðə rɪˈzʌlt/",
+          "tem_audio": true,
+          "contexto": "WERE + THEY (plural)"
+        },
+        {
+          "ingles": "Was I late for the meeting?",
+          "portugues": "Eu estava atrasado para a reunião?",
+          "fonetica": "/wʌz aɪ leɪt fɔr ðə ˈmitɪŋ/",
+          "tem_audio": true,
+          "contexto": "WAS + I - primeira pessoa singular"
+        }
+      ]
+    },
+    {
+      "id": "respostas_curtas_passado",
+      "titulo": "Short Answers in the Past",
+      "tipo": "vocabulario",
+      "descricao": "Respostas curtas no passado",
+      "itens": [
+        {
+          "ingles": "Did you go? - Yes, I did. / No, I didn't.",
+          "portugues": "Você foi? - Sim, eu fui. / Não, eu não fui.",
+          "fonetica": "/dɪd ju goʊ jɛs aɪ dɪd / noʊ aɪ ˈdɪdənt/",
+          "tem_audio": true,
+          "contexto": "Resposta curta com DID/DIDN'T"
+        },
+        {
+          "ingles": "Did she call? - Yes, she did. / No, she didn't.",
+          "portugues": "Ela ligou? - Sim, ela ligou. / Não, ela não ligou.",
+          "fonetica": "/dɪd ʃi kɔl jɛs ʃi dɪd / noʊ ʃi ˈdɪdənt/",
+          "tem_audio": true,
+          "contexto": "Terceira pessoa - mesmo padrão"
+        },
+        {
+          "ingles": "Were you there? - Yes, I was. / No, I wasn't.",
+          "portugues": "Você estava lá? - Sim, eu estava. / Não, eu não estava.",
+          "fonetica": "/wər ju ðɛr jɛs aɪ wʌz / noʊ aɪ ˈwʌzənt/",
+          "tem_audio": true,
+          "contexto": "BE verb - resposta com WAS/WASN'T"
+        },
+        {
+          "ingles": "Was it expensive? - Yes, it was. / No, it wasn't.",
+          "portugues": "Era caro? - Sim, era. / Não, não era.",
+          "fonetica": "/wʌz ɪt ɪkˈspɛnsɪv jɛs ɪt wʌz / noʊ ɪt ˈwʌzənt/",
+          "tem_audio": true,
+          "contexto": "IT subject - WAS/WASN'T"
+        },
+        {
+          "ingles": "Were they late? - Yes, they were. / No, they weren't.",
+          "portugues": "Eles estavam atrasados? - Sim, estavam. / Não, não estavam.",
+          "fonetica": "/wər ðeɪ leɪt jɛs ðeɪ wər / noʊ ðeɪ ˈwɜrənt/",
+          "tem_audio": true,
+          "contexto": "Plural - WERE/WEREN'T"
+        }
+      ]
+    },
+    {
+      "id": "wh_questions_passado",
+      "titulo": "WH-Questions in the Past",
+      "tipo": "vocabulario",
+      "descricao": "Perguntas WH no passado",
+      "itens": [
+        {
+          "ingles": "What did you do yesterday?",
+          "portugues": "O que você fez ontem?",
+          "fonetica": "/wʌt dɪd ju du ˈjɛstərdeɪ/",
+          "tem_audio": true,
+          "contexto": "WHAT + DID + subject + base verb"
+        },
+        {
+          "ingles": "Where did they go on vacation?",
+          "portugues": "Onde eles foram nas férias?",
+          "fonetica": "/wɛr dɪd ðeɪ goʊ ɑn veɪˈkeɪʃən/",
+          "tem_audio": true,
+          "contexto": "WHERE + DID - pergunta sobre lugar"
+        },
+        {
+          "ingles": "When did she arrive?",
+          "portugues": "Quando ela chegou?",
+          "fonetica": "/wɛn dɪd ʃi əˈraɪv/",
+          "tem_audio": true,
+          "contexto": "WHEN + DID - pergunta sobre tempo"
+        },
+        {
+          "ingles": "Why didn't you come to the party?",
+          "portugues": "Por que você não veio à festa?",
+          "fonetica": "/waɪ ˈdɪdənt ju kʌm tu ðə ˈpɑrti/",
+          "tem_audio": true,
+          "contexto": "WHY + DIDN'T - pergunta negativa sobre razão"
+        },
+        {
+          "ingles": "How did you learn English?",
+          "portugues": "Como você aprendeu inglês?",
+          "fonetica": "/haʊ dɪd ju lɜrn ˈɪŋglɪʃ/",
+          "tem_audio": true,
+          "contexto": "HOW + DID - pergunta sobre método"
+        }
+      ]
+    },
+    {
+      "id": "wh_questions_be_passado",
+      "titulo": "WH-Questions with Past BE",
+      "tipo": "vocabulario",
+      "descricao": "Perguntas WH com verbo BE no passado",
+      "itens": [
+        {
+          "ingles": "Where were you last night?",
+          "portugues": "Onde você estava ontem à noite?",
+          "fonetica": "/wɛr wər ju læst naɪt/",
+          "tem_audio": true,
+          "contexto": "WHERE + WERE - sem DID com BE"
+        },
+        {
+          "ingles": "What was the problem?",
+          "portugues": "Qual era o problema?",
+          "fonetica": "/wʌt wʌz ðə ˈprɑbləm/",
+          "tem_audio": true,
+          "contexto": "WHAT + WAS - identificando problema"
+        },
+        {
+          "ingles": "Who was at the meeting?",
+          "portugues": "Quem estava na reunião?",
+          "fonetica": "/hu wʌz æt ðə ˈmitɪŋ/",
+          "tem_audio": true,
+          "contexto": "WHO + WAS - pergunta sobre pessoas presentes"
+        },
+        {
+          "ingles": "How was your trip?",
+          "portugues": "Como foi sua viagem?",
+          "fonetica": "/haʊ wʌz jʊər trɪp/",
+          "tem_audio": true,
+          "contexto": "HOW + WAS - pergunta sobre experiência"
+        },
+        {
+          "ingles": "Why were they angry?",
+          "portugues": "Por que eles estavam bravos?",
+          "fonetica": "/waɪ wər ðeɪ ˈæŋgri/",
+          "tem_audio": true,
+          "contexto": "WHY + WERE - razão para sentimento"
+        }
+      ]
+    },
+    {
+      "id": "never_ever_already",
+      "titulo": "NEVER, EVER, ALREADY in the Past",
+      "tipo": "vocabulario",
+      "descricao": "Usando NEVER, EVER, ALREADY no passado",
+      "itens": [
+        {
+          "ingles": "I never saw that movie.",
+          "portugues": "Eu nunca vi aquele filme.",
+          "fonetica": "/aɪ ˈnɛvər sɔ ðæt ˈmuvi/",
+          "tem_audio": true,
+          "contexto": "NEVER + past verb (sem DID) - já é negativo"
+        },
+        {
+          "ingles": "Did you ever visit Paris?",
+          "portugues": "Você já visitou Paris?",
+          "fonetica": "/dɪd ju ˈɛvər ˈvɪzət ˈpɛrəs/",
+          "tem_audio": true,
+          "contexto": "EVER em pergunta - 'alguma vez na vida'"
+        },
+        {
+          "ingles": "She already finished her work.",
+          "portugues": "Ela já terminou seu trabalho.",
+          "fonetica": "/ʃi ɔlˈrɛdi ˈfɪnɪʃt hər wɜrk/",
+          "tem_audio": true,
+          "contexto": "ALREADY + past verb - algo completado"
+        },
+        {
+          "ingles": "We never went to that restaurant.",
+          "portugues": "Nós nunca fomos àquele restaurante.",
+          "fonetica": "/wi ˈnɛvər wɛnt tu ðæt ˈrɛstərənt/",
+          "tem_audio": true,
+          "contexto": "NEVER - substitui DIDN'T (não use ambos)"
+        },
+        {
+          "ingles": "Did they ever find their keys?",
+          "portugues": "Eles chegaram a encontrar as chaves?",
+          "fonetica": "/dɪd ðeɪ ˈɛvər faɪnd ðɛr kiz/",
+          "tem_audio": true,
+          "contexto": "EVER - perguntando se aconteceu"
+        }
+      ]
+    },
+    {
+      "id": "tag_questions_passado",
+      "titulo": "Tag Questions in the Past",
+      "tipo": "vocabulario",
+      "descricao": "Perguntas de confirmação no passado",
+      "itens": [
+        {
+          "ingles": "You went to the party, didn't you?",
+          "portugues": "Você foi à festa, não foi?",
+          "fonetica": "/ju wɛnt tu ðə ˈpɑrti ˈdɪdənt ju/",
+          "tem_audio": true,
+          "contexto": "Afirmativa + tag negativa - esperamos 'yes'"
+        },
+        {
+          "ingles": "She didn't call you, did she?",
+          "portugues": "Ela não te ligou, ligou?",
+          "fonetica": "/ʃi ˈdɪdənt kɔl ju dɪd ʃi/",
+          "tem_audio": true,
+          "contexto": "Negativa + tag positiva"
+        },
+        {
+          "ingles": "They were at home, weren't they?",
+          "portugues": "Eles estavam em casa, não estavam?",
+          "fonetica": "/ðeɪ wər æt hoʊm ˈwɜrənt ðeɪ/",
+          "tem_audio": true,
+          "contexto": "BE verb - WERE + WEREN'T"
+        },
+        {
+          "ingles": "He wasn't late, was he?",
+          "portugues": "Ele não estava atrasado, estava?",
+          "fonetica": "/hi ˈwʌzənt leɪt wʌz hi/",
+          "tem_audio": true,
+          "contexto": "WASN'T + WAS - confirmação"
+        },
+        {
+          "ingles": "It was expensive, wasn't it?",
+          "portugues": "Era caro, não era?",
+          "fonetica": "/ɪt wʌz ɪkˈspɛnsɪv ˈwʌzənt ɪt/",
+          "tem_audio": true,
+          "contexto": "WAS + WASN'T IT"
+        }
+      ]
+    },
+    {
+      "id": "erros_comuns",
+      "titulo": "Common Mistakes to Avoid",
+      "tipo": "vocabulario",
+      "descricao": "Erros comuns que devem ser evitados",
+      "itens": [
+        {
+          "ingles": "I didn't go. (CORRECT) - NOT 'I didn't went'",
+          "portugues": "Eu não fui. (CORRETO) - NÃO 'I didn't went'",
+          "fonetica": "/aɪ ˈdɪdənt goʊ/",
+          "tem_audio": true,
+          "contexto": "DIDN'T + base form (não past form)"
+        },
+        {
+          "ingles": "Did you see? (CORRECT) - NOT 'Did you saw?'",
+          "portugues": "Você viu? (CORRETO) - NÃO 'Did you saw?'",
+          "fonetica": "/dɪd ju si/",
+          "tem_audio": true,
+          "contexto": "DID + base form sempre"
+        },
+        {
+          "ingles": "She wasn't there. (CORRECT) - NOT 'She didn't be there'",
+          "portugues": "Ela não estava lá. (CORRETO) - NÃO 'She didn't be there'",
+          "fonetica": "/ʃi ˈwʌzənt ðɛr/",
+          "tem_audio": true,
+          "contexto": "BE verb usa WASN'T/WEREN'T (não DIDN'T)"
+        },
+        {
+          "ingles": "I never went. (CORRECT) - NOT 'I never didn't go'",
+          "portugues": "Eu nunca fui. (CORRETO) - NÃO 'I never didn't go'",
+          "fonetica": "/aɪ ˈnɛvər wɛnt/",
+          "tem_audio": true,
+          "contexto": "NEVER já é negativo - não use DIDN'T"
+        },
+        {
+          "ingles": "Were you there? (CORRECT) - NOT 'Did you were there?'",
+          "portugues": "Você estava lá? (CORRETO) - NÃO 'Did you were there?'",
+          "fonetica": "/wər ju ðɛr/",
+          "tem_audio": true,
+          "contexto": "BE verb - inversão direta (sem DID)"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue with Past Negatives and Questions",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando negação e perguntas no passado",
+      "participantes": ["Ana", "Carlos"],
+      "conversas": [
+        {
+          "falante": "Ana",
+          "ingles": "Hi Carlos! I didn't see you at the meeting yesterday. Were you sick?",
+          "portugues": "Oi Carlos! Não te vi na reunião ontem. Você estava doente?",
+          "fonetica": "/haɪ ˈkɑrloʊs aɪ ˈdɪdənt si ju æt ðə ˈmitɪŋ ˈjɛstərdeɪ wər ju sɪk/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "No, I wasn't sick. I had to take my daughter to the doctor. Did I miss anything important?",
+          "portugues": "Não, eu não estava doente. Tive que levar minha filha ao médico. Perdi algo importante?",
+          "fonetica": "/noʊ aɪ ˈwʌzənt sɪk aɪ hæd tu teɪk maɪ ˈdɔtər tu ðə ˈdɑktər dɪd aɪ mɪs ˈɛniθɪŋ ɪmˈpɔrtənt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Ana",
+          "ingles": "Well, the boss announced the new project deadlines. Didn't anyone tell you about it? The marketing team wasn't very happy.",
+          "portugues": "Bem, o chefe anunciou os prazos do novo projeto. Ninguém te contou sobre isso? O time de marketing não ficou muito feliz.",
+          "fonetica": "/wɛl ðə bɔs əˈnaʊnst ðə nu ˈprɑdʒɛkt ˈdɛdˌlaɪnz ˈdɪdənt ˈɛniˌwʌn tɛl ju əˈbaʊt ɪt ðə ˈmɑrkətɪŋ tim ˈwʌzənt ˈvɛri ˈhæpi/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "No, nobody told me! What did he say exactly? Were the deadlines moved up?",
+          "portugues": "Não, ninguém me contou! O que ele disse exatamente? Os prazos foram antecipados?",
+          "fonetica": "/noʊ ˈnoʊˌbɑdi toʊld mi wʌt dɪd hi seɪ ɪgˈzæktli wər ðə ˈdɛdˌlaɪnz muvd ʌp/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Ana",
+          "ingles": "Yes, they were! The final presentation is now next Friday instead of next month. Sarah didn't look pleased at all. Did you finish your part already?",
+          "portugues": "Sim, foram! A apresentação final é agora na próxima sexta em vez do mês que vem. A Sarah não pareceu nada satisfeita. Você já terminou sua parte?",
+          "fonetica": "/jɛs ðeɪ wər ðə ˈfaɪnəl ˌprɛzənˈteɪʃən ɪz naʊ nɛkst ˈfraɪdeɪ ɪnˈstɛd ʌv nɛkst mʌnθ ˈsɛrə ˈdɪdənt lʊk plizd æt ɔl dɪd ju ˈfɪnɪʃ jʊər pɑrt ɔlˈrɛdi/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "Actually, I did! I completed it last week because I thought we had more time. Lucky me! But I didn't know about the deadline change. Thanks for telling me!",
+          "portugues": "Na verdade, terminei! Completei na semana passada porque pensei que tínhamos mais tempo. Sorte minha! Mas eu não sabia sobre a mudança de prazo. Obrigado por me contar!",
+          "fonetica": "/ˈæktʃuəli aɪ dɪd aɪ kəmˈplitəd ɪt læst wik bɪˈkɔz aɪ θɔt wi hæd mɔr taɪm ˈlʌki mi bʌt aɪ ˈdɪdənt noʊ əˈbaʊt ðə ˈdɛdˌlaɪn tʃeɪndʒ θæŋks fɔr ˈtɛlɪŋ mi/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - What I Didn't Do Yesterday",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let me tell you about what I didn't do yesterday, and ask some questions about your day too! I didn't wake up early yesterday morning - I overslept until 9 AM because I forgot to set my alarm. I wasn't happy about that! Did you wake up on time yesterday? I didn't have breakfast at home because I was running late, so I didn't eat anything until lunch. Weren't you hungry if you skipped breakfast too? I didn't take the bus to work like I usually do. Instead, I called a taxi, but it didn't arrive quickly. Was your commute smooth yesterday? At work, I didn't finish the report that was due because I didn't have all the information I needed. My colleague wasn't at the office, so I couldn't ask her for help. Did you have any work challenges yesterday? I didn't go to the gym after work because I wasn't feeling energetic. I didn't cook dinner either - I wasn't in the mood for cooking. Instead, I ordered pizza, but it didn't taste as good as I expected. What did you have for dinner? Did you cook or order takeout? I didn't watch my favorite TV show because it wasn't on yesterday. I didn't read my book either because I couldn't find it anywhere. Were you bored without your usual entertainment? I didn't go to bed early like I planned. I wasn't tired enough, so I stayed up until midnight browsing social media. I didn't feel rested this morning because of that! Did you get enough sleep last night, or were you tired today too? Sometimes we learn just as much from what we didn't do as from what we did do, don't you think?",
+        "texto_portugues": "Deixe-me contar sobre o que eu não fiz ontem, e fazer algumas perguntas sobre seu dia também! Eu não acordei cedo ontem de manhã - dormi demais até as 9h porque esqueci de colocar o despertador. Não fiquei feliz com isso! Você acordou na hora ontem? Não tomei café da manhã em casa porque estava atrasado, então não comi nada até o almoço. Você não ficou com fome se também pulou o café da manhã? Não peguei o ônibus para o trabalho como geralmente faço. Em vez disso, chamei um táxi, mas não chegou rapidamente. Seu trajeto foi tranquilo ontem? No trabalho, não terminei o relatório que vencia porque não tinha todas as informações que precisava. Minha colega não estava no escritório, então não pude pedir ajuda a ela. Você teve algum desafio no trabalho ontem? Não fui à academia depois do trabalho porque não estava me sentindo energético. Também não cozinhei o jantar - não estava com humor para cozinhar. Em vez disso, pedi pizza, mas não estava tão gostosa quanto esperava. O que você jantou? Você cozinhou ou pediu comida? Não assisti meu programa de TV favorito porque não passou ontem. Também não li meu livro porque não consegui encontrá-lo em lugar nenhum. Você ficou entediado sem seu entretenimento usual? Não fui dormir cedo como planejei. Não estava cansado o suficiente, então fiquei acordado até meia-noite navegando nas redes sociais. Não me senti descansado esta manhã por causa disso! Você dormiu o suficiente ontem à noite, ou também estava cansado hoje? Às vezes aprendemos tanto com o que não fizemos quanto com o que fizemos, você não acha?",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Mastering Past Negatives and Questions",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are essential tips for mastering past negatives and questions: 1) Remember the magic rule: DIDN'T/DID + base form (never past form!). 2) BE verb is different - use WASN'T/WEREN'T for negatives, WAS/WERE for questions (no DID needed). 3) Short answers: 'Yes, I did/No, I didn't' and 'Yes, I was/No, I wasn't'. 4) NEVER already means 'not' - don't use DIDN'T with NEVER. 5) Practice the most common question words: What did you...? Where did you...? When did you...? 6) Tag questions follow the same pattern: positive statement + negative tag, or negative statement + positive tag. 7) The main verb ALWAYS returns to base form after DID/DIDN'T, even irregular verbs! 8) Listen for past time expressions: yesterday, last week, ago, when I was young, etc.",
+        "texto_portugues": "Aqui estão dicas essenciais para dominar negativas e perguntas no passado: 1) Lembre da regra mágica: DIDN'T/DID + forma base (nunca forma do passado!). 2) Verbo BE é diferente - use WASN'T/WEREN'T para negativas, WAS/WERE para perguntas (sem precisar de DID). 3) Respostas curtas: 'Yes, I did/No, I didn't' e 'Yes, I was/No, I wasn't'. 4) NEVER já significa 'não' - não use DIDN'T com NEVER. 5) Pratique as palavras interrogativas mais comuns: What did you...? Where did you...? When did you...? 6) Tag questions seguem o mesmo padrão: frase positiva + tag negativa, ou frase negativa + tag positiva. 7) O verbo principal SEMPRE volta à forma base depois de DID/DIDN'T, mesmo verbos irregulares! 8) Escute expressões de tempo passado: yesterday, last week, ago, when I was young, etc.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice past negatives and questions everywhere! Start by talking about what you didn't do yesterday: 'I didn't go to...', 'I wasn't at...', 'I didn't eat...'. Then ask questions about others' past experiences: 'Did you go to...?', 'Were you at...?', 'What did you do...?'. Practice short answers: 'Yes, I did', 'No, I didn't', 'Yes, I was', 'No, I wasn't'. Create WH-questions about the past: 'Where did you grow up?', 'When did you start learning English?', 'Why didn't you come?'. Remember the golden rule: after DID/DIDN'T, always use the base form of the verb. Master these patterns and you'll be able to talk naturally about past events, both positive and negative!",
+        "texto_portugues": "Agora pratique negativas e perguntas do passado em todos os lugares! Comece falando sobre o que você não fez ontem: 'I didn't go to...', 'I wasn't at...', 'I didn't eat...'. Depois faça perguntas sobre experiências passadas dos outros: 'Did you go to...?', 'Were you at...?', 'What did you do...?'. Pratique respostas curtas: 'Yes, I did', 'No, I didn't', 'Yes, I was', 'No, I wasn't'. Crie perguntas WH sobre o passado: 'Where did you grow up?', 'When did you start learning English?', 'Why didn't you come?'. Lembre da regra de ouro: depois de DID/DIDN'T, sempre use a forma base do verbo. Domine esses padrões e você será capaz de falar naturalmente sobre eventos passados, tanto positivos quanto negativos!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
