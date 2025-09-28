@@ -1,0 +1,435 @@
+{
+  "titulo": "Present Continuous",
+  "descricao": "Domine o Present Continuous! Aprenda a falar sobre ações que estão acontecendo agora e situações temporárias.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "Understanding Present Continuous",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "The Present Continuous (also called Present Progressive) describes actions happening RIGHT NOW or temporary situations. We form it with 'to be' + verb + -ing. It's essential for describing what you're doing at the moment of speaking. This tense makes your English sound natural and immediate!",
+        "texto_portugues": "O Present Continuous (também chamado Present Progressive) descreve ações acontecendo AGORA mesmo ou situações temporárias. Formamos com 'to be' + verbo + -ing. É essencial para descrever o que você está fazendo no momento da fala. Este tempo verbal faz seu inglês soar natural e imediato!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "formacao_basica",
+      "titulo": "Basic Formation: BE + VERB-ing",
+      "tipo": "vocabulario",
+      "descricao": "Como formar o Present Continuous",
+      "itens": [
+        {
+          "ingles": "I am working. (I'm working)",
+          "portugues": "Eu estou trabalhando.",
+          "fonetica": "/aɪ æm ˈwɜrkɪŋ / aɪm ˈwɜrkɪŋ/",
+          "tem_audio": true,
+          "contexto": "I + AM + verb-ing"
+        },
+        {
+          "ingles": "You are studying. (You're studying)",
+          "portugues": "Você está estudando.",
+          "fonetica": "/ju ɑr ˈstʌdiɪŋ / jʊr ˈstʌdiɪŋ/",
+          "tem_audio": true,
+          "contexto": "You + ARE + verb-ing"
+        },
+        {
+          "ingles": "He is reading. (He's reading)",
+          "portugues": "Ele está lendo.",
+          "fonetica": "/hi ɪz ˈridɪŋ / hiz ˈridɪŋ/",
+          "tem_audio": true,
+          "contexto": "He/She/It + IS + verb-ing"
+        },
+        {
+          "ingles": "We are eating. (We're eating)",
+          "portugues": "Nós estamos comendo.",
+          "fonetica": "/wi ɑr ˈitɪŋ / wɪr ˈitɪŋ/",
+          "tem_audio": true,
+          "contexto": "We/They + ARE + verb-ing"
+        }
+      ]
+    },
+    {
+      "id": "regras_ing",
+      "titulo": "Rules for Adding -ING",
+      "tipo": "vocabulario",
+      "descricao": "Regras para adicionar -ing aos verbos",
+      "itens": [
+        {
+          "ingles": "work → working / play → playing",
+          "portugues": "trabalhar → trabalhando / brincar → brincando",
+          "fonetica": "/wɜrk → ˈwɜrkɪŋ / pleɪ → ˈpleɪɪŋ/",
+          "tem_audio": true,
+          "contexto": "Most verbs: just add -ing"
+        },
+        {
+          "ingles": "make → making / write → writing",
+          "portugues": "fazer → fazendo / escrever → escrevendo",
+          "fonetica": "/meɪk → ˈmeɪkɪŋ / raɪt → ˈraɪtɪŋ/",
+          "tem_audio": true,
+          "contexto": "Verbs ending in -e: drop -e, add -ing"
+        },
+        {
+          "ingles": "run → running / sit → sitting",
+          "portugues": "correr → correndo / sentar → sentando",
+          "fonetica": "/rʌn → ˈrʌnɪŋ / sɪt → ˈsɪtɪŋ/",
+          "tem_audio": true,
+          "contexto": "Short verbs ending in consonant-vowel-consonant: double final consonant"
+        },
+        {
+          "ingles": "study → studying / try → trying",
+          "portugues": "estudar → estudando / tentar → tentando",
+          "fonetica": "/ˈstʌdi → ˈstʌdiɪŋ / traɪ → ˈtraɪɪŋ/",
+          "tem_audio": true,
+          "contexto": "Verbs ending in -y: just add -ing (don't change y)"
+        }
+      ]
+    },
+    {
+      "id": "usos_principais",
+      "titulo": "Main Uses of Present Continuous",
+      "tipo": "vocabulario",
+      "descricao": "Principais usos do Present Continuous",
+      "itens": [
+        {
+          "ingles": "I'm watching TV right now.",
+          "portugues": "Eu estou assistindo TV agora mesmo.",
+          "fonetica": "/aɪm ˈwɑtʃɪŋ ˌtiˈvi raɪt naʊ/",
+          "tem_audio": true,
+          "contexto": "Actions happening at the moment of speaking"
+        },
+        {
+          "ingles": "She's learning English this year.",
+          "portugues": "Ela está aprendendo inglês este ano.",
+          "fonetica": "/ʃiz ˈlɜrnɪŋ ˈɪŋglɪʃ ðɪs jɪr/",
+          "tem_audio": true,
+          "contexto": "Temporary situations or ongoing processes"
+        },
+        {
+          "ingles": "They're building a new house.",
+          "portugues": "Eles estão construindo uma casa nova.",
+          "fonetica": "/ðɛr ˈbɪldɪŋ ə nu haʊs/",
+          "tem_audio": true,
+          "contexto": "Actions in progress over a period of time"
+        },
+        {
+          "ingles": "We're having dinner at 7 PM tonight.",
+          "portugues": "Nós vamos jantar às 7h hoje à noite.",
+          "fonetica": "/wɪr ˈhævɪŋ ˈdɪnər æt ˈsɛvən ˌpiˈɛm təˈnaɪt/",
+          "tem_audio": true,
+          "contexto": "Future arrangements (planned activities)"
+        }
+      ]
+    },
+    {
+      "id": "expressoes_tempo",
+      "titulo": "Time Expressions with Present Continuous",
+      "tipo": "vocabulario",
+      "descricao": "Expressões de tempo usadas com Present Continuous",
+      "itens": [
+        {
+          "ingles": "I'm cooking dinner now.",
+          "portugues": "Eu estou cozinhando o jantar agora.",
+          "fonetica": "/aɪm ˈkʊkɪŋ ˈdɪnər naʊ/",
+          "tem_audio": true,
+          "contexto": "NOW - at this moment"
+        },
+        {
+          "ingles": "He's working at the moment.",
+          "portugues": "Ele está trabalhando no momento.",
+          "fonetica": "/hiz ˈwɜrkɪŋ æt ðə ˈmoʊmənt/",
+          "tem_audio": true,
+          "contexto": "AT THE MOMENT - right now"
+        },
+        {
+          "ingles": "We're studying English today.",
+          "portugues": "Nós estamos estudando inglês hoje.",
+          "fonetica": "/wɪr ˈstʌdiɪŋ ˈɪŋglɪʃ təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "TODAY - during this day"
+        },
+        {
+          "ingles": "She's living in London this month.",
+          "portugues": "Ela está morando em Londres este mês.",
+          "fonetica": "/ʃiz ˈlɪvɪŋ ɪn ˈlʌndən ðɪs mʌnθ/",
+          "tem_audio": true,
+          "contexto": "THIS WEEK/MONTH/YEAR - temporary period"
+        },
+        {
+          "ingles": "They're always complaining!",
+          "portugues": "Eles estão sempre reclamando!",
+          "fonetica": "/ðɛr ˈɔlweɪz kəmˈpleɪnɪŋ/",
+          "tem_audio": true,
+          "contexto": "ALWAYS (with continuous) - criticism or annoyance"
+        }
+      ]
+    },
+    {
+      "id": "presente_simples_vs_continuo",
+      "titulo": "Present Simple vs Present Continuous",
+      "tipo": "vocabulario",
+      "descricao": "Diferença entre Present Simple e Present Continuous",
+      "itens": [
+        {
+          "ingles": "I work in an office. / I'm working in an office today.",
+          "portugues": "Eu trabalho num escritório. / Eu estou trabalhando num escritório hoje.",
+          "fonetica": "/aɪ wɜrk ɪn æn ˈɔfəs / aɪm ˈwɜrkɪŋ ɪn æn ˈɔfəs təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "Permanent job vs temporary situation"
+        },
+        {
+          "ingles": "She lives in Paris. / She's living in Paris this year.",
+          "portugues": "Ela mora em Paris. / Ela está morando em Paris este ano.",
+          "fonetica": "/ʃi lɪvz ɪn ˈpɛrəs / ʃiz ˈlɪvɪŋ ɪn ˈpɛrəs ðɪs jɪr/",
+          "tem_audio": true,
+          "contexto": "Permanent residence vs temporary stay"
+        },
+        {
+          "ingles": "We go to school. / We're going to school now.",
+          "portugues": "Nós vamos à escola. / Nós estamos indo à escola agora.",
+          "fonetica": "/wi goʊ tu skul / wɪr ˈgoʊɪŋ tu skul naʊ/",
+          "tem_audio": true,
+          "contexto": "Regular routine vs action happening now"
+        }
+      ]
+    },
+    {
+      "id": "verbos_nao_continuos",
+      "titulo": "Verbs NOT Used in Continuous",
+      "tipo": "vocabulario",
+      "descricao": "Verbos que normalmente não usamos no Present Continuous",
+      "itens": [
+        {
+          "ingles": "I know the answer. (NOT: I'm knowing)",
+          "portugues": "Eu sei a resposta. (NÃO: Eu estou sabendo)",
+          "fonetica": "/aɪ noʊ ði ˈænsər/",
+          "tem_audio": true,
+          "contexto": "KNOW - mental state, not action"
+        },
+        {
+          "ingles": "She loves chocolate. (NOT: She's loving)",
+          "portugues": "Ela ama chocolate. (NÃO: Ela está amando)",
+          "fonetica": "/ʃi lʌvz ˈtʃɔklət/",
+          "tem_audio": true,
+          "contexto": "LOVE - emotion, permanent feeling"
+        },
+        {
+          "ingles": "This belongs to me. (NOT: This is belonging)",
+          "portugues": "Isso pertence a mim. (NÃO: Isso está pertencendo)",
+          "fonetica": "/ðɪs bəˈlɔŋz tu mi/",
+          "tem_audio": true,
+          "contexto": "BELONG - possession, not action"
+        },
+        {
+          "ingles": "I understand you. (NOT: I'm understanding)",
+          "portugues": "Eu te entendo. (NÃO: Eu estou entendendo)",
+          "fonetica": "/aɪ ˌʌndərˈstænd ju/",
+          "tem_audio": true,
+          "contexto": "UNDERSTAND - mental process, not physical action"
+        }
+      ]
+    },
+    {
+      "id": "perguntas_respostas",
+      "titulo": "Questions and Answers",
+      "tipo": "vocabulario",
+      "descricao": "Como fazer perguntas e respostas no Present Continuous",
+      "itens": [
+        {
+          "ingles": "Are you working? - Yes, I am. / No, I'm not.",
+          "portugues": "Você está trabalhando? - Sim, estou. / Não, não estou.",
+          "fonetica": "/ɑr ju ˈwɜrkɪŋ - jɛs aɪ æm / noʊ aɪm nɑt/",
+          "tem_audio": true,
+          "contexto": "Yes/No questions: move 'be' to the beginning"
+        },
+        {
+          "ingles": "What are you doing? - I'm reading a book.",
+          "portugues": "O que você está fazendo? - Eu estou lendo um livro.",
+          "fonetica": "/wʌt ɑr ju ˈduɪŋ - aɪm ˈridɪŋ ə bʊk/",
+          "tem_audio": true,
+          "contexto": "WH-questions: question word + be + subject + verb-ing"
+        },
+        {
+          "ingles": "Where is she going? - She's going to the store.",
+          "portugues": "Onde ela está indo? - Ela está indo à loja.",
+          "fonetica": "/wɛr ɪz ʃi ˈgoʊɪŋ - ʃiz ˈgoʊɪŋ tu ðə stɔr/",
+          "tem_audio": true,
+          "contexto": "Questions about direction or destination"
+        },
+        {
+          "ingles": "Who is calling? - My mom is calling.",
+          "portugues": "Quem está ligando? - Minha mãe está ligando.",
+          "fonetica": "/hu ɪz ˈkɔlɪŋ - maɪ mɑm ɪz ˈkɔlɪŋ/",
+          "tem_audio": true,
+          "contexto": "Questions about who is doing the action"
+        }
+      ]
+    },
+    {
+      "id": "negativa_present_continuous",
+      "titulo": "Negative Form",
+      "tipo": "vocabulario",
+      "descricao": "Como formar negativas no Present Continuous",
+      "itens": [
+        {
+          "ingles": "I'm not working today.",
+          "portugues": "Eu não estou trabalhando hoje.",
+          "fonetica": "/aɪm nɑt ˈwɜrkɪŋ təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "I AM NOT = I'm not (only one contraction possible)"
+        },
+        {
+          "ingles": "You aren't listening. / You're not listening.",
+          "portugues": "Você não está escutando.",
+          "fonetica": "/ju ˈɑrənt ˈlɪsənɪŋ / jʊr nɑt ˈlɪsənɪŋ/",
+          "tem_audio": true,
+          "contexto": "ARE NOT = aren't OR 're not (two contractions possible)"
+        },
+        {
+          "ingles": "He isn't coming. / He's not coming.",
+          "portugues": "Ele não está vindo.",
+          "fonetica": "/hi ˈɪzənt ˈkʌmɪŋ / hiz nɑt ˈkʌmɪŋ/",
+          "tem_audio": true,
+          "contexto": "IS NOT = isn't OR 's not"
+        },
+        {
+          "ingles": "We aren't studying tonight.",
+          "portugues": "Nós não estamos estudando hoje à noite.",
+          "fonetica": "/wi ˈɑrənt ˈstʌdiɪŋ təˈnaɪt/",
+          "tem_audio": true,
+          "contexto": "Future arrangement in negative"
+        }
+      ]
+    },
+    {
+      "id": "situacoes_comuns",
+      "titulo": "Common Everyday Situations",
+      "tipo": "vocabulario",
+      "descricao": "Situações comuns usando Present Continuous",
+      "itens": [
+        {
+          "ingles": "I'm taking a shower.",
+          "portugues": "Eu estou tomando banho.",
+          "fonetica": "/aɪm ˈteɪkɪŋ ə ˈʃaʊər/",
+          "tem_audio": true,
+          "contexto": "Daily routine happening now"
+        },
+        {
+          "ingles": "She's making breakfast.",
+          "portugues": "Ela está fazendo o café da manhã.",
+          "fonetica": "/ʃiz ˈmeɪkɪŋ ˈbrɛkfəst/",
+          "tem_audio": true,
+          "contexto": "Cooking activity in progress"
+        },
+        {
+          "ingles": "They're playing football.",
+          "portugues": "Eles estão jogando futebol.",
+          "fonetica": "/ðɛr ˈpleɪɪŋ ˈfʊtˌbɔl/",
+          "tem_audio": true,
+          "contexto": "Sports or games happening now"
+        },
+        {
+          "ingles": "The baby is sleeping.",
+          "portugues": "O bebê está dormindo.",
+          "fonetica": "/ðə ˈbeɪbi ɪz ˈslipɪŋ/",
+          "tem_audio": true,
+          "contexto": "Current state or activity"
+        },
+        {
+          "ingles": "It's raining outside.",
+          "portugues": "Está chovendo lá fora.",
+          "fonetica": "/ɪts ˈreɪnɪŋ ˌaʊtˈsaɪd/",
+          "tem_audio": true,
+          "contexto": "Weather happening now"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue - Phone Conversation",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando Present Continuous",
+      "participantes": ["Lisa", "Tom"],
+      "conversas": [
+        {
+          "falante": "Lisa",
+          "ingles": "Hi Tom! What are you doing right now?",
+          "portugues": "Oi Tom! O que você está fazendo agora?",
+          "fonetica": "/haɪ tɑm wʌt ɑr ju ˈduɪŋ raɪt naʊ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Tom",
+          "ingles": "I'm cooking dinner for my family. What about you?",
+          "portugues": "Eu estou cozinhando o jantar para minha família. E você?",
+          "fonetica": "/aɪm ˈkʊkɪŋ ˈdɪnər fɔr maɪ ˈfæməli wʌt əˈbaʊt ju/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Lisa",
+          "ingles": "I'm watching a movie with my sister. We're having a lazy Sunday!",
+          "portugues": "Eu estou assistindo um filme com minha irmã. Estamos tendo um domingo preguiçoso!",
+          "fonetica": "/aɪm ˈwɑtʃɪŋ ə ˈmuvi wɪð maɪ ˈsɪstər wɪr ˈhævɪŋ ə ˈleɪzi ˈsʌndeɪ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Tom",
+          "ingles": "That sounds nice! Is it still raining there?",
+          "portugues": "Isso parece legal! Ainda está chovendo aí?",
+          "fonetica": "/ðæt saʊndz naɪs ɪz ɪt stɪl ˈreɪnɪŋ ðɛr/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Lisa",
+          "ingles": "Yes, it's raining heavily. That's why we're staying inside today.",
+          "portugues": "Sim, está chovendo forte. É por isso que estamos ficando dentro de casa hoje.",
+          "fonetica": "/jɛs ɪts ˈreɪnɪŋ ˈhɛvəli ðæts waɪ wɪr ˈsteɪɪŋ ɪnˈsaɪd təˈdeɪ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Tom",
+          "ingles": "Good idea! By the way, are you coming to Sarah's party next weekend?",
+          "portugues": "Boa ideia! A propósito, você está vindo para a festa da Sarah no próximo fim de semana?",
+          "fonetica": "/gʊd aɪˈdiə baɪ ðə weɪ ɑr ju ˈkʌmɪŋ tu ˈsɛrəz ˈpɑrti nɛkst ˈwikˌɛnd/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Lisa",
+          "ingles": "Yes! I'm really looking forward to it. We're planning something special for her.",
+          "portugues": "Sim! Eu estou realmente ansiosa por isso. Estamos planejando algo especial para ela.",
+          "fonetica": "/jɛs aɪm ˈrɪli ˈlʊkɪŋ ˈfɔrwərd tu ɪt wɪr ˈplænɪŋ ˈsʌmθɪŋ ˈspɛʃəl fɔr hər/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - A Busy Day",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "It's 8 AM and everyone in my family is getting ready for the day. My mom is making breakfast in the kitchen while my dad is taking a shower upstairs. My little brother is still sleeping - he's always sleeping late on weekdays! I'm getting dressed and listening to music. The radio is playing my favorite song. Outside, it's raining lightly, so we're all taking umbrellas today. My mom is preparing lunch boxes for everyone. She's always taking care of us! Dad is now coming downstairs and reading the news on his phone. He's checking the weather forecast too. My brother is finally waking up - I can hear him moving around in his room. We're all having breakfast together now. Mom is drinking coffee, Dad is eating toast, and my brother is complaining about school. This is our typical morning routine, but today feels special because we're all spending time together before starting our busy day. Everyone is talking and laughing - I love these family moments!",
+        "texto_portugues": "São 8h da manhã e todos na minha família estão se preparando para o dia. Minha mãe está fazendo o café da manhã na cozinha enquanto meu pai está tomando banho no andar de cima. Meu irmão pequeno ainda está dormindo - ele está sempre dormindo até tarde nos dias de semana! Eu estou me vestindo e escutando música. O rádio está tocando minha música favorita. Lá fora, está chovendo levemente, então todos estamos pegando guarda-chuvas hoje. Minha mãe está preparando lancheiras para todos. Ela está sempre cuidando da gente! Papai agora está descendo e lendo as notícias no celular. Ele também está verificando a previsão do tempo. Meu irmão finalmente está acordando - posso ouvi-lo se mexendo no quarto. Agora estamos todos tomando café da manhã juntos. Mamãe está bebendo café, papai está comendo torrada, e meu irmão está reclamando da escola. Esta é nossa rotina matinal típica, mas hoje parece especial porque estamos todos passando tempo juntos antes de começar nosso dia corrido. Todo mundo está conversando e rindo - eu amo esses momentos em família!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_importantes",
+      "titulo": "Essential Tips for Present Continuous",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Remember these key points: 1) Use Present Continuous for actions happening NOW or temporary situations. 2) Formation: BE + verb-ing (I'm working, she's reading). 3) Some verbs don't use continuous form (know, love, understand, belong). 4) For questions, move 'be' to the front (Are you working?). 5) Use time expressions like 'now', 'at the moment', 'today', 'this week'. 6) Don't confuse with Present Simple - continuous is for temporary/happening now, simple is for routine/permanent.",
+        "texto_portugues": "Lembre-se desses pontos-chave: 1) Use Present Continuous para ações acontecendo AGORA ou situações temporárias. 2) Formação: BE + verbo-ing (I'm working, she's reading). 3) Alguns verbos não usam forma contínua (know, love, understand, belong). 4) Para perguntas, mova 'be' para frente (Are you working?). 5) Use expressões de tempo como 'now', 'at the moment', 'today', 'this week'. 6) Não confunda com Present Simple - contínuo é para temporário/acontecendo agora, simples é para rotina/permanente.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice! Look around you and describe what's happening using Present Continuous. What are you doing right now? What are people around you doing? Create questions: 'What are you wearing?' 'Where are you sitting?' Practice the -ing forms of different verbs. Talk about your temporary situations: 'I'm learning English', 'I'm working on a project'. Remember: Present Continuous brings your English to life by describing the immediate moment!",
+        "texto_portugues": "Agora pratique! Olhe ao seu redor e descreva o que está acontecendo usando Present Continuous. O que você está fazendo agora? O que as pessoas ao seu redor estão fazendo? Crie perguntas: 'What are you wearing?' 'Where are you sitting?' Pratique as formas -ing de diferentes verbos. Fale sobre suas situações temporárias: 'I'm learning English', 'I'm working on a project'. Lembre-se: Present Continuous dá vida ao seu inglês descrevendo o momento imediato!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
