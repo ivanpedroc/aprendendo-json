@@ -1,0 +1,527 @@
+{
+  "titulo": "Horas e Tempo",
+  "descricao": "Aprenda a dizer e perguntar as horas em inglês! Domine horários, sistema de 12 e 24 horas, e expressões temporais essenciais.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What is Time in English?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Telling time is one of the most essential skills in English! We use time to schedule meetings, catch buses, make appointments, and organize our daily lives. English has specific ways to express hours, minutes, and different parts of the day. There are also two main systems: the 12-hour system (with AM/PM) commonly used in the US, and the 24-hour system used in many other countries. Learning to tell time correctly will help you be punctual and communicate effectively about schedules and appointments.",
+        "texto_portugues": "Dizer as horas é uma das habilidades mais essenciais em inglês! Usamos o tempo para agendar reuniões, pegar ônibus, marcar compromissos e organizar nossas vidas diárias. O inglês tem maneiras específicas de expressar horas, minutos e diferentes partes do dia. Há também dois sistemas principais: o sistema de 12 horas (com AM/PM) comumente usado nos EUA, e o sistema de 24 horas usado em muitos outros países. Aprender a dizer as horas corretamente ajudará você a ser pontual e se comunicar efetivamente sobre horários e compromissos.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "horas_exatas",
+      "titulo": "Exact Hours - O'clock",
+      "tipo": "vocabulario",
+      "descricao": "Horas exatas usando O'CLOCK",
+      "itens": [
+        {
+          "ingles": "It's one o'clock.",
+          "portugues": "É uma hora.",
+          "fonetica": "/ɪts wʌn əˈklɑk/",
+          "tem_audio": true,
+          "contexto": "ONE O'CLOCK - 1:00 (sempre singular para 'one')"
+        },
+        {
+          "ingles": "It's three o'clock.",
+          "portugues": "São três horas.",
+          "fonetica": "/ɪts θri əˈklɑk/",
+          "tem_audio": true,
+          "contexto": "THREE O'CLOCK - 3:00"
+        },
+        {
+          "ingles": "It's twelve o'clock.",
+          "portugues": "São doze horas.",
+          "fonetica": "/ɪts twɛlv əˈklɑk/",
+          "tem_audio": true,
+          "contexto": "TWELVE O'CLOCK - meio-dia ou meia-noite (contexto determina)"
+        },
+        {
+          "ingles": "What time is it? It's seven o'clock.",
+          "portugues": "Que horas são? São sete horas.",
+          "fonetica": "/wʌt taɪm ɪz ɪt ɪts ˈsɛvən əˈklɑk/",
+          "tem_audio": true,
+          "contexto": "Pergunta e resposta básica sobre horário"
+        },
+        {
+          "ingles": "The meeting is at nine o'clock.",
+          "portugues": "A reunião é às nove horas.",
+          "fonetica": "/ðə ˈmitɪŋ ɪz æt naɪn əˈklɑk/",
+          "tem_audio": true,
+          "contexto": "AT + hour - marcando horário específico"
+        }
+      ]
+    },
+    {
+      "id": "meia_hora_quarter",
+      "titulo": "Half Past and Quarter Past/To",
+      "tipo": "vocabulario",
+      "descricao": "Meia hora e um quarto (15 minutos)",
+      "itens": [
+        {
+          "ingles": "It's half past two.",
+          "portugues": "São duas e meia.",
+          "fonetica": "/ɪts hæf pæst tu/",
+          "tem_audio": true,
+          "contexto": "HALF PAST - 30 minutos após a hora (2:30)"
+        },
+        {
+          "ingles": "It's quarter past four.",
+          "portugues": "São quatro e quinze.",
+          "fonetica": "/ɪts ˈkwɔrtər pæst fɔr/",
+          "tem_audio": true,
+          "contexto": "QUARTER PAST - 15 minutos após a hora (4:15)"
+        },
+        {
+          "ingles": "It's quarter to six.",
+          "portugues": "São quinze para as seis.",
+          "fonetica": "/ɪts ˈkwɔrtər tu sɪks/",
+          "tem_audio": true,
+          "contexto": "QUARTER TO - 15 minutos antes da hora (5:45)"
+        },
+        {
+          "ingles": "I'll meet you at half past seven.",
+          "portugues": "Encontro você às sete e meia.",
+          "fonetica": "/aɪl mit ju æt hæf pæst ˈsɛvən/",
+          "tem_audio": true,
+          "contexto": "AT + half past - marcando encontro"
+        },
+        {
+          "ingles": "The train leaves at quarter to nine.",
+          "portugues": "O trem parte às quinze para as nove.",
+          "fonetica": "/ðə treɪn livz æt ˈkwɔrtər tu naɪn/",
+          "tem_audio": true,
+          "contexto": "Horário de transporte público"
+        }
+      ]
+    },
+    {
+      "id": "minutos_especificos",
+      "titulo": "Specific Minutes - Past and To",
+      "tipo": "vocabulario",
+      "descricao": "Minutos específicos usando PAST e TO",
+      "itens": [
+        {
+          "ingles": "It's five past three.",
+          "portugues": "São três e cinco.",
+          "fonetica": "/ɪts faɪv pæst θri/",
+          "tem_audio": true,
+          "contexto": "PAST - minutos de 1 a 30 (3:05)"
+        },
+        {
+          "ingles": "It's twenty past eight.",
+          "portugues": "São oito e vinte.",
+          "fonetica": "/ɪts ˈtwɛnti pæst eɪt/",
+          "tem_audio": true,
+          "contexto": "TWENTY PAST - 20 minutos após (8:20)"
+        },
+        {
+          "ingles": "It's ten to eleven.",
+          "portugues": "São dez para as onze.",
+          "fonetica": "/ɪts tɛn tu ɪˈlɛvən/",
+          "tem_audio": true,
+          "contexto": "TO - minutos de 31 a 59, contando para próxima hora (10:50)"
+        },
+        {
+          "ingles": "It's twenty-five to four.",
+          "portugues": "São vinte e cinco para as quatro.",
+          "fonetica": "/ɪts ˈtwɛnti faɪv tu fɔr/",
+          "tem_audio": true,
+          "contexto": "TO - faltam 25 minutos para as 4 (3:35)"
+        },
+        {
+          "ingles": "The class starts at five to two.",
+          "portugues": "A aula começa às cinco para as duas.",
+          "fonetica": "/ðə klæs stɑrts æt faɪv tu tu/",
+          "tem_audio": true,
+          "contexto": "Horário de início - cinco minutos antes (1:55)"
+        }
+      ]
+    },
+    {
+      "id": "sistema_digital",
+      "titulo": "Digital Time - Numbers Only",
+      "tipo": "vocabulario",
+      "descricao": "Horário digital - apenas números",
+      "itens": [
+        {
+          "ingles": "It's three fifteen.",
+          "portugues": "São três e quinze.",
+          "fonetica": "/ɪts θri ˈfɪfˌtin/",
+          "tem_audio": true,
+          "contexto": "Digital format - 3:15 (mais direto que quarter past)"
+        },
+        {
+          "ingles": "It's seven forty-five.",
+          "portugues": "São sete e quarenta e cinco.",
+          "fonetica": "/ɪts ˈsɛvən ˈfɔrti faɪv/",
+          "tem_audio": true,
+          "contexto": "7:45 - formato digital comum"
+        },
+        {
+          "ingles": "It's twelve thirty.",
+          "portugues": "São doze e trinta.",
+          "fonetica": "/ɪts twɛlv ˈθɜrti/",
+          "tem_audio": true,
+          "contexto": "12:30 - meio-dia e meia"
+        },
+        {
+          "ingles": "The meeting is at two fifty-five.",
+          "portugues": "A reunião é às duas e cinquenta e cinco.",
+          "fonetica": "/ðə ˈmitɪŋ ɪz æt tu ˈfɪfti faɪv/",
+          "tem_audio": true,
+          "contexto": "2:55 - quase três horas"
+        },
+        {
+          "ingles": "I wake up at six oh five.",
+          "portugues": "Eu acordo às seis e cinco.",
+          "fonetica": "/aɪ weɪk ʌp æt sɪks oʊ faɪv/",
+          "tem_audio": true,
+          "contexto": "6:05 - 'OH' para zero em minutos"
+        }
+      ]
+    },
+    {
+      "id": "am_pm_sistema",
+      "titulo": "AM/PM System - 12-Hour Format",
+      "tipo": "vocabulario",
+      "descricao": "Sistema AM/PM - formato de 12 horas",
+      "itens": [
+        {
+          "ingles": "It's eight AM.",
+          "portugues": "São oito da manhã.",
+          "fonetica": "/ɪts eɪt ˌeɪˈɛm/",
+          "tem_audio": true,
+          "contexto": "AM - manhã (midnight até noon - 00:00 às 12:00)"
+        },
+        {
+          "ingles": "The appointment is at three PM.",
+          "portugues": "O compromisso é às três da tarde.",
+          "fonetica": "/ði əˈpɔɪntmənt ɪz æt θri ˌpiˈɛm/",
+          "tem_audio": true,
+          "contexto": "PM - tarde/noite (noon até midnight - 12:00 às 24:00)"
+        },
+        {
+          "ingles": "I go to bed at eleven PM.",
+          "portugues": "Eu vou dormir às onze da noite.",
+          "fonetica": "/aɪ goʊ tu bɛd æt ɪˈlɛvən ˌpiˈɛm/",
+          "tem_audio": true,
+          "contexto": "11 PM = 23:00 (sistema 24h)"
+        },
+        {
+          "ingles": "The store opens at nine AM.",
+          "portugues": "A loja abre às nove da manhã.",
+          "fonetica": "/ðə stɔr ˈoʊpənz æt naɪn ˌeɪˈɛm/",
+          "tem_audio": true,
+          "contexto": "9 AM - horário comercial matinal"
+        },
+        {
+          "ingles": "Lunch break is from twelve to one PM.",
+          "portugues": "O intervalo do almoço é das doze à uma da tarde.",
+          "fonetica": "/lʌntʃ breɪk ɪz frʌm twɛlv tu wʌn ˌpiˈɛm/",
+          "tem_audio": true,
+          "contexto": "FROM... TO - período de tempo"
+        }
+      ]
+    },
+    {
+      "id": "sistema_24_horas",
+      "titulo": "24-Hour System - Military Time",
+      "tipo": "vocabulario",
+      "descricao": "Sistema de 24 horas - horário militar/internacional",
+      "itens": [
+        {
+          "ingles": "The flight departs at fourteen thirty.",
+          "portugues": "O voo parte às quatorze e trinta.",
+          "fonetica": "/ðə flaɪt dɪˈpɑrts æt ˌfɔrˈtin ˈθɜrti/",
+          "tem_audio": true,
+          "contexto": "14:30 - 2:30 PM no sistema 12h"
+        },
+        {
+          "ingles": "The train arrives at twenty-one fifteen.",
+          "portugues": "O trem chega às vinte e uma e quinze.",
+          "fonetica": "/ðə treɪn əˈraɪvz æt ˌtwɛnti wʌn ˈfɪfˌtin/",
+          "tem_audio": true,
+          "contexto": "21:15 - 9:15 PM no sistema 12h"
+        },
+        {
+          "ingles": "The event starts at nineteen hundred hours.",
+          "portugues": "O evento começa às dezenove horas.",
+          "fonetica": "/ði ɪˈvɛnt stɑrts æt ˌnaɪnˈtin ˈhʌndrəd aʊərz/",
+          "tem_audio": true,
+          "contexto": "1900 hours - formato militar para 19:00"
+        },
+        {
+          "ingles": "Check-in opens at zero eight hundred.",
+          "portugues": "O check-in abre às zero oito zero zero.",
+          "fonetica": "/tʃɛk ɪn ˈoʊpənz æt ˈzɪroʊ eɪt ˈhʌndrəd/",
+          "tem_audio": true,
+          "contexto": "0800 - 8:00 AM no formato militar"
+        },
+        {
+          "ingles": "The museum closes at seventeen thirty.",
+          "portugues": "O museu fecha às dezessete e trinta.",
+          "fonetica": "/ðə mjuˈziəm ˈkloʊzəz æt ˌsɛvənˈtin ˈθɜrti/",
+          "tem_audio": true,
+          "contexto": "17:30 - 5:30 PM, comum em horários oficiais"
+        }
+      ]
+    },
+    {
+      "id": "expressoes_tempo",
+      "titulo": "Special Time Expressions",
+      "tipo": "vocabulario",
+      "descricao": "Expressões especiais de tempo",
+      "itens": [
+        {
+          "ingles": "It's noon. / It's midnight.",
+          "portugues": "É meio-dia. / É meia-noite.",
+          "fonetica": "/ɪts nun / ɪts ˈmɪdˌnaɪt/",
+          "tem_audio": true,
+          "contexto": "NOON = 12:00 PM, MIDNIGHT = 12:00 AM"
+        },
+        {
+          "ingles": "See you around five-ish.",
+          "portugues": "Te vejo por volta das cinco.",
+          "fonetica": "/si ju əˈraʊnd ˈfaɪvɪʃ/",
+          "tem_audio": true,
+          "contexto": "-ISH = aproximadamente (around/about)"
+        },
+        {
+          "ingles": "It's almost ten o'clock.",
+          "portugues": "São quase dez horas.",
+          "fonetica": "/ɪts ˈɔlˌmoʊst tɛn əˈklɑk/",
+          "tem_audio": true,
+          "contexto": "ALMOST - quase (não exatamente ainda)"
+        },
+        {
+          "ingles": "It's just after three.",
+          "portugues": "São pouco depois das três.",
+          "fonetica": "/ɪts dʒʌst ˈæftər θri/",
+          "tem_audio": true,
+          "contexto": "JUST AFTER - poucos minutos depois da hora"
+        },
+        {
+          "ingles": "It's getting late.",
+          "portugues": "Está ficando tarde.",
+          "fonetica": "/ɪts ˈgɛtɪŋ leɪt/",
+          "tem_audio": true,
+          "contexto": "Expressão comum quando o tempo passa"
+        }
+      ]
+    },
+    {
+      "id": "partes_do_dia",
+      "titulo": "Parts of the Day",
+      "tipo": "vocabulario",
+      "descricao": "Partes do dia e expressões temporais",
+      "itens": [
+        {
+          "ingles": "Good morning! It's early in the morning.",
+          "portugues": "Bom dia! É cedo de manhã.",
+          "fonetica": "/gʊd ˈmɔrnɪŋ ɪts ˈɜrli ɪn ðə ˈmɔrnɪŋ/",
+          "tem_audio": true,
+          "contexto": "MORNING - manhã (sunrise até noon)"
+        },
+        {
+          "ingles": "I have lunch in the afternoon.",
+          "portugues": "Eu almoço à tarde.",
+          "fonetica": "/aɪ hæv lʌntʃ ɪn ði ˌæftərˈnun/",
+          "tem_audio": true,
+          "contexto": "AFTERNOON - tarde (noon até evening)"
+        },
+        {
+          "ingles": "We watch TV in the evening.",
+          "portugues": "Nós assistimos TV à noite.",
+          "fonetica": "/wi wɑtʃ ˌtiˈvi ɪn ði ˈivnɪŋ/",
+          "tem_audio": true,
+          "contexto": "EVENING - início da noite (sunset até bedtime)"
+        },
+        {
+          "ingles": "The city is quiet at night.",
+          "portugues": "A cidade fica quieta à noite.",
+          "fonetica": "/ðə ˈsɪti ɪz ˈkwaɪət æt naɪt/",
+          "tem_audio": true,
+          "contexto": "NIGHT - noite (depois do evening até sunrise)"
+        },
+        {
+          "ingles": "I wake up at dawn.",
+          "portugues": "Eu acordo ao amanhecer.",
+          "fonetica": "/aɪ weɪk ʌp æt dɔn/",
+          "tem_audio": true,
+          "contexto": "DAWN - amanhecer, muito cedo"
+        }
+      ]
+    },
+    {
+      "id": "perguntando_horas",
+      "titulo": "Asking About Time",
+      "tipo": "vocabulario",
+      "descricao": "Diferentes formas de perguntar sobre o tempo",
+      "itens": [
+        {
+          "ingles": "What time is it?",
+          "portugues": "Que horas são?",
+          "fonetica": "/wʌt taɪm ɪz ɪt/",
+          "tem_audio": true,
+          "contexto": "Pergunta mais comum sobre horário atual"
+        },
+        {
+          "ingles": "Do you have the time?",
+          "portugues": "Você tem as horas?",
+          "fonetica": "/du ju hæv ðə taɪm/",
+          "tem_audio": true,
+          "contexto": "Forma educada de perguntar o horário"
+        },
+        {
+          "ingles": "Could you tell me the time, please?",
+          "portugues": "Você poderia me dizer as horas, por favor?",
+          "fonetica": "/kʊd ju tɛl mi ðə taɪm pliz/",
+          "tem_audio": true,
+          "contexto": "Muito educado e formal"
+        },
+        {
+          "ingles": "What time does the store open?",
+          "portugues": "Que horas a loja abre?",
+          "fonetica": "/wʌt taɪm dʌz ðə stɔr ˈoʊpən/",
+          "tem_audio": true,
+          "contexto": "Perguntando horário de funcionamento"
+        },
+        {
+          "ingles": "When do you finish work?",
+          "portugues": "Quando você termina o trabalho?",
+          "fonetica": "/wɛn du ju ˈfɪnɪʃ wɜrk/",
+          "tem_audio": true,
+          "contexto": "WHEN para perguntas sobre horário específico"
+        }
+      ]
+    },
+    {
+      "id": "marcando_horarios",
+      "titulo": "Making Appointments and Schedules",
+      "tipo": "vocabulario",
+      "descricao": "Marcando horários e compromissos",
+      "itens": [
+        {
+          "ingles": "Let's meet at two o'clock.",
+          "portugues": "Vamos nos encontrar às duas horas.",
+          "fonetica": "/lɛts mit æt tu əˈklɑk/",
+          "tem_audio": true,
+          "contexto": "LET'S MEET AT - propondo horário de encontro"
+        },
+        {
+          "ingles": "I have an appointment at half past three.",
+          "portugues": "Eu tenho um compromisso às três e meia.",
+          "fonetica": "/aɪ hæv ən əˈpɔɪntmənt æt hæf pæst θri/",
+          "tem_audio": true,
+          "contexto": "HAVE AN APPOINTMENT - compromisso marcado"
+        },
+        {
+          "ingles": "Can we reschedule for four fifteen?",
+          "portugues": "Podemos remarcar para às quatro e quinze?",
+          "fonetica": "/kæn wi ˌrisˈkɛdʒul fɔr fɔr ˈfɪfˌtin/",
+          "tem_audio": true,
+          "contexto": "RESCHEDULE FOR - mudando horário"
+        },
+        {
+          "ingles": "I'll be there at exactly six PM.",
+          "portugues": "Estarei lá exatamente às seis da tarde.",
+          "fonetica": "/aɪl bi ðɛr æt ɪgˈzæktli sɪks ˌpiˈɛm/",
+          "tem_audio": true,
+          "contexto": "EXACTLY - enfatizando pontualidade"
+        },
+        {
+          "ingles": "Sorry, I'm running late. I'll be there around seven.",
+          "portugues": "Desculpe, estou atrasado. Estarei lá por volta das sete.",
+          "fonetica": "/ˈsɔri aɪm ˈrʌnɪŋ leɪt aɪl bi ðɛr əˈraʊnd ˈsɛvən/",
+          "tem_audio": true,
+          "contexto": "RUNNING LATE - chegando atrasado"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue about Time",
+      "tipo": "dialogo",
+      "descricao": "Conversa real sobre horários",
+      "participantes": ["Sarah", "David"],
+      "conversas": [
+        {
+          "falante": "Sarah",
+          "ingles": "David, what time is it? I think I'm going to be late for my appointment.",
+          "portugues": "David, que horas são? Acho que vou me atrasar para meu compromisso.",
+          "fonetica": "/ˈdeɪvɪd wʌt taɪm ɪz ɪt aɪ θɪŋk aɪm ˈgoʊɪŋ tu bi leɪt fɔr maɪ əˈpɔɪntmənt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "David",
+          "ingles": "It's quarter past two. What time is your appointment?",
+          "portugues": "São duas e quinze. Que horas é seu compromisso?",
+          "fonetica": "/ɪts ˈkwɔrtər pæst tu wʌt taɪm ɪz jʊər əˈpɔɪntmənt/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Sarah",
+          "ingles": "It's at half past two, and it takes me fifteen minutes to get there. I need to leave right now!",
+          "portugues": "É às duas e meia, e demoro quinze minutos para chegar lá. Preciso sair agora mesmo!",
+          "fonetica": "/ɪts æt hæf pæst tu ænd ɪt teɪks mi ˈfɪfˌtin ˈmɪnəts tu gɛt ðɛr aɪ nid tu liv raɪt naʊ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "David",
+          "ingles": "Don't worry, you have fifteen minutes. That's enough time if you hurry. Do you want me to drive you?",
+          "portugues": "Não se preocupe, você tem quinze minutos. É tempo suficiente se você se apressar. Quer que eu te leve de carro?",
+          "fonetica": "/doʊnt ˈwɜri ju hæv ˈfɪfˌtin ˈmɪnəts ðæts ɪˈnʌf taɪm ɪf ju ˈhɜri du ju wænt mi tu draɪv ju/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Sarah",
+          "ingles": "That would be great! Thank you so much. The office closes at five PM, so I should be back around four-thirty.",
+          "portugues": "Isso seria ótimo! Muito obrigada. O escritório fecha às cinco da tarde, então devo voltar por volta das quatro e meia.",
+          "fonetica": "/ðæt wʊd bi greɪt θæŋk ju soʊ mʌtʃ ði ˈɔfəs ˈkloʊzəz æt faɪv ˌpiˈɛm soʊ aɪ ʃʊd bi bæk əˈraʊnd ˈfɔr ˈθɜrti/",
+          "tem_audio": true
+        },
+        {
+          "falante": "David",
+          "ingles": "Perfect! I finish work at four o'clock, so I can pick you up at four-thirty exactly. Let's go!",
+          "portugues": "Perfeito! Eu termino o trabalho às quatro horas, então posso te buscar exatamente às quatro e meia. Vamos!",
+          "fonetica": "/ˈpɜrfɪkt aɪ ˈfɪnɪʃ wɜrk æt fɔr əˈklɑk soʊ aɪ kæn pɪk ju ʌp æt ˈfɔr ˈθɜrti ɪgˈzæktli lɛts goʊ/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - My Daily Schedule",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let me tell you about my daily schedule using different time expressions! I wake up at six-thirty AM every weekday. I like to get up early because the morning is my most productive time. After getting dressed, I have breakfast at seven o'clock sharp. My commute to work takes forty-five minutes, so I leave the house at quarter past seven to arrive at work by eight AM. I work from eight in the morning until five in the afternoon, with a lunch break from twelve-thirty to one-thirty PM. During my lunch hour, I usually eat at half past twelve and then take a short walk around the building. In the afternoon, I have meetings scheduled at different times - sometimes at two-fifteen, sometimes at three forty-five, depending on the day. At five PM exactly, I finish work and head home. The evening commute is longer, so I usually arrive home around six-fifteen. I have dinner at seven o'clock, and then I relax by watching TV or reading. On weekends, my schedule is completely different! I sleep in until nine or even ten AM - sometimes it's almost noon before I get out of bed! I love lazy Saturday and Sunday mornings. I might have brunch at eleven-thirty or even at noon. Weekend evenings are for socializing - I often meet friends at seven-thirty PM for dinner or go to a movie that starts at eight or nine PM. By midnight, I'm usually back home and ready for bed, preparing for another week of early mornings!",
+        "texto_portugues": "Deixe-me contar sobre minha programação diária usando diferentes expressões de tempo! Eu acordo às seis e meia da manhã todos os dias úteis. Gosto de levantar cedo porque a manhã é meu momento mais produtivo. Depois de me vestir, tomo café da manhã às sete horas em ponto. Meu trajeto para o trabalho leva quarenta e cinco minutos, então saio de casa às sete e quinze para chegar ao trabalho às oito da manhã. Trabalho das oito da manhã às cinco da tarde, com intervalo para almoço das doze e meia à uma e meia. Durante minha hora de almoço, geralmente como às doze e meia e depois dou uma caminhada curta ao redor do prédio. À tarde, tenho reuniões marcadas em horários diferentes - às vezes às duas e quinze, às vezes às três e quarenta e cinco, dependendo do dia. Às cinco da tarde em ponto, termino o trabalho e vou para casa. O trajeto da noite é mais longo, então geralmente chego em casa por volta das seis e quinze. Janto às sete horas, e depois relaxo assistindo TV ou lendo. Nos fins de semana, minha programação é completamente diferente! Durmo até as nove ou mesmo dez da manhã - às vezes é quase meio-dia antes de sair da cama! Amo as manhãs preguiçosas de sábado e domingo. Posso tomar brunch às onze e meia ou mesmo ao meio-dia. As noites de fim de semana são para socializar - frequentemente encontro amigos às sete e meia da noite para jantar ou vou a um filme que começa às oito ou nove da noite. À meia-noite, geralmente estou de volta em casa e pronto para dormir, me preparando para mais uma semana de manhãs cedo!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Mastering Time in English",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are essential tips for mastering time in English: 1) Learn the basic pattern: IT'S + time. Always start with 'It's'. 2) Remember: PAST for minutes 1-30, TO for minutes 31-59. 3) Use O'CLOCK only for exact hours (no minutes). 4) Practice both systems: traditional (quarter past) and digital (three fifteen). 5) Remember AM = morning (midnight to noon), PM = afternoon/evening (noon to midnight). 6) Use AT before specific times: 'at three o'clock', 'at half past two'. 7) Learn fixed expressions: 'What time is it?', 'Do you have the time?', 'I'm running late'. 8) Practice with your daily routine - describe when you wake up, eat, work, and sleep!",
+        "texto_portugues": "Aqui estão dicas essenciais para dominar tempo em inglês: 1) Aprenda o padrão básico: IT'S + time. Sempre comece com 'It's'. 2) Lembre: PAST para minutos 1-30, TO para minutos 31-59. 3) Use O'CLOCK apenas para horas exatas (sem minutos). 4) Pratique ambos sistemas: tradicional (quarter past) e digital (three fifteen). 5) Lembre AM = manhã (meia-noite ao meio-dia), PM = tarde/noite (meio-dia à meia-noite). 6) Use AT antes de horários específicos: 'at three o'clock', 'at half past two'. 7) Aprenda expressões fixas: 'What time is it?', 'Do you have the time?', 'I'm running late'. 8) Pratique com sua rotina diária - descreva quando acorda, come, trabalha e dorme!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice telling time everywhere! Look at clocks and practice saying the time in different ways: 'It's three fifteen' OR 'It's quarter past three'. Practice asking for time: 'What time is it?', 'Do you have the time?'. Describe your daily schedule using time expressions: 'I wake up at...', 'I have lunch at...', 'I go to bed at...'. Practice making appointments: 'Let's meet at half past two', 'Can we reschedule for four-thirty?'. Remember to use AM/PM when necessary. Time is used constantly in English, so master these expressions and you'll be able to discuss schedules, make plans, and be punctual in any English-speaking situation!",
+        "texto_portugues": "Agora pratique dizendo as horas em todos os lugares! Olhe relógios e pratique dizendo a hora de maneiras diferentes: 'It's three fifteen' OU 'It's quarter past three'. Pratique perguntando a hora: 'What time is it?', 'Do you have the time?'. Descreva sua programação diária usando expressões de tempo: 'I wake up at...', 'I have lunch at...', 'I go to bed at...'. Pratique marcando compromissos: 'Let's meet at half past two', 'Can we reschedule for four-thirty?'. Lembre-se de usar AM/PM quando necessário. Tempo é usado constantemente em inglês, então domine essas expressões e você será capaz de discutir horários, fazer planos e ser pontual em qualquer situação de língua inglesa!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
