@@ -1,0 +1,520 @@
+{
+  "titulo": "Verbos Irregulares no Passado",
+  "descricao": "Aprenda os verbos irregulares mais importantes no passado! Domine as formas do Simple Past que não seguem a regra -ED.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "What are Irregular Verbs in the Past?",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Irregular verbs in the past don't follow the normal -ED rule. Instead of adding -ED like regular verbs (walk → walked), irregular verbs have completely different forms (go → went, see → saw). These verbs are among the most commonly used in English, so learning them is essential for speaking naturally about past events. The good news is that irregular verbs don't change for different persons - 'went' is the same for I, you, he, she, we, and they!",
+        "texto_portugues": "Verbos irregulares no passado não seguem a regra normal do -ED. Em vez de adicionar -ED como verbos regulares (walk → walked), verbos irregulares têm formas completamente diferentes (go → went, see → saw). Esses verbos estão entre os mais usados em inglês, então aprendê-los é essencial para falar naturalmente sobre eventos passados. A boa notícia é que verbos irregulares não mudam para pessoas diferentes - 'went' é igual para I, you, he, she, we e they!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "grupo_mais_comuns",
+      "titulo": "Most Common Irregular Verbs",
+      "tipo": "vocabulario",
+      "descricao": "Os verbos irregulares mais importantes e frequentes",
+      "itens": [
+        {
+          "ingles": "I went to the store yesterday.",
+          "portugues": "Eu fui à loja ontem.",
+          "fonetica": "/aɪ wɛnt tu ðə stɔr ˈjɛstərdeɪ/",
+          "tem_audio": true,
+          "contexto": "GO → WENT - verbo de movimento mais comum"
+        },
+        {
+          "ingles": "She came home late last night.",
+          "portugues": "Ela chegou em casa tarde ontem à noite.",
+          "fonetica": "/ʃi keɪm hoʊm leɪt læst naɪt/",
+          "tem_audio": true,
+          "contexto": "COME → CAME - vir/chegar"
+        },
+        {
+          "ingles": "We saw a great movie.",
+          "portugues": "Nós vimos um filme ótimo.",
+          "fonetica": "/wi sɔ ə greɪt ˈmuvi/",
+          "tem_audio": true,
+          "contexto": "SEE → SAW - ver (não 'seed'!)"
+        },
+        {
+          "ingles": "He did his homework.",
+          "portugues": "Ele fez sua lição de casa.",
+          "fonetica": "/hi dɪd hɪz ˈhoʊmˌwɜrk/",
+          "tem_audio": true,
+          "contexto": "DO → DID - fazer"
+        },
+        {
+          "ingles": "They had dinner together.",
+          "portugues": "Eles jantaram juntos.",
+          "fonetica": "/ðeɪ hæd ˈdɪnər təˈgɛðər/",
+          "tem_audio": true,
+          "contexto": "HAVE → HAD - ter/tomar (refeição)"
+        }
+      ]
+    },
+    {
+      "id": "verbos_mudanca_vogal",
+      "titulo": "Vowel Change Pattern",
+      "tipo": "vocabulario",
+      "descricao": "Verbos que mudam apenas a vogal",
+      "itens": [
+        {
+          "ingles": "I ran in the park this morning.",
+          "portugues": "Eu corri no parque esta manhã.",
+          "fonetica": "/aɪ ræn ɪn ðə pɑrk ðɪs ˈmɔrnɪŋ/",
+          "tem_audio": true,
+          "contexto": "RUN → RAN - mudança de vogal u→a"
+        },
+        {
+          "ingles": "She sang beautifully.",
+          "portugues": "Ela cantou lindamente.",
+          "fonetica": "/ʃi sæŋ ˈbjutəfəli/",
+          "tem_audio": true,
+          "contexto": "SING → SANG - mudança i→a"
+        },
+        {
+          "ingles": "The bell rang at noon.",
+          "portugues": "O sino tocou ao meio-dia.",
+          "fonetica": "/ðə bɛl ræŋ æt nun/",
+          "tem_audio": true,
+          "contexto": "RING → RANG - padrão similar ao SING"
+        },
+        {
+          "ingles": "We won the game!",
+          "portugues": "Nós ganhamos o jogo!",
+          "fonetica": "/wi wʌn ðə geɪm/",
+          "tem_audio": true,
+          "contexto": "WIN → WON - mudança i→o"
+        },
+        {
+          "ingles": "I began working early.",
+          "portugues": "Eu comecei a trabalhar cedo.",
+          "fonetica": "/aɪ bɪˈgæn ˈwɜrkɪŋ ˈɜrli/",
+          "tem_audio": true,
+          "contexto": "BEGIN → BEGAN - mudança i→a"
+        }
+      ]
+    },
+    {
+      "id": "verbos_completamente_diferentes",
+      "titulo": "Completely Different Forms",
+      "tipo": "vocabulario",
+      "descricao": "Verbos com formas completamente diferentes",
+      "itens": [
+        {
+          "ingles": "I bought a new car.",
+          "portugues": "Eu comprei um carro novo.",
+          "fonetica": "/aɪ bɔt ə nu kɑr/",
+          "tem_audio": true,
+          "contexto": "BUY → BOUGHT - forma completamente diferente"
+        },
+        {
+          "ingles": "She brought cookies to class.",
+          "portugues": "Ela trouxe biscoitos para a aula.",
+          "fonetica": "/ʃi brɔt ˈkʊkiz tu klæs/",
+          "tem_audio": true,
+          "contexto": "BRING → BROUGHT - trazer"
+        },
+        {
+          "ingles": "We thought about the problem.",
+          "portugues": "Nós pensamos sobre o problema.",
+          "fonetica": "/wi θɔt əˈbaʊt ðə ˈprɑbləm/",
+          "tem_audio": true,
+          "contexto": "THINK → THOUGHT - pensar"
+        },
+        {
+          "ingles": "He caught the ball.",
+          "portugues": "Ele pegou a bola.",
+          "fonetica": "/hi kɔt ðə bɔl/",
+          "tem_audio": true,
+          "contexto": "CATCH → CAUGHT - pegar/capturar"
+        },
+        {
+          "ingles": "They taught us English.",
+          "portugues": "Eles nos ensinaram inglês.",
+          "fonetica": "/ðeɪ tɔt ʌs ˈɪŋglɪʃ/",
+          "tem_audio": true,
+          "contexto": "TEACH → TAUGHT - ensinar"
+        }
+      ]
+    },
+    {
+      "id": "verbos_iguais_presente",
+      "titulo": "Same Form as Present",
+      "tipo": "vocabulario",
+      "descricao": "Verbos que não mudam (mesma forma no presente e passado)",
+      "itens": [
+        {
+          "ingles": "I cut the paper with scissors.",
+          "portugues": "Eu cortei o papel com tesoura.",
+          "fonetica": "/aɪ kʌt ðə ˈpeɪpər wɪð ˈsɪzərz/",
+          "tem_audio": true,
+          "contexto": "CUT → CUT - mesma forma (contexto indica tempo)"
+        },
+        {
+          "ingles": "She put the book on the table.",
+          "portugues": "Ela colocou o livro na mesa.",
+          "fonetica": "/ʃi pʊt ðə bʊk ɑn ðə ˈteɪbəl/",
+          "tem_audio": true,
+          "contexto": "PUT → PUT - colocar/por"
+        },
+        {
+          "ingles": "The glass hit the floor.",
+          "portugues": "O copo bateu no chão.",
+          "fonetica": "/ðə glæs hɪt ðə flɔr/",
+          "tem_audio": true,
+          "contexto": "HIT → HIT - bater/acertar"
+        },
+        {
+          "ingles": "It cost fifty dollars.",
+          "portugues": "Custou cinquenta dólares.",
+          "fonetica": "/ɪt kɔst ˈfɪfti ˈdɑlərz/",
+          "tem_audio": true,
+          "contexto": "COST → COST - custar"
+        },
+        {
+          "ingles": "We let him go home early.",
+          "portugues": "Nós deixamos ele ir para casa cedo.",
+          "fonetica": "/wi lɛt hɪm goʊ hoʊm ˈɜrli/",
+          "tem_audio": true,
+          "contexto": "LET → LET - deixar/permitir"
+        }
+      ]
+    },
+    {
+      "id": "verbos_know_grow_throw",
+      "titulo": "KNOW, GROW, THROW Pattern",
+      "tipo": "vocabulario",
+      "descricao": "Verbos com padrão -EW",
+      "itens": [
+        {
+          "ingles": "I knew the answer.",
+          "portugues": "Eu sabia a resposta.",
+          "fonetica": "/aɪ nu ði ˈænsər/",
+          "tem_audio": true,
+          "contexto": "KNOW → KNEW - saber/conhecer"
+        },
+        {
+          "ingles": "The tree grew very tall.",
+          "portugues": "A árvore cresceu muito alta.",
+          "fonetica": "/ðə tri gru ˈvɛri tɔl/",
+          "tem_audio": true,
+          "contexto": "GROW → GREW - crescer"
+        },
+        {
+          "ingles": "He threw the ball far.",
+          "portugues": "Ele jogou a bola longe.",
+          "fonetica": "/hi θru ðə bɔl fɑr/",
+          "tem_audio": true,
+          "contexto": "THROW → THREW - jogar/arremessar"
+        },
+        {
+          "ingles": "The wind blew strongly.",
+          "portugues": "O vento soprou fortemente.",
+          "fonetica": "/ðə wɪnd blu ˈstrɔŋli/",
+          "tem_audio": true,
+          "contexto": "BLOW → BLEW - soprar"
+        },
+        {
+          "ingles": "We flew to Paris last year.",
+          "portugues": "Nós voamos para Paris ano passado.",
+          "fonetica": "/wi flu tu ˈpɛrəs læst jɪr/",
+          "tem_audio": true,
+          "contexto": "FLY → FLEW - voar"
+        }
+      ]
+    },
+    {
+      "id": "verbos_say_pay_lay",
+      "titulo": "SAY, PAY, LAY Pattern",
+      "tipo": "vocabulario",
+      "descricao": "Verbos que terminam em -AID",
+      "itens": [
+        {
+          "ingles": "She said hello to everyone.",
+          "portugues": "Ela disse olá para todo mundo.",
+          "fonetica": "/ʃi sɛd həˈloʊ tu ˈɛvriˌwʌn/",
+          "tem_audio": true,
+          "contexto": "SAY → SAID - dizer (pronúncia /sɛd/)"
+        },
+        {
+          "ingles": "I paid the bill yesterday.",
+          "portugues": "Eu paguei a conta ontem.",
+          "fonetica": "/aɪ peɪd ðə bɪl ˈjɛstərdeɪ/",
+          "tem_audio": true,
+          "contexto": "PAY → PAID - pagar"
+        },
+        {
+          "ingles": "She laid the baby down.",
+          "portugues": "Ela deitou o bebê.",
+          "fonetica": "/ʃi leɪd ðə ˈbeɪbi daʊn/",
+          "tem_audio": true,
+          "contexto": "LAY → LAID - deitar/colocar (algo/alguém)"
+        },
+        {
+          "ingles": "We made dinner together.",
+          "portugues": "Nós fizemos o jantar juntos.",
+          "fonetica": "/wi meɪd ˈdɪnər təˈgɛðər/",
+          "tem_audio": true,
+          "contexto": "MAKE → MADE - fazer/criar"
+        }
+      ]
+    },
+    {
+      "id": "verbos_eat_break_speak",
+      "titulo": "EAT, BREAK, SPEAK Pattern",
+      "tipo": "vocabulario",
+      "descricao": "Verbos com mudança EA → O",
+      "itens": [
+        {
+          "ingles": "We ate pizza for lunch.",
+          "portugues": "Nós comemos pizza no almoço.",
+          "fonetica": "/wi eɪt ˈpitsə fɔr lʌntʃ/",
+          "tem_audio": true,
+          "contexto": "EAT → ATE - comer (pronúncia /eɪt/)"
+        },
+        {
+          "ingles": "He broke his phone.",
+          "portugues": "Ele quebrou seu telefone.",
+          "fonetica": "/hi broʊk hɪz foʊn/",
+          "tem_audio": true,
+          "contexto": "BREAK → BROKE - quebrar"
+        },
+        {
+          "ingles": "She spoke very clearly.",
+          "portugues": "Ela falou muito claramente.",
+          "fonetica": "/ʃi spoʊk ˈvɛri ˈklɪrli/",
+          "tem_audio": true,
+          "contexto": "SPEAK → SPOKE - falar"
+        },
+        {
+          "ingles": "I woke up at six AM.",
+          "portugues": "Eu acordei às seis da manhã.",
+          "fonetica": "/aɪ woʊk ʌp æt sɪks ˌeɪˈɛm/",
+          "tem_audio": true,
+          "contexto": "WAKE → WOKE - acordar"
+        },
+        {
+          "ingles": "They chose the red car.",
+          "portugues": "Eles escolheram o carro vermelho.",
+          "fonetica": "/ðeɪ tʃoʊz ðə rɛd kɑr/",
+          "tem_audio": true,
+          "contexto": "CHOOSE → CHOSE - escolher"
+        }
+      ]
+    },
+    {
+      "id": "verbos_give_take_write",
+      "titulo": "GIVE, TAKE, WRITE Pattern",
+      "tipo": "vocabulario",
+      "descricao": "Verbos muito comuns com formas especiais",
+      "itens": [
+        {
+          "ingles": "She gave me a present.",
+          "portugues": "Ela me deu um presente.",
+          "fonetica": "/ʃi geɪv mi ə ˈprɛzənt/",
+          "tem_audio": true,
+          "contexto": "GIVE → GAVE - dar"
+        },
+        {
+          "ingles": "I took the bus to work.",
+          "portugues": "Eu peguei o ônibus para o trabalho.",
+          "fonetica": "/aɪ tʊk ðə bʌs tu wɜrk/",
+          "tem_audio": true,
+          "contexto": "TAKE → TOOK - pegar/levar"
+        },
+        {
+          "ingles": "He wrote a letter.",
+          "portugues": "Ele escreveu uma carta.",
+          "fonetica": "/hi roʊt ə ˈlɛtər/",
+          "tem_audio": true,
+          "contexto": "WRITE → WROTE - escrever"
+        },
+        {
+          "ingles": "We drove to the beach.",
+          "portugues": "Nós dirigimos para a praia.",
+          "fonetica": "/wi droʊv tu ðə bitʃ/",
+          "tem_audio": true,
+          "contexto": "DRIVE → DROVE - dirigir"
+        },
+        {
+          "ingles": "They rode their bikes.",
+          "portugues": "Eles andaram de bicicleta.",
+          "fonetica": "/ðeɪ roʊd ðɛr baɪks/",
+          "tem_audio": true,
+          "contexto": "RIDE → RODE - andar/cavalgar"
+        }
+      ]
+    },
+    {
+      "id": "verbos_forget_get_sit",
+      "titulo": "FORGET, GET, SIT Pattern",
+      "tipo": "vocabulario",
+      "descricao": "Verbos com dupla consoante",
+      "itens": [
+        {
+          "ingles": "I forgot my keys at home.",
+          "portugues": "Eu esqueci minhas chaves em casa.",
+          "fonetica": "/aɪ fərˈgɑt maɪ kiz æt hoʊm/",
+          "tem_audio": true,
+          "contexto": "FORGET → FORGOT - esquecer"
+        },
+        {
+          "ingles": "She got a new job.",
+          "portugues": "Ela conseguiu um emprego novo.",
+          "fonetica": "/ʃi gɑt ə nu dʒɑb/",
+          "tem_audio": true,
+          "contexto": "GET → GOT - conseguir/obter"
+        },
+        {
+          "ingles": "We sat in the park.",
+          "portugues": "Nós sentamos no parque.",
+          "fonetica": "/wi sæt ɪn ðə pɑrk/",
+          "tem_audio": true,
+          "contexto": "SIT → SAT - sentar"
+        },
+        {
+          "ingles": "He met his friends downtown.",
+          "portugues": "Ele encontrou seus amigos no centro.",
+          "fonetica": "/hi mɛt hɪz frɛndz ˈdaʊnˌtaʊn/",
+          "tem_audio": true,
+          "contexto": "MEET → MET - encontrar/conhecer"
+        },
+        {
+          "ingles": "I bet you can't do it!",
+          "portugues": "Eu aposto que você não consegue fazer!",
+          "fonetica": "/aɪ bɛt ju kænt du ɪt/",
+          "tem_audio": true,
+          "contexto": "BET → BET - apostar (mesma forma)"
+        }
+      ]
+    },
+    {
+      "id": "verbos_confusos",
+      "titulo": "Commonly Confused Verbs",
+      "tipo": "vocabulario",
+      "descricao": "Verbos irregulares que causam confusão",
+      "itens": [
+        {
+          "ingles": "I lay down on the bed. (LAY = deitar-se, irregular)",
+          "portugues": "Eu me deitei na cama.",
+          "fonetica": "/aɪ leɪ daʊn ɑn ðə bɛd/",
+          "tem_audio": true,
+          "contexto": "LIE (deitar-se) → LAY - não confundir com LAY (colocar)"
+        },
+        {
+          "ingles": "The sun rose early today.",
+          "portugues": "O sol nasceu cedo hoje.",
+          "fonetica": "/ðə sʌn roʊz ˈɜrli təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "RISE → ROSE - nascer/subir (intransitivo)"
+        },
+        {
+          "ingles": "I raised my hand in class.",
+          "portugues": "Eu levantei minha mão na aula.",
+          "fonetica": "/aɪ reɪzd maɪ hænd ɪn klæs/",
+          "tem_audio": true,
+          "contexto": "RAISE → RAISED - levantar algo (transitivo, regular!)"
+        },
+        {
+          "ingles": "She fell down the stairs.",
+          "portugues": "Ela caiu da escada.",
+          "fonetica": "/ʃi fɛl daʊn ðə stɛrz/",
+          "tem_audio": true,
+          "contexto": "FALL → FELL - cair"
+        },
+        {
+          "ingles": "He felt sick yesterday.",
+          "portugues": "Ele se sentiu doente ontem.",
+          "fonetica": "/hi fɛlt sɪk ˈjɛstərdeɪ/",
+          "tem_audio": true,
+          "contexto": "FEEL → FELT - sentir"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue with Irregular Past Verbs",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando verbos irregulares no passado",
+      "participantes": ["Lisa", "Mike"],
+      "conversas": [
+        {
+          "falante": "Lisa",
+          "ingles": "Hi Mike! How was your weekend? I heard you went camping.",
+          "portugues": "Oi Mike! Como foi seu fim de semana? Ouvi dizer que você foi acampar.",
+          "fonetica": "/haɪ maɪk haʊ wʌz jʊər ˈwikɛnd aɪ hɜrd ju wɛnt ˈkæmpɪŋ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mike",
+          "ingles": "Yeah, it was great! We drove to the mountains on Friday night. I took my new tent and slept under the stars.",
+          "portugues": "Sim, foi ótimo! Dirigimos para as montanhas na sexta à noite. Levei minha barraca nova e dormi sob as estrelas.",
+          "fonetica": "/jæ ɪt wʌz greɪt wi droʊv tu ðə ˈmaʊntənz ɑn ˈfraɪdeɪ naɪt aɪ tʊk maɪ nu tɛnt ænd slɛpt ˈʌndər ðə stɑrz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Lisa",
+          "ingles": "That sounds amazing! Did you catch any fish? And what did you eat up there?",
+          "portugues": "Parece incrível! Vocês pescaram algum peixe? E o que vocês comeram lá?",
+          "fonetica": "/ðæt saʊndz əˈmeɪzɪŋ dɪd ju kætʃ ˈɛni fɪʃ ænd wʌt dɪd ju it ʌp ðɛr/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mike",
+          "ingles": "We caught three big fish on Saturday! My friend brought his fishing gear. We made a campfire and ate the fish with some vegetables we brought from home.",
+          "portugues": "Pegamos três peixes grandes no sábado! Meu amigo trouxe seu equipamento de pesca. Fizemos uma fogueira e comemos o peixe com alguns vegetais que trouxemos de casa.",
+          "fonetica": "/wi kɔt θri bɪg fɪʃ ɑn ˈsætərdeɪ maɪ frɛnd brɔt hɪz ˈfɪʃɪŋ gɪr wi meɪd ə ˈkæmpˌfaɪər ænd eɪt ðə fɪʃ wɪð sʌm ˈvɛdʒtəbəlz wi brɔt frʌm hoʊm/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Lisa",
+          "ingles": "Wow! I bet that tasted incredible! Did you see any wild animals? I heard there are bears in those mountains.",
+          "portugues": "Nossa! Aposto que estava incrível! Vocês viram algum animal selvagem? Ouvi dizer que há ursos naquelas montanhas.",
+          "fonetica": "/waʊ aɪ bɛt ðæt ˈteɪstəd ɪnˈkrɛdəbəl dɪd ju si ˈɛni waɪld ˈænəməlz aɪ hɜrd ðɛr ɑr bɛrz ɪn ðoʊz ˈmaʊntənz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mike",
+          "ingles": "We saw some deer early in the morning, and we heard strange noises at night, but we never saw any bears. We kept our food in the car, so we felt safe the whole time.",
+          "portugues": "Vimos alguns cervos cedo de manhã, e ouvimos ruídos estranhos à noite, mas nunca vimos ursos. Mantivemos nossa comida no carro, então nos sentimos seguros o tempo todo.",
+          "fonetica": "/wi sɔ sʌm dɪr ˈɜrli ɪn ðə ˈmɔrnɪŋ ænd wi hɜrd streɪndʒ ˈnɔɪzəz æt naɪt bʌt wi ˈnɛvər sɔ ˈɛni bɛrz wi kɛpt aʊər fud ɪn ðə kɑr soʊ wi fɛlt seɪf ðə hoʊl taɪm/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - My Memorable Day",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let me tell you about one of the most memorable days of my life using irregular past verbs! Last Saturday, I woke up early because I had planned something special. I got dressed quickly and drove to the airport. You see, my sister came back from studying abroad after two years! I was so excited that I forgot to eat breakfast. When I saw her at the gate, I ran toward her and gave her the biggest hug. She brought me a beautiful souvenir from Paris and told me amazing stories about her adventures. We took a taxi home because I thought she might be tired from the long flight. At home, my parents had prepared a wonderful surprise party. All our friends and family were there! We ate my mom's famous lasagna, and my dad made a touching speech about how proud he was. My sister spoke about her experiences and showed us hundreds of photos. Later, we sat in the garden and caught up on everything that happened while she was away. She said she missed us every day and felt homesick many times. As the evening went on, we sang old songs and laughed until our stomachs hurt. When everyone left, my sister and I lay on the grass looking at the stars, just like we did when we were kids. That night, I went to bed feeling grateful for family and thinking about how much we had missed each other. Sometimes the simple moments become the most precious memories. I knew that day would stay in my heart forever, and indeed it has. Even now, when I think about it, I feel the same joy and warmth I felt that special Saturday!",
+        "texto_portugues": "Deixe-me contar sobre um dos dias mais memoráveis da minha vida usando verbos irregulares no passado! Sábado passado, acordei cedo porque havia planejado algo especial. Me vesti rapidamente e dirigi até o aeroporto. Veja, minha irmã voltou de estudar no exterior depois de dois anos! Eu estava tão animado que esqueci de tomar café da manhã. Quando a vi no portão, corri em direção a ela e dei o maior abraço. Ela trouxe um souvenir lindo de Paris e me contou histórias incríveis sobre suas aventuras. Pegamos um táxi para casa porque pensei que ela poderia estar cansada do voo longo. Em casa, meus pais prepararam uma festa surpresa maravilhosa. Todos nossos amigos e família estavam lá! Comemos a lasanha famosa da minha mãe, e meu pai fez um discurso tocante sobre o quanto estava orgulhoso. Minha irmã falou sobre suas experiências e nos mostrou centenas de fotos. Mais tarde, sentamos no jardim e colocamos a conversa em dia sobre tudo que aconteceu enquanto ela estava fora. Ela disse que sentiu nossa falta todos os dias e se sentiu com saudades de casa muitas vezes. Conforme a noite avançou, cantamos músicas antigas e rimos até nossos estômagos doerem. Quando todos foram embora, minha irmã e eu nos deitamos na grama olhando as estrelas, assim como fazíamos quando éramos crianças. Naquela noite, fui dormir me sentindo grato pela família e pensando em quanto sentimos falta um do outro. Às vezes os momentos simples se tornam as memórias mais preciosas. Eu sabia que aquele dia ficaria no meu coração para sempre, e realmente ficou. Mesmo agora, quando penso nisso, sinto a mesma alegria e calor que senti naquele sábado especial!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_memorizar",
+      "titulo": "Tips for Memorizing Irregular Past Verbs",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are essential tips for mastering irregular past verbs: 1) Learn them in groups with similar patterns (sing-sang, ring-rang, begin-began). 2) Focus on the most common ones first - they're used constantly in everyday conversation. 3) Practice with real situations from your life - tell stories about what you did yesterday, last weekend, or last year. 4) Remember that irregular past forms are the SAME for all persons (I went, you went, he went, we went, they went). 5) Don't confuse past tense with past participle - we're learning past tense here! 6) Make flashcards or use apps to drill the most important ones. 7) Read stories and pay attention to irregular verbs. 8) The key is repetition and using them in context - the more you use them, the more natural they become!",
+        "texto_portugues": "Aqui estão dicas essenciais para dominar verbos irregulares no passado: 1) Aprenda-os em grupos com padrões similares (sing-sang, ring-rang, begin-began). 2) Foque nos mais comuns primeiro - eles são usados constantemente na conversa do dia a dia. 3) Pratique com situações reais da sua vida - conte histórias sobre o que você fez ontem, no fim de semana passado, ou no ano passado. 4) Lembre que formas irregulares do passado são as MESMAS para todas as pessoas (I went, you went, he went, we went, they went). 5) Não confunda past tense com past participle - estamos aprendendo past tense aqui! 6) Faça flashcards ou use apps para praticar os mais importantes. 7) Leia histórias e preste atenção nos verbos irregulares. 8) A chave é repetição e usá-los em contexto - quanto mais você usar, mais naturais se tornam!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice irregular past verbs everywhere! Start by telling the story of your day yesterday using as many irregular verbs as possible: 'I woke up, got dressed, ate breakfast, went to work, saw my friends, came home, made dinner...' Practice the most common ones until they become automatic: go-went, see-saw, do-did, have-had, get-got, come-came, take-took, give-gave, make-made, say-said. Create stories about your childhood, your last vacation, or what you did last weekend. Remember, these verbs are the foundation of talking about the past in English. Master them and your English will sound much more natural and fluent!",
+        "texto_portugues": "Agora pratique verbos irregulares no passado em todos os lugares! Comece contando a história do seu dia de ontem usando quantos verbos irregulares conseguir: 'I woke up, got dressed, ate breakfast, went to work, saw my friends, came home, made dinner...' Pratique os mais comuns até eles se tornarem automáticos: go-went, see-saw, do-did, have-had, get-got, come-came, take-took, give-gave, make-made, say-said. Crie histórias sobre sua infância, suas últimas férias, ou o que fez no fim de semana passado. Lembre-se, esses verbos são a base para falar sobre o passado em inglês. Domine-os e seu inglês soará muito mais natural e fluente!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
