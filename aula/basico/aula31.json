@@ -1,0 +1,442 @@
+{
+  "titulo": "Must, Want, Have Need",
+  "descricao": "Aprenda a expressar obrigação, desejo e necessidade em inglês! Domine must, want e have/need para comunicação natural.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "Expressing Obligation, Desire and Necessity",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "In English, we use different verbs to express what we must do, what we want, and what we need. MUST expresses strong obligation or necessity. WANT expresses desire or wishes. NEED and HAVE TO express necessity or requirement. Learning these verbs will help you communicate your intentions and obligations clearly.",
+        "texto_portugues": "Em inglês, usamos diferentes verbos para expressar o que devemos fazer, o que queremos e o que precisamos. MUST expressa forte obrigação ou necessidade. WANT expressa desejo ou vontades. NEED e HAVE TO expressam necessidade ou requisito. Aprender esses verbos ajudará você a comunicar suas intenções e obrigações claramente.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "verbo_must",
+      "titulo": "MUST - Strong Obligation",
+      "tipo": "vocabulario",
+      "descricao": "MUST para expressar obrigação forte ou necessidade",
+      "itens": [
+        {
+          "ingles": "I must study for the exam.",
+          "portugues": "Eu devo estudar para a prova.",
+          "fonetica": "/aɪ mʌst ˈstʌdi fɔr ði ɪgˈzæm/",
+          "tem_audio": true,
+          "contexto": "MUST + base verb (no 'to') - strong obligation"
+        },
+        {
+          "ingles": "You must be quiet in the library.",
+          "portugues": "Você deve ficar quieto na biblioteca.",
+          "fonetica": "/ju mʌst bi ˈkwaɪət ɪn ðə ˈlaɪˌbrɛri/",
+          "tem_audio": true,
+          "contexto": "MUST for rules and regulations"
+        },
+        {
+          "ingles": "She must finish her work today.",
+          "portugues": "Ela deve terminar o trabalho hoje.",
+          "fonetica": "/ʃi mʌst ˈfɪnɪʃ hər wɜrk təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "MUST - same form for all subjects (no 'musts')"
+        },
+        {
+          "ingles": "We must arrive on time.",
+          "portugues": "Nós devemos chegar na hora.",
+          "fonetica": "/wi mʌst əˈraɪv ɑn taɪm/",
+          "tem_audio": true,
+          "contexto": "MUST for important obligations"
+        },
+        {
+          "ingles": "They must wear uniforms at school.",
+          "portugues": "Eles devem usar uniformes na escola.",
+          "fonetica": "/ðeɪ mʌst wɛr ˈjunəˌfɔrmz æt skul/",
+          "tem_audio": true,
+          "contexto": "MUST for requirements"
+        }
+      ]
+    },
+    {
+      "id": "must_negativo",
+      "titulo": "MUST NOT / MUSTN'T - Prohibition",
+      "tipo": "vocabulario",
+      "descricao": "Forma negativa do MUST para proibições",
+      "itens": [
+        {
+          "ingles": "You must not smoke here. / You mustn't smoke here.",
+          "portugues": "Você não deve fumar aqui.",
+          "fonetica": "/ju mʌst nɑt smoʊk hɪr / ju ˈmʌsənt smoʊk hɪr/",
+          "tem_audio": true,
+          "contexto": "MUST NOT = strong prohibition (it's forbidden)"
+        },
+        {
+          "ingles": "Students mustn't use phones in class.",
+          "portugues": "Estudantes não devem usar telefones na aula.",
+          "fonetica": "/ˈstudənts ˈmʌsənt juz foʊnz ɪn klæs/",
+          "tem_audio": true,
+          "contexto": "MUSTN'T for rules and prohibitions"
+        },
+        {
+          "ingles": "We mustn't be late for the meeting.",
+          "portugues": "Não devemos nos atrasar para a reunião.",
+          "fonetica": "/wi ˈmʌsənt bi leɪt fɔr ðə ˈmitɪŋ/",
+          "tem_audio": true,
+          "contexto": "Strong negative obligation"
+        },
+        {
+          "ingles": "You mustn't tell anyone the secret.",
+          "portugues": "Você não deve contar o segredo para ninguém.",
+          "fonetica": "/ju ˈmʌsənt tɛl ˈɛniˌwʌn ðə ˈsikrət/",
+          "tem_audio": true,
+          "contexto": "Prohibition - it's very important not to do it"
+        }
+      ]
+    },
+    {
+      "id": "verbo_want",
+      "titulo": "WANT - Desire and Wishes",
+      "tipo": "vocabulario",
+      "descricao": "WANT para expressar desejo",
+      "itens": [
+        {
+          "ingles": "I want to learn English.",
+          "portugues": "Eu quero aprender inglês.",
+          "fonetica": "/aɪ wænt tu lɜrn ˈɪŋglɪʃ/",
+          "tem_audio": true,
+          "contexto": "WANT + TO + verb (always use 'to')"
+        },
+        {
+          "ingles": "She wants a new car.",
+          "portugues": "Ela quer um carro novo.",
+          "fonetica": "/ʃi wænts ə nu kɑr/",
+          "tem_audio": true,
+          "contexto": "WANT + noun (no 'to' needed with nouns)"
+        },
+        {
+          "ingles": "Do you want to go to the movies?",
+          "portugues": "Você quer ir ao cinema?",
+          "fonetica": "/du ju wænt tu goʊ tu ðə ˈmuviz/",
+          "tem_audio": true,
+          "contexto": "Questions with WANT - use DO/DOES"
+        },
+        {
+          "ingles": "He wants to travel the world.",
+          "portugues": "Ele quer viajar o mundo.",
+          "fonetica": "/hi wænts tu ˈtrævəl ðə wɜrld/",
+          "tem_audio": true,
+          "contexto": "HE/SHE/IT WANTS (add -S for third person)"
+        },
+        {
+          "ingles": "We want to buy a house.",
+          "portugues": "Nós queremos comprar uma casa.",
+          "fonetica": "/wi wænt tu baɪ ə haʊs/",
+          "tem_audio": true,
+          "contexto": "WANT for future desires and plans"
+        }
+      ]
+    },
+    {
+      "id": "want_negativo",
+      "titulo": "DON'T WANT - Negative Desire",
+      "tipo": "vocabulario",
+      "descricao": "Forma negativa do WANT",
+      "itens": [
+        {
+          "ingles": "I don't want to go out tonight.",
+          "portugues": "Eu não quero sair hoje à noite.",
+          "fonetica": "/aɪ doʊnt wænt tu goʊ aʊt təˈnaɪt/",
+          "tem_audio": true,
+          "contexto": "DON'T WANT = negative desire"
+        },
+        {
+          "ingles": "She doesn't want help.",
+          "portugues": "Ela não quer ajuda.",
+          "fonetica": "/ʃi ˈdʌzənt wænt hɛlp/",
+          "tem_audio": true,
+          "contexto": "DOESN'T WANT for third person"
+        },
+        {
+          "ingles": "They don't want to wait.",
+          "portugues": "Eles não querem esperar.",
+          "fonetica": "/ðeɪ doʊnt wænt tu weɪt/",
+          "tem_audio": true,
+          "contexto": "Expressing unwillingness"
+        }
+      ]
+    },
+    {
+      "id": "verbo_need",
+      "titulo": "NEED - Necessity",
+      "tipo": "vocabulario",
+      "descricao": "NEED para expressar necessidade",
+      "itens": [
+        {
+          "ingles": "I need to sleep more.",
+          "portugues": "Eu preciso dormir mais.",
+          "fonetica": "/aɪ nid tu slip mɔr/",
+          "tem_audio": true,
+          "contexto": "NEED + TO + verb (requirement)"
+        },
+        {
+          "ingles": "She needs a doctor.",
+          "portugues": "Ela precisa de um médico.",
+          "fonetica": "/ʃi nidz ə ˈdɑktər/",
+          "tem_audio": true,
+          "contexto": "NEED + noun (SHE/HE/IT NEEDS)"
+        },
+        {
+          "ingles": "We need to talk.",
+          "portugues": "Nós precisamos conversar.",
+          "fonetica": "/wi nid tu tɔk/",
+          "tem_audio": true,
+          "contexto": "NEED expressing importance"
+        },
+        {
+          "ingles": "Do you need help?",
+          "portugues": "Você precisa de ajuda?",
+          "fonetica": "/du ju nid hɛlp/",
+          "tem_audio": true,
+          "contexto": "Questions with NEED"
+        },
+        {
+          "ingles": "He needs to study harder.",
+          "portugues": "Ele precisa estudar mais.",
+          "fonetica": "/hi nidz tu ˈstʌdi ˈhɑrdər/",
+          "tem_audio": true,
+          "contexto": "NEED for necessary actions"
+        }
+      ]
+    },
+    {
+      "id": "have_to",
+      "titulo": "HAVE TO - Obligation and Necessity",
+      "tipo": "vocabulario",
+      "descricao": "HAVE TO para obrigação e necessidade",
+      "itens": [
+        {
+          "ingles": "I have to work tomorrow.",
+          "portugues": "Eu tenho que trabalhar amanhã.",
+          "fonetica": "/aɪ hæv tu wɜrk təˈmɑroʊ/",
+          "tem_audio": true,
+          "contexto": "HAVE TO = obligation (similar to MUST but less strong)"
+        },
+        {
+          "ingles": "She has to wake up early.",
+          "portugues": "Ela tem que acordar cedo.",
+          "fonetica": "/ʃi hæz tu weɪk ʌp ˈɜrli/",
+          "tem_audio": true,
+          "contexto": "HAS TO for third person (he/she/it)"
+        },
+        {
+          "ingles": "We have to pay taxes.",
+          "portugues": "Nós temos que pagar impostos.",
+          "fonetica": "/wi hæv tu peɪ ˈtæksəz/",
+          "tem_audio": true,
+          "contexto": "HAVE TO for legal or social obligations"
+        },
+        {
+          "ingles": "Do you have to leave now?",
+          "portugues": "Você tem que ir embora agora?",
+          "fonetica": "/du ju hæv tu liv naʊ/",
+          "tem_audio": true,
+          "contexto": "Questions: DO/DOES + have to"
+        },
+        {
+          "ingles": "They have to wear masks.",
+          "portugues": "Eles têm que usar máscaras.",
+          "fonetica": "/ðeɪ hæv tu wɛr mæsks/",
+          "tem_audio": true,
+          "contexto": "HAVE TO for rules and requirements"
+        }
+      ]
+    },
+    {
+      "id": "dont_have_to",
+      "titulo": "DON'T HAVE TO - No Obligation",
+      "tipo": "vocabulario",
+      "descricao": "Forma negativa do HAVE TO",
+      "itens": [
+        {
+          "ingles": "You don't have to come if you're busy.",
+          "portugues": "Você não precisa vir se estiver ocupado.",
+          "fonetica": "/ju doʊnt hæv tu kʌm ɪf jʊr ˈbɪzi/",
+          "tem_audio": true,
+          "contexto": "DON'T HAVE TO = not necessary (but you can if you want)"
+        },
+        {
+          "ingles": "She doesn't have to work on weekends.",
+          "portugues": "Ela não precisa trabalhar nos fins de semana.",
+          "fonetica": "/ʃi ˈdʌzənt hæv tu wɜrk ɑn ˈwikˌɛndz/",
+          "tem_audio": true,
+          "contexto": "No obligation - it's optional"
+        },
+        {
+          "ingles": "We don't have to hurry.",
+          "portugues": "Não precisamos nos apressar.",
+          "fonetica": "/wi doʊnt hæv tu ˈhɜri/",
+          "tem_audio": true,
+          "contexto": "Not necessary to rush"
+        }
+      ]
+    },
+    {
+      "id": "comparacao_must_have_to",
+      "titulo": "MUST vs HAVE TO",
+      "tipo": "vocabulario",
+      "descricao": "Diferença entre MUST e HAVE TO",
+      "itens": [
+        {
+          "ingles": "I must finish this today. (personal feeling)",
+          "portugues": "Eu devo terminar isso hoje. (sentimento pessoal)",
+          "fonetica": "/aɪ mʌst ˈfɪnɪʃ ðɪs təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "MUST - personal obligation, internal feeling"
+        },
+        {
+          "ingles": "I have to finish this today. (external rule)",
+          "portugues": "Eu tenho que terminar isso hoje. (regra externa)",
+          "fonetica": "/aɪ hæv tu ˈfɪnɪʃ ðɪs təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "HAVE TO - external obligation, imposed by others"
+        },
+        {
+          "ingles": "You mustn't smoke here. (prohibited)",
+          "portugues": "Você não deve fumar aqui. (proibido)",
+          "fonetica": "/ju ˈmʌsənt smoʊk hɪr/",
+          "tem_audio": true,
+          "contexto": "MUSTN'T = prohibition, forbidden"
+        },
+        {
+          "ingles": "You don't have to smoke. (not necessary)",
+          "portugues": "Você não precisa fumar. (não é necessário)",
+          "fonetica": "/ju doʊnt hæv tu smoʊk/",
+          "tem_audio": true,
+          "contexto": "DON'T HAVE TO = not necessary, optional"
+        }
+      ]
+    },
+    {
+      "id": "want_vs_need",
+      "titulo": "WANT vs NEED",
+      "tipo": "vocabulario",
+      "descricao": "Diferença entre WANT e NEED",
+      "itens": [
+        {
+          "ingles": "I want a new phone. (desire)",
+          "portugues": "Eu quero um celular novo. (desejo)",
+          "fonetica": "/aɪ wænt ə nu foʊn/",
+          "tem_audio": true,
+          "contexto": "WANT = desire, not necessary"
+        },
+        {
+          "ingles": "I need a new phone. (necessity)",
+          "portugues": "Eu preciso de um celular novo. (necessidade)",
+          "fonetica": "/aɪ nid ə nu foʊn/",
+          "tem_audio": true,
+          "contexto": "NEED = necessity, required"
+        },
+        {
+          "ingles": "She wants to travel. (wish)",
+          "portugues": "Ela quer viajar. (desejo)",
+          "fonetica": "/ʃi wænts tu ˈtrævəl/",
+          "tem_audio": true,
+          "contexto": "WANT for dreams and wishes"
+        },
+        {
+          "ingles": "She needs to travel for work. (required)",
+          "portugues": "Ela precisa viajar a trabalho. (necessário)",
+          "fonetica": "/ʃi nidz tu ˈtrævəl fɔr wɜrk/",
+          "tem_audio": true,
+          "contexto": "NEED for necessary actions"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue - Planning a Trip",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando must, want, need e have to",
+      "participantes": ["Paula", "Ricardo"],
+      "conversas": [
+        {
+          "falante": "Paula",
+          "ingles": "Ricardo, I really want to travel to Europe this summer!",
+          "portugues": "Ricardo, eu realmente quero viajar para a Europa neste verão!",
+          "fonetica": "/rɪˈkɑrdoʊ aɪ ˈrɪli wænt tu ˈtrævəl tu ˈjʊrəp ðɪs ˈsʌmər/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Ricardo",
+          "ingles": "That sounds great! But we need to save money first. How much do we need?",
+          "portugues": "Isso parece ótimo! Mas precisamos economizar dinheiro primeiro. Quanto precisamos?",
+          "fonetica": "/ðæt saʊndz greɪt bʌt wi nid tu seɪv ˈmʌni fɜrst haʊ mʌtʃ du wi nid/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Paula",
+          "ingles": "We must save at least five thousand dollars. And we have to get our passports renewed.",
+          "portugues": "Devemos economizar pelo menos cinco mil dólares. E temos que renovar nossos passaportes.",
+          "fonetica": "/wi mʌst seɪv æt list faɪv ˈθaʊzənd ˈdɑlərz ænd wi hæv tu gɛt aʊr ˈpæspɔrts rɪˈnud/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Ricardo",
+          "ingles": "Do we have to book hotels in advance?",
+          "portugues": "Temos que reservar hotéis com antecedência?",
+          "fonetica": "/du wi hæv tu bʊk hoʊˈtɛlz ɪn ædˈvæns/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Paula",
+          "ingles": "Yes, we must book everything early to get better prices. But we don't have to decide everything now.",
+          "portugues": "Sim, devemos reservar tudo cedo para conseguir melhores preços. Mas não precisamos decidir tudo agora.",
+          "fonetica": "/jɛs wi mʌst bʊk ˈɛvriθɪŋ ˈɜrli tu gɛt ˈbɛtər ˈpraɪsəz bʌt wi doʊnt hæv tu dɪˈsaɪd ˈɛvriθɪŋ naʊ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Ricardo",
+          "ingles": "I want to visit Paris and Rome. What about you?",
+          "portugues": "Eu quero visitar Paris e Roma. E você?",
+          "fonetica": "/aɪ wænt tu ˈvɪzət ˈpɛrəs ænd roʊm wʌt əˈbaʊt ju/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Paula",
+          "ingles": "I really want to see Barcelona! But remember, we mustn't spend too much money on restaurants.",
+          "portugues": "Eu realmente quero ver Barcelona! Mas lembre-se, não devemos gastar muito dinheiro em restaurantes.",
+          "fonetica": "/aɪ ˈrɪli wænt tu si ˌbɑrsəˈloʊnə bʌt rɪˈmɛmbər wi ˈmʌsənt spɛnd tu mʌtʃ ˈmʌni ɑn ˈrɛstərənts/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - Daily Obligations and Desires",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Every day, I have many things I must do, need to do, and want to do. In the morning, I must wake up at 6 AM because I have to be at work by 8. I need to take a shower and eat breakfast to have energy for the day. I don't have to make my bed immediately, but I like to do it anyway. At work, I must complete my tasks on time and I have to attend all meetings. My boss says I mustn't use my personal phone during work hours, which is a strict rule. I need to focus on my projects because I want to get a promotion this year. During lunch, I don't have to eat in the office cafeteria - I can go out if I want to. In the evening, I want to exercise, but sometimes I'm too tired. I need to cook dinner because eating out is expensive. After dinner, I must study English for at least 30 minutes because I have to improve my skills for my career. I want to watch TV and relax, but I know I need to prioritize my goals. Before bed, I must set my alarm and I have to prepare my clothes for tomorrow. I don't have to do everything perfectly, but I must try my best every day.",
+        "texto_portugues": "Todo dia, tenho muitas coisas que devo fazer, preciso fazer e quero fazer. De manhã, devo acordar às 6h porque tenho que estar no trabalho às 8h. Preciso tomar banho e comer café da manhã para ter energia para o dia. Não preciso arrumar minha cama imediatamente, mas gosto de fazer de qualquer jeito. No trabalho, devo completar minhas tarefas no prazo e tenho que participar de todas as reuniões. Meu chefe diz que não devo usar meu telefone pessoal durante o horário de trabalho, o que é uma regra rigorosa. Preciso me concentrar em meus projetos porque quero conseguir uma promoção este ano. Durante o almoço, não preciso comer no refeitório do escritório - posso sair se quiser. À noite, quero me exercitar, mas às vezes estou muito cansado. Preciso cozinhar o jantar porque comer fora é caro. Depois do jantar, devo estudar inglês por pelo menos 30 minutos porque tenho que melhorar minhas habilidades para minha carreira. Quero assistir TV e relaxar, mas sei que preciso priorizar meus objetivos. Antes de dormir, devo colocar meu despertador e tenho que preparar minhas roupas para amanhã. Não preciso fazer tudo perfeitamente, mas devo tentar o meu melhor todos os dias.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_importantes",
+      "titulo": "Essential Tips",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Remember: 1) MUST = strong obligation or prohibition (mustn't). 2) HAVE TO = external obligation (don't have to = not necessary). 3) NEED = necessity (I need to/I need + noun). 4) WANT = desire (I want to/I want + noun). 5) MUST never changes (no musts). 6) WANT and NEED add -S for he/she/it. 7) HAVE TO becomes HAS TO for he/she/it. 8) MUSTN'T = prohibited vs DON'T HAVE TO = not necessary.",
+        "texto_portugues": "Lembre-se: 1) MUST = obrigação forte ou proibição (mustn't). 2) HAVE TO = obrigação externa (don't have to = não necessário). 3) NEED = necessidade (I need to/I need + substantivo). 4) WANT = desejo (I want to/I want + substantivo). 5) MUST nunca muda (não existe musts). 6) WANT e NEED adicionam -S para he/she/it. 7) HAVE TO se torna HAS TO para he/she/it. 8) MUSTN'T = proibido vs DON'T HAVE TO = não necessário.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice! Make sentences about your daily life: What must you do? What do you have to do? What do you need? What do you want? Create rules using mustn't. Talk about things you don't have to do. Compare want vs need in different situations. Remember: these verbs are essential for expressing obligations, desires, and necessities in everyday English!",
+        "texto_portugues": "Agora pratique! Faça frases sobre sua vida diária: O que você deve fazer? O que você tem que fazer? Do que você precisa? O que você quer? Crie regras usando mustn't. Fale sobre coisas que você não precisa fazer. Compare want vs need em diferentes situações. Lembre-se: esses verbos são essenciais para expressar obrigações, desejos e necessidades no inglês do dia a dia!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
