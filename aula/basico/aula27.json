@@ -1,0 +1,493 @@
+{
+  "titulo": "Verbos Regulares no Passado",
+  "descricao": "Domine os verbos regulares no Simple Past! Aprenda as regras de formação com -ed e como usá-los para contar histórias.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "Regular Verbs in Simple Past",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Regular verbs in the Simple Past are formed by adding -ED to the base form of the verb. This is great news because most English verbs are regular! Once you learn the rules for adding -ED, you can form the past tense of hundreds of verbs. The Simple Past tells us about completed actions in the past.",
+        "texto_portugues": "Verbos regulares no Simple Past são formados adicionando -ED à forma base do verbo. Essa é uma ótima notícia porque a maioria dos verbos ingleses são regulares! Uma vez que você aprende as regras para adicionar -ED, pode formar o passado de centenas de verbos. O Simple Past nos conta sobre ações completadas no passado.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "regra_basica_ed",
+      "titulo": "Basic Rule: Add -ED",
+      "tipo": "vocabulario",
+      "descricao": "Regra básica - apenas adicionar -ED",
+      "itens": [
+        {
+          "ingles": "work → worked",
+          "portugues": "trabalhar → trabalhei/trabalhou",
+          "fonetica": "/wɜrk → wɜrkt/",
+          "tem_audio": true,
+          "contexto": "Most verbs: just add -ED"
+        },
+        {
+          "ingles": "play → played",
+          "portugues": "brincar → brinquei/brincou",
+          "fonetica": "/pleɪ → pleɪd/",
+          "tem_audio": true,
+          "contexto": "Simple addition of -ED"
+        },
+        {
+          "ingles": "walk → walked",
+          "portugues": "caminhar → caminhei/caminhou",
+          "fonetica": "/wɔk → wɔkt/",
+          "tem_audio": true,
+          "contexto": "Regular -ED ending"
+        },
+        {
+          "ingles": "talk → talked",
+          "portugues": "falar → falei/falou",
+          "fonetica": "/tɔk → tɔkt/",
+          "tem_audio": true,
+          "contexto": "Communication verb with -ED"
+        },
+        {
+          "ingles": "help → helped",
+          "portugues": "ajudar → ajudei/ajudou",
+          "fonetica": "/hɛlp → hɛlpt/",
+          "tem_audio": true,
+          "contexto": "Action verb in past"
+        }
+      ]
+    },
+    {
+      "id": "regra_e_final",
+      "titulo": "Verbs Ending in -E: Just Add -D",
+      "tipo": "vocabulario",
+      "descricao": "Verbos terminados em -E: apenas adicione -D",
+      "itens": [
+        {
+          "ingles": "live → lived",
+          "portugues": "morar → morei/morou",
+          "fonetica": "/lɪv → lɪvd/",
+          "tem_audio": true,
+          "contexto": "Ends in -E, so just add -D (not -ED)"
+        },
+        {
+          "ingles": "like → liked",
+          "portugues": "gostar → gostei/gostou",
+          "fonetica": "/laɪk → laɪkt/",
+          "tem_audio": true,
+          "contexto": "Common verb: like → liked"
+        },
+        {
+          "ingles": "dance → danced",
+          "portugues": "dançar → dancei/dançou",
+          "fonetica": "/dæns → dænst/",
+          "tem_audio": true,
+          "contexto": "Activity verb ending in -E"
+        },
+        {
+          "ingles": "arrive → arrived",
+          "portugues": "chegar → cheguei/chegou",
+          "fonetica": "/əˈraɪv → əˈraɪvd/",
+          "tem_audio": true,
+          "contexto": "Movement verb: arrive → arrived"
+        },
+        {
+          "ingles": "close → closed",
+          "portugues": "fechar → fechei/fechou",
+          "fonetica": "/kloʊz → kloʊzd/",
+          "tem_audio": true,
+          "contexto": "Action verb with -E ending"
+        }
+      ]
+    },
+    {
+      "id": "regra_consoante_dobrar",
+      "titulo": "Double the Final Consonant",
+      "tipo": "vocabulario",
+      "descricao": "Dobrar a consoante final (consoante-vogal-consoante)",
+      "itens": [
+        {
+          "ingles": "stop → stopped",
+          "portugues": "parar → parei/parou",
+          "fonetica": "/stɑp → stɑpt/",
+          "tem_audio": true,
+          "contexto": "Short verb: consonant-vowel-consonant = double final consonant"
+        },
+        {
+          "ingles": "plan → planned",
+          "portugues": "planejar → planejei/planejou",
+          "fonetica": "/plæn → plænd/",
+          "tem_audio": true,
+          "contexto": "Double the N before adding -ED"
+        },
+        {
+          "ingles": "shop → shopped",
+          "portugues": "fazer compras → fiz/fez compras",
+          "fonetica": "/ʃɑp → ʃɑpt/",
+          "tem_audio": true,
+          "contexto": "Double the P: shop → shopped"
+        },
+        {
+          "ingles": "rob → robbed",
+          "portugues": "roubar → roubei/roubou",
+          "fonetica": "/rɑb → rɑbd/",
+          "tem_audio": true,
+          "contexto": "Double the B: rob → robbed"
+        },
+        {
+          "ingles": "drop → dropped",
+          "portugues": "derrubar → derrubei/derrubou",
+          "fonetica": "/drɑp → drɑpt/",
+          "tem_audio": true,
+          "contexto": "One syllable: consonant-vowel-consonant pattern"
+        }
+      ]
+    },
+    {
+      "id": "regra_y",
+      "titulo": "Verbs Ending in -Y",
+      "tipo": "vocabulario",
+      "descricao": "Verbos terminados em -Y: mudança para -IED",
+      "itens": [
+        {
+          "ingles": "study → studied",
+          "portugues": "estudar → estudei/estudou",
+          "fonetica": "/ˈstʌdi → ˈstʌdid/",
+          "tem_audio": true,
+          "contexto": "Consonant + Y: change Y to IED"
+        },
+        {
+          "ingles": "try → tried",
+          "portugues": "tentar → tentei/tentou",
+          "fonetica": "/traɪ → traɪd/",
+          "tem_audio": true,
+          "contexto": "Very common: try → tried"
+        },
+        {
+          "ingles": "cry → cried",
+          "portugues": "chorar → chorei/chorou",
+          "fonetica": "/kraɪ → kraɪd/",
+          "tem_audio": true,
+          "contexto": "Emotion verb: cry → cried"
+        },
+        {
+          "ingles": "carry → carried",
+          "portugues": "carregar → carreguei/carregou",
+          "fonetica": "/ˈkæri → ˈkærid/",
+          "tem_audio": true,
+          "contexto": "Double R + Y becomes IED"
+        },
+        {
+          "ingles": "worry → worried",
+          "portugues": "preocupar → preocupei/preocupou",
+          "fonetica": "/ˈwɜri → ˈwɜrid/",
+          "tem_audio": true,
+          "contexto": "Emotional state: worry → worried"
+        }
+      ]
+    },
+    {
+      "id": "excecoes_y",
+      "titulo": "Y Exception: Vowel + Y = Just Add -ED",
+      "tipo": "vocabulario",
+      "descricao": "Exceção: vogal + Y = apenas adicione -ED",
+      "itens": [
+        {
+          "ingles": "play → played",
+          "portugues": "brincar → brinquei/brincou",
+          "fonetica": "/pleɪ → pleɪd/",
+          "tem_audio": true,
+          "contexto": "Vowel + Y: keep the Y, add -ED"
+        },
+        {
+          "ingles": "stay → stayed",
+          "portugues": "ficar → fiquei/ficou",
+          "fonetica": "/steɪ → steɪd/",
+          "tem_audio": true,
+          "contexto": "A + Y: just add -ED"
+        },
+        {
+          "ingles": "enjoy → enjoyed",
+          "portugues": "curtir → curti/curtiu",
+          "fonetica": "/ɪnˈdʒɔɪ → ɪnˈdʒɔɪd/",
+          "tem_audio": true,
+          "contexto": "O + Y: normal -ED addition"
+        },
+        {
+          "ingles": "destroy → destroyed",
+          "portugues": "destruir → destruí/destruiu",
+          "fonetica": "/dɪˈstrɔɪ → dɪˈstrɔɪd/",
+          "tem_audio": true,
+          "contexto": "Vowel before Y = keep Y"
+        }
+      ]
+    },
+    {
+      "id": "pronuncia_ed",
+      "titulo": "Pronunciation of -ED Endings",
+      "tipo": "vocabulario",
+      "descricao": "Como pronunciar as terminações -ED",
+      "itens": [
+        {
+          "ingles": "walked, helped, worked",
+          "portugues": "caminhei, ajudei, trabalhei",
+          "fonetica": "/wɔkt, hɛlpt, wɜrkt/",
+          "tem_audio": true,
+          "contexto": "After voiceless sounds (p,k,f,s,sh,ch): pronounce /t/"
+        },
+        {
+          "ingles": "played, lived, studied",
+          "portugues": "brinquei, morei, estudei",
+          "fonetica": "/pleɪd, lɪvd, ˈstʌdid/",
+          "tem_audio": true,
+          "contexto": "After voiced sounds (b,g,v,z,m,n,l,r): pronounce /d/"
+        },
+        {
+          "ingles": "wanted, needed, decided",
+          "portugues": "quis, precisei, decidi",
+          "fonetica": "/ˈwæntəd, ˈnidəd, dɪˈsaɪdəd/",
+          "tem_audio": true,
+          "contexto": "After /t/ and /d/ sounds: pronounce /əd/ (extra syllable)"
+        }
+      ]
+    },
+    {
+      "id": "verbos_comuns_passado",
+      "titulo": "Common Regular Verbs in Past",
+      "tipo": "vocabulario",
+      "descricao": "Verbos regulares comuns no passado",
+      "itens": [
+        {
+          "ingles": "I watched TV last night.",
+          "portugues": "Eu assisti TV ontem à noite.",
+          "fonetica": "/aɪ wɑtʃt ˌtiˈvi læst naɪt/",
+          "tem_audio": true,
+          "contexto": "WATCH → WATCHED (entertainment activity)"
+        },
+        {
+          "ingles": "She cooked dinner for us.",
+          "portugues": "Ela cozinhou o jantar para nós.",
+          "fonetica": "/ʃi kʊkt ˈdɪnər fɔr ʌs/",
+          "tem_audio": true,
+          "contexto": "COOK → COOKED (daily activity)"
+        },
+        {
+          "ingles": "We visited our grandparents.",
+          "portugues": "Nós visitamos nossos avós.",
+          "fonetica": "/wi ˈvɪzətəd aʊr ˈgrænˌpɛrənts/",
+          "tem_audio": true,
+          "contexto": "VISIT → VISITED (social activity)"
+        },
+        {
+          "ingles": "They finished their homework.",
+          "portugues": "Eles terminaram a lição de casa.",
+          "fonetica": "/ðeɪ ˈfɪnɪʃt ðɛr ˈhoʊmˌwɜrk/",
+          "tem_audio": true,
+          "contexto": "FINISH → FINISHED (completion)"
+        },
+        {
+          "ingles": "He cleaned his room yesterday.",
+          "portugues": "Ele limpou o quarto ontem.",
+          "fonetica": "/hi klind hɪz rum ˈjɛstərˌdeɪ/",
+          "tem_audio": true,
+          "contexto": "CLEAN → CLEANED (household task)"
+        }
+      ]
+    },
+    {
+      "id": "expressoes_tempo_passado",
+      "titulo": "Past Time Expressions",
+      "tipo": "vocabulario",
+      "descricao": "Expressões de tempo para usar com Simple Past",
+      "itens": [
+        {
+          "ingles": "I worked hard yesterday.",
+          "portugues": "Eu trabalhei duro ontem.",
+          "fonetica": "/aɪ wɜrkt hɑrd ˈjɛstərˌdeɪ/",
+          "tem_audio": true,
+          "contexto": "YESTERDAY - the day before today"
+        },
+        {
+          "ingles": "She visited Paris last month.",
+          "portugues": "Ela visitou Paris no mês passado.",
+          "fonetica": "/ʃi ˈvɪzətəd ˈpɛrəs læst mʌnθ/",
+          "tem_audio": true,
+          "contexto": "LAST MONTH/WEEK/YEAR - previous time periods"
+        },
+        {
+          "ingles": "We moved here two years ago.",
+          "portugues": "Nós nos mudamos para cá há dois anos.",
+          "fonetica": "/wi muvd hɪr tu jɪrz əˈgoʊ/",
+          "tem_audio": true,
+          "contexto": "AGO - time before now (five minutes ago, ten years ago)"
+        },
+        {
+          "ingles": "They traveled to Europe in 2019.",
+          "portugues": "Eles viajaram para a Europa em 2019.",
+          "fonetica": "/ðeɪ ˈtrævəld tu ˈjʊrəp ɪn ˈtwɛnti naɪnˈtin/",
+          "tem_audio": true,
+          "contexto": "IN + specific year/month (in 2020, in January)"
+        }
+      ]
+    },
+    {
+      "id": "forma_igual_todos",
+      "titulo": "Same Form for All Subjects",
+      "tipo": "vocabulario",
+      "descricao": "A mesma forma para todos os sujeitos",
+      "itens": [
+        {
+          "ingles": "I worked / You worked / He worked / She worked / We worked / They worked",
+          "portugues": "Eu trabalhei / Você trabalhou / Ele trabalhou / Ela trabalhou / Nós trabalhamos / Eles trabalharam",
+          "fonetica": "/aɪ wɜrkt / ju wɜrkt / hi wɜrkt / ʃi wɜrkt / wi wɜrkt / ðeɪ wɜrkt/",
+          "tem_audio": true,
+          "contexto": "WORKED: same form for ALL subjects"
+        },
+        {
+          "ingles": "Everyone played soccer yesterday.",
+          "portugues": "Todo mundo jogou futebol ontem.",
+          "fonetica": "/ˈɛvriˌwʌn pleɪd ˈsɑkər ˈjɛstərˌdeɪ/",
+          "tem_audio": true,
+          "contexto": "No conjugation changes needed!"
+        }
+      ]
+    },
+    {
+      "id": "negativa_passado",
+      "titulo": "Negative Form: DIDN'T + Base Verb",
+      "tipo": "vocabulario",
+      "descricao": "Forma negativa usando DIDN'T",
+      "itens": [
+        {
+          "ingles": "I didn't work yesterday.",
+          "portugues": "Eu não trabalhei ontem.",
+          "fonetica": "/aɪ ˈdɪdənt wɜrk ˈjɛstərˌdeɪ/",
+          "tem_audio": true,
+          "contexto": "DIDN'T + base verb (not 'didn't worked')"
+        },
+        {
+          "ingles": "She didn't like the movie.",
+          "portugues": "Ela não gostou do filme.",
+          "fonetica": "/ʃi ˈdɪdənt laɪk ðə ˈmuvi/",
+          "tem_audio": true,
+          "contexto": "Negative opinion in the past"
+        },
+        {
+          "ingles": "We didn't finish our project.",
+          "portugues": "Nós não terminamos nosso projeto.",
+          "fonetica": "/wi ˈdɪdənt ˈfɪnɪʃ aʊr ˈprɑdʒɛkt/",
+          "tem_audio": true,
+          "contexto": "Incomplete action in the past"
+        }
+      ]
+    },
+    {
+      "id": "perguntas_passado",
+      "titulo": "Questions: DID + Base Verb?",
+      "tipo": "vocabulario",
+      "descricao": "Como fazer perguntas no Simple Past",
+      "itens": [
+        {
+          "ingles": "Did you work yesterday?",
+          "portugues": "Você trabalhou ontem?",
+          "fonetica": "/dɪd ju wɜrk ˈjɛstərˌdeɪ/",
+          "tem_audio": true,
+          "contexto": "Yes/No questions: DID + subject + base verb"
+        },
+        {
+          "ingles": "What did you do last weekend?",
+          "portugues": "O que você fez no último fim de semana?",
+          "fonetica": "/wʌt dɪd ju du læst ˈwikˌɛnd/",
+          "tem_audio": true,
+          "contexto": "WH-questions: WH-word + DID + subject + base verb"
+        },
+        {
+          "ingles": "Where did they go?",
+          "portugues": "Para onde eles foram?",
+          "fonetica": "/wɛr dɪd ðeɪ goʊ/",
+          "tem_audio": true,
+          "contexto": "Question about location in the past"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue - Talking About Yesterday",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando verbos regulares no passado",
+      "participantes": ["Mike", "Sarah"],
+      "conversas": [
+        {
+          "falante": "Mike",
+          "ingles": "Hi Sarah! How was your day yesterday?",
+          "portugues": "Oi Sarah! Como foi seu dia ontem?",
+          "fonetica": "/haɪ ˈsɛrə haʊ wʌz jʊr deɪ ˈjɛstərˌdeɪ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Sarah",
+          "ingles": "It was great! I started my day early and worked in the garden for two hours.",
+          "portugues": "Foi ótimo! Comecei meu dia cedo e trabalhei no jardim por duas horas.",
+          "fonetica": "/ɪt wʌz greɪt aɪ ˈstɑrtəd maɪ deɪ ˈɜrli ænd wɜrkt ɪn ðə ˈgɑrdən fɔr tu ˈaʊərz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mike",
+          "ingles": "That sounds nice! Did you plant anything new?",
+          "portugues": "Isso parece legal! Você plantou algo novo?",
+          "fonetica": "/ðæt saʊndz naɪs dɪd ju plænt ˈɛniθɪŋ nu/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Sarah",
+          "ingles": "Yes! I planted tomatoes and carrots. Then I cleaned the house and cooked lunch for my family.",
+          "portugues": "Sim! Plantei tomates e cenouras. Depois limpei a casa e cozinhei almoço para minha família.",
+          "fonetica": "/jɛs aɪ ˈplæntəd təˈmeɪtoʊz ænd ˈkærəts ðɛn aɪ klind ðə haʊs ænd kʊkt lʌntʃ fɔr maɪ ˈfæməli/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Mike",
+          "ingles": "You were very productive! What did you do in the afternoon?",
+          "portugues": "Você foi muito produtiva! O que fez à tarde?",
+          "fonetica": "/ju wər ˈvɛri prəˈdʌktɪv wʌt dɪd ju du ɪn ði ˌæftərˈnun/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Sarah",
+          "ingles": "I relaxed and watched a movie with my kids. We enjoyed it a lot!",
+          "portugues": "Relaxei e assisti um filme com meus filhos. Curtimos muito!",
+          "fonetica": "/aɪ rɪˈlækst ænd wɑtʃt ə ˈmuvi wɪð maɪ kɪdz wi ɪnˈdʒɔɪd ɪt ə lɑt/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - My Last Vacation",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Last summer, I traveled to Europe with my best friend. We planned the trip for months and saved money for a whole year. We visited five different countries in three weeks. First, we arrived in London and stayed there for four days. We walked around the city, visited famous museums, and tried traditional English food. Then we traveled to Paris by train. In Paris, we climbed the Eiffel Tower and tasted delicious French pastries. After Paris, we moved to Rome. We walked through ancient ruins and marveled at incredible architecture. From Rome, we traveled to Barcelona. We relaxed on beautiful beaches and danced at local clubs. Finally, we ended our trip in Amsterdam. We cycled through the city and learned about Dutch history. The trip changed our perspective on the world.",
+        "texto_portugues": "No verão passado, viajei para a Europa com meu melhor amigo. Planejamos a viagem por meses e economizamos dinheiro por um ano inteiro. Visitamos cinco países diferentes em três semanas. Primeiro, chegamos em Londres e ficamos lá por quatro dias. Caminhamos pela cidade, visitamos museus famosos e experimentamos comida inglesa tradicional. Depois viajamos para Paris de trem. Em Paris, subimos a Torre Eiffel e provamos deliciosos doces franceses. Depois de Paris, nos mudamos para Roma. Caminhamos por ruínas antigas e nos maravilhamos com a arquitetura incrível. De Roma, viajamos para Barcelona. Relaxamos em praias bonitas e dançamos em clubes locais. Finalmente, terminamos nossa viagem em Amsterdã. Pedalamos pela cidade e aprendemos sobre a história holandesa. A viagem mudou nossa perspectiva sobre o mundo.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_importantes",
+      "titulo": "Essential Tips for Regular Past Verbs",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Remember these key points: 1) Most verbs: add -ED. 2) Verbs ending in -E: add -D. 3) Consonant-vowel-consonant: double final consonant. 4) Consonant + Y: change to -IED. 5) Vowel + Y: just add -ED. 6) Same form for all subjects! 7) Negative: DIDN'T + base verb. 8) Questions: DID + base verb. 9) Pronunciation: /t/, /d/, or /əd/.",
+        "texto_portugues": "Lembre-se desses pontos-chave: 1) Maioria dos verbos: adicione -ED. 2) Verbos terminados em -E: adicione -D. 3) Consoante-vogal-consoante: dobre a consoante final. 4) Consoante + Y: mude para -IED. 5) Vogal + Y: apenas adicione -ED. 6) Mesma forma para todos os sujeitos! 7) Negativo: DIDN'T + verbo base. 8) Perguntas: DID + verbo base. 9) Pronúncia: /t/, /d/, ou /əd/.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice! Tell a story about what you did yesterday. Create questions about the past. Practice the different -ED endings and their pronunciation. Write about a memorable experience. Remember: regular verbs follow predictable patterns, so once you master the rules, you can use hundreds of verbs confidently in the past!",
+        "texto_portugues": "Agora pratique! Conte uma história sobre o que você fez ontem. Crie perguntas sobre o passado. Pratique as diferentes terminações -ED e sua pronúncia. Escreva sobre uma experiência memorável. Lembre-se: verbos regulares seguem padrões previsíveis, então uma vez que dominar as regras, pode usar centenas de verbos com confiança no passado!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
