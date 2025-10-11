@@ -1,0 +1,439 @@
+{
+  "titulo": "Very, Much, A Lot Of, Lots",
+  "descricao": "Aprenda a usar corretamente very, much, a lot of e lots para intensificar e quantificar em inglês. Descubra as diferenças e evite erros comuns!",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "Understanding Intensifiers and Quantifiers",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Welcome to this essential lesson! Today you will learn how to use very, much, a lot of, and lots correctly. These words are used constantly in English to express intensity and quantity, but many students confuse them. Don't worry - by the end of this lesson, you'll know exactly when to use each one!",
+        "texto_portugues": "Bem-vindo a esta aula essencial! Hoje você vai aprender a usar very, much, a lot of e lots corretamente. Essas palavras são usadas constantemente em inglês para expressar intensidade e quantidade, mas muitos alunos as confundem. Não se preocupe - ao final desta aula, você saberá exatamente quando usar cada uma!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "very_basico",
+      "titulo": "VERY - The Intensifier",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "VERY is used to intensify adjectives and adverbs. It makes the meaning stronger. Important: VERY is NOT used with verbs! You say 'very happy', 'very fast', 'very beautiful', but never 'I very like it'. Remember this rule and you'll avoid one of the most common mistakes!",
+        "texto_portugues": "VERY é usado para intensificar adjetivos e advérbios. Ele torna o significado mais forte. Importante: VERY NÃO é usado com verbos! Você diz 'very happy' (muito feliz), 'very fast' (muito rápido), 'very beautiful' (muito bonito), mas nunca 'I very like it'. Lembre-se desta regra e você evitará um dos erros mais comuns!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "very_exemplos",
+      "titulo": "VERY - Examples",
+      "tipo": "vocabulario",
+      "descricao": "Exemplos práticos com VERY",
+      "itens": [
+        {
+          "ingles": "She is very tall.",
+          "portugues": "Ela é muito alta.",
+          "fonetica": "/ʃiː ɪz ˈvɛri tɔːl/",
+          "tem_audio": true,
+          "contexto": "VERY + adjective (tall)"
+        },
+        {
+          "ingles": "He speaks very quickly.",
+          "portugues": "Ele fala muito rapidamente.",
+          "fonetica": "/hiː spiːks ˈvɛri ˈkwɪkli/",
+          "tem_audio": true,
+          "contexto": "VERY + adverb (quickly)"
+        },
+        {
+          "ingles": "This coffee is very hot.",
+          "portugues": "Este café está muito quente.",
+          "fonetica": "/ðɪs ˈkɒfi ɪz ˈvɛri hɒt/",
+          "tem_audio": true,
+          "contexto": "VERY + adjective (hot)"
+        },
+        {
+          "ingles": "The test was very difficult.",
+          "portugues": "A prova estava muito difícil.",
+          "fonetica": "/ðə tɛst wɒz ˈvɛri ˈdɪfɪkəlt/",
+          "tem_audio": true,
+          "contexto": "VERY + adjective (difficult)"
+        },
+        {
+          "ingles": "You did very well!",
+          "portugues": "Você fez muito bem!",
+          "fonetica": "/juː dɪd ˈvɛri wɛl/",
+          "tem_audio": true,
+          "contexto": "VERY + adverb (well)"
+        }
+      ]
+    },
+    {
+      "id": "much_basico",
+      "titulo": "MUCH - The Verb Intensifier",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "MUCH is used to intensify verbs, but mainly in negative sentences and questions. In affirmative sentences, we usually prefer 'a lot' or 'very much'. MUCH is also used with uncountable nouns in questions and negatives. This is a key difference from VERY!",
+        "texto_portugues": "MUCH é usado para intensificar verbos, mas principalmente em frases negativas e perguntas. Em frases afirmativas, geralmente preferimos 'a lot' ou 'very much'. MUCH também é usado com substantivos incontáveis em perguntas e negativas. Esta é uma diferença chave em relação ao VERY!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "much_exemplos",
+      "titulo": "MUCH - Examples",
+      "tipo": "vocabulario",
+      "descricao": "Exemplos práticos com MUCH",
+      "itens": [
+        {
+          "ingles": "I don't like it very much.",
+          "portugues": "Eu não gosto muito disso.",
+          "fonetica": "/aɪ doʊnt laɪk ɪt ˈvɛri mʌtʃ/",
+          "tem_audio": true,
+          "contexto": "VERY MUCH with verbs in negative sentences"
+        },
+        {
+          "ingles": "Do you travel much?",
+          "portugues": "Você viaja muito?",
+          "fonetica": "/duː juː ˈtrævəl mʌtʃ/",
+          "tem_audio": true,
+          "contexto": "MUCH with verbs in questions"
+        },
+        {
+          "ingles": "There isn't much water left.",
+          "portugues": "Não sobrou muita água.",
+          "fonetica": "/ðeər ˈɪzənt mʌtʃ ˈwɔːtər lɛft/",
+          "tem_audio": true,
+          "contexto": "MUCH + uncountable noun (water) in negative"
+        },
+        {
+          "ingles": "How much time do we have?",
+          "portugues": "Quanto tempo temos?",
+          "fonetica": "/haʊ mʌtʃ taɪm duː wiː hæv/",
+          "tem_audio": true,
+          "contexto": "MUCH + uncountable noun (time) in question"
+        },
+        {
+          "ingles": "Thank you very much!",
+          "portugues": "Muito obrigado!",
+          "fonetica": "/θæŋk juː ˈvɛri mʌtʃ/",
+          "tem_audio": true,
+          "contexto": "Fixed expression - very common phrase"
+        }
+      ]
+    },
+    {
+      "id": "alot_basico",
+      "titulo": "A LOT (OF) - The Universal Quantifier",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "A LOT and A LOT OF are very versatile! Use 'a lot of' before nouns (countable or uncountable) and 'a lot' after verbs in affirmative sentences. This is the safest choice when you're not sure whether to use 'much' or 'many'. It works in all types of sentences: affirmative, negative, and questions!",
+        "texto_portugues": "A LOT e A LOT OF são muito versáteis! Use 'a lot of' antes de substantivos (contáveis ou incontáveis) e 'a lot' depois de verbos em frases afirmativas. Esta é a escolha mais segura quando você não tem certeza se deve usar 'much' ou 'many'. Funciona em todos os tipos de frases: afirmativas, negativas e perguntas!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "alot_exemplos",
+      "titulo": "A LOT (OF) - Examples",
+      "tipo": "vocabulario",
+      "descricao": "Exemplos práticos com A LOT (OF)",
+      "itens": [
+        {
+          "ingles": "I like it a lot.",
+          "portugues": "Eu gosto muito disso.",
+          "fonetica": "/aɪ laɪk ɪt ə lɒt/",
+          "tem_audio": true,
+          "contexto": "A LOT after verb in affirmative - more natural than 'much'"
+        },
+        {
+          "ingles": "She has a lot of friends.",
+          "portugues": "Ela tem muitos amigos.",
+          "fonetica": "/ʃiː hæz ə lɒt əv frɛndz/",
+          "tem_audio": true,
+          "contexto": "A LOT OF + countable noun (friends)"
+        },
+        {
+          "ingles": "There's a lot of traffic today.",
+          "portugues": "Há muito trânsito hoje.",
+          "fonetica": "/ðeərz ə lɒt əv ˈtræfɪk təˈdeɪ/",
+          "tem_audio": true,
+          "contexto": "A LOT OF + uncountable noun (traffic)"
+        },
+        {
+          "ingles": "We eat out a lot.",
+          "portugues": "Nós comemos fora muito.",
+          "fonetica": "/wiː iːt aʊt ə lɒt/",
+          "tem_audio": true,
+          "contexto": "A LOT after verb - very common in spoken English"
+        },
+        {
+          "ingles": "Do you have a lot of work?",
+          "portugues": "Você tem muito trabalho?",
+          "fonetica": "/duː juː hæv ə lɒt əv wɜːrk/",
+          "tem_audio": true,
+          "contexto": "A LOT OF in questions - alternative to 'much'"
+        }
+      ]
+    },
+    {
+      "id": "lots_basico",
+      "titulo": "LOTS (OF) - The Informal Version",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "LOTS and LOTS OF mean exactly the same as 'a lot' and 'a lot of', but they're more informal and casual. They're very common in spoken English and friendly writing. You can use them interchangeably with 'a lot of' - just remember that 'lots of' sounds more relaxed and conversational!",
+        "texto_portugues": "LOTS e LOTS OF significam exatamente o mesmo que 'a lot' e 'a lot of', mas são mais informais e casuais. São muito comuns no inglês falado e em textos amigáveis. Você pode usá-los de forma intercambiável com 'a lot of' - apenas lembre-se que 'lots of' soam mais relaxados e conversacionais!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "lots_exemplos",
+      "titulo": "LOTS (OF) - Examples",
+      "tipo": "vocabulario",
+      "descricao": "Exemplos práticos com LOTS (OF)",
+      "itens": [
+        {
+          "ingles": "We had lots of fun!",
+          "portugues": "Nós nos divertimos muito!",
+          "fonetica": "/wiː hæd lɒts əv fʌn/",
+          "tem_audio": true,
+          "contexto": "LOTS OF + uncountable noun (fun) - informal"
+        },
+        {
+          "ingles": "There are lots of people here.",
+          "portugues": "Há muitas pessoas aqui.",
+          "fonetica": "/ðeər ɑːr lɒts əv ˈpiːpəl hɪər/",
+          "tem_audio": true,
+          "contexto": "LOTS OF + countable noun (people)"
+        },
+        {
+          "ingles": "Thanks lots!",
+          "portugues": "Muito obrigado!",
+          "fonetica": "/θæŋks lɒts/",
+          "tem_audio": true,
+          "contexto": "LOTS alone - very informal expression"
+        },
+        {
+          "ingles": "I love you lots!",
+          "portugues": "Eu te amo muito!",
+          "fonetica": "/aɪ lʌv juː lɒts/",
+          "tem_audio": true,
+          "contexto": "LOTS after verb - casual and affectionate"
+        },
+        {
+          "ingles": "She has lots of experience.",
+          "portugues": "Ela tem muita experiência.",
+          "fonetica": "/ʃiː hæz lɒts əv ɪkˈspɪəriəns/",
+          "tem_audio": true,
+          "contexto": "LOTS OF + uncountable noun (experience)"
+        }
+      ]
+    },
+    {
+      "id": "comparacao",
+      "titulo": "Quick Comparison Guide",
+      "tipo": "vocabulario",
+      "descricao": "Comparação direta entre as quatro formas",
+      "itens": [
+        {
+          "ingles": "VERY + adjective/adverb ONLY",
+          "portugues": "VERY + adjetivo/advérbio SOMENTE",
+          "fonetica": "/ˈvɛri/",
+          "tem_audio": true,
+          "contexto": "Example: very happy, very fast, very good"
+        },
+        {
+          "ingles": "MUCH + verb (negative/question)",
+          "portugues": "MUCH + verbo (negativa/pergunta)",
+          "fonetica": "/mʌtʃ/",
+          "tem_audio": true,
+          "contexto": "Example: I don't eat much. Do you study much?"
+        },
+        {
+          "ingles": "A LOT + after verbs (affirmative)",
+          "portugues": "A LOT + depois de verbos (afirmativa)",
+          "fonetica": "/ə lɒt/",
+          "tem_audio": true,
+          "contexto": "Example: I sleep a lot. She works a lot."
+        },
+        {
+          "ingles": "A LOT OF + any noun",
+          "portugues": "A LOT OF + qualquer substantivo",
+          "fonetica": "/ə lɒt əv/",
+          "tem_audio": true,
+          "contexto": "Example: a lot of money, a lot of cars"
+        },
+        {
+          "ingles": "LOTS (OF) = A LOT (OF) but informal",
+          "portugues": "LOTS (OF) = A LOT (OF) mas informal",
+          "fonetica": "/lɒts/",
+          "tem_audio": true,
+          "contexto": "Example: lots of love, we talk lots"
+        }
+      ]
+    },
+    {
+      "id": "erros_comuns",
+      "titulo": "Common Mistakes to Avoid",
+      "tipo": "vocabulario",
+      "descricao": "Erros frequentes e como corrigi-los",
+      "itens": [
+        {
+          "ingles": "WRONG: I very like pizza.",
+          "portugues": "ERRADO: I very like pizza.",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "CORRECT: I like pizza very much. OR I like pizza a lot."
+        },
+        {
+          "ingles": "WRONG: She is much beautiful.",
+          "portugues": "ERRADO: She is much beautiful.",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "CORRECT: She is very beautiful."
+        },
+        {
+          "ingles": "WRONG: I have very friends.",
+          "portugues": "ERRADO: I have very friends.",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "CORRECT: I have a lot of friends. OR I have many friends."
+        },
+        {
+          "ingles": "WRONG: He studies very much. (in affirmative)",
+          "portugues": "ERRADO: He studies very much. (em afirmativa)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "CORRECT: He studies a lot."
+        },
+        {
+          "ingles": "WRONG: There are much people.",
+          "portugues": "ERRADO: There are much people.",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "CORRECT: There are a lot of people. OR There are many people."
+        }
+      ]
+    },
+    {
+      "id": "dialogo_pratico",
+      "titulo": "Real Conversation",
+      "tipo": "dialogo",
+      "descricao": "Diálogo usando very, much, a lot of e lots",
+      "participantes": ["Anna", "Carlos"],
+      "conversas": [
+        {
+          "falante": "Anna",
+          "ingles": "How was your weekend?",
+          "portugues": "Como foi seu fim de semana?",
+          "fonetica": "/haʊ wɒz jɔːr ˈwiːkˌɛnd/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "It was very good! I went to the beach and had lots of fun.",
+          "portugues": "Foi muito bom! Eu fui à praia e me diverti muito.",
+          "fonetica": "/ɪt wɒz ˈvɛri ɡʊd aɪ wɛnt tuː ðə biːtʃ ænd hæd lɒts əv fʌn/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Anna",
+          "ingles": "That sounds great! Were there a lot of people?",
+          "portugues": "Isso parece ótimo! Havia muitas pessoas?",
+          "fonetica": "/ðæt saʊndz ɡreɪt wɜːr ðeər ə lɒt əv ˈpiːpəl/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "Not really. It wasn't very crowded because the weather was a bit cold.",
+          "portugues": "Não muito. Não estava muito lotado porque o tempo estava um pouco frio.",
+          "fonetica": "/nɒt ˈrɪəli ɪt ˈwɒzənt ˈvɛri ˈkraʊdɪd bɪˈkɒz ðə ˈwɛðər wɒz ə bɪt koʊld/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Anna",
+          "ingles": "Did you swim much?",
+          "portugues": "Você nadou muito?",
+          "fonetica": "/dɪd juː swɪm mʌtʃ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "Yes, I swam a lot! The water was very clean and refreshing.",
+          "portugues": "Sim, nadei muito! A água estava muito limpa e refrescante.",
+          "fonetica": "/jɛs aɪ swæm ə lɒt ðə ˈwɔːtər wɒz ˈvɛri kliːn ænd rɪˈfrɛʃɪŋ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Anna",
+          "ingles": "I love the beach! I miss it a lot because I don't go very often.",
+          "portugues": "Eu amo a praia! Eu sinto muita falta porque não vou muito frequentemente.",
+          "fonetica": "/aɪ lʌv ðə biːtʃ aɪ mɪs ɪt ə lɒt bɪˈkɒz aɪ doʊnt ɡoʊ ˈvɛri ˈɒfən/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Carlos",
+          "ingles": "You should come with me next time! I have a lot of free time on weekends.",
+          "portugues": "Você deveria vir comigo da próxima vez! Eu tenho muito tempo livre nos fins de semana.",
+          "fonetica": "/juː ʃʊd kʌm wɪð miː nɛkst taɪm aɪ hæv ə lɒt əv friː taɪm ɒn ˈwiːkˌɛndz/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "expressoes_uteis",
+      "titulo": "Useful Fixed Expressions",
+      "tipo": "vocabulario",
+      "descricao": "Expressões fixas muito comuns",
+      "itens": [
+        {
+          "ingles": "Thank you very much!",
+          "portugues": "Muito obrigado!",
+          "fonetica": "/θæŋk juː ˈvɛri mʌtʃ/",
+          "tem_audio": true,
+          "contexto": "Most polite way to say thank you"
+        },
+        {
+          "ingles": "I like it very much.",
+          "portugues": "Eu gosto muito disso.",
+          "fonetica": "/aɪ laɪk ɪt ˈvɛri mʌtʃ/",
+          "tem_audio": true,
+          "contexto": "More formal than 'I like it a lot'"
+        },
+        {
+          "ingles": "Not very much.",
+          "portugues": "Não muito.",
+          "fonetica": "/nɒt ˈvɛri mʌtʃ/",
+          "tem_audio": true,
+          "contexto": "Polite way to say 'not really'"
+        },
+        {
+          "ingles": "A lot of fun",
+          "portugues": "Muita diversão",
+          "fonetica": "/ə lɒt əv fʌn/",
+          "tem_audio": true,
+          "contexto": "Very common expression: We had a lot of fun!"
+        },
+        {
+          "ingles": "Very well, thank you.",
+          "portugues": "Muito bem, obrigado.",
+          "fonetica": "/ˈvɛri wɛl θæŋk juː/",
+          "tem_audio": true,
+          "contexto": "Formal response to 'How are you?'"
+        },
+        {
+          "ingles": "Lots of love",
+          "portugues": "Muito amor / Com carinho",
+          "fonetica": "/lɒts əv lʌv/",
+          "tem_audio": true,
+          "contexto": "Common way to end informal letters or messages"
+        }
+      ]
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Practice Makes Perfect!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now you know the rules! Remember: VERY goes with adjectives and adverbs. MUCH is for verbs in negatives and questions. A LOT and A LOT OF work everywhere and are your safest choice. LOTS and LOTS OF are just the informal versions. Practice by describing your day, your feelings, and your activities using these words. The more you practice, the more natural it will become!",
+        "texto_portugues": "Agora você sabe as regras! Lembre-se: VERY vai com adjetivos e advérbios. MUCH é para verbos em negativas e perguntas. A LOT e A LOT OF funcionam em todo lugar e são sua escolha mais segura. LOTS e LOTS OF são apenas as versões informais. Pratique descrevendo seu dia, seus sentimentos e suas atividades usando essas palavras. Quanto mais você praticar, mais natural ficará!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
