@@ -1,0 +1,466 @@
+{
+  "titulo": "Something, Anything e Nothing",
+  "descricao": "Aprenda a usar something, anything e nothing corretamente! Domine esses pronomes indefinidos essenciais para conversação natural.",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "Understanding Indefinite Pronouns",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Something, anything, and nothing are indefinite pronouns that refer to things without specifying exactly what they are. They are essential for natural English conversation! SOMETHING is used in affirmative sentences and offers. ANYTHING is used in questions and negative sentences. NOTHING means 'not anything' and makes the sentence negative by itself. Let's learn when to use each one!",
+        "texto_portugues": "Something, anything e nothing são pronomes indefinidos que se referem a coisas sem especificar exatamente o que são. São essenciais para conversação natural em inglês! SOMETHING é usado em frases afirmativas e ofertas. ANYTHING é usado em perguntas e frases negativas. NOTHING significa 'nada' e torna a frase negativa por si só. Vamos aprender quando usar cada um!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "something_afirmativo",
+      "titulo": "SOMETHING - Affirmative Sentences",
+      "tipo": "vocabulario",
+      "descricao": "SOMETHING em frases afirmativas",
+      "itens": [
+        {
+          "ingles": "I need to tell you something.",
+          "portugues": "Eu preciso te contar algo.",
+          "fonetica": "/aɪ nid tu tɛl ju ˈsʌmθɪŋ/",
+          "tem_audio": true,
+          "contexto": "SOMETHING in affirmative sentences"
+        },
+        {
+          "ingles": "There is something in the box.",
+          "portugues": "Há algo na caixa.",
+          "fonetica": "/ðɛr ɪz ˈsʌmθɪŋ ɪn ðə bɑks/",
+          "tem_audio": true,
+          "contexto": "SOMETHING - we know it exists but don't specify what"
+        },
+        {
+          "ingles": "She bought something for her mother.",
+          "portugues": "Ela comprou algo para a mãe.",
+          "fonetica": "/ʃi bɔt ˈsʌmθɪŋ fɔr hər ˈmʌðər/",
+          "tem_audio": true,
+          "contexto": "SOMETHING - unspecified thing"
+        },
+        {
+          "ingles": "I heard something outside.",
+          "portugues": "Eu ouvi algo lá fora.",
+          "fonetica": "/aɪ hɜrd ˈsʌmθɪŋ ˈaʊtˌsaɪd/",
+          "tem_audio": true,
+          "contexto": "SOMETHING - unknown thing"
+        },
+        {
+          "ingles": "He wants to eat something.",
+          "portugues": "Ele quer comer algo.",
+          "fonetica": "/hi wɑnts tu it ˈsʌmθɪŋ/",
+          "tem_audio": true,
+          "contexto": "SOMETHING with verbs of desire"
+        }
+      ]
+    },
+    {
+      "id": "something_ofertas",
+      "titulo": "SOMETHING - Offers and Requests",
+      "tipo": "vocabulario",
+      "descricao": "SOMETHING em ofertas e pedidos",
+      "itens": [
+        {
+          "ingles": "Would you like something to drink?",
+          "portugues": "Você gostaria de algo para beber?",
+          "fonetica": "/wʊd ju laɪk ˈsʌmθɪŋ tu drɪŋk/",
+          "tem_audio": true,
+          "contexto": "SOMETHING in offers (not anything)"
+        },
+        {
+          "ingles": "Can I get you something to eat?",
+          "portugues": "Posso te trazer algo para comer?",
+          "fonetica": "/kæn aɪ gɛt ju ˈsʌmθɪŋ tu it/",
+          "tem_audio": true,
+          "contexto": "SOMETHING when offering food or drinks"
+        },
+        {
+          "ingles": "Do you need something from the store?",
+          "portugues": "Você precisa de algo da loja?",
+          "fonetica": "/du ju nid ˈsʌmθɪŋ frʌm ðə stɔr/",
+          "tem_audio": true,
+          "contexto": "SOMETHING in helpful questions"
+        },
+        {
+          "ingles": "Can you bring me something warm?",
+          "portugues": "Você pode me trazer algo quente?",
+          "fonetica": "/kæn ju brɪŋ mi ˈsʌmθɪŋ wɔrm/",
+          "tem_audio": true,
+          "contexto": "SOMETHING in requests"
+        }
+      ]
+    },
+    {
+      "id": "anything_perguntas",
+      "titulo": "ANYTHING - Questions",
+      "tipo": "vocabulario",
+      "descricao": "ANYTHING em perguntas",
+      "itens": [
+        {
+          "ingles": "Do you need anything?",
+          "portugues": "Você precisa de alguma coisa?",
+          "fonetica": "/du ju nid ˈɛniθɪŋ/",
+          "tem_audio": true,
+          "contexto": "ANYTHING in general questions"
+        },
+        {
+          "ingles": "Is there anything in the fridge?",
+          "portugues": "Há alguma coisa na geladeira?",
+          "fonetica": "/ɪz ðɛr ˈɛniθɪŋ ɪn ðə frɪdʒ/",
+          "tem_audio": true,
+          "contexto": "ANYTHING - asking if something exists"
+        },
+        {
+          "ingles": "Did you see anything interesting?",
+          "portugues": "Você viu algo interessante?",
+          "fonetica": "/dɪd ju si ˈɛniθɪŋ ˈɪntrəstɪŋ/",
+          "tem_audio": true,
+          "contexto": "ANYTHING in past questions"
+        },
+        {
+          "ingles": "Can you hear anything?",
+          "portugues": "Você consegue ouvir alguma coisa?",
+          "fonetica": "/kæn ju hɪr ˈɛniθɪŋ/",
+          "tem_audio": true,
+          "contexto": "ANYTHING with modal verbs in questions"
+        },
+        {
+          "ingles": "Have you found anything yet?",
+          "portugues": "Você já encontrou alguma coisa?",
+          "fonetica": "/hæv ju faʊnd ˈɛniθɪŋ jɛt/",
+          "tem_audio": true,
+          "contexto": "ANYTHING in present perfect questions"
+        }
+      ]
+    },
+    {
+      "id": "anything_negativo",
+      "titulo": "ANYTHING - Negative Sentences",
+      "tipo": "vocabulario",
+      "descricao": "ANYTHING em frases negativas",
+      "itens": [
+        {
+          "ingles": "I don't have anything to say.",
+          "portugues": "Eu não tenho nada a dizer.",
+          "fonetica": "/aɪ doʊnt hæv ˈɛniθɪŋ tu seɪ/",
+          "tem_audio": true,
+          "contexto": "ANYTHING after negative verbs (don't, doesn't, didn't)"
+        },
+        {
+          "ingles": "She didn't buy anything at the mall.",
+          "portugues": "Ela não comprou nada no shopping.",
+          "fonetica": "/ʃi ˈdɪdənt baɪ ˈɛniθɪŋ æt ðə mɔl/",
+          "tem_audio": true,
+          "contexto": "ANYTHING in negative past sentences"
+        },
+        {
+          "ingles": "We can't see anything in the dark.",
+          "portugues": "Não conseguimos ver nada no escuro.",
+          "fonetica": "/wi kænt si ˈɛniθɪŋ ɪn ðə dɑrk/",
+          "tem_audio": true,
+          "contexto": "ANYTHING with can't/couldn't"
+        },
+        {
+          "ingles": "They haven't said anything about it.",
+          "portugues": "Eles não disseram nada sobre isso.",
+          "fonetica": "/ðeɪ ˈhævənt sɛd ˈɛniθɪŋ əˈbaʊt ɪt/",
+          "tem_audio": true,
+          "contexto": "ANYTHING in present perfect negative"
+        },
+        {
+          "ingles": "He won't tell me anything.",
+          "portugues": "Ele não vai me contar nada.",
+          "fonetica": "/hi woʊnt tɛl mi ˈɛniθɪŋ/",
+          "tem_audio": true,
+          "contexto": "ANYTHING with won't/wouldn't"
+        }
+      ]
+    },
+    {
+      "id": "nothing_frases",
+      "titulo": "NOTHING - Negative Meaning",
+      "tipo": "vocabulario",
+      "descricao": "NOTHING com significado negativo",
+      "itens": [
+        {
+          "ingles": "There is nothing in the box.",
+          "portugues": "Não há nada na caixa.",
+          "fonetica": "/ðɛr ɪz ˈnʌθɪŋ ɪn ðə bɑks/",
+          "tem_audio": true,
+          "contexto": "NOTHING = not anything (makes sentence negative)"
+        },
+        {
+          "ingles": "I have nothing to wear.",
+          "portugues": "Não tenho nada para vestir.",
+          "fonetica": "/aɪ hæv ˈnʌθɪŋ tu wɛr/",
+          "tem_audio": true,
+          "contexto": "NOTHING - no need for 'not' (already negative)"
+        },
+        {
+          "ingles": "She knows nothing about computers.",
+          "portugues": "Ela não sabe nada sobre computadores.",
+          "fonetica": "/ʃi noʊz ˈnʌθɪŋ əˈbaʊt kəmˈpjutərz/",
+          "tem_audio": true,
+          "contexto": "NOTHING = zero knowledge"
+        },
+        {
+          "ingles": "Nothing happened yesterday.",
+          "portugues": "Nada aconteceu ontem.",
+          "fonetica": "/ˈnʌθɪŋ ˈhæpənd ˈjɛstərˌdeɪ/",
+          "tem_audio": true,
+          "contexto": "NOTHING as subject of sentence"
+        },
+        {
+          "ingles": "We found nothing interesting.",
+          "portugues": "Não encontramos nada interessante.",
+          "fonetica": "/wi faʊnd ˈnʌθɪŋ ˈɪntrəstɪŋ/",
+          "tem_audio": true,
+          "contexto": "NOTHING with adjectives"
+        }
+      ]
+    },
+    {
+      "id": "comparacao_completa",
+      "titulo": "SOMETHING vs ANYTHING vs NOTHING",
+      "tipo": "vocabulario",
+      "descricao": "Comparação direta entre os três",
+      "itens": [
+        {
+          "ingles": "I have something. / Do you have anything? / I have nothing.",
+          "portugues": "Eu tenho algo. / Você tem alguma coisa? / Eu não tenho nada.",
+          "fonetica": "/aɪ hæv ˈsʌmθɪŋ / du ju hæv ˈɛniθɪŋ / aɪ hæv ˈnʌθɪŋ/",
+          "tem_audio": true,
+          "contexto": "Affirmative / Question / Negative meaning"
+        },
+        {
+          "ingles": "There is something here. / Is there anything here? / There is nothing here.",
+          "portugues": "Há algo aqui. / Há alguma coisa aqui? / Não há nada aqui.",
+          "fonetica": "/ðɛr ɪz ˈsʌmθɪŋ hɪr / ɪz ðɛr ˈɛniθɪŋ hɪr / ðɛr ɪz ˈnʌθɪŋ hɪr/",
+          "tem_audio": true,
+          "contexto": "SOMETHING (positive) / ANYTHING (question) / NOTHING (negative)"
+        },
+        {
+          "ingles": "I don't have anything. = I have nothing.",
+          "portugues": "Eu não tenho nada. = Eu não tenho nada.",
+          "fonetica": "/aɪ doʊnt hæv ˈɛniθɪŋ / aɪ hæv ˈnʌθɪŋ/",
+          "tem_audio": true,
+          "contexto": "Two ways to say the same thing"
+        }
+      ]
+    },
+    {
+      "id": "regras_importantes",
+      "titulo": "Important Rules to Remember",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Key rules: 1) SOMETHING is used in positive sentences and offers. 2) ANYTHING is used in questions and after negative verbs (don't, didn't, can't). 3) NOTHING already means 'not anything' so we don't use it with 'not'. 4) We can say 'I don't have anything' OR 'I have nothing' - both mean the same! 5) In offers, we use SOMETHING not ANYTHING (Would you like something to drink?).",
+        "texto_portugues": "Regras importantes: 1) SOMETHING é usado em frases positivas e ofertas. 2) ANYTHING é usado em perguntas e depois de verbos negativos (don't, didn't, can't). 3) NOTHING já significa 'não nada' então não usamos com 'not'. 4) Podemos dizer 'I don't have anything' OU 'I have nothing' - ambos significam o mesmo! 5) Em ofertas, usamos SOMETHING não ANYTHING (Would you like something to drink?).",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "erros_comuns",
+      "titulo": "Common Mistakes to Avoid",
+      "tipo": "vocabulario",
+      "descricao": "Erros comuns que devemos evitar",
+      "itens": [
+        {
+          "ingles": "✓ I don't have anything. / ✗ I don't have nothing.",
+          "portugues": "✓ Correto / ✗ Incorreto (dupla negativa)",
+          "fonetica": "/aɪ doʊnt hæv ˈɛniθɪŋ/",
+          "tem_audio": true,
+          "contexto": "Don't use double negatives in English!"
+        },
+        {
+          "ingles": "✓ Would you like something? / ✗ Would you like anything?",
+          "portugues": "✓ Correto em ofertas / ✗ Soa estranho",
+          "fonetica": "/wʊd ju laɪk ˈsʌmθɪŋ/",
+          "tem_audio": true,
+          "contexto": "Use SOMETHING in offers, not ANYTHING"
+        },
+        {
+          "ingles": "✓ I have nothing. / ✗ I have not nothing.",
+          "portugues": "✓ Correto / ✗ Incorreto",
+          "fonetica": "/aɪ hæv ˈnʌθɪŋ/",
+          "tem_audio": true,
+          "contexto": "NOTHING doesn't need 'not'"
+        },
+        {
+          "ingles": "✓ Is there anything? / ✗ Is there something?",
+          "portugues": "✓ Correto em perguntas / ✗ Incorreto (geralmente)",
+          "fonetica": "/ɪz ðɛr ˈɛniθɪŋ/",
+          "tem_audio": true,
+          "contexto": "Use ANYTHING in questions (unless offering)"
+        }
+      ]
+    },
+    {
+      "id": "someone_anyone_noone",
+      "titulo": "Related Words: SOMEONE, ANYONE, NO ONE",
+      "tipo": "vocabulario",
+      "descricao": "Palavras relacionadas para pessoas",
+      "itens": [
+        {
+          "ingles": "Someone is at the door. (affirmative)",
+          "portugues": "Alguém está na porta. (afirmativo)",
+          "fonetica": "/ˈsʌmwʌn ɪz æt ðə dɔr/",
+          "tem_audio": true,
+          "contexto": "SOMEONE = somebody (for people)"
+        },
+        {
+          "ingles": "Is anyone home? (question)",
+          "portugues": "Tem alguém em casa? (pergunta)",
+          "fonetica": "/ɪz ˈɛniˌwʌn hoʊm/",
+          "tem_audio": true,
+          "contexto": "ANYONE = anybody (in questions)"
+        },
+        {
+          "ingles": "No one knows the answer. (negative)",
+          "portugues": "Ninguém sabe a resposta. (negativo)",
+          "fonetica": "/noʊ wʌn noʊz ði ˈænsər/",
+          "tem_audio": true,
+          "contexto": "NO ONE = nobody (negative meaning)"
+        },
+        {
+          "ingles": "I don't know anyone here.",
+          "portugues": "Eu não conheço ninguém aqui.",
+          "fonetica": "/aɪ doʊnt noʊ ˈɛniˌwʌn hɪr/",
+          "tem_audio": true,
+          "contexto": "ANYONE after negative verbs"
+        }
+      ]
+    },
+    {
+      "id": "somewhere_anywhere_nowhere",
+      "titulo": "Related Words: SOMEWHERE, ANYWHERE, NOWHERE",
+      "tipo": "vocabulario",
+      "descricao": "Palavras relacionadas para lugares",
+      "itens": [
+        {
+          "ingles": "Let's go somewhere nice. (affirmative)",
+          "portugues": "Vamos a algum lugar legal. (afirmativo)",
+          "fonetica": "/lɛts goʊ ˈsʌmˌwɛr naɪs/",
+          "tem_audio": true,
+          "contexto": "SOMEWHERE = some place (for places)"
+        },
+        {
+          "ingles": "Do you want to go anywhere? (question)",
+          "portugues": "Você quer ir a algum lugar? (pergunta)",
+          "fonetica": "/du ju wænt tu goʊ ˈɛniˌwɛr/",
+          "tem_audio": true,
+          "contexto": "ANYWHERE = any place (in questions)"
+        },
+        {
+          "ingles": "I have nowhere to go. (negative)",
+          "portugues": "Não tenho lugar nenhum para ir. (negativo)",
+          "fonetica": "/aɪ hæv ˈnoʊˌwɛr tu goʊ/",
+          "tem_audio": true,
+          "contexto": "NOWHERE = no place (negative meaning)"
+        },
+        {
+          "ingles": "We can't find it anywhere.",
+          "portugues": "Não conseguimos encontrar em lugar nenhum.",
+          "fonetica": "/wi kænt faɪnd ɪt ˈɛniˌwɛr/",
+          "tem_audio": true,
+          "contexto": "ANYWHERE after negative verbs"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_exemplo",
+      "titulo": "Real Life Dialogue - At a Restaurant",
+      "tipo": "dialogo",
+      "descricao": "Conversa real usando something, anything e nothing",
+      "participantes": ["Waiter", "Customer"],
+      "conversas": [
+        {
+          "falante": "Waiter",
+          "ingles": "Good evening! Would you like something to drink?",
+          "portugues": "Boa noite! Gostaria de algo para beber?",
+          "fonetica": "/gʊd ˈivnɪŋ wʊd ju laɪk ˈsʌmθɪŋ tu drɪŋk/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Customer",
+          "ingles": "Yes, please. Do you have anything cold?",
+          "portugues": "Sim, por favor. Vocês têm algo gelado?",
+          "fonetica": "/jɛs pliz du ju hæv ˈɛniθɪŋ koʊld/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Waiter",
+          "ingles": "Of course! We have fresh juice, soda, and iced tea. Would you like something to eat as well?",
+          "portugues": "Claro! Temos suco fresco, refrigerante e chá gelado. Gostaria de algo para comer também?",
+          "fonetica": "/ʌv kɔrs wi hæv frɛʃ dʒus ˈsoʊdə ænd aɪst ti wʊd ju laɪk ˈsʌmθɪŋ tu it æz wɛl/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Customer",
+          "ingles": "I haven't decided yet. Is there anything you recommend?",
+          "portugues": "Ainda não decidi. Há algo que você recomenda?",
+          "fonetica": "/aɪ ˈhævənt dɪˈsaɪdəd jɛt ɪz ðɛr ˈɛniθɪŋ ju ˌrɛkəˈmɛnd/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Waiter",
+          "ingles": "Our pasta is excellent! But if you don't like pasta, we have something for everyone - fish, chicken, or vegetarian options.",
+          "portugues": "Nossa massa é excelente! Mas se você não gosta de massa, temos algo para todos - peixe, frango ou opções vegetarianas.",
+          "fonetica": "/aʊr ˈpæstə ɪz ˈɛksələnt bʌt ɪf ju doʊnt laɪk ˈpæstə wi hæv ˈsʌmθɪŋ fɔr ˈɛvriˌwʌn fɪʃ ˈtʃɪkən ɔr ˌvɛdʒəˈtɛriən ˈɑpʃənz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Customer",
+          "ingles": "Perfect! I'll have the pasta. And please, nothing too spicy.",
+          "portugues": "Perfeito! Vou querer a massa. E por favor, nada muito apimentado.",
+          "fonetica": "/ˈpɜrfɪkt aɪl hæv ðə ˈpæstə ænd pliz ˈnʌθɪŋ tu ˈspaɪsi/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Waiter",
+          "ingles": "No problem! Is there anything else I can get you?",
+          "portugues": "Sem problema! Há mais alguma coisa que eu possa trazer?",
+          "fonetica": "/noʊ ˈprɑbləm ɪz ðɛr ˈɛniθɪŋ ɛls aɪ kæn gɛt ju/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Customer",
+          "ingles": "No, that's everything. Thank you!",
+          "portugues": "Não, isso é tudo. Obrigado!",
+          "fonetica": "/noʊ ðæts ˈɛvriθɪŋ θæŋk ju/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "texto_pratica",
+      "titulo": "Practice Text - A Mysterious Day",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Yesterday was very strange. When I woke up, I noticed something unusual - the house was completely silent. I didn't hear anything, not even the birds outside. I looked for my family, but there was nobody home. I checked everywhere, but I couldn't find anyone. There was nothing on the kitchen table - no note, no message, nothing. I called my mom, but she didn't answer. I tried calling someone else, but nobody picked up the phone. I felt worried and didn't know what to do. I looked for something to eat, but there was nothing in the fridge. I wanted to go somewhere, but I had nowhere to go. Suddenly, I heard something - voices coming from the backyard! I ran outside and found everyone there. They were preparing something special - a surprise birthday party for me! There was a beautiful cake, presents, and decorations everywhere. I was so happy! Sometimes when you think nothing is happening, something wonderful is actually being prepared. I learned that anything is possible when people care about you!",
+        "texto_portugues": "Ontem foi muito estranho. Quando acordei, notei algo incomum - a casa estava completamente silenciosa. Não ouvi nada, nem mesmo os pássaros lá fora. Procurei minha família, mas não havia ninguém em casa. Verifiquei em todos os lugares, mas não consegui encontrar ninguém. Não havia nada na mesa da cozinha - nenhum bilhete, nenhuma mensagem, nada. Liguei para minha mãe, mas ela não atendeu. Tentei ligar para outra pessoa, mas ninguém atendeu o telefone. Me senti preocupado e não sabia o que fazer. Procurei algo para comer, mas não havia nada na geladeira. Queria ir a algum lugar, mas não tinha lugar nenhum para ir. De repente, ouvi algo - vozes vindas do quintal! Corri para fora e encontrei todos lá. Estavam preparando algo especial - uma festa surpresa de aniversário para mim! Havia um bolo lindo, presentes e decorações por toda parte. Fiquei tão feliz! Às vezes quando você acha que nada está acontecendo, algo maravilhoso está sendo preparado. Aprendi que tudo é possível quando as pessoas se importam com você!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "dicas_importantes",
+      "titulo": "Essential Tips",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Remember: 1) SOMETHING = affirmative sentences and offers. 2) ANYTHING = questions and negative sentences. 3) NOTHING = negative meaning (don't use with 'not'). 4) Same pattern for people (someone/anyone/no one) and places (somewhere/anywhere/nowhere). 5) 'I don't have anything' = 'I have nothing' (same meaning). 6) In offers use SOMETHING: 'Would you like something to drink?' 7) Never use double negatives: say 'I don't know anything' NOT 'I don't know nothing'.",
+        "texto_portugues": "Lembre-se: 1) SOMETHING = frases afirmativas e ofertas. 2) ANYTHING = perguntas e frases negativas. 3) NOTHING = significado negativo (não use com 'not'). 4) Mesmo padrão para pessoas (someone/anyone/no one) e lugares (somewhere/anywhere/nowhere). 5) 'I don't have anything' = 'I have nothing' (mesmo significado). 6) Em ofertas use SOMETHING: 'Would you like something to drink?' 7) Nunca use duplas negativas: diga 'I don't know anything' NÃO 'I don't know nothing'.",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Your Turn to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now practice! Create sentences using SOMETHING in affirmative sentences. Make questions with ANYTHING. Use NOTHING to express negative ideas. Practice offers: 'Would you like something to...?' Try using SOMEONE, ANYONE, NO ONE for people. Use SOMEWHERE, ANYWHERE, NOWHERE for places. Remember: these little words are used constantly in English, so mastering them will make your English sound much more natural!",
+        "texto_portugues": "Agora pratique! Crie frases usando SOMETHING em frases afirmativas. Faça perguntas com ANYTHING. Use NOTHING para expressar ideias negativas. Pratique ofertas: 'Would you like something to...?' Tente usar SOMEONE, ANYONE, NO ONE para pessoas. Use SOMEWHERE, ANYWHERE, NOWHERE para lugares. Lembre-se: essas pequenas palavras são usadas constantemente em inglês, então dominá-las fará seu inglês soar muito mais natural!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
