@@ -1,0 +1,679 @@
+{
+  "titulo": "Some, Any e None",
+  "descricao": "Domine o uso de some, any e none para falar sobre quantidades indefinidas em inglês. Aprenda quando usar cada um e evite os erros mais comuns!",
+  "secoes": [
+    {
+      "id": "introducao",
+      "titulo": "Welcome to Quantifiers!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Welcome to this important lesson! Today you will learn how to use some, any, and none correctly. These words are called quantifiers and they help us talk about indefinite quantities. They are used all the time in English, so mastering them will make your English sound much more natural and fluent!",
+        "texto_portugues": "Bem-vindo a esta aula importante! Hoje você vai aprender a usar some, any e none corretamente. Essas palavras são chamadas de quantificadores e nos ajudam a falar sobre quantidades indefinidas. Elas são usadas o tempo todo em inglês, então dominá-las fará seu inglês soar muito mais natural e fluente!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "some_basico",
+      "titulo": "SOME - For Affirmative Sentences",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "SOME means 'algum', 'alguma', 'alguns', 'algumas' in Portuguese. We use SOME mainly in affirmative sentences and in offers or requests (even if they are questions). SOME works with both countable plural nouns and uncountable nouns. It indicates an indefinite but positive quantity. Think of SOME as the 'positive' quantifier!",
+        "texto_portugues": "SOME significa 'algum', 'alguma', 'alguns', 'algumas' em português. Usamos SOME principalmente em frases afirmativas e em ofertas ou pedidos (mesmo que sejam perguntas). SOME funciona tanto com substantivos contáveis no plural quanto com substantivos incontáveis. Indica uma quantidade indefinida mas positiva. Pense no SOME como o quantificador 'positivo'!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "some_exemplos",
+      "titulo": "SOME - Examples",
+      "tipo": "vocabulario",
+      "descricao": "Exemplos práticos com SOME",
+      "itens": [
+        {
+          "ingles": "I have some money.",
+          "portugues": "Eu tenho algum dinheiro.",
+          "fonetica": "/aɪ hæv sʌm ˈmʌni/",
+          "tem_audio": true,
+          "contexto": "SOME + uncountable noun (money) in affirmative"
+        },
+        {
+          "ingles": "There are some apples in the fridge.",
+          "portugues": "Há algumas maçãs na geladeira.",
+          "fonetica": "/ðeər ɑːr sʌm ˈæpəlz ɪn ðə frɪdʒ/",
+          "tem_audio": true,
+          "contexto": "SOME + countable plural noun (apples)"
+        },
+        {
+          "ingles": "She bought some new clothes.",
+          "portugues": "Ela comprou algumas roupas novas.",
+          "fonetica": "/ʃiː bɔːt sʌm nuː kloʊðz/",
+          "tem_audio": true,
+          "contexto": "SOME + countable plural noun (clothes)"
+        },
+        {
+          "ingles": "Would you like some coffee?",
+          "portugues": "Você gostaria de um pouco de café?",
+          "fonetica": "/wʊd juː laɪk sʌm ˈkɒfi/",
+          "tem_audio": true,
+          "contexto": "SOME in offers - exception to the question rule!"
+        },
+        {
+          "ingles": "Can I have some water, please?",
+          "portugues": "Posso tomar um pouco de água, por favor?",
+          "fonetica": "/kæn aɪ hæv sʌm ˈwɔːtər pliːz/",
+          "tem_audio": true,
+          "contexto": "SOME in requests - we expect a positive answer"
+        }
+      ]
+    },
+    {
+      "id": "any_basico",
+      "titulo": "ANY - For Questions and Negatives",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "ANY means 'algum', 'alguma', 'nenhum', 'nenhuma' depending on the context. We use ANY in questions and negative sentences. ANY also works with both countable plural nouns and uncountable nouns. In affirmative sentences, ANY means 'qualquer' (any one, it doesn't matter which). Remember: questions and negatives need ANY, not SOME!",
+        "texto_portugues": "ANY significa 'algum', 'alguma', 'nenhum', 'nenhuma' dependendo do contexto. Usamos ANY em perguntas e frases negativas. ANY também funciona tanto com substantivos contáveis no plural quanto com substantivos incontáveis. Em frases afirmativas, ANY significa 'qualquer' (qualquer um, não importa qual). Lembre-se: perguntas e negativas precisam de ANY, não SOME!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "any_exemplos",
+      "titulo": "ANY - Examples",
+      "tipo": "vocabulario",
+      "descricao": "Exemplos práticos com ANY",
+      "itens": [
+        {
+          "ingles": "I don't have any money.",
+          "portugues": "Eu não tenho nenhum dinheiro.",
+          "fonetica": "/aɪ doʊnt hæv ˈɛni ˈmʌni/",
+          "tem_audio": true,
+          "contexto": "ANY + uncountable noun (money) in negative"
+        },
+        {
+          "ingles": "Are there any apples in the fridge?",
+          "portugues": "Há alguma maçã na geladeira?",
+          "fonetica": "/ɑːr ðeər ˈɛni ˈæpəlz ɪn ðə frɪdʒ/",
+          "tem_audio": true,
+          "contexto": "ANY + countable plural noun (apples) in question"
+        },
+        {
+          "ingles": "She doesn't have any friends here.",
+          "portugues": "Ela não tem nenhum amigo aqui.",
+          "fonetica": "/ʃiː ˈdʌzənt hæv ˈɛni frɛndz hɪər/",
+          "tem_audio": true,
+          "contexto": "ANY in negative sentence"
+        },
+        {
+          "ingles": "Do you have any questions?",
+          "portugues": "Você tem alguma pergunta?",
+          "fonetica": "/duː juː hæv ˈɛni ˈkwɛstʃənz/",
+          "tem_audio": true,
+          "contexto": "ANY in question - very common phrase"
+        },
+        {
+          "ingles": "You can choose any color you want.",
+          "portugues": "Você pode escolher qualquer cor que quiser.",
+          "fonetica": "/juː kæn tʃuːz ˈɛni ˈkʌlər juː wɒnt/",
+          "tem_audio": true,
+          "contexto": "ANY = 'qualquer' in affirmative sentence"
+        }
+      ]
+    },
+    {
+      "id": "none_basico",
+      "titulo": "NONE - Zero Quantity",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "NONE means 'nenhum' or 'nada' - it indicates zero quantity. NONE is stronger than 'not any' and is used to emphasize that there is absolutely nothing or nobody. NONE can stand alone or be followed by 'of'. It's important to know that after NONE OF, we use a plural noun or pronoun, but the verb can be singular or plural (singular is more formal).",
+        "texto_portugues": "NONE significa 'nenhum' ou 'nada' - indica quantidade zero. NONE é mais forte que 'not any' e é usado para enfatizar que não há absolutamente nada ou ninguém. NONE pode aparecer sozinho ou ser seguido de 'of'. É importante saber que depois de NONE OF, usamos um substantivo ou pronome no plural, mas o verbo pode ser singular ou plural (singular é mais formal).",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "none_exemplos",
+      "titulo": "NONE - Examples",
+      "tipo": "vocabulario",
+      "descricao": "Exemplos práticos com NONE",
+      "itens": [
+        {
+          "ingles": "None of the students passed the test.",
+          "portugues": "Nenhum dos alunos passou no teste.",
+          "fonetica": "/nʌn əv ðə ˈstuːdənts pæst ðə tɛst/",
+          "tem_audio": true,
+          "contexto": "NONE OF + plural noun + singular verb (formal)"
+        },
+        {
+          "ingles": "How many cookies are left? None.",
+          "portugues": "Quantos biscoitos sobraram? Nenhum.",
+          "fonetica": "/haʊ ˈmɛni ˈkʊkiz ɑːr lɛft nʌn/",
+          "tem_audio": true,
+          "contexto": "NONE standing alone as an answer"
+        },
+        {
+          "ingles": "None of my friends live nearby.",
+          "portugues": "Nenhum dos meus amigos mora perto.",
+          "fonetica": "/nʌn əv maɪ frɛndz lɪv ˈnɪrˌbaɪ/",
+          "tem_audio": true,
+          "contexto": "NONE OF + possessive + plural noun"
+        },
+        {
+          "ingles": "I wanted some help, but none was available.",
+          "portugues": "Eu queria ajuda, mas nenhuma estava disponível.",
+          "fonetica": "/aɪ ˈwɒntɪd sʌm hɛlp bʌt nʌn wɒz əˈveɪləbəl/",
+          "tem_audio": true,
+          "contexto": "NONE with uncountable concept (help)"
+        },
+        {
+          "ingles": "None of them are coming to the party.",
+          "portugues": "Nenhum deles está vindo para a festa.",
+          "fonetica": "/nʌn əv ðɛm ɑːr ˈkʌmɪŋ tuː ðə ˈpɑːrti/",
+          "tem_audio": true,
+          "contexto": "NONE OF + pronoun + plural verb (informal)"
+        }
+      ]
+    },
+    {
+      "id": "compostos_some",
+      "titulo": "Compounds with SOME",
+      "tipo": "vocabulario",
+      "descricao": "Palavras compostas com SOME",
+      "itens": [
+        {
+          "ingles": "Someone is knocking at the door.",
+          "portugues": "Alguém está batendo na porta.",
+          "fonetica": "/ˈsʌmwʌn ɪz ˈnɒkɪŋ æt ðə dɔːr/",
+          "tem_audio": true,
+          "contexto": "SOMEONE = somebody = alguma pessoa"
+        },
+        {
+          "ingles": "I need something to eat.",
+          "portugues": "Eu preciso de algo para comer.",
+          "fonetica": "/aɪ niːd ˈsʌmθɪŋ tuː iːt/",
+          "tem_audio": true,
+          "contexto": "SOMETHING = alguma coisa"
+        },
+        {
+          "ingles": "Let's go somewhere nice this weekend.",
+          "portugues": "Vamos a algum lugar legal neste fim de semana.",
+          "fonetica": "/lɛts ɡoʊ ˈsʌmwɛr naɪs ðɪs ˈwiːkˌɛnd/",
+          "tem_audio": true,
+          "contexto": "SOMEWHERE = algum lugar"
+        },
+        {
+          "ingles": "Somebody called you earlier.",
+          "portugues": "Alguém ligou para você mais cedo.",
+          "fonetica": "/ˈsʌmbɒdi kɔːld juː ˈɜːrliər/",
+          "tem_audio": true,
+          "contexto": "SOMEBODY = someone = alguma pessoa"
+        },
+        {
+          "ingles": "Would you like something to drink?",
+          "portugues": "Você gostaria de algo para beber?",
+          "fonetica": "/wʊd juː laɪk ˈsʌmθɪŋ tuː drɪŋk/",
+          "tem_audio": true,
+          "contexto": "SOMETHING in offers (like SOME)"
+        }
+      ]
+    },
+    {
+      "id": "compostos_any",
+      "titulo": "Compounds with ANY",
+      "tipo": "vocabulario",
+      "descricao": "Palavras compostas com ANY",
+      "itens": [
+        {
+          "ingles": "I don't know anyone here.",
+          "portugues": "Eu não conheço ninguém aqui.",
+          "fonetica": "/aɪ doʊnt noʊ ˈɛniwʌn hɪər/",
+          "tem_audio": true,
+          "contexto": "ANYONE = anybody = ninguém (in negative)"
+        },
+        {
+          "ingles": "Is there anything I can do to help?",
+          "portugues": "Há algo que eu possa fazer para ajudar?",
+          "fonetica": "/ɪz ðeər ˈɛniθɪŋ aɪ kæn duː tuː hɛlp/",
+          "tem_audio": true,
+          "contexto": "ANYTHING = alguma coisa (in question)"
+        },
+        {
+          "ingles": "Did you go anywhere last night?",
+          "portugues": "Você foi a algum lugar ontem à noite?",
+          "fonetica": "/dɪd juː ɡoʊ ˈɛniwɛr læst naɪt/",
+          "tem_audio": true,
+          "contexto": "ANYWHERE = algum lugar (in question)"
+        },
+        {
+          "ingles": "You can sit anywhere you like.",
+          "portugues": "Você pode sentar em qualquer lugar que gostar.",
+          "fonetica": "/juː kæn sɪt ˈɛniwɛr juː laɪk/",
+          "tem_audio": true,
+          "contexto": "ANYWHERE = qualquer lugar (in affirmative)"
+        },
+        {
+          "ingles": "Anyone can learn English with practice.",
+          "portugues": "Qualquer pessoa pode aprender inglês com prática.",
+          "fonetica": "/ˈɛniwʌn kæn lɜːrn ˈɪŋɡlɪʃ wɪð ˈpræktɪs/",
+          "tem_audio": true,
+          "contexto": "ANYONE = qualquer pessoa (in affirmative)"
+        }
+      ]
+    },
+    {
+      "id": "compostos_no",
+      "titulo": "Compounds with NO",
+      "tipo": "vocabulario",
+      "descricao": "Palavras compostas com NO",
+      "itens": [
+        {
+          "ingles": "Nobody came to the meeting.",
+          "portugues": "Ninguém veio para a reunião.",
+          "fonetica": "/ˈnoʊbɒdi keɪm tuː ðə ˈmiːtɪŋ/",
+          "tem_audio": true,
+          "contexto": "NOBODY = no one = ninguém"
+        },
+        {
+          "ingles": "There's nothing in the box.",
+          "portugues": "Não há nada na caixa.",
+          "fonetica": "/ðeərz ˈnʌθɪŋ ɪn ðə bɒks/",
+          "tem_audio": true,
+          "contexto": "NOTHING = nada (usado com verbo afirmativo!)"
+        },
+        {
+          "ingles": "I have nowhere to go.",
+          "portugues": "Eu não tenho para onde ir.",
+          "fonetica": "/aɪ hæv ˈnoʊwɛr tuː ɡoʊ/",
+          "tem_audio": true,
+          "contexto": "NOWHERE = nenhum lugar"
+        },
+        {
+          "ingles": "No one knows the answer.",
+          "portugues": "Ninguém sabe a resposta.",
+          "fonetica": "/noʊ wʌn noʊz ði ˈænsər/",
+          "tem_audio": true,
+          "contexto": "NO ONE = nobody = ninguém"
+        },
+        {
+          "ingles": "Nothing is impossible.",
+          "portugues": "Nada é impossível.",
+          "fonetica": "/ˈnʌθɪŋ ɪz ɪmˈpɒsəbəl/",
+          "tem_audio": true,
+          "contexto": "NOTHING with affirmative verb = nada"
+        }
+      ]
+    },
+    {
+      "id": "comparacao_geral",
+      "titulo": "Quick Comparison Guide",
+      "tipo": "vocabulario",
+      "descricao": "Comparação entre SOME, ANY e NONE",
+      "itens": [
+        {
+          "ingles": "SOME = affirmative sentences",
+          "portugues": "SOME = frases afirmativas",
+          "fonetica": "/sʌm/",
+          "tem_audio": true,
+          "contexto": "I have some books. There is some milk."
+        },
+        {
+          "ingles": "SOME = offers and requests",
+          "portugues": "SOME = ofertas e pedidos",
+          "fonetica": "/sʌm/",
+          "tem_audio": true,
+          "contexto": "Would you like some tea? Can I have some sugar?"
+        },
+        {
+          "ingles": "ANY = questions and negatives",
+          "portugues": "ANY = perguntas e negativas",
+          "fonetica": "/ˈɛni/",
+          "tem_audio": true,
+          "contexto": "Do you have any money? I don't have any time."
+        },
+        {
+          "ingles": "ANY = 'qualquer' in affirmatives",
+          "portugues": "ANY = 'qualquer' em afirmativas",
+          "fonetica": "/ˈɛni/",
+          "tem_audio": true,
+          "contexto": "You can call me any time. Choose any book."
+        },
+        {
+          "ingles": "NONE = zero, nothing at all",
+          "portugues": "NONE = zero, nada mesmo",
+          "fonetica": "/nʌn/",
+          "tem_audio": true,
+          "contexto": "None of them came. How many? None."
+        }
+      ]
+    },
+    {
+      "id": "erros_comuns",
+      "titulo": "Common Mistakes to Avoid",
+      "tipo": "vocabulario",
+      "descricao": "Erros frequentes e como corrigi-los",
+      "itens": [
+        {
+          "ingles": "WRONG: I don't have some money.",
+          "portugues": "ERRADO: I don't have some money.",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "CORRECT: I don't have any money."
+        },
+        {
+          "ingles": "WRONG: Do you have some sugar?",
+          "portugues": "ERRADO: Do you have some sugar?",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "CORRECT: Do you have any sugar? (unless offering)"
+        },
+        {
+          "ingles": "WRONG: I have any books.",
+          "portugues": "ERRADO: I have any books.",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "CORRECT: I have some books. (affirmative needs SOME)"
+        },
+        {
+          "ingles": "WRONG: None of the students are here. (with DON'T)",
+          "portugues": "ERRADO: None of the students don't are here.",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "CORRECT: None of the students are here. (NONE is already negative!)"
+        },
+        {
+          "ingles": "WRONG: I didn't see nobody.",
+          "portugues": "ERRADO: I didn't see nobody.",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "CORRECT: I didn't see anybody. OR I saw nobody. (no double negative!)"
+        }
+      ]
+    },
+    {
+      "id": "dialogo_pratico",
+      "titulo": "Shopping Conversation",
+      "tipo": "dialogo",
+      "descricao": "Diálogo de compras usando some, any e none",
+      "participantes": ["Customer", "Shopkeeper"],
+      "conversas": [
+        {
+          "falante": "Customer",
+          "ingles": "Hi! Do you have any organic apples?",
+          "portugues": "Oi! Você tem alguma maçã orgânica?",
+          "fonetica": "/haɪ duː juː hæv ˈɛni ɔːrˈɡænɪk ˈæpəlz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Shopkeeper",
+          "ingles": "Yes, we have some fresh ones that arrived this morning.",
+          "portugues": "Sim, temos algumas frescas que chegaram esta manhã.",
+          "fonetica": "/jɛs wiː hæv sʌm frɛʃ wʌnz ðæt əˈraɪvd ðɪs ˈmɔːrnɪŋ/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Customer",
+          "ingles": "Great! And do you have any oranges?",
+          "portugues": "Ótimo! E você tem alguma laranja?",
+          "fonetica": "/ɡreɪt ænd duː juː hæv ˈɛni ˈɔːrɪndʒɪz/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Shopkeeper",
+          "ingles": "I'm sorry, we don't have any oranges today. None of our suppliers delivered them.",
+          "portugues": "Sinto muito, não temos nenhuma laranja hoje. Nenhum dos nossos fornecedores as entregou.",
+          "fonetica": "/aɪm ˈsɒri wiː doʊnt hæv ˈɛni ˈɔːrɪndʒɪz təˈdeɪ nʌn əv ˈaʊər səˈplaɪərz dɪˈlɪvərd ðɛm/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Customer",
+          "ingles": "That's okay. Can I have some strawberries instead?",
+          "portugues": "Tudo bem. Posso levar alguns morangos no lugar?",
+          "fonetica": "/ðæts ˌoʊˈkeɪ kæn aɪ hæv sʌm ˈstrɔːbɛriz ɪnˈstɛd/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Shopkeeper",
+          "ingles": "Of course! We have some beautiful strawberries. Would you like anything else?",
+          "portugues": "Claro! Temos alguns morangos lindos. Você gostaria de mais alguma coisa?",
+          "fonetica": "/əv kɔːrs wiː hæv sʌm ˈbjuːtɪfəl ˈstrɔːbɛriz wʊd juː laɪk ˈɛniθɪŋ ɛls/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Customer",
+          "ingles": "No, thank you. That's everything. None of my family likes vegetables, so I don't need any.",
+          "portugues": "Não, obrigado. Isso é tudo. Ninguém da minha família gosta de vegetais, então não preciso de nenhum.",
+          "fonetica": "/noʊ θæŋk juː ðæts ˈɛvriθɪŋ nʌn əv maɪ ˈfæməli laɪks ˈvɛdʒtəbəlz soʊ aɪ doʊnt niːd ˈɛni/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Shopkeeper",
+          "ingles": "Alright! That will be fifteen dollars. Here, take some free samples of our new honey!",
+          "portugues": "Certo! Serão quinze dólares. Aqui, leve algumas amostras grátis do nosso mel novo!",
+          "fonetica": "/ɔːlˈraɪt ðæt wɪl biː ˌfɪfˈtiːn ˈdɒlərz hɪər teɪk sʌm friː ˈsæmpəlz əv ˈaʊər nuː ˈhʌni/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "dialogo_restaurante",
+      "titulo": "Restaurant Conversation",
+      "tipo": "dialogo",
+      "descricao": "Conversa em restaurante usando quantificadores",
+      "participantes": ["Waiter", "Customer"],
+      "conversas": [
+        {
+          "falante": "Waiter",
+          "ingles": "Good evening! Would you like something to drink?",
+          "portugues": "Boa noite! Gostaria de algo para beber?",
+          "fonetica": "/ɡʊd ˈiːvnɪŋ wʊd juː laɪk ˈsʌmθɪŋ tuː drɪŋk/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Customer",
+          "ingles": "Yes, please. Do you have any fresh orange juice?",
+          "portugues": "Sim, por favor. Vocês têm algum suco de laranja fresco?",
+          "fonetica": "/jɛs pliːz duː juː hæv ˈɛni frɛʃ ˈɔːrɪndʒ dʒuːs/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Waiter",
+          "ingles": "I'm sorry, we don't have any orange juice right now, but we have some excellent apple juice.",
+          "portugues": "Sinto muito, não temos nenhum suco de laranja agora, mas temos um excelente suco de maçã.",
+          "fonetica": "/aɪm ˈsɒri wiː doʊnt hæv ˈɛni ˈɔːrɪndʒ dʒuːs raɪt naʊ bʌt wiː hæv sʌm ˈɛksələnt ˈæpəl dʒuːs/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Customer",
+          "ingles": "That sounds good. I'll have some apple juice. Are there any vegetarian options on the menu?",
+          "portugues": "Isso parece bom. Vou querer um pouco de suco de maçã. Há alguma opção vegetariana no cardápio?",
+          "fonetica": "/ðæt saʊndz ɡʊd aɪl hæv sʌm ˈæpəl dʒuːs ɑːr ðeər ˈɛni ˌvɛdʒəˈtɛriən ˈɒpʃənz ɒn ðə ˈmɛnjuː/",
+          "tem_audio": true
+        },
+        {
+          "falante": "Waiter",
+          "ingles": "Yes, we have some great vegetarian dishes. None of them contain any meat or fish.",
+          "portugues": "Sim, temos alguns ótimos pratos vegetarianos. Nenhum deles contém nenhuma carne ou peixe.",
+          "fonetica": "/jɛs wiː hæv sʌm ɡreɪt ˌvɛdʒəˈtɛriən ˈdɪʃɪz nʌn əv ðɛm kənˈteɪn ˈɛni miːt ɔːr fɪʃ/",
+          "tem_audio": true
+        }
+      ]
+    },
+    {
+      "id": "expressoes_uteis",
+      "titulo": "Useful Fixed Expressions",
+      "tipo": "vocabulario",
+      "descricao": "Expressões fixas com some, any e none",
+      "itens": [
+        {
+          "ingles": "Some day I'll travel the world.",
+          "portugues": "Um dia eu vou viajar pelo mundo.",
+          "fonetica": "/sʌm deɪ aɪl ˈtrævəl ðə wɜːrld/",
+          "tem_audio": true,
+          "contexto": "SOME DAY = algum dia (no futuro)"
+        },
+        {
+          "ingles": "Do you have any idea what time it is?",
+          "portugues": "Você faz alguma ideia de que horas são?",
+          "fonetica": "/duː juː hæv ˈɛni aɪˈdiə wɒt taɪm ɪt ɪz/",
+          "tem_audio": true,
+          "contexto": "ANY IDEA = alguma ideia (em perguntas)"
+        },
+        {
+          "ingles": "It's none of your business.",
+          "portugues": "Não é da sua conta.",
+          "fonetica": "/ɪts nʌn əv jɔːr ˈbɪznɪs/",
+          "tem_audio: true,
+          "contexto": "NONE OF YOUR BUSINESS = não é da sua conta (expressão fixa)"
+        },
+        {
+          "ingles": "Some people never learn.",
+          "portugues": "Algumas pessoas nunca aprendem.",
+          "fonetica": "/sʌm ˈpiːpəl ˈnɛvər lɜːrn/",
+          "tem_audio": true,
+          "contexto": "SOME PEOPLE = algumas pessoas (indefinido)"
+        },
+        {
+          "ingles": "Any time! / Anytime!",
+          "portugues": "A qualquer hora! / De nada!",
+          "fonetica": "/ˈɛni taɪm/",
+          "tem_audio": true,
+          "contexto": "Response to 'thank you' - means 'you're welcome'"
+        },
+        {
+          "ingles": "None whatsoever.",
+          "portugues": "Nenhum mesmo. / Absolutamente nenhum.",
+          "fonetica": "/nʌn ˌwɒtsəʊˈɛvər/",
+          "tem_audio": true,
+          "contexto": "Emphatic form - absolutely none at all"
+        }
+      ]
+    },
+    {
+      "id": "pratica_diferencas",
+      "titulo": "Practice: Spot the Differences",
+      "tipo": "vocabulario",
+      "descricao": "Compare as diferenças entre frases similares",
+      "itens": [
+        {
+          "ingles": "I have some friends. (affirmative)",
+          "portugues": "Eu tenho alguns amigos. (afirmativa)",
+          "fonetica": "/aɪ hæv sʌm frɛndz/",
+          "tem_audio": true,
+          "contexto": "vs. I don't have any friends. (negative)"
+        },
+        {
+          "ingles": "I don't have any friends. (negative)",
+          "portugues": "Eu não tenho nenhum amigo. (negativa)",
+          "fonetica": "/aɪ doʊnt hæv ˈɛni frɛndz/",
+          "tem_audio": true,
+          "contexto": "vs. I have no friends. OR None of my friends..."
+        },
+        {
+          "ingles": "There's something wrong. (affirmative)",
+          "portugues": "Há algo errado. (afirmativa)",
+          "fonetica": "/ðeərz ˈsʌmθɪŋ rɒŋ/",
+          "tem_audio": true,
+          "contexto": "vs. There isn't anything wrong. OR There's nothing wrong."
+        },
+        {
+          "ingles": "Is there anything wrong? (question)",
+          "portugues": "Há algo errado? (pergunta)",
+          "fonetica": "/ɪz ðeər ˈɛniθɪŋ rɒŋ/",
+          "tem_audio": true,
+          "contexto": "Questions use ANYTHING, not SOMETHING"
+        },
+        {
+          "ingles": "Would you like some help? (offer)",
+          "portugues": "Você gostaria de alguma ajuda? (oferta)",
+          "fonetica": "/wʊd juː laɪk sʌm hɛlp/",
+          "tem_audio": true,
+          "contexto": "Offers use SOME even in questions!"
+        },
+        {
+          "ingles": "Do you need any help? (neutral question)",
+          "portugues": "Você precisa de alguma ajuda? (pergunta neutra)",
+          "fonetica": "/duː juː niːd ˈɛni hɛlp/",
+          "tem_audio": true,
+          "contexto": "Regular questions use ANY"
+        }
+      ]
+    },
+    {
+      "id": "regras_resumo",
+      "titulo": "Summary of Rules",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Let's review the main rules: Use SOME in affirmative sentences and when offering or requesting something (even in questions). Use ANY in questions and negative sentences, or when ANY means 'qualquer' in affirmatives. Use NONE to emphasize zero quantity - it's already negative, so don't use it with 'not'. Remember: SOMEONE, SOMETHING, SOMEWHERE follow the same rules as SOME. ANYONE, ANYTHING, ANYWHERE follow the same rules as ANY. NOBODY, NOTHING, NOWHERE are like NONE - already negative!",
+        "texto_portugues": "Vamos revisar as regras principais: Use SOME em frases afirmativas e ao oferecer ou pedir algo (mesmo em perguntas). Use ANY em perguntas e frases negativas, ou quando ANY significa 'qualquer' em afirmativas. Use NONE para enfatizar quantidade zero - já é negativo, então não use com 'not'. Lembre-se: SOMEONE, SOMETHING, SOMEWHERE seguem as mesmas regras de SOME. ANYONE, ANYTHING, ANYWHERE seguem as mesmas regras de ANY. NOBODY, NOTHING, NOWHERE são como NONE - já são negativos!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "exercicio_mental",
+      "titulo": "Mental Practice Exercise",
+      "tipo": "vocabulario",
+      "descricao": "Pratique mentalmente - qual palavra usar?",
+      "itens": [
+        {
+          "ingles": "I need ___ new shoes. (affirmative)",
+          "portugues": "Eu preciso de ___ sapatos novos. (afirmativa)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Answer: SOME (affirmative sentence)"
+        },
+        {
+          "ingles": "Do you have ___ questions? (question)",
+          "portugues": "Você tem ___ perguntas? (pergunta)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Answer: ANY (question)"
+        },
+        {
+          "ingles": "Would you like ___ coffee? (offer)",
+          "portugues": "Você gostaria de ___ café? (oferta)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Answer: SOME (offer, even though it's a question)"
+        },
+        {
+          "ingles": "I don't want ___ problems. (negative)",
+          "portugues": "Eu não quero ___ problemas. (negativa)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Answer: ANY (negative sentence)"
+        },
+        {
+          "ingles": "___ of the answers were correct. (zero)",
+          "portugues": "___ das respostas estavam corretas. (zero)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Answer: NONE (emphasizing zero quantity)"
+        },
+        {
+          "ingles": "You can choose ___ color. (qualquer)",
+          "portugues": "Você pode escolher ___ cor. (qualquer)",
+          "fonetica": "",
+          "tem_audio": false,
+          "contexto": "Answer: ANY (meaning 'qualquer' in affirmative)"
+        }
+      ]
+    },
+    {
+      "id": "dicas_finais",
+      "titulo": "Final Tips for Success",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Here are some final tips to help you master these words: When in doubt between SOME and ANY in questions, ask yourself: Am I offering or requesting something? If yes, use SOME. If it's just a neutral question, use ANY. Remember that NO, NOBODY, NOTHING, NOWHERE, and NONE are already negative - never use them with 'not' or 'don't'. In spoken English, we often prefer 'not any' instead of 'no': 'I don't have any money' is more common than 'I have no money'. Practice makes perfect - try to use these words in your daily English practice!",
+        "texto_portugues": "Aqui estão algumas dicas finais para ajudá-lo a dominar essas palavras: Quando estiver em dúvida entre SOME e ANY em perguntas, pergunte-se: Estou oferecendo ou pedindo algo? Se sim, use SOME. Se for apenas uma pergunta neutra, use ANY. Lembre-se que NO, NOBODY, NOTHING, NOWHERE e NONE já são negativos - nunca os use com 'not' ou 'don't'. No inglês falado, frequentemente preferimos 'not any' em vez de 'no': 'I don't have any money' é mais comum que 'I have no money'. A prática leva à perfeição - tente usar essas palavras na sua prática diária de inglês!",
+        "tem_audio": true
+      }
+    },
+    {
+      "id": "pratica_final",
+      "titulo": "Time to Practice!",
+      "tipo": "texto",
+      "conteudo": {
+        "texto_ingles": "Now it's your turn! Try creating your own sentences using some, any, and none. Describe what you have in your fridge, what you need from the supermarket, or what you did last weekend. Practice with someone, something, somewhere and their counterparts. The more you use these words, the more natural they will become. Remember: making mistakes is part of learning, so don't be afraid to practice out loud!",
+        "texto_portugues": "Agora é sua vez! Tente criar suas próprias frases usando some, any e none. Descreva o que você tem na sua geladeira, o que você precisa do supermercado, ou o que você fez no último fim de semana. Pratique com someone, something, somewhere e suas contrapartes. Quanto mais você usar essas palavras, mais naturais elas se tornarão. Lembre-se: cometer erros faz parte do aprendizado, então não tenha medo de praticar em voz alta!",
+        "tem_audio": true
+      }
+    }
+  ]
+}
