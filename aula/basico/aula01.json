@@ -9,7 +9,8 @@
       "conteudo": {
         "texto_ingles": "Welcome to your first English lesson! Here, you will learn the English alphabet and its pronunciation. The alphabet is the foundation of reading, writing, and spelling in English. Let's start with the basics and build your confidence step by step.",
         "texto_portugues": "Bem-vindo à sua primeira aula de inglês! Aqui, você vai aprender o alfabeto inglês e sua pronúncia. O alfabeto é a base da leitura, escrita e soletração em inglês. Vamos começar com o básico e construir sua confiança passo a passo.",
-        "tem_audio": true
+        "tem_audio": true,
+        "botao": "Reproduzir"
       }
     },
     {
@@ -19,7 +20,8 @@
       "conteudo": {
         "texto_ingles": "The English alphabet has 26 letters, just like Portuguese. However, the pronunciation is completely different. Learning the correct pronunciation of each letter is essential for communication, especially when you need to spell names, addresses, or other important information.",
         "texto_portugues": "O alfabeto inglês tem 26 letras, assim como o português. No entanto, a pronúncia é completamente diferente. Aprender a pronúncia correta de cada letra é essencial para comunicação, especialmente quando você precisa soletrar nomes, endereços ou outras informações importantes.",
-        "tem_audio": true
+        "tem_audio": true,
+        "botao": "Reproduzir"
       }
     },
     {
@@ -31,37 +33,37 @@
         {
           "ingles": "A",
           "portugues": "A",
-          "fonetica": "/eɪ/",
           "tem_audio": true,
-          "contexto": "Pronounced like 'ay' in 'say'. Example: Apple /ˈæpəl/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced like 'ay' in 'say'. Example: Apple"
         },
         {
           "ingles": "E",
           "portugues": "E",
-          "fonetica": "/iː/",
           "tem_audio": true,
-          "contexto": "Pronounced like 'ee' in 'see'. Example: Elephant /ˈeləfənt/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced like 'ee' in 'see'. Example: Elephant"
         },
         {
           "ingles": "I",
           "portugues": "I",
-          "fonetica": "/aɪ/",
           "tem_audio": true,
-          "contexto": "Pronounced like 'eye'. Example: Ice /aɪs/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced like 'eye'. Example: Ice"
         },
         {
           "ingles": "O",
           "portugues": "O",
-          "fonetica": "/oʊ/",
           "tem_audio": true,
-          "contexto": "Pronounced like 'oh'. Example: Orange /ˈɔrɪndʒ/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced like 'oh'. Example: Orange"
         },
         {
           "ingles": "U",
           "portugues": "U",
-          "fonetica": "/juː/",
           "tem_audio": true,
-          "contexto": "Pronounced like 'you'. Example: University /ˌjunəˈvɜrsəti/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced like 'you'. Example: University"
         }
       ]
     },
@@ -74,37 +76,37 @@
         {
           "ingles": "B",
           "portugues": "B",
-          "fonetica": "/biː/",
           "tem_audio": true,
-          "contexto": "Pronounced 'bee'. Example: Book /bʊk/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'bee'. Example: Book"
         },
         {
           "ingles": "C",
           "portugues": "C",
-          "fonetica": "/siː/",
           "tem_audio": true,
-          "contexto": "Pronounced 'see'. Example: Cat /kæt/, City /ˈsɪti/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'see'. Example: Cat, City"
         },
         {
           "ingles": "D",
           "portugues": "D",
-          "fonetica": "/diː/",
           "tem_audio": true,
-          "contexto": "Pronounced 'dee'. Example: Dog /dɔg/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'dee'. Example: Dog"
         },
         {
           "ingles": "F",
           "portugues": "F",
-          "fonetica": "/ɛf/",
           "tem_audio": true,
-          "contexto": "Pronounced 'eff'. Example: Fish /fɪʃ/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'eff'. Example: Fish"
         },
         {
           "ingles": "G",
           "portugues": "G",
-          "fonetica": "/dʒiː/",
           "tem_audio": true,
-          "contexto": "Pronounced 'jee'. Example: Good /ɡʊd/, Giant /ˈdʒaɪənt/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'jee'. Example: Good, Giant"
         }
       ]
     },
@@ -117,37 +119,37 @@
         {
           "ingles": "H",
           "portugues": "H",
-          "fonetica": "/eɪtʃ/",
           "tem_audio": true,
-          "contexto": "Pronounced 'aitch'. NOT silent like in Portuguese! Example: House /haʊs/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'aitch'. NOT silent like in Portuguese! Example: House"
         },
         {
           "ingles": "J",
           "portugues": "J",
-          "fonetica": "/dʒeɪ/",
           "tem_audio": true,
-          "contexto": "Pronounced 'jay', not 'jota'. Example: Jump /dʒʌmp/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'jay', not 'jota'. Example: Jump"
         },
         {
           "ingles": "K",
           "portugues": "K",
-          "fonetica": "/keɪ/",
           "tem_audio": true,
-          "contexto": "Pronounced 'kay'. Example: Key /kiː/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'kay'. Example: Key"
         },
         {
           "ingles": "L",
           "portugues": "L",
-          "fonetica": "/ɛl/",
           "tem_audio": true,
-          "contexto": "Pronounced 'ell'. Example: Love /lʌv/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'ell'. Example: Love"
         },
         {
           "ingles": "M",
           "portugues": "M",
-          "fonetica": "/ɛm/",
           "tem_audio": true,
-          "contexto": "Pronounced 'emm'. Example: Money /ˈmʌni/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'emm'. Example: Money"
         }
       ]
     },
@@ -160,37 +162,37 @@
         {
           "ingles": "N",
           "portugues": "N",
-          "fonetica": "/ɛn/",
           "tem_audio": true,
-          "contexto": "Pronounced 'enn'. Example: Name /neɪm/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'enn'. Example: Name"
         },
         {
           "ingles": "P",
           "portugues": "P",
-          "fonetica": "/piː/",
           "tem_audio": true,
-          "contexto": "Pronounced 'pee'. Example: People /ˈpiːpəl/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'pee'. Example: People"
         },
         {
           "ingles": "Q",
           "portugues": "Q",
-          "fonetica": "/kjuː/",
           "tem_audio": true,
-          "contexto": "Pronounced 'cue'. Almost always followed by 'U'. Example: Question /ˈkwɛstʃən/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'cue'. Almost always followed by 'U'. Example: Question"
         },
         {
           "ingles": "R",
           "portugues": "R",
-          "fonetica": "/ɑr/",
           "tem_audio": true,
-          "contexto": "Pronounced 'arr'. Example: Red /rɛd/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'arr'. Example: Red"
         },
         {
           "ingles": "S",
           "portugues": "S",
-          "fonetica": "/ɛs/",
           "tem_audio": true,
-          "contexto": "Pronounced 'ess'. Example: Sun /sʌn/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'ess'. Example: Sun"
         }
       ]
     },
@@ -203,44 +205,44 @@
         {
           "ingles": "T",
           "portugues": "T",
-          "fonetica": "/tiː/",
           "tem_audio": true,
-          "contexto": "Pronounced 'tee'. Example: Time /taɪm/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'tee'. Example: Time"
         },
         {
           "ingles": "V",
           "portugues": "V",
-          "fonetica": "/viː/",
           "tem_audio": true,
-          "contexto": "Pronounced 'vee'. Example: Very /ˈvɛri/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'vee'. Example: Very"
         },
         {
           "ingles": "W",
           "portugues": "W",
-          "fonetica": "/ˈdʌbəl juː/",
           "tem_audio": true,
-          "contexto": "Pronounced 'double-you', NOT 'dabliu'. Example: Water /ˈwɔtər/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'double-you', NOT 'dabliu'. Example: Water"
         },
         {
           "ingles": "X",
           "portugues": "X",
-          "fonetica": "/ɛks/",
           "tem_audio": true,
-          "contexto": "Pronounced 'ex'. Example: eXample /ɪgˈzæmpəl/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'ex'. Example: eXample"
         },
         {
           "ingles": "Y",
           "portugues": "Y",
-          "fonetica": "/waɪ/",
           "tem_audio": true,
-          "contexto": "Pronounced 'why', not 'ípsilon'. Example: Yes /jɛs/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'why', not 'ípsilon'. Example: Yes"
         },
         {
           "ingles": "Z",
           "portugues": "Z",
-          "fonetica": "/ziː/ (US) or /zɛd/ (UK)",
           "tem_audio": true,
-          "contexto": "Pronounced 'zee' in America, 'zed' in Britain. Example: Zero /ˈzɪroʊ/"
+          "botao": "Reproduzir",
+          "contexto": "Pronounced 'zee' in America, 'zed' in Britain. Example: Zero"
         }
       ]
     },
@@ -251,7 +253,8 @@
       "conteudo": {
         "texto_ingles": "Spelling is a crucial skill in English. When someone asks 'How do you spell it?' or 'Could you spell that?', you need to say each letter clearly and slowly. This is very common in real-life situations like giving your name, email, or address.",
         "texto_portugues": "Soletrar é uma habilidade crucial em inglês. Quando alguém pergunta 'Como você soletra isso?' ou 'Poderia soletrar isso?', você precisa dizer cada letra claramente e devagar. Isso é muito comum em situações da vida real, como dar seu nome, e-mail ou endereço.",
-        "tem_audio": true
+        "tem_audio": true,
+        "botao": "Reproduzir"
       }
     },
     {
@@ -263,29 +266,29 @@
         {
           "ingles": "How do you spell your name?",
           "portugues": "Como você soletra seu nome?",
-          "fonetica": "/haʊ duː juː spɛl jʊr neɪm/",
           "tem_audio": true,
+          "botao": "Reproduzir",
           "contexto": "Most common question when someone needs to write your name"
         },
         {
           "ingles": "Could you spell that for me?",
           "portugues": "Poderia soletrar isso para mim?",
-          "fonetica": "/kʊd juː spɛl ðæt fɔr miː/",
           "tem_audio": true,
+          "botao": "Reproduzir",
           "contexto": "Polite way to ask someone to spell something"
         },
         {
           "ingles": "Let me spell it out.",
           "portugues": "Deixe-me soletrar.",
-          "fonetica": "/lɛt miː spɛl ɪt aʊt/",
           "tem_audio": true,
+          "botao": "Reproduzir",
           "contexto": "When you want to spell something for someone"
         },
         {
           "ingles": "Can you repeat the spelling?",
           "portugues": "Pode repetir a soletração?",
-          "fonetica": "/kæn juː rɪˈpit ðə ˈspɛlɪŋ/",
           "tem_audio": true,
+          "botao": "Reproduzir",
           "contexto": "When you didn't catch the spelling the first time"
         }
       ]
@@ -299,22 +302,22 @@
         {
           "ingles": "SARAH → S-A-R-A-H",
           "portugues": "SARAH → S-A-R-A-H",
-          "fonetica": "/ɛs eɪ ɑr eɪ eɪtʃ/",
           "tem_audio": true,
+          "botao": "Reproduzir",
           "contexto": "Example of spelling a common name"
         },
         {
           "ingles": "EMAIL → john@gmail.com",
           "portugues": "EMAIL → john@gmail.com",
-          "fonetica": "/dʒɑn æt dʒiː ɛm eɪ aɪ ɛl dɑt kɑm/",
           "tem_audio": true,
+          "botao": "Reproduzir",
           "contexto": "J-O-H-N 'at' G-M-A-I-L 'dot' com"
         },
         {
           "ingles": "BEAUTIFUL → B-E-A-U-T-I-F-U-L",
           "portugues": "BEAUTIFUL → B-E-A-U-T-I-F-U-L",
-          "fonetica": "/biː iː eɪ juː tiː aɪ ɛf juː ɛl/",
           "tem_audio": true,
+          "botao": "Reproduzir",
           "contexto": "Example of spelling a longer word"
         }
       ]
@@ -330,43 +333,43 @@
           "falante": "Receptionist",
           "ingles": "Good morning! Could I have your name, please?",
           "portugues": "Bom dia! Poderia me dar seu nome, por favor?",
-          "fonetica": "/ɡʊd ˈmɔrnɪŋ kʊd aɪ hæv jʊr neɪm pliːz/",
-          "tem_audio": true
+          "tem_audio": true,
+          "botao": "Reproduzir"
         },
         {
           "falante": "Maria",
           "ingles": "Yes, my name is Maria Silva.",
           "portugues": "Sim, meu nome é Maria Silva.",
-          "fonetica": "/jɛs maɪ neɪm ɪz məˈriə ˈsɪlvə/",
-          "tem_audio": true
+          "tem_audio": true,
+          "botao": "Reproduzir"
         },
         {
           "falante": "Receptionist",
           "ingles": "How do you spell your last name?",
           "portugues": "Como você soletra seu sobrenome?",
-          "fonetica": "/haʊ duː juː spɛl jʊr læst neɪm/",
-          "tem_audio": true
+          "tem_audio": true,
+          "botao": "Reproduzir"
         },
         {
           "falante": "Maria",
           "ingles": "It's S-I-L-V-A.",
           "portugues": "É S-I-L-V-A.",
-          "fonetica": "/ɪts ɛs aɪ ɛl viː eɪ/",
-          "tem_audio": true
+          "tem_audio": true,
+          "botao": "Reproduzir"
         },
         {
           "falante": "Receptionist",
           "ingles": "Perfect! And your email address?",
           "portugues": "Perfeito! E seu endereço de e-mail?",
-          "fonetica": "/ˈpɜrfɪkt ænd jʊr ˈimeɪl əˈdrɛs/",
-          "tem_audio": true
+          "tem_audio": true,
+          "botao": "Reproduzir"
         },
         {
           "falante": "Maria",
           "ingles": "It's maria.silva@hotmail.com. That's M-A-R-I-A dot S-I-L-V-A at H-O-T-M-A-I-L dot com.",
           "portugues": "É maria.silva@hotmail.com. Isso é M-A-R-I-A ponto S-I-L-V-A arroba H-O-T-M-A-I-L ponto com.",
-          "fonetica": "/ɪts məˈriə ˈsɪlvə æt ˈhɑtmeɪl dɑt kɑm/",
-          "tem_audio": true
+          "tem_audio": true,
+          "botao": "Reproduzir"
         }
       ]
     },
@@ -377,9 +380,9 @@
       "conteudo": {
         "texto_ingles": "Now it's your turn to practice! Try saying the alphabet out loud. Practice spelling your name, your city, and your email address. Start slowly and gradually increase your speed. Remember: clear pronunciation is more important than speed!",
         "texto_portugues": "Agora é sua vez de praticar! Tente dizer o alfabeto em voz alta. Pratique soletrar seu nome, sua cidade e seu endereço de e-mail. Comece devagar e aumente gradualmente sua velocidade. Lembre-se: pronúncia clara é mais importante que velocidade!",
-        "tem_audio": true
+        "tem_audio": true,
+        "botao": "Reproduzir"
       }
     }
   ]
 }
-
