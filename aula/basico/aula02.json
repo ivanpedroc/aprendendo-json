@@ -1,6 +1,6 @@
 {
   "titulo": "Greetings & Introductions",
-  "descricao": "Sua primeira aula de inglês! Aprenda a cumprimentar pessoas e se apresentar de forma natural.",
+  "descricao": "Sua aula de inglês! Aprenda a cumprimentar pessoas e se apresentar de forma natural.",
   "secoes": [
     {
       "id": "introducao",
@@ -8,7 +8,7 @@
       "tipo": "texto",
       "conteudo": {
         "texto_ingles": "Welcome to your first English lesson! Here, you will learn to greet people and introduce yourself. Greetings are the foundation of all social interactions in English. Let's start with the basics and build your confidence step by step.",
-        "texto_portugues": "Bem-vindo à sua primeira aula de inglês! Aqui, você vai aprender a cumprimentar pessoas e se apresentar. As saudações são a base de todas as interações sociais em inglês. Vamos começar com o básico e construir sua confiança passo a passo.",
+        "texto_portugues": "Bem-vindo à sua aula de inglês! Aqui, você vai aprender a cumprimentar pessoas e se apresentar. As saudações são a base de todas as interações sociais em inglês. Vamos começar com o básico e construir sua confiança passo a passo.",
         "tem_audio": true
       }
     },
@@ -31,7 +31,6 @@
         {
           "ingles": "Good morning!",
           "portugues": "Bom dia!",
-          "fonetica": "/ɡʊd ˈmɔːrnɪŋ/",
           "tem_audio": true,
           "contexto": "Formal greeting used from 6 AM to 12 PM"
         }
@@ -46,7 +45,6 @@
         {
           "ingles": "Good afternoon!",
           "portugues": "Boa tarde!",
-          "fonetica": "/ɡʊd ˌæftərˈnuːn/",
           "tem_audio": true,
           "contexto": "Formal greeting used from 12 PM to 6 PM"
         }
@@ -61,7 +59,6 @@
         {
           "ingles": "Good evening!",
           "portugues": "Boa noite! (cumprimento)",
-          "fonetica": "/ɡʊd ˈiːvnɪŋ/",
           "tem_audio": true,
           "contexto": "Formal greeting used after 6 PM. Don't confuse with 'Good night' which is for saying goodbye"
         }
@@ -76,14 +73,12 @@
         {
           "ingles": "Hello!",
           "portugues": "Olá!",
-          "fonetica": "/həˈloʊ/",
           "tem_audio": true,
           "contexto": "Universal, works at any time of day, formal or semi-formal"
         },
         {
           "ingles": "Hi!",
           "portugues": "Oi!",
-          "fonetica": "/haɪ/",
           "tem_audio": true,
           "contexto": "Casual and friendly, most common informal greeting"
         }
@@ -98,28 +93,24 @@
         {
           "ingles": "Hey!",
           "portugues": "E aí!",
-          "fonetica": "/heɪ/",
           "tem_audio": true,
           "contexto": "Very informal, used with close friends and young people"
         },
         {
           "ingles": "What's up?",
           "portugues": "E aí? / O que está rolando?",
-          "fonetica": "/wʌts ʌp/",
           "tem_audio": true,
           "contexto": "Casual question meaning 'How are things?' Popular with young people"
         },
         {
           "ingles": "How are you?",
           "portugues": "Como você está?",
-          "fonetica": "/haʊ ɑːr juː/",
           "tem_audio": true,
           "contexto": "Can be formal or informal depending on tone and situation"
         },
         {
           "ingles": "How's it going?",
           "portugues": "Como vão as coisas?",
-          "fonetica": "/haʊz ɪt ˈɡoʊɪŋ/",
           "tem_audio": true,
           "contexto": "Informal and friendly, similar to 'What's up?'"
         }
@@ -144,42 +135,36 @@
         {
           "ingles": "I'm fine, thanks. And you?",
           "portugues": "Estou bem, obrigado. E você?",
-          "fonetica": "/aɪm faɪn θæŋks ænd juː/",
           "tem_audio": true,
           "contexto": "Standard polite response. Always ask back!"
         },
         {
           "ingles": "I'm doing well, thanks. How about you?",
           "portugues": "Estou indo bem, obrigado. E você?",
-          "fonetica": "/aɪm ˈduːɪŋ wel θæŋks haʊ əˈbaʊt juː/",
           "tem_audio": true,
           "contexto": "Slightly more elaborate response"
         },
         {
           "ingles": "Great, thanks!",
           "portugues": "Ótimo, obrigado!",
-          "fonetica": "/ɡreɪt θæŋks/",
           "tem_audio": true,
           "contexto": "Enthusiastic positive response"
         },
         {
           "ingles": "Pretty good!",
           "portugues": "Muito bem!",
-          "fonetica": "/ˈprɪti ɡʊd/",
           "tem_audio": true,
           "contexto": "Informal positive response"
         },
         {
           "ingles": "Not bad, thanks.",
           "portugues": "Nada mal, obrigado.",
-          "fonetica": "/nɑːt bæd θæŋks/",
           "tem_audio": true,
           "contexto": "Neutral casual response, means things are okay"
         },
         {
           "ingles": "Can't complain!",
           "portugues": "Não posso reclamar!",
-          "fonetica": "/kænt kəmˈpleɪn/",
           "tem_audio": true,
           "contexto": "Idiomatic expression meaning things are going well"
         }
@@ -204,14 +189,12 @@
         {
           "ingles": "My name is [your name].",
           "portugues": "Meu nome é [seu nome].",
-          "fonetica": "/maɪ neɪm ɪz/",
           "tem_audio": true,
           "contexto": "More formal way to introduce yourself"
         },
         {
           "ingles": "I'm [your name].",
           "portugues": "Eu sou [seu nome].",
-          "fonetica": "/aɪm/",
           "tem_audio": true,
           "contexto": "More casual way to introduce yourself"
         }
@@ -226,28 +209,24 @@
         {
           "ingles": "I'm from Brazil.",
           "portugues": "Eu sou do Brasil.",
-          "fonetica": "/aɪm frʌm brəˈzɪl/",
           "tem_audio": true,
           "contexto": "To say your country of origin"
         },
         {
           "ingles": "I live in São Paulo.",
           "portugues": "Eu moro em São Paulo.",
-          "fonetica": "/aɪ lɪv ɪn saʊ ˈpaʊloʊ/",
           "tem_audio": true,
           "contexto": "To say where you currently live"
         },
         {
           "ingles": "I'm Brazilian.",
           "portugues": "Eu sou brasileiro(a).",
-          "fonetica": "/aɪm brəˈzɪljən/",
           "tem_audio": true,
           "contexto": "Direct way to state your nationality"
         },
         {
           "ingles": "I'm 25 years old.",
           "portugues": "Eu tenho 25 anos.",
-          "fonetica": "/aɪm ˈtwenti faɪv jɪrz oʊld/",
           "tem_audio": true,
           "contexto": "For stating your age. Replace 25 with your real age"
         }
@@ -272,35 +251,30 @@
         {
           "ingles": "What's your name?",
           "portugues": "Qual é o seu nome?",
-          "fonetica": "/wʌts jʊr neɪm/",
           "tem_audio": true,
           "contexto": "The most basic question to get to know someone"
         },
         {
           "ingles": "Where are you from?",
           "portugues": "De onde você é?",
-          "fonetica": "/wer ɑːr juː frʌm/",
           "tem_audio": true,
           "contexto": "To ask about someone's origin or nationality"
         },
         {
           "ingles": "Where do you live?",
           "portugues": "Onde você mora?",
-          "fonetica": "/wer duː juː lɪv/",
           "tem_audio": true,
           "contexto": "To know where someone currently lives"
         },
         {
           "ingles": "What do you do?",
           "portugues": "O que você faz? (profissão)",
-          "fonetica": "/wʌt duː juː duː/",
           "tem_audio": true,
           "contexto": "Asking about someone's job or profession"
         },
         {
           "ingles": "How old are you?",
           "portugues": "Quantos anos você tem?",
-          "fonetica": "/haʊ oʊld ɑːr juː/",
           "tem_audio": true,
           "contexto": "For asking age. Use carefully in some contexts"
         }
@@ -315,21 +289,18 @@
         {
           "ingles": "Nice to meet you!",
           "portugues": "Prazer em te conhecer!",
-          "fonetica": "/naɪs tuː miːt juː/",
           "tem_audio": true,
           "contexto": "Essential phrase when meeting someone for the first time"
         },
         {
           "ingles": "Nice to meet you too!",
           "portugues": "Prazer em te conhecer também!",
-          "fonetica": "/naɪs tuː miːt juː tuː/",
           "tem_audio": true,
           "contexto": "Response when someone says 'Nice to meet you'"
         },
         {
           "ingles": "Pleased to meet you!",
           "portugues": "Prazer em conhecê-lo! (mais formal)",
-          "fonetica": "/pliːzd tuː miːt juː/",
           "tem_audio": true,
           "contexto": "More formal version of 'Nice to meet you'"
         }
@@ -356,42 +327,36 @@
           "falante": "Sarah",
           "ingles": "Good morning! I'm Sarah.",
           "portugues": "Bom dia! Eu sou a Sarah.",
-          "fonetica": "/ɡʊd ˈmɔːrnɪŋ aɪm ˈsɛrə/",
           "tem_audio": true
         },
         {
           "falante": "Carlos",
           "ingles": "Good morning, Sarah! My name is Carlos. Nice to meet you.",
           "portugues": "Bom dia, Sarah! Meu nome é Carlos. Prazer em te conhecer.",
-          "fonetica": "/ɡʊd ˈmɔːrnɪŋ ˈsɛrə maɪ neɪm ɪz ˈkɑrloʊs naɪs tuː miːt juː/",
           "tem_audio": true
         },
         {
           "falante": "Sarah",
           "ingles": "Nice to meet you too, Carlos! Where are you from?",
           "portugues": "Prazer em te conhecer também, Carlos! De onde você é?",
-          "fonetica": "/naɪs tuː miːt juː tuː ˈkɑrloʊs wer ɑːr juː frʌm/",
           "tem_audio": true
         },
         {
           "falante": "Carlos",
           "ingles": "I'm from Brazil. And you?",
           "portugues": "Eu sou do Brasil. E você?",
-          "fonetica": "/aɪm frʌm brəˈzɪl ænd juː/",
           "tem_audio": true
         },
         {
           "falante": "Sarah",
           "ingles": "I'm from Canada. How are you today?",
           "portugues": "Eu sou do Canadá. Como você está hoje?",
-          "fonetica": "/aɪm frʌm ˈkænədə haʊ ɑːr juː təˈdeɪ/",
           "tem_audio": true
         },
         {
           "falante": "Carlos",
           "ingles": "I'm fine, thanks! And you?",
           "portugues": "Estou bem, obrigado! E você?",
-          "fonetica": "/aɪm faɪn θæŋks ænd juː/",
           "tem_audio": true
         }
       ]
@@ -407,42 +372,36 @@
           "falante": "Lucas",
           "ingles": "Hey! What's up? I'm Lucas.",
           "portugues": "E aí! O que está rolando? Eu sou o Lucas.",
-          "fonetica": "/heɪ wʌts ʌp aɪm ˈluːkəs/",
           "tem_audio": true
         },
         {
           "falante": "Amy",
           "ingles": "Hi Lucas! I'm Amy. Nice to meet you!",
           "portugues": "Oi Lucas! Eu sou a Amy. Prazer em te conhecer!",
-          "fonetica": "/haɪ ˈluːkəs aɪm ˈeɪmi naɪs tuː miːt juː/",
           "tem_audio": true
         },
         {
           "falante": "Lucas",
           "ingles": "Nice to meet you too! How's it going?",
           "portugues": "Prazer em te conhecer também! Como vão as coisas?",
-          "fonetica": "/naɪs tuː miːt juː tuː haʊz ɪt ˈɡoʊɪŋ/",
           "tem_audio": true
         },
         {
           "falante": "Amy",
           "ingles": "Pretty good, thanks! Are you from around here?",
           "portugues": "Muito bem, obrigada! Você é daqui?",
-          "fonetica": "/ˈprɪti ɡʊd θæŋks ɑːr juː frʌm əˈraʊnd hɪr/",
           "tem_audio": true
         },
         {
           "falante": "Lucas",
           "ingles": "Yeah, I live nearby. What about you?",
           "portugues": "Sim, eu moro aqui perto. E você?",
-          "fonetica": "/jæ aɪ lɪv ˈnɪrbaɪ wʌt əˈbaʊt juː/",
           "tem_audio": true
         },
         {
           "falante": "Amy",
           "ingles": "I'm from Rio, but I'm studying here now.",
           "portugues": "Eu sou do Rio, mas estou estudando aqui agora.",
-          "fonetica": "/aɪm frʌm ˈriːoʊ bʌt aɪm ˈstʌdiɪŋ hɪr naʊ/",
           "tem_audio": true
         }
       ]
