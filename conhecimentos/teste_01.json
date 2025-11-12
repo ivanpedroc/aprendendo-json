@@ -1,0 +1,182 @@
+{
+  "titulo": "Subject Pronouns",
+  "tempo_por_questao": 30,
+  "embaralhar_questoes": true,
+  "questoes": [
+    {
+      "pergunta": "Complete: \"___ am happy.\"",
+      "opcoes": ["I", "He", "She"],
+      "resposta_correta": "I",
+      "explicacao": "Usamos 'I' para falar de nós mesmos.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Complete: \"___ is my brother.\"",
+      "opcoes": ["He", "She", "We"],
+      "resposta_correta": "He",
+      "explicacao": "Usamos 'He' para se referir a um homem.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Complete: \"___ is my sister.\"",
+      "opcoes": ["She", "He", "They"],
+      "resposta_correta": "She",
+      "explicacao": "Usamos 'She' para se referir a uma mulher.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Complete: \"___ are my friends.\"",
+      "opcoes": ["They", "We", "He"],
+      "resposta_correta": "They",
+      "explicacao": "Usamos 'They' para falar de mais de uma pessoa.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Complete: \"___ are from Brazil.\"",
+      "opcoes": ["We", "I", "He"],
+      "resposta_correta": "We",
+      "explicacao": "Usamos 'We' para incluir quem fala e outra pessoa.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Complete: \"___ are a good student.\"",
+      "opcoes": ["You", "He", "I"],
+      "resposta_correta": "You",
+      "explicacao": "Usamos 'You' para falar com outra pessoa.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun replaces 'John'?",
+      "opcoes": ["He", "She", "They"],
+      "resposta_correta": "He",
+      "explicacao": "'John' é masculino, então usamos 'He'.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun replaces 'Maria'?",
+      "opcoes": ["She", "He", "They"],
+      "resposta_correta": "She",
+      "explicacao": "'Maria' é feminino, então usamos 'She'.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun replaces 'Maria and I'?",
+      "opcoes": ["We", "They", "She"],
+      "resposta_correta": "We",
+      "explicacao": "Inclui quem fala, então usamos 'We'.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun replaces 'Carlos and Pedro'?",
+      "opcoes": ["They", "We", "He"],
+      "resposta_correta": "They",
+      "explicacao": "São duas pessoas, então usamos 'They'.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun replaces 'the dog'?",
+      "opcoes": ["It", "He", "They"],
+      "resposta_correta": "It",
+      "explicacao": "Animais geralmente usam 'It'.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun replaces 'the book'?",
+      "opcoes": ["It", "They", "He"],
+      "resposta_correta": "It",
+      "explicacao": "Coisas usam 'It'.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Choose the correct pronoun: \"___ is raining.\"",
+      "opcoes": ["It", "He", "They"],
+      "resposta_correta": "It",
+      "explicacao": "Usamos 'It' para tempo e clima.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Choose the correct pronoun: \"___ are teachers.\"",
+      "opcoes": ["They", "We", "He"],
+      "resposta_correta": "They",
+      "explicacao": "Mais de uma pessoa: 'They are teachers.'",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Choose the correct pronoun: \"___ is my mother.\"",
+      "opcoes": ["She", "He", "They"],
+      "resposta_correta": "She",
+      "explicacao": "'Mother' é feminino, usamos 'She'.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Choose the correct pronoun: \"___ is my father.\"",
+      "opcoes": ["He", "She", "They"],
+      "resposta_correta": "He",
+      "explicacao": "'Father' é masculino, usamos 'He'.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Choose the correct pronoun: \"___ am from Brazil.\"",
+      "opcoes": ["I", "You", "They"],
+      "resposta_correta": "I",
+      "explicacao": "Quem fala sobre si mesmo usa 'I'.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Complete: \"___ are my parents.\"",
+      "opcoes": ["They", "We", "He"],
+      "resposta_correta": "They",
+      "explicacao": "'Parents' está no plural, usamos 'They'.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Choose the correct pronoun for 'my friend and I'.",
+      "opcoes": ["We", "They", "He"],
+      "resposta_correta": "We",
+      "explicacao": "Inclui quem fala, então é 'We'.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Choose the correct pronoun: \"___ are at school.\" (falando com outra pessoa)",
+      "opcoes": ["You", "We", "They"],
+      "resposta_correta": "You",
+      "explicacao": "Falando com alguém, usamos 'You'.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun replaces 'my friends'?",
+      "opcoes": ["They", "We", "He"],
+      "resposta_correta": "They",
+      "explicacao": "'Friends' é plural, então usamos 'They'.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun replaces 'John and Mary'?",
+      "opcoes": ["They", "We", "He"],
+      "resposta_correta": "They",
+      "explicacao": "Mais de uma pessoa, usamos 'They'.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Complete: \"___ is my best friend.\" (Maria)",
+      "opcoes": ["She", "He", "They"],
+      "resposta_correta": "She",
+      "explicacao": "Maria é feminina, usamos 'She'.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Complete: \"___ is tall.\" (John)",
+      "opcoes": ["He", "She", "They"],
+      "resposta_correta": "He",
+      "explicacao": "John é masculino, usamos 'He'.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Complete: \"___ are in the park.\" (children)",
+      "opcoes": ["They", "We", "He"],
+      "resposta_correta": "They",
+      "explicacao": "Crianças no plural, usamos 'They'.",
+      "embaralhar_opcoes": true
+    }
+  ]
+}
