@@ -1,0 +1,216 @@
+{
+  "titulo": "Verb To Be - Complete Test (30 Questions)",
+  "embaralhar_questoes": true,
+  "questoes": [
+    {
+      "pergunta": "Choose the correct form of 'to be': I ___ a teacher.",
+      "opcoes": ["is", "are", "am", "be"],
+      "resposta_correta": "am",
+      "explicacao": "Use 'am' with 'I'. Example: I am a teacher.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "She ___ a doctor.",
+      "opcoes": ["am", "is", "are", "be"],
+      "resposta_correta": "is",
+      "explicacao": "Use 'is' for he, she, or it. Example: She is a doctor.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "They ___ students.",
+      "opcoes": ["is", "are", "am", "be"],
+      "resposta_correta": "are",
+      "explicacao": "Use 'are' for plural subjects. Example: They are students.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "He ___ at home now.",
+      "opcoes": ["am", "is", "are", "be"],
+      "resposta_correta": "is",
+      "explicacao": "'He' takes 'is'. Example: He is at home now.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "We ___ friends.",
+      "opcoes": ["is", "are", "am", "be"],
+      "resposta_correta": "are",
+      "explicacao": "Use 'are' for we/you/they. Example: We are friends.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "It ___ a beautiful day.",
+      "opcoes": ["am", "is", "are", "be"],
+      "resposta_correta": "is",
+      "explicacao": "Use 'is' with 'it'. Example: It is a beautiful day.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "You ___ my best friend.",
+      "opcoes": ["is", "are", "am", "be"],
+      "resposta_correta": "are",
+      "explicacao": "Use 'are' with 'you'. Example: You are my best friend.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "I ___ not happy today.",
+      "opcoes": ["am", "is", "are", "be"],
+      "resposta_correta": "am",
+      "explicacao": "Use 'am' with 'I'. Example: I am not happy today.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "She ___ from Brazil.",
+      "opcoes": ["am", "is", "are", "be"],
+      "resposta_correta": "is",
+      "explicacao": "'She' uses 'is'. Example: She is from Brazil.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "We ___ not at school now.",
+      "opcoes": ["is", "are", "am", "be"],
+      "resposta_correta": "are",
+      "explicacao": "Use 'are' for 'we'. Example: We are not at school now.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "It ___ cold today.",
+      "opcoes": ["am", "is", "are", "be"],
+      "resposta_correta": "is",
+      "explicacao": "'It' uses 'is'. Example: It is cold today.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "He ___ not my brother.",
+      "opcoes": ["am", "is", "are", "be"],
+      "resposta_correta": "is",
+      "explicacao": "'He' takes 'is'. Example: He is not my brother.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "You ___ not late.",
+      "opcoes": ["is", "are", "am", "be"],
+      "resposta_correta": "are",
+      "explicacao": "Use 'are' with 'you'. Example: You are not late.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "They ___ not from Japan.",
+      "opcoes": ["is", "are", "am", "be"],
+      "resposta_correta": "are",
+      "explicacao": "Use 'are' with 'they'. Example: They are not from Japan.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "I ___ a student.",
+      "opcoes": ["am", "is", "are", "be"],
+      "resposta_correta": "am",
+      "explicacao": "Use 'am' with 'I'. Example: I am a student.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "She ___ not at home.",
+      "opcoes": ["am", "is", "are", "be"],
+      "resposta_correta": "is",
+      "explicacao": "'She' uses 'is'. Example: She is not at home.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "He ___ a good singer.",
+      "opcoes": ["am", "is", "are", "be"],
+      "resposta_correta": "is",
+      "explicacao": "'He' uses 'is'. Example: He is a good singer.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "They ___ in the park.",
+      "opcoes": ["is", "are", "am", "be"],
+      "resposta_correta": "are",
+      "explicacao": "Use 'are' for plural subjects. Example: They are in the park.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "We ___ not ready yet.",
+      "opcoes": ["is", "are", "am", "be"],
+      "resposta_correta": "are",
+      "explicacao": "Use 'are' for 'we'. Example: We are not ready yet.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "It ___ an apple.",
+      "opcoes": ["is", "are", "am", "be"],
+      "resposta_correta": "is",
+      "explicacao": "'It' uses 'is'. Example: It is an apple.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "You ___ tired.",
+      "opcoes": ["is", "are", "am", "be"],
+      "resposta_correta": "are",
+      "explicacao": "'You' uses 'are'. Example: You are tired.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "They ___ my neighbors.",
+      "opcoes": ["is", "are", "am", "be"],
+      "resposta_correta": "are",
+      "explicacao": "Use 'are' for plural subjects. Example: They are my neighbors.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "I ___ not from Canada.",
+      "opcoes": ["am", "is", "are", "be"],
+      "resposta_correta": "am",
+      "explicacao": "'I' takes 'am'. Example: I am not from Canada.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "He ___ my teacher.",
+      "opcoes": ["am", "is", "are", "be"],
+      "resposta_correta": "is",
+      "explicacao": "Use 'is' for he/she/it. Example: He is my teacher.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "We ___ from the same city.",
+      "opcoes": ["is", "are", "am", "be"],
+      "resposta_correta": "are",
+      "explicacao": "Use 'are' for 'we'. Example: We are from the same city.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "It ___ not easy to learn English.",
+      "opcoes": ["am", "is", "are", "be"],
+      "resposta_correta": "is",
+      "explicacao": "'It' uses 'is'. Example: It is not easy to learn English.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "They ___ very friendly.",
+      "opcoes": ["is", "are", "am", "be"],
+      "resposta_correta": "are",
+      "explicacao": "Use 'are' for plural subjects. Example: They are very friendly.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "You ___ not alone.",
+      "opcoes": ["is", "are", "am", "be"],
+      "resposta_correta": "are",
+      "explicacao": "Use 'are' with 'you'. Example: You are not alone.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "She ___ my sister.",
+      "opcoes": ["am", "is", "are", "be"],
+      "resposta_correta": "is",
+      "explicacao": "'She' uses 'is'. Example: She is my sister.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "I ___ very happy today.",
+      "opcoes": ["am", "is", "are", "be"],
+      "resposta_correta": "am",
+      "explicacao": "'I' uses 'am'. Example: I am very happy today.",
+      "embaralhar_opcoes": true
+    }
+  ]
+}
