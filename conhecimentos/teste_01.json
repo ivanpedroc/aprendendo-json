@@ -1,40 +1,222 @@
 {
-  "titulo": "Subject Pronouns - English Grammar",
+  "titulo": "Subject Pronouns - Complete Test (30 Questions)",
   "embaralhar_questoes": true,
   "questoes": [
     {
-      "pergunta": "Which pronoun replaces the noun 'John'?",
+      "pergunta": "Which pronoun replaces 'Michael'?",
       "opcoes": ["He", "She", "It", "They"],
       "resposta_correta": "He",
-      "explicacao": "'He' is used for a singular male person. Example: John is tall. → He is tall.",
+      "explicacao": "'He' is used for a singular male person. Example: Michael is my friend. → He is my friend.",
       "embaralhar_opcoes": true
     },
     {
-      "pergunta": "Choose the correct pronoun to replace 'Mary and I'.",
-      "opcoes": ["We", "Us", "They", "You"],
-      "resposta_correta": "We",
-      "explicacao": "'We' is used when the speaker includes themselves with another person. Example: Mary and I are friends. → We are friends.",
+      "pergunta": "Which pronoun replaces 'Anna'?",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "She",
+      "explicacao": "'She' is used for a singular female person. Example: Anna is smart. → She is smart.",
       "embaralhar_opcoes": true
     },
     {
-      "pergunta": "Which pronoun should replace 'The cat'?",
+      "pergunta": "Choose the correct pronoun to replace 'The dog'.",
       "opcoes": ["He", "She", "It", "They"],
       "resposta_correta": "It",
-      "explicacao": "'It' is used for animals or objects when gender is not important. Example: The cat is sleeping. → It is sleeping.",
+      "explicacao": "'It' is used for animals or things when gender is not important. Example: The dog is barking. → It is barking.",
       "embaralhar_opcoes": true
     },
     {
-      "pergunta": "Select the correct pronoun for 'My friends'.",
+      "pergunta": "Select the correct pronoun for 'My parents'.",
       "opcoes": ["He", "She", "It", "They"],
       "resposta_correta": "They",
-      "explicacao": "'They' is used for plural nouns. Example: My friends are happy. → They are happy.",
+      "explicacao": "'They' is used for plural nouns. Example: My parents are kind. → They are kind.",
       "embaralhar_opcoes": true
     },
     {
-      "pergunta": "What is the correct pronoun for 'You and John'?",
-      "opcoes": ["We", "They", "You", "He"],
+      "pergunta": "Which pronoun replaces 'Peter and I'?",
+      "opcoes": ["We", "Us", "They", "You"],
+      "resposta_correta": "We",
+      "explicacao": "'We' includes the speaker and others. Example: Peter and I are happy. → We are happy.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Choose the correct pronoun for 'Lisa and you'.",
+      "opcoes": ["We", "They", "You", "It"],
       "resposta_correta": "You",
-      "explicacao": "'You' can be singular or plural depending on the context. Example: You and John are late. → You are late.",
+      "explicacao": "'You' can be singular or plural. Example: Lisa and you are late. → You are late.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun is correct for 'The book'?",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "It",
+      "explicacao": "'It' is used for objects. Example: The book is new. → It is new.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Choose the pronoun for 'My friends and I'.",
+      "opcoes": ["We", "They", "You", "It"],
+      "resposta_correta": "We",
+      "explicacao": "'We' refers to the speaker and others together. Example: My friends and I love pizza. → We love pizza.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun can replace 'Paul and Mary'?",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "They",
+      "explicacao": "'They' is used for more than one person. Example: Paul and Mary are here. → They are here.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Choose the correct pronoun to replace 'The computer'.",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "It",
+      "explicacao": "'It' refers to objects or things. Example: The computer is old. → It is old.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun should replace 'The children'?",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "They",
+      "explicacao": "'They' is used for plural subjects. Example: The children are playing. → They are playing.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Select the correct pronoun for 'My teacher'.",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "He",
+      "explicacao": "'He' is used if the teacher is male. Example: My teacher is kind. → He is kind.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Select the correct pronoun for 'My sister'.",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "She",
+      "explicacao": "'She' is used for a singular female person. Example: My sister is tall. → She is tall.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun replaces 'Tom and you'?",
+      "opcoes": ["We", "They", "You", "It"],
+      "resposta_correta": "You",
+      "explicacao": "'You' includes the listener and others. Example: Tom and you are my friends. → You are my friends.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "What is the correct pronoun for 'My brother and I'?",
+      "opcoes": ["We", "Us", "They", "You"],
+      "resposta_correta": "We",
+      "explicacao": "'We' includes the speaker and another person. Example: My brother and I play soccer. → We play soccer.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun replaces 'The dogs'?",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "They",
+      "explicacao": "'They' is used for plural animals. Example: The dogs are barking. → They are barking.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Choose the correct pronoun for 'The car'.",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "It",
+      "explicacao": "'It' is used for things. Example: The car is fast. → It is fast.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun replaces 'The students'?",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "They",
+      "explicacao": "'They' refers to plural nouns. Example: The students are in class. → They are in class.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Select the pronoun for 'The pencil'.",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "It",
+      "explicacao": "'It' is used for objects. Example: The pencil is sharp. → It is sharp.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Choose the correct pronoun for 'My best friend' (female).",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "She",
+      "explicacao": "'She' is used for a female person. Example: My best friend is kind. → She is kind.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun replaces 'My team'?",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "It",
+      "explicacao": "A team is considered singular. Example: My team is strong. → It is strong.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Choose the pronoun for 'Paul, Mary, and I'.",
+      "opcoes": ["We", "They", "You", "It"],
+      "resposta_correta": "We",
+      "explicacao": "'We' includes the speaker and others. Example: Paul, Mary, and I are happy. → We are happy.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun replaces 'John and Peter'?",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "They",
+      "explicacao": "'They' refers to more than one person. Example: John and Peter are friends. → They are friends.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "What pronoun should replace 'The baby'?",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "It",
+      "explicacao": "'It' is often used for babies when gender is not specified. Example: The baby is crying. → It is crying.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun replaces 'The birds'?",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "They",
+      "explicacao": "'They' is used for plural nouns. Example: The birds are singing. → They are singing.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Choose the correct pronoun for 'My classmates'.",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "They",
+      "explicacao": "'They' is for plural people. Example: My classmates study a lot. → They study a lot.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun replaces 'You and I'?",
+      "opcoes": ["We", "They", "You", "It"],
+      "resposta_correta": "We",
+      "explicacao": "'We' includes both the speaker and the listener. Example: You and I are ready. → We are ready.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Select the correct pronoun for 'My grandparents'.",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "They",
+      "explicacao": "'They' is used for plural nouns. Example: My grandparents live nearby. → They live nearby.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun replaces 'My mother'?",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "She",
+      "explicacao": "'She' is for female people. Example: My mother cooks well. → She cooks well.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Choose the pronoun for 'Mr. Smith'.",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "He",
+      "explicacao": "'He' is used for a man. Example: Mr. Smith is my teacher. → He is my teacher.",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Which pronoun should replace 'The flowers'?",
+      "opcoes": ["He", "She", "It", "They"],
+      "resposta_correta": "They",
+      "explicacao": "'They' refers to plural things. Example: The flowers are beautiful. → They are beautiful.",
       "embaralhar_opcoes": true
     }
   ]
