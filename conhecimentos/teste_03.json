@@ -1,721 +1,506 @@
 {
-  "titulo": "Food Listening Practice - 50 Questions",
+  "titulo": "Food Listening Quiz - Complete Test (50 Questions)",
   "embaralhar_questoes": true,
   "questoes": [
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "I like fresh apples.",
-      "opcoes": [
-        "I like fresh apples.",
-        "I cook with tomatoes.",
-        "I eat rice every day.",
-        "I drink orange juice."
-      ],
-      "resposta_correta": "I like fresh apples.",
-      "explicacao": "Eu gosto de maçãs frescas.",
-      "embaralhar_opcoes": true
+      "frase_audio": "I like apples.",
+      "pergunta": "",
+      "opcoes": ["I like apples", "I like oranges"],
+      "resposta_correta": "I like apples",
+      "traducao": "Eu gosto de maçãs",
+      "explicacao": "A frase correta é 'I like apples' (Eu gosto de maçãs)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "She eats bread in the morning.",
-      "opcoes": [
-        "She eats bread in the morning.",
-        "She drinks milk at night.",
-        "She buys fresh cheese.",
-        "She cooks pasta for lunch."
-      ],
-      "resposta_correta": "She eats bread in the morning.",
-      "explicacao": "Ela come pão de manhã.",
-      "embaralhar_opcoes": true
+      "frase_audio": "She eats bread.",
+      "pergunta": "",
+      "opcoes": ["She eats bread", "She eats meat"],
+      "resposta_correta": "She eats bread",
+      "traducao": "Ela come pão",
+      "explicacao": "A frase correta é 'She eats bread' (Ela come pão)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "They drink cold milk.",
-      "opcoes": [
-        "They drink cold milk.",
-        "They buy fresh fruit.",
-        "They cook vegetables.",
-        "They like hot soup."
-      ],
-      "resposta_correta": "They drink cold milk.",
-      "explicacao": "Eles bebem leite gelado.",
-      "embaralhar_opcoes": true
+      "frase_audio": "They drink milk.",
+      "pergunta": "",
+      "opcoes": ["They drink milk", "They drink juice"],
+      "resposta_correta": "They drink milk",
+      "traducao": "Eles bebem leite",
+      "explicacao": "A frase correta é 'They drink milk' (Eles bebem leite)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "We eat rice every Sunday.",
-      "opcoes": [
-        "We eat rice every Sunday.",
-        "We drink tea every morning.",
-        "We buy apples every week.",
-        "We cook chicken on Fridays."
-      ],
-      "resposta_correta": "We eat rice every Sunday.",
-      "explicacao": "Nós comemos arroz todo domingo.",
-      "embaralhar_opcoes": true
+      "frase_audio": "He wants pizza.",
+      "pergunta": "",
+      "opcoes": ["He wants pizza", "He wants pasta"],
+      "resposta_correta": "He wants pizza",
+      "traducao": "Ele quer pizza",
+      "explicacao": "A frase correta é 'He wants pizza' (Ele quer pizza)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "He likes sweet bananas.",
-      "opcoes": [
-        "He likes sweet bananas.",
-        "He drinks orange juice.",
-        "He buys fresh fish.",
-        "He cooks rice and beans."
-      ],
-      "resposta_correta": "He likes sweet bananas.",
-      "explicacao": "Ele gosta de bananas doces.",
-      "embaralhar_opcoes": true
+      "frase_audio": "We eat rice.",
+      "pergunta": "",
+      "opcoes": ["We eat rice", "We eat beans"],
+      "resposta_correta": "We eat rice",
+      "traducao": "Nós comemos arroz",
+      "explicacao": "A frase correta é 'We eat rice' (Nós comemos arroz)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "I drink orange juice every morning.",
-      "opcoes": [
-        "I drink orange juice every morning.",
-        "I cook with olive oil.",
-        "I eat cheese with bread.",
-        "I buy vegetables at the market."
-      ],
-      "resposta_correta": "I drink orange juice every morning.",
-      "explicacao": "Eu bebo suco de laranja todas as manhãs.",
-      "embaralhar_opcoes": true
+      "frase_audio": "I love chocolate.",
+      "pergunta": "",
+      "opcoes": ["I love chocolate", "I love vanilla"],
+      "resposta_correta": "I love chocolate",
+      "traducao": "Eu amo chocolate",
+      "explicacao": "A frase correta é 'I love chocolate' (Eu amo chocolate)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "She cooks chicken for dinner.",
-      "opcoes": [
-        "She cooks chicken for dinner.",
-        "She eats grapes every day.",
-        "She drinks cold water.",
-        "She likes chocolate cake."
-      ],
-      "resposta_correta": "She cooks chicken for dinner.",
-      "explicacao": "Ela cozinha frango para o jantar.",
-      "embaralhar_opcoes": true
+      "frase_audio": "She drinks water.",
+      "pergunta": "",
+      "opcoes": ["She drinks water", "She drinks coffee"],
+      "resposta_correta": "She drinks water",
+      "traducao": "Ela bebe água",
+      "explicacao": "A frase correta é 'She drinks water' (Ela bebe água)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "We buy fresh vegetables.",
-      "opcoes": [
-        "We buy fresh vegetables.",
-        "We eat carrots at night.",
-        "We drink hot coffee.",
-        "We like salty popcorn."
-      ],
-      "resposta_correta": "We buy fresh vegetables.",
-      "explicacao": "Nós compramos vegetais frescos.",
-      "embaralhar_opcoes": true
+      "frase_audio": "They like bananas.",
+      "pergunta": "",
+      "opcoes": ["They like bananas", "They like grapes"],
+      "resposta_correta": "They like bananas",
+      "traducao": "Eles gostam de bananas",
+      "explicacao": "A frase correta é 'They like bananas' (Eles gostam de bananas)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "He eats cheese with bread.",
-      "opcoes": [
-        "He eats cheese with bread.",
-        "He cooks meat on Sundays.",
-        "He drinks lemon tea.",
-        "He likes sweet apples."
-      ],
-      "resposta_correta": "He eats cheese with bread.",
-      "explicacao": "Ele come queijo com pão.",
-      "embaralhar_opcoes": true
+      "frase_audio": "He eats chicken.",
+      "pergunta": "",
+      "opcoes": ["He eats chicken", "He eats fish"],
+      "resposta_correta": "He eats chicken",
+      "traducao": "Ele come frango",
+      "explicacao": "A frase correta é 'He eats chicken' (Ele come frango)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "They cook pasta every week.",
-      "opcoes": [
-        "They cook pasta every week.",
-        "They drink fresh juice.",
-        "They eat hot soup.",
-        "They buy green apples."
-      ],
-      "resposta_correta": "They cook pasta every week.",
-      "explicacao": "Eles cozinham macarrão toda semana.",
-      "embaralhar_opcoes": true
+      "frase_audio": "I want cheese.",
+      "pergunta": "",
+      "opcoes": ["I want cheese", "I want butter"],
+      "resposta_correta": "I want cheese",
+      "traducao": "Eu quero queijo",
+      "explicacao": "A frase correta é 'I want cheese' (Eu quero queijo)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "I like salty popcorn.",
-      "opcoes": [
-        "I like salty popcorn.",
-        "I drink cold tea.",
-        "I cook soup on Sundays.",
-        "I eat apples every day."
-      ],
-      "resposta_correta": "I like salty popcorn.",
-      "explicacao": "Eu gosto de pipoca salgada.",
-      "embaralhar_opcoes": true
+      "frase_audio": "We drink tea.",
+      "pergunta": "",
+      "opcoes": ["We drink tea", "We drink soda"],
+      "resposta_correta": "We drink tea",
+      "traducao": "Nós bebemos chá",
+      "explicacao": "A frase correta é 'We drink tea' (Nós bebemos chá)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "She eats fresh grapes.",
-      "opcoes": [
-        "She eats fresh grapes.",
-        "She buys red apples.",
-        "She cooks white rice.",
-        "She drinks cold milk."
-      ],
-      "resposta_correta": "She eats fresh grapes.",
-      "explicacao": "Ela come uvas frescas.",
-      "embaralhar_opcoes": true
+      "frase_audio": "She likes tomatoes.",
+      "pergunta": "",
+      "opcoes": ["She likes tomatoes", "She likes potatoes"],
+      "resposta_correta": "She likes tomatoes",
+      "traducao": "Ela gosta de tomates",
+      "explicacao": "A frase correta é 'She likes tomatoes' (Ela gosta de tomates)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "He drinks hot coffee.",
-      "opcoes": [
-        "He drinks hot coffee.",
-        "He likes orange juice.",
-        "He eats sweet bread.",
-        "He buys tomatoes."
-      ],
-      "resposta_correta": "He drinks hot coffee.",
-      "explicacao": "Ele bebe café quente.",
-      "embaralhar_opcoes": true
+      "frase_audio": "They eat salad.",
+      "pergunta": "",
+      "opcoes": ["They eat salad", "They eat soup"],
+      "resposta_correta": "They eat salad",
+      "traducao": "Eles comem salada",
+      "explicacao": "A frase correta é 'They eat salad' (Eles comem salada)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "We cook soup on cold days.",
-      "opcoes": [
-        "We cook soup on cold days.",
-        "We drink milk in the morning.",
-        "We buy fish at the market.",
-        "We eat bananas every night."
-      ],
-      "resposta_correta": "We cook soup on cold days.",
-      "explicacao": "Nós cozinhamos sopa em dias frios.",
-      "embaralhar_opcoes": true
+      "frase_audio": "He drinks orange juice.",
+      "pergunta": "",
+      "opcoes": ["He drinks orange juice", "He drinks apple juice"],
+      "resposta_correta": "He drinks orange juice",
+      "traducao": "Ele bebe suco de laranja",
+      "explicacao": "A frase correta é 'He drinks orange juice' (Ele bebe suco de laranja)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "They like chocolate cookies.",
-      "opcoes": [
-        "They like chocolate cookies.",
-        "They drink apple juice.",
-        "They cook beans on weekends.",
-        "They eat spicy food."
-      ],
-      "resposta_correta": "They like chocolate cookies.",
-      "explicacao": "Eles gostam de biscoitos de chocolate.",
-      "embaralhar_opcoes": true
+      "frase_audio": "I eat eggs.",
+      "pergunta": "",
+      "opcoes": ["I eat eggs", "I eat bacon"],
+      "resposta_correta": "I eat eggs",
+      "traducao": "Eu como ovos",
+      "explicacao": "A frase correta é 'I eat eggs' (Eu como ovos)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "I eat eggs for breakfast.",
-      "opcoes": [
-        "I eat eggs for breakfast.",
-        "I cook chicken for lunch.",
-        "I drink water at night.",
-        "I buy bread on Mondays."
-      ],
-      "resposta_correta": "I eat eggs for breakfast.",
-      "explicacao": "Eu como ovos no café da manhã.",
-      "embaralhar_opcoes": true
+      "frase_audio": "We love strawberries.",
+      "pergunta": "",
+      "opcoes": ["We love strawberries", "We love blueberries"],
+      "resposta_correta": "We love strawberries",
+      "traducao": "Nós amamos morangos",
+      "explicacao": "A frase correta é 'We love strawberries' (Nós amamos morangos)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "She buys fresh fish.",
-      "opcoes": [
-        "She buys fresh fish.",
-        "She eats sweet apples.",
-        "She drinks hot tea.",
-        "She cooks vegetables."
-      ],
-      "resposta_correta": "She buys fresh fish.",
-      "explicacao": "Ela compra peixe fresco.",
-      "embaralhar_opcoes": true
+      "frase_audio": "She wants ice cream.",
+      "pergunta": "",
+      "opcoes": ["She wants ice cream", "She wants cake"],
+      "resposta_correta": "She wants ice cream",
+      "traducao": "Ela quer sorvete",
+      "explicacao": "A frase correta é 'She wants ice cream' (Ela quer sorvete)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "He likes cold watermelon.",
-      "opcoes": [
-        "He likes cold watermelon.",
-        "He drinks orange juice.",
-        "He eats bread every day.",
-        "He cooks pasta at home."
-      ],
-      "resposta_correta": "He likes cold watermelon.",
-      "explicacao": "Ele gosta de melancia gelada.",
-      "embaralhar_opcoes": true
+      "frase_audio": "They drink coffee.",
+      "pergunta": "",
+      "opcoes": ["They drink coffee", "They drink hot chocolate"],
+      "resposta_correta": "They drink coffee",
+      "traducao": "Eles bebem café",
+      "explicacao": "A frase correta é 'They drink coffee' (Eles bebem café)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "We drink tea every night.",
-      "opcoes": [
-        "We drink tea every night.",
-        "We eat bananas every morning.",
-        "We cook chicken on weekends.",
-        "We buy vegetables at the store."
-      ],
-      "resposta_correta": "We drink tea every night.",
-      "explicacao": "Nós bebemos chá todas as noites.",
-      "embaralhar_opcoes": true
+      "frase_audio": "He likes carrots.",
+      "pergunta": "",
+      "opcoes": ["He likes carrots", "He likes peas"],
+      "resposta_correta": "He likes carrots",
+      "traducao": "Ele gosta de cenouras",
+      "explicacao": "A frase correta é 'He likes carrots' (Ele gosta de cenouras)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "They eat spicy noodles.",
-      "opcoes": [
-        "They eat spicy noodles.",
-        "They drink cold water.",
-        "They buy fresh apples.",
-        "They like sweet bread."
-      ],
-      "resposta_correta": "They eat spicy noodles.",
-      "explicacao": "Eles comem macarrão apimentado.",
-      "embaralhar_opcoes": true
+      "frase_audio": "I want a sandwich.",
+      "pergunta": "",
+      "opcoes": ["I want a sandwich", "I want a hamburger"],
+      "resposta_correta": "I want a sandwich",
+      "traducao": "Eu quero um sanduíche",
+      "explicacao": "A frase correta é 'I want a sandwich' (Eu quero um sanduíche)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "I buy tomatoes at the market.",
-      "opcoes": [
-        "I buy tomatoes at the market.",
-        "I drink milk for breakfast.",
-        "I eat rice on Sundays.",
-        "I cook soup at home."
-      ],
-      "resposta_correta": "I buy tomatoes at the market.",
-      "explicacao": "Eu compro tomates no mercado.",
-      "embaralhar_opcoes": true
+      "frase_audio": "We eat pasta.",
+      "pergunta": "",
+      "opcoes": ["We eat pasta", "We eat noodles"],
+      "resposta_correta": "We eat pasta",
+      "traducao": "Nós comemos macarrão",
+      "explicacao": "A frase correta é 'We eat pasta' (Nós comemos macarrão)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "She drinks fresh lemonade.",
-      "opcoes": [
-        "She drinks fresh lemonade.",
-        "She buys chicken on Fridays.",
-        "She eats bread with cheese.",
-        "She cooks white rice."
-      ],
-      "resposta_correta": "She drinks fresh lemonade.",
-      "explicacao": "Ela bebe limonada fresca.",
-      "embaralhar_opcoes": true
+      "frase_audio": "She drinks lemonade.",
+      "pergunta": "",
+      "opcoes": ["She drinks lemonade", "She drinks iced tea"],
+      "resposta_correta": "She drinks lemonade",
+      "traducao": "Ela bebe limonada",
+      "explicacao": "A frase correta é 'She drinks lemonade' (Ela bebe limonada)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "He eats green salad.",
-      "opcoes": [
-        "He eats green salad.",
-        "He drinks grape juice.",
-        "He cooks meat every day.",
-        "He buys oranges at the store."
-      ],
-      "resposta_correta": "He eats green salad.",
-      "explicacao": "Ele come salada verde.",
-      "embaralhar_opcoes": true
+      "frase_audio": "They like cookies.",
+      "pergunta": "",
+      "opcoes": ["They like cookies", "They like brownies"],
+      "resposta_correta": "They like cookies",
+      "traducao": "Eles gostam de biscoitos",
+      "explicacao": "A frase correta é 'They like cookies' (Eles gostam de biscoitos)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "We cook beans every Friday.",
-      "opcoes": [
-        "We cook beans every Friday.",
-        "We drink juice at work.",
-        "We buy apples in the morning.",
-        "We eat bananas at night."
-      ],
-      "resposta_correta": "We cook beans every Friday.",
-      "explicacao": "Nós cozinhamos feijão toda sexta-feira.",
-      "embaralhar_opcoes": true
+      "frase_audio": "He eats yogurt.",
+      "pergunta": "",
+      "opcoes": ["He eats yogurt", "He eats pudding"],
+      "resposta_correta": "He eats yogurt",
+      "traducao": "Ele come iogurte",
+      "explicacao": "A frase correta é 'He eats yogurt' (Ele come iogurte)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "They like sweet strawberries.",
-      "opcoes": [
-        "They like sweet strawberries.",
-        "They drink cold tea.",
-        "They eat hot pasta.",
-        "They buy chicken at the farm."
-      ],
-      "resposta_correta": "They like sweet strawberries.",
-      "explicacao": "Eles gostam de morangos doces.",
-      "embaralhar_opcoes": true
+      "frase_audio": "I love mangoes.",
+      "pergunta": "",
+      "opcoes": ["I love mangoes", "I love pineapples"],
+      "resposta_correta": "I love mangoes",
+      "traducao": "Eu amo mangas",
+      "explicacao": "A frase correta é 'I love mangoes' (Eu amo mangas)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "I drink coconut water.",
-      "opcoes": [
-        "I drink coconut water.",
-        "I eat chocolate cake.",
-        "I cook rice with beans.",
-        "I buy tomatoes every day."
-      ],
-      "resposta_correta": "I drink coconut water.",
-      "explicacao": "Eu bebo água de coco.",
-      "embaralhar_opcoes": true
+      "frase_audio": "We want french fries.",
+      "pergunta": "",
+      "opcoes": ["We want french fries", "We want onion rings"],
+      "resposta_correta": "We want french fries",
+      "traducao": "Nós queremos batatas fritas",
+      "explicacao": "A frase correta é 'We want french fries' (Nós queremos batatas fritas)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "She eats chocolate ice cream.",
-      "opcoes": [
-        "She eats chocolate ice cream.",
-        "She cooks pasta for lunch.",
-        "She buys fresh bananas.",
-        "She drinks hot lemonade."
-      ],
-      "resposta_correta": "She eats chocolate ice cream.",
-      "explicacao": "Ela come sorvete de chocolate.",
-      "embaralhar_opcoes": true
+      "frase_audio": "She eats cereal.",
+      "pergunta": "",
+      "opcoes": ["She eats cereal", "She eats oatmeal"],
+      "resposta_correta": "She eats cereal",
+      "traducao": "Ela come cereal",
+      "explicacao": "A frase correta é 'She eats cereal' (Ela come cereal)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "He drinks apple juice.",
-      "opcoes": [
-        "He drinks apple juice.",
-        "He eats green pasta.",
-        "He buys sweet grapes.",
-        "He cooks chicken soup."
-      ],
-      "resposta_correta": "He drinks apple juice.",
-      "explicacao": "Ele bebe suco de maçã.",
-      "embaralhar_opcoes": true
+      "frase_audio": "They drink wine.",
+      "pergunta": "",
+      "opcoes": ["They drink wine", "They drink beer"],
+      "resposta_correta": "They drink wine",
+      "traducao": "Eles bebem vinho",
+      "explicacao": "A frase correta é 'They drink wine' (Eles bebem vinho)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "We eat fresh oranges.",
-      "opcoes": [
-        "We eat fresh oranges.",
-        "We drink cold coffee.",
-        "We buy tomatoes on Sundays.",
-        "We cook spicy noodles."
-      ],
-      "resposta_correta": "We eat fresh oranges.",
-      "explicacao": "Nós comemos laranjas frescas.",
-      "embaralhar_opcoes": true
+      "frase_audio": "He likes onions.",
+      "pergunta": "",
+      "opcoes": ["He likes onions", "He likes garlic"],
+      "resposta_correta": "He likes onions",
+      "traducao": "Ele gosta de cebolas",
+      "explicacao": "A frase correta é 'He likes onions' (Ele gosta de cebolas)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "They cook chicken soup.",
-      "opcoes": [
-        "They cook chicken soup.",
-        "They eat sweet bananas.",
-        "They drink green tea.",
-        "They buy apples every day."
-      ],
-      "resposta_correta": "They cook chicken soup.",
-      "explicacao": "Eles cozinham sopa de frango.",
-      "embaralhar_opcoes": true
+      "frase_audio": "I eat mushrooms.",
+      "pergunta": "",
+      "opcoes": ["I eat mushrooms", "I eat peppers"],
+      "resposta_correta": "I eat mushrooms",
+      "traducao": "Eu como cogumelos",
+      "explicacao": "A frase correta é 'I eat mushrooms' (Eu como cogumelos)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "I like hot chocolate.",
-      "opcoes": [
-        "I like hot chocolate.",
-        "I drink apple juice.",
-        "I eat salty popcorn.",
-        "I buy fresh cheese."
-      ],
-      "resposta_correta": "I like hot chocolate.",
-      "explicacao": "Eu gosto de chocolate quente.",
-      "embaralhar_opcoes": true
+      "frase_audio": "We love watermelon.",
+      "pergunta": "",
+      "opcoes": ["We love watermelon", "We love cantaloupe"],
+      "resposta_correta": "We love watermelon",
+      "traducao": "Nós amamos melancia",
+      "explicacao": "A frase correta é 'We love watermelon' (Nós amamos melancia)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "She drinks grape juice.",
-      "opcoes": [
-        "She drinks grape juice.",
-        "She cooks red meat.",
-        "She buys green bananas.",
-        "She eats cheese with bread."
-      ],
-      "resposta_correta": "She drinks grape juice.",
-      "explicacao": "Ela bebe suco de uva.",
-      "embaralhar_opcoes": true
+      "frase_audio": "She wants honey.",
+      "pergunta": "",
+      "opcoes": ["She wants honey", "She wants jam"],
+      "resposta_correta": "She wants honey",
+      "traducao": "Ela quer mel",
+      "explicacao": "A frase correta é 'She wants honey' (Ela quer mel)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "He likes spicy food.",
-      "opcoes": [
-        "He likes spicy food.",
-        "He drinks cold milk.",
-        "He buys fresh oranges.",
-        "He eats chocolate cake."
-      ],
-      "resposta_correta": "He likes spicy food.",
-      "explicacao": "Ele gosta de comida apimentada.",
-      "embaralhar_opcoes": true
+      "frase_audio": "They eat shrimp.",
+      "pergunta": "",
+      "opcoes": ["They eat shrimp", "They eat lobster"],
+      "resposta_correta": "They eat shrimp",
+      "traducao": "Eles comem camarão",
+      "explicacao": "A frase correta é 'They eat shrimp' (Eles comem camarão)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "We buy bread every morning.",
-      "opcoes": [
-        "We buy bread every morning.",
-        "We cook pasta every day.",
-        "We drink milk at night.",
-        "We eat grapes at lunch."
-      ],
-      "resposta_correta": "We buy bread every morning.",
-      "explicacao": "Nós compramos pão todas as manhãs.",
-      "embaralhar_opcoes": true
+      "frase_audio": "He drinks smoothies.",
+      "pergunta": "",
+      "opcoes": ["He drinks smoothies", "He drinks milkshakes"],
+      "resposta_correta": "He drinks smoothies",
+      "traducao": "Ele bebe smoothies",
+      "explicacao": "A frase correta é 'He drinks smoothies' (Ele bebe smoothies)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "They eat fresh fish.",
-      "opcoes": [
-        "They eat fresh fish.",
-        "They cook hot soup.",
-        "They drink cold juice.",
-        "They buy tomatoes."
-      ],
-      "resposta_correta": "They eat fresh fish.",
-      "explicacao": "Eles comem peixe fresco.",
-      "embaralhar_opcoes": true
+      "frase_audio": "I like peanuts.",
+      "pergunta": "",
+      "opcoes": ["I like peanuts", "I like almonds"],
+      "resposta_correta": "I like peanuts",
+      "traducao": "Eu gosto de amendoins",
+      "explicacao": "A frase correta é 'I like peanuts' (Eu gosto de amendoins)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "I drink lemon tea.",
-      "opcoes": [
-        "I drink lemon tea.",
-        "I eat sweet apples.",
-        "I buy fresh chicken.",
-        "I cook red pasta."
-      ],
-      "resposta_correta": "I drink lemon tea.",
-      "explicacao": "Eu bebo chá de limão.",
-      "embaralhar_opcoes": true
+      "frase_audio": "We eat sushi.",
+      "pergunta": "",
+      "opcoes": ["We eat sushi", "We eat sashimi"],
+      "resposta_correta": "We eat sushi",
+      "traducao": "Nós comemos sushi",
+      "explicacao": "A frase correta é 'We eat sushi' (Nós comemos sushi)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "She likes fresh carrots.",
-      "opcoes": [
-        "She likes fresh carrots.",
-        "She drinks orange juice.",
-        "She buys chocolate cookies.",
-        "She eats cold watermelon."
-      ],
-      "resposta_correta": "She likes fresh carrots.",
-      "explicacao": "Ela gosta de cenouras frescas.",
-      "embaralhar_opcoes": true
+      "frase_audio": "She likes pickles.",
+      "pergunta": "",
+      "opcoes": ["She likes pickles", "She likes olives"],
+      "resposta_correta": "She likes pickles",
+      "traducao": "Ela gosta de picles",
+      "explicacao": "A frase correta é 'She likes pickles' (Ela gosta de picles)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "He buys red apples.",
-      "opcoes": [
-        "He buys red apples.",
-        "He drinks hot tea.",
-        "He eats spicy noodles.",
-        "He cooks chicken on Fridays."
-      ],
-      "resposta_correta": "He buys red apples.",
-      "explicacao": "Ele compra maçãs vermelhas.",
-      "embaralhar_opcoes": true
+      "frase_audio": "They drink coconut water.",
+      "pergunta": "",
+      "opcoes": ["They drink coconut water", "They drink mineral water"],
+      "resposta_correta": "They drink coconut water",
+      "traducao": "Eles bebem água de coco",
+      "explicacao": "A frase correta é 'They drink coconut water' (Eles bebem água de coco)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "We eat sweet watermelon.",
-      "opcoes": [
-        "We eat sweet watermelon.",
-        "We buy cheese at the store.",
-        "We drink cold water.",
-        "We cook beans every night."
-      ],
-      "resposta_correta": "We eat sweet watermelon.",
-      "explicacao": "Nós comemos melancia doce.",
-      "embaralhar_opcoes": true
+      "frase_audio": "He eats avocado.",
+      "pergunta": "",
+      "opcoes": ["He eats avocado", "He eats cucumber"],
+      "resposta_correta": "He eats avocado",
+      "traducao": "Ele come abacate",
+      "explicacao": "A frase correta é 'He eats avocado' (Ele come abacate)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "They like hot soup.",
-      "opcoes": [
-        "They like hot soup.",
-        "They eat fresh apples.",
-        "They buy tomatoes.",
-        "They drink coconut water."
-      ],
-      "resposta_correta": "They like hot soup.",
-      "explicacao": "Eles gostam de sopa quente.",
-      "embaralhar_opcoes": true
+      "frase_audio": "I want popcorn.",
+      "pergunta": "",
+      "opcoes": ["I want popcorn", "I want chips"],
+      "resposta_correta": "I want popcorn",
+      "traducao": "Eu quero pipoca",
+      "explicacao": "A frase correta é 'I want popcorn' (Eu quero pipoca)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "I cook pasta for lunch.",
-      "opcoes": [
-        "I cook pasta for lunch.",
-        "I drink milk for breakfast.",
-        "I eat apples every night.",
-        "I buy bananas every day."
-      ],
-      "resposta_correta": "I cook pasta for lunch.",
-      "explicacao": "Eu cozinho macarrão para o almoço.",
-      "embaralhar_opcoes": true
+      "frase_audio": "We love donuts.",
+      "pergunta": "",
+      "opcoes": ["We love donuts", "We love muffins"],
+      "resposta_correta": "We love donuts",
+      "traducao": "Nós amamos donuts",
+      "explicacao": "A frase correta é 'We love donuts' (Nós amamos donuts)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "She eats bread with cheese.",
-      "opcoes": [
-        "She eats bread with cheese.",
-        "She drinks cold water.",
-        "She buys fresh grapes.",
-        "She cooks chicken soup."
-      ],
-      "resposta_correta": "She eats bread with cheese.",
-      "explicacao": "Ela come pão com queijo.",
-      "embaralhar_opcoes": true
+      "frase_audio": "She eats spinach.",
+      "pergunta": "",
+      "opcoes": ["She eats spinach", "She eats lettuce"],
+      "resposta_correta": "She eats spinach",
+      "traducao": "Ela come espinafre",
+      "explicacao": "A frase correta é 'She eats spinach' (Ela come espinafre)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "He drinks cold lemonade.",
-      "opcoes": [
-        "He drinks cold lemonade.",
-        "He cooks meat every Sunday.",
-        "He eats chocolate ice cream.",
-        "He buys carrots every day."
-      ],
-      "resposta_correta": "He drinks cold lemonade.",
-      "explicacao": "Ele bebe limonada gelada.",
-      "embaralhar_opcoes": true
+      "frase_audio": "They like nachos.",
+      "pergunta": "",
+      "opcoes": ["They like nachos", "They like tacos"],
+      "resposta_correta": "They like nachos",
+      "traducao": "Eles gostam de nachos",
+      "explicacao": "A frase correta é 'They like nachos' (Eles gostam de nachos)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "We like sweet oranges.",
-      "opcoes": [
-        "We like sweet oranges.",
-        "We drink hot chocolate.",
-        "We buy green apples.",
-        "We eat salty popcorn."
-      ],
-      "resposta_correta": "We like sweet oranges.",
-      "explicacao": "Nós gostamos de laranjas doces.",
-      "embaralhar_opcoes": true
+      "frase_audio": "He drinks ginger ale.",
+      "pergunta": "",
+      "opcoes": ["He drinks ginger ale", "He drinks root beer"],
+      "resposta_correta": "He drinks ginger ale",
+      "traducao": "Ele bebe ginger ale",
+      "explicacao": "A frase correta é 'He drinks ginger ale' (Ele bebe ginger ale)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "They drink cold coffee.",
-      "opcoes": [
-        "They drink cold coffee.",
-        "They eat sweet bananas.",
-        "They cook rice with beans.",
-        "They buy chocolate cookies."
-      ],
-      "resposta_correta": "They drink cold coffee.",
-      "explicacao": "Eles bebem café gelado.",
-      "embaralhar_opcoes": true
+      "frase_audio": "I eat broccoli.",
+      "pergunta": "",
+      "opcoes": ["I eat broccoli", "I eat cauliflower"],
+      "resposta_correta": "I eat broccoli",
+      "traducao": "Eu como brócolis",
+      "explicacao": "A frase correta é 'I eat broccoli' (Eu como brócolis)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "I eat chocolate cake.",
-      "opcoes": [
-        "I eat chocolate cake.",
-        "I buy tomatoes at the market.",
-        "I drink hot milk.",
-        "I cook beans on Fridays."
-      ],
-      "resposta_correta": "I eat chocolate cake.",
-      "explicacao": "Eu como bolo de chocolate.",
-      "embaralhar_opcoes": true
+      "frase_audio": "We want tacos.",
+      "pergunta": "",
+      "opcoes": ["We want tacos", "We want burritos"],
+      "resposta_correta": "We want tacos",
+      "traducao": "Nós queremos tacos",
+      "explicacao": "A frase correta é 'We want tacos' (Nós queremos tacos)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "She buys green apples.",
-      "opcoes": [
-        "She buys green apples.",
-        "She drinks orange juice.",
-        "She eats cold watermelon.",
-        "She cooks pasta with cheese."
-      ],
-      "resposta_correta": "She buys green apples.",
-      "explicacao": "Ela compra maçãs verdes.",
-      "embaralhar_opcoes": true
+      "frase_audio": "She likes peaches.",
+      "pergunta": "",
+      "opcoes": ["She likes peaches", "She likes plums"],
+      "resposta_correta": "She likes peaches",
+      "traducao": "Ela gosta de pêssegos",
+      "explicacao": "A frase correta é 'She likes peaches' (Ela gosta de pêssegos)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "He likes cold juice.",
-      "opcoes": [
-        "He likes cold juice.",
-        "He buys bread every morning.",
-        "He drinks hot chocolate.",
-        "He eats spicy noodles."
-      ],
-      "resposta_correta": "He likes cold juice.",
-      "explicacao": "Ele gosta de suco gelado.",
-      "embaralhar_opcoes": true
+      "frase_audio": "They eat turkey.",
+      "pergunta": "",
+      "opcoes": ["They eat turkey", "They eat duck"],
+      "resposta_correta": "They eat turkey",
+      "traducao": "Eles comem peru",
+      "explicacao": "A frase correta é 'They eat turkey' (Eles comem peru)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "We drink water with lunch.",
-      "opcoes": [
-        "We drink water with lunch.",
-        "We eat fresh grapes.",
-        "We cook chicken soup.",
-        "We buy tomatoes."
-      ],
-      "resposta_correta": "We drink water with lunch.",
-      "explicacao": "Nós bebemos água no almoço.",
-      "embaralhar_opcoes": true
+      "frase_audio": "He wants pancakes.",
+      "pergunta": "",
+      "opcoes": ["He wants pancakes", "He wants waffles"],
+      "resposta_correta": "He wants pancakes",
+      "traducao": "Ele quer panquecas",
+      "explicacao": "A frase correta é 'He wants pancakes' (Ele quer panquecas)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     },
-
-
     {
-      "pergunta": "Qual é a frase?",
-      "audio": "They eat sweet apples.",
-      "opcoes": [
-        "They eat sweet apples.",
-        "They drink hot tea.",
-        "They buy red grapes.",
-        "They cook beans every night."
-      ],
-      "resposta_correta": "They eat sweet apples.",
-      "explicacao": "Eles comem maçãs doces.",
-      "embaralhar_opcoes": true
+      "frase_audio": "I love cherries.",
+      "pergunta": "",
+      "opcoes": ["I love cherries", "I love raspberries"],
+      "resposta_correta": "I love cherries",
+      "traducao": "Eu amo cerejas",
+      "explicacao": "A frase correta é 'I love cherries' (Eu amo cerejas)",
+      "embaralhar_opcoes": true,
+      "tipo_questao": "listening"
     }
   ]
 }
