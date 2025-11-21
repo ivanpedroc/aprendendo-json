@@ -1,0 +1,294 @@
+{
+  "titulo": "Listening Test - Bebidas Parte 1 (36 Questions)",
+  "embaralhar_questoes": true,
+  "questoes": [
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_001_audio.opus",
+      "opcoes": ["Drink eight glasses of water daily", "Drink six glasses of juice daily"],
+      "resposta_correta": "Drink eight glasses of water daily",
+      "explicacao": "A frase é 'Drink eight glasses of water daily' (Beba oito copos de água diariamente)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_002_audio.opus",
+      "opcoes": ["Tap water in this city is safe to drink", "Tap water in this town is clean to use"],
+      "resposta_correta": "Tap water in this city is safe to drink",
+      "explicacao": "A frase é 'Tap water in this city is safe to drink' (A água da torneira nesta cidade é segura para beber)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_003_audio.opus",
+      "opcoes": ["Buy bottled water for the camping trip", "Buy bottled water for the hiking trip"],
+      "resposta_correta": "Buy bottled water for the hiking trip",
+      "explicacao": "A frase é 'Buy bottled water for the hiking trip' (Compre água engarrafada para a caminhada)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_004_audio.opus",
+      "opcoes": ["Sparkling water has bubbles and fizz", "Mineral water has bubbles and taste"],
+      "resposta_correta": "Sparkling water has bubbles and fizz",
+      "explicacao": "A frase é 'Sparkling water has bubbles and fizz' (Água com gás tem bolhas e efervescência)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_005_audio.opus",
+      "opcoes": ["I prefer still water over sparkling water", "I prefer cold water over filtered water"],
+      "resposta_correta": "I prefer still water over sparkling water",
+      "explicacao": "A frase é 'I prefer still water over sparkling water' (Eu prefiro água sem gás a água com gás)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_006_audio.opus",
+      "opcoes": ["Natural spring water contains healthy nutrients", "Natural mineral water contains healthy minerals"],
+      "resposta_correta": "Natural mineral water contains healthy minerals",
+      "explicacao": "A frase é 'Natural mineral water contains healthy minerals' (Água mineral natural contém minerais saudáveis)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_007_audio.opus",
+      "opcoes": ["Mountain spring water tastes pure and fresh", "Mountain spring water looks clear and cold"],
+      "resposta_correta": "Mountain spring water tastes pure and fresh",
+      "explicacao": "A frase é 'Mountain spring water tastes pure and fresh' (Água de nascente da montanha tem gosto puro e fresco)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_008_audio.opus",
+      "opcoes": ["Distilled water is purified through boiling", "Filtered water is cleaned through straining"],
+      "resposta_correta": "Distilled water is purified through boiling",
+      "explicacao": "A frase é 'Distilled water is purified through boiling' (Água destilada é purificada através da fervura)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_009_audio.opus",
+      "opcoes": ["Use filtered water to make better coffee", "Use bottled water to make better tea"],
+      "resposta_correta": "Use filtered water to make better coffee",
+      "explicacao": "A frase é 'Use filtered water to make better coffee' (Use água filtrada para fazer café melhor)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_010_audio.opus",
+      "opcoes": ["Cold water is refreshing on sunny days", "Ice water is refreshing on hot days"],
+      "resposta_correta": "Ice water is refreshing on hot days",
+      "explicacao": "A frase é 'Ice water is refreshing on hot days' (Água gelada é refrescante em dias quentes)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_011_audio.opus",
+      "opcoes": ["Hot water with lemon aids digestion", "Warm water with honey helps breathing"],
+      "resposta_correta": "Hot water with lemon aids digestion",
+      "explicacao": "A frase é 'Hot water with lemon aids digestion' (Água quente com limão ajuda a digestão)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_012_audio.opus",
+      "opcoes": ["Start your day with warm lemon water", "Begin your morning with cold orange juice"],
+      "resposta_correta": "Start your day with warm lemon water",
+      "explicacao": "A frase é 'Start your day with warm lemon water' (Comece seu dia com água morna com limão)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_013_audio.opus",
+      "opcoes": ["Cucumber water is refreshing and hydrating", "Lemon water is tasty and energizing"],
+      "resposta_correta": "Cucumber water is refreshing and hydrating",
+      "explicacao": "A frase é 'Cucumber water is refreshing and hydrating' (Água com pepino é refrescante e hidratante)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_014_audio.opus",
+      "opcoes": ["Flavored water has fruit essence but no calories", "Mineral water has natural taste but no sugar"],
+      "resposta_correta": "Flavored water has fruit essence but no calories",
+      "explicacao": "A frase é 'Flavored water has fruit essence but no calories' (Água saborizada tem essência de fruta mas sem calorias)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_015_audio.opus",
+      "opcoes": ["Fresh coconut water is naturally electrolyte-rich", "Pure coconut milk is naturally vitamin-rich"],
+      "resposta_correta": "Fresh coconut water is naturally electrolyte-rich",
+      "explicacao": "A frase é 'Fresh coconut water is naturally electrolyte-rich' (Água de coco fresca é naturalmente rica em eletrólitos)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_016_audio.opus",
+      "opcoes": ["Fresh-ground coffee smells wonderful in the morning", "Fresh-brewed tea tastes wonderful in the evening"],
+      "resposta_correta": "Fresh-ground coffee smells wonderful in the morning",
+      "explicacao": "A frase é 'Fresh-ground coffee smells wonderful in the morning' (Café moído na hora tem um cheiro maravilhoso pela manhã)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_017_audio.opus",
+      "opcoes": ["I drink my coffee black without sugar", "I drink my tea hot without milk"],
+      "resposta_correta": "I drink my coffee black without sugar",
+      "explicacao": "A frase é 'I drink my coffee black without sugar' (Eu bebo meu café puro sem açúcar)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_018_audio.opus",
+      "opcoes": ["Coffee with cream is smooth and rich", "Coffee with milk is light and sweet"],
+      "resposta_correta": "Coffee with cream is smooth and rich",
+      "explicacao": "A frase é 'Coffee with cream is smooth and rich' (Café com creme é suave e rico)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_019_audio.opus",
+      "opcoes": ["Brazilian café com leite is half coffee, half milk", "Italian espresso doppio is double coffee, no milk"],
+      "resposta_correta": "Brazilian café com leite is half coffee, half milk",
+      "explicacao": "A frase é 'Brazilian café com leite is half coffee, half milk' (Café com leite brasileiro é metade café, metade leite)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_020_audio.opus",
+      "opcoes": ["Italian espresso is strong and concentrated", "Turkish coffee is thick and traditional"],
+      "resposta_correta": "Italian espresso is strong and concentrated",
+      "explicacao": "A frase é 'Italian espresso is strong and concentrated' (Espresso italiano é forte e concentrado)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_021_audio.opus",
+      "opcoes": ["Cappuccino has espresso topped with foamed milk", "Macchiato has espresso mixed with steamed cream"],
+      "resposta_correta": "Cappuccino has espresso topped with foamed milk",
+      "explicacao": "A frase é 'Cappuccino has espresso topped with foamed milk' (Cappuccino tem espresso coberto com leite espumado)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_022_audio.opus",
+      "opcoes": ["A latte has more milk than a cappuccino", "An americano has more water than an espresso"],
+      "resposta_correta": "A latte has more milk than a cappuccino",
+      "explicacao": "A frase é 'A latte has more milk than a cappuccino' (Um latte tem mais leite que um cappuccino)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_023_audio.opus",
+      "opcoes": ["Macchiato is espresso marked with a dollop of foam", "Cortado is espresso cut with a splash of milk"],
+      "resposta_correta": "Macchiato is espresso marked with a dollop of foam",
+      "explicacao": "A frase é 'Macchiato is espresso marked with a dollop of foam' (Macchiato é espresso marcado com uma porção de espuma)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_024_audio.opus",
+      "opcoes": ["An Americano is espresso diluted with hot water", "A cappuccino is espresso mixed with cold milk"],
+      "resposta_correta": "An Americano is espresso diluted with hot water",
+      "explicacao": "A frase é 'An Americano is espresso diluted with hot water' (Um Americano é espresso diluído com água quente)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_025_audio.opus",
+      "opcoes": ["Mocha combines coffee with chocolate flavor", "Latte combines coffee with vanilla taste"],
+      "resposta_correta": "Mocha combines coffee with chocolate flavor",
+      "explicacao": "A frase é 'Mocha combines coffee with chocolate flavor' (Mocha combina café com sabor de chocolate)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_026_audio.opus",
+      "opcoes": ["Iced frappuccino is a blended coffee drink", "Hot cappuccino is a steamed milk beverage"],
+      "resposta_correta": "Iced frappuccino is a blended coffee drink",
+      "explicacao": "A frase é 'Iced frappuccino is a blended coffee drink' (Frappuccino gelado é uma bebida de café batida)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_027_audio.opus",
+      "opcoes": ["Cold brew coffee is smooth and less acidic", "Hot drip coffee is strong and more bitter"],
+      "resposta_correta": "Cold brew coffee is smooth and less acidic",
+      "explicacao": "A frase é 'Cold brew coffee is smooth and less acidic' (Café cold brew é suave e menos ácido)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_028_audio.opus",
+      "opcoes": ["Iced coffee is regular coffee served over ice", "Hot coffee is fresh coffee served in a cup"],
+      "resposta_correta": "Iced coffee is regular coffee served over ice",
+      "explicacao": "A frase é 'Iced coffee is regular coffee served over ice' (Café gelado é café normal servido com gelo)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_029_audio.opus",
+      "opcoes": ["Instant coffee dissolves quickly in hot water", "Ground coffee brews slowly in cold water"],
+      "resposta_correta": "Instant coffee dissolves quickly in hot water",
+      "explicacao": "A frase é 'Instant coffee dissolves quickly in hot water' (Café instantâneo dissolve rapidamente em água quente)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_030_audio.opus",
+      "opcoes": ["Decaf coffee has most caffeine removed", "Regular coffee has all caffeine included"],
+      "resposta_correta": "Decaf coffee has most caffeine removed",
+      "explicacao": "A frase é 'Decaf coffee has most caffeine removed' (Café descafeinado tem a maior parte da cafeína removida)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_031_audio.opus",
+      "opcoes": ["Turkish coffee is thick and served in small cups", "Greek coffee is strong and served in large mugs"],
+      "resposta_correta": "Turkish coffee is thick and served in small cups",
+      "explicacao": "A frase é 'Turkish coffee is thick and served in small cups' (Café turco é espesso e servido em xícaras pequenas)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_032_audio.opus",
+      "opcoes": ["French press coffee steeps for four minutes", "Drip filter coffee brews for six minutes"],
+      "resposta_correta": "French press coffee steeps for four minutes",
+      "explicacao": "A frase é 'French press coffee steeps for four minutes' (Café de prensa francesa fica em infusão por quatro minutos)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_033_audio.opus",
+      "opcoes": ["Green tea is rich in antioxidants", "Black tea is high in caffeine"],
+      "resposta_correta": "Green tea is rich in antioxidants",
+      "explicacao": "A frase é 'Green tea is rich in antioxidants' (Chá verde é rico em antioxidantes)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_034_audio.opus",
+      "opcoes": ["Japanese green tea has a delicate flavor", "Chinese white tea has a subtle taste"],
+      "resposta_correta": "Japanese green tea has a delicate flavor",
+      "explicacao": "A frase é 'Japanese green tea has a delicate flavor' (Chá verde japonês tem um sabor delicado)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_035_audio.opus",
+      "opcoes": ["English breakfast is a blend of black teas", "Earl Grey is a mixture of herbal leaves"],
+      "resposta_correta": "English breakfast is a blend of black teas",
+      "explicacao": "A frase é 'English breakfast is a blend of black teas' (English breakfast é uma mistura de chás pretos)",
+      "embaralhar_opcoes": true
+    },
+    {
+      "pergunta": "Ouça e escolha a frase correta",
+      "audio_url": "https://raw.githubusercontent.com/ivanpedroc/aprendendo-json/main/audios/alimentos/bebidas/ex_bebidas_036_audio.opus",
+      "opcoes": ["White tea is the most delicate tea variety", "Green tea is the most popular tea type"],
+      "resposta_correta": "White tea is the most delicate tea variety",
+      "explicacao": "A frase é 'White tea is the most delicate tea variety' (Chá branco é a variedade de chá mais delicada)",
+      "embaralhar_opcoes": true
+    }
+  ]
+}
