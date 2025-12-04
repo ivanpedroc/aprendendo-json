@@ -1,35 +1,55 @@
 {
-  "titulo": "Teste Listening 01",
+  "titulo": "English Listening Test - Daily Life",
   "questoes": [
     {
-      "frase_oculta": "O gato está dormindo no sofá.",
+      "frase_oculta": "She works as a teacher in a high school.",
       "alternativas": [
-        "O gato está dormindo no sofá.",
-        "O cachorro está correndo no parque.",
-        "A menina está lendo um livro."
+        "She works as a doctor in a hospital.",
+        "She works as a teacher in a high school.",
+        "She works as a chef in a restaurant."
       ],
-      "resposta_correta": "O gato está dormindo no sofá.",
-      "explicacao": "A frase falada descreve o gato dormindo no sofá, por isso essa é a alternativa correta."
+      "resposta_correta": "She works as a teacher in a high school.",
+      "explicacao": "A frase é sobre a profissão e local de trabalho dela. O TTS dirá 'She works as a teacher in a high school.'"
     },
     {
-      "frase_oculta": "Hoje está chovendo muito na cidade.",
+      "frase_oculta": "I bought milk, bread, and some fresh fruit at the market.",
       "alternativas": [
-        "Hoje está chovendo muito na cidade.",
-        "O sol está brilhando forte.",
-        "As crianças estão brincando na praia."
+        "I bought coffee and a newspaper at the store.",
+        "I bought milk, bread, and some fresh fruit at the market.",
+        "I ate dinner with my family last night."
       ],
-      "resposta_correta": "Hoje está chovendo muito na cidade.",
-      "explicacao": "A frase falada menciona chuva intensa na cidade, logo essa é a resposta correta."
+      "resposta_correta": "I bought milk, bread, and some fresh fruit at the market.",
+      "explicacao": "A frase lista itens de mercearia: 'milk, bread, and some fresh fruit'."
     },
     {
-      "frase_oculta": "Maria comprou frutas no mercado.",
+      "frase_oculta": "The meeting starts exactly at ten thirty in the morning.",
       "alternativas": [
-        "Maria comprou frutas no mercado.",
-        "João está jogando futebol.",
-        "O professor está dando aula."
+        "The class starts at eight o'clock.",
+        "The meeting starts exactly at ten thirty in the morning.",
+        "The movie finishes late at night."
       ],
-      "resposta_correta": "Maria comprou frutas no mercado.",
-      "explicacao": "A frase falada fala sobre Maria comprando frutas, então essa é a alternativa correta."
+      "resposta_correta": "The meeting starts exactly at ten thirty in the morning.",
+      "explicacao": "O foco é no horário: 10:30 da manhã (ten thirty in the morning)."
+    },
+    {
+      "frase_oculta": "Could you please turn off the lights when you leave the room?",
+      "alternativas": [
+        "Could you please close the door quietly?",
+        "Could you please call me back later?",
+        "Could you please turn off the lights when you leave the room?"
+      ],
+      "resposta_correta": "Could you please turn off the lights when you leave the room?",
+      "explicacao": "Esta é uma solicitação educada para apagar as luzes ('turn off the lights') ao sair."
+    },
+    {
+      "frase_oculta": "They are planning to travel to Canada next summer for their vacation.",
+      "alternativas": [
+        "They are moving to France permanently next month.",
+        "They are planning to travel to Canada next summer for their vacation.",
+        "They decided to stay home this year."
+      ],
+      "resposta_correta": "They are planning to travel to Canada next summer for their vacation.",
+      "explicacao": "A frase descreve um plano de viagem ('travel to Canada') no próximo verão ('next summer')."
     }
   ]
 }
