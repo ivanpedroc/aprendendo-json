@@ -1,65 +1,38 @@
 {
-  "titulo": "Listening Teste 01",
+  "titulo": "Listening Practice - Everyday English",
   "questoes": [
     {
-      "pergunta": "O que você escuta?", 
-      "fraseOculta": "I love you",
-      "opcoes": [
-        "He loves you",
-        "I'm love you",
-        "I love you"
+      "frase_oculta": "I need to go to the store.",
+      "alternativas": [
+        "school",
+        "store",
+        "work",
+        "home"
       ],
-      "respostaCorreta": "I love you",
-      "explicacao": "A frase correta é 'I love you'. As outras opções estão gramaticalmente incorretas.",
-      "embaralharOpcoes": true
+      "resposta_correta": "store",
+      "explicacao": "A frase 'I need to go to the store' significa 'Eu preciso ir à loja'. O contexto é uma tarefa comum do dia a dia."
     },
     {
-      "pergunta": "O que você escuta?",
-      "fraseOculta": "She likes cats",
-      "opcoes": [
-        "She like cats",
-        "She likes cats",
-        "She liked cats"
+      "frase_oculta": "She is reading a book right now.",
+      "alternativas": [
+        "sleeping",
+        "eating",
+        "reading",
+        "writing"
       ],
-      "respostaCorreta": "She likes cats",
-      "explicacao": "O verbo 'likes' concorda com o sujeito 'She'.",
-      "embaralharOpcoes": true
+      "resposta_correta": "reading",
+      "explicacao": "O presente contínuo ('is reading') indica uma ação que está acontecendo no momento ('right now'). Significa 'Ela está lendo um livro agora mesmo'."
     },
     {
-      "pergunta": "O que você escuta?",
-      "fraseOculta": "We are learning English",
-      "opcoes": [
-        "We is learning English",
-        "We are learning English",
-        "We learning English"
+      "frase_oculta": "They finished the project yesterday.",
+      "alternativas": [
+        "tomorrow",
+        "today",
+        "yesterday",
+        "soon"
       ],
-      "respostaCorreta": "We are learning English",
-      "explicacao": "O verbo correto para 'We' no presente contínuo é 'are learning'.",
-      "embaralharOpcoes": true
-    },
-    {
-      "pergunta": "O que você escuta?",
-      "fraseOculta": "They have a car",
-      "opcoes": [
-        "They has a car",
-        "They have a car",
-        "They having a car"
-      ],
-      "respostaCorreta": "They have a car",
-      "explicacao": "O sujeito 'They' exige 'have', não 'has'.",
-      "embaralharOpcoes": true
-    },
-    {
-      "pergunta": "O que você escuta?",
-      "fraseOculta": "He is playing football",
-      "opcoes": [
-        "He playing football",
-        "He is playing football",
-        "He play football"
-      ],
-      "respostaCorreta": "He is playing football",
-      "explicacao": "No presente contínuo, usamos 'is' + verbo + ing para 'He'.",
-      "embaralharOpcoes": true
+      "resposta_correta": "yesterday",
+      "explicacao": "A palavra 'yesterday' (ontem) indica que a ação de terminar o projeto ocorreu no passado, por isso o verbo 'finished' está no passado."
     }
   ]
 }
