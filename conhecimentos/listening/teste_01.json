@@ -1,38 +1,38 @@
 {
-  "titulo": "Listening Practice - Everyday English",
+  "titulo": "Teste de Listening: Foco na Audição",
   "questoes": [
     {
-      "frase_oculta": "I need to go to the store.",
+      "frase_oculta": "Can you please pass me the salt?",
       "alternativas": [
-        "school",
+        "water",
+        "salt",
+        "sugar",
+        "pepper"
+      ],
+      "resposta_correta": "salt",
+      "explicacao": "A frase 'Can you please pass me the salt?' significa 'Você pode, por favor, me passar o sal?'."
+    },
+    {
+      "frase_oculta": "I'm going to the gym after work.",
+      "alternativas": [
         "store",
-        "work",
-        "home"
+        "cinema",
+        "gym",
+        "restaurant"
       ],
-      "resposta_correta": "store",
-      "explicacao": "A frase 'I need to go to the store' significa 'Eu preciso ir à loja'. O contexto é uma tarefa comum do dia a dia."
+      "resposta_correta": "gym",
+      "explicacao": "A frase completa é 'I'm going to the gym after work', ou seja, a pessoa irá para a academia após o trabalho."
     },
     {
-      "frase_oculta": "She is reading a book right now.",
+      "frase_oculta": "They celebrated their anniversary last month.",
       "alternativas": [
-        "sleeping",
-        "eating",
-        "reading",
-        "writing"
+        "birthday",
+        "meeting",
+        "anniversary",
+        "holiday"
       ],
-      "resposta_correta": "reading",
-      "explicacao": "O presente contínuo ('is reading') indica uma ação que está acontecendo no momento ('right now'). Significa 'Ela está lendo um livro agora mesmo'."
-    },
-    {
-      "frase_oculta": "They finished the project yesterday.",
-      "alternativas": [
-        "tomorrow",
-        "today",
-        "yesterday",
-        "soon"
-      ],
-      "resposta_correta": "yesterday",
-      "explicacao": "A palavra 'yesterday' (ontem) indica que a ação de terminar o projeto ocorreu no passado, por isso o verbo 'finished' está no passado."
+      "resposta_correta": "anniversary",
+      "explicacao": "A palavra ouvida foi 'anniversary' (aniversário de casamento/namoro), indicando a celebração mensal do casal."
     }
   ]
 }
