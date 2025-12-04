@@ -1,55 +1,38 @@
 {
-  "titulo": "English Listening Test - Daily Life",
+  "titulo": "Teste Listening Exemplo",
   "questoes": [
     {
-      "frase_oculta": "She works as a teacher in a high school.",
+      "frase_oculta": "I like to play football on Sundays",
+      "audio_url": "https://meuservidor.com/audio1.mp3",
       "alternativas": [
-        "She works as a doctor in a hospital.",
-        "She works as a teacher in a high school.",
-        "She works as a chef in a restaurant."
+        "I like to play football on Sundays",
+        "I like to play basketball on Sundays",
+        "I like to swim on Sundays"
       ],
-      "resposta_correta": "She works as a teacher in a high school.",
-      "explicacao": "A frase é sobre a profissão e local de trabalho dela. O TTS dirá 'She works as a teacher in a high school.'"
+      "resposta_correta": "I like to play football on Sundays",
+      "explicacao": "A frase correta é sobre jogar futebol, como indicado no áudio."
     },
     {
-      "frase_oculta": "I bought milk, bread, and some fresh fruit at the market.",
+      "frase_oculta": "She is reading a book in the library",
+      "audio_url": "https://meuservidor.com/audio2.mp3",
       "alternativas": [
-        "I bought coffee and a newspaper at the store.",
-        "I bought milk, bread, and some fresh fruit at the market.",
-        "I ate dinner with my family last night."
+        "She is reading a book in the library",
+        "She is reading a magazine in the library",
+        "She is writing a book in the library"
       ],
-      "resposta_correta": "I bought milk, bread, and some fresh fruit at the market.",
-      "explicacao": "A frase lista itens de mercearia: 'milk, bread, and some fresh fruit'."
+      "resposta_correta": "She is reading a book in the library",
+      "explicacao": "O áudio indica que ela está lendo um livro na biblioteca."
     },
     {
-      "frase_oculta": "The meeting starts exactly at ten thirty in the morning.",
+      "frase_oculta": "They went to the park to play football",
+      "audio_url": "https://meuservidor.com/audio3.mp3",
       "alternativas": [
-        "The class starts at eight o'clock.",
-        "The meeting starts exactly at ten thirty in the morning.",
-        "The movie finishes late at night."
+        "They went to the park to play football",
+        "They went to the park to swim",
+        "They went to the park to study"
       ],
-      "resposta_correta": "The meeting starts exactly at ten thirty in the morning.",
-      "explicacao": "O foco é no horário: 10:30 da manhã (ten thirty in the morning)."
-    },
-    {
-      "frase_oculta": "Could you please turn off the lights when you leave the room?",
-      "alternativas": [
-        "Could you please close the door quietly?",
-        "Could you please call me back later?",
-        "Could you please turn off the lights when you leave the room?"
-      ],
-      "resposta_correta": "Could you please turn off the lights when you leave the room?",
-      "explicacao": "Esta é uma solicitação educada para apagar as luzes ('turn off the lights') ao sair."
-    },
-    {
-      "frase_oculta": "They are planning to travel to Canada next summer for their vacation.",
-      "alternativas": [
-        "They are moving to France permanently next month.",
-        "They are planning to travel to Canada next summer for their vacation.",
-        "They decided to stay home this year."
-      ],
-      "resposta_correta": "They are planning to travel to Canada next summer for their vacation.",
-      "explicacao": "A frase descreve um plano de viagem ('travel to Canada') no próximo verão ('next summer')."
+      "resposta_correta": "They went to the park to play football",
+      "explicacao": "O áudio mostra que eles foram ao parque jogar futebol."
     }
   ]
 }
