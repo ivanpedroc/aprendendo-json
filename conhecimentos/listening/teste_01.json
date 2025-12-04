@@ -1,38 +1,35 @@
 {
-  "titulo": "Teste de Listening: Foco na Audição",
+  "titulo": "Teste Listening 01",
   "questoes": [
     {
-      "frase_oculta": "Can you please pass me the salt?",
+      "frase_oculta": "O gato está dormindo no sofá.",
       "alternativas": [
-        "water",
-        "salt",
-        "sugar",
-        "pepper"
+        "O gato está dormindo no sofá.",
+        "O cachorro está correndo no parque.",
+        "A menina está lendo um livro."
       ],
-      "resposta_correta": "salt",
-      "explicacao": "A frase 'Can you please pass me the salt?' significa 'Você pode, por favor, me passar o sal?'."
+      "resposta_correta": "O gato está dormindo no sofá.",
+      "explicacao": "A frase falada descreve o gato dormindo no sofá, por isso essa é a alternativa correta."
     },
     {
-      "frase_oculta": "I'm going to the gym after work.",
+      "frase_oculta": "Hoje está chovendo muito na cidade.",
       "alternativas": [
-        "store",
-        "cinema",
-        "gym",
-        "restaurant"
+        "Hoje está chovendo muito na cidade.",
+        "O sol está brilhando forte.",
+        "As crianças estão brincando na praia."
       ],
-      "resposta_correta": "gym",
-      "explicacao": "A frase completa é 'I'm going to the gym after work', ou seja, a pessoa irá para a academia após o trabalho."
+      "resposta_correta": "Hoje está chovendo muito na cidade.",
+      "explicacao": "A frase falada menciona chuva intensa na cidade, logo essa é a resposta correta."
     },
     {
-      "frase_oculta": "They celebrated their anniversary last month.",
+      "frase_oculta": "Maria comprou frutas no mercado.",
       "alternativas": [
-        "birthday",
-        "meeting",
-        "anniversary",
-        "holiday"
+        "Maria comprou frutas no mercado.",
+        "João está jogando futebol.",
+        "O professor está dando aula."
       ],
-      "resposta_correta": "anniversary",
-      "explicacao": "A palavra ouvida foi 'anniversary' (aniversário de casamento/namoro), indicando a celebração mensal do casal."
+      "resposta_correta": "Maria comprou frutas no mercado.",
+      "explicacao": "A frase falada fala sobre Maria comprando frutas, então essa é a alternativa correta."
     }
   ]
 }
