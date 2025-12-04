@@ -2,54 +2,64 @@
   "titulo": "Listening Teste 01",
   "questoes": [
     {
-      "frase_oculta": "I love you",
-      "alternativas": [
+      "pergunta": "O que você escuta?", 
+      "fraseOculta": "I love you",
+      "opcoes": [
         "He loves you",
         "I'm love you",
         "I love you"
       ],
-      "resposta_correta": "I love you",
-      "explicacao": "A frase correta é 'I love you'. As outras opções estão gramaticalmente incorretas."
+      "respostaCorreta": "I love you",
+      "explicacao": "A frase correta é 'I love you'. As outras opções estão gramaticalmente incorretas.",
+      "embaralharOpcoes": true
     },
     {
-      "frase_oculta": "She likes cats",
-      "alternativas": [
+      "pergunta": "O que você escuta?",
+      "fraseOculta": "She likes cats",
+      "opcoes": [
         "She like cats",
         "She likes cats",
         "She liked cats"
       ],
-      "resposta_correta": "She likes cats",
-      "explicacao": "O verbo 'likes' concorda com o sujeito 'She'."
+      "respostaCorreta": "She likes cats",
+      "explicacao": "O verbo 'likes' concorda com o sujeito 'She'.",
+      "embaralharOpcoes": true
     },
     {
-      "frase_oculta": "We are learning English",
-      "alternativas": [
+      "pergunta": "O que você escuta?",
+      "fraseOculta": "We are learning English",
+      "opcoes": [
         "We is learning English",
         "We are learning English",
         "We learning English"
       ],
-      "resposta_correta": "We are learning English",
-      "explicacao": "O verbo correto para 'We' no presente contínuo é 'are learning'."
+      "respostaCorreta": "We are learning English",
+      "explicacao": "O verbo correto para 'We' no presente contínuo é 'are learning'.",
+      "embaralharOpcoes": true
     },
     {
-      "frase_oculta": "They have a car",
-      "alternativas": [
+      "pergunta": "O que você escuta?",
+      "fraseOculta": "They have a car",
+      "opcoes": [
         "They has a car",
         "They have a car",
         "They having a car"
       ],
-      "resposta_correta": "They have a car",
-      "explicacao": "O sujeito 'They' exige 'have', não 'has'."
+      "respostaCorreta": "They have a car",
+      "explicacao": "O sujeito 'They' exige 'have', não 'has'.",
+      "embaralharOpcoes": true
     },
     {
-      "frase_oculta": "He is playing football",
-      "alternativas": [
+      "pergunta": "O que você escuta?",
+      "fraseOculta": "He is playing football",
+      "opcoes": [
         "He playing football",
         "He is playing football",
         "He play football"
       ],
-      "resposta_correta": "He is playing football",
-      "explicacao": "No presente contínuo, usamos 'is' + verbo + ing para 'He'."
+      "respostaCorreta": "He is playing football",
+      "explicacao": "No presente contínuo, usamos 'is' + verbo + ing para 'He'.",
+      "embaralharOpcoes": true
     }
   ]
 }
