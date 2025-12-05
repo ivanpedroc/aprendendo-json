@@ -1,38 +1,62 @@
 {
-  "titulo": "Teste Listening Exemplo",
+  "titulo": "Listening Test - Modelo com ID",
+  "frases": {
+    "f1": "I usually drink coffee in the morning",
+    "f2": "They are studying for the math test",
+    "f3": "My brother works at the hospital",
+    "f4": "We travelled to Canada last year",
+    "f5": "She bought a new cellphone yesterday"
+  },
   "questoes": [
     {
-      "frase_oculta": "I like to play football on Sundays",
-      "audio_url": "https://meuservidor.com/audio1.mp3",
+      "frase_id": "f1",
       "alternativas": [
-        "I like to play football on Sundays",
-        "I like to play basketball on Sundays",
-        "I like to swim on Sundays"
+        "I usually drink coffee in the morning",
+        "I usually drink tea in the morning",
+        "I always drink water in the morning"
       ],
-      "resposta_correta": "I like to play football on Sundays",
-      "explicacao": "A frase correta é sobre jogar futebol, como indicado no áudio."
+      "resposta_correta": "I usually drink coffee in the morning",
+      "explicacao": "A correta menciona coffee."
     },
     {
-      "frase_oculta": "She is reading a book in the library",
-      "audio_url": "https://meuservidor.com/audio2.mp3",
+      "frase_id": "f2",
       "alternativas": [
-        "She is reading a book in the library",
-        "She is reading a magazine in the library",
-        "She is writing a book in the library"
+        "They are studying for the math test",
+        "They are studying for the English test",
+        "They are studying history at school"
       ],
-      "resposta_correta": "She is reading a book in the library",
-      "explicacao": "O áudio indica que ela está lendo um livro na biblioteca."
+      "resposta_correta": "They are studying for the math test",
+      "explicacao": "A frase fala sobre estudar para prova de matemática."
     },
     {
-      "frase_oculta": "They went to the park to play football",
-      "audio_url": "https://meuservidor.com/audio3.mp3",
+      "frase_id": "f3",
       "alternativas": [
-        "They went to the park to play football",
-        "They went to the park to swim",
-        "They went to the park to study"
+        "My brother works at the hospital",
+        "My brother works at the supermarket",
+        "My brother studies at the university"
       ],
-      "resposta_correta": "They went to the park to play football",
-      "explicacao": "O áudio mostra que eles foram ao parque jogar futebol."
+      "resposta_correta": "My brother works at the hospital",
+      "explicacao": "A correta é o local hospital."
+    },
+    {
+      "frase_id": "f4",
+      "alternativas": [
+        "We travelled to Canada last year",
+        "We travelled to Mexico last year",
+        "We travelled to Europe last year"
+      ],
+      "resposta_correta": "We travelled to Canada last year",
+      "explicacao": "A frase referência Canadá."
+    },
+    {
+      "frase_id": "f5",
+      "alternativas": [
+        "She bought a new cellphone yesterday",
+        "She lost her cellphone yesterday",
+        "She found an old cellphone yesterday"
+      ],
+      "resposta_correta": "She bought a new cellphone yesterday",
+      "explicacao": "A resposta correta indica que ela comprou."
     }
   ]
 }
