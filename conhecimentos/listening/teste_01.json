@@ -1,62 +1,28 @@
 {
-  "titulo": "Listening Test - Modelo com ID",
-  "frases": {
-    "f1": "I usually drink coffee in the morning",
-    "f2": "They are studying for the math test",
-    "f3": "My brother works at the hospital",
-    "f4": "We travelled to Canada last year",
-    "f5": "She bought a new cellphone yesterday"
-  },
-  "questoes": [
+  "perguntas": [
     {
-      "frase_id": "f1",
-      "alternativas": [
-        "I usually drink coffee in the morning",
-        "I usually drink tea in the morning",
-        "I always drink water in the morning"
+      "frases": [
+        "I am going to the park.",
+        "She is reading a book.",
+        "They are playing football."
       ],
-      "resposta_correta": "I usually drink coffee in the morning",
-      "explicacao": "A correta menciona coffee."
+      "correta": 1
     },
     {
-      "frase_id": "f2",
-      "alternativas": [
-        "They are studying for the math test",
-        "They are studying for the English test",
-        "They are studying history at school"
+      "frases": [
+        "The cat is sleeping.",
+        "We are cooking dinner.",
+        "He is watching TV."
       ],
-      "resposta_correta": "They are studying for the math test",
-      "explicacao": "A frase fala sobre estudar para prova de matemática."
+      "correta": 2
     },
     {
-      "frase_id": "f3",
-      "alternativas": [
-        "My brother works at the hospital",
-        "My brother works at the supermarket",
-        "My brother studies at the university"
+      "frases": [
+        "It is raining outside.",
+        "I like to drink coffee.",
+        "We are studying English."
       ],
-      "resposta_correta": "My brother works at the hospital",
-      "explicacao": "A correta é o local hospital."
-    },
-    {
-      "frase_id": "f4",
-      "alternativas": [
-        "We travelled to Canada last year",
-        "We travelled to Mexico last year",
-        "We travelled to Europe last year"
-      ],
-      "resposta_correta": "We travelled to Canada last year",
-      "explicacao": "A frase referência Canadá."
-    },
-    {
-      "frase_id": "f5",
-      "alternativas": [
-        "She bought a new cellphone yesterday",
-        "She lost her cellphone yesterday",
-        "She found an old cellphone yesterday"
-      ],
-      "resposta_correta": "She bought a new cellphone yesterday",
-      "explicacao": "A resposta correta indica que ela comprou."
+      "correta": 0
     }
   ]
 }
